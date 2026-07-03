@@ -36,7 +36,7 @@ const STR = {
     savedLabel: "Guardadas",
     savedInfo: " guardadas",
     saveTip: "Guardar oferta",
-    more: (n) => `Ver más ofertas (${n})`,
+    more: "Ver más ofertas",
     emptyTitle: "Nada por aquí…",
     emptySub: "No hay ofertas que encajen con tu búsqueda ahora mismo. Prueba otra categoría o vuelve en un rato: entran ofertas nuevas durante todo el día.",
     emptySavedTitle: "No tienes ofertas guardadas",
@@ -73,7 +73,7 @@ const STR = {
     savedLabel: "Saved",
     savedInfo: " saved",
     saveTip: "Save deal",
-    more: (n) => `Show more deals (${n})`,
+    more: "Show more deals",
     emptyTitle: "Nothing here…",
     emptySub: "No deals match your search right now. Try another category or check back soon — new deals come in all day.",
     emptySavedTitle: "No saved deals yet",
@@ -406,7 +406,7 @@ function render() {
   document.getElementById("grid").innerHTML = visibles.map(card).join("");
   const restantes = list.length - visibles.length;
   document.getElementById("more-wrap").hidden = restantes <= 0;
-  if (restantes > 0) document.getElementById("more-btn").textContent = t().more(restantes);
+  if (restantes > 0) document.getElementById("more-btn").textContent = t().more;
 
   const empty = document.getElementById("empty");
   empty.hidden = list.length > 0;
