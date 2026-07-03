@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:camelcamelcamel.com)",
+      "Bash(curl -s -o /dev/null -w 'HTTP_CODE: %{http_code}\\\\nSIZE: %{size_download} bytes\\\\n' -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/126.0.0.0 Safari/537.36' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' -H 'Accept-Language: en-US,en;q=0.9' --max-time 25 https://camelcamelcamel.com/top_drops)",
+      "Bash(curl -s -D - -o /dev/null -w 'FINAL_HTTP: %{http_code}\\\\n' -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/126.0.0.0 Safari/537.36' --max-time 25 https://camelcamelcamel.com/)",
+      "Bash(curl -sL -o /dev/null -w 'HTTP: %{http_code} | SIZE: %{size_download} bytes\\\\n' -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/126.0.0.0 Safari/537.36' --max-time 25 https://feeds.feedburner.com/SlickdealsnetFP)",
+      "Bash(curl -sL -o /dev/null -w 'HTTP: %{http_code} | SIZE: %{size_download} bytes\\\\n' -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/126.0.0.0 Safari/537.36' --max-time 25 'https://slickdeals.net/newsearch.php?mode=frontpage&searchin=first&rss=1')",
+      "Bash(curl -sL -o /dev/null -w 'HTTP: %{http_code} | SIZE: %{size_download} bytes\\\\n' -A 'ChollosBot/0.1 \\(validation test\\)' --max-time 25 https://www.reddit.com/r/buildapcsales/new/.rss)",
+      "Bash(curl -sL -o /dev/null -w 'HTTP: %{http_code} | SIZE: %{size_download} bytes\\\\n' -A 'ChollosBot/0.1 \\(validation test\\)' --max-time 25 https://www.reddit.com/r/Deals/new/.rss)",
+      "Bash(curl -sL -A 'Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/126.0.0.0 Safari/537.36' --max-time 25 'https://slickdeals.net/newsearch.php?mode=frontpage&searchin=first&rss=1' -o /c/Users/Usuario/AppData/Local/Temp/claude/C--Mega-proyecto/48440da7-40b4-40ee-8c36-ff391f556751/scratchpad/slickdeals.xml)",
+      "Read(//c/Users/Usuario/AppData/Local/Temp/claude/C--Mega-proyecto/48440da7-40b4-40ee-8c36-ff391f556751/scratchpad/**)",
+      "Bash(ls /c/Python*)",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Users/Usuario/AppData/Local/Programs/**)",
+      "PowerShell(winget install --id Python.Python.3.12 -e --silent --accept-source-agreements --accept-package-agreements --scope user)",
+      "Skill(fewer-permission-prompts)",
+      "Skill(fewer-permission-prompts:*)",
+      "PowerShell(& \"C:\\\\Mega proyecto\\\\.venv\\\\Scripts\\\\python.exe\" \"C:\\\\Users\\\\Usuario\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Mega-proyecto\\\\48440da7-40b4-40ee-8c36-ff391f556751\\\\scratchpad\\\\clean_titles.py\")"
+    ]
+  }
+}

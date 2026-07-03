@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "nito-web",
+      "runtimeExecutable": "C:\\Mega proyecto\\.venv\\Scripts\\python.exe",
+      "runtimeArgs": ["-m", "http.server", "8000", "--directory", "C:\\Mega proyecto\\web"],
+      "port": 8000
+    }
+  ]
+}

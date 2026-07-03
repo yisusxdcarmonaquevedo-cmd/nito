@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nito · Ofertas de Amazon verificadas</title>
+  <meta name="description" content="Ofertas y chollos de Amazon verificados y actualizados durante todo el día. Ahorra hasta un 70% en tecnología, hogar, deporte, moda y más.">
+  <link rel="stylesheet" href="styles.css?v=11">
+  <link rel="icon" type="image/png" href="logo.png?v=1">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="/" aria-label="Nito, inicio">
+        <img src="logo.png?v=1" alt="" width="42" height="42" class="brand-logo">
+        <span class="brand-name">Nito</span>
+      </a>
+      <div class="searchbox">
+        <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="M20 20 L16.5 16.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input id="search" type="text" inputmode="search" placeholder="Buscar ofertas…" autocomplete="off" aria-label="Buscar ofertas">
+        <button id="clear-search" aria-label="Borrar búsqueda" hidden>&times;</button>
+      </div>
+      <button id="theme-toggle" class="themebox" aria-label="Modo oscuro"></button>
+      <button id="saved-btn" class="savedbox" aria-pressed="false">
+        <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 20.5 C7 16 3.5 12.8 3.5 9.2 A4.7 4.7 0 0 1 12 6.6 A4.7 4.7 0 0 1 20.5 9.2 C20.5 12.8 17 16 12 20.5 Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+        <span id="saved-label">Guardadas</span>
+        <span class="saved-count" id="saved-count" hidden>0</span>
+      </button>
+      <div class="langbox" role="group" aria-label="Idioma">
+        <button data-lang="es">ES</button><button data-lang="en">EN</button>
+      </div>
+      <div class="region" id="region-label" title="Tienda de origen">Amazon EE.UU.</div>
+    </div>
+  </header>
+
+  <section class="hero-banner wrap" id="hero-banner" hidden>
+    <div class="hb-viewport">
+      <div class="hb-track" id="hb-track"></div>
+    </div>
+    <button class="hb-arrow hb-prev" id="hb-prev" aria-label="Anterior">&#8249;</button>
+    <button class="hb-arrow hb-next" id="hb-next" aria-label="Siguiente">&#8250;</button>
+    <div class="hb-dots" id="hb-dots"></div>
+  </section>
+
+  <nav class="filterbar" aria-label="Categorías">
+    <div class="wrap filters" id="filters"></div>
+  </nav>
+
+  <div class="wrap toolbar">
+    <p class="result-info" id="result-info"></p>
+    <label class="sortbox"><span id="sort-label">Ordenar</span>
+      <select id="sort" aria-label="Ordenar ofertas"></select>
+    </label>
+  </div>
+
+  <main class="wrap main">
+    <div id="grid" class="grid"></div>
+    <div id="empty" class="empty" hidden>
+      <p class="empty-title" id="empty-title"></p>
+      <p class="empty-sub" id="empty-sub"></p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div class="footer-col footer-brand">
+        <div class="footer-logo">
+          <img src="logo_dark.png?v=1" alt="" width="30" height="30">
+          <span>Nito</span>
+        </div>
+        <p id="footer-blurb"></p>
+      </div>
+      <div class="footer-col">
+        <h4 id="footer-cats-title"></h4>
+        <ul id="footer-cats"></ul>
+      </div>
+      <div class="footer-col">
+        <h4>Nito</h4>
+        <ul>
+          <li><a href="#" data-info="como" id="link-como"></a></li>
+          <li><a href="#" data-info="afiliados" id="link-afiliados"></a></li>
+          <li><a href="mailto:hola@nito.deals" id="link-contacto"></a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-legal">
+      <div class="wrap legal-inner">
+        <span>© <span id="year"></span> Nito · <span id="updated-label"></span> <span id="gen-time"></span></span>
+        <span class="legal-fine" id="legal-line"></span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js?v=9"></script>
+</body>
+</html>

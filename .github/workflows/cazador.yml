@@ -1,0 +1,42 @@
+name: Cazador de chollos Nito
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # cada 15 minutos (UTC; puede tener algo de retraso)
+  workflow_dispatch:          # botón para lanzarlo a mano desde GitHub
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  cazar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Crear config/.env desde los Secrets
+        run: |
+          echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" > config/.env
+          echo "GEMINI_MODEL=gemini-2.5-flash" >> config/.env
+
+      - name: Ejecutar el pipeline
+        run: python main.py
+
+      - name: Publicar cambios (feed + estado)
+        run: |
+          git config user.name "nito-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add web/ data/
+          git diff --staged --quiet || git commit -m "chollos: actualización automática"
+          git push

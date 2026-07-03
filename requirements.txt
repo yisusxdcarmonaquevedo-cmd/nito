@@ -1,0 +1,5 @@
+# Dependencias del Cazador de Chollos (todas gratuitas, sin APIs de pago)
+feedparser>=6.0      # parseo de feeds RSS/Atom
+httpx>=0.27          # cliente HTTP con control de cabeceras y reintentos
+PyYAML>=6.0          # lectura de la configuración (config/*.yaml)
+python-dotenv>=1.0   # carga de secretos desde config/.env (API keys)

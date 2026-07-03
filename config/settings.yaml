@@ -1,0 +1,46 @@
+# Configuración del Cazador de Chollos.
+# Multi-mercado desde el día 1: añadir una región = añadir un bloque aquí,
+# sin tocar el código del pipeline.
+
+markets:
+  us:
+    amazon_domain: "amazon.com"
+    affiliate_tag: "TUTAG-20"        # <-- pega aquí tu Tracking ID de Amazon Associates US
+    currency: "USD"
+    sources:
+      - type: "slickdeals"
+        feeds:
+          - "https://slickdeals.net/newsearch.php?mode=frontpage&searchin=first&rss=1"
+          - "https://feeds.feedburner.com/SlickdealsnetFP"
+          - "https://slickdeals.net/newsearch.php?mode=popdeals&searchin=first&rss=1"
+      # En el futuro: subs de Reddit (r/buildapcsales, r/deals, ...)
+
+  es:                                  # Fase 2 (todavía sin adaptador propio)
+    amazon_domain: "amazon.es"
+    affiliate_tag: "TUTAG-21"
+    currency: "EUR"
+    sources:
+      - type: "reddit"                 # adaptador pendiente (Fase 2)
+        feeds:
+          - "https://www.reddit.com/r/chollos/new/.rss"
+
+# Reglas del filtro estático (Paso 2).
+filters:
+  min_discount_pct: 30
+  min_rating: 4.0
+  max_deals_per_day: 80              # tope para no agotar la cuota de Gemini
+  # Modo bootstrap (hasta tener PA-API): si Amazon no responde, la oferta pasa
+  # igualmente amparada en la curación de la portada de Slickdeals (comunidad).
+  # Se muestra sin estrellas y con la imagen de Slickdeals. Poner en false para
+  # exigir siempre verificación de Amazon.
+  community_fallback: true
+
+# Cerebro (Gemini). El modelo y la clave van en config/.env
+# OJO: el límite gratis REAL medido (2026-07) es 20 peticiones/día para 2.5-flash.
+# Cuando se agota, el pipeline publica en "modo degradado" (sin descripción) las
+# ofertas ya clasificadas en nicho; las descripciones se rellenan al día siguiente.
+gemini:
+  daily_limit: 18                    # margen bajo el límite real (20/día)
+  rpm: 5                             # peticiones por minuto (plan gratis)
+  max_per_run: 6                     # tope de LLAMADAS por ejecución (cada 15 min)
+  batch_size: 8                      # ofertas por llamada (18 llamadas x 8 = ~144 ofertas/día)

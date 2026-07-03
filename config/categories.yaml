@@ -1,0 +1,37 @@
+# Taxonomía de la web (6 categorías / subcategorías) y palabras clave para
+# clasificar cada oferta. La clasificación fina la afinará Gemini más adelante;
+# estas keywords sirven como primer intento barato (sin gastar cuota de IA).
+
+categorias:
+  tecnologia:
+    nombre: "Tecnología y Gadgets"
+    keywords: [smartphone, iphone, android, charger, charging, cable, power bank,
+               laptop, notebook, tablet, ipad, ssd, hdd, gpu, cpu, ram, memory,
+               headphone, earbud, airpods, speaker, soundbar, bluetooth, console,
+               playstation, xbox, nintendo, gamepad, controller, smartwatch, monitor,
+               keyboard, mouse, webcam, router, usb, hub, drone]
+  hogar_cocina:
+    nombre: "Hogar y Cocina"
+    keywords: [air fryer, coffee, espresso, blender, kitchen, cookware, pan, pot,
+               knife, shelf, storage, organizer, drill, saw, blade, tool, wrench,
+               screwdriver, led, bulb, light, lamp, smart bulb, security camera,
+               vacuum, mop, robot vacuum, bedding, mattress, towel, furniture, desk]
+  deporte_fitness:
+    nombre: "Deporte y Fitness"
+    keywords: [dumbbell, barbell, weight, kettlebell, resistance band, yoga, mat,
+               treadmill, running, thermal, bike, bicycle, cycling, helmet, camping,
+               tent, flashlight, hiking, fitness, workout, gym]
+  salud_belleza:
+    nombre: "Salud, Belleza y Cuidado Personal"
+    keywords: [skin, skincare, face, acne, wash, cleanser, serum, cream, lotion,
+               hair, shampoo, straightener, dryer, shaver, razor, trimmer, makeup,
+               protein, creatine, collagen, toothbrush, massager, vitamin, supplement]
+  moda:
+    nombre: "Moda y Accesorios"
+    keywords: [wallet, watch, jewelry, ring, necklace, bracelet, luggage, suitcase,
+               backpack, bag, purse, sunglasses, glasses, shoes, sneakers, boots,
+               sandals, jacket, coat, pajama, lounge, hoodie, apparel]
+  entretenimiento_oficina:
+    nombre: "Entretenimiento y Oficina"
+    keywords: [toy, lego, board game, puzzle, book, stationery, pen, notebook,
+               planner, chair, printer, ink, car mount, dash cam, air compressor]

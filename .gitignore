@@ -1,0 +1,11 @@
+# Entorno y dependencias
+.venv/
+__pycache__/
+*.pyc
+
+# Secretos — NUNCA subir (la clave va como Secret de GitHub Actions)
+config/.env
+.env
+
+# data/ SÍ se versiona: la BD SQLite guarda el estado del pipeline
+# (dedupe, cuota diaria de Gemini, caché de ratings) entre ejecuciones en la nube.
