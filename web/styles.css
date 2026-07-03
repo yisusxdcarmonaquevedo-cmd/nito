@@ -108,6 +108,9 @@ body{
 /* ---------- Grid ---------- */
 .main{padding:16px 16px 44px}
 .grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:18px}
+.more-wrap{display:flex; justify-content:center; padding:24px 0 6px}
+.more-btn{background:var(--card); color:var(--teal-d); border:1px solid var(--line); border-radius:22px; padding:12px 28px; font-size:14px; font-weight:600; cursor:pointer; font-family:inherit; transition:all .12s}
+.more-btn:hover{border-color:var(--teal); color:var(--teal)}
 .empty{text-align:center; padding:56px 16px}
 .empty-title{margin:0 0 6px; font-size:18px; font-weight:700; color:var(--teal-d)}
 .empty-sub{margin:0 auto; font-size:14px; color:var(--muted); max-width:420px}

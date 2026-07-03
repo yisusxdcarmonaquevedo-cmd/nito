@@ -36,6 +36,7 @@ const STR = {
     savedLabel: "Guardadas",
     savedInfo: " guardadas",
     saveTip: "Guardar oferta",
+    more: (n) => `Ver más ofertas (${n})`,
     emptyTitle: "Nada por aquí…",
     emptySub: "No hay ofertas que encajen con tu búsqueda ahora mismo. Prueba otra categoría o vuelve en un rato: entran ofertas nuevas durante todo el día.",
     emptySavedTitle: "No tienes ofertas guardadas",
@@ -72,6 +73,7 @@ const STR = {
     savedLabel: "Saved",
     savedInfo: " saved",
     saveTip: "Save deal",
+    more: (n) => `Show more deals (${n})`,
     emptyTitle: "Nothing here…",
     emptySub: "No deals match your search right now. Try another category or check back soon — new deals come in all day.",
     emptySavedTitle: "No saved deals yet",
@@ -103,6 +105,8 @@ let active = "__all__";
 let query = "";
 let sortBy = "recent";
 let savedMode = false;
+const PAGE_SIZE = 12;          // tarjetas por tanda (botón "Ver más")
+let visibleCount = PAGE_SIZE;
 let saved = new Set(JSON.parse(localStorage.getItem("nito-saved") || "[]"));
 let lang = localStorage.getItem("nito-lang") || ((navigator.language || "en").toLowerCase().startsWith("es") ? "es" : "en");
 let theme = localStorage.getItem("nito-theme") ||
@@ -143,6 +147,7 @@ fetch(`deals_${MARKET}.json`, { cache: "no-store" })
     initSort();
     initSaved();
     initBanner();
+    initMore();
     initFooterEvents();
     applyLang();
   })
@@ -167,6 +172,7 @@ function initSaved() {
     const btn = document.getElementById("saved-btn");
     btn.classList.toggle("active", savedMode);
     btn.setAttribute("aria-pressed", String(savedMode));
+    visibleCount = PAGE_SIZE;
     render();
   });
   document.getElementById("grid").addEventListener("click", (e) => {
@@ -331,6 +337,7 @@ function selectCat(cat) {
   document.querySelectorAll(".chip").forEach((x) => x.classList.toggle("active", x.dataset.cat === cat));
   const inp = document.getElementById("search");
   inp.placeholder = cat === "__all__" ? t().searchPh : t().searchPhIn(catLabel(cat));
+  visibleCount = PAGE_SIZE;
   render();
 }
 
@@ -341,6 +348,7 @@ function initSearch() {
   inp.addEventListener("input", () => {
     query = inp.value.trim();
     clr.hidden = query === "";
+    visibleCount = PAGE_SIZE;
     render();
   });
   clr.addEventListener("click", () => {
@@ -348,6 +356,7 @@ function initSearch() {
     query = "";
     clr.hidden = true;
     inp.focus();
+    visibleCount = PAGE_SIZE;
     render();
   });
 }
@@ -360,6 +369,15 @@ function norm(s) {
 function initSort() {
   document.getElementById("sort").addEventListener("change", (e) => {
     sortBy = e.target.value;
+    visibleCount = PAGE_SIZE;
+    render();
+  });
+}
+
+/* ---------- botón "Ver más" (carga por tandas, no todo de golpe) ---------- */
+function initMore() {
+  document.getElementById("more-btn").addEventListener("click", () => {
+    visibleCount += PAGE_SIZE;
     render();
   });
 }
@@ -383,7 +401,12 @@ function render() {
   }
   list = sorted(list);
 
-  document.getElementById("grid").innerHTML = list.map(card).join("");
+  // Solo se pintan las primeras `visibleCount`; el resto sale con "Ver más".
+  const visibles = list.slice(0, visibleCount);
+  document.getElementById("grid").innerHTML = visibles.map(card).join("");
+  const restantes = list.length - visibles.length;
+  document.getElementById("more-wrap").hidden = restantes <= 0;
+  if (restantes > 0) document.getElementById("more-btn").textContent = t().more(restantes);
 
   const empty = document.getElementById("empty");
   empty.hidden = list.length > 0;
