@@ -5,7 +5,7 @@
 markets:
   us:
     amazon_domain: "amazon.com"
-    affiliate_tag: "TUTAG-20"        # <-- pega aquí tu Tracking ID de Amazon Associates US
+    affiliate_tag: "amazon0b5e30-20"        # <-- pega aquí tu Tracking ID de Amazon Associates US
     currency: "USD"
     sources:
       - type: "slickdeals"
