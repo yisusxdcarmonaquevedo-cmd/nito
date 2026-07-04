@@ -83,15 +83,13 @@ body{
 .filterbar{background:var(--card); border-bottom:1px solid var(--line); position:sticky; top:62px; z-index:9}
 .filters{display:flex; flex-wrap:wrap; gap:8px; padding:11px 16px}
 .chip{
-  flex:0 0 auto; display:flex; align-items:center; gap:6px;
+  flex:0 0 auto; display:flex; align-items:center;
   background:var(--card); color:var(--teal-d); border:1px solid var(--line);
-  font-size:13px; padding:6px 14px; border-radius:20px; cursor:pointer; white-space:nowrap;
+  font-size:12.5px; padding:6px 12px; border-radius:20px; cursor:pointer; white-space:nowrap;
   transition:all .12s; font-family:inherit;
 }
 .chip:hover{border-color:var(--teal)}
 .chip.active{background:var(--teal); color:#fff; border-color:var(--teal)}
-.chip .n{font-size:11px; background:var(--tint); color:var(--teal-d); border-radius:10px; padding:1px 7px}
-.chip.active .n{background:rgba(255,255,255,.22); color:#fff}
 
 /* ---------- Toolbar ---------- */
 .toolbar{display:flex; align-items:center; justify-content:space-between; gap:10px; padding:16px 16px 0}
@@ -202,6 +200,5 @@ body.dark .region{background:var(--tint)}
 body.dark .save-btn{background:rgba(21,38,49,.92); border-color:#26404d}
 body.dark .hb-arrow{background:rgba(21,38,49,.85); color:#cfe2ea}
 body.dark .chip.active{color:#0d1a22}
-body.dark .chip.active .n{background:rgba(13,26,34,.25); color:#0d1a22}
 body.dark .deal:hover{box-shadow:0 6px 20px rgba(0,0,0,.4)}
 body.dark #clear-search{background:#26404d; color:#bcd9e6}

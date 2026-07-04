@@ -320,11 +320,7 @@ function initFilters() {
   const nav = document.getElementById("filters");
   const cats = ["__all__", ...CATS];
   nav.innerHTML = cats
-    .map((c) => {
-      const n = c === "__all__" ? ALL.length : ALL.filter((d) => d.category === c).length;
-      const badge = n > 0 ? `<span class="n">${n}</span>` : "";
-      return `<button class="chip${c === active ? " active" : ""}" data-cat="${esc(c)}">${esc(catLabel(c))}${badge}</button>`;
-    })
+    .map((c) => `<button class="chip${c === active ? " active" : ""}" data-cat="${esc(c)}">${esc(catLabel(c))}</button>`)
     .join("");
   nav.onclick = (e) => {
     const b = e.target.closest(".chip");
