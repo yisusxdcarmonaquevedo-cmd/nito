@@ -16,5 +16,6 @@ config/.env
 # Archivos temporales de wrangler (Cloudflare)
 .wrangler/
 
-# Token temporal de Cloudflare (se borra tras usarlo)
+# Tokens temporales (se borran tras usarlos)
 cf_token.txt
+gh_token.txt

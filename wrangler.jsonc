@@ -1,9 +1,16 @@
 {
-  // Configuración de despliegue en Cloudflare (Workers con assets estáticos).
-  // La web vive en /web y se sirve tal cual, sin build.
+  // Configuración de despliegue en Cloudflare.
+  // - La web estática vive en /web y se sirve tal cual.
+  // - worker/index.js es el "despertador": su cron dispara el pipeline de GitHub
+  //   cada 15 min (los crons de GitHub no arrancan en cuentas nuevas).
   "name": "nito",
   "compatibility_date": "2026-07-04",
+  "main": "worker/index.js",
   "assets": {
-    "directory": "web"
+    "directory": "web",
+    "binding": "ASSETS"
+  },
+  "triggers": {
+    "crons": ["*/15 * * * *"]
   }
 }
