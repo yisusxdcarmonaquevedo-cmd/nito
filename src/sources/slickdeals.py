@@ -13,6 +13,7 @@ from typing import List, Optional, Tuple
 
 import feedparser
 
+from ..conditions import ACCOUNT, detect_condition
 from ..models import Deal
 from .base import ProductDataSource
 
@@ -66,6 +67,11 @@ class SlickdealsSource(ProductDataSource):
         if not self._is_amazon(link, body):
             return None
 
+        # Condición del precio. Las de cuenta concreta / YMMV se descartan.
+        condition = detect_condition(title, body)
+        if condition == ACCOUNT:
+            return None
+
         asin = self._extract_asin(link, body)
         price_new, price_old = self._extract_prices(title)
 
@@ -80,6 +86,7 @@ class SlickdealsSource(ProductDataSource):
             price_new=price_new,
             price_old=price_old,
             currency=self.currency,
+            condition=condition,
             source=self.name,
             market=self.market,
             deal_url=link,
@@ -129,8 +136,9 @@ class SlickdealsSource(ProductDataSource):
 
     @staticmethod
     def _clean_title(title: str) -> str:
-        """Deja solo el nombre del producto: quita precios al inicio y al final."""
-        t = re.sub(r"^\s*\$[0-9.,]+\s*[|\-–:]\s*", "", title)   # "$0.99 | Producto"
+        """Deja solo el nombre del producto: quita prefijos de condición y precios."""
+        t = re.sub(r"^\s*prime members?:?\s*", "", title, flags=re.IGNORECASE)  # "Prime Members: ..."
+        t = re.sub(r"^\s*\$[0-9.,]+\s*[|\-–:]\s*", "", t)       # "$0.99 | Producto"
         t = re.split(r"\s+\$[0-9]", t)[0].strip()               # "Producto $9.99 ..."
         return t or title
 

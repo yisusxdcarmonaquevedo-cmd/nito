@@ -28,6 +28,9 @@ class Deal:
     # --- Calidad (se rellena en la verificación de última mano) ---
     rating: Optional[float] = None      # estrellas de Amazon (0-5)
 
+    # --- Condición del precio (Prime/cupón/código/S&S) ---
+    condition: Optional[str] = None     # None si el precio es "limpio"
+
     # --- Clasificación / origen ---
     category: Optional[str] = None      # categoría de la web (se asigna después)
     source: str = "unknown"             # "slickdeals", "reddit"...

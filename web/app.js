@@ -13,6 +13,10 @@ const CATS = [
   "Moda y Accesorios",
   "Entretenimiento y Oficina",
 ];
+const COND = {
+  es: { prime: "Con Prime", coupon: "Con cupón", code: "Con código", sns: "Suscríbete y ahorra" },
+  en: { prime: "Prime only", coupon: "With coupon", code: "With code", sns: "Subscribe & Save" },
+};
 const CAT_EN = {
   "Tecnología y Gadgets": "Tech & Gadgets",
   "Hogar y Cocina": "Home & Kitchen",
@@ -272,9 +276,11 @@ function buildBanner() {
   sec.hidden = false;
   document.getElementById("hb-track").innerHTML = top.map((d) => {
     const post = lang === "en" ? d.post_en || d.post : d.post || d.post_en;
+    const cTxt = d.condition && COND[lang][d.condition];
+    const cbadge = cTxt ? `<span class="hb-cond">${esc(cTxt)}</span>` : "";
     return `<div class="hb-slide">
       <div class="hb-text">
-        <span class="hb-badge">-${Math.round(d.discount_pct || 0)}%</span>
+        <span class="hb-badge">-${Math.round(d.discount_pct || 0)}%</span>${cbadge}
         <h2>${esc(dispTitle(d))}</h2>
         <p>${esc(post || "")}</p>
         <a class="hb-cta" href="${esc(d.url)}" target="_blank" rel="nofollow sponsored noopener">${t().cta}</a>
@@ -434,6 +440,8 @@ function card(d) {
     ? `<img src="${esc(d.image)}" alt="${esc(dispTitle(d))}" loading="lazy" onerror="this.style.display='none'">`
     : "";
   const ver = d.revalidated_at ? `<p class="verified">${t().verified} ${fmtTime(d.revalidated_at)}</p>` : "";
+  const condTxt = d.condition && COND[lang][d.condition];
+  const cond = condTxt ? `<span class="cond">${esc(condTxt)}</span>` : "";
   const post = lang === "en" ? d.post_en || d.post : d.post || d.post_en;
   const corazon = `<button class="save-btn${saved.has(d.asin) ? " on" : ""}" data-asin="${esc(d.asin)}" aria-label="${t().saveTip}" title="${t().saveTip}">
       <svg viewBox="0 0 24 24" fill="none"><path d="M12 20.5 C7 16 3.5 12.8 3.5 9.2 A4.7 4.7 0 0 1 12 6.6 A4.7 4.7 0 0 1 20.5 9.2 C20.5 12.8 17 16 12 20.5 Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
@@ -445,6 +453,7 @@ function card(d) {
       <h3 class="deal-title">${esc(dispTitle(d))}</h3>
       ${post ? `<p class="deal-post">${esc(post)}</p>` : ""}
       <div class="price-row">${price}${old}${save}${rate}</div>
+      ${cond}
       <a class="cta" href="${esc(d.url)}" target="_blank" rel="nofollow sponsored noopener">${t().cta}</a>
       ${ver}
       <p class="disclaimer">${t().disclaimer}</p>
