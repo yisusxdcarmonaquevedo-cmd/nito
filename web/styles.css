@@ -81,7 +81,7 @@ body{
 
 /* ---------- Filtros ---------- */
 .filterbar{background:var(--card); border-bottom:1px solid var(--line); position:sticky; top:62px; z-index:9}
-.filters{display:flex; flex-wrap:wrap; gap:8px; padding:11px 16px}
+.filters{display:flex; flex-wrap:wrap; justify-content:center; gap:8px; padding:11px 16px}
 .chip{
   flex:0 0 auto; display:flex; align-items:center;
   background:var(--card); color:var(--teal-d); border:1px solid var(--line);
