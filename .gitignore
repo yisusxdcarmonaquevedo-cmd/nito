@@ -12,3 +12,6 @@ config/.env
 
 # Config local de Claude (estado de esta máquina)
 .claude/settings.local.json
+
+# Archivos temporales de wrangler (Cloudflare)
+.wrangler/

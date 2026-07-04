@@ -1,0 +1,9 @@
+{
+  // Configuración de despliegue en Cloudflare (Workers con assets estáticos).
+  // La web vive en /web y se sirve tal cual, sin build.
+  "name": "nito",
+  "compatibility_date": "2026-07-04",
+  "assets": {
+    "directory": "web"
+  }
+}

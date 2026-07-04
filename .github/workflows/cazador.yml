@@ -43,9 +43,9 @@ jobs:
             exit 0
           fi
           # Si en la web solo cambiaron timestamps (revalidaciones), saltamos el
-          # build de Cloudflare con [CI Skip] para no gastar los 500 builds/mes.
+          # build de Cloudflare con [skip ci] para no gastar cuota de builds.
           if git diff --staged -I'"generated_at"' -I'"revalidated_at"' --quiet -- web/; then
-            git commit -m "chollos: estado interno [CI Skip]"
+            git commit -m "chollos: estado interno [skip ci]"
           else
             git commit -m "chollos: ofertas actualizadas"
           fi
