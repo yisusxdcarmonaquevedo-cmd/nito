@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-04T11:15:52+00:00",
   "market": "us",
-  "count": 38,
+  "count": 34,
   "deals": [
     {
       "asin": "B0C62HYLVR",
@@ -21,7 +21,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19719819",
       "published_at": "2026-07-04T11:13:10+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": null
     },
     {
       "asin": "B0F3RFT8CH",
@@ -41,7 +42,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19719912",
       "published_at": "2026-07-04T11:13:10+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": null
     },
     {
       "asin": "B07YQLF481",
@@ -61,7 +63,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19709118",
       "published_at": "2026-07-04T11:13:10+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": null
     },
     {
       "asin": "B002GHC1NY",
@@ -81,7 +84,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19719873",
       "published_at": "2026-07-04T11:13:10+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": null
     },
     {
       "asin": "B0FZR7784T",
@@ -101,7 +105,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19718979",
       "published_at": "2026-07-04T11:02:48+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": null
     },
     {
       "asin": "B0DDCD2BD8",
@@ -121,7 +126,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19718106",
       "published_at": "2026-07-04T11:02:48+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": null
     },
     {
       "asin": "B0CC62ZG1M",
@@ -141,7 +147,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19720551",
       "published_at": "2026-07-04T11:02:48+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": null
     },
     {
       "asin": "B097CFN5W4",
@@ -161,7 +168,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19720038",
       "published_at": "2026-07-04T11:02:48+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": null
     },
     {
       "asin": "B0FMY57CR6",
@@ -181,7 +189,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19715697",
       "published_at": "2026-07-04T11:02:48+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": null
     },
     {
       "asin": "B01BXDSRAC",
@@ -201,11 +210,12 @@
       "source": "slickdeals",
       "deal_key": "sd:19720569",
       "published_at": "2026-07-04T11:02:48+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": null
     },
     {
       "asin": "B0CX1VWTQV",
-      "title": "Prime Members: 4-Pk 60W Linkind A19 LED Light Bulbs (Soft White)",
+      "title": "4-Pk 60W Linkind A19 LED Light Bulbs (Soft White)",
       "title_es": "Bombillas LED Linkind A19 de 60W, paquete de 4 (Blanco Suave)",
       "headline": null,
       "post": "Este paquete de cuatro bombillas LED Linkind A19 de 60W ofrece una iluminación eficiente y duradera en tono blanco suave. Son ideales para cualquier estancia del hogar, proporcionando un ambiente acogedor y reduciendo el consumo energético.",
@@ -221,7 +231,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19718994",
       "published_at": "2026-07-04T10:48:05+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": "prime"
     },
     {
       "asin": "B0FFKVB2H5",
@@ -241,11 +252,12 @@
       "source": "slickdeals",
       "deal_key": "sd:19719219",
       "published_at": "2026-07-04T10:48:05+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": null
     },
     {
       "asin": "B0DNMHMX99",
-      "title": "Prime Members: 16-Pack INCX Solar Ground Lights Outdoor Waterproof (Cold White)",
+      "title": "16-Pack INCX Solar Ground Lights Outdoor Waterproof (Cold White)",
       "title_es": "Pack de 16 luces solares de suelo INCX impermeables para exterior (Blanco Frío)",
       "headline": null,
       "post": "Ilumina tu jardín o camino con este paquete de 16 luces solares de suelo INCX, diseñadas para exteriores y resistentes al agua. Proporcionan una luz blanca fría y son una solución práctica y decorativa para tus espacios al aire libre.",
@@ -261,7 +273,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19718247",
       "published_at": "2026-07-04T10:48:05+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": "prime"
     },
     {
       "asin": "B0CKYS81T4",
@@ -281,7 +294,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19718214",
       "published_at": "2026-07-04T10:48:05+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": null
     },
     {
       "asin": "B0FN7T3YHR",
@@ -301,7 +315,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19718385",
       "published_at": "2026-07-04T10:48:05+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": null
     },
     {
       "asin": "B0FZMKPRTN",
@@ -321,7 +336,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19718787",
       "published_at": "2026-07-04T10:48:05+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": null
     },
     {
       "asin": "B0CSXVMS3B",
@@ -341,7 +357,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19717845",
       "published_at": "2026-07-04T10:48:05+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": null
     },
     {
       "asin": "B0F6V1VWMP",
@@ -361,7 +378,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19718916",
       "published_at": "2026-07-04T10:48:05+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": null
     },
     {
       "asin": "B0FF4D98KP",
@@ -381,11 +399,12 @@
       "source": "slickdeals",
       "deal_key": "sd:19717983",
       "published_at": "2026-07-04T10:48:05+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": null
     },
     {
       "asin": "B0F2LT38H8",
-      "title": "Prime Members: YANIKY Quick-Dry Baseball Cap w/ UPF 50+ Sun Protection (Various)",
+      "title": "YANIKY Quick-Dry Baseball Cap w/ UPF 50+ Sun Protection (Various)",
       "title_es": "YANIKY Gorra de Béisbol de Secado Rápido con Protección Solar UPF 50+",
       "headline": null,
       "post": "Esta gorra de béisbol YANIKY de secado rápido ofrece una excelente protección solar UPF 50+, ideal para actividades al aire libre. Su diseño ligero y transpirable la hace perfecta para deportistas y cualquier persona que busque comodidad bajo el sol.",
@@ -401,7 +420,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19718469",
       "published_at": "2026-07-04T10:48:05+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": "prime"
     },
     {
       "asin": "B0BWJJSZF8",
@@ -421,7 +441,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19709493",
       "published_at": "2026-07-04T05:43:57+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": null
     },
     {
       "asin": "B0DJ1DDLP9",
@@ -441,7 +462,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19696422",
       "published_at": "2026-07-04T05:43:57+00:00",
-      "revalidated_at": "2026-07-04T11:02:48+00:00"
+      "revalidated_at": "2026-07-04T11:02:48+00:00",
+      "condition": null
     },
     {
       "asin": "B07TJKCD19",
@@ -461,7 +483,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19719732",
       "published_at": "2026-07-04T05:43:57+00:00",
-      "revalidated_at": "2026-07-04T11:02:48+00:00"
+      "revalidated_at": "2026-07-04T11:02:48+00:00",
+      "condition": null
     },
     {
       "asin": "B083XVYVCK",
@@ -481,7 +504,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19713717",
       "published_at": "2026-07-04T05:43:57+00:00",
-      "revalidated_at": "2026-07-04T11:02:48+00:00"
+      "revalidated_at": "2026-07-04T11:02:48+00:00",
+      "condition": null
     },
     {
       "asin": "B0FJRQPC9S",
@@ -501,7 +525,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19717476",
       "published_at": "2026-07-04T05:43:57+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": null
     },
     {
       "asin": "B0CDWL5G9J",
@@ -521,27 +546,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19707933",
       "published_at": "2026-07-04T05:41:46+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
-    },
-    {
-      "asin": "B009SZXM4E",
-      "title": "Select Accts: 120-Ct 10000mcg Nature’s Bounty Biotin Softgels Vitamin Supplement",
-      "title_es": "Nature’s Bounty Biotin Softgels 10000mcg Suplemento Vitamínico (120 cápsulas)",
-      "headline": null,
-      "post": "Este suplemento de Nature's Bounty aporta 10000mcg de biotina en cápsulas blandas para el cuidado del cabello, piel y uñas. Es perfecto para quienes buscan reforzar su bienestar general y belleza desde dentro.",
-      "post_en": "This Nature's Bounty supplement provides 10000mcg of biotin in softgels for hair, skin, and nail care. It's perfect for those looking to boost their overall well-being and beauty from within.",
-      "price_new": 3.75,
-      "price_old": 16.29,
-      "currency": "USD",
-      "discount_pct": 77.0,
-      "rating": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20887203.thumb",
-      "url": "https://amazon.com/dp/B009SZXM4E/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19715286",
-      "published_at": "2026-07-04T05:41:46+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": null
     },
     {
       "asin": "B0GVN7RCCN",
@@ -561,7 +567,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19718448",
       "published_at": "2026-07-04T05:41:46+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": null
     },
     {
       "asin": "B08FFKBX8G",
@@ -581,7 +588,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19719486",
       "published_at": "2026-07-04T05:41:46+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": null
     },
     {
       "asin": "B0GFH61BNQ",
@@ -601,7 +609,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19714638",
       "published_at": "2026-07-04T05:41:46+00:00",
-      "revalidated_at": "2026-07-04T11:15:52+00:00"
+      "revalidated_at": "2026-07-04T11:15:52+00:00",
+      "condition": null
     },
     {
       "asin": "B0FV7P4XKP",
@@ -621,7 +630,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19718595",
       "published_at": "2026-07-04T05:41:46+00:00",
-      "revalidated_at": "2026-07-04T11:02:48+00:00"
+      "revalidated_at": "2026-07-04T11:02:48+00:00",
+      "condition": null
     },
     {
       "asin": "B089GQ4KTW",
@@ -641,47 +651,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19718229",
       "published_at": "2026-07-04T05:41:46+00:00",
-      "revalidated_at": "2026-07-04T11:02:48+00:00"
-    },
-    {
-      "asin": "B09WSTBRBN",
-      "title": "Select Accts: 0.30-Oz Bactine Max Liquid Bandage w/ Lidocaine",
-      "title_es": "Bactine Max Venda Líquida con Lidocaína, 0.30 oz",
-      "headline": null,
-      "post": "Esta venda líquida Bactine Max con lidocaína proporciona una barrera protectora flexible para pequeñas heridas y cortes, aliviando el dolor. Es un básico útil para cualquier botiquín doméstico o de viaje, ofreciendo comodidad y protección. 🩹",
-      "post_en": "This Bactine Max liquid bandage with lidocaine provides a flexible protective barrier for minor cuts and scrapes, while also relieving pain. It's a useful staple for any home or travel first-aid kit, offering convenience and protection. 🩹",
-      "price_new": 4.55,
-      "price_old": 7.1,
-      "currency": "USD",
-      "discount_pct": 35.9,
-      "rating": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20890968.thumb",
-      "url": "https://amazon.com/dp/B09WSTBRBN/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19717383",
-      "published_at": "2026-07-04T05:41:46+00:00",
-      "revalidated_at": "2026-07-04T11:02:48+00:00"
-    },
-    {
-      "asin": "B001P92FMG",
-      "title": "Select Accts: 2.5-Oz Neutrogena Sport Face Oil-Free SPF 70+ Sunscreen",
-      "title_es": "Neutrogena Sport Face Protector Solar Facial sin Aceite SPF 70+, 2.5 Oz",
-      "headline": null,
-      "post": "Este protector solar facial de Neutrogena está diseñado para actividades deportivas, ofreciendo una alta protección SPF 70+ sin dejar sensación grasa. Es ideal para mantener tu piel protegida del sol durante el ejercicio o al aire libre. ☀️",
-      "post_en": "This Neutrogena facial sunscreen is designed for sports activities, offering high SPF 70+ protection without feeling greasy. It's ideal for keeping your skin protected from the sun during exercise or outdoors. ☀️",
-      "price_new": 3.6,
-      "price_old": 13.35,
-      "currency": "USD",
-      "discount_pct": 73.0,
-      "rating": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20889510.thumb",
-      "url": "https://amazon.com/dp/B001P92FMG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19716504",
-      "published_at": "2026-07-04T03:41:04+00:00",
-      "revalidated_at": "2026-07-04T11:02:48+00:00"
+      "revalidated_at": "2026-07-04T11:02:48+00:00",
+      "condition": null
     },
     {
       "asin": "B0DBQ2CBS3",
@@ -701,7 +672,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19717128",
       "published_at": "2026-07-04T03:41:04+00:00",
-      "revalidated_at": "2026-07-04T11:02:48+00:00"
+      "revalidated_at": "2026-07-04T11:02:48+00:00",
+      "condition": null
     },
     {
       "asin": "B0FSPQSJGF",
@@ -721,27 +693,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19717041",
       "published_at": "2026-07-04T03:41:04+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
-    },
-    {
-      "asin": "B00H88H4Q0",
-      "title": "Select Accts: 2-Pk 4-Oz Sensodyne Fresh Mint Sensitive Toothpaste",
-      "title_es": "Pasta de Dientes Sensodyne Fresh Mint para Dientes Sensibles, 2 unidades de 4 Oz",
-      "headline": null,
-      "post": "Este pack de pasta de dientes Sensodyne Fresh Mint está formulado para aliviar la sensibilidad dental, ofreciendo una limpieza eficaz con un aliento fresco. Es una solución práctica para el cuidado diario de dientes sensibles.",
-      "post_en": "This pack of Sensodyne Fresh Mint toothpaste is formulated to relieve tooth sensitivity, offering effective cleaning with fresh breath. It's a practical solution for daily care of sensitive teeth.",
-      "price_new": 6.85,
-      "price_old": 12.47,
-      "currency": "USD",
-      "discount_pct": 45.1,
-      "rating": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20880060.thumb",
-      "url": "https://amazon.com/dp/B00H88H4Q0/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19712028",
-      "published_at": "2026-07-04T03:41:04+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": null
     },
     {
       "asin": "B0G4PKX34H",
@@ -761,7 +714,8 @@
       "source": "slickdeals",
       "deal_key": "sd:19718559",
       "published_at": "2026-07-04T03:41:04+00:00",
-      "revalidated_at": "2026-07-04T11:13:10+00:00"
+      "revalidated_at": "2026-07-04T11:13:10+00:00",
+      "condition": null
     }
   ]
 }
