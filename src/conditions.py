@@ -23,6 +23,16 @@ _SNS = re.compile(r"subscribe\s*&?\s*save|\bS&S\b|\bSNS\b", re.IGNORECASE)
 
 ACCOUNT = "account"
 
+# Valor del código promocional: "apply promo code KU4YY9ZE at checkout".
+_CODE_VALUE = re.compile(r"(?:promo|coupon)\s*code\s+([A-Z0-9]{5,14})\b", re.IGNORECASE)
+
+
+def extract_code(*texts: str):
+    """Devuelve el código promocional (ej. 'KU4YY9ZE') si aparece, o None."""
+    t = re.sub(r"<[^>]+>", " ", " ".join(x for x in texts if x))  # quitar HTML
+    m = _CODE_VALUE.search(t)
+    return m.group(1).upper() if m else None
+
 
 def detect_condition(*texts: str):
     """Devuelve 'account' (descartar), 'coupon', 'code', 'prime', 'sns' o None."""

@@ -139,8 +139,14 @@ body{
 .rate{margin-left:auto; font-size:13px; color:var(--org-d)}
 .cta{display:flex; align-items:center; justify-content:center; gap:6px; background:var(--org); color:#fff; font-size:14px; font-weight:600; padding:10px; border-radius:9px; text-decoration:none; transition:background .12s}
 .cta:hover{background:#a94f24}
-.cond{align-self:flex-start; display:inline-flex; align-items:center; gap:5px; background:#FBEEE6; color:#8A3D1C; font-size:11.5px; font-weight:600; padding:4px 10px; border-radius:20px}
+.cond{align-self:flex-start; display:inline-flex; align-items:center; gap:5px; background:#FBEEE6; color:#8A3D1C; font-size:11.5px; font-weight:600; padding:4px 10px; border-radius:20px; border:0; font-family:inherit}
 .cond::before{content:"ⓘ"; font-weight:400}
+.cond-code{cursor:pointer; border:1px dashed #d89a72}
+.cond-code:hover{background:#f6ddcd}
+.cond-code b{letter-spacing:.5px}
+.cond-code .cc-ico{font-style:normal; margin-left:2px; opacity:.7}
+.cond-code.copied{background:#e1f5ee; color:#0f6e56; border-color:#5dcaa5}
+.cond-code.copied::before{content:"✓"}
 .verified{margin:0; font-size:11px; color:var(--ok); text-align:center; font-weight:600}
 .disclaimer{margin:0; font-size:10.5px; color:#a9b6bb; text-align:center}
 

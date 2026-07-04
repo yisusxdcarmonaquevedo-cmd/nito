@@ -38,6 +38,7 @@ def _to_dict(d: Deal) -> dict:
         "discount_pct": d.discount_pct,
         "rating": d.rating,
         "condition": d.condition,
+        "code": d.code,
         "category": d.category,
         "image": d.image,
         "url": d.amazon_url,

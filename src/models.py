@@ -30,6 +30,7 @@ class Deal:
 
     # --- Condición del precio (Prime/cupón/código/S&S) ---
     condition: Optional[str] = None     # None si el precio es "limpio"
+    code: Optional[str] = None          # código promocional a aplicar (si aplica)
 
     # --- Clasificación / origen ---
     category: Optional[str] = None      # categoría de la web (se asigna después)

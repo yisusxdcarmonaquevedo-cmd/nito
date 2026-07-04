@@ -40,6 +40,8 @@ const STR = {
     savedLabel: "Guardadas",
     savedInfo: " guardadas",
     saveTip: "Guardar oferta",
+    copyTip: "Copiar código",
+    copied: "¡Copiado!",
     more: "Ver más ofertas",
     emptyTitle: "Nada por aquí…",
     emptySub: "No hay ofertas que encajen con tu búsqueda ahora mismo. Prueba otra categoría o vuelve en un rato: entran ofertas nuevas durante todo el día.",
@@ -77,6 +79,8 @@ const STR = {
     savedLabel: "Saved",
     savedInfo: " saved",
     saveTip: "Save deal",
+    copyTip: "Copy code",
+    copied: "Copied!",
     more: "Show more deals",
     emptyTitle: "Nothing here…",
     emptySub: "No deals match your search right now. Try another category or check back soon — new deals come in all day.",
@@ -276,7 +280,9 @@ function buildBanner() {
   sec.hidden = false;
   document.getElementById("hb-track").innerHTML = top.map((d) => {
     const post = lang === "en" ? d.post_en || d.post : d.post || d.post_en;
-    const cTxt = d.condition && COND[lang][d.condition];
+    const cTxt = d.condition === "code" && d.code
+      ? `${COND[lang].code}: ${d.code}`
+      : (d.condition && COND[lang][d.condition]);
     const cbadge = cTxt ? `<span class="hb-cond">${esc(cTxt)}</span>` : "";
     return `<div class="hb-slide">
       <div class="hb-text">
@@ -382,6 +388,18 @@ function initMore() {
     visibleCount += PAGE_SIZE;
     render();
   });
+  // Copiar el código promocional al portapapeles.
+  document.getElementById("grid").addEventListener("click", (e) => {
+    const b = e.target.closest(".cond-code");
+    if (!b) return;
+    e.preventDefault();
+    const code = b.dataset.code;
+    navigator.clipboard?.writeText(code);
+    const prev = b.innerHTML;
+    b.innerHTML = t().copied;
+    b.classList.add("copied");
+    setTimeout(() => { b.innerHTML = prev; b.classList.remove("copied"); }, 1400);
+  });
 }
 
 function sorted(list) {
@@ -440,8 +458,12 @@ function card(d) {
     ? `<img src="${esc(d.image)}" alt="${esc(dispTitle(d))}" loading="lazy" onerror="this.style.display='none'">`
     : "";
   const ver = d.revalidated_at ? `<p class="verified">${t().verified} ${fmtTime(d.revalidated_at)}</p>` : "";
-  const condTxt = d.condition && COND[lang][d.condition];
-  const cond = condTxt ? `<span class="cond">${esc(condTxt)}</span>` : "";
+  let cond = "";
+  if (d.condition === "code" && d.code) {
+    cond = `<button class="cond cond-code" data-code="${esc(d.code)}" title="${t().copyTip}">${COND[lang].code}: <b>${esc(d.code)}</b><i class="cc-ico">⧉</i></button>`;
+  } else if (d.condition && COND[lang][d.condition]) {
+    cond = `<span class="cond">${esc(COND[lang][d.condition])}</span>`;
+  }
   const post = lang === "en" ? d.post_en || d.post : d.post || d.post_en;
   const corazon = `<button class="save-btn${saved.has(d.asin) ? " on" : ""}" data-asin="${esc(d.asin)}" aria-label="${t().saveTip}" title="${t().saveTip}">
       <svg viewBox="0 0 24 24" fill="none"><path d="M12 20.5 C7 16 3.5 12.8 3.5 9.2 A4.7 4.7 0 0 1 12 6.6 A4.7 4.7 0 0 1 20.5 9.2 C20.5 12.8 17 16 12 20.5 Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>

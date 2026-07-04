@@ -13,7 +13,7 @@ from typing import List, Optional, Tuple
 
 import feedparser
 
-from ..conditions import ACCOUNT, detect_condition
+from ..conditions import ACCOUNT, detect_condition, extract_code
 from ..models import Deal
 from .base import ProductDataSource
 
@@ -71,6 +71,9 @@ class SlickdealsSource(ProductDataSource):
         condition = detect_condition(title, body)
         if condition == ACCOUNT:
             return None
+        code = extract_code(title, body)
+        if code:
+            condition = "code"  # si hay código, la condición es ese código
 
         asin = self._extract_asin(link, body)
         price_new, price_old = self._extract_prices(title)
@@ -87,6 +90,7 @@ class SlickdealsSource(ProductDataSource):
             price_old=price_old,
             currency=self.currency,
             condition=condition,
+            code=code,
             source=self.name,
             market=self.market,
             deal_url=link,
