@@ -9,3 +9,6 @@ config/.env
 
 # data/ SÍ se versiona: la BD SQLite guarda el estado del pipeline
 # (dedupe, cuota diaria de Gemini, caché de ratings) entre ejecuciones en la nube.
+
+# Config local de Claude (estado de esta máquina)
+.claude/settings.local.json
