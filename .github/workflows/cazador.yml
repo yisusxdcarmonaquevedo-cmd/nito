@@ -2,7 +2,9 @@ name: Cazador de chollos Nito
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # cada 15 minutos (UTC; puede tener algo de retraso)
+    # Cada 15 min en minutos "no redondos": los :00/:15/:30/:45 van congestionados
+    # en GitHub y los crons frecuentes se retrasan o se saltan.
+    - cron: "6,21,36,51 * * * *"
   workflow_dispatch:          # botón para lanzarlo a mano desde GitHub
 
 permissions:
@@ -37,6 +39,9 @@ jobs:
         run: |
           git config user.name "nito-bot"
           git config user.email "actions@users.noreply.github.com"
+          # Si main avanzó durante la ejecución (p.ej. un push manual), integrarlo
+          # antes de empujar; en conflicto, gana el estado del bot (más nuevo).
+          git pull --no-rebase -X ours --no-edit origin main || true
           git add web/ data/
           if git diff --staged --quiet; then
             echo "Sin cambios que publicar"
