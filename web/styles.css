@@ -81,8 +81,7 @@ body{
 
 /* ---------- Filtros ---------- */
 .filterbar{background:var(--card); border-bottom:1px solid var(--line); position:sticky; top:62px; z-index:9}
-.filters{display:flex; gap:8px; overflow-x:auto; padding:11px 16px; scrollbar-width:none}
-.filters::-webkit-scrollbar{display:none}
+.filters{display:flex; flex-wrap:wrap; gap:8px; padding:11px 16px}
 .chip{
   flex:0 0 auto; display:flex; align-items:center; gap:6px;
   background:var(--card); color:var(--teal-d); border:1px solid var(--line);
@@ -175,7 +174,6 @@ body{
   .savedbox{padding:8px 11px}
   .themebox{width:36px; height:36px}
   .filterbar{top:0; position:static}
-  .filters{flex-wrap:wrap; overflow-x:visible}  /* todas las categorías VISIBLES, sin scroll oculto */
   .chip{padding:8px 14px}            /* objetivo táctil más cómodo */
   .toolbar{flex-direction:column; align-items:flex-start; gap:8px}
   .grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr)); gap:12px}
