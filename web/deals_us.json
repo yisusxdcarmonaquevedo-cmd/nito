@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-05T00:46:19+00:00",
+  "generated_at": "2026-07-05T01:00:44+00:00",
   "market": "us",
   "count": 104,
   "deals": [
+    {
+      "asin": "B0GX5FNGSX",
+      "title": "12-Pack WfiiaVacuum Seal Storage Bags with Rechargeable Air Pump",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 61.5,
+      "rating": null,
+      "condition": "code",
+      "code": "BM7UYEJM",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/3/3/5/6/0/450x450/20899833.thumb",
+      "url": "https://amazon.com/dp/B0GX5FNGSX/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19722252",
+      "published_at": "2026-07-05T01:00:44+00:00",
+      "revalidated_at": "2026-07-05T01:00:44+00:00"
+    },
     {
       "asin": "B0026T3YC4",
       "title": "BIG RED TB102 Torin 16\" Hip Roof Style Portable Steel Tool Box with Metal Latch Closure, Red at Amazon",
@@ -14,11 +36,11 @@
       "price_old": 19.46,
       "currency": "USD",
       "discount_pct": 31.2,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20896539.thumb",
+      "image": "https://m.media-amazon.com/images/I/6137vwhUKUL._AC_SL1472_.jpg",
       "url": "https://amazon.com/dp/B0026T3YC4/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19720236",
@@ -441,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19718982",
       "published_at": "2026-07-04T22:01:03+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00"
+      "revalidated_at": "2026-07-05T01:00:44+00:00"
     },
     {
       "asin": "B0CWS5JNNV",
@@ -552,28 +574,6 @@
       "deal_key": "sd:19719861",
       "published_at": "2026-07-04T21:16:14+00:00",
       "revalidated_at": "2026-07-04T23:46:08+00:00"
-    },
-    {
-      "asin": "B0DPSGS9R3",
-      "title": "Sewer Jetter Kit for Pressure Washer 50FT, 4000 PSI Drain Cleaner Hose 1/4 Inch NPT, Corner Rotating and Button Hose Sewer Jetting Nozzle Pearl Corsage Pin Tape Handle Strap",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 19.63,
-      "price_old": 39.27,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71mrvhmx-hL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DPSGS9R3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19721706",
-      "published_at": "2026-07-04T20:46:28+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00"
     },
     {
       "asin": "B0F666K47N",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19721406",
       "published_at": "2026-07-04T19:31:25+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00"
+      "revalidated_at": "2026-07-05T01:00:44+00:00"
     },
     {
       "asin": "B0B38KRTV6",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19706304",
       "published_at": "2026-07-04T19:31:25+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00"
+      "revalidated_at": "2026-07-05T01:00:44+00:00"
     },
     {
       "asin": "B0FMS9D14R",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720722",
       "published_at": "2026-07-04T16:16:08+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00"
+      "revalidated_at": "2026-07-05T01:00:44+00:00"
     },
     {
       "asin": "B01E9T76CW",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720776",
       "published_at": "2026-07-04T15:16:19+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00"
+      "revalidated_at": "2026-07-05T01:00:44+00:00"
     },
     {
       "asin": "B01N2A2Y27",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720845",
       "published_at": "2026-07-04T14:31:11+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00"
+      "revalidated_at": "2026-07-05T01:00:44+00:00"
     },
     {
       "asin": "B0G48HDKYP",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720944",
       "published_at": "2026-07-04T14:31:11+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00"
+      "revalidated_at": "2026-07-05T01:00:44+00:00"
     },
     {
       "asin": "B0BZXTG5BD",
@@ -1713,7 +1713,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19709118",
       "published_at": "2026-07-04T11:13:10+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00",
+      "revalidated_at": "2026-07-05T01:00:44+00:00",
       "condition": null
     },
     {
@@ -1734,7 +1734,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19719873",
       "published_at": "2026-07-04T11:13:10+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00",
+      "revalidated_at": "2026-07-05T01:00:44+00:00",
       "condition": null
     },
     {
@@ -1755,7 +1755,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19718979",
       "published_at": "2026-07-04T11:02:48+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00",
+      "revalidated_at": "2026-07-05T01:00:44+00:00",
       "condition": null
     },
     {
@@ -1776,7 +1776,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19718106",
       "published_at": "2026-07-04T11:02:48+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00",
+      "revalidated_at": "2026-07-05T01:00:44+00:00",
       "condition": null
     },
     {
@@ -2049,7 +2049,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19696422",
       "published_at": "2026-07-04T05:43:57+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00",
+      "revalidated_at": "2026-07-05T01:00:44+00:00",
       "condition": null
     },
     {
@@ -2175,7 +2175,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19714638",
       "published_at": "2026-07-04T05:41:46+00:00",
-      "revalidated_at": "2026-07-04T23:31:14+00:00",
+      "revalidated_at": "2026-07-05T01:00:44+00:00",
       "condition": null
     },
     {
