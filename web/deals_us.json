@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-07-05T21:31:36+00:00",
+  "generated_at": "2026-07-05T21:46:26+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B0GGHVZCZF",
+      "title": "Phomemo 4\" x 6\" Bluetooth Touchscreen Thermal Shipping Label Printer",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 60.0,
+      "price_old": 199.99,
+      "currency": "USD",
+      "discount_pct": 70.0,
+      "rating": null,
+      "condition": "code",
+      "code": "UTKNUU6R",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/2/2/8/7/3/3/2/1/450x450/20840307.thumb",
+      "url": "https://amazon.com/dp/B0GGHVZCZF/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19691553",
+      "published_at": "2026-07-05T21:46:26+00:00",
+      "revalidated_at": "2026-07-05T21:46:26+00:00"
+    },
+    {
+      "asin": "B07L4BM851",
+      "title": "Logitech G502  Lightspeed Wireless Gaming Mouse (Black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 72.2,
+      "price_old": 119.99,
+      "currency": "USD",
+      "discount_pct": 39.8,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/0/6/6/9/4/450x450/20904135.thumb",
+      "url": "https://amazon.com/dp/B07L4BM851/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19696416",
+      "published_at": "2026-07-05T21:46:26+00:00",
+      "revalidated_at": "2026-07-05T21:46:26+00:00"
+    },
     {
       "asin": "B0042ET0H4",
       "title": "5-Pk Pentel Wow! Retractable Ballpoint Pens (Red Ink, 1.0mm)",
@@ -36,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 77.2,
-      "rating": null,
+      "rating": 4.6,
       "condition": "coupon",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/4/9/0/0/1/2/450x450/20894925.thumb",
+      "image": "https://m.media-amazon.com/images/I/51519dn0o-L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DKJDK3NG/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19719408",
@@ -221,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724346",
       "published_at": "2026-07-05T19:46:13+00:00",
-      "revalidated_at": "2026-07-05T19:46:13+00:00"
+      "revalidated_at": "2026-07-05T21:46:26+00:00"
     },
     {
       "asin": "B09XWD4R82",
@@ -419,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724253",
       "published_at": "2026-07-05T18:01:18+00:00",
-      "revalidated_at": "2026-07-05T19:46:13+00:00"
+      "revalidated_at": "2026-07-05T21:46:26+00:00"
     },
     {
       "asin": "B0DSJ4LCFZ",
@@ -441,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19711872",
       "published_at": "2026-07-05T18:01:18+00:00",
-      "revalidated_at": "2026-07-05T19:46:13+00:00"
+      "revalidated_at": "2026-07-05T21:46:26+00:00"
     },
     {
       "asin": "B0DZ6CLGSZ",
@@ -859,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19712622",
       "published_at": "2026-07-05T13:46:31+00:00",
-      "revalidated_at": "2026-07-05T19:31:18+00:00"
+      "revalidated_at": "2026-07-05T21:46:26+00:00"
     },
     {
       "asin": "B07MS7G7RZ",
@@ -881,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722768",
       "published_at": "2026-07-05T13:46:31+00:00",
-      "revalidated_at": "2026-07-05T19:31:18+00:00"
+      "revalidated_at": "2026-07-05T21:46:26+00:00"
     },
     {
       "asin": "B0D362MJ6G",
@@ -903,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19723722",
       "published_at": "2026-07-05T13:46:31+00:00",
-      "revalidated_at": "2026-07-05T19:46:13+00:00"
+      "revalidated_at": "2026-07-05T21:46:26+00:00"
     },
     {
       "asin": "B0GJ7CFZ3K",
@@ -1014,28 +1058,6 @@
       "deal_key": "sd:19723473",
       "published_at": "2026-07-05T12:16:28+00:00",
       "revalidated_at": "2026-07-05T20:01:21+00:00"
-    },
-    {
-      "asin": "B0CN9GXC2R",
-      "title": "$179* | Bose QuietComfort ANC Over Ear Headphones at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 179.0,
-      "price_old": 349.0,
-      "currency": "USD",
-      "discount_pct": 48.7,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20901243.thumb",
-      "url": "https://amazon.com/dp/B0CN9GXC2R/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19723089",
-      "published_at": "2026-07-05T11:46:16+00:00",
-      "revalidated_at": "2026-07-05T19:46:13+00:00"
     },
     {
       "asin": "B0BZT7H8CN",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19712910",
       "published_at": "2026-07-05T07:46:01+00:00",
-      "revalidated_at": "2026-07-05T19:46:13+00:00"
+      "revalidated_at": "2026-07-05T21:46:26+00:00"
     },
     {
       "asin": "B0DJTJDN73",
@@ -1387,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19704945",
       "published_at": "2026-07-05T06:00:40+00:00",
-      "revalidated_at": "2026-07-05T19:46:13+00:00"
+      "revalidated_at": "2026-07-05T21:46:26+00:00"
     },
     {
       "asin": "B0DQWHKQ1T",
@@ -1409,29 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722627",
       "published_at": "2026-07-05T05:46:06+00:00",
-      "revalidated_at": "2026-07-05T19:46:13+00:00"
-    },
-    {
-      "asin": "B0CJMMGH6T",
-      "title": "Sum 41: All The Good Sh**: 14 Solid Gold Hits 2001-2008 (Vinyl LP) + AutoRip MP3",
-      "title_es": "Sum 41: All The Good Sh**: 14 Éxitos 2001-2008 (Vinilo LP) + MP3 AutoRip",
-      "headline": null,
-      "post": "Este vinilo de Sum 41 recopila sus 14 grandes éxitos de 2001 a 2008, incluyendo también la versión MP3 AutoRip para disfrutar de su música en cualquier formato. Es una pieza esencial para los fans de la banda y coleccionistas de vinilos que buscan revivir la era dorada del pop-punk.",
-      "post_en": "This Sum 41 vinyl album compiles 14 of their greatest hits from 2001 to 2008, also including the AutoRip MP3 version to enjoy their music in any format. It's an essential piece for band fans and vinyl collectors looking to relive the golden era of pop-punk.",
-      "price_new": 16.8,
-      "price_old": 27.98,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81kdFC18nhL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CJMMGH6T/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19713498",
-      "published_at": "2026-07-05T05:46:06+00:00",
-      "revalidated_at": "2026-07-05T19:46:13+00:00"
+      "revalidated_at": "2026-07-05T21:46:26+00:00"
     },
     {
       "asin": "B01LZ75ROQ",
@@ -2553,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19718976",
       "published_at": "2026-07-04T20:31:36+00:00",
-      "revalidated_at": "2026-07-05T19:31:18+00:00"
+      "revalidated_at": "2026-07-05T21:46:26+00:00"
     },
     {
       "asin": "B0DTJ9ZT48",
@@ -2575,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720539",
       "published_at": "2026-07-04T20:31:36+00:00",
-      "revalidated_at": "2026-07-05T19:31:18+00:00"
+      "revalidated_at": "2026-07-05T21:46:26+00:00"
     },
     {
       "asin": "B0F6TS5HVH",
@@ -2598,50 +2598,6 @@
       "deal_key": "sd:19718772",
       "published_at": "2026-07-04T20:01:27+00:00",
       "revalidated_at": "2026-07-05T19:46:13+00:00"
-    },
-    {
-      "asin": "B0FMRPKN3G",
-      "title": "Baseus Inspire XC1 Open Ear Clip-On Earbuds w/ Dolby Spatial Audio (2 Colors)",
-      "title_es": "Auriculares Baseus Inspire XC1 de oído abierto con Dolby Spatial Audio",
-      "headline": null,
-      "post": "Los auriculares Baseus Inspire XC1 de tipo clip-on con diseño de oído abierto ofrecen una experiencia de audio inmersiva con Dolby Spatial Audio. Son perfectos para quienes buscan comodidad y sonido de calidad sin aislarse completamente del entorno.",
-      "post_en": "The Baseus Inspire XC1 Open Ear Clip-On Earbuds offer an immersive audio experience with Dolby Spatial Audio. They are perfect for those seeking comfort and quality sound without completely isolating themselves from their surroundings.",
-      "price_new": 80.0,
-      "price_old": 129.99,
-      "currency": "USD",
-      "discount_pct": 38.5,
-      "rating": null,
-      "condition": "code",
-      "code": "XC1PDSD6",
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/4/8/2/3/7/7/450x450/20899026.thumb",
-      "url": "https://amazon.com/dp/B0FMRPKN3G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19636134",
-      "published_at": "2026-07-04T19:46:23+00:00",
-      "revalidated_at": "2026-07-05T19:31:18+00:00"
-    },
-    {
-      "asin": "B087JKNYNK",
-      "title": "$149.99* | Kärcher Pressure Washer, K4 Power Control, Max 1900 PSI, 26 ft. Hose, 2 Spray Wands - 1.5 GPM at Amazon",
-      "title_es": "Hidrolimpiadora Kärcher K4 Power Control, 1900 PSI",
-      "headline": null,
-      "post": "La hidrolimpiadora Kärcher K4 Power Control es una potente herramienta de limpieza para el hogar, ideal para patios, vehículos y superficies exteriores. Ofrece hasta 1900 PSI y viene con dos lanzas de pulverización para diferentes tareas.",
-      "post_en": "The Kärcher K4 Power Control Pressure Washer is a powerful home cleaning tool, ideal for patios, vehicles, and outdoor surfaces. It offers up to 1900 PSI and comes with two spray wands for various tasks.",
-      "price_new": 149.99,
-      "price_old": 329.99,
-      "currency": "USD",
-      "discount_pct": 54.5,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20898546.thumb",
-      "url": "https://amazon.com/dp/B087JKNYNK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19721406",
-      "published_at": "2026-07-04T19:31:25+00:00",
-      "revalidated_at": "2026-07-05T19:31:18+00:00"
     }
   ]
 }
