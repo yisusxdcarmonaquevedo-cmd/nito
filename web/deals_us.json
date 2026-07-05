@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-05T07:30:59+00:00",
+  "generated_at": "2026-07-05T07:46:01+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0DDDPLBDH",
+      "title": "$7.95 3-Pack Palmolive Ultra Dishwashing Liquid Dish Soap (Pure + Clear) 32.5 fl oz with S&S",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.95,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 86.8,
+      "rating": 4.7,
+      "condition": "sns",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71I3gq9gj1L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DDDPLBDH/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19712910",
+      "published_at": "2026-07-05T07:46:01+00:00",
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
+    },
     {
       "asin": "B0DJTJDN73",
       "title": "$89.99* | Turtle Beach Stealth Pivot Wireless Smart Game Controller at Amazon",
@@ -80,11 +102,11 @@
       "price_old": 350.0,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/4/9/0/0/1/2/450x450/20900739.thumb",
+      "image": "https://m.media-amazon.com/images/I/71CtOSVVFQL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B00UMD8P02/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19722774",
@@ -102,11 +124,11 @@
       "price_old": 29.99,
       "currency": "USD",
       "discount_pct": 58.3,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "QN68DYIQ",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/20892282.thumb",
+      "image": "https://m.media-amazon.com/images/I/7155HZiznuL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CJTNBGS9/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19718043",
@@ -202,28 +224,6 @@
       "revalidated_at": "2026-07-05T06:00:40+00:00"
     },
     {
-      "asin": "B000QWG3MQ",
-      "title": "100-Count Astrobrights Wide Ruled Filler Paper, 8\" x 10.5\" (Assorted Colors)",
-      "title_es": "Papel de Recambio Astrobrights de 100 Hojas, Rayado Ancho, Colores Surtidos",
-      "headline": null,
-      "post": "Este paquete de 100 hojas de papel Astrobrights rayado ancho es ideal para tomar notas, proyectos escolares o manualidades, añadiendo un toque de color vibrante a tus tareas diarias. Su tamaño de 8\" x 10.5\" y colores surtidos lo hacen versátil para estudiantes y creativos.",
-      "post_en": "This 100-count pack of Astrobrights wide-ruled filler paper is perfect for note-taking, school projects, or crafts, adding a vibrant splash of color to your daily tasks. Its 8\" x 10.5\" size and assorted colors make it versatile for students and creatives.",
-      "price_new": 3.32,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 90.5,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81iff7I2BgL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B000QWG3MQ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19722687",
-      "published_at": "2026-07-05T05:46:06+00:00",
-      "revalidated_at": "2026-07-05T05:46:06+00:00"
-    },
-    {
       "asin": "B0DQWHKQ1T",
       "title": "CELOX Dish Brush with Soap Dispenser for Cleaning Pots",
       "title_es": "Cepillo para Platos CELOX con Dispensador de Jabón para Ollas",
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722627",
       "published_at": "2026-07-05T05:46:06+00:00",
-      "revalidated_at": "2026-07-05T05:46:06+00:00"
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
     },
     {
       "asin": "B0CJMMGH6T",
@@ -265,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19713498",
       "published_at": "2026-07-05T05:46:06+00:00",
-      "revalidated_at": "2026-07-05T05:46:06+00:00"
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
     },
     {
       "asin": "B01LZ75ROQ",
@@ -278,11 +278,11 @@
       "price_old": 17.99,
       "currency": "USD",
       "discount_pct": 47.4,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20883789.thumb",
+      "image": "https://m.media-amazon.com/images/I/716WTDp-oyL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B01LZ75ROQ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19713615",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722459",
       "published_at": "2026-07-05T03:46:14+00:00",
-      "revalidated_at": "2026-07-05T05:46:06+00:00"
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
     },
     {
       "asin": "B0F3M667WD",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722456",
       "published_at": "2026-07-05T03:46:14+00:00",
-      "revalidated_at": "2026-07-05T05:46:06+00:00"
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
     },
     {
       "asin": "B0GYSJHXM8",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19704987",
       "published_at": "2026-07-05T03:46:14+00:00",
-      "revalidated_at": "2026-07-05T05:46:06+00:00"
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
     },
     {
       "asin": "B0DYQCQY8T",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19721490",
       "published_at": "2026-07-05T00:01:29+00:00",
-      "revalidated_at": "2026-07-05T05:46:06+00:00"
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
     },
     {
       "asin": "B07QKZYZ1P",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19719855",
       "published_at": "2026-07-05T00:01:29+00:00",
-      "revalidated_at": "2026-07-05T05:46:06+00:00"
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
     },
     {
       "asin": "B07BKMPNWB",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19715895",
       "published_at": "2026-07-04T22:46:26+00:00",
-      "revalidated_at": "2026-07-05T05:46:06+00:00"
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
     },
     {
       "asin": "B0DB964918",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19702980",
       "published_at": "2026-07-04T22:46:26+00:00",
-      "revalidated_at": "2026-07-05T05:46:06+00:00"
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
     },
     {
       "asin": "B0FPCWLXJL",
@@ -2201,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720827",
       "published_at": "2026-07-04T13:46:17+00:00",
-      "revalidated_at": "2026-07-05T05:30:51+00:00"
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
     },
     {
       "asin": "B0FTP4PMYX",
@@ -2223,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720554",
       "published_at": "2026-07-04T13:46:17+00:00",
-      "revalidated_at": "2026-07-05T05:30:51+00:00"
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
     },
     {
       "asin": "B01DIZT0KO",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19719282",
       "published_at": "2026-07-04T13:15:56+00:00",
-      "revalidated_at": "2026-07-05T05:30:51+00:00"
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
     },
     {
       "asin": "B09KTDXPY3",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19718613",
       "published_at": "2026-07-04T12:31:05+00:00",
-      "revalidated_at": "2026-07-05T05:30:51+00:00"
+      "revalidated_at": "2026-07-05T07:46:01+00:00"
     },
     {
       "asin": "B07LFPD44S",
@@ -2611,27 +2611,6 @@
       "deal_key": "sd:19715697",
       "published_at": "2026-07-04T11:02:48+00:00",
       "revalidated_at": "2026-07-05T06:15:41+00:00",
-      "condition": null
-    },
-    {
-      "asin": "B01BXDSRAC",
-      "title": "Carhartt Men's Dearborn Loose LS T-Shirt at Amazon",
-      "title_es": "Camiseta de manga larga holgada Carhartt Dearborn para hombre",
-      "headline": null,
-      "post": "Esta camiseta de manga larga Carhartt Dearborn para hombre ofrece un corte holgado y confortable, ideal para el día a día o para capas. Es una prenda básica y resistente para quienes buscan comodidad y durabilidad en su vestuario casual.",
-      "post_en": "This Carhartt Men's Dearborn Loose LS T-Shirt offers a comfortable, relaxed fit, perfect for everyday wear or layering. It's a durable and essential garment for those seeking comfort and longevity in their casual wardrobe.",
-      "price_new": 17.05,
-      "price_old": 27.99,
-      "currency": "USD",
-      "discount_pct": 39.1,
-      "rating": null,
-      "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20897088.thumb",
-      "url": "https://amazon.com/dp/B01BXDSRAC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19720569",
-      "published_at": "2026-07-04T11:02:48+00:00",
-      "revalidated_at": "2026-07-05T06:30:43+00:00",
       "condition": null
     }
   ]
