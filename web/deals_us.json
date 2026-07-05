@@ -1,15 +1,59 @@
 {
-  "generated_at": "2026-07-04T23:46:08+00:00",
+  "generated_at": "2026-07-05T00:01:29+00:00",
   "market": "us",
-  "count": 92,
+  "count": 94,
   "deals": [
+    {
+      "asin": "B0DTBZJLLZ",
+      "title": "$5.23* | 3-Pack DC Comics Batman Ninja Strike 6\" Action Figures Battle Set at Amazon",
+      "title_es": "Set de Batalla de 3 Figuras de Acción DC Comics Batman Ninja Strike de 6 pulgadas",
+      "headline": null,
+      "post": "Este set de 3 figuras de acción de 6 pulgadas de DC Comics Batman Ninja Strike ofrece horas de diversión para fans del universo de Batman. Es ideal para coleccionistas jóvenes y para quienes disfrutan recreando batallas épicas.",
+      "post_en": "This 3-pack of DC Comics Batman Ninja Strike 6-inch action figures offers hours of fun for fans of the Batman universe. It's ideal for young collectors and those who enjoy recreating epic battles.",
+      "price_new": 5.23,
+      "price_old": 8.48,
+      "currency": "USD",
+      "discount_pct": 38.3,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20898639.thumb",
+      "url": "https://amazon.com/dp/B0DTBZJLLZ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19721490",
+      "published_at": "2026-07-05T00:01:29+00:00",
+      "revalidated_at": "2026-07-05T00:01:29+00:00"
+    },
+    {
+      "asin": "B07QKZYZ1P",
+      "title": "Bandai HG IBO #01 Iron-Blooded Orphans Gundam Barbatos 1/144 Model Kit",
+      "title_es": "Kit de Modelismo Bandai HG IBO #01 Iron-Blooded Orphans Gundam Barbatos 1/144",
+      "headline": null,
+      "post": "Construye tu propio Mobile Suit con este kit de modelismo Bandai HG IBO #01 Gundam Barbatos a escala 1/144. Es perfecto para aficionados al modelismo y fans de la serie Iron-Blooded Orphans que buscan un proyecto detallado.",
+      "post_en": "Build your own Mobile Suit with this Bandai HG IBO #01 Gundam Barbatos 1/144 scale model kit. It's perfect for model enthusiasts and fans of the Iron-Blooded Orphans series looking for a detailed project.",
+      "price_new": 14.0,
+      "price_old": 20.5,
+      "currency": "USD",
+      "discount_pct": 31.7,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/51hGyJR8XIL._AC_SL1054_.jpg",
+      "url": "https://amazon.com/dp/B07QKZYZ1P/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19719855",
+      "published_at": "2026-07-05T00:01:29+00:00",
+      "revalidated_at": "2026-07-05T00:01:29+00:00"
+    },
     {
       "asin": "B07BKMPNWB",
       "title": "9-Piece NEIKO 00257 Socket Adapter Extension Drill-Bit Set at Amazon",
-      "title_es": null,
+      "title_es": "Juego de 9 adaptadores de vasos y extensiones para taladro NEIKO 00257",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este juego de 9 adaptadores NEIKO 00257 es ideal para ampliar la funcionalidad de tu taladro, permitiéndote usar vasos y puntas con facilidad. Perfecto para entusiastas del bricolaje y profesionales que necesitan versatilidad en sus herramientas.",
+      "post_en": "This 9-piece NEIKO 00257 socket adapter set is ideal for extending your drill's functionality, allowing you to use sockets and bits with ease. Perfect for DIY enthusiasts and professionals needing versatile tools.",
       "price_new": 10.49,
       "price_old": 14.99,
       "currency": "USD",
@@ -28,10 +72,10 @@
     {
       "asin": "B09HWT7N31",
       "title": "$72* | 50mm Casio Men's Edifice Chronograph Stainless Steel Watch at Amazon",
-      "title_es": null,
+      "title_es": "Reloj Casio Edifice Chronograph de acero inoxidable para hombre, 50mm",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este reloj Casio Edifice Chronograph de acero inoxidable es un accesorio elegante y funcional para hombres. Ofrece un diseño robusto y características de cronógrafo, ideal para quienes buscan precisión y estilo en su muñeca.",
+      "post_en": "This Casio Men's Edifice Chronograph Stainless Steel Watch is an elegant and functional accessory for men. It offers a robust design and chronograph features, ideal for those seeking precision and style on their wrist.",
       "price_new": 72.0,
       "price_old": 120.0,
       "currency": "USD",
@@ -50,10 +94,10 @@
     {
       "asin": "B0C73DB8LV",
       "title": "ErGear Drafting Chair w/ Flip-Up Armrests (Up to 300lb Capacity)",
-      "title_es": null,
+      "title_es": "Silla de dibujo ErGear con reposabrazos abatibles (hasta 136 kg)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta silla de dibujo ErGear con reposabrazos abatibles es perfecta para espacios de trabajo y escritorios altos. Ofrece comodidad y soporte ergonómico, siendo una opción versátil para estudiantes y profesionales.",
+      "post_en": "This ErGear Drafting Chair with flip-up armrests is perfect for workspaces and tall desks. It offers comfort and ergonomic support, making it a versatile option for students and professionals.",
       "price_new": 65.0,
       "price_old": 159.99,
       "currency": "USD",
@@ -72,10 +116,10 @@
     {
       "asin": "B0G24W1JV5",
       "title": "4-Speed Bearwind Auto Oscillation Portable USB-C Fan w/ Light & Flexible Tripod",
-      "title_es": null,
+      "title_es": "Ventilador portátil Bearwind con USB-C, 4 velocidades, auto oscilación, luz y trípode flexible",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este ventilador portátil Bearwind con USB-C y trípode flexible ofrece 4 velocidades, oscilación automática y luz integrada. Es ideal para mantenerte fresco en cualquier lugar, ya sea en casa, la oficina o al aire libre.",
+      "post_en": "This 4-speed Bearwind portable USB-C fan with auto oscillation and a flexible tripod also features an integrated light. It's perfect for keeping you cool anywhere, whether at home, the office, or outdoors.",
       "price_new": 14.5,
       "price_old": 28.99,
       "currency": "USD",
@@ -94,10 +138,10 @@
     {
       "asin": "B0DY2JYCG1",
       "title": "Mophie 20,000mAh Powerstation Fast 3-Port 45W USB-C Power Bank",
-      "title_es": null,
+      "title_es": "Batería externa Mophie Powerstation de 20.000mAh con carga rápida de 3 puertos 45W USB-C",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La batería externa Mophie Powerstation de 20.000mAh ofrece carga rápida con 3 puertos y 45W USB-C, ideal para mantener tus dispositivos siempre con energía. Es perfecta para usuarios que necesitan una fuente de alimentación fiable y de alta capacidad en movimiento.",
+      "post_en": "The Mophie 20,000mAh Powerstation Fast Power Bank features 3 ports and 45W USB-C for rapid charging, ideal for keeping your devices powered up. It's perfect for users needing a reliable, high-capacity power source on the go.",
       "price_new": 35.0,
       "price_old": 59.95,
       "currency": "USD",
@@ -116,10 +160,10 @@
     {
       "asin": "B01EMYW7BY",
       "title": "7-Count Neutrogena Make-Up Remover Cleansing Towelettes",
-      "title_es": null,
+      "title_es": "Toallitas desmaquillantes Neutrogena (paquete de 7)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estas toallitas desmaquillantes Neutrogena son perfectas para limpiar y refrescar tu piel rápidamente. Eliminan eficazmente el maquillaje, incluso la máscara de pestañas resistente al agua, dejando la piel limpia y suave.",
+      "post_en": "These Neutrogena Make-Up Remover Cleansing Towelettes are perfect for quickly cleansing and refreshing your skin. They effectively remove makeup, including waterproof mascara, leaving skin clean and soft.",
       "price_new": 1.2,
       "price_old": 35.0,
       "currency": "USD",
@@ -133,15 +177,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19715895",
       "published_at": "2026-07-04T22:46:26+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00"
+      "revalidated_at": "2026-07-05T00:01:29+00:00"
     },
     {
       "asin": "B0DB964918",
       "title": "Ninja Blast Max 22-oz. Cordless Portable Blender w/ Twist & Go Detachable Vessel (Various)",
-      "title_es": null,
+      "title_es": "Batidora portátil sin cable Ninja Blast Max de 22 oz. con vaso desmontable",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La batidora portátil sin cable Ninja Blast Max de 22 oz. es ideal para preparar batidos y bebidas saludables en cualquier lugar. Su vaso desmontable \"Twist & Go\" facilita la preparación y el transporte, perfecta para un estilo de vida activo.",
+      "post_en": "The Ninja Blast Max 22-oz. Cordless Portable Blender is ideal for preparing healthy smoothies and drinks on the go. Its \"Twist & Go\" detachable vessel makes preparation and transport easy, perfect for an active lifestyle.",
       "price_new": 69.95,
       "price_old": 99.99,
       "currency": "USD",
@@ -155,15 +199,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19702980",
       "published_at": "2026-07-04T22:46:26+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00"
+      "revalidated_at": "2026-07-05T00:01:29+00:00"
     },
     {
       "asin": "B0FPCWLXJL",
       "title": "2-Pk Linkind A15 E26 LED Refrigerator Light Bulbs (5W 600LM Daylight)",
-      "title_es": null,
+      "title_es": "Pack de 2 bombillas LED Linkind A15 E26 para refrigerador (5W 600LM Luz diurna)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este paquete de 2 bombillas LED Linkind A15 E26 es perfecto para iluminar tu refrigerador con una luz diurna brillante de 600 lúmenes. Son eficientes energéticamente y ofrecen una excelente visibilidad para el interior de tu nevera.",
+      "post_en": "This 2-pack of Linkind A15 E26 LED Refrigerator Light Bulbs is perfect for illuminating your fridge with a bright 600LM daylight. They are energy-efficient and offer excellent visibility for the interior of your refrigerator.",
       "price_new": 5.0,
       "price_old": 9.99,
       "currency": "USD",
@@ -397,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19721523",
       "published_at": "2026-07-04T20:16:31+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00"
+      "revalidated_at": "2026-07-05T00:01:29+00:00"
     },
     {
       "asin": "B0F6TS5HVH",
@@ -529,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720497",
       "published_at": "2026-07-04T19:01:17+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00"
+      "revalidated_at": "2026-07-05T00:01:29+00:00"
     },
     {
       "asin": "B0F4MKTZGM",
@@ -573,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720500",
       "published_at": "2026-07-04T18:46:14+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00"
+      "revalidated_at": "2026-07-05T00:01:29+00:00"
     },
     {
       "asin": "B0BRC25B8K",
@@ -595,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19721034",
       "published_at": "2026-07-04T18:01:22+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00"
+      "revalidated_at": "2026-07-05T00:01:29+00:00"
     },
     {
       "asin": "B0GT1L8WQV",
@@ -617,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19718049",
       "published_at": "2026-07-04T17:46:28+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00"
+      "revalidated_at": "2026-07-05T00:01:29+00:00"
     },
     {
       "asin": "B0CXJCXN17",
@@ -639,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19719783",
       "published_at": "2026-07-04T17:46:28+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00"
+      "revalidated_at": "2026-07-05T00:01:29+00:00"
     },
     {
       "asin": "B0B1ZDBRYT",
@@ -705,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19718100",
       "published_at": "2026-07-04T16:46:12+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00"
+      "revalidated_at": "2026-07-05T00:01:29+00:00"
     },
     {
       "asin": "B0CR9S49Y8",
@@ -837,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19718955",
       "published_at": "2026-07-04T15:44:35+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00"
+      "revalidated_at": "2026-07-05T00:01:29+00:00"
     },
     {
       "asin": "B0GF9VRJLY",
@@ -1554,7 +1598,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19715697",
       "published_at": "2026-07-04T11:02:48+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00",
+      "revalidated_at": "2026-07-05T00:01:29+00:00",
       "condition": null
     },
     {
@@ -1932,7 +1976,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19718229",
       "published_at": "2026-07-04T05:41:46+00:00",
-      "revalidated_at": "2026-07-04T22:31:28+00:00",
+      "revalidated_at": "2026-07-05T00:01:29+00:00",
       "condition": null
     },
     {
@@ -1953,7 +1997,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19717128",
       "published_at": "2026-07-04T03:41:04+00:00",
-      "revalidated_at": "2026-07-04T22:31:28+00:00",
+      "revalidated_at": "2026-07-05T00:01:29+00:00",
       "condition": null
     },
     {
