@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-05T00:01:29+00:00",
+  "generated_at": "2026-07-05T00:16:05+00:00",
   "market": "us",
-  "count": 94,
+  "count": 95,
   "deals": [
+    {
+      "asin": "B0009WDUDS",
+      "title": "50 Piece Hiltex 53106 Pegboard Hook Assortment Set at Amazon",
+      "title_es": "Set de 50 ganchos Hiltex 53106 para panel perforado",
+      "headline": null,
+      "post": "Este set incluye 50 ganchos variados para panel perforado, ideal para organizar herramientas y accesorios en tu taller o garaje. Permite mantener tus espacios ordenados y funcionales con fácil acceso a tus objetos.🛠️",
+      "post_en": "This set includes 50 assorted pegboard hooks, ideal for organizing tools and accessories in your workshop or garage. It helps keep your spaces tidy and functional with easy access to your items.🛠️",
+      "price_new": 10.49,
+      "price_old": 14.99,
+      "currency": "USD",
+      "discount_pct": 30.0,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/716q80i42FL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0009WDUDS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19721814",
+      "published_at": "2026-07-05T00:16:05+00:00",
+      "revalidated_at": "2026-07-05T00:16:05+00:00"
+    },
     {
       "asin": "B0DTBZJLLZ",
       "title": "$5.23* | 3-Pack DC Comics Batman Ninja Strike 6\" Action Figures Battle Set at Amazon",
@@ -14,11 +36,11 @@
       "price_old": 8.48,
       "currency": "USD",
       "discount_pct": 38.3,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20898639.thumb",
+      "image": "https://m.media-amazon.com/images/I/81XEXc+FGtL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DTBZJLLZ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19721490",
@@ -111,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19701276",
       "published_at": "2026-07-04T23:01:32+00:00",
-      "revalidated_at": "2026-07-04T23:01:32+00:00"
+      "revalidated_at": "2026-07-05T00:16:05+00:00"
     },
     {
       "asin": "B0G24W1JV5",
@@ -124,16 +146,16 @@
       "price_old": 28.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "PKBWWPBG",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/8/8/1/8/1/450x450/20899701.thumb",
+      "image": "https://m.media-amazon.com/images/I/61M0TuVYjSL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G24W1JV5/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19701948",
       "published_at": "2026-07-04T23:01:32+00:00",
-      "revalidated_at": "2026-07-04T23:01:32+00:00"
+      "revalidated_at": "2026-07-05T00:16:05+00:00"
     },
     {
       "asin": "B0DY2JYCG1",
@@ -155,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19719687",
       "published_at": "2026-07-04T23:01:32+00:00",
-      "revalidated_at": "2026-07-04T23:01:32+00:00"
+      "revalidated_at": "2026-07-05T00:16:05+00:00"
     },
     {
       "asin": "B01EMYW7BY",
@@ -226,10 +248,10 @@
     {
       "asin": "B0CWS5JNNV",
       "title": "$1.51* | Five Star Spiral College Ruled Personal Size Notebook (7\" x 4-3/8\", 80 Sheets) at Amazon",
-      "title_es": null,
+      "title_es": "Cuaderno espiral Five Star de tamaño personal con rayas (7\" x 4-3/8\", 80 hojas)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este cuaderno Five Star de tamaño personal es ideal para tomar notas en clase o reuniones. Cuenta con 80 hojas rayadas y un formato compacto para llevarlo fácilmente.",
+      "post_en": "This Five Star personal size notebook is ideal for taking notes in class or meetings. It features 80 college-ruled sheets and a compact format for easy portability.",
       "price_new": 1.51,
       "price_old": 57.0,
       "currency": "USD",
@@ -248,10 +270,10 @@
     {
       "asin": "B0FNCYLQNX",
       "title": "AIRHAS Men's Anatomical Toe Box Barefoot Shoes",
-      "title_es": null,
+      "title_es": "Zapatos AIRHAS tipo barefoot para hombre con puntera anatómica",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estos zapatos AIRHAS tipo barefoot para hombre ofrecen una puntera anatómica que respeta la forma natural del pie. Son ideales para quienes buscan una sensación más cercana al suelo y libertad de movimiento.",
+      "post_en": "These AIRHAS men's barefoot shoes feature an anatomical toe box that respects the natural shape of the foot. They are ideal for those seeking a closer-to-the-ground feel and freedom of movement.",
       "price_new": 19.61,
       "price_old": 45.99,
       "currency": "USD",
@@ -270,10 +292,10 @@
     {
       "asin": "B0047WL8HG",
       "title": "Stalwart Portable Tool Storage Box & Small Parts Organizer w/ 4 Multi-Compartment Trays & Carry Handle",
-      "title_es": null,
+      "title_es": "Caja de almacenamiento de herramientas portátil Stalwart y organizador de piezas pequeñas con 4 bandejas y asa",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Organiza tus herramientas y piezas pequeñas con esta caja de almacenamiento portátil Stalwart. Incluye cuatro bandejas multicompartimento y un asa de transporte para mayor comodidad.",
+      "post_en": "Organize your tools and small parts with this Stalwart portable tool storage box. It includes four multi-compartment trays and a carry handle for convenience.",
       "price_new": 16.63,
       "price_old": 35.0,
       "currency": "USD",
@@ -292,10 +314,10 @@
     {
       "asin": "B01JIRKQ04",
       "title": "4-Ct 16-Oz Axe Men's Excite Body Wash (Coconut & Black Pepper)",
-      "title_es": null,
+      "title_es": "Pack de 4 geles de ducha Axe Men's Excite (coco y pimienta negra) de 16 oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 4 geles de ducha Axe Men's Excite ofrece una fragancia refrescante de coco y pimienta negra. Ideal para el cuidado diario y para quienes buscan un aroma distintivo.",
+      "post_en": "This 4-pack of Axe Men's Excite Body Wash offers a refreshing coconut and black pepper fragrance. It's ideal for daily care and for those seeking a distinctive scent.",
       "price_new": 9.85,
       "price_old": 20.77,
       "currency": "USD",
@@ -314,10 +336,10 @@
     {
       "asin": "B0GBZX2MRY",
       "title": "Scotch-Brite Brite Palm Scrubber w/ Soap Dispenser & Drain + Dry Stand",
-      "title_es": null,
+      "title_es": "Estropajo de palma Scotch-Brite con dispensador de jabón y soporte de drenaje + secado",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este estropajo de palma Scotch-Brite facilita la limpieza con su dispensador de jabón integrado. Incluye un soporte de drenaje y secado para mantenerlo higiénico y a mano.",
+      "post_en": "This Scotch-Brite Brite Palm Scrubber makes cleaning easier with its integrated soap dispenser. It includes a drain and dry stand to keep it hygienic and handy.",
       "price_new": 6.55,
       "price_old": 10.99,
       "currency": "USD",
@@ -358,10 +380,10 @@
     {
       "asin": "B0F666K47N",
       "title": "Raidou: Remastered – The Mystery of the Soulless Army Launch Edition (Nintendo Switch 2) at Amazon",
-      "title_es": null,
+      "title_es": "Raidou: Remastered – The Mystery of the Soulless Army Launch Edition (Nintendo Switch 2)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en la aventura con Raidou: Remastered – The Mystery of the Soulless Army Launch Edition para Nintendo Switch 2. Esta edición remasterizada ofrece gráficos mejorados y una experiencia de juego inmersiva para los fans de los RPG.",
+      "post_en": "Dive into adventure with Raidou: Remastered – The Mystery of the Soulless Army Launch Edition for Nintendo Switch 2. This remastered edition offers enhanced graphics and an immersive gaming experience for RPG fans.",
       "price_new": 24.99,
       "price_old": 49.99,
       "currency": "USD",
@@ -380,10 +402,10 @@
     {
       "asin": "B00UOL93CG",
       "title": "4.5-Oz Neutrogena T/Sal Anti-Dandruff Shampoo w/ Salicylic Acid",
-      "title_es": null,
+      "title_es": "Champú anticaspa Neutrogena T/Sal con ácido salicílico de 4.5 oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este champú anticaspa Neutrogena T/Sal con ácido salicílico ayuda a controlar la descamación y la picazón del cuero cabelludo. Es ideal para quienes buscan alivio de la caspa y un cuero cabelludo más saludable.",
+      "post_en": "This Neutrogena T/Sal Anti-Dandruff Shampoo with Salicylic Acid helps control scalp flaking and itching. It's ideal for those seeking dandruff relief and a healthier scalp.",
       "price_new": 4.5,
       "price_old": 8.53,
       "currency": "USD",
@@ -402,10 +424,10 @@
     {
       "asin": "B0DTJ9ZT48",
       "title": "$20.41* | Summer Wars Limited Edition Steelbook (4K UHD + Blu-ray) at Amazon",
-      "title_es": null,
+      "title_es": "Summer Wars Edición Limitada Steelbook (4K UHD + Blu-ray)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de la aclamada película de anime Summer Wars en esta edición limitada Steelbook, que incluye formatos 4K UHD y Blu-ray para la mejor calidad. Es ideal para coleccionistas y aficionados al cine de animación japonés.",
+      "post_en": "Enjoy the acclaimed anime film Summer Wars in this limited edition Steelbook, which includes 4K UHD and Blu-ray formats for the best quality. It's perfect for collectors and fans of Japanese animated cinema.",
       "price_new": 20.41,
       "price_old": 36.98,
       "currency": "USD",
@@ -424,10 +446,10 @@
     {
       "asin": "B00HYUSWPE",
       "title": "$24.50* | 40mm Timex Men's Expedition Scout  Watch at Amazon",
-      "title_es": null,
+      "title_es": "Reloj Timex Expedition Scout de 40mm para hombre",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este reloj Timex Men's Expedition Scout de 40mm es un accesorio robusto y fiable, perfecto para el uso diario o aventuras al aire libre. Su diseño clásico y duradero lo hace ideal para hombres que buscan funcionalidad y estilo.",
+      "post_en": "This 40mm Timex Men's Expedition Scout Watch is a robust and reliable accessory, perfect for daily wear or outdoor adventures. Its classic and durable design makes it ideal for men seeking functionality and style.",
       "price_new": 24.5,
       "price_old": 60.0,
       "currency": "USD",
@@ -446,10 +468,10 @@
     {
       "asin": "B0F6TS5HVH",
       "title": "2-Oz grace & stella Hypochlorous Acid Face & Body Spray",
-      "title_es": null,
+      "title_es": "Spray facial y corporal de ácido hipocloroso grace & stella de 2 oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este spray facial y corporal de ácido hipocloroso grace & stella de 2 oz es un producto versátil para el cuidado de la piel, conocido por sus propiedades calmantes y purificantes. Es adecuado para quienes buscan una solución suave para refrescar y equilibrar la piel.",
+      "post_en": "This 2-Oz grace & stella Hypochlorous Acid Face & Body Spray is a versatile skincare product, known for its soothing and purifying properties. It's suitable for those looking for a gentle solution to refresh and balance their skin.",
       "price_new": 5.57,
       "price_old": 35.0,
       "currency": "USD",
@@ -468,10 +490,10 @@
     {
       "asin": "B0BZNNW5F7",
       "title": "77-Pc MULWARK Ratcheting Screwdriver Bit & Socket Set w/ Case",
-      "title_es": null,
+      "title_es": "Set de 77 piezas de destornillador de carraca y puntas MULWARK con estuche",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set de 77 piezas de destornillador de carraca y puntas MULWARK es una herramienta esencial para cualquier hogar, ideal para reparaciones y montajes. Incluye una gran variedad de accesorios y un estuche para mantenerlo todo organizado.",
+      "post_en": "This 77-Pc MULWARK Ratcheting Screwdriver Bit & Socket Set is an essential tool for any home, ideal for repairs and assembly. It includes a wide variety of accessories and a case to keep everything organized.",
       "price_new": 15.0,
       "price_old": 24.99,
       "currency": "USD",
@@ -490,10 +512,10 @@
     {
       "asin": "B0FMRPKN3G",
       "title": "Baseus Inspire XC1 Open Ear Clip-On Earbuds w/ Dolby Spatial Audio (2 Colors)",
-      "title_es": null,
+      "title_es": "Auriculares Baseus Inspire XC1 de oído abierto con Dolby Spatial Audio",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Los auriculares Baseus Inspire XC1 de tipo clip-on con diseño de oído abierto ofrecen una experiencia de audio inmersiva con Dolby Spatial Audio. Son perfectos para quienes buscan comodidad y sonido de calidad sin aislarse completamente del entorno.",
+      "post_en": "The Baseus Inspire XC1 Open Ear Clip-On Earbuds offer an immersive audio experience with Dolby Spatial Audio. They are perfect for those seeking comfort and quality sound without completely isolating themselves from their surroundings.",
       "price_new": 80.0,
       "price_old": 129.99,
       "currency": "USD",
@@ -512,10 +534,10 @@
     {
       "asin": "B087JKNYNK",
       "title": "$149.99* | Kärcher Pressure Washer, K4 Power Control, Max 1900 PSI, 26 ft. Hose, 2 Spray Wands - 1.5 GPM at Amazon",
-      "title_es": null,
+      "title_es": "Hidrolimpiadora Kärcher K4 Power Control, 1900 PSI",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La hidrolimpiadora Kärcher K4 Power Control es una potente herramienta de limpieza para el hogar, ideal para patios, vehículos y superficies exteriores. Ofrece hasta 1900 PSI y viene con dos lanzas de pulverización para diferentes tareas.",
+      "post_en": "The Kärcher K4 Power Control Pressure Washer is a powerful home cleaning tool, ideal for patios, vehicles, and outdoor surfaces. It offers up to 1900 PSI and comes with two spray wands for various tasks.",
       "price_new": 149.99,
       "price_old": 329.99,
       "currency": "USD",
@@ -534,10 +556,10 @@
     {
       "asin": "B0B38KRTV6",
       "title": "De'Longhi Magnifica Evo Automatic Espresso & Coffee Machine w/ Milk Frother",
-      "title_es": null,
+      "title_es": "Cafetera automática De'Longhi Magnifica Evo con espumador de leche",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La cafetera De'Longhi Magnifica Evo es una máquina de espresso y café automática que incluye un espumador de leche integrado. Es perfecta para los amantes del café que desean preparar bebidas de calidad barista en casa con facilidad.",
+      "post_en": "The De'Longhi Magnifica Evo is an automatic espresso and coffee machine that includes an integrated milk frother. It's perfect for coffee lovers who want to easily prepare barista-quality drinks at home.",
       "price_new": 499.95,
       "price_old": 899.95,
       "currency": "USD",
@@ -556,10 +578,10 @@
     {
       "asin": "B0FMS9D14R",
       "title": "233-Pc LEGO Minecraft Chicken Farm (21585)",
-      "title_es": null,
+      "title_es": "LEGO Minecraft Granja de Pollos (21585) de 233 piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Construye tu propia granja de pollos de Minecraft con este set LEGO de 233 piezas, que recrea un escenario icónico del videojuego. Es ideal para fans de Minecraft y entusiastas de LEGO de todas las edades que disfrutan del juego creativo.",
+      "post_en": "Build your own Minecraft Chicken Farm with this 233-piece LEGO set, recreating an iconic scene from the video game. It's ideal for Minecraft fans and LEGO enthusiasts of all ages who enjoy creative play.",
       "price_new": 16.0,
       "price_old": 35.0,
       "currency": "USD",
@@ -837,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19721091",
       "published_at": "2026-07-04T16:01:14+00:00",
-      "revalidated_at": "2026-07-04T23:01:32+00:00"
+      "revalidated_at": "2026-07-05T00:16:05+00:00"
     },
     {
       "asin": "B0D6W8NQFV",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720146",
       "published_at": "2026-07-04T15:44:35+00:00",
-      "revalidated_at": "2026-07-04T23:01:32+00:00"
+      "revalidated_at": "2026-07-05T00:16:05+00:00"
     },
     {
       "asin": "B0F634G927",
@@ -925,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720773",
       "published_at": "2026-07-04T15:44:35+00:00",
-      "revalidated_at": "2026-07-04T23:01:32+00:00"
+      "revalidated_at": "2026-07-05T00:16:05+00:00"
     },
     {
       "asin": "B0D6ZC56TH",
@@ -991,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19719987",
       "published_at": "2026-07-04T15:01:04+00:00",
-      "revalidated_at": "2026-07-04T23:01:32+00:00"
+      "revalidated_at": "2026-07-05T00:16:05+00:00"
     },
     {
       "asin": "B0DDM7PFLW",
@@ -1079,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720875",
       "published_at": "2026-07-04T14:16:11+00:00",
-      "revalidated_at": "2026-07-04T23:01:32+00:00"
+      "revalidated_at": "2026-07-05T00:16:05+00:00"
     },
     {
       "asin": "B0FC9DTDJ3",
@@ -1101,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19702149",
       "published_at": "2026-07-04T14:16:11+00:00",
-      "revalidated_at": "2026-07-04T23:01:32+00:00"
+      "revalidated_at": "2026-07-05T00:16:05+00:00"
     },
     {
       "asin": "B0C28JLBGZ",
@@ -1189,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720701",
       "published_at": "2026-07-04T13:31:03+00:00",
-      "revalidated_at": "2026-07-04T23:01:32+00:00"
+      "revalidated_at": "2026-07-05T00:16:05+00:00"
     },
     {
       "asin": "B0DYF7552C",
@@ -1619,7 +1641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19720569",
       "published_at": "2026-07-04T11:02:48+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00",
+      "revalidated_at": "2026-07-05T00:16:05+00:00",
       "condition": null
     },
     {
@@ -1913,7 +1935,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19707933",
       "published_at": "2026-07-04T05:41:46+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00",
+      "revalidated_at": "2026-07-05T00:16:05+00:00",
       "condition": null
     },
     {
@@ -2018,7 +2040,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19717041",
       "published_at": "2026-07-04T03:41:04+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00",
+      "revalidated_at": "2026-07-05T00:16:05+00:00",
       "condition": null
     },
     {
@@ -2039,7 +2061,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19718559",
       "published_at": "2026-07-04T03:41:04+00:00",
-      "revalidated_at": "2026-07-04T22:46:26+00:00",
+      "revalidated_at": "2026-07-05T00:16:05+00:00",
       "condition": null
     }
   ]
