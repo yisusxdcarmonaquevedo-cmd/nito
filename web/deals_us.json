@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T02:16:33+00:00",
+  "generated_at": "2026-07-06T02:31:23+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
     {
       "asin": "B0G5B3NHZK",
@@ -14,11 +14,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 72.9,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/20904747.thumb",
+      "image": "https://m.media-amazon.com/images/I/81KVaCvRALL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G5B3NHZK/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19725456",
@@ -124,11 +124,11 @@
       "price_old": 129.99,
       "currency": "USD",
       "discount_pct": 46.2,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/8/6/7/1/9/450x450/20903196.thumb",
+      "image": "https://m.media-amazon.com/images/I/71XyGxT1ITL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B08R6KMBQT/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19724463",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722957",
       "published_at": "2026-07-06T00:31:08+00:00",
-      "revalidated_at": "2026-07-06T00:31:08+00:00"
+      "revalidated_at": "2026-07-06T02:31:23+00:00"
     },
     {
       "asin": "B0GQVL82SQ",
@@ -464,28 +464,6 @@
       "deal_key": "sd:19725054",
       "published_at": "2026-07-05T22:46:39+00:00",
       "revalidated_at": "2026-07-06T00:46:36+00:00"
-    },
-    {
-      "asin": "B09NMXDZF6",
-      "title": "Estwing 36-inch Demolition Crowbar, Wrecking Pry Bar Tool, Beveled Ends, Steel",
-      "title_es": "Palanca de demolición Estwing de 36 pulgadas de acero",
-      "headline": null,
-      "post": "Esta palanca de demolición Estwing de 36 pulgadas, fabricada en acero resistente, es una herramienta esencial para proyectos de bricolaje y reformas. Sus extremos biselados facilitan el trabajo de demolición y extracción.",
-      "post_en": "This 36-inch Estwing demolition crowbar, made from durable steel, is an essential tool for DIY and renovation projects. Its beveled ends make demolition and prying tasks easier.",
-      "price_new": 23.76,
-      "price_old": 37.99,
-      "currency": "USD",
-      "discount_pct": 37.5,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51xTGpxeKyL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09NMXDZF6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19725042",
-      "published_at": "2026-07-05T22:32:43+00:00",
-      "revalidated_at": "2026-07-06T00:31:08+00:00"
     },
     {
       "asin": "B082QC2MCX",
@@ -727,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724667",
       "published_at": "2026-07-05T20:31:23+00:00",
-      "revalidated_at": "2026-07-06T00:31:08+00:00"
+      "revalidated_at": "2026-07-06T02:31:23+00:00"
     },
     {
       "asin": "0395177111",
@@ -925,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19709721",
       "published_at": "2026-07-05T18:46:23+00:00",
-      "revalidated_at": "2026-07-06T00:31:08+00:00"
+      "revalidated_at": "2026-07-06T02:31:23+00:00"
     },
     {
       "asin": "B0DP1WXVK8",
@@ -947,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19702785",
       "published_at": "2026-07-05T18:46:23+00:00",
-      "revalidated_at": "2026-07-06T00:31:08+00:00"
+      "revalidated_at": "2026-07-06T02:31:23+00:00"
     },
     {
       "asin": "B0GJFWSY1K",
@@ -1123,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722981",
       "published_at": "2026-07-05T16:46:20+00:00",
-      "revalidated_at": "2026-07-06T00:31:08+00:00"
+      "revalidated_at": "2026-07-06T02:31:23+00:00"
     },
     {
       "asin": "B078K4PKKR",
@@ -1277,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722987",
       "published_at": "2026-07-05T14:46:22+00:00",
-      "revalidated_at": "2026-07-06T00:31:08+00:00"
+      "revalidated_at": "2026-07-06T02:31:23+00:00"
     },
     {
       "asin": "B0FF23XV7Z",
@@ -1651,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19723248",
       "published_at": "2026-07-05T08:45:58+00:00",
-      "revalidated_at": "2026-07-06T00:31:08+00:00"
+      "revalidated_at": "2026-07-06T02:31:23+00:00"
     },
     {
       "asin": "B0FH5D89JR",
@@ -1695,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19723035",
       "published_at": "2026-07-05T08:16:02+00:00",
-      "revalidated_at": "2026-07-06T00:16:13+00:00"
+      "revalidated_at": "2026-07-06T02:31:23+00:00"
     },
     {
       "asin": "B0DDDPLBDH",
@@ -1827,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19718043",
       "published_at": "2026-07-05T06:30:43+00:00",
-      "revalidated_at": "2026-07-06T00:16:13+00:00"
+      "revalidated_at": "2026-07-06T02:31:23+00:00"
     },
     {
       "asin": "B0GGGWTG2S",
@@ -1849,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19714767",
       "published_at": "2026-07-05T06:15:41+00:00",
-      "revalidated_at": "2026-07-06T00:16:13+00:00"
+      "revalidated_at": "2026-07-06T02:31:23+00:00"
     },
     {
       "asin": "B0GX8ZYQ8F",
@@ -2003,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19715610",
       "published_at": "2026-07-05T04:15:58+00:00",
-      "revalidated_at": "2026-07-06T00:31:08+00:00"
+      "revalidated_at": "2026-07-06T02:31:23+00:00"
     },
     {
       "asin": "1639622527",
@@ -2069,29 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19696380",
       "published_at": "2026-07-05T04:00:49+00:00",
-      "revalidated_at": "2026-07-06T00:16:13+00:00"
-    },
-    {
-      "asin": "B09L5NG2JH",
-      "title": "CINCOM Cordless Rechargeable Hand Massager w/ Heat & Compression (6 colors)",
-      "title_es": "Masajeador de manos inalámbrico recargable CINCOM con calor y compresión",
-      "headline": null,
-      "post": "Este masajeador de manos inalámbrico ofrece compresión y calor para aliviar la tensión y mejorar la circulación. Es ideal para quienes buscan relajación y alivio del dolor en las manos.",
-      "post_en": "This cordless hand massager provides compression and heat to relieve tension and improve circulation. It's ideal for those seeking relaxation and pain relief for their hands.",
-      "price_new": 23.98,
-      "price_old": 99.98,
-      "currency": "USD",
-      "discount_pct": 76.0,
-      "rating": null,
-      "condition": "code",
-      "code": "54MIJP7N",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/1/3/3/5/6/0/450x450/20900106.thumb",
-      "url": "https://amazon.com/dp/B09L5NG2JH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19722459",
-      "published_at": "2026-07-05T03:46:14+00:00",
-      "revalidated_at": "2026-07-06T00:16:13+00:00"
+      "revalidated_at": "2026-07-06T02:31:23+00:00"
     },
     {
       "asin": "B0F3M667WD",
@@ -2113,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722456",
       "published_at": "2026-07-05T03:46:14+00:00",
-      "revalidated_at": "2026-07-06T00:16:13+00:00"
+      "revalidated_at": "2026-07-06T02:31:23+00:00"
     },
     {
       "asin": "B0GYSJHXM8",
