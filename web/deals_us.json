@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T23:16:22+00:00",
+  "generated_at": "2026-07-06T23:31:39+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0CRHF41F7",
@@ -168,11 +168,11 @@
       "price_old": 199.0,
       "currency": "USD",
       "discount_pct": 30.2,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/8/6/3/2/3/2/450x450/20914116.thumb",
+      "image": "https://m.media-amazon.com/images/I/61hD3rCM9oL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B07FTPX71F/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19662972",
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19728648",
       "published_at": "2026-07-06T21:31:33+00:00",
-      "revalidated_at": "2026-07-06T21:31:33+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "B0DJS1P4RL",
@@ -256,16 +256,16 @@
       "price_old": 39.99,
       "currency": "USD",
       "discount_pct": 42.8,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/4/5/6/0/3/7/8/450x450/20912925.thumb",
+      "image": "https://m.media-amazon.com/images/I/71G-pV0ycrL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DJS1P4RL/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19729008",
       "published_at": "2026-07-06T21:31:33+00:00",
-      "revalidated_at": "2026-07-06T21:31:33+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "B0C6SZJB57",
@@ -860,28 +860,6 @@
       "deal_key": "sd:19728210",
       "published_at": "2026-07-06T18:01:11+00:00",
       "revalidated_at": "2026-07-06T22:01:30+00:00"
-    },
-    {
-      "asin": "B001B331A6",
-      "title": "12-Pack 2-Gallon ZiplocFood Storage Bags",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 5.98,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 82.9,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/20911671.thumb",
-      "url": "https://amazon.com/dp/B001B331A6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19728417",
-      "published_at": "2026-07-06T17:46:09+00:00",
-      "revalidated_at": "2026-07-06T21:31:33+00:00"
     },
     {
       "asin": "B09KWZ8MD8",
@@ -1959,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19719309",
       "published_at": "2026-07-06T11:31:34+00:00",
-      "revalidated_at": "2026-07-06T21:31:33+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "0544445783",
@@ -1981,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726908",
       "published_at": "2026-07-06T11:16:31+00:00",
-      "revalidated_at": "2026-07-06T21:31:33+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "B08QZVSC8D",
@@ -2025,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725879",
       "published_at": "2026-07-06T10:31:45+00:00",
-      "revalidated_at": "2026-07-06T21:16:26+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "B073HP1JG6",
@@ -2047,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726338",
       "published_at": "2026-07-06T09:16:36+00:00",
-      "revalidated_at": "2026-07-06T21:31:33+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "B0DCHN3YQL",
@@ -2069,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726188",
       "published_at": "2026-07-06T08:47:02+00:00",
-      "revalidated_at": "2026-07-06T21:16:26+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "B07FVYPT22",
@@ -2113,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725900",
       "published_at": "2026-07-06T06:46:19+00:00",
-      "revalidated_at": "2026-07-06T21:31:33+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "B014VBH4R0",
@@ -2157,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19713372",
       "published_at": "2026-07-06T05:01:22+00:00",
-      "revalidated_at": "2026-07-06T21:31:33+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "B07X3XTCHW",
@@ -2245,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725450",
       "published_at": "2026-07-06T03:16:37+00:00",
-      "revalidated_at": "2026-07-06T21:31:33+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "B0DVBP5L6Y",
@@ -2267,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725666",
       "published_at": "2026-07-06T03:16:37+00:00",
-      "revalidated_at": "2026-07-06T21:31:33+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "B004AI97MA",
@@ -2289,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725576",
       "published_at": "2026-07-06T03:01:25+00:00",
-      "revalidated_at": "2026-07-06T21:31:33+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "B0CN86DV9L",
@@ -2311,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724868",
       "published_at": "2026-07-06T03:01:25+00:00",
-      "revalidated_at": "2026-07-06T21:31:33+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "B0G5B3NHZK",
@@ -2575,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722957",
       "published_at": "2026-07-06T00:31:08+00:00",
-      "revalidated_at": "2026-07-06T21:16:26+00:00"
+      "revalidated_at": "2026-07-06T23:31:39+00:00"
     },
     {
       "asin": "B0GQVL82SQ",
