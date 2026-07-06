@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T17:16:19+00:00",
+  "generated_at": "2026-07-06T17:31:12+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B07HKVBRCF",
@@ -36,11 +36,11 @@
       "price_old": 14.99,
       "currency": "USD",
       "discount_pct": 41.4,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20909913.thumb",
+      "image": "https://m.media-amazon.com/images/I/71tW2xCudiL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FNRYHWF4/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19727598",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19595124",
       "published_at": "2026-07-06T15:31:01+00:00",
-      "revalidated_at": "2026-07-06T15:31:01+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "B0DZP21RXY",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19727007",
       "published_at": "2026-07-06T13:31:09+00:00",
-      "revalidated_at": "2026-07-06T15:31:01+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "B07L5FG8Q9",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19719309",
       "published_at": "2026-07-06T11:31:34+00:00",
-      "revalidated_at": "2026-07-06T15:31:01+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "0544445783",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725378",
       "published_at": "2026-07-06T03:31:33+00:00",
-      "revalidated_at": "2026-07-06T15:31:01+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "B0BJYKVLRN",
@@ -1431,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19711485",
       "published_at": "2026-07-06T03:31:33+00:00",
-      "revalidated_at": "2026-07-06T15:31:01+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "B0GGHG97L4",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19719597",
       "published_at": "2026-07-06T03:31:33+00:00",
-      "revalidated_at": "2026-07-06T15:31:01+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "B08TPTLPRS",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724463",
       "published_at": "2026-07-06T01:31:13+00:00",
-      "revalidated_at": "2026-07-06T15:31:01+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "B00PCI1EH8",
@@ -1717,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724415",
       "published_at": "2026-07-06T01:16:27+00:00",
-      "revalidated_at": "2026-07-06T15:16:15+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "B0F2SZLTLH",
@@ -1739,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19679292",
       "published_at": "2026-07-06T01:16:27+00:00",
-      "revalidated_at": "2026-07-06T15:16:15+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "B0F79LJ3LC",
@@ -1962,28 +1962,6 @@
       "revalidated_at": "2026-07-06T15:31:01+00:00"
     },
     {
-      "asin": "B0FQV8P7KJ",
-      "title": "3-Pack YMRFW Women's Retro Oval Cat Eye Sunglasses",
-      "title_es": "Pack de 3 gafas de sol YMRFW retro ojo de gato ovaladas para mujer",
-      "headline": null,
-      "post": "Consigue este pack de 3 gafas de sol YMRFW con diseño retro ojo de gato, perfectas para añadir un toque vintage a cualquier look. Ideales para mujeres que buscan estilo y variedad en sus accesorios.",
-      "post_en": "Get this 3-pack of YMRFW retro oval cat eye sunglasses, perfect for adding a vintage touch to any outfit. Ideal for women looking for style and variety in their accessories.",
-      "price_new": 1.65,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 95.3,
-      "rating": 5.0,
-      "condition": "code",
-      "code": "IC98QK42",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71oixt-KDcL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FQV8P7KJ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19724529",
-      "published_at": "2026-07-05T22:46:39+00:00",
-      "revalidated_at": "2026-07-06T15:16:15+00:00"
-    },
-    {
       "asin": "B01LHG4EES",
       "title": "17-Piece Cuisinart Stainless Steel Cookware Set at Amazon",
       "title_es": "Set de 17 piezas de utensilios de cocina Cuisinart de acero inoxidable",
@@ -2003,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725054",
       "published_at": "2026-07-05T22:46:39+00:00",
-      "revalidated_at": "2026-07-06T15:16:15+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "B082QC2MCX",
@@ -2223,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724523",
       "published_at": "2026-07-05T20:46:22+00:00",
-      "revalidated_at": "2026-07-06T15:16:15+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "0395177111",
@@ -2399,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724286",
       "published_at": "2026-07-05T18:47:54+00:00",
-      "revalidated_at": "2026-07-06T15:16:15+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "B0GLJXW8F6",
@@ -2575,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724052",
       "published_at": "2026-07-05T17:16:16+00:00",
-      "revalidated_at": "2026-07-06T15:16:15+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "B07HFWFQKJ",
@@ -2597,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724064",
       "published_at": "2026-07-05T17:01:15+00:00",
-      "revalidated_at": "2026-07-06T15:16:15+00:00"
+      "revalidated_at": "2026-07-06T17:31:12+00:00"
     },
     {
       "asin": "B09HN1C1YJ",
