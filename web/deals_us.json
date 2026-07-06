@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T19:19:55+00:00",
+  "generated_at": "2026-07-06T19:31:18+00:00",
   "market": "us",
-  "count": 120,
+  "count": 117,
   "deals": [
     {
       "asin": "B0DHZ6889L",
@@ -14,11 +14,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 80.0,
-      "rating": null,
+      "rating": 4.7,
       "condition": "code",
       "code": "54J7UQ86",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/20911266.thumb",
+      "image": "https://m.media-amazon.com/images/I/815lRsufg8L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DHZ6889L/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19728225",
@@ -102,11 +102,11 @@
       "price_old": 15.99,
       "currency": "USD",
       "discount_pct": 30.6,
-      "rating": null,
+      "rating": 4.2,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20908278.thumb",
+      "image": "https://m.media-amazon.com/images/I/81QrPvm11vL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D8N1HP7F/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19726941",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19728417",
       "published_at": "2026-07-06T17:46:09+00:00",
-      "revalidated_at": "2026-07-06T17:46:09+00:00"
+      "revalidated_at": "2026-07-06T19:31:18+00:00"
     },
     {
       "asin": "B09KWZ8MD8",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19728297",
       "published_at": "2026-07-06T17:46:09+00:00",
-      "revalidated_at": "2026-07-06T17:46:09+00:00"
+      "revalidated_at": "2026-07-06T19:31:18+00:00"
     },
     {
       "asin": "B07HKVBRCF",
@@ -686,28 +686,6 @@
       "revalidated_at": "2026-07-06T18:01:11+00:00"
     },
     {
-      "asin": "B0C8VKNJ1B",
-      "title": "Super Mario RPG - Nintendo Switch (US Version)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 32.09,
-      "price_old": 59.99,
-      "currency": "USD",
-      "discount_pct": 46.5,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81pUNVRNnFL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0C8VKNJ1B/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19727763",
-      "published_at": "2026-07-06T15:46:11+00:00",
-      "revalidated_at": "2026-07-06T17:46:09+00:00"
-    },
-    {
       "asin": "B087F4XHFS",
       "title": "2-Pack 8-Qt Miracle-Gro Indoor Potting Mix for Seed Starting at Amazon",
       "title_es": null,
@@ -727,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19727430",
       "published_at": "2026-07-06T15:46:11+00:00",
-      "revalidated_at": "2026-07-06T17:46:09+00:00"
+      "revalidated_at": "2026-07-06T19:31:18+00:00"
     },
     {
       "asin": "B0GBX1WPJP",
@@ -1101,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726176",
       "published_at": "2026-07-06T13:46:52+00:00",
-      "revalidated_at": "2026-07-06T17:46:09+00:00"
+      "revalidated_at": "2026-07-06T19:31:18+00:00"
     },
     {
       "asin": "B000Q80SM6",
@@ -1123,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726746",
       "published_at": "2026-07-06T13:46:52+00:00",
-      "revalidated_at": "2026-07-06T17:46:09+00:00"
+      "revalidated_at": "2026-07-06T19:31:18+00:00"
     },
     {
       "asin": "B0C7BHBF89",
@@ -1651,29 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725378",
       "published_at": "2026-07-06T03:31:33+00:00",
-      "revalidated_at": "2026-07-06T17:31:12+00:00"
-    },
-    {
-      "asin": "B0BJYKVLRN",
-      "title": "32.5-Oz Palmolive Ultra Dishwashing Liquid Dish Soap (Pure + Clear)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 2.3,
-      "price_old": 4.39,
-      "currency": "USD",
-      "discount_pct": 47.6,
-      "rating": 4.7,
-      "condition": "coupon",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/61191oOUAtL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0BJYKVLRN/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19711485",
-      "published_at": "2026-07-06T03:31:33+00:00",
-      "revalidated_at": "2026-07-06T17:31:12+00:00"
+      "revalidated_at": "2026-07-06T19:31:18+00:00"
     },
     {
       "asin": "B0GGHG97L4",
@@ -1695,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19719597",
       "published_at": "2026-07-06T03:31:33+00:00",
-      "revalidated_at": "2026-07-06T17:31:12+00:00"
+      "revalidated_at": "2026-07-06T19:31:18+00:00"
     },
     {
       "asin": "B08TPTLPRS",
@@ -1915,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724463",
       "published_at": "2026-07-06T01:31:13+00:00",
-      "revalidated_at": "2026-07-06T17:31:12+00:00"
+      "revalidated_at": "2026-07-06T19:31:18+00:00"
     },
     {
       "asin": "B00PCI1EH8",
@@ -1940,28 +1896,6 @@
       "revalidated_at": "2026-07-06T17:46:09+00:00"
     },
     {
-      "asin": "B082QB23YG",
-      "title": "20-Oz NIVEA Refreshing White Peach & Jasmine Body Wash",
-      "title_es": "Gel de ducha NIVEA Refrescante Melocotón Blanco y Jazmín (20 Oz)",
-      "headline": null,
-      "post": "Este gel de ducha NIVEA, con aromas a melocotón blanco y jazmín, ofrece una experiencia refrescante para el cuidado diario de tu piel. Ideal para quienes buscan hidratación y una fragancia agradable durante la ducha.",
-      "post_en": "This NIVEA body wash, with white peach and jasmine scents, offers a refreshing experience for your daily skin care. Perfect for those looking for hydration and a pleasant fragrance during their shower.",
-      "price_new": 3.05,
-      "price_old": 7.99,
-      "currency": "USD",
-      "discount_pct": 61.8,
-      "rating": 4.5,
-      "condition": "coupon",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/61gOgbwXqML._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B082QB23YG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19724415",
-      "published_at": "2026-07-06T01:16:27+00:00",
-      "revalidated_at": "2026-07-06T17:31:12+00:00"
-    },
-    {
       "asin": "B0F2SZLTLH",
       "title": "1.51-Oz GOODAL Heartleaf Hyaluron Gel Mask",
       "title_es": "Mascarilla de gel GOODAL Heartleaf Hyaluron (1.51 Oz)",
@@ -1981,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19679292",
       "published_at": "2026-07-06T01:16:27+00:00",
-      "revalidated_at": "2026-07-06T17:31:12+00:00"
+      "revalidated_at": "2026-07-06T19:31:18+00:00"
     },
     {
       "asin": "B0F79LJ3LC",
@@ -2223,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725054",
       "published_at": "2026-07-05T22:46:39+00:00",
-      "revalidated_at": "2026-07-06T17:31:12+00:00"
+      "revalidated_at": "2026-07-06T19:31:18+00:00"
     },
     {
       "asin": "B082QC2MCX",
@@ -2443,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724523",
       "published_at": "2026-07-05T20:46:22+00:00",
-      "revalidated_at": "2026-07-06T17:31:12+00:00"
+      "revalidated_at": "2026-07-06T19:31:18+00:00"
     },
     {
       "asin": "0395177111",
@@ -2597,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724286",
       "published_at": "2026-07-05T18:47:54+00:00",
-      "revalidated_at": "2026-07-06T17:31:12+00:00"
+      "revalidated_at": "2026-07-06T19:31:18+00:00"
     },
     {
       "asin": "B0GLJXW8F6",
