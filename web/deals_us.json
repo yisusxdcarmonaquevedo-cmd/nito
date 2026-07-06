@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T00:01:58+00:00",
+  "generated_at": "2026-07-06T00:16:13+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -314,10 +314,10 @@
     {
       "asin": "B0042ET0H4",
       "title": "5-Pk Pentel Wow! Retractable Ballpoint Pens (Red Ink, 1.0mm)",
-      "title_es": null,
+      "title_es": "Bolígrafos retráctiles Pentel Wow! (Tinta roja, 1.0mm) - Paquete de 5",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este paquete incluye cinco bolígrafos Pentel Wow! retráctiles con tinta roja de 1.0mm, ideales para escribir, tomar notas o corregir documentos. Su diseño cómodo y mecanismo retráctil los hacen perfectos para uso diario en la oficina o el estudio.",
+      "post_en": "This pack includes five Pentel Wow! retractable ballpoint pens with 1.0mm red ink, ideal for writing, note-taking, or marking documents. Their comfortable design and retractable mechanism make them perfect for daily use in the office or for studying.",
       "price_new": 1.5,
       "price_old": 60.0,
       "currency": "USD",
@@ -468,10 +468,10 @@
     {
       "asin": "0395177111",
       "title": "The Hobbit: Or There and Back Again Deluxe Collector's Edition (Hardcover Book)",
-      "title_es": null,
+      "title_es": "The Hobbit: Or There and Back Again Edición de Coleccionista de Lujo (Libro de tapa dura)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Descubre la edición de lujo de tapa dura de \"The Hobbit: Or There and Back Again\", una obra clásica de la literatura fantástica. Es ideal para coleccionistas y nuevos lectores que deseen sumergirse en la Tierra Media.",
+      "post_en": "Discover the deluxe hardcover collector's edition of \"The Hobbit: Or There and Back Again\", a classic work of fantasy literature. It's ideal for collectors and new readers who wish to immerse themselves in Middle-earth.",
       "price_new": 19.35,
       "price_old": 40.0,
       "currency": "USD",
@@ -485,15 +485,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19722924",
       "published_at": "2026-07-05T20:16:15+00:00",
-      "revalidated_at": "2026-07-05T22:16:22+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B0GT8553DK",
       "title": "4-Piece Bedsure Grey Travel Blanket Set (Fleece Throw, Inflatable Neck Pillow, Eye Mask & Storage Bag)",
-      "title_es": null,
+      "title_es": "Set de Manta de Viaje Gris Bedsure de 4 piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set de viaje Bedsure de 4 piezas incluye una manta de forro polar, una almohada inflable para el cuello, un antifaz y una bolsa de almacenamiento. Es perfecto para viajeros que buscan comodidad y descanso durante sus trayectos.",
+      "post_en": "This 4-piece Bedsure travel set includes a fleece throw blanket, an inflatable neck pillow, an eye mask, and a storage bag. It's perfect for travelers seeking comfort and rest during their journeys.",
       "price_new": 15.99,
       "price_old": 32.99,
       "currency": "USD",
@@ -534,10 +534,10 @@
     {
       "asin": "B09XWD4R82",
       "title": "$23.97* | 51.3mm Casio Men's Illuminator AE1500WH Digital Watch (Black) at Amazon",
-      "title_es": null,
+      "title_es": "Reloj digital Casio Illuminator AE1500WH de 51.3mm para hombre (Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El reloj digital Casio Illuminator AE1500WH para hombre cuenta con una pantalla grande y retroiluminación para una fácil lectura en cualquier condición. Es un accesorio funcional y robusto, ideal para el uso diario o actividades al aire libre.",
+      "post_en": "The Casio Illuminator AE1500WH digital watch for men features a large display and backlight for easy reading in any conditions. It's a functional and robust accessory, ideal for daily wear or outdoor activities.",
       "price_new": 23.97,
       "price_old": 39.95,
       "currency": "USD",
@@ -556,10 +556,10 @@
     {
       "asin": "B0D3J61DQ4",
       "title": "$487* | 128GB 11\" Apple iPad Air Tablet: M2, Wi-Fi 6E + 5G Cellular at Amazon",
-      "title_es": null,
+      "title_es": "Tablet Apple iPad Air de 11\" y 128GB: M2, Wi-Fi 6E + 5G Cellular",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta del rendimiento avanzado del Apple iPad Air de 11\" con chip M2, 128GB de almacenamiento y conectividad Wi-Fi 6E y 5G Cellular. Es perfecto para profesionales, estudiantes y cualquier usuario que busque potencia y portabilidad.",
+      "post_en": "Enjoy the advanced performance of the 11\" Apple iPad Air with M2 chip, 128GB storage, and Wi-Fi 6E plus 5G Cellular connectivity. It's perfect for professionals, students, and any user looking for power and portability.",
       "price_new": 487.0,
       "price_old": 749.0,
       "currency": "USD",
@@ -600,10 +600,10 @@
     {
       "asin": "B0CV2HGNY9",
       "title": "$26.99* | 808-Piece LEGO Speed Champions: Mercedes - Mercedes-AMG G 63 & Mercedes-AMG SL 63 (76924, 2024) at Amazon",
-      "title_es": null,
+      "title_es": "Set LEGO Speed Champions de 808 piezas: Mercedes-AMG G 63 y Mercedes-AMG SL 63 (76924, 2024)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Construye los icónicos Mercedes-AMG G 63 y Mercedes-AMG SL 63 con este set LEGO Speed Champions de 808 piezas, ideal para aficionados a los coches y los bloques de construcción. Es una actividad divertida y creativa para niños y adultos por igual.",
+      "post_en": "Build the iconic Mercedes-AMG G 63 and Mercedes-AMG SL 63 with this 808-piece LEGO Speed Champions set, ideal for car enthusiasts and building block fans. It's a fun and creative activity for both children and adults.",
       "price_new": 26.99,
       "price_old": 44.99,
       "currency": "USD",
@@ -622,10 +622,10 @@
     {
       "asin": "B0BDJ4MCHS",
       "title": "Apple iPhone 14 Plus Leather Case with MagSafe - Forest Green at Amazon",
-      "title_es": null,
+      "title_es": "Funda de piel Apple para iPhone 14 Plus con MagSafe - Verde Bosque",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Protege tu iPhone 14 Plus con esta elegante funda de piel original de Apple, compatible con MagSafe para una carga y accesorios sencillos. Ideal para usuarios que buscan combinar estilo y funcionalidad con la calidad de Apple.",
+      "post_en": "Protect your iPhone 14 Plus with this elegant original Apple leather case, compatible with MagSafe for easy charging and accessories. Perfect for users seeking to combine style and functionality with Apple quality.",
       "price_new": 9.99,
       "price_old": 59.0,
       "currency": "USD",
@@ -644,10 +644,10 @@
     {
       "asin": "B0GLJXW8F6",
       "title": "Nike Unisex Vintage Icon Aviator Sunglasses (Black/Grey)",
-      "title_es": null,
+      "title_es": "Gafas de sol Nike Unisex Vintage Icon Aviator (Negro/Gris)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Gafas de sol Nike Unisex Vintage Icon Aviator con un diseño clásico y atemporal en negro y gris. Son perfectas para proteger tus ojos con estilo en cualquier ocasión.",
+      "post_en": "Nike Unisex Vintage Icon Aviator Sunglasses featuring a classic and timeless black and grey design. They are perfect for protecting your eyes with style on any occasion.",
       "price_new": 54.29,
       "price_old": 89.0,
       "currency": "USD",
@@ -666,10 +666,10 @@
     {
       "asin": "B0DP1WXVK8",
       "title": "atatix Espresso Machine with Milk Frother, 20 Bar Pressure Espresso Maker, with 44OZ Removable Tank",
-      "title_es": null,
+      "title_es": "Cafetera espresso atatix con espumador de leche, 20 bares de presión y depósito de 44OZ",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Prepara deliciosos espressos y capuccinos con esta cafetera atatix de 20 bares de presión y espumador de leche integrado. Su depósito extraíble de 44OZ facilita el rellenado y la limpieza para los amantes del café.",
+      "post_en": "Prepare delicious espressos and cappuccinos with this atatix 20 Bar Espresso Machine, featuring an integrated milk frother. Its 44OZ removable tank makes refilling and cleaning easy for coffee lovers.",
       "price_new": 111.1,
       "price_old": 179.21,
       "currency": "USD",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19723005",
       "published_at": "2026-07-05T18:31:26+00:00",
-      "revalidated_at": "2026-07-05T22:16:22+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B071VWL7JQ",
@@ -732,10 +732,10 @@
     {
       "asin": "B0DSJ4LCFZ",
       "title": "OLIGHT Oclip Pro Rechargeable 500 Lumen EDC Flashlight (Various) from",
-      "title_es": null,
+      "title_es": "Linterna OLIGHT Oclip Pro recargable de 500 lúmenes EDC (varios)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La OLIGHT Oclip Pro es una linterna EDC recargable y compacta de 500 lúmenes, ideal para llevar a diario gracias a su diseño versátil. Perfecta para situaciones de emergencia, actividades al aire libre o uso doméstico.",
+      "post_en": "The OLIGHT Oclip Pro is a rechargeable and compact 500 lumen EDC flashlight, ideal for everyday carry thanks to its versatile design. Perfect for emergency situations, outdoor activities, or home use.",
       "price_new": 24.0,
       "price_old": 39.99,
       "currency": "USD",
@@ -754,10 +754,10 @@
     {
       "asin": "B0D4RJGFDT",
       "title": "$25.38* | Metal Gear Solid Delta: Snake Eater Tactical Edition (PlayStation 5) at Amazon",
-      "title_es": null,
+      "title_es": "Metal Gear Solid Delta: Snake Eater Tactical Edition (PlayStation 5)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en la acción con Metal Gear Solid Delta: Snake Eater Tactical Edition para PlayStation 5, una reimaginación del clásico de espionaje. Disfruta de una experiencia de juego inmersiva con gráficos mejorados y nuevas características tácticas.",
+      "post_en": "Dive into the action with Metal Gear Solid Delta: Snake Eater Tactical Edition for PlayStation 5, a reimagining of the classic stealth espionage game. Enjoy an immersive gaming experience with enhanced graphics and new tactical features.",
       "price_new": 25.38,
       "price_old": 49.99,
       "currency": "USD",
@@ -776,10 +776,10 @@
     {
       "asin": "B0GGJ7334B",
       "title": "DREAME MF10 Bladeless Spatial Airflow Tower Fan",
-      "title_es": null,
+      "title_es": "Ventilador de torre sin aspas DREAME MF10 con flujo de aire espacial",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Refresca tu hogar con el ventilador de torre sin aspas DREAME MF10, que ofrece un flujo de aire espacial para una distribución uniforme. Su diseño moderno y silencioso lo hace ideal para cualquier habitación.",
+      "post_en": "Cool your home with the DREAME MF10 Bladeless Spatial Airflow Tower Fan, offering spatial airflow for even distribution. Its modern and quiet design makes it ideal for any room.",
       "price_new": 168.3,
       "price_old": 299.99,
       "currency": "USD",
@@ -881,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19723287",
       "published_at": "2026-07-05T16:31:48+00:00",
-      "revalidated_at": "2026-07-05T22:16:22+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B0DBRN6LVS",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19711131",
       "published_at": "2026-07-05T16:31:48+00:00",
-      "revalidated_at": "2026-07-05T22:16:22+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B0DRFD816V",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19723518",
       "published_at": "2026-07-05T12:31:24+00:00",
-      "revalidated_at": "2026-07-05T22:16:22+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B00PXVTU5C",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722735",
       "published_at": "2026-07-05T12:31:24+00:00",
-      "revalidated_at": "2026-07-05T22:16:22+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B0DB6HYYHP",
@@ -1233,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19723524",
       "published_at": "2026-07-05T12:16:28+00:00",
-      "revalidated_at": "2026-07-05T22:01:33+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B0CFF29FYF",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19723473",
       "published_at": "2026-07-05T12:16:28+00:00",
-      "revalidated_at": "2026-07-05T22:01:33+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B0BZT7H8CN",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722798",
       "published_at": "2026-07-05T08:31:02+00:00",
-      "revalidated_at": "2026-07-05T22:16:22+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B014W1Z890",
@@ -1431,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19723035",
       "published_at": "2026-07-05T08:16:02+00:00",
-      "revalidated_at": "2026-07-05T22:01:33+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B0DDDPLBDH",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19718043",
       "published_at": "2026-07-05T06:30:43+00:00",
-      "revalidated_at": "2026-07-05T22:16:22+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B0GGGWTG2S",
@@ -1585,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19714767",
       "published_at": "2026-07-05T06:15:41+00:00",
-      "revalidated_at": "2026-07-05T22:01:33+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B0GX8ZYQ8F",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19696380",
       "published_at": "2026-07-05T04:00:49+00:00",
-      "revalidated_at": "2026-07-05T22:01:33+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B09L5NG2JH",
@@ -1827,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722459",
       "published_at": "2026-07-05T03:46:14+00:00",
-      "revalidated_at": "2026-07-05T22:01:33+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B0F3M667WD",
@@ -1849,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722456",
       "published_at": "2026-07-05T03:46:14+00:00",
-      "revalidated_at": "2026-07-05T22:01:33+00:00"
+      "revalidated_at": "2026-07-06T00:16:13+00:00"
     },
     {
       "asin": "B0GYSJHXM8",
