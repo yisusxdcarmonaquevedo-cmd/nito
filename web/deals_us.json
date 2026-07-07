@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-07-07T01:16:08+00:00",
+  "generated_at": "2026-07-07T01:31:06+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B000JQN7SC",
+      "title": "Mr. Scrappy 11\" Universal Garbage Disposal Brush (Yellow)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.2,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 79.4,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/2/1/6/8/2/2/0/450x450/20914056.thumb",
+      "url": "https://amazon.com/dp/B000JQN7SC/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19729470",
+      "published_at": "2026-07-07T01:31:06+00:00",
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
+    },
+    {
+      "asin": "B0DPLMLY6K",
+      "title": "S&S | Cascade Free & Clear Dishwasher Pods, Dishwasher Detergent, Dish Detergent Soap, Lemon Essence, 47 Count",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.99,
+      "price_old": 19.99,
+      "currency": "USD",
+      "discount_pct": 35.0,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/3/5/0/6/0/450x450/20914653.thumb",
+      "url": "https://amazon.com/dp/B0DPLMLY6K/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19729824",
+      "published_at": "2026-07-07T01:31:06+00:00",
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
+    },
     {
       "asin": "B0C5RBTC53",
       "title": "Belkin Boost Charge 30W 4-Port USB-C Car Charger w/ Power Delivery",
@@ -14,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 57.2,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/7/2/2/9/6/4/450x450/20914698.thumb",
+      "image": "https://m.media-amazon.com/images/I/41PXmAsOrHL._AC_SL1000_.jpg",
       "url": "https://amazon.com/dp/B0C5RBTC53/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19729956",
@@ -375,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725882",
       "published_at": "2026-07-06T23:37:28+00:00",
-      "revalidated_at": "2026-07-06T23:37:28+00:00"
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
     },
     {
       "asin": "B0CRHF41F7",
@@ -617,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729008",
       "published_at": "2026-07-06T21:31:33+00:00",
-      "revalidated_at": "2026-07-06T23:31:39+00:00"
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
     },
     {
       "asin": "B079MGVL1T",
@@ -2245,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19719309",
       "published_at": "2026-07-06T11:31:34+00:00",
-      "revalidated_at": "2026-07-06T23:31:39+00:00"
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
     },
     {
       "asin": "0544445783",
@@ -2267,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726908",
       "published_at": "2026-07-06T11:16:31+00:00",
-      "revalidated_at": "2026-07-06T23:31:39+00:00"
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
     },
     {
       "asin": "B08QZVSC8D",
@@ -2311,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725879",
       "published_at": "2026-07-06T10:31:45+00:00",
-      "revalidated_at": "2026-07-06T23:31:39+00:00"
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
     },
     {
       "asin": "B073HP1JG6",
@@ -2333,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726338",
       "published_at": "2026-07-06T09:16:36+00:00",
-      "revalidated_at": "2026-07-06T23:31:39+00:00"
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
     },
     {
       "asin": "B0DCHN3YQL",
@@ -2355,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726188",
       "published_at": "2026-07-06T08:47:02+00:00",
-      "revalidated_at": "2026-07-06T23:31:39+00:00"
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
     },
     {
       "asin": "B07FVYPT22",
@@ -2399,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725900",
       "published_at": "2026-07-06T06:46:19+00:00",
-      "revalidated_at": "2026-07-06T23:31:39+00:00"
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
     },
     {
       "asin": "B014VBH4R0",
@@ -2443,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19713372",
       "published_at": "2026-07-06T05:01:22+00:00",
-      "revalidated_at": "2026-07-06T23:31:39+00:00"
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
     },
     {
       "asin": "B07X3XTCHW",
@@ -2531,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725450",
       "published_at": "2026-07-06T03:16:37+00:00",
-      "revalidated_at": "2026-07-06T23:31:39+00:00"
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
     },
     {
       "asin": "B0DVBP5L6Y",
@@ -2553,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725666",
       "published_at": "2026-07-06T03:16:37+00:00",
-      "revalidated_at": "2026-07-06T23:31:39+00:00"
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
     },
     {
       "asin": "B004AI97MA",
@@ -2575,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725576",
       "published_at": "2026-07-06T03:01:25+00:00",
-      "revalidated_at": "2026-07-06T23:31:39+00:00"
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
     },
     {
       "asin": "B0CN86DV9L",
@@ -2597,51 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19724868",
       "published_at": "2026-07-06T03:01:25+00:00",
-      "revalidated_at": "2026-07-06T23:31:39+00:00"
-    },
-    {
-      "asin": "B0G5B3NHZK",
-      "title": "15-Pack 12oz PRIME Hydration Sports Drink Variety Pack w/ Electrolytes & B Vitamins",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.47,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 72.9,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81KVaCvRALL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G5B3NHZK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19725456",
-      "published_at": "2026-07-06T02:16:33+00:00",
-      "revalidated_at": "2026-07-07T00:46:08+00:00"
-    },
-    {
-      "asin": "B005FQDHHC",
-      "title": "Klein Tools 32561 6-in-1 Multi-Bit Screwdriver/Nut Driver",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 8.98,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 74.3,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51ShpBsEu2L._AC_SL1050_.jpg",
-      "url": "https://amazon.com/dp/B005FQDHHC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19725369",
-      "published_at": "2026-07-06T02:01:23+00:00",
-      "revalidated_at": "2026-07-07T00:46:08+00:00"
+      "revalidated_at": "2026-07-07T01:31:06+00:00"
     }
   ]
 }
