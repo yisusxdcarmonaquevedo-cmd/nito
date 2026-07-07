@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-07T18:01:09+00:00",
+  "generated_at": "2026-07-07T18:16:05+00:00",
   "market": "us",
-  "count": 117,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B07VH7ZQGC",
+      "title": "$8.49* | 20-Pc Amartisan Metric & SAE Hex Bit Set w/ Storage Box at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.49,
+      "price_old": 12.99,
+      "currency": "USD",
+      "discount_pct": 34.6,
+      "rating": 4.6,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81vWAviq3ML._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07VH7ZQGC/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19731021",
+      "published_at": "2026-07-07T18:16:05+00:00",
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
+    },
     {
       "asin": "B0FHJKS227",
       "title": "3 Pack TP-Link Deco 7 Pro BE14000 Tri-Band Wi-Fi 7 Whole Home Mesh System",
@@ -256,11 +278,11 @@
       "price_old": 29.99,
       "currency": "USD",
       "discount_pct": 59.4,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20918085.thumb",
+      "image": "https://m.media-amazon.com/images/I/91UuFrPsGcL._SL1500_.jpg",
       "url": "https://amazon.com/dp/1631409905/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19731411",
@@ -278,11 +300,11 @@
       "price_old": 19.99,
       "currency": "USD",
       "discount_pct": 60.2,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20919126.thumb",
+      "image": "https://m.media-amazon.com/images/I/414Dm9qShSL._AC_SL1183_.jpg",
       "url": "https://amazon.com/dp/B00004RH4D/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19731792",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19730754",
       "published_at": "2026-07-07T12:15:52+00:00",
-      "revalidated_at": "2026-07-07T16:16:14+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B07581CXYK",
@@ -947,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726602",
       "published_at": "2026-07-07T04:31:25+00:00",
-      "revalidated_at": "2026-07-07T16:16:14+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B0DHV86T1S",
@@ -969,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729125",
       "published_at": "2026-07-07T04:31:25+00:00",
-      "revalidated_at": "2026-07-07T16:16:14+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B00CJCPRC8",
@@ -1365,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729110",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-07T16:16:14+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B0BPJRGNSD",
@@ -1387,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729533",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-07T16:16:14+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B0FXM5G3FF",
@@ -1409,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729092",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-07T16:16:14+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B0DH1XQT9W",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729626",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-07T16:16:14+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B07BK3T9K3",
@@ -1453,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19728537",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-07T16:16:14+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B0F21QPVXM",
@@ -1475,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19679001",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-07T16:16:14+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B0G1VGRHXH",
@@ -1519,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726776",
       "published_at": "2026-07-07T00:17:55+00:00",
-      "revalidated_at": "2026-07-07T16:16:14+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B0DKVDMPT9",
@@ -1541,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729527",
       "published_at": "2026-07-07T00:17:55+00:00",
-      "revalidated_at": "2026-07-07T16:16:14+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B0F621334G",
@@ -2289,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726542",
       "published_at": "2026-07-06T18:16:10+00:00",
-      "revalidated_at": "2026-07-07T16:01:19+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B0GJFYYT9S",
@@ -2311,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726155",
       "published_at": "2026-07-06T18:01:11+00:00",
-      "revalidated_at": "2026-07-07T16:01:19+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B0DZWV2K1G",
@@ -2333,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19727685",
       "published_at": "2026-07-06T18:01:11+00:00",
-      "revalidated_at": "2026-07-07T16:01:19+00:00"
+      "revalidated_at": "2026-07-07T18:16:05+00:00"
     },
     {
       "asin": "B0FD7PD58L",
