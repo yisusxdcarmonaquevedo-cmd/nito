@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-07-08T17:46:12+00:00",
+  "generated_at": "2026-07-08T18:01:30+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0GGHKGQKG",
+      "title": "6-Count LETMY IP65 Waterproof Outdoor Wall/Ground Solar Spot Lights w/ 14 LEDs & 2 Modes",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.21,
+      "price_old": 19.24,
+      "currency": "USD",
+      "discount_pct": 83.3,
+      "rating": null,
+      "condition": "code",
+      "code": "SRML3FEQ",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/20930697.thumb",
+      "url": "https://amazon.com/dp/B0GGHKGQKG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19737018",
+      "published_at": "2026-07-08T18:01:30+00:00",
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
+    },
+    {
+      "asin": "B0FNCXKWZP",
+      "title": "GETPALS 3-in-1 Wireless Charger Stand for iPhone, Apple Watch & AirPods",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.0,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 60.0,
+      "rating": null,
+      "condition": "code",
+      "code": "KDXZ6DR5",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20918892.thumb",
+      "url": "https://amazon.com/dp/B0FNCXKWZP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19731717",
+      "published_at": "2026-07-08T18:01:30+00:00",
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
+    },
+    {
+      "asin": "B0D3J61DQ4",
+      "title": "$487* | 128GB 11\" Apple iPad Air Tablet (Blue): M2, Wi-Fi 6E + Cellular 5G at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 487.0,
+      "price_old": 749.0,
+      "currency": "USD",
+      "discount_pct": 35.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20931126.thumb",
+      "url": "https://amazon.com/dp/B0D3J61DQ4/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19737180",
+      "published_at": "2026-07-08T18:01:30+00:00",
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
+    },
+    {
+      "asin": "B0GDSVBM9H",
+      "title": "Tapo MagCam 4K Outdoor Wireless Security Camera – Battery Power with Solar, Magnetic Mount, Person/Vehicle Detection (3-Pack)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 259.99,
+      "price_old": 399.99,
+      "currency": "USD",
+      "discount_pct": 35.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/7/8/2/5/3/3/4/450x450/20929386.thumb",
+      "url": "https://amazon.com/dp/B0GDSVBM9H/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19736472",
+      "published_at": "2026-07-08T18:01:30+00:00",
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
+    },
+    {
+      "asin": "B0FHB84B41",
+      "title": "$42.99* | EF ECOFLOW RAPID Pro 10,000mAh 3-in-1 Power Bank w/ Built-in 65W Wall Plug & USB-C Cable at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 42.99,
+      "price_old": 64.99,
+      "currency": "USD",
+      "discount_pct": 33.9,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20930010.thumb",
+      "url": "https://amazon.com/dp/B0FHB84B41/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19736685",
+      "published_at": "2026-07-08T18:01:30+00:00",
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
+    },
     {
       "asin": "B0F3CNT95D",
       "title": "CINCOM Cordless Leg Massager Recovery System w/ 5-Zone Air Compression, LCD Control & Carry Bag (S-L)",
@@ -353,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733235",
       "published_at": "2026-07-08T16:01:23+00:00",
-      "revalidated_at": "2026-07-08T16:01:23+00:00"
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
     },
     {
       "asin": "B07P7HPWC3",
@@ -793,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735590",
       "published_at": "2026-07-08T12:16:32+00:00",
-      "revalidated_at": "2026-07-08T16:01:23+00:00"
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
     },
     {
       "asin": "B000GASBNC",
@@ -815,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19719183",
       "published_at": "2026-07-08T12:16:32+00:00",
-      "revalidated_at": "2026-07-08T16:01:23+00:00"
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
     },
     {
       "asin": "B0CHY3SGM9",
@@ -837,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735566",
       "published_at": "2026-07-08T12:16:32+00:00",
-      "revalidated_at": "2026-07-08T16:01:23+00:00"
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
     },
     {
       "asin": "B005OQYCKE",
@@ -925,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722294",
       "published_at": "2026-07-08T10:01:35+00:00",
-      "revalidated_at": "2026-07-08T16:01:23+00:00"
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
     },
     {
       "asin": "B0B39PHCVZ",
@@ -991,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732812",
       "published_at": "2026-07-08T08:16:40+00:00",
-      "revalidated_at": "2026-07-08T16:01:23+00:00"
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
     },
     {
       "asin": "B0FBPVDGM4",
@@ -1079,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732752",
       "published_at": "2026-07-08T06:31:38+00:00",
-      "revalidated_at": "2026-07-08T16:01:23+00:00"
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
     },
     {
       "asin": "B07KKC6JJF",
@@ -1211,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733754",
       "published_at": "2026-07-08T04:31:14+00:00",
-      "revalidated_at": "2026-07-08T16:01:23+00:00"
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
     },
     {
       "asin": "B0DMVW1GRY",
@@ -1937,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19731021",
       "published_at": "2026-07-07T18:16:05+00:00",
-      "revalidated_at": "2026-07-08T15:46:28+00:00"
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
     },
     {
       "asin": "B0FHJKS227",
@@ -2509,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19730754",
       "published_at": "2026-07-07T12:15:52+00:00",
-      "revalidated_at": "2026-07-08T15:46:28+00:00"
+      "revalidated_at": "2026-07-08T18:01:30+00:00"
     },
     {
       "asin": "B07581CXYK",
@@ -2532,94 +2642,6 @@
       "deal_key": "sd:19730772",
       "published_at": "2026-07-07T11:30:56+00:00",
       "revalidated_at": "2026-07-08T17:16:27+00:00"
-    },
-    {
-      "asin": "B0FM7RR519",
-      "title": "$13.29* | 31L RealCool Laptop Backpack 15.6-17 Inch (Gray) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 13.29,
-      "price_old": 29.98,
-      "currency": "USD",
-      "discount_pct": 55.7,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81V8TeqPClL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FM7RR519/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19731102",
-      "published_at": "2026-07-07T11:30:56+00:00",
-      "revalidated_at": "2026-07-08T17:46:12+00:00"
-    },
-    {
-      "asin": "B0DR1K3DM1",
-      "title": "$14.99* | UGREEN Wireless Bluetooth Vertical Ergonomic Mouse at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 14.99,
-      "price_old": 25.99,
-      "currency": "USD",
-      "discount_pct": 42.3,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51ajqadTtaL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DR1K3DM1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19726590",
-      "published_at": "2026-07-07T10:16:02+00:00",
-      "revalidated_at": "2026-07-08T15:46:28+00:00"
-    },
-    {
-      "asin": "B0FVWT7BKQ",
-      "title": "2-Piece Sampeel Women's V-Neck Short Sleeve Top & Wide Leg Pants Lounge Set (Various)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 11.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 65.7,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "ND6FU7AA",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61sscewQWQL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FVWT7BKQ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19729365",
-      "published_at": "2026-07-07T08:45:51+00:00",
-      "revalidated_at": "2026-07-08T17:01:30+00:00"
-    },
-    {
-      "asin": "B0CV2KSL3V",
-      "title": "278-Piece LEGO Icons Chrysanthemum Building Kit",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 23.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 31.5,
-      "rating": 4.9,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71CQditw8GL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CV2KSL3V/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19727472",
-      "published_at": "2026-07-07T08:00:49+00:00",
-      "revalidated_at": "2026-07-08T17:46:12+00:00"
     }
   ]
 }
