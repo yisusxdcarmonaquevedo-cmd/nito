@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-07-08T14:02:07+00:00",
+  "generated_at": "2026-07-08T14:16:43+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0BF9YFL2X",
+      "title": "$79* | 12\" Greenworks 24V Gen 2 Cordless String Trimmer w/ 2.0Ah Battery & Charger at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 79.0,
+      "price_old": 139.99,
+      "currency": "USD",
+      "discount_pct": 43.6,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20928732.thumb",
+      "url": "https://amazon.com/dp/B0BF9YFL2X/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19736085",
+      "published_at": "2026-07-08T14:16:43+00:00",
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
+    },
+    {
+      "asin": "B0DBQFWR1X",
+      "title": "GenArmor Waterproof Generator Running Cover w/ Metal Frame (Fits Most 4000W–13000W Generators, Black or Gray) from",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 86.91,
+      "price_old": 139.96,
+      "currency": "USD",
+      "discount_pct": 37.9,
+      "rating": null,
+      "condition": "code",
+      "code": "NG2TQQVU",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/20912238.thumb",
+      "url": "https://amazon.com/dp/B0DBQFWR1X/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19728747",
+      "published_at": "2026-07-08T14:16:43+00:00",
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
+    },
     {
       "asin": "B0F63Z42RW",
       "title": "Belkin 6.6' 240W USB-C to USB-C Braided Cable (White)",
@@ -199,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735647",
       "published_at": "2026-07-08T12:31:28+00:00",
-      "revalidated_at": "2026-07-08T12:31:28+00:00"
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
     },
     {
       "asin": "B0F3QSWM74",
@@ -617,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19734822",
       "published_at": "2026-07-08T04:46:09+00:00",
-      "revalidated_at": "2026-07-08T12:31:28+00:00"
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
     },
     {
       "asin": "B0H666V8FW",
@@ -837,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733475",
       "published_at": "2026-07-08T02:46:07+00:00",
-      "revalidated_at": "2026-07-08T12:31:28+00:00"
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
     },
     {
       "asin": "B0F1THXMJ7",
@@ -859,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19734282",
       "published_at": "2026-07-08T02:46:07+00:00",
-      "revalidated_at": "2026-07-08T12:31:28+00:00"
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
     },
     {
       "asin": "B004SCXNX2",
@@ -1057,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733196",
       "published_at": "2026-07-08T00:31:11+00:00",
-      "revalidated_at": "2026-07-08T12:16:32+00:00"
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
     },
     {
       "asin": "B0BMF7PJ4X",
@@ -1079,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726644",
       "published_at": "2026-07-08T00:31:11+00:00",
-      "revalidated_at": "2026-07-08T12:16:32+00:00"
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
     },
     {
       "asin": "B0D9WC1DJ8",
@@ -1101,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722729",
       "published_at": "2026-07-08T00:31:11+00:00",
-      "revalidated_at": "2026-07-08T12:16:32+00:00"
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
     },
     {
       "asin": "B082TXWGHJ",
@@ -1192,28 +1236,6 @@
       "revalidated_at": "2026-07-08T13:01:28+00:00"
     },
     {
-      "asin": "B0BBJ59WJ4",
-      "title": "AMD Ryzen 9 7900X 12-Core 24-Thread Unlocked Desktop Processor",
-      "title_es": "Procesador de escritorio AMD Ryzen 9 7900X de 12 núcleos y 24 hilos desbloqueado",
-      "headline": null,
-      "post": "El procesador AMD Ryzen 9 7900X ofrece un rendimiento excepcional con 12 núcleos y 24 hilos, ideal para gaming, creación de contenido y multitarea exigente. Es una opción potente para quienes buscan mejorar o construir un PC de alto rendimiento.",
-      "post_en": "The AMD Ryzen 9 7900X processor delivers exceptional performance with 12 cores and 24 threads, ideal for gaming, content creation, and demanding multitasking. It's a powerful choice for those looking to upgrade or build a high-performance PC.",
-      "price_new": 274.95,
-      "price_old": 549.0,
-      "currency": "USD",
-      "discount_pct": 49.9,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51OEiWrUtqL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0BBJ59WJ4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19733076",
-      "published_at": "2026-07-07T21:01:22+00:00",
-      "revalidated_at": "2026-07-08T12:31:28+00:00"
-    },
-    {
       "asin": "B0F5H77D13",
       "title": "WAVLINK USB C / Thunderbolt to 2.5Gbps Ethernet Adapter w/ 95W PD",
       "title_es": "Adaptador WAVLINK USB C / Thunderbolt a Ethernet de 2.5Gbps con PD de 95W",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732773",
       "published_at": "2026-07-07T20:46:10+00:00",
-      "revalidated_at": "2026-07-08T12:31:28+00:00"
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
     },
     {
       "asin": "B0GWZTLVH3",
@@ -1365,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732758",
       "published_at": "2026-07-07T18:46:23+00:00",
-      "revalidated_at": "2026-07-08T12:31:28+00:00"
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
     },
     {
       "asin": "B0DPWW9FPZ",
@@ -1475,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732335",
       "published_at": "2026-07-07T17:01:31+00:00",
-      "revalidated_at": "2026-07-08T12:31:28+00:00"
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
     },
     {
       "asin": "B0C1R4C4J1",
@@ -1497,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19728819",
       "published_at": "2026-07-07T16:46:07+00:00",
-      "revalidated_at": "2026-07-08T12:31:28+00:00"
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
     },
     {
       "asin": "B0G1M9LS6H",
@@ -1519,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19547832",
       "published_at": "2026-07-07T16:31:21+00:00",
-      "revalidated_at": "2026-07-08T12:31:28+00:00"
+      "revalidated_at": "2026-07-08T14:16:43+00:00"
     },
     {
       "asin": "B0BW4V1DWM",
@@ -2597,50 +2619,6 @@
       "source": "slickdeals",
       "deal_key": "sd:19728207",
       "published_at": "2026-07-07T02:16:20+00:00",
-      "revalidated_at": "2026-07-08T14:02:07+00:00"
-    },
-    {
-      "asin": "B0GT6RFQZY",
-      "title": "iRobot Roomba 505X Robot Vacuum & Mop Combo",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 499.99,
-      "price_old": 999.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71w76Q4BvUL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GT6RFQZY/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19729296",
-      "published_at": "2026-07-07T02:16:20+00:00",
-      "revalidated_at": "2026-07-08T14:02:07+00:00"
-    },
-    {
-      "asin": "B0G87JWX8L",
-      "title": "Magic: The Gathering | Marvel Super Heroes Beginner Box | 2-Player Card Game | Includes 2 Tutorial Decks, 8 Themed Half-Decks, 2 Playboards, 2 Spindowns, and More",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 24.44,
-      "price_old": 34.99,
-      "currency": "USD",
-      "discount_pct": 30.2,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71VojC2-eJL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G87JWX8L/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19729674",
-      "published_at": "2026-07-07T01:46:07+00:00",
       "revalidated_at": "2026-07-08T14:02:07+00:00"
     }
   ]
