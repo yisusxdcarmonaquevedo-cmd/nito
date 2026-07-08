@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T06:01:47+00:00",
+  "generated_at": "2026-07-08T06:16:36+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
     {
       "asin": "B07KKC6JJF",
@@ -102,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 80.3,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/4/9/0/0/1/2/450x450/20925654.thumb",
+      "image": "https://m.media-amazon.com/images/I/81qK-pYJqNL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B07W369FR8/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19734822",
@@ -177,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732944",
       "published_at": "2026-07-08T04:16:20+00:00",
-      "revalidated_at": "2026-07-08T04:16:20+00:00"
+      "revalidated_at": "2026-07-08T06:16:36+00:00"
     },
     {
       "asin": "B0GWTNTY7Y",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19730823",
       "published_at": "2026-07-08T02:16:05+00:00",
-      "revalidated_at": "2026-07-08T04:16:20+00:00"
+      "revalidated_at": "2026-07-08T06:16:36+00:00"
     },
     {
       "asin": "B0D6XBZKM1",
@@ -639,29 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733448",
       "published_at": "2026-07-08T00:16:36+00:00",
-      "revalidated_at": "2026-07-08T04:16:20+00:00"
-    },
-    {
-      "asin": "B07DRKZNP7",
-      "title": "16-Pc MulWark Precision Exacto-Style Hobby Knife Set w/ Blades & Storage Case",
-      "title_es": "Set de 16 cuchillos de precisión tipo Exacto MulWark para hobbies",
-      "headline": null,
-      "post": "Este set de 16 cuchillos de precisión tipo Exacto es esencial para entusiastas de manualidades y modelismo. Incluye varias cuchillas y un estuche de almacenamiento para mantener todo organizado y seguro.",
-      "post_en": "This 16-piece Exacto-style precision knife set is essential for crafting and modeling enthusiasts. It includes various blades and a storage case to keep everything organized and safe.",
-      "price_new": 7.8,
-      "price_old": 19.99,
-      "currency": "USD",
-      "discount_pct": 61.0,
-      "rating": 4.7,
-      "condition": "code",
-      "code": "59SY7RVN",
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81MTJu1i+ZL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07DRKZNP7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19733766",
-      "published_at": "2026-07-08T00:16:36+00:00",
-      "revalidated_at": "2026-07-08T04:16:20+00:00"
+      "revalidated_at": "2026-07-08T06:16:36+00:00"
     },
     {
       "asin": "B0892YGN7B",
@@ -683,29 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19734006",
       "published_at": "2026-07-08T00:16:36+00:00",
-      "revalidated_at": "2026-07-08T04:16:20+00:00"
-    },
-    {
-      "asin": "B0G5ZJD37N",
-      "title": "Scarlet Darkness Women’s Boho Maxi Sundress w/ Adjustable Drawstring Neckline & Pockets (S-XXL, Select Colors)",
-      "title_es": "Vestido maxi boho Scarlet Darkness para mujer con cuello ajustable y bolsillos",
-      "headline": null,
-      "post": "Este vestido maxi boho para mujer es perfecto para los días soleados, con un cuello ajustable con cordón y prácticos bolsillos. Ofrece un estilo relajado y cómodo para diversas ocasiones.",
-      "post_en": "This women's boho maxi sundress is perfect for sunny days, featuring an adjustable drawstring neckline and practical pockets. It offers a relaxed and comfortable style for various occasions.",
-      "price_new": 14.79,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 57.7,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "6Q6M4WDZ",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/51aVo8VZQhL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G5ZJD37N/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19733952",
-      "published_at": "2026-07-08T00:16:36+00:00",
-      "revalidated_at": "2026-07-08T04:16:20+00:00"
+      "revalidated_at": "2026-07-08T06:16:36+00:00"
     },
     {
       "asin": "B0GF1MFN3Y",
@@ -727,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733499",
       "published_at": "2026-07-08T00:16:36+00:00",
-      "revalidated_at": "2026-07-08T04:16:20+00:00"
+      "revalidated_at": "2026-07-08T06:16:36+00:00"
     },
     {
       "asin": "B0FJXLTNZZ",
@@ -969,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732788",
       "published_at": "2026-07-07T18:29:21+00:00",
-      "revalidated_at": "2026-07-08T04:16:20+00:00"
+      "revalidated_at": "2026-07-08T06:16:36+00:00"
     },
     {
       "asin": "B07HPHB28G",
@@ -991,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732500",
       "published_at": "2026-07-07T18:29:21+00:00",
-      "revalidated_at": "2026-07-08T04:16:20+00:00"
+      "revalidated_at": "2026-07-08T06:16:36+00:00"
     },
     {
       "asin": "B0CPZ7RBHG",
@@ -1013,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732407",
       "published_at": "2026-07-07T18:29:21+00:00",
-      "revalidated_at": "2026-07-08T04:16:20+00:00"
+      "revalidated_at": "2026-07-08T06:16:36+00:00"
     },
     {
       "asin": "B07VH7ZQGC",
@@ -2355,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729110",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-08T04:01:20+00:00"
+      "revalidated_at": "2026-07-08T06:16:36+00:00"
     },
     {
       "asin": "B0BPJRGNSD",
@@ -2377,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729533",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-08T04:01:20+00:00"
+      "revalidated_at": "2026-07-08T06:16:36+00:00"
     },
     {
       "asin": "B0FXM5G3FF",
@@ -2399,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729092",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-08T04:16:20+00:00"
+      "revalidated_at": "2026-07-08T06:16:36+00:00"
     },
     {
       "asin": "B0DH1XQT9W",
@@ -2421,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729626",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-08T04:16:20+00:00"
+      "revalidated_at": "2026-07-08T06:16:36+00:00"
     },
     {
       "asin": "B07BK3T9K3",
@@ -2443,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19728537",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-08T04:16:20+00:00"
+      "revalidated_at": "2026-07-08T06:16:36+00:00"
     },
     {
       "asin": "B0F21QPVXM",
