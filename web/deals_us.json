@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T01:30:44+00:00",
+  "generated_at": "2026-07-08T01:45:42+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0D6XBZKM1",
@@ -14,11 +14,11 @@
       "price_old": 79.99,
       "currency": "USD",
       "discount_pct": 46.1,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20918571.thumb",
+      "image": "https://m.media-amazon.com/images/I/81ia6IwxocL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D6XBZKM1/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19731564",
@@ -334,28 +334,6 @@
       "revalidated_at": "2026-07-08T00:16:36+00:00"
     },
     {
-      "asin": "B07JQM7C28",
-      "title": "DeWALT 20V MAX Orbital Sander (Tool Only)",
-      "title_es": "Lijadora orbital DeWALT 20V MAX (solo herramienta)",
-      "headline": null,
-      "post": "Esta lijadora orbital DeWALT es ideal para trabajos de bricolaje y acabado de superficies en madera o metal. Ofrece un rendimiento potente y sin cables para usuarios que ya poseen baterías DeWALT.",
-      "post_en": "This DeWALT orbital sander is ideal for DIY projects and finishing wood or metal surfaces. It offers powerful, cordless performance for users who already own DeWALT batteries.",
-      "price_new": 63.9,
-      "price_old": 179.0,
-      "currency": "USD",
-      "discount_pct": 64.3,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/4/3/4/7/1/450x450/20924433.thumb",
-      "url": "https://amazon.com/dp/B07JQM7C28/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19734066",
-      "published_at": "2026-07-07T23:46:29+00:00",
-      "revalidated_at": "2026-07-07T23:46:29+00:00"
-    },
-    {
       "asin": "B0FJXLTNZZ",
       "title": "JUSPRO Dockable Grip Case for Nintendo Switch 2 w/ Quick-Release Joy-Con Design",
       "title_es": "Funda con agarre JUSPRO para Nintendo Switch 2 con diseño de Joy-Con de liberación rápida",
@@ -485,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19649028",
       "published_at": "2026-07-07T20:01:11+00:00",
-      "revalidated_at": "2026-07-07T23:46:29+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B0GD2CTV6B",
@@ -859,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19727205",
       "published_at": "2026-07-07T16:01:19+00:00",
-      "revalidated_at": "2026-07-07T23:46:29+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B07BLHHP7T",
@@ -881,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19731849",
       "published_at": "2026-07-07T16:01:19+00:00",
-      "revalidated_at": "2026-07-07T23:46:29+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B0CGDLN3JP",
@@ -903,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19713183",
       "published_at": "2026-07-07T16:01:19+00:00",
-      "revalidated_at": "2026-07-07T23:46:29+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B0B88T5RDY",
@@ -1123,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19730892",
       "published_at": "2026-07-07T14:01:11+00:00",
-      "revalidated_at": "2026-07-07T23:46:29+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B01G5ATZAE",
@@ -1145,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19731549",
       "published_at": "2026-07-07T14:01:11+00:00",
-      "revalidated_at": "2026-07-07T23:46:29+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B0GXK7GMKQ",
@@ -2355,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19662972",
       "published_at": "2026-07-06T22:16:29+00:00",
-      "revalidated_at": "2026-07-07T23:31:20+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B0BVQX6875",
@@ -2377,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19728843",
       "published_at": "2026-07-06T22:01:30+00:00",
-      "revalidated_at": "2026-07-07T23:31:20+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B0FPDZTZXW",
@@ -2399,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729314",
       "published_at": "2026-07-06T21:46:23+00:00",
-      "revalidated_at": "2026-07-07T23:31:20+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B0FFGMGXT1",
@@ -2443,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729008",
       "published_at": "2026-07-06T21:31:33+00:00",
-      "revalidated_at": "2026-07-07T23:31:20+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B079MGVL1T",
@@ -2487,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19711632",
       "published_at": "2026-07-06T21:16:26+00:00",
-      "revalidated_at": "2026-07-07T23:31:20+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B0BYP44116",
@@ -2509,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19728792",
       "published_at": "2026-07-06T21:01:27+00:00",
-      "revalidated_at": "2026-07-07T23:31:20+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B09L4R5T55",
@@ -2531,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729017",
       "published_at": "2026-07-06T21:01:27+00:00",
-      "revalidated_at": "2026-07-07T23:31:20+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B08BXX69K4",
@@ -2553,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19728858",
       "published_at": "2026-07-06T20:46:13+00:00",
-      "revalidated_at": "2026-07-07T23:31:20+00:00"
+      "revalidated_at": "2026-07-08T01:45:42+00:00"
     },
     {
       "asin": "B0CP6BR96G",
