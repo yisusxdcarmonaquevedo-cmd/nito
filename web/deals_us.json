@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T00:31:11+00:00",
+  "generated_at": "2026-07-08T00:45:40+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -14,11 +14,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 82.1,
-      "rating": null,
+      "rating": 4.5,
       "condition": "coupon",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/9/1/2/6/8/2/450x450/20922351.thumb",
+      "image": "https://m.media-amazon.com/images/I/71ZinfmfzKL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B01J1A3TFW/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19733196",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733076",
       "published_at": "2026-07-07T21:01:22+00:00",
-      "revalidated_at": "2026-07-07T22:46:25+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B0F5H77D13",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732335",
       "published_at": "2026-07-07T17:01:31+00:00",
-      "revalidated_at": "2026-07-07T22:46:25+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B0C1R4C4J1",
@@ -881,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19731792",
       "published_at": "2026-07-07T15:01:13+00:00",
-      "revalidated_at": "2026-07-07T22:46:25+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B000R7VHQM",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19730736",
       "published_at": "2026-07-07T15:01:13+00:00",
-      "revalidated_at": "2026-07-07T22:46:25+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B0FKVWSM3N",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19730814",
       "published_at": "2026-07-07T15:01:13+00:00",
-      "revalidated_at": "2026-07-07T22:46:25+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B07TS6KCXD",
@@ -1018,10 +1018,10 @@
     {
       "asin": "B01G5ATZAE",
       "title": "35.4 x 17.3\" ASUS ROG Sheath Black Extra-Large Gaming Mouse Pad",
-      "title_es": null,
+      "title_es": "Alfombrilla de ratón gaming extragrande ASUS ROG Sheath negra",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mejora tu setup gaming con esta alfombrilla extragrande ASUS ROG Sheath, diseñada para ofrecer precisión y comodidad en tus movimientos. Su superficie suave y duradera es ideal para jugadores que buscan maximizar el espacio y la estabilidad del ratón y teclado.",
+      "post_en": "Enhance your gaming setup with this extra-large ASUS ROG Sheath mouse pad, designed for precision and comfort in your movements. Its smooth and durable surface is ideal for gamers looking to maximize mouse and keyboard space and stability.",
       "price_new": 15.0,
       "price_old": 29.99,
       "currency": "USD",
@@ -1040,10 +1040,10 @@
     {
       "asin": "B0GXK7GMKQ",
       "title": "BEVA Tire Inflator Portable Air Compressor, Fast Inflation Bike Pump with Digital Pressure Gauge and LED Light, 150PSI Portable Air Pump",
-      "title_es": null,
+      "title_es": "Inflador de neumáticos portátil BEVA con compresor de aire",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este inflador de neumáticos portátil BEVA es perfecto para mantener la presión correcta en tus ruedas de coche o bicicleta. Incluye un manómetro digital y luz LED, ofreciendo una solución compacta y eficiente para emergencias o mantenimiento regular.",
+      "post_en": "This portable BEVA tire inflator is perfect for maintaining the correct pressure in your car or bike tires. It includes a digital pressure gauge and LED light, offering a compact and efficient solution for emergencies or regular maintenance.",
       "price_new": 14.99,
       "price_old": 49.99,
       "currency": "USD",
@@ -1062,10 +1062,10 @@
     {
       "asin": "B0FD3B78Y4",
       "title": "Acer 3 in 1 Charging Station for Apple Device, Compatible with MagSafe",
-      "title_es": null,
+      "title_es": "Estación de carga 3 en 1 Acer para dispositivos Apple (compatible con MagSafe)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Simplifica la carga de tus dispositivos Apple con esta estación 3 en 1 de Acer, compatible con MagSafe para una conexión magnética segura. Ideal para cargar tu iPhone, Apple Watch y AirPods simultáneamente en un solo lugar.",
+      "post_en": "Simplify charging your Apple devices with this Acer 3-in-1 station, compatible with MagSafe for a secure magnetic connection. It's ideal for simultaneously charging your iPhone, Apple Watch, and AirPods in one convenient spot.",
       "price_new": 33.0,
       "price_old": 69.99,
       "currency": "USD",
@@ -1084,10 +1084,10 @@
     {
       "asin": "1454944757",
       "title": "$13.72* | The Making of Middle-earth: The Worlds of Tolkien & The Lord of the Rings at Amazon",
-      "title_es": null,
+      "title_es": "El origen de la Tierra Media: Los mundos de Tolkien y El Señor de los Anillos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en el fascinante universo de Tolkien con este libro que explora la creación de la Tierra Media y El Señor de los Anillos. Una lectura esencial para fans que deseen profundizar en el lore y el arte detrás de estas icónicas sagas.",
+      "post_en": "Immerse yourself in Tolkien's fascinating universe with this book exploring the creation of Middle-earth and The Lord of the Rings. An essential read for fans looking to delve deeper into the lore and art behind these iconic sagas.",
       "price_new": 13.72,
       "price_old": 32.5,
       "currency": "USD",
@@ -1101,15 +1101,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19731399",
       "published_at": "2026-07-07T13:01:04+00:00",
-      "revalidated_at": "2026-07-07T22:46:25+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B077XXHTG9",
       "title": "$54.97* | Cole Haan Men's 2.Zerogrand Lightweight Stitchlite Oxford Shoes (Black/Ivory) at Amazon",
-      "title_es": null,
+      "title_es": "Zapatos Oxford ligeros Stitchlite 2.Zerogrand de hombre Cole Haan (negro/marfil)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Descubre la combinación perfecta de estilo y comodidad con estos zapatos Oxford Cole Haan 2.Zerogrand, diseñados para hombres. Su construcción ligera Stitchlite ofrece transpirabilidad y una flexibilidad excepcional para el uso diario.",
+      "post_en": "Discover the perfect blend of style and comfort with these Cole Haan 2.Zerogrand Oxford shoes, designed for men. Their lightweight Stitchlite construction offers breathability and exceptional flexibility for everyday wear.",
       "price_new": 54.97,
       "price_old": 140.0,
       "currency": "USD",
@@ -1128,10 +1128,10 @@
     {
       "asin": "1433557371",
       "title": "$14.44* | The Biggest Story Bible Illustrated Storybook for Kids at Amazon",
-      "title_es": null,
+      "title_es": "El libro de historias ilustrado \"La Historia Más Grande de la Biblia\" para niños",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Introduce a los más pequeños a historias bíblicas esenciales con este libro ilustrado vibrante y cautivador. Con narrativas sencillas y dibujos atractivos, es ideal para fomentar la lectura y el aprendizaje en niños.",
+      "post_en": "Introduce little ones to essential Bible stories with this vibrant and captivating illustrated storybook. Featuring simple narratives and engaging drawings, it's ideal for fostering reading and learning in children.",
       "price_new": 14.44,
       "price_old": 34.99,
       "currency": "USD",
@@ -1145,15 +1145,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19731423",
       "published_at": "2026-07-07T12:45:55+00:00",
-      "revalidated_at": "2026-07-07T22:40:58+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B0DJVWVLM7",
       "title": "$48.73* | 2-Pack SKIL PWR CORE 12V USB-C 2.0Ah Battery w/ Charger at Amazon",
-      "title_es": null,
+      "title_es": "Paquete de 2 baterías SKIL PWR CORE 12V USB-C 2.0Ah con cargador",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Potencia tus herramientas SKIL con este paquete doble de baterías PWR CORE 12V, que incluye un práctico cargador USB-C. Asegura que tus proyectos de bricolaje y mantenimiento del hogar nunca se queden sin energía.",
+      "post_en": "Power your SKIL tools with this dual pack of PWR CORE 12V batteries, including a convenient USB-C charger. Ensure your DIY and home maintenance projects never run out of energy.",
       "price_new": 48.73,
       "price_old": 89.99,
       "currency": "USD",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729176",
       "published_at": "2026-07-07T09:01:06+00:00",
-      "revalidated_at": "2026-07-07T22:40:58+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B0FVWT7BKQ",
@@ -1343,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19721211",
       "published_at": "2026-07-07T07:15:45+00:00",
-      "revalidated_at": "2026-07-07T22:46:25+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B0942SJF1X",
@@ -1365,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19727301",
       "published_at": "2026-07-07T07:00:52+00:00",
-      "revalidated_at": "2026-07-07T22:40:58+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B0DYG9CBBL",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19730895",
       "published_at": "2026-07-07T07:00:52+00:00",
-      "revalidated_at": "2026-07-07T22:46:25+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B07GKFFCBM",
@@ -1431,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19730538",
       "published_at": "2026-07-07T05:16:24+00:00",
-      "revalidated_at": "2026-07-07T22:46:25+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B08JH262KV",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19730181",
       "published_at": "2026-07-07T05:01:23+00:00",
-      "revalidated_at": "2026-07-07T22:46:25+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B0F6XW13NK",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19727817",
       "published_at": "2026-07-07T00:17:55+00:00",
-      "revalidated_at": "2026-07-07T22:40:58+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B091MJ2GS3",
@@ -2179,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726557",
       "published_at": "2026-07-06T22:46:29+00:00",
-      "revalidated_at": "2026-07-07T22:40:58+00:00"
+      "revalidated_at": "2026-07-08T00:45:40+00:00"
     },
     {
       "asin": "B0DWFX3B8R",
