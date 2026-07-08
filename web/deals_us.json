@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T07:46:31+00:00",
+  "generated_at": "2026-07-08T08:01:35+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0FBPVDGM4",
@@ -58,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 57.2,
-      "rating": null,
+      "rating": 4.7,
       "condition": "code",
       "code": "3CQZ8CGP",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/20922519.thumb",
+      "image": "https://m.media-amazon.com/images/I/71WxrSMeEfL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G39DRMRX/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19733253",
@@ -265,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732944",
       "published_at": "2026-07-08T04:16:20+00:00",
-      "revalidated_at": "2026-07-08T06:16:36+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     },
     {
       "asin": "B0GWTNTY7Y",
@@ -300,11 +300,11 @@
       "price_old": 26.99,
       "currency": "USD",
       "discount_pct": 66.7,
-      "rating": null,
+      "rating": 4.2,
       "condition": "code",
       "code": "T9VTGIQ8",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/20923686.thumb",
+      "image": "https://m.media-amazon.com/images/I/71IsN5lFx4L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GTGB36DB/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19733700",
@@ -322,11 +322,11 @@
       "price_old": 24.99,
       "currency": "USD",
       "discount_pct": 62.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "SA75S745",
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/20923644.thumb",
+      "image": "https://m.media-amazon.com/images/I/61ERRm8SuKL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CQ4BLH57/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19733685",
@@ -344,11 +344,11 @@
       "price_old": 9.99,
       "currency": "USD",
       "discount_pct": 55.1,
-      "rating": null,
+      "rating": 4.3,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/20890833.thumb",
+      "image": "https://m.media-amazon.com/images/I/71xGYwl-gxL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D8174VQK/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19717311",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19730823",
       "published_at": "2026-07-08T02:16:05+00:00",
-      "revalidated_at": "2026-07-08T06:16:36+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     },
     {
       "asin": "B0D6XBZKM1",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733448",
       "published_at": "2026-07-08T00:16:36+00:00",
-      "revalidated_at": "2026-07-08T06:16:36+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     },
     {
       "asin": "B0892YGN7B",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19734006",
       "published_at": "2026-07-08T00:16:36+00:00",
-      "revalidated_at": "2026-07-08T06:16:36+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     },
     {
       "asin": "B0GF1MFN3Y",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733499",
       "published_at": "2026-07-08T00:16:36+00:00",
-      "revalidated_at": "2026-07-08T06:16:36+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     },
     {
       "asin": "B0FJXLTNZZ",
@@ -1013,29 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732788",
       "published_at": "2026-07-07T18:29:21+00:00",
-      "revalidated_at": "2026-07-08T06:16:36+00:00"
-    },
-    {
-      "asin": "B07HPHB28G",
-      "title": "$13.78* | Furinno ROSSI 5-Tier Corner Floating Wall Shelf (French Oak) at Amazon",
-      "title_es": "Estantería de esquina flotante de pared Furinno ROSSI de 5 niveles",
-      "headline": null,
-      "post": "La estantería de esquina flotante Furinno ROSSI de 5 niveles es una solución elegante para organizar y exhibir objetos en cualquier habitación. Perfecta para optimizar el espacio en esquinas y añadir un toque decorativo moderno a tu hogar.",
-      "post_en": "The Furinno ROSSI 5-tier corner floating wall shelf is an elegant solution for organizing and displaying items in any room. It's perfect for optimizing corner space and adding a modern decorative touch to your home.",
-      "price_new": 13.78,
-      "price_old": 26.68,
-      "currency": "USD",
-      "discount_pct": 48.4,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20920602.thumb",
-      "url": "https://amazon.com/dp/B07HPHB28G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19732500",
-      "published_at": "2026-07-07T18:29:21+00:00",
-      "revalidated_at": "2026-07-08T06:16:36+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     },
     {
       "asin": "B0CPZ7RBHG",
@@ -1057,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732407",
       "published_at": "2026-07-07T18:29:21+00:00",
-      "revalidated_at": "2026-07-08T06:16:36+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     },
     {
       "asin": "B07VH7ZQGC",
@@ -2333,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729824",
       "published_at": "2026-07-07T01:31:06+00:00",
-      "revalidated_at": "2026-07-08T06:01:47+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     },
     {
       "asin": "B0FS29485C",
@@ -2355,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729401",
       "published_at": "2026-07-07T01:16:08+00:00",
-      "revalidated_at": "2026-07-08T06:01:47+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     },
     {
       "asin": "B0H5QL667Y",
@@ -2399,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729110",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-08T06:16:36+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     },
     {
       "asin": "B0BPJRGNSD",
@@ -2421,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729533",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-08T06:16:36+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     },
     {
       "asin": "B0FXM5G3FF",
@@ -2443,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729092",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-08T06:16:36+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     },
     {
       "asin": "B0DH1XQT9W",
@@ -2465,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19729626",
       "published_at": "2026-07-07T00:31:36+00:00",
-      "revalidated_at": "2026-07-08T06:16:36+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     },
     {
       "asin": "B07BK3T9K3",
@@ -2641,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19725882",
       "published_at": "2026-07-06T23:37:28+00:00",
-      "revalidated_at": "2026-07-08T06:01:47+00:00"
+      "revalidated_at": "2026-07-08T08:01:35+00:00"
     }
   ]
 }
