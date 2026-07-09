@@ -142,7 +142,7 @@ class SlickdealsSource(ProductDataSource):
     def _clean_title(title: str) -> str:
         """Deja solo el nombre del producto: quita prefijos de condición y precios."""
         t = re.sub(r"^\s*prime members?:?\s*", "", title, flags=re.IGNORECASE)  # "Prime Members: ..."
-        t = re.sub(r"^\s*\$[0-9.,]+\s*[|\-–:]\s*", "", t)       # "$0.99 | Producto"
+        t = re.sub(r"^\s*\$[0-9.,]+\*?\s*[|\-–:]\s*", "", t)    # "$0.99 | ..." o "$199* | ..."
         t = re.split(r"\s+\$[0-9]", t)[0].strip()               # "Producto $9.99 ..."
         return t or title
 
