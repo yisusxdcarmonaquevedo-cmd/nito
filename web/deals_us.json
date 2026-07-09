@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-07-09T01:16:09+00:00",
+  "generated_at": "2026-07-09T01:30:57+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B000EMBA58",
+      "title": "$20.23 S&S SKIPPY Natural Peanut Butter Spread, Creamy, 7 g protein per serving, 15 oz. (12 Pack)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 20.23,
+      "price_old": 57.0,
+      "currency": "USD",
+      "discount_pct": 64.5,
+      "rating": 4.7,
+      "condition": "sns",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/81ZtvGixicL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B000EMBA58/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19711233",
+      "published_at": "2026-07-09T01:30:57+00:00",
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
+    },
+    {
+      "asin": "B09KH6ZSPS",
+      "title": "[Prime] VISATOR Portable Foldable Travel Potty Seat for Toddler",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.49,
+      "price_old": 21.99,
+      "currency": "USD",
+      "discount_pct": 56.8,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "XO78B4TP",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/612dsAWScWL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09KH6ZSPS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19738662",
+      "published_at": "2026-07-09T01:30:57+00:00",
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
+    },
+    {
+      "asin": "B0FKVWSM3N",
+      "title": "Cronos: The New Dawn (Nintendo Switch 2)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 26.0,
+      "price_old": 39.99,
+      "currency": "USD",
+      "discount_pct": 35.0,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71bWSCFi8bL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FKVWSM3N/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19737291",
+      "published_at": "2026-07-09T01:30:57+00:00",
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
+    },
+    {
+      "asin": "B0CLSFKCS1",
+      "title": "Greenworks 80V 16\" Brushless Cordless Chainsaw w/ 2.5Ah Battery & Charger",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 229.98,
+      "price_old": 349.99,
+      "currency": "USD",
+      "discount_pct": 34.3,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71YCBNtepoL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CLSFKCS1/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19735338",
+      "published_at": "2026-07-09T01:30:57+00:00",
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
+    },
     {
       "asin": "B0GHP7816N",
       "title": "Mintreus Women's High-Waisted Maxi A-Line Skirt w/ Tie Waist (Various)",
@@ -36,11 +124,11 @@
       "price_old": 39.99,
       "currency": "USD",
       "discount_pct": 62.5,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "VIIIS3ZD",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/1/1/9/6/7/1/6/450x450/20931525.thumb",
+      "image": "https://m.media-amazon.com/images/I/71MFR5IUNOL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B07YC8PVF1/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19737384",
@@ -58,11 +146,11 @@
       "price_old": 7.99,
       "currency": "USD",
       "discount_pct": 61.8,
-      "rating": null,
+      "rating": 4.6,
       "condition": "coupon",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20932698.thumb",
+      "image": "https://m.media-amazon.com/images/I/61icP7fnfTL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B082QBPDJC/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19737888",
@@ -124,11 +212,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 74.3,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/0/6/6/3/5/5/9/450x450/20933925.thumb",
+      "image": "https://m.media-amazon.com/images/I/61eMY2aFVRL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FZKLSF3N/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19738449",
@@ -146,11 +234,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 46.9,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/4/1/3/2/6/0/450x450/20925975.thumb",
+      "image": "https://m.media-amazon.com/images/I/81Zv-XZZn0L._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CGFC3VBL/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19734975",
@@ -1607,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19736301",
       "published_at": "2026-07-08T16:16:33+00:00",
-      "revalidated_at": "2026-07-08T23:16:19+00:00"
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
     },
     {
       "asin": "B0FBWPRWYX",
@@ -1629,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733574",
       "published_at": "2026-07-08T16:16:33+00:00",
-      "revalidated_at": "2026-07-08T23:16:19+00:00"
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
     },
     {
       "asin": "B0GQSYRZWC",
@@ -1651,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733235",
       "published_at": "2026-07-08T16:01:23+00:00",
-      "revalidated_at": "2026-07-08T23:16:19+00:00"
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
     },
     {
       "asin": "B07P7HPWC3",
@@ -1849,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19736085",
       "published_at": "2026-07-08T14:16:43+00:00",
-      "revalidated_at": "2026-07-08T23:16:19+00:00"
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
     },
     {
       "asin": "B0DBQFWR1X",
@@ -2047,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735590",
       "published_at": "2026-07-08T12:16:32+00:00",
-      "revalidated_at": "2026-07-08T23:16:19+00:00"
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
     },
     {
       "asin": "B000GASBNC",
@@ -2069,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19719183",
       "published_at": "2026-07-08T12:16:32+00:00",
-      "revalidated_at": "2026-07-08T23:16:19+00:00"
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
     },
     {
       "asin": "B0CHY3SGM9",
@@ -2091,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735566",
       "published_at": "2026-07-08T12:16:32+00:00",
-      "revalidated_at": "2026-07-08T23:16:19+00:00"
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
     },
     {
       "asin": "B005OQYCKE",
@@ -2179,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19722294",
       "published_at": "2026-07-08T10:01:35+00:00",
-      "revalidated_at": "2026-07-08T23:16:19+00:00"
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
     },
     {
       "asin": "B0B39PHCVZ",
@@ -2245,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732812",
       "published_at": "2026-07-08T08:16:40+00:00",
-      "revalidated_at": "2026-07-08T23:16:19+00:00"
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
     },
     {
       "asin": "B0FBPVDGM4",
@@ -2333,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19732752",
       "published_at": "2026-07-08T06:31:38+00:00",
-      "revalidated_at": "2026-07-08T23:16:19+00:00"
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
     },
     {
       "asin": "B07KKC6JJF",
@@ -2465,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733754",
       "published_at": "2026-07-08T04:31:14+00:00",
-      "revalidated_at": "2026-07-08T23:16:19+00:00"
+      "revalidated_at": "2026-07-09T01:30:57+00:00"
     },
     {
       "asin": "B0DMVW1GRY",
@@ -2554,94 +2642,6 @@
       "deal_key": "sd:19733700",
       "published_at": "2026-07-08T04:01:20+00:00",
       "revalidated_at": "2026-07-09T01:16:09+00:00"
-    },
-    {
-      "asin": "B0CQ4BLH57",
-      "title": "Stelle Women's 2-in-1 Running Shorts w/ Zipper Pockets from",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.5,
-      "price_old": 24.99,
-      "currency": "USD",
-      "discount_pct": 62.0,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "SA75S745",
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/61ERRm8SuKL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CQ4BLH57/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19733685",
-      "published_at": "2026-07-08T04:01:20+00:00",
-      "revalidated_at": "2026-07-09T01:16:09+00:00"
-    },
-    {
-      "asin": "B0D8174VQK",
-      "title": "Apple Watch Charger Multi Charging Cable 6FT, Nylon Braided USB AM Port to Lightning Type C USB C Cord iWatch Magnetic Wireless 3 in 1 Charging Wire",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 4.49,
-      "price_old": 9.99,
-      "currency": "USD",
-      "discount_pct": 55.1,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71xGYwl-gxL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D8174VQK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19717311",
-      "published_at": "2026-07-08T04:01:20+00:00",
-      "revalidated_at": "2026-07-09T01:16:09+00:00"
-    },
-    {
-      "asin": "B0FG4MRF8J",
-      "title": "4-Pk uni-ball Jetstream RT 0.7mm Fine Point Pens (Black Ink)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 3.3,
-      "price_old": 8.99,
-      "currency": "USD",
-      "discount_pct": 63.3,
-      "rating": 4.6,
-      "condition": "sns",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71cDEsPIUsL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FG4MRF8J/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19732650",
-      "published_at": "2026-07-08T03:46:15+00:00",
-      "revalidated_at": "2026-07-09T01:01:05+00:00"
-    },
-    {
-      "asin": "B0F39JTT3C",
-      "title": "JLab JBuds Party 30W Portable Bluetooth Speaker w/ RGB Lighting (Mulberry)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 31.5,
-      "price_old": 59.99,
-      "currency": "USD",
-      "discount_pct": 47.5,
-      "rating": 4.4,
-      "condition": "coupon",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/8160r96nTwL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F39JTT3C/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19714776",
-      "published_at": "2026-07-08T03:16:23+00:00",
-      "revalidated_at": "2026-07-09T00:15:55+00:00"
     }
   ]
 }
