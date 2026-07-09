@@ -60,7 +60,7 @@ def backfill_descriptions(market: str, store: DealStore, settings: dict,
                      rating=it.get("rating"), category=it.get("category"))
                 for it in lote
             ]
-            res = brain.process_batch(deals)
+            res = brain.describe_batch(deals)  # solo redacta: sin decisión de publicar
             llamadas += 1
             if not res:
                 continue

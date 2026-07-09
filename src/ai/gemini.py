@@ -79,6 +79,20 @@ Responde ÚNICAMENTE con un array JSON de {n} objetos, uno por oferta y en el mi
 "titulo_es": "título traducido o null", "post_es": "... o null", "post_en": "... o null"}}, ...]"""
 
 
+_INSTRUCCIONES_DESCRIBIR = """Eres el redactor de una web de ofertas de Amazon (Nito) con \
+público hispanohablante y angloparlante.
+
+Te doy {n} productos YA PUBLICADOS en la web (no decidas si publicarlos: solo redacta).
+Para CADA producto:
+1) Traduce el título al español de forma natural y corta (mantén marcas y modelos tal cual).
+2) Escribe una descripción CORTA (2 frases) DESCRIPTIVA y útil: qué es, características clave y \
+para quién es. Tono informativo y cercano, sin sensacionalismo ni urgencia artificial, máximo un \
+emoji discreto. No inventes datos ni menciones el precio. En español y también en inglés.
+
+Responde ÚNICAMENTE con un array JSON de {n} objetos, uno por producto y en el mismo orden:
+[{{"i": 1, "titulo_es": "...", "post_es": "...", "post_en": "..."}}, ...]"""
+
+
 class GeminiBrain:
     def __init__(self, model: Optional[str] = None, rpm: int = 5, timeout: float = 60.0) -> None:
         raw = os.getenv("GEMINI_API_KEYS") or os.getenv("GEMINI_API_KEY") or ""
@@ -162,6 +176,25 @@ class GeminiBrain:
         if isinstance(parsed, list):
             return parsed
         if isinstance(parsed, dict):  # a veces envuelve el array en un objeto
+            for v in parsed.values():
+                if isinstance(v, list):
+                    return v
+        return None
+
+    # --- solo describir (curador): sin decisión de publicar --------------------
+    def describe_batch(self, deals: list) -> Optional[list]:
+        """Redacta título ES + descripciones para productos YA publicados."""
+        if not deals:
+            return []
+        cabecera = _INSTRUCCIONES_DESCRIBIR.format(n=len(deals))
+        prompt = cabecera + "".join(self._ficha(d, n) for n, d in enumerate(deals, start=1))
+        data = self._generate(prompt, temperature=0.6)
+        if data is None:
+            return None
+        parsed = self._parse_json(self._extract_text(data))
+        if isinstance(parsed, list):
+            return parsed
+        if isinstance(parsed, dict):
             for v in parsed.values():
                 if isinstance(v, list):
                     return v
