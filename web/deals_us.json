@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-09T13:31:03+00:00",
+  "generated_at": "2026-07-09T13:45:41+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0CFCPBLMC",
@@ -102,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 42.9,
-      "rating": null,
+      "rating": 4.5,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/4/9/0/0/1/2/450x450/20936760.thumb",
+      "image": "https://m.media-amazon.com/images/I/71rPM4cwd-L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BCW1BVNG/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19739841",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19739538",
       "published_at": "2026-07-09T10:46:12+00:00",
-      "revalidated_at": "2026-07-09T10:46:12+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     },
     {
       "asin": "B07DNGPJK3",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19739448",
       "published_at": "2026-07-09T06:01:27+00:00",
-      "revalidated_at": "2026-07-09T10:46:12+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     },
     {
       "asin": "B016R90WIW",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737894",
       "published_at": "2026-07-09T04:01:03+00:00",
-      "revalidated_at": "2026-07-09T10:46:12+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     },
     {
       "asin": "B0FNCZHKQZ",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19723131",
       "published_at": "2026-07-09T02:01:05+00:00",
-      "revalidated_at": "2026-07-09T10:46:12+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     },
     {
       "asin": "B0GF21W6YC",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737165",
       "published_at": "2026-07-09T00:01:27+00:00",
-      "revalidated_at": "2026-07-09T10:46:12+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     },
     {
       "asin": "B0GM6JHF8R",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737597",
       "published_at": "2026-07-09T00:01:27+00:00",
-      "revalidated_at": "2026-07-09T10:46:12+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     },
     {
       "asin": "B0F5VTVY4H",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19738380",
       "published_at": "2026-07-09T00:01:27+00:00",
-      "revalidated_at": "2026-07-09T10:46:12+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     },
     {
       "asin": "B0CJMMGH6T",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735893",
       "published_at": "2026-07-09T00:01:27+00:00",
-      "revalidated_at": "2026-07-09T10:46:12+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     },
     {
       "asin": "B0DNKL2431",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19738242",
       "published_at": "2026-07-08T23:31:23+00:00",
-      "revalidated_at": "2026-07-09T10:36:08+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     },
     {
       "asin": "B097BPFD9X",
@@ -1541,29 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737288",
       "published_at": "2026-07-08T21:46:18+00:00",
-      "revalidated_at": "2026-07-09T10:36:08+00:00"
-    },
-    {
-      "asin": "B0CHGZ3PF6",
-      "title": "Special K Bar Protein Meal Bars, 12g Protein Snacks, Meal Replacement, Brownie Batter (3 Boxes, 18 Bars)",
-      "title_es": "Barritas de proteínas Special K Bar Protein Meal, sabor Brownie Batter (18 unidades)",
-      "headline": null,
-      "post": "Las barritas Special K Bar Protein Meal son un snack ideal para un aporte rápido de proteínas o como sustituto de comida. Perfectas para quienes buscan opciones nutritivas y convenientes con sabor a brownie.",
-      "post_en": "Special K Bar Protein Meal Bars are an ideal snack for a quick protein boost or as a meal replacement. Perfect for those seeking nutritious and convenient options with a brownie batter flavor.",
-      "price_new": 8.54,
-      "price_old": 17.95,
-      "currency": "USD",
-      "discount_pct": 52.4,
-      "rating": 4.6,
-      "condition": "sns",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81V9znuWO5L._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CHGZ3PF6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19737480",
-      "published_at": "2026-07-08T21:46:18+00:00",
-      "revalidated_at": "2026-07-09T10:36:08+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     },
     {
       "asin": "B0H2M2M931",
@@ -1585,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19736028",
       "published_at": "2026-07-08T21:31:19+00:00",
-      "revalidated_at": "2026-07-09T10:36:08+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     },
     {
       "asin": "B0028LTDDO",
@@ -2421,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19734444",
       "published_at": "2026-07-08T16:31:35+00:00",
-      "revalidated_at": "2026-07-09T10:36:08+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     },
     {
       "asin": "B0FV8L1D47",
@@ -2443,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19736769",
       "published_at": "2026-07-08T16:31:35+00:00",
-      "revalidated_at": "2026-07-09T10:36:08+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     },
     {
       "asin": "B06ZYLPDYV",
@@ -2641,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19736187",
       "published_at": "2026-07-08T14:31:48+00:00",
-      "revalidated_at": "2026-07-09T10:36:08+00:00"
+      "revalidated_at": "2026-07-09T13:45:41+00:00"
     }
   ]
 }
