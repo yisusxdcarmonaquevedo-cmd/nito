@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-09T10:01:27+00:00",
+  "generated_at": "2026-07-09T10:26:19+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B07DNGPJK3",
+      "title": "$20* | Red Dead Redemption 2: Ultimate Edition (Xbox One Digital Code) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 20.0,
+      "price_old": 99.99,
+      "currency": "USD",
+      "discount_pct": 80.0,
+      "rating": 4.5,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71N9NKyX05L._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07DNGPJK3/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19739658",
+      "published_at": "2026-07-09T10:26:19+00:00",
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
+    },
     {
       "asin": "B0DJ19J283",
       "title": "1021-Piece LEGO Spring Festival Good Fortune Building Set",
@@ -156,28 +178,6 @@
       "deal_key": "sd:19739448",
       "published_at": "2026-07-09T06:01:27+00:00",
       "revalidated_at": "2026-07-09T08:02:18+00:00"
-    },
-    {
-      "asin": "B0DHSRJJ6H",
-      "title": "8.4-Oz Rogaine Men's Thickening 2 in 1 Shampoo + Conditioner",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 4.5,
-      "price_old": 14.49,
-      "currency": "USD",
-      "discount_pct": 68.9,
-      "rating": 4.2,
-      "condition": "coupon",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/61XdxIk-mWL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DHSRJJ6H/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19737885",
-      "published_at": "2026-07-09T05:31:04+00:00",
-      "revalidated_at": "2026-07-09T07:35:58+00:00"
     },
     {
       "asin": "B016R90WIW",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737933",
       "published_at": "2026-07-09T03:31:06+00:00",
-      "revalidated_at": "2026-07-09T07:35:58+00:00"
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
     },
     {
       "asin": "B07T5BN3P2",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737291",
       "published_at": "2026-07-09T01:30:57+00:00",
-      "revalidated_at": "2026-07-09T07:35:58+00:00"
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
     },
     {
       "asin": "B0CLSFKCS1",
@@ -551,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735338",
       "published_at": "2026-07-09T01:30:57+00:00",
-      "revalidated_at": "2026-07-09T07:35:58+00:00"
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
     },
     {
       "asin": "B0GHP7816N",
@@ -1739,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19736400",
       "published_at": "2026-07-08T18:10:49+00:00",
-      "revalidated_at": "2026-07-09T07:35:58+00:00"
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
     },
     {
       "asin": "B0GGHKGQKG",
@@ -1906,11 +1906,11 @@
       "price_old": 20.21,
       "currency": "USD",
       "discount_pct": 55.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": "sns",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20927844.thumb",
+      "image": "https://m.media-amazon.com/images/I/71dBgdSbWtL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0936JKKJ2/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19735770",
@@ -1928,11 +1928,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 85.7,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "R94EZ5R7",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/20930385.thumb",
+      "image": "https://m.media-amazon.com/images/I/71nixUC4ISL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CW1MFY34/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19736913",
@@ -1950,11 +1950,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 42.9,
-      "rating": null,
+      "rating": 4.8,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/20930535.thumb",
+      "image": "https://m.media-amazon.com/images/I/914cpE3kvtL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DRW5M4S8/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19736970",
@@ -1972,11 +1972,11 @@
       "price_old": 60.0,
       "currency": "USD",
       "discount_pct": 82.5,
-      "rating": null,
+      "rating": 4.6,
       "condition": "coupon",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/7/2/9/6/9/0/450x450/20930190.thumb",
+      "image": "https://m.media-amazon.com/images/I/81+2fnrVuVL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B007R8XGJK/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19736778",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19736301",
       "published_at": "2026-07-08T16:16:33+00:00",
-      "revalidated_at": "2026-07-09T07:35:58+00:00"
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
     },
     {
       "asin": "B0FBWPRWYX",
@@ -2157,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733574",
       "published_at": "2026-07-08T16:16:33+00:00",
-      "revalidated_at": "2026-07-09T07:35:58+00:00"
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
     },
     {
       "asin": "B07P7HPWC3",
@@ -2201,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733715",
       "published_at": "2026-07-08T15:46:28+00:00",
-      "revalidated_at": "2026-07-09T07:35:58+00:00"
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
     },
     {
       "asin": "B0C5JZ9C7W",
@@ -2245,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735857",
       "published_at": "2026-07-08T15:16:36+00:00",
-      "revalidated_at": "2026-07-09T07:35:58+00:00"
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
     },
     {
       "asin": "B0DZFGTCLR",
@@ -2267,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735671",
       "published_at": "2026-07-08T15:16:36+00:00",
-      "revalidated_at": "2026-07-09T07:35:58+00:00"
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
     },
     {
       "asin": "B01E9YOMKQ",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19736079",
       "published_at": "2026-07-08T15:16:36+00:00",
-      "revalidated_at": "2026-07-09T07:35:58+00:00"
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
     },
     {
       "asin": "B07CWGBZ4R",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19736085",
       "published_at": "2026-07-08T14:16:43+00:00",
-      "revalidated_at": "2026-07-09T07:35:58+00:00"
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
     },
     {
       "asin": "B0DBQFWR1X",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19734384",
       "published_at": "2026-07-08T13:46:54+00:00",
-      "revalidated_at": "2026-07-09T07:35:58+00:00"
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
     },
     {
       "asin": "B084MXP6MX",
@@ -2487,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735722",
       "published_at": "2026-07-08T13:16:35+00:00",
-      "revalidated_at": "2026-07-09T07:15:54+00:00"
+      "revalidated_at": "2026-07-09T10:26:19+00:00"
     },
     {
       "asin": "B0CRBMWW85",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19733310",
       "published_at": "2026-07-08T12:01:44+00:00",
       "revalidated_at": "2026-07-09T07:46:00+00:00"
-    },
-    {
-      "asin": "B0DRW5BYYB",
-      "title": "$32.99* | 512-Piece LEGO Super Mario: Mario Kart - Wario & King Boo (72038, 2025) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 32.99,
-      "price_old": 49.99,
-      "currency": "USD",
-      "discount_pct": 34.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20927427.thumb",
-      "url": "https://amazon.com/dp/B0DRW5BYYB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19735554",
-      "published_at": "2026-07-08T12:01:44+00:00",
-      "revalidated_at": "2026-07-09T08:02:18+00:00"
     }
   ]
 }
