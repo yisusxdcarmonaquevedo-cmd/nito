@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-09T17:45:57+00:00",
+  "generated_at": "2026-07-09T18:01:05+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0FFZJFBYH",
+      "title": "DaranEner R101 Lite 89.6Wh LiFePO4 Portable Power Station w/ 100W AC Outlet & USB-C PD",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 48.57,
+      "price_old": 89.99,
+      "currency": "USD",
+      "discount_pct": 46.0,
+      "rating": null,
+      "condition": "code",
+      "code": "SHVTWCNO",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/20940447.thumb",
+      "url": "https://amazon.com/dp/B0FFZJFBYH/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19741227",
+      "published_at": "2026-07-09T18:01:05+00:00",
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
+    },
     {
       "asin": "B0F8J7Y8MW",
       "title": "2-pc MALACASA Ceramic Kitchen Utensil Holder Set (7.3\" & 5.5\", 3 colors) from",
@@ -419,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740054",
       "published_at": "2026-07-09T14:15:54+00:00",
-      "revalidated_at": "2026-07-09T16:16:04+00:00"
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
     },
     {
       "asin": "B09DLFSXK9",
@@ -441,29 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740438",
       "published_at": "2026-07-09T14:15:54+00:00",
-      "revalidated_at": "2026-07-09T16:16:04+00:00"
-    },
-    {
-      "asin": "B0BGLTD816",
-      "title": "MEKIOJEO 7-Port up to 260W GaN 3 USB-C Wall Charger at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 19.99,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 33.3,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61fZPmK6IgL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0BGLTD816/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19740426",
-      "published_at": "2026-07-09T14:15:54+00:00",
-      "revalidated_at": "2026-07-09T16:16:04+00:00"
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
     },
     {
       "asin": "B0CFCPBLMC",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19730721",
       "published_at": "2026-07-09T04:31:10+00:00",
-      "revalidated_at": "2026-07-09T16:16:04+00:00"
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
     },
     {
       "asin": "B0DFW4PYK8",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19738449",
       "published_at": "2026-07-09T00:31:14+00:00",
-      "revalidated_at": "2026-07-09T16:16:04+00:00"
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
     },
     {
       "asin": "B0CGFC3VBL",
@@ -1431,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19734975",
       "published_at": "2026-07-09T00:31:14+00:00",
-      "revalidated_at": "2026-07-09T16:16:04+00:00"
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
     },
     {
       "asin": "B0FL2YZRLX",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737207",
       "published_at": "2026-07-09T00:31:14+00:00",
-      "revalidated_at": "2026-07-09T16:16:04+00:00"
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
     },
     {
       "asin": "B0FTCK7TNH",
@@ -1475,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735641",
       "published_at": "2026-07-09T00:31:14+00:00",
-      "revalidated_at": "2026-07-09T16:16:04+00:00"
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
     },
     {
       "asin": "B0F8VCG4R8",
@@ -1783,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735872",
       "published_at": "2026-07-08T22:31:19+00:00",
-      "revalidated_at": "2026-07-09T16:16:04+00:00"
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
     },
     {
       "asin": "B003WXLHP4",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737825",
       "published_at": "2026-07-08T22:31:19+00:00",
-      "revalidated_at": "2026-07-09T16:16:04+00:00"
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
     },
     {
       "asin": "B0D9Y1HGSW",
@@ -1915,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737288",
       "published_at": "2026-07-08T21:46:18+00:00",
-      "revalidated_at": "2026-07-09T16:00:55+00:00"
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
     },
     {
       "asin": "B0H2M2M931",
@@ -1937,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19736028",
       "published_at": "2026-07-08T21:31:19+00:00",
-      "revalidated_at": "2026-07-09T16:00:55+00:00"
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
     },
     {
       "asin": "B0028LTDDO",
@@ -2201,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19736286",
       "published_at": "2026-07-08T20:01:05+00:00",
-      "revalidated_at": "2026-07-09T16:00:55+00:00"
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
     },
     {
       "asin": "B0DC6MD3YZ",
@@ -2267,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737408",
       "published_at": "2026-07-08T19:46:11+00:00",
-      "revalidated_at": "2026-07-09T16:00:55+00:00"
+      "revalidated_at": "2026-07-09T18:01:05+00:00"
     },
     {
       "asin": "B0F8H5T9VS",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19736913",
       "published_at": "2026-07-08T17:16:27+00:00",
       "revalidated_at": "2026-07-09T16:45:53+00:00"
-    },
-    {
-      "asin": "B0DRW5M4S8",
-      "title": "107-Piece LEGO Marvel Captain America vs. Thanos Set",
-      "title_es": "Set LEGO Marvel Capitán América vs. Thanos (107 piezas)",
-      "headline": null,
-      "post": "Este set LEGO Marvel permite recrear emocionantes batallas entre el Capitán América y Thanos con 107 piezas. Es ideal para fans de Marvel y constructores jóvenes que disfrutan de juegos imaginativos y coleccionables.",
-      "post_en": "This LEGO Marvel set allows you to recreate exciting battles between Captain America and Thanos with 107 pieces. It's ideal for Marvel fans and young builders who enjoy imaginative play and collectibles.",
-      "price_new": 19.97,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 42.9,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/914cpE3kvtL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DRW5M4S8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19736970",
-      "published_at": "2026-07-08T17:16:27+00:00",
-      "revalidated_at": "2026-07-09T17:16:15+00:00"
     }
   ]
 }
