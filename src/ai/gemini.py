@@ -86,7 +86,13 @@ class GeminiBrain:
         if not self.keys:
             raise RuntimeError("Falta GEMINI_API_KEY (o GEMINI_API_KEYS) en config/.env")
         self._key_idx = 0
-        self.model = model or os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+        # Cadena de modelos: la cuota gratis es POR MODELO, así que al agotarse
+        # el principal se pasa al de desbordamiento (cuota propia separada).
+        principal = model or os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+        extra = os.getenv("GEMINI_MODELS_FALLBACK", "gemini-2.5-flash-lite")
+        self.models = [principal] + [m.strip() for m in extra.split(",") if m.strip()]
+        self._model_idx = 0
+        self.model = principal  # compatibilidad
         self.rpm = rpm
         self._calls: list[float] = []  # timestamps para el limitador RPM
         self._client = httpx.Client(timeout=timeout)
@@ -112,7 +118,8 @@ class GeminiBrain:
                                  "temperature": temperature},
         }
         while True:
-            url = _API_URL.format(model=self.model) + f"?key={self.keys[self._key_idx]}"
+            modelo = self.models[self._model_idx]
+            url = _API_URL.format(model=modelo) + f"?key={self.keys[self._key_idx]}"
             try:
                 resp = self._client.post(url, json=body)
             except Exception as exc:
@@ -123,7 +130,12 @@ class GeminiBrain:
                     self._key_idx += 1
                     print(f"[gemini] clave agotada; rotando a la clave #{self._key_idx + 1}...")
                     continue
-                raise QuotaExhausted("cuota diaria agotada en todas las claves")
+                if self._model_idx + 1 < len(self.models):
+                    self._model_idx += 1
+                    self._key_idx = 0
+                    print(f"[gemini] cuota de {modelo} agotada; paso a {self.models[self._model_idx]}...")
+                    continue
+                raise QuotaExhausted("cuota diaria agotada en todas las claves y modelos")
             try:
                 resp.raise_for_status()
                 return resp.json()

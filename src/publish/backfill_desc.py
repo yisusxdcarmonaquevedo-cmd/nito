@@ -18,7 +18,7 @@ from ..db.database import DealStore
 from ..models import Deal
 from .json_writer import WEB_DIR
 
-HEAL_CALLS_PER_RUN = 2   # llamadas máx./ciclo para curar (deja cuota para lo nuevo)
+HEAL_CALLS_PER_RUN = 3   # llamadas máx./ciclo para curar (deja cuota para lo nuevo)
 
 
 def backfill_descriptions(market: str, store: DealStore, settings: dict,

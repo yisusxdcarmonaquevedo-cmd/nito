@@ -40,7 +40,9 @@ filters:
 # Cuando se agota, el pipeline publica en "modo degradado" (sin descripción) las
 # ofertas ya clasificadas en nicho; las descripciones se rellenan al día siguiente.
 gemini:
-  daily_limit: 18                    # margen bajo el límite real (20/día)
+  # La cuota gratis es POR MODELO (~20/día cada uno). Con flash + flash-lite de
+  # desbordamiento hay ~40 reales; dejamos margen.
+  daily_limit: 34
   rpm: 5                             # peticiones por minuto (plan gratis)
   max_per_run: 6                     # tope de LLAMADAS por ejecución (cada 15 min)
-  batch_size: 8                      # ofertas por llamada (18 llamadas x 8 = ~144 ofertas/día)
+  batch_size: 10                     # ofertas por llamada (34 x 10 = ~340 ofertas/día)
