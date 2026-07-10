@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T23:46:42+00:00",
+  "generated_at": "2026-07-10T00:01:51+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -80,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.2,
       "condition": "code",
       "code": "7OGKT8ZM",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/20943780.thumb",
+      "image": "https://m.media-amazon.com/images/I/61lG5qRXxZL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FQ5RNB44/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19742646",
@@ -199,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19741851",
       "published_at": "2026-07-09T22:01:35+00:00",
-      "revalidated_at": "2026-07-09T22:01:35+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B0D14XFH5M",
@@ -226,10 +226,10 @@
     {
       "asin": "B0FYPW69GX",
       "title": "CHICGAL Strapless Floral Mesh Crop Top (Orange Pink, Various Sizes)",
-      "title_es": null,
+      "title_es": "Top corto de malla floral sin tirantes CHICGAL (Orange Pink, Various Sizes)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este top corto CHICGAL de malla floral sin tirantes es perfecto para un look veraniego y fresco. Su diseño vibrante y ligero lo hace ideal para salidas casuales o eventos diurnos. 🌸",
+      "post_en": "This CHICGAL strapless floral mesh crop top is perfect for a fresh, summery look. Its vibrant and lightweight design makes it ideal for casual outings or daytime events. 🌸",
       "price_new": 7.19,
       "price_old": 35.0,
       "currency": "USD",
@@ -248,10 +248,10 @@
     {
       "asin": "B0080I51NK",
       "title": "7.3-Ounce Aveeno Baby Eczema Therapy Moisturizing Cream",
-      "title_es": null,
+      "title_es": "Crema hidratante Aveeno Baby Eczema Therapy de 7.3 onzas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La crema hidratante Aveeno Baby Eczema Therapy está diseñada para aliviar la piel seca, con picazón e irritada de los bebés. Su fórmula suave y sin fragancia es ideal para cuidar la piel sensible con eccema.",
+      "post_en": "Aveeno Baby Eczema Therapy Moisturizing Cream is designed to relieve dry, itchy, and irritated skin in babies. Its gentle, fragrance-free formula is ideal for caring for sensitive skin prone to eczema.",
       "price_new": 7.67,
       "price_old": 35.0,
       "currency": "USD",
@@ -270,10 +270,10 @@
     {
       "asin": "B0FMS7CRHX",
       "title": "133-Pc LEGO Botanicals Daisies Building Toy (11508)",
-      "title_es": null,
+      "title_es": "Juguete de construcción LEGO Botanicals Daisies de 133 piezas (11508)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set LEGO Botanicals Daisies (11508) te permite construir un hermoso arreglo floral con 133 piezas. Es un regalo encantador para amantes de las flores y la construcción, ideal para exhibir en cualquier espacio. 🌼",
+      "post_en": "This LEGO Botanicals Daisies (11508) set allows you to build a beautiful floral arrangement with 133 pieces. It's a charming gift for flower and building enthusiasts, perfect for display in any space. 🌼",
       "price_new": 10.0,
       "price_old": 35.0,
       "currency": "USD",
@@ -292,10 +292,10 @@
     {
       "asin": "B0D4WTDZZR",
       "title": "41.9-Oz Premier Protein Whey Protein Powder (Chocolate Milkshake)",
-      "title_es": null,
+      "title_es": "Proteína en polvo Premier Protein Whey de 41.9 oz (Chocolate Milkshake)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La proteína en polvo Premier Protein Whey sabor Chocolate Milkshake es una excelente opción para complementar tu dieta. Con 41.9 oz, es ideal para apoyar la recuperación muscular y el desarrollo, perfecta para deportistas y personas activas.",
+      "post_en": "Premier Protein Whey Protein Powder in Chocolate Milkshake flavor is an excellent choice to supplement your diet. At 41.9 oz, it's ideal for supporting muscle recovery and development, perfect for athletes and active individuals.",
       "price_new": 24.65,
       "price_old": 39.12,
       "currency": "USD",
@@ -314,10 +314,10 @@
     {
       "asin": "B0CCW9BFDC",
       "title": "PowerA TriFold Game Card Holder Case for Nintendo Switch (Sonic Kick) at Amazon",
-      "title_es": null,
+      "title_es": "Estuche PowerA TriFold para tarjetas de juego Nintendo Switch (Sonic Kick)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este estuche PowerA TriFold para Nintendo Switch con diseño Sonic Kick es perfecto para organizar y proteger tus tarjetas de juego. Su formato compacto y plegable lo hace ideal para llevar tus juegos favoritos a todas partes. 🎮",
+      "post_en": "This PowerA TriFold Game Card Holder Case for Nintendo Switch with a Sonic Kick design is perfect for organizing and protecting your game cards. Its compact and foldable format makes it ideal for taking your favorite games everywhere. 🎮",
       "price_new": 6.62,
       "price_old": 9.99,
       "currency": "USD",
@@ -336,10 +336,10 @@
     {
       "asin": "B0FPPLS4PX",
       "title": "GHOST Energy Drink - 12-Pack, Sour Strips Rainbow, 16oz Cans",
-      "title_es": null,
+      "title_es": "Bebida energética GHOST - Pack de 12, Sour Strips Rainbow, latas de 16oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El pack de 12 bebidas energéticas GHOST sabor Sour Strips Rainbow, en latas de 16oz, ofrece un impulso refrescante. Es ideal para quienes buscan energía y concentración con un sabor único y vibrante.",
+      "post_en": "The 12-pack of GHOST Energy Drink in Sour Strips Rainbow flavor, 16oz cans, offers a refreshing boost. It's ideal for those seeking energy and focus with a unique and vibrant taste.",
       "price_new": 20.99,
       "price_old": 29.99,
       "currency": "USD",
@@ -358,10 +358,10 @@
     {
       "asin": "B0FH57PRG9",
       "title": "DARKBEAM USB-C Rechargeable LED Headlamp at Amazon",
-      "title_es": null,
+      "title_es": "Linterna frontal LED recargable USB-C DARKBEAM",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La linterna frontal LED recargable USB-C DARKBEAM proporciona una iluminación potente y manos libres para tus actividades. Es perfecta para camping, senderismo, reparaciones o cualquier situación que requiera luz y libertad de movimiento. 🔦",
+      "post_en": "The DARKBEAM USB-C Rechargeable LED Headlamp provides powerful, hands-free illumination for your activities. It's perfect for camping, hiking, repairs, or any situation requiring light and freedom of movement. 🔦",
       "price_new": 6.11,
       "price_old": 57.0,
       "currency": "USD",
@@ -380,10 +380,10 @@
     {
       "asin": "B00AEN4QZ8",
       "title": "6.7-oz Neutrogena Beach Defense Sunscreen Lotion SPF 70",
-      "title_es": null,
+      "title_es": "Loción solar Neutrogena Beach Defense SPF 70 de 6.7 oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La loción solar Neutrogena Beach Defense SPF 70 de 6.7 oz ofrece alta protección contra los rayos UVA/UVB. Su fórmula resistente al agua es ideal para días de playa o actividades al aire libre, manteniendo tu piel segura. ☀️",
+      "post_en": "Neutrogena Beach Defense Sunscreen Lotion SPF 70 (6.7 oz) offers high protection against UVA/UVB rays. Its water-resistant formula is ideal for beach days or outdoor activities, keeping your skin safe. ☀️",
       "price_new": 2.0,
       "price_old": 13.19,
       "currency": "USD",
@@ -402,10 +402,10 @@
     {
       "asin": "B0CNSZ5VHX",
       "title": "Buzbug LED Bug Zapper – Indoor/Outdoor, Dual Band (50,000 Hr Lamp, 5.6 ft Cord) at Amazon",
-      "title_es": null,
+      "title_es": "Exterminador de insectos LED Buzbug – Interior/Exterior, Doble Banda",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El exterminador de insectos LED Buzbug es una solución eficaz para mantener tu hogar libre de mosquitos y otros bichos. Con su diseño para interior/exterior y lámpara de larga duración, es ideal para disfrutar de tus espacios sin interrupciones. 🦟",
+      "post_en": "The Buzbug LED Bug Zapper is an effective solution to keep your home free of mosquitoes and other bugs. With its indoor/outdoor design and long-lasting lamp, it's ideal for enjoying your spaces without interruptions. 🦟",
       "price_new": 19.99,
       "price_old": 28.99,
       "currency": "USD",
@@ -424,10 +424,10 @@
     {
       "asin": "B0G197GGQ9",
       "title": "120-ct 1500-mg iMATCHME Psyllium Husk Powder Fiber Supplement Capsules",
-      "title_es": null,
+      "title_es": "Cápsulas de suplemento de fibra iMATCHME Psyllium Husk Powder de 120 unidades, 1500 mg",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Las cápsulas iMATCHME Psyllium Husk Powder de 1500 mg son un suplemento de fibra natural para apoyar la salud digestiva. Con 120 unidades, son ideales para quienes buscan mejorar su ingesta de fibra de forma cómoda.",
+      "post_en": "iMATCHME Psyllium Husk Powder 1500mg capsules are a natural fiber supplement to support digestive health. With 120 counts, they are ideal for those looking to conveniently improve their fiber intake.",
       "price_new": 6.35,
       "price_old": 31.84,
       "currency": "USD",
@@ -446,10 +446,10 @@
     {
       "asin": "B0FDH1CZ22",
       "title": "6-Pack TFKK Motion Sensor Solar Lights w/ Remote Control",
-      "title_es": null,
+      "title_es": "Pack de 6 luces solares TFKK con sensor de movimiento y mando a distancia",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estas luces solares TFKK con sensor de movimiento son ideales para iluminar tu jardín o patio de forma eficiente. Incluyen un mando a distancia para mayor comodidad, perfectas para quienes buscan seguridad y ahorro energético al aire libre. 💡",
+      "post_en": "These TFKK solar lights with motion sensor are ideal for efficiently illuminating your garden or patio. They include a remote control for added convenience, perfect for those seeking outdoor security and energy savings. 💡",
       "price_new": 49.98,
       "price_old": 119.98,
       "currency": "USD",
@@ -468,10 +468,10 @@
     {
       "asin": "B0DGXTBQTY",
       "title": "Edifier MR3 Hi-Res Audio Certified Bluetooth 5.4 Powered Studio Monitor Speakers (Black)",
-      "title_es": null,
+      "title_es": "Altavoces monitores de estudio autoamplificados Edifier MR3 con Bluetooth 5.4 y certificación Hi-Res Audio (Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Los Edifier MR3 son altavoces monitores de estudio autoamplificados que ofrecen audio de alta resolución con conectividad Bluetooth 5.4. Ideales para creadores de contenido, entusiastas de la música y cualquiera que busque una calidad de sonido superior en un formato compacto. 🎶",
+      "post_en": "The Edifier MR3 are powered studio monitor speakers that deliver high-resolution audio with Bluetooth 5.4 connectivity. Ideal for content creators, music enthusiasts, and anyone seeking superior sound quality in a compact format. 🎶",
       "price_new": 99.97,
       "price_old": 149.99,
       "currency": "USD",
@@ -485,15 +485,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19741602",
       "published_at": "2026-07-09T20:00:56+00:00",
-      "revalidated_at": "2026-07-09T22:01:35+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B0FRGHPTJW",
       "title": "2-Pack 2-Tier 15\" x 8.3\" x 13.4\" JYSMYWS Sliding Under Sink Storage Organizer (Black)",
-      "title_es": null,
+      "title_es": "Pack de 2 organizadores deslizantes de 2 niveles JYSMYWS para debajo del fregadero (Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de dos organizadores deslizantes JYSMYWS de 2 niveles es perfecto para maximizar el espacio bajo tu fregadero. Su diseño extraíble facilita el acceso a tus productos de limpieza o baño, manteniendo todo ordenado y accesible. ✨",
+      "post_en": "This 2-pack of JYSMYWS 2-tier sliding organizers is perfect for maximizing space under your sink. Its pull-out design makes it easy to access your cleaning or bathroom products, keeping everything tidy and accessible. ✨",
       "price_new": 8.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -512,10 +512,10 @@
     {
       "asin": "B0FWK11919",
       "title": "26\" HAPBEAR Anti-Burst Exercise Ball w/ Quick Pump & 3 Resistance Bands (Black, Large)",
-      "title_es": null,
+      "title_es": "Pelota de ejercicio anti-explosión HAPBEAR de 26\" con bomba rápida y 3 bandas de resistencia (Negro, Grande)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta pelota de ejercicio HAPBEAR anti-explosión de 26 pulgadas es ideal para mejorar tu equilibrio y fortalecer el core. Incluye una bomba rápida y tres bandas de resistencia, ofreciendo un kit completo para tus rutinas de fitness en casa. 💪",
+      "post_en": "This 26-inch HAPBEAR anti-burst exercise ball is ideal for improving your balance and strengthening your core. It includes a quick pump and three resistance bands, offering a complete kit for your home fitness routines. 💪",
       "price_new": 11.39,
       "price_old": 35.0,
       "currency": "USD",
@@ -534,10 +534,10 @@
     {
       "asin": "B0F2TBYLXR",
       "title": "3-Pack KALIYADI Wrap Around Sports Sunglasses (Polarized or Non-Polarized, Various Colors)",
-      "title_es": null,
+      "title_es": "Pack de 3 gafas de sol deportivas envolventes KALIYADI (Polarizadas o no polarizadas, varios colores)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 3 gafas de sol deportivas envolventes KALIYADI ofrece protección ocular para tus actividades al aire libre. Disponibles en versiones polarizadas o no polarizadas y varios colores, son un accesorio práctico para deportistas y amantes del aire libre. 🕶️",
+      "post_en": "This 3-pack of KALIYADI wrap-around sports sunglasses offers eye protection for your outdoor activities. Available in polarized or non-polarized versions and various colors, they are a practical accessory for athletes and outdoor enthusiasts. 🕶️",
       "price_new": 11.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -556,10 +556,10 @@
     {
       "asin": "B0FCFXYZ41",
       "title": "4-Pc vancasso Ceramic Serving Bowls w/ Lids (Vintage Blue, Various Sizes) from",
-      "title_es": null,
+      "title_es": "Juego de 4 cuencos de cerámica vancasso con tapas (Azul Vintage, varios tamaños)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este juego de 4 cuencos de cerámica vancasso con tapas, en un elegante azul vintage, es perfecto para servir y almacenar alimentos. Sus diferentes tamaños los hacen versátiles para cualquier ocasión, desde ensaladas hasta guarniciones. 🍲",
+      "post_en": "This 4-piece set of vancasso ceramic serving bowls with lids, in an elegant vintage blue, is perfect for serving and storing food. Their various sizes make them versatile for any occasion, from salads to side dishes. 🍲",
       "price_new": 36.79,
       "price_old": 69.99,
       "currency": "USD",
@@ -578,10 +578,10 @@
     {
       "asin": "B00LYXV61Y",
       "title": "The Road to Character (eBook) by David Brooks",
-      "title_es": null,
+      "title_es": "The Road to Character (eBook) de David Brooks",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "The Road to Character es un eBook de David Brooks que explora la importancia de construir un carácter moral y una vida con propósito. Una lectura reflexiva para quienes buscan crecimiento personal y una perspectiva más profunda sobre la ética. 📚",
+      "post_en": "The Road to Character is an eBook by David Brooks that explores the importance of building moral character and a purposeful life. A reflective read for those seeking personal growth and a deeper perspective on ethics. 📚",
       "price_new": 1.99,
       "price_old": 9.99,
       "currency": "USD",
@@ -600,10 +600,10 @@
     {
       "asin": "B002TSA90M",
       "title": "8-Pk 3.75-Oz DOVE MEN + CARE 3 in 1 Bar Cleansers (Extra Fresh) 3 for",
-      "title_es": null,
+      "title_es": "Pack de 8 limpiadores en barra DOVE MEN + CARE 3 en 1 de 3.75 oz (Extra Fresh)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 8 limpiadores en barra DOVE MEN + CARE 3 en 1 (Extra Fresh) ofrece una solución de higiene completa para hombres. Limpia, hidrata y refresca la piel, siendo ideal para una rutina de cuidado personal sencilla y efectiva. 🚿",
+      "post_en": "This 8-pack of DOVE MEN + CARE 3 in 1 Bar Cleansers (Extra Fresh) offers a complete hygiene solution for men. It cleanses, moisturizes, and refreshes the skin, making it ideal for a simple and effective personal care routine. 🚿",
       "price_new": 22.1,
       "price_old": 42.54,
       "currency": "USD",
@@ -622,10 +622,10 @@
     {
       "asin": "B0D1G8THM1",
       "title": "G Gradual Men's Lightweight Golf Shorts (7\" Inseam, various)",
-      "title_es": null,
+      "title_es": "Pantalones cortos de golf ligeros G Gradual para hombre (entrepierna de 7\", varios)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estos pantalones cortos de golf ligeros G Gradual para hombre, con una entrepierna de 7 pulgadas, están diseñados para la comodidad en el campo. Son perfectos para golfistas que buscan libertad de movimiento y un estilo casual durante sus partidas. ⛳",
+      "post_en": "These G Gradual men's lightweight golf shorts, with a 7-inch inseam, are designed for comfort on the course. They are perfect for golfers looking for freedom of movement and a casual style during their games. ⛳",
       "price_new": 14.85,
       "price_old": 27.99,
       "currency": "USD",
@@ -644,10 +644,10 @@
     {
       "asin": "B0H2CCR1KF",
       "title": "Titoe Heavy Duty Snap Fastener Tool Kit w/ 100 Sets of Canvas Snaps (Silver/Black/Bronze/Gold)",
-      "title_es": null,
+      "title_es": "Kit de herramientas Titoe Heavy Duty para broches de presión con 100 juegos de broches de lona (Plata/Negro/Bronce/Oro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este kit de herramientas Titoe Heavy Duty incluye 100 juegos de broches de lona en varios colores, ideal para reparaciones y proyectos de bricolaje. Es una solución robusta para fijar broches en tejidos como lona, cuero o ropa. 🛠️",
+      "post_en": "This Titoe Heavy Duty tool kit includes 100 sets of canvas snaps in various colors, ideal for repairs and DIY projects. It's a robust solution for attaching snaps to fabrics like canvas, leather, or clothing. 🛠️",
       "price_new": 20.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19741227",
       "published_at": "2026-07-09T18:01:05+00:00",
-      "revalidated_at": "2026-07-09T22:01:35+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B0F8J7Y8MW",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740054",
       "published_at": "2026-07-09T14:15:54+00:00",
-      "revalidated_at": "2026-07-09T22:01:35+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B09DLFSXK9",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740438",
       "published_at": "2026-07-09T14:15:54+00:00",
-      "revalidated_at": "2026-07-09T22:01:35+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B0CFCPBLMC",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19736412",
       "published_at": "2026-07-09T06:16:18+00:00",
-      "revalidated_at": "2026-07-09T21:46:37+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B016R90WIW",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19730721",
       "published_at": "2026-07-09T04:31:10+00:00",
-      "revalidated_at": "2026-07-09T22:01:35+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B0DFW4PYK8",
@@ -1849,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737126",
       "published_at": "2026-07-09T03:46:07+00:00",
-      "revalidated_at": "2026-07-09T21:46:37+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B0G2T95P12",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737762",
       "published_at": "2026-07-09T03:46:07+00:00",
-      "revalidated_at": "2026-07-09T21:46:37+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B0CM9BBXXL",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735305",
       "published_at": "2026-07-09T02:16:08+00:00",
-      "revalidated_at": "2026-07-09T21:46:37+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B0FPLX9W4B",
@@ -2003,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19723131",
       "published_at": "2026-07-09T02:01:05+00:00",
-      "revalidated_at": "2026-07-09T21:46:37+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B0GF21W6YC",
@@ -2025,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19738392",
       "published_at": "2026-07-09T01:45:55+00:00",
-      "revalidated_at": "2026-07-09T21:46:37+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B0FKVWSM3N",
@@ -2201,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19738449",
       "published_at": "2026-07-09T00:31:14+00:00",
-      "revalidated_at": "2026-07-09T22:01:35+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B0CGFC3VBL",
@@ -2223,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19734975",
       "published_at": "2026-07-09T00:31:14+00:00",
-      "revalidated_at": "2026-07-09T22:01:35+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B0FL2YZRLX",
@@ -2245,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737207",
       "published_at": "2026-07-09T00:31:14+00:00",
-      "revalidated_at": "2026-07-09T22:01:35+00:00"
+      "revalidated_at": "2026-07-10T00:01:51+00:00"
     },
     {
       "asin": "B0FTCK7TNH",
