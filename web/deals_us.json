@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-10T18:30:57+00:00",
+  "generated_at": "2026-07-10T18:45:51+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B07ZTN5N1V",
+      "title": "1.6-Oz Differin Acne Treatment Gel w/ 0.1% Adapalene",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.18,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 62.3,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/1/9/1/2/6/8/2/450x450/20948124.thumb",
+      "url": "https://amazon.com/dp/B07ZTN5N1V/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19744551",
+      "published_at": "2026-07-10T18:45:51+00:00",
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
+    },
     {
       "asin": "B0F6MWGQCR",
       "title": "Urban Deco Swivel Bike Wall Mount,Adjustable Bike Hanger,Space Saving Bike Rack Garage,Easy to Load and Unload Bike Rack Wall Mount Can Hold Up to 77 lbs (1)",
@@ -134,28 +156,6 @@
       "deal_key": "sd:19745451",
       "published_at": "2026-07-10T17:15:57+00:00",
       "revalidated_at": "2026-07-10T17:15:57+00:00"
-    },
-    {
-      "asin": "B0GJD9LCXG",
-      "title": "52\" Vaczon Low Profile 5-Blade 6-Speed Ceiling Fan w/ 12.2\" Large 3CCT LED Light & Remote (Black)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 46.54,
-      "price_old": 69.98,
-      "currency": "USD",
-      "discount_pct": 33.5,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "HE5V7XYQ",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81gHqKeDqqL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GJD9LCXG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19741371",
-      "published_at": "2026-07-10T17:00:58+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
     },
     {
       "asin": "B0BM51ZM33",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19744764",
       "published_at": "2026-07-10T15:01:34+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
     },
     {
       "asin": "B0DDPLS6RJ",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19744287",
       "published_at": "2026-07-10T13:01:06+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
     },
     {
       "asin": "B0CGLMRLLD",
@@ -661,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19744074",
       "published_at": "2026-07-10T13:01:06+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
     },
     {
       "asin": "B01E9T76CW",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19742508",
       "published_at": "2026-07-10T11:01:23+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
     },
     {
       "asin": "B07FK8YR27",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19741974",
       "published_at": "2026-07-10T09:16:32+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
     },
     {
       "asin": "B0F9NK4M7Q",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19743810",
       "published_at": "2026-07-10T09:16:32+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
     },
     {
       "asin": "B07HJVK83B",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19743237",
       "published_at": "2026-07-10T07:16:14+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
     },
     {
       "asin": "B0D95CLB9W",
@@ -1783,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19739670",
       "published_at": "2026-07-09T22:46:42+00:00",
-      "revalidated_at": "2026-07-10T16:46:03+00:00"
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
     },
     {
       "asin": "B0DHH81K13",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19741545",
       "published_at": "2026-07-09T22:46:42+00:00",
-      "revalidated_at": "2026-07-10T16:46:03+00:00"
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
     },
     {
       "asin": "B0GL1K7JLN",
@@ -1959,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19742193",
       "published_at": "2026-07-09T21:02:05+00:00",
-      "revalidated_at": "2026-07-10T16:46:03+00:00"
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
     },
     {
       "asin": "B0FPPLS4PX",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19742244",
       "published_at": "2026-07-09T21:02:05+00:00",
-      "revalidated_at": "2026-07-10T16:46:03+00:00"
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
     },
     {
       "asin": "B0FH57PRG9",
@@ -2003,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740486",
       "published_at": "2026-07-09T20:46:31+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
     },
     {
       "asin": "B00AEN4QZ8",
@@ -2025,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740507",
       "published_at": "2026-07-09T20:46:31+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
+      "revalidated_at": "2026-07-10T18:45:51+00:00"
     },
     {
       "asin": "B0CNSZ5VHX",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19740918",
       "published_at": "2026-07-09T15:46:02+00:00",
       "revalidated_at": "2026-07-10T18:01:04+00:00"
-    },
-    {
-      "asin": "B09W5P6TMT",
-      "title": "2-Pack EVER ADVANCED Folding Camping Chair with High Back Padded, Black",
-      "title_es": "Pack de 2 Sillas de Camping Plegables EVER ADVANCED con Respaldo Alto Acolchado (Negras)",
-      "headline": null,
-      "post": "Disfruta de la comodidad al aire libre con este pack de 2 sillas de camping plegables EVER ADVANCED de respaldo alto y acolchado. Son perfectas para acampar, pescar o cualquier actividad que requiera un asiento portátil y confortable.",
-      "post_en": "Enjoy outdoor comfort with this 2-pack of EVER ADVANCED Folding Camping Chairs with high padded backs. They are perfect for camping, fishing, or any activity requiring a portable and comfortable seat.",
-      "price_new": 69.99,
-      "price_old": 99.99,
-      "currency": "USD",
-      "discount_pct": 30.0,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/61EOAO5R9ML._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09W5P6TMT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19740747",
-      "published_at": "2026-07-09T15:30:58+00:00",
-      "revalidated_at": "2026-07-10T18:16:00+00:00"
     }
   ]
 }
