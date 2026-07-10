@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T18:45:51+00:00",
+  "generated_at": "2026-07-10T19:01:04+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
     {
       "asin": "B07ZTN5N1V",
@@ -58,11 +58,11 @@
       "price_old": 16.98,
       "currency": "USD",
       "discount_pct": 56.6,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20950221.thumb",
+      "image": "https://m.media-amazon.com/images/I/81VE6ht8aTL._SL1425_.jpg",
       "url": "https://amazon.com/dp/B00M30RXG4/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19745433",
@@ -155,7 +155,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19745451",
       "published_at": "2026-07-10T17:15:57+00:00",
-      "revalidated_at": "2026-07-10T17:15:57+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B0BM51ZM33",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19743948",
       "published_at": "2026-07-10T15:16:04+00:00",
-      "revalidated_at": "2026-07-10T17:15:57+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B0BRC25B8K",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19745004",
       "published_at": "2026-07-10T15:16:04+00:00",
-      "revalidated_at": "2026-07-10T17:15:57+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B0GD756RHY",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19741896",
       "published_at": "2026-07-10T13:16:16+00:00",
-      "revalidated_at": "2026-07-10T17:15:57+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B0CHS2VNHC",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19743252",
       "published_at": "2026-07-10T03:31:19+00:00",
-      "revalidated_at": "2026-07-10T17:15:57+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B0CTG9J8GJ",
@@ -1434,28 +1434,6 @@
       "revalidated_at": "2026-07-10T17:46:04+00:00"
     },
     {
-      "asin": "B0DF2KN4T5",
-      "title": "EverBrite COB Mini Rechargeable Magnetic Keychain Light w/ Sensor Mode & 6-Modes (Green)",
-      "title_es": "Mini linterna recargable magnética EverBrite COB con modo sensor y 6 modos (Verde)",
-      "headline": null,
-      "post": "Esta mini linterna recargable es perfecta para llevar en el llavero, ofreciendo seis modos de luz y un práctico modo sensor. Su base magnética permite fijarla fácilmente a superficies metálicas, ideal para emergencias o tareas que requieren manos libres.",
-      "post_en": "This mini rechargeable flashlight is perfect for your keychain, offering six light modes and a practical sensor mode. Its magnetic base allows easy attachment to metal surfaces, ideal for emergencies or hands-free tasks.",
-      "price_new": 3.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 88.6,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "VRG8FH4S",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71JrAViIfiL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DF2KN4T5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19742994",
-      "published_at": "2026-07-10T01:31:32+00:00",
-      "revalidated_at": "2026-07-10T17:15:57+00:00"
-    },
-    {
       "asin": "B09NF92BF4",
       "title": "40\" Hurricane Triple Action Indoor Tower Fan w/ Aromatherapy Diffuser",
       "title_es": "Ventilador de torre de interior Hurricane de 40\" con triple acción y difusor de aromaterapia",
@@ -1475,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19734831",
       "published_at": "2026-07-10T01:31:32+00:00",
-      "revalidated_at": "2026-07-10T17:15:57+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B01EB4JD30",
@@ -1497,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19741002",
       "published_at": "2026-07-10T01:16:19+00:00",
-      "revalidated_at": "2026-07-10T17:15:57+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B01LNAU866",
@@ -1519,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19742004",
       "published_at": "2026-07-10T01:16:19+00:00",
-      "revalidated_at": "2026-07-10T17:15:57+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B0GJ4WGP8Y",
@@ -1695,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740870",
       "published_at": "2026-07-09T23:16:44+00:00",
-      "revalidated_at": "2026-07-10T17:15:57+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B0BCW4YMR8",
@@ -2047,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740783",
       "published_at": "2026-07-09T20:46:31+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B0G197GGQ9",
@@ -2289,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19739673",
       "published_at": "2026-07-09T19:01:14+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B0C2C28CVL",
@@ -2311,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740948",
       "published_at": "2026-07-09T19:01:14+00:00",
-      "revalidated_at": "2026-07-10T17:15:57+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B0G16RXXYK",
@@ -2399,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19741107",
       "published_at": "2026-07-09T18:31:03+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B0GF4MXFPC",
@@ -2575,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737729",
       "published_at": "2026-07-09T16:45:53+00:00",
-      "revalidated_at": "2026-07-10T17:00:58+00:00"
+      "revalidated_at": "2026-07-10T19:01:04+00:00"
     },
     {
       "asin": "B09Y965WSB",
