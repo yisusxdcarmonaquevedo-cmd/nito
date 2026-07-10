@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T08:01:25+00:00",
+  "generated_at": "2026-07-10T08:16:25+00:00",
   "market": "us",
-  "count": 119,
+  "count": 117,
   "deals": [
     {
       "asin": "B007Y6P6TI",
@@ -14,11 +14,11 @@
       "price_old": 15.68,
       "currency": "USD",
       "discount_pct": 38.8,
-      "rating": null,
+      "rating": 4.8,
       "condition": "sns",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/20945280.thumb",
+      "image": "https://m.media-amazon.com/images/I/81Ck203oBKL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B007Y6P6TI/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19743237",
@@ -36,38 +36,16 @@
       "price_old": 25.99,
       "currency": "USD",
       "discount_pct": 61.6,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "B4PI9SLE",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/20944287.thumb",
+      "image": "https://m.media-amazon.com/images/I/81b4jq8DbqL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D95CLB9W/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19742901",
       "published_at": "2026-07-10T07:01:13+00:00",
       "revalidated_at": "2026-07-10T07:01:13+00:00"
-    },
-    {
-      "asin": "B07XVCP7F5",
-      "title": "RK ROYAL KLUDGE S108 Typewriter Keyboard, Retro Mechanical Gaming Keyboard Wired 108 Keys with RGB Backlit Sidelight, Detachable Wrist Rest, Round Keycaps",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 35.99,
-      "price_old": 59.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71MFO2LGM5L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07XVCP7F5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19736499",
-      "published_at": "2026-07-10T06:31:19+00:00",
-      "revalidated_at": "2026-07-10T06:31:19+00:00"
     },
     {
       "asin": "B0F2MJ8BD7",
@@ -507,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19742856",
       "published_at": "2026-07-10T00:31:24+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
+      "revalidated_at": "2026-07-10T08:16:25+00:00"
     },
     {
       "asin": "B0BRKPVZB4",
@@ -969,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19733847",
       "published_at": "2026-07-09T20:16:05+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
+      "revalidated_at": "2026-07-10T08:16:25+00:00"
     },
     {
       "asin": "B0FDH1CZ22",
@@ -991,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19742085",
       "published_at": "2026-07-09T20:16:05+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
+      "revalidated_at": "2026-07-10T08:16:25+00:00"
     },
     {
       "asin": "B0DGXTBQTY",
@@ -1070,11 +1048,11 @@
       "price_old": 69.99,
       "currency": "USD",
       "discount_pct": 47.4,
-      "rating": null,
+      "rating": 4.8,
       "condition": "code",
       "code": "6YHBGJ4U",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/1/9/6/7/1/6/450x450/20939280.thumb",
+      "image": "https://m.media-amazon.com/images/I/810EQWIJPtL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FCFXYZ41/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19740792",
@@ -1092,11 +1070,11 @@
       "price_old": 9.99,
       "currency": "USD",
       "discount_pct": 80.1,
-      "rating": null,
+      "rating": 4.3,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20907846.thumb",
+      "image": "https://m.media-amazon.com/images/I/71bTk6EqSuL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B00LYXV61Y/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19726722",
@@ -1343,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19731390",
       "published_at": "2026-07-09T18:15:57+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
+      "revalidated_at": "2026-07-10T08:16:25+00:00"
     },
     {
       "asin": "B0FFZJFBYH",
@@ -1673,29 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19736337",
       "published_at": "2026-07-09T14:30:58+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
-    },
-    {
-      "asin": "B0FVYMPHN5",
-      "title": "myQ Indoor 2K Wi-Fi Security Camera Gen 2 w/ Night Vision, Motion Detection & 2-Way Audio",
-      "title_es": "Cámara de seguridad Wi-Fi myQ Indoor 2K Gen 2 con visión nocturna, detección de movimiento y audio bidireccional",
-      "headline": null,
-      "post": "Protege tu hogar con la cámara de seguridad Wi-Fi myQ Indoor 2K Gen 2. Ofrece visión nocturna, detección de movimiento y audio bidireccional para una vigilancia completa de tus espacios interiores. 🏠",
-      "post_en": "Protect your home with the myQ Indoor 2K Wi-Fi Security Camera Gen 2. It features night vision, motion detection, and 2-way audio for comprehensive indoor surveillance. 🏠",
-      "price_new": 14.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 57.2,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/7/2/2/9/6/4/450x450/20938077.thumb",
-      "url": "https://amazon.com/dp/B0FVYMPHN5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19740264",
-      "published_at": "2026-07-09T14:30:58+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
+      "revalidated_at": "2026-07-10T08:16:25+00:00"
     },
     {
       "asin": "B0GMPCXD64",
@@ -1717,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740456",
       "published_at": "2026-07-09T14:30:58+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
+      "revalidated_at": "2026-07-10T08:16:25+00:00"
     },
     {
       "asin": "B0D9WJVPXS",
@@ -1915,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19739913",
       "published_at": "2026-07-09T11:36:47+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
+      "revalidated_at": "2026-07-10T08:16:25+00:00"
     },
     {
       "asin": "B0BBWG5T23",
@@ -1937,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19739241",
       "published_at": "2026-07-09T11:36:47+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
+      "revalidated_at": "2026-07-10T08:16:25+00:00"
     },
     {
       "asin": "B0DDS1368S",
@@ -2245,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737894",
       "published_at": "2026-07-09T04:01:03+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
+      "revalidated_at": "2026-07-10T08:16:25+00:00"
     },
     {
       "asin": "B0FNCZHKQZ",
@@ -2267,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737126",
       "published_at": "2026-07-09T03:46:07+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
+      "revalidated_at": "2026-07-10T08:16:25+00:00"
     },
     {
       "asin": "B0G2T95P12",
@@ -2289,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737762",
       "published_at": "2026-07-09T03:46:07+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
+      "revalidated_at": "2026-07-10T08:16:25+00:00"
     },
     {
       "asin": "B0CM9BBXXL",
@@ -2399,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735305",
       "published_at": "2026-07-09T02:16:08+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
+      "revalidated_at": "2026-07-10T08:16:25+00:00"
     },
     {
       "asin": "B0FPLX9W4B",
@@ -2487,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19735338",
       "published_at": "2026-07-09T01:30:57+00:00",
-      "revalidated_at": "2026-07-10T06:16:14+00:00"
+      "revalidated_at": "2026-07-10T08:16:25+00:00"
     },
     {
       "asin": "B07YC8PVF1",
