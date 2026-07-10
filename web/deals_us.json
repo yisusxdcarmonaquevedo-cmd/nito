@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T03:46:34+00:00",
+  "generated_at": "2026-07-10T04:01:12+00:00",
   "market": "us",
-  "count": 119,
+  "count": 117,
   "deals": [
     {
       "asin": "B0CYHG8CS2",
@@ -14,11 +14,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 75.3,
-      "rating": null,
+      "rating": 4.7,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/1/4/9/0/0/1/2/450x450/20945037.thumb",
+      "image": "https://m.media-amazon.com/images/I/81tG95Gk9pL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CYHG8CS2/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19743210",
@@ -155,7 +155,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740243",
       "published_at": "2026-07-10T02:01:35+00:00",
-      "revalidated_at": "2026-07-10T02:01:35+00:00"
+      "revalidated_at": "2026-07-10T04:01:12+00:00"
     },
     {
       "asin": "B0GS5YJ7CS",
@@ -177,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740528",
       "published_at": "2026-07-10T02:01:35+00:00",
-      "revalidated_at": "2026-07-10T02:01:35+00:00"
+      "revalidated_at": "2026-07-10T04:01:12+00:00"
     },
     {
       "asin": "B0FZLKLYLW",
@@ -199,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19742253",
       "published_at": "2026-07-10T02:01:35+00:00",
-      "revalidated_at": "2026-07-10T02:01:35+00:00"
+      "revalidated_at": "2026-07-10T04:01:12+00:00"
     },
     {
       "asin": "B0DF2KN4T5",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19741851",
       "published_at": "2026-07-09T22:01:35+00:00",
-      "revalidated_at": "2026-07-10T02:01:35+00:00"
+      "revalidated_at": "2026-07-10T04:01:12+00:00"
     },
     {
       "asin": "B0D14XFH5M",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19741602",
       "published_at": "2026-07-09T20:00:56+00:00",
-      "revalidated_at": "2026-07-10T02:01:35+00:00"
+      "revalidated_at": "2026-07-10T04:01:12+00:00"
     },
     {
       "asin": "B0FRGHPTJW",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19741227",
       "published_at": "2026-07-09T18:01:05+00:00",
-      "revalidated_at": "2026-07-10T02:01:35+00:00"
+      "revalidated_at": "2026-07-10T04:01:12+00:00"
     },
     {
       "asin": "B0F8J7Y8MW",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740054",
       "published_at": "2026-07-09T14:15:54+00:00",
-      "revalidated_at": "2026-07-10T02:01:35+00:00"
+      "revalidated_at": "2026-07-10T04:01:12+00:00"
     },
     {
       "asin": "B09DLFSXK9",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740438",
       "published_at": "2026-07-09T14:15:54+00:00",
-      "revalidated_at": "2026-07-10T02:01:35+00:00"
+      "revalidated_at": "2026-07-10T04:01:12+00:00"
     },
     {
       "asin": "B0CFCPBLMC",
@@ -1761,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19739424",
       "published_at": "2026-07-09T13:31:03+00:00",
-      "revalidated_at": "2026-07-10T01:46:16+00:00"
+      "revalidated_at": "2026-07-10T04:01:12+00:00"
     },
     {
       "asin": "B0D99TN8YP",
@@ -1937,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19739538",
       "published_at": "2026-07-09T10:46:12+00:00",
-      "revalidated_at": "2026-07-10T01:46:16+00:00"
+      "revalidated_at": "2026-07-10T04:01:12+00:00"
     },
     {
       "asin": "B07DNGPJK3",
@@ -2069,29 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737696",
       "published_at": "2026-07-09T06:16:18+00:00",
-      "revalidated_at": "2026-07-10T01:46:16+00:00"
-    },
-    {
-      "asin": "B0DYVV33WF",
-      "title": "DELSEY PARIS Roland-Garros Laptop Tote Backpack at Amazon",
-      "title_es": "Mochila Tote para Portátil DELSEY PARIS Roland-Garros",
-      "headline": null,
-      "post": "Esta mochila tote para portátil DELSEY PARIS Roland-Garros combina estilo y funcionalidad, ideal para transportar tu ordenador de forma segura y elegante. Su diseño versátil la convierte en un accesorio perfecto para profesionales o estudiantes con estilo.",
-      "post_en": "This DELSEY PARIS Roland-Garros Laptop Tote Backpack combines style and functionality, ideal for safely and elegantly carrying your laptop. Its versatile design makes it a perfect accessory for stylish professionals or students.",
-      "price_new": 81.0,
-      "price_old": 179.99,
-      "currency": "USD",
-      "discount_pct": 55.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71CT5qv3sCL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DYVV33WF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19736412",
-      "published_at": "2026-07-09T06:16:18+00:00",
-      "revalidated_at": "2026-07-10T02:01:35+00:00"
+      "revalidated_at": "2026-07-10T04:01:12+00:00"
     },
     {
       "asin": "B016R90WIW",
@@ -2201,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19730721",
       "published_at": "2026-07-09T04:31:10+00:00",
-      "revalidated_at": "2026-07-10T02:01:35+00:00"
+      "revalidated_at": "2026-07-10T04:01:12+00:00"
     },
     {
       "asin": "B0DFW4PYK8",
@@ -2443,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737291",
       "published_at": "2026-07-09T01:30:57+00:00",
-      "revalidated_at": "2026-07-10T01:46:16+00:00"
+      "revalidated_at": "2026-07-10T04:01:12+00:00"
     },
     {
       "asin": "B0CLSFKCS1",
@@ -2466,28 +2444,6 @@
       "deal_key": "sd:19735338",
       "published_at": "2026-07-09T01:30:57+00:00",
       "revalidated_at": "2026-07-10T02:01:35+00:00"
-    },
-    {
-      "asin": "B0GHP7816N",
-      "title": "Mintreus Women's High-Waisted Maxi A-Line Skirt w/ Tie Waist (Various)",
-      "title_es": "Mintreus Falda Maxi Acampanada de Cintura Alta para Mujer con Lazo (Varios)",
-      "headline": null,
-      "post": "Esta falda maxi de cintura alta es ideal para un look elegante y cómodo en cualquier ocasión, gracias a su diseño acampanado y lazo ajustable. Es perfecta para quienes buscan versatilidad y estilo en su vestuario diario.",
-      "post_en": "This high-waisted maxi skirt is ideal for an elegant and comfortable look on any occasion, thanks to its A-line design and adjustable tie waist. It's perfect for those seeking versatility and style in their daily wardrobe.",
-      "price_new": 9.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.5,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "YGDNNAZ3",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71Uu0E69KDL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GHP7816N/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19738404",
-      "published_at": "2026-07-09T01:16:09+00:00",
-      "revalidated_at": "2026-07-10T01:46:16+00:00"
     },
     {
       "asin": "B07YC8PVF1",
