@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-11T16:16:41+00:00",
+  "generated_at": "2026-07-11T16:31:45+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B07V22YC9J",
+      "title": "5-Pc GOOACC Nylon Auto Trim Removal Tool Kit at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.54,
+      "price_old": 8.49,
+      "currency": "USD",
+      "discount_pct": 34.7,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61vDByDoROL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07V22YC9J/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19748187",
+      "published_at": "2026-07-11T16:31:45+00:00",
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
+    },
     {
       "asin": "B09NCTZHC3",
       "title": "addlon 50FT LED Outdoor String Lights with Edison Shatterproof Bulbs",
@@ -14,11 +36,11 @@
       "price_old": 20.0,
       "currency": "USD",
       "discount_pct": 35.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/9/5/3/2/3/450x450/20956521.thumb",
+      "image": "https://m.media-amazon.com/images/I/71+30Ddi34L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B09NCTZHC3/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19748325",
@@ -36,11 +58,11 @@
       "price_old": 99.99,
       "currency": "USD",
       "discount_pct": 70.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/3/3/2/8/0/4/4/7/450x450/20955837.thumb",
+      "image": "https://m.media-amazon.com/images/I/61S+6LD9raL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FT3BDQXQ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19748016",
@@ -67,7 +89,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746894",
       "published_at": "2026-07-11T14:37:35+00:00",
-      "revalidated_at": "2026-07-11T14:37:35+00:00"
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
     },
     {
       "asin": "B00L8KDBCK",
@@ -80,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 86.6,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/4/1/3/2/6/0/450x450/20955207.thumb",
+      "image": "https://m.media-amazon.com/images/I/81CrcqfWN3L._SL1500_.jpg",
       "url": "https://amazon.com/dp/B00L8KDBCK/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19747713",
@@ -124,11 +146,11 @@
       "price_old": 59.0,
       "currency": "USD",
       "discount_pct": 79.9,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/7/2/9/6/9/0/450x450/20954526.thumb",
+      "image": "https://m.media-amazon.com/images/I/81FOU4e4FRL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FYKGVZZ1/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19747461",
@@ -309,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746267",
       "published_at": "2026-07-11T10:46:39+00:00",
-      "revalidated_at": "2026-07-11T14:37:35+00:00"
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
     },
     {
       "asin": "B0743L14LS",
@@ -749,29 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746882",
       "published_at": "2026-07-11T01:16:15+00:00",
-      "revalidated_at": "2026-07-11T14:37:35+00:00"
-    },
-    {
-      "asin": "B09RGFRNCB",
-      "title": "6-Pack KuBace Solar LED Lily Flower Garden Lights w/ 7-Color",
-      "title_es": "Pack de 6 luces solares LED KuBace de lirio para jardín con 7 colores",
-      "headline": null,
-      "post": "Ilumina tu jardín con este pack de 6 luces solares LED KuBace en forma de lirio que cambian de color. Son perfectas para añadir un toque decorativo y ambiental a tus zonas exteriores sin necesidad de cables.",
-      "post_en": "Brighten your garden with this 6-pack of KuBace Solar LED Lily Flower Lights that change color. They are perfect for adding a decorative and ambient touch to your outdoor spaces without the need for wires.",
-      "price_new": 19.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 42.9,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "2R4JOSQL",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81QOlFPI3HL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09RGFRNCB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19746486",
-      "published_at": "2026-07-11T01:16:15+00:00",
-      "revalidated_at": "2026-07-11T14:37:35+00:00"
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
     },
     {
       "asin": "B0H2D3H2JQ",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19744911",
       "published_at": "2026-07-11T01:16:15+00:00",
-      "revalidated_at": "2026-07-11T14:37:35+00:00"
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
     },
     {
       "asin": "B0DPX94PSL",
@@ -1233,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19745391",
       "published_at": "2026-07-10T23:01:35+00:00",
-      "revalidated_at": "2026-07-11T14:37:35+00:00"
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
     },
     {
       "asin": "B0DZFGTCLR",
@@ -1365,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19743636",
       "published_at": "2026-07-10T21:16:25+00:00",
-      "revalidated_at": "2026-07-11T14:37:35+00:00"
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
     },
     {
       "asin": "B0FQNYNYMQ",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19745583",
       "published_at": "2026-07-10T21:01:29+00:00",
-      "revalidated_at": "2026-07-11T14:37:35+00:00"
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
     },
     {
       "asin": "B0GL2QL2CB",
@@ -1761,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19744977",
       "published_at": "2026-07-10T15:31:03+00:00",
-      "revalidated_at": "2026-07-11T14:37:35+00:00"
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
     },
     {
       "asin": "B0DZ7L2LZB",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19743576",
       "published_at": "2026-07-10T13:31:05+00:00",
-      "revalidated_at": "2026-07-11T14:37:35+00:00"
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
     },
     {
       "asin": "B0CY2TYZP5",
@@ -2201,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19741254",
       "published_at": "2026-07-10T11:31:30+00:00",
-      "revalidated_at": "2026-07-11T14:37:35+00:00"
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
     },
     {
       "asin": "B001459IEE",
@@ -2267,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740861",
       "published_at": "2026-07-10T10:31:58+00:00",
-      "revalidated_at": "2026-07-11T14:31:35+00:00"
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
     },
     {
       "asin": "B0GL88K2QX",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19743804",
       "published_at": "2026-07-10T10:31:58+00:00",
-      "revalidated_at": "2026-07-11T14:31:35+00:00"
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
     },
     {
       "asin": "B0B16SQK2T",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19743213",
       "published_at": "2026-07-10T10:16:28+00:00",
-      "revalidated_at": "2026-07-11T14:37:35+00:00"
+      "revalidated_at": "2026-07-11T16:31:45+00:00"
     },
     {
       "asin": "B0GQMNM6W8",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19740243",
       "published_at": "2026-07-10T02:01:35+00:00",
       "revalidated_at": "2026-07-11T16:16:41+00:00"
-    },
-    {
-      "asin": "B0GS5YJ7CS",
-      "title": "IVOODi Travel Vacuum Bags with Electric Pump, Compression 9-Piece",
-      "title_es": "Bolsas de vacío de viaje IVOODi con bomba eléctrica, set de 9 piezas",
-      "headline": null,
-      "post": "Este set de bolsas de vacío IVOODi con bomba eléctrica te ayuda a maximizar el espacio en tu equipaje o armario. Es perfecto para viajeros o para organizar ropa de temporada, reduciendo significativamente su volumen.",
-      "post_en": "This IVOODi vacuum bag set with an electric pump helps you maximize space in your luggage or closet. It's perfect for travelers or for organizing seasonal clothes, significantly reducing their volume.",
-      "price_new": 17.98,
-      "price_old": 29.98,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81uc+wKm1mL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GS5YJ7CS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19740528",
-      "published_at": "2026-07-10T02:01:35+00:00",
-      "revalidated_at": "2026-07-11T14:46:27+00:00"
     }
   ]
 }
