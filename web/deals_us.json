@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-11T04:16:13+00:00",
+  "generated_at": "2026-07-11T04:31:05+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B002TSA90W",
+      "title": "Dove Men+Care Men's Bar Soap Deep Clean 8 Bars More Moisturizing Than Bar Soap 3.75 oz~$9.67 After Coupon & S&S @ Amazon",
+      "title_es": "Jabón en Pastilla Dove Men+Care Deep Clean para Hombre, 8 Barras",
+      "headline": null,
+      "post": "Este pack de 8 pastillas de jabón Dove Men+Care Deep Clean ofrece una limpieza profunda y una hidratación superior para la piel masculina. Ideal para el cuidado diario, ayuda a mantener la piel fresca y suave.",
+      "post_en": "This 8-pack of Dove Men+Care Deep Clean bar soap provides a thorough cleanse and superior moisturization for men's skin. Perfect for daily use, it helps keep skin feeling fresh and smooth.",
+      "price_new": 9.67,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 83.9,
+      "rating": 4.7,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71A3z0vD0aL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B002TSA90W/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19746393",
+      "published_at": "2026-07-11T04:31:05+00:00",
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
+    },
     {
       "asin": "B0FZBB817W",
       "title": "Tughlax High Rechargeable LED Tactical Flashlight w/ LCD Display, 5 Modes & Zoomable Focus",
@@ -111,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746756",
       "published_at": "2026-07-11T02:31:18+00:00",
-      "revalidated_at": "2026-07-11T02:31:18+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     },
     {
       "asin": "B08R5PQXLF",
@@ -397,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746702",
       "published_at": "2026-07-11T00:31:19+00:00",
-      "revalidated_at": "2026-07-11T02:31:18+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     },
     {
       "asin": "B01J8DLGU2",
@@ -837,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19744914",
       "published_at": "2026-07-10T22:16:30+00:00",
-      "revalidated_at": "2026-07-11T02:31:18+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     },
     {
       "asin": "B096XWD8LG",
@@ -969,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19745703",
       "published_at": "2026-07-10T20:30:54+00:00",
-      "revalidated_at": "2026-07-11T02:31:18+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     },
     {
       "asin": "B0GZLXVBB3",
@@ -991,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19745046",
       "published_at": "2026-07-10T20:30:54+00:00",
-      "revalidated_at": "2026-07-11T02:31:18+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     },
     {
       "asin": "B0DC7JK89N",
@@ -1167,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19744518",
       "published_at": "2026-07-10T16:46:03+00:00",
-      "revalidated_at": "2026-07-11T02:31:18+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     },
     {
       "asin": "B08QRYXSQT",
@@ -1290,11 +1312,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 84.6,
-      "rating": null,
+      "rating": 4.6,
       "condition": "coupon",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/20947761.thumb",
+      "image": "https://m.media-amazon.com/images/I/61ZCifxGLOL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B09VVBFF1R/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19744284",
@@ -1312,11 +1334,11 @@
       "price_old": 29.99,
       "currency": "USD",
       "discount_pct": 40.0,
-      "rating": null,
+      "rating": 4.3,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/20949075.thumb",
+      "image": "https://m.media-amazon.com/images/I/613+gu13aGL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D922LS1S/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19744977",
@@ -1356,11 +1378,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 35.7,
-      "rating": null,
+      "rating": 4.5,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/20949129.thumb",
+      "image": "https://m.media-amazon.com/images/I/510K3JmpVGL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BRC25B8K/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19745004",
@@ -1378,11 +1400,11 @@
       "price_old": 30.0,
       "currency": "USD",
       "discount_pct": 70.7,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/0/6/6/3/5/5/9/450x450/20948268.thumb",
+      "image": "https://m.media-amazon.com/images/I/51wZssSvalL._AC_SL1300_.jpg",
       "url": "https://amazon.com/dp/B0GD756RHY/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19744764",
@@ -1409,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19744746",
       "published_at": "2026-07-10T14:46:10+00:00",
-      "revalidated_at": "2026-07-11T02:31:18+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     },
     {
       "asin": "B0C317Y1L4",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19737660",
       "published_at": "2026-07-10T14:46:10+00:00",
-      "revalidated_at": "2026-07-11T02:31:18+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     },
     {
       "asin": "B004AIB9I0",
@@ -1629,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740969",
       "published_at": "2026-07-10T12:45:58+00:00",
-      "revalidated_at": "2026-07-11T02:31:18+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     },
     {
       "asin": "B0GLTX2PNR",
@@ -1651,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19740546",
       "published_at": "2026-07-10T12:45:58+00:00",
-      "revalidated_at": "2026-07-11T02:31:18+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     },
     {
       "asin": "B0FFSZDNPC",
@@ -1695,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19741845",
       "published_at": "2026-07-10T12:31:06+00:00",
-      "revalidated_at": "2026-07-11T02:31:18+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     },
     {
       "asin": "B0FJH3Q9R5",
@@ -1849,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19743873",
       "published_at": "2026-07-10T10:31:58+00:00",
-      "revalidated_at": "2026-07-11T02:31:18+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     },
     {
       "asin": "B0C4WRBTJS",
@@ -2289,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19742253",
       "published_at": "2026-07-10T02:01:35+00:00",
-      "revalidated_at": "2026-07-11T02:16:08+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     },
     {
       "asin": "B09NF92BF4",
@@ -2619,29 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19742313",
       "published_at": "2026-07-09T22:16:33+00:00",
-      "revalidated_at": "2026-07-11T02:16:08+00:00"
-    },
-    {
-      "asin": "B0G1YVWXL5",
-      "title": "GE 8-Electrode Smart Digital Weight Scale",
-      "title_es": "Báscula digital inteligente GE de 8 electrodos",
-      "headline": null,
-      "post": "La báscula digital inteligente GE de 8 electrodos ofrece un análisis corporal completo, midiendo no solo el peso sino también otros parámetros importantes. Es una herramienta excelente para quienes buscan monitorear su salud y progreso físico con precisión.",
-      "post_en": "The GE 8-Electrode Smart Digital Weight Scale provides a comprehensive body analysis, measuring not only weight but also other important parameters. It's an excellent tool for those looking to accurately monitor their health and fitness progress.",
-      "price_new": 59.99,
-      "price_old": 129.99,
-      "currency": "USD",
-      "discount_pct": 53.9,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "8XM9CDB5",
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/61dpW9kggUL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G1YVWXL5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19741851",
-      "published_at": "2026-07-09T22:01:35+00:00",
-      "revalidated_at": "2026-07-11T02:16:08+00:00"
+      "revalidated_at": "2026-07-11T04:31:05+00:00"
     }
   ]
 }
