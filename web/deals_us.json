@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-07-12T17:46:11+00:00",
+  "generated_at": "2026-07-12T18:01:23+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0CCTPJ8DC",
+      "title": "6 oz Amazon Basics Therapeutic Plus Coal Tar Anti-Dandruff Shampoo Extra Strength 1%, for Seborrheic Dermatitis, Psoriasis, Itching,",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.2,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 94.7,
+      "rating": 4.5,
+      "condition": "coupon",
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://m.media-amazon.com/images/I/51wI8lbpUGL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CCTPJ8DC/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19746624",
+      "published_at": "2026-07-12T18:01:23+00:00",
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
+    },
+    {
+      "asin": "B0GQ95894Y",
+      "title": "[Limited Deal] LAMIT Vintage Floral Linen Curtains 84 Inch, Light Filtering Farmhouse Flower Patterned Drapes",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.48,
+      "price_old": 26.96,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/20961876.thumb",
+      "url": "https://amazon.com/dp/B0GQ95894Y/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19751094",
+      "published_at": "2026-07-12T18:01:23+00:00",
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
+    },
     {
       "asin": "B09GH6ZFB4",
       "title": "Belkin 40W Foldable Dual Port USB C Wall Charger Block(White)",
@@ -378,28 +422,6 @@
       "revalidated_at": "2026-07-12T16:31:27+00:00"
     },
     {
-      "asin": "B073HP1JG6",
-      "title": "Bosch Custom Case System Large Storage Organizer for Impact Tough Driver & Drill Bits (CCSCL)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 5.52,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 84.2,
-      "rating": 4.2,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/91UKyhecYEL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B073HP1JG6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19750920",
-      "published_at": "2026-07-12T14:18:20+00:00",
-      "revalidated_at": "2026-07-12T16:01:11+00:00"
-    },
-    {
       "asin": "B000052Y0S",
       "title": "7-Ounce UltraSwim Chlorine Removal & Hard Water Treatment Moisturizing Shampoo",
       "title_es": null,
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749762",
       "published_at": "2026-07-12T12:16:44+00:00",
-      "revalidated_at": "2026-07-12T16:01:11+00:00"
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
     },
     {
       "asin": "B09G2GS39R",
@@ -617,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750353",
       "published_at": "2026-07-12T12:03:18+00:00",
-      "revalidated_at": "2026-07-12T15:46:13+00:00"
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
     },
     {
       "asin": "B0B94PQR3P",
@@ -815,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750551",
       "published_at": "2026-07-12T10:32:53+00:00",
-      "revalidated_at": "2026-07-12T16:01:11+00:00"
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
     },
     {
       "asin": "B0CTJGJL2T",
@@ -837,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749699",
       "published_at": "2026-07-12T10:17:04+00:00",
-      "revalidated_at": "2026-07-12T15:46:13+00:00"
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
     },
     {
       "asin": "B0F1DSP4QW",
@@ -1057,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19748886",
       "published_at": "2026-07-12T02:31:15+00:00",
-      "revalidated_at": "2026-07-12T15:46:13+00:00"
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
     },
     {
       "asin": "B0BB5MJ5P6",
@@ -1145,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19743750",
       "published_at": "2026-07-12T00:47:18+00:00",
-      "revalidated_at": "2026-07-12T16:01:11+00:00"
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
     },
     {
       "asin": "B0B1PK68BZ",
@@ -1167,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749063",
       "published_at": "2026-07-12T00:47:18+00:00",
-      "revalidated_at": "2026-07-12T16:01:11+00:00"
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
     },
     {
       "asin": "B0DS2389H1",
@@ -1365,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19748433",
       "published_at": "2026-07-11T23:01:17+00:00",
-      "revalidated_at": "2026-07-12T16:01:11+00:00"
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
     },
     {
       "asin": "B0BS4LQQNT",
@@ -1409,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19748373",
       "published_at": "2026-07-11T20:46:40+00:00",
-      "revalidated_at": "2026-07-12T15:46:13+00:00"
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
     },
     {
       "asin": "B0BH9D6897",
@@ -1497,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19748376",
       "published_at": "2026-07-11T17:16:39+00:00",
-      "revalidated_at": "2026-07-12T15:46:13+00:00"
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
     },
     {
       "asin": "B07V22YC9J",
@@ -1695,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19747881",
       "published_at": "2026-07-11T13:31:35+00:00",
-      "revalidated_at": "2026-07-12T15:46:13+00:00"
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
     },
     {
       "asin": "1524888044",
@@ -1849,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746300",
       "published_at": "2026-07-11T07:46:33+00:00",
-      "revalidated_at": "2026-07-12T15:46:13+00:00"
+      "revalidated_at": "2026-07-12T18:01:23+00:00"
     },
     {
       "asin": "B0CXN8VLND",
@@ -2598,50 +2620,6 @@
       "deal_key": "sd:19745316",
       "published_at": "2026-07-10T22:46:29+00:00",
       "revalidated_at": "2026-07-12T17:46:11+00:00"
-    },
-    {
-      "asin": "B0FFGJ5P8X",
-      "title": "2-Pack 2-Oz Organic Vitamin D3 K2 Liquid 10000 IU w/ Vegan Omega-3 & Coconut MCT Oil",
-      "title_es": "Pack de 2 líquidos orgánicos de Vitamina D3 K2 (10000 IU) con Omega-3 vegano y aceite MCT de coco.",
-      "headline": null,
-      "post": "Este pack de dos líquidos orgánicos de Vitamina D3 K2, con 10000 IU y enriquecido con Omega-3 vegano y aceite MCT de coco, es un suplemento esencial para apoyar la salud ósea e inmunológica. Es ideal para quienes buscan una forma líquida y vegana de complementar su dieta. 🌱",
-      "post_en": "This two-pack of organic Vitamin D3 K2 liquid, with 10000 IU and enriched with vegan Omega-3 and coconut MCT oil, is an essential supplement to support bone and immune health. It's ideal for those seeking a liquid and vegan way to supplement their diet. 🌱",
-      "price_new": 12.29,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 64.9,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "HPQ7936Q",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81z604QMKSL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FFGJ5P8X/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19744914",
-      "published_at": "2026-07-10T22:16:30+00:00",
-      "revalidated_at": "2026-07-12T17:16:11+00:00"
-    },
-    {
-      "asin": "B096XWD8LG",
-      "title": "2-Pack DORESshop LED Plug-In Night Lights w/ Dusk-to-Dawn Sensor (0–60 Lumens, RGB Color-Changing, Soft White or Daylight)",
-      "title_es": "Pack de 2 luces nocturnas LED DORESshop con sensor crepuscular (RGB, blanco suave o luz día)",
-      "headline": null,
-      "post": "Estas luces nocturnas LED DORESshop ofrecen iluminación ajustable de 0 a 60 lúmenes con sensor crepuscular. Son perfectas para crear ambiente o añadir seguridad en pasillos y habitaciones, con opciones de color RGB, blanco suave o luz diurna. ✨",
-      "post_en": "These DORESshop LED night lights offer adjustable illumination from 0 to 60 lumens with a dusk-to-dawn sensor. They are perfect for creating ambiance or adding safety in hallways and rooms, with RGB, soft white, or daylight color options. ✨",
-      "price_new": 3.0,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 91.4,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "BELOW",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61SQ6ZO93rL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B096XWD8LG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19746141",
-      "published_at": "2026-07-10T22:01:32+00:00",
-      "revalidated_at": "2026-07-12T17:16:11+00:00"
     }
   ]
 }
