@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-07-12T14:31:17+00:00",
+  "generated_at": "2026-07-12T14:46:17+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B00G1879TU",
+      "title": "2.5-Oz Color Wow Color Security Shampoo",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.22,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 85.1,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71ZF3x+8lnL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B00G1879TU/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19749882",
+      "published_at": "2026-07-12T14:46:17+00:00",
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
+    },
+    {
+      "asin": "B0FS1W5G48",
+      "title": "Turtle Beach PlayTrek Hard Shell Slim Case Nintendo Switch 2, Lite, OLED",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 57.2,
+      "rating": 4.5,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71UnVOU8nRL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FS1W5G48/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19750872",
+      "published_at": "2026-07-12T14:46:17+00:00",
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
+    },
     {
       "asin": "B084BS1J9K",
       "title": "Shark VACMOP Cordless Hard Floor Cleaner, Vacuum and Spray Mop, Lightweight, LED Headlights, Includes 4 Disposable Pads, 12oz Multi-Surface Cleaning Solution, Gray, VM252",
@@ -199,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750554",
       "published_at": "2026-07-12T12:47:31+00:00",
-      "revalidated_at": "2026-07-12T12:47:31+00:00"
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
     },
     {
       "asin": "B000GASBNC",
@@ -419,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750641",
       "published_at": "2026-07-12T11:07:00+00:00",
-      "revalidated_at": "2026-07-12T12:47:31+00:00"
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
     },
     {
       "asin": "B07M6BNHDT",
@@ -639,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750023",
       "published_at": "2026-07-12T07:16:18+00:00",
-      "revalidated_at": "2026-07-12T12:47:31+00:00"
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
     },
     {
       "asin": "B0FCMHJBMW",
@@ -661,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749822",
       "published_at": "2026-07-12T07:16:18+00:00",
-      "revalidated_at": "2026-07-12T12:47:31+00:00"
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
     },
     {
       "asin": "B0GJCNJ5KQ",
@@ -815,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19747503",
       "published_at": "2026-07-12T01:02:50+00:00",
-      "revalidated_at": "2026-07-12T12:32:55+00:00"
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
     },
     {
       "asin": "B0BG52SJ5N",
@@ -837,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19743918",
       "published_at": "2026-07-12T01:02:50+00:00",
-      "revalidated_at": "2026-07-12T12:32:55+00:00"
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
     },
     {
       "asin": "B08HJ53921",
@@ -1057,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749327",
       "published_at": "2026-07-11T23:16:28+00:00",
-      "revalidated_at": "2026-07-12T12:32:55+00:00"
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
     },
     {
       "asin": "B0DWT98VQM",
@@ -1101,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19747419",
       "published_at": "2026-07-11T21:31:25+00:00",
-      "revalidated_at": "2026-07-12T12:47:31+00:00"
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
     },
     {
       "asin": "B0D3KXT1HS",
@@ -1126,28 +1170,6 @@
       "revalidated_at": "2026-07-12T14:04:10+00:00"
     },
     {
-      "asin": "B0FR476FCF",
-      "title": "Waterproof Bluetooth Shower Speaker w/ RGB Lights",
-      "title_es": "Altavoz Bluetooth de ducha impermeable con luces RGB.",
-      "headline": null,
-      "post": "Lleva tu música favorita a la ducha con este altavoz Bluetooth impermeable y disfruta de un ambiente único con sus luces RGB. Es el compañero perfecto para tus momentos de relax y diversión. 🎶",
-      "post_en": "Take your favorite music into the shower with this waterproof Bluetooth speaker and enjoy a unique ambiance with its RGB lights. It's the perfect companion for your relaxing and fun moments. 🎶",
-      "price_new": 12.99,
-      "price_old": 25.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61ggAsdiNtL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FR476FCF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19748622",
-      "published_at": "2026-07-11T19:46:47+00:00",
-      "revalidated_at": "2026-07-12T12:47:31+00:00"
-    },
-    {
       "asin": "B0BH9D6897",
       "title": "[S&S] 2.5 Fl Oz COLOR WOW Dream Coat for Curly Hair, Moisture-Boosting Anti-Frizz Spray",
       "title_es": "Spray COLOR WOW Dream Coat para cabello rizado (2.5 fl oz), potenciador de hidratación anti-encrespamiento.",
@@ -1167,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19747293",
       "published_at": "2026-07-11T19:31:44+00:00",
-      "revalidated_at": "2026-07-12T12:47:31+00:00"
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
     },
     {
       "asin": "B0G3TKZ2VX",
@@ -2069,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746108",
       "published_at": "2026-07-11T00:16:10+00:00",
-      "revalidated_at": "2026-07-12T12:32:55+00:00"
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
     },
     {
       "asin": "B0FF9595RW",
@@ -2135,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19745769",
       "published_at": "2026-07-11T00:01:59+00:00",
-      "revalidated_at": "2026-07-12T12:32:55+00:00"
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
     },
     {
       "asin": "B0GX9LV15S",
@@ -2157,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19745211",
       "published_at": "2026-07-11T00:01:59+00:00",
-      "revalidated_at": "2026-07-12T12:32:55+00:00"
+      "revalidated_at": "2026-07-12T14:46:17+00:00"
     },
     {
       "asin": "B0CHDVHTFD",
@@ -2598,28 +2620,6 @@
       "deal_key": "sd:19745433",
       "published_at": "2026-07-10T18:01:04+00:00",
       "revalidated_at": "2026-07-12T14:31:17+00:00"
-    },
-    {
-      "asin": "B0F2DVN6F9",
-      "title": "DIPUG Ballet Leotards for Girls Dance Leotard for Girls Pink 4-6 Years",
-      "title_es": "Maillot de ballet DIPUG para niñas, rosa (4-6 años)",
-      "headline": null,
-      "post": "Este maillot de ballet DIPUG es perfecto para pequeñas bailarinas de 4 a 6 años, ofreciendo comodidad y estilo en color rosa. Un atuendo esencial para clases de danza o para practicar en casa.",
-      "post_en": "This DIPUG ballet leotard is perfect for little dancers aged 4 to 6, offering comfort and style in pink. An essential outfit for dance classes or practicing at home.",
-      "price_new": 7.49,
-      "price_old": 14.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.9,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/61G4IEuVFPL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F2DVN6F9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19745154",
-      "published_at": "2026-07-10T18:01:04+00:00",
-      "revalidated_at": "2026-07-12T12:32:55+00:00"
     }
   ]
 }
