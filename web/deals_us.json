@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T14:30:58+00:00",
+  "generated_at": "2026-07-13T14:45:56+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
     {
       "asin": "B0DZCMKNMT",
@@ -80,11 +80,11 @@
       "price_old": 43.0,
       "currency": "USD",
       "discount_pct": 43.0,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/9/5/3/2/3/450x450/20969262.thumb",
+      "image": "https://m.media-amazon.com/images/I/71CHQhjt9GL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0C68WNH8W/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19754550",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19753926",
       "published_at": "2026-07-13T12:45:58+00:00",
-      "revalidated_at": "2026-07-13T12:45:58+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "B092HJLHSK",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750623",
       "published_at": "2026-07-13T04:45:57+00:00",
-      "revalidated_at": "2026-07-13T12:31:03+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "B0CK9H22XS",
@@ -928,28 +928,6 @@
       "revalidated_at": "2026-07-13T13:33:28+00:00"
     },
     {
-      "asin": "B0D7QSR429",
-      "title": "3.4-Oz Neutrogena Ultra Gentle Daily Facial Moisturizer w/ SPF 30 & CICA",
-      "title_es": "Neutrogena Ultra Gentle Hidratante Facial Diario de 3.4 Oz con SPF 30 y CICA",
-      "headline": null,
-      "post": "Este hidratante facial diario Neutrogena Ultra Gentle con SPF 30 y CICA ofrece protección solar y calma la piel sensible. Es ideal para quienes buscan una hidratación suave y eficaz con beneficios calmantes.",
-      "post_en": "This Neutrogena Ultra Gentle Daily Facial Moisturizer with SPF 30 and CICA provides sun protection and soothes sensitive skin. It's ideal for those seeking gentle yet effective hydration with calming benefits.",
-      "price_new": 3.23,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 90.8,
-      "rating": 4.3,
-      "condition": "coupon",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/61P3PVgVCkL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D7QSR429/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19752483",
-      "published_at": "2026-07-13T01:04:01+00:00",
-      "revalidated_at": "2026-07-13T12:45:58+00:00"
-    },
-    {
       "asin": "B074ZMJLKJ",
       "title": "Dunkirk (4K Ultra HD + Blu-ray)",
       "title_es": "Dunkirk (4K Ultra HD + Blu-ray)",
@@ -969,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752240",
       "published_at": "2026-07-13T00:47:17+00:00",
-      "revalidated_at": "2026-07-13T12:31:03+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "B0FS7Z8TPK",
@@ -1343,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19747815",
       "published_at": "2026-07-12T19:16:34+00:00",
-      "revalidated_at": "2026-07-13T12:45:58+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "B0B2CR5SQ2",
@@ -1365,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751100",
       "published_at": "2026-07-12T19:16:34+00:00",
-      "revalidated_at": "2026-07-13T12:45:58+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "B0G1LNJZ6J",
@@ -1387,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726584",
       "published_at": "2026-07-12T19:01:33+00:00",
-      "revalidated_at": "2026-07-13T12:31:03+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "0593724461",
@@ -1541,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751193",
       "published_at": "2026-07-12T17:16:11+00:00",
-      "revalidated_at": "2026-07-13T12:31:03+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "B001CD9RRG",
@@ -1607,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751124",
       "published_at": "2026-07-12T17:01:45+00:00",
-      "revalidated_at": "2026-07-13T12:31:03+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "B008TM17IU",
@@ -1629,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749858",
       "published_at": "2026-07-12T16:46:52+00:00",
-      "revalidated_at": "2026-07-13T12:31:03+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "B0DBJ7W4DM",
@@ -1651,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750200",
       "published_at": "2026-07-12T16:46:52+00:00",
-      "revalidated_at": "2026-07-13T12:31:03+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "B0D7L9797N",
@@ -1673,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751133",
       "published_at": "2026-07-12T16:46:52+00:00",
-      "revalidated_at": "2026-07-13T12:31:03+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "B005JVP2NU",
@@ -1695,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750857",
       "published_at": "2026-07-12T16:46:52+00:00",
-      "revalidated_at": "2026-07-13T12:31:03+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "B0877CHF2V",
@@ -1783,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751037",
       "published_at": "2026-07-12T15:31:10+00:00",
-      "revalidated_at": "2026-07-13T12:45:58+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "B0H1BW1M1M",
@@ -1805,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746597",
       "published_at": "2026-07-12T15:01:12+00:00",
-      "revalidated_at": "2026-07-13T12:31:03+00:00"
+      "revalidated_at": "2026-07-13T14:45:56+00:00"
     },
     {
       "asin": "B00G1879TU",
