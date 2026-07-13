@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-07-13T15:00:57+00:00",
+  "generated_at": "2026-07-13T15:16:00+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0CZD5MNKT",
+      "title": "6.6' Baseus 100W USB-C to USB-C Fast Charging Cable w/ LED Display",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 74.3,
+      "rating": null,
+      "condition": "code",
+      "code": "BUSXRCZW",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/0/6/6/3/5/5/9/450x450/20969544.thumb",
+      "url": "https://amazon.com/dp/B0CZD5MNKT/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19754691",
+      "published_at": "2026-07-13T15:16:00+00:00",
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
+    },
+    {
+      "asin": "B0B5Y7KCS8",
+      "title": "2-Pack 33.8-Ounce Listerine Total Care Anti-Cavity Fluoride Mouthwash (Intense Mint)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.57,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 72.7,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/20970273.thumb",
+      "url": "https://amazon.com/dp/B0B5Y7KCS8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19754967",
+      "published_at": "2026-07-13T15:16:00+00:00",
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
+    },
     {
       "asin": "B07F6XWJN9",
       "title": "Cricut 12\" x 12\" Self-Healing Cutting Mat (Blue)",
@@ -58,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 77.2,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/2/0/5/3/8/1/8/4/450x450/20967687.thumb",
+      "image": "https://m.media-amazon.com/images/I/71wa30BtxgL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FWRZFG42/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19753980",
@@ -243,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754616",
       "published_at": "2026-07-13T13:16:04+00:00",
-      "revalidated_at": "2026-07-13T13:16:04+00:00"
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
     },
     {
       "asin": "B0F3337BV7",
@@ -265,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19753809",
       "published_at": "2026-07-13T13:16:04+00:00",
-      "revalidated_at": "2026-07-13T13:16:04+00:00"
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
     },
     {
       "asin": "B0FNQDNGXY",
@@ -551,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19753257",
       "published_at": "2026-07-13T09:15:21+00:00",
-      "revalidated_at": "2026-07-13T13:16:04+00:00"
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
     },
     {
       "asin": "B00006IE9L",
@@ -595,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752945",
       "published_at": "2026-07-13T07:30:31+00:00",
-      "revalidated_at": "2026-07-13T13:16:04+00:00"
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
     },
     {
       "asin": "B087KV9SHM",
@@ -639,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752045",
       "published_at": "2026-07-13T05:31:02+00:00",
-      "revalidated_at": "2026-07-13T13:16:04+00:00"
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
     },
     {
       "asin": "B0FJRSJM65",
@@ -859,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752009",
       "published_at": "2026-07-13T01:31:57+00:00",
-      "revalidated_at": "2026-07-13T13:16:04+00:00"
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
     },
     {
       "asin": "B01A6BP10Q",
@@ -1893,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750293",
       "published_at": "2026-07-12T14:04:10+00:00",
-      "revalidated_at": "2026-07-13T13:00:55+00:00"
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
     },
     {
       "asin": "B0FN3BV3ZD",
@@ -2311,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750125",
       "published_at": "2026-07-12T07:46:26+00:00",
-      "revalidated_at": "2026-07-13T13:00:55+00:00"
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
     },
     {
       "asin": "B0002GML4U",
@@ -2333,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19726305",
       "published_at": "2026-07-12T07:46:26+00:00",
-      "revalidated_at": "2026-07-13T13:00:55+00:00"
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
     },
     {
       "asin": "B00PXVTU5C",
@@ -2487,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749573",
       "published_at": "2026-07-12T02:16:18+00:00",
-      "revalidated_at": "2026-07-13T13:00:55+00:00"
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
     },
     {
       "asin": "B0CC644KMJ",
@@ -2509,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19747503",
       "published_at": "2026-07-12T01:02:50+00:00",
-      "revalidated_at": "2026-07-13T13:00:55+00:00"
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
     },
     {
       "asin": "B0BG52SJ5N",
@@ -2531,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19743918",
       "published_at": "2026-07-12T01:02:50+00:00",
-      "revalidated_at": "2026-07-13T13:00:55+00:00"
+      "revalidated_at": "2026-07-13T15:16:00+00:00"
     },
     {
       "asin": "B08HJ53921",
@@ -2598,28 +2642,6 @@
       "deal_key": "sd:19747833",
       "published_at": "2026-07-12T00:17:38+00:00",
       "revalidated_at": "2026-07-13T13:16:04+00:00"
-    },
-    {
-      "asin": "B0DGQNXRW3",
-      "title": "Hanes Women's Moves 7/8 Soft Leggings w/ Pocket (Black, 25\" Inseam)",
-      "title_es": "Leggings suaves Hanes Moves 7/8 con bolsillo para mujer",
-      "headline": null,
-      "post": "Descubre estos leggings suaves de Hanes, con un corte 7/8 y un práctico bolsillo, perfectos para tu día a día o para actividades ligeras. Ofrecen comodidad y estilo versátil para cualquier ocasión.",
-      "post_en": "Discover these soft Hanes leggings, featuring a 7/8 cut and a practical pocket, perfect for your daily routine or light activities. They offer comfort and versatile style for any occasion.",
-      "price_new": 8.8,
-      "price_old": 28.0,
-      "currency": "USD",
-      "discount_pct": 68.6,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/51uM2YRJjLL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DGQNXRW3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19748859",
-      "published_at": "2026-07-12T00:03:55+00:00",
-      "revalidated_at": "2026-07-13T13:00:55+00:00"
     }
   ]
 }
