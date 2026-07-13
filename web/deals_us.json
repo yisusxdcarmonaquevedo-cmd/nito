@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-07-13T00:01:57+00:00",
+  "generated_at": "2026-07-13T00:16:54+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0DZHBYVJB",
+      "title": "(8 Pack) ELECLINK Solar Pathway Lights, IP65 Waterproof, 800mAh Battery Bright Up to 15 Hrs, Auto On/Off",
+      "title_es": "Luces Solares de Camino ELECLINK (8 Unidades), IP65 Impermeables",
+      "headline": null,
+      "post": "Ilumina tus exteriores con estas luces solares ELECLINK de 8 unidades, diseñadas para caminos y jardines. Son resistentes al agua (IP65), ofrecen hasta 15 horas de luz y se encienden/apagan automáticamente al anochecer y amanecer. 💡",
+      "post_en": "Brighten your outdoor spaces with these 8-pack ELECLINK solar pathway lights, perfect for gardens and walkways. They are IP65 waterproof, provide up to 15 hours of illumination, and feature automatic on/off functionality. 💡",
+      "price_new": 29.99,
+      "price_old": 49.99,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": 4.4,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81cTvd4NbWL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DZHBYVJB/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19750650",
+      "published_at": "2026-07-13T00:16:54+00:00",
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
+    },
+    {
+      "asin": "B0BCS8V3DY",
+      "title": "Wayne's World 30th Anniversary (4K UHD Blu-ray + Digital)",
+      "title_es": "Wayne's World 30 Aniversario (4K UHD Blu-ray + Digital)",
+      "headline": null,
+      "post": "Celebra 30 años de comedia con la edición especial de Wayne's World en 4K UHD Blu-ray. Incluye una copia digital para que disfrutes de este clásico donde quieras, perfecto para fans del cine de los 90. 🎬",
+      "post_en": "Celebrate 30 years of comedy with the special 4K UHD Blu-ray edition of Wayne's World. It includes a digital copy, allowing you to enjoy this classic anywhere, perfect for fans of 90s cinema. 🎬",
+      "price_new": 11.0,
+      "price_old": 15.99,
+      "currency": "USD",
+      "discount_pct": 31.2,
+      "rating": 4.8,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81LNC47gUHL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0BCS8V3DY/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19750167",
+      "published_at": "2026-07-13T00:16:54+00:00",
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
+    },
     {
       "asin": "B082PQKG2B",
       "title": "1917 [4K UHD] + Blu Ray + Digital",
@@ -168,11 +212,11 @@
       "price_old": 758.0,
       "currency": "USD",
       "discount_pct": 83.5,
-      "rating": null,
+      "rating": 3.9,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/20963772.thumb",
+      "image": "https://m.media-amazon.com/images/I/71lTJGnQaJL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DN7N5B12/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19752132",
@@ -265,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751733",
       "published_at": "2026-07-12T20:33:08+00:00",
-      "revalidated_at": "2026-07-12T22:16:29+00:00"
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
     },
     {
       "asin": "B01AAH8CXY",
@@ -287,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750506",
       "published_at": "2026-07-12T20:33:08+00:00",
-      "revalidated_at": "2026-07-12T22:16:29+00:00"
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
     },
     {
       "asin": "B00N0NGUCG",
@@ -397,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751640",
       "published_at": "2026-07-12T18:42:55+00:00",
-      "revalidated_at": "2026-07-12T22:16:29+00:00"
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
     },
     {
       "asin": "B0FGQ27B34",
@@ -419,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751061",
       "published_at": "2026-07-12T18:42:55+00:00",
-      "revalidated_at": "2026-07-12T22:16:29+00:00"
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
     },
     {
       "asin": "B0FLCX2CR4",
@@ -820,10 +864,10 @@
     {
       "asin": "B00G1879TU",
       "title": "2.5-Oz Color Wow Color Security Shampoo",
-      "title_es": null,
+      "title_es": "Champú Color Wow Color Security de 2.5 oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este champú ligero está diseñado para cabellos teñidos, protegiendo el color y limpiando suavemente sin dejar residuos. Es ideal para quienes buscan mantener la vitalidad de su tinte y una melena sana.",
+      "post_en": "This lightweight shampoo is designed for color-treated hair, protecting color and gently cleansing without leaving residue. It's ideal for those looking to maintain their dye's vibrancy and healthy hair.",
       "price_new": 5.22,
       "price_old": 35.0,
       "currency": "USD",
@@ -842,10 +886,10 @@
     {
       "asin": "B0FS1W5G48",
       "title": "Turtle Beach PlayTrek Hard Shell Slim Case Nintendo Switch 2, Lite, OLED",
-      "title_es": null,
+      "title_es": "Funda rígida Turtle Beach PlayTrek Slim para Nintendo Switch 2, Lite, OLED",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Protege tu consola Nintendo Switch (modelos 2, Lite, OLED) con esta funda rígida y delgada de Turtle Beach PlayTrek. Ofrece una protección robusta y compacta para llevarla a cualquier parte.",
+      "post_en": "Protect your Nintendo Switch console (2, Lite, OLED models) with this slim, hard shell case from Turtle Beach PlayTrek. It offers robust and compact protection for on-the-go gaming.",
       "price_new": 14.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -864,10 +908,10 @@
     {
       "asin": "B000052Y0S",
       "title": "7-Ounce UltraSwim Chlorine Removal & Hard Water Treatment Moisturizing Shampoo",
-      "title_es": null,
+      "title_es": "Champú hidratante UltraSwim de 7 oz para eliminación de cloro y tratamiento de agua dura",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este champú UltraSwim está formulado para eliminar el cloro y los depósitos de agua dura, a la vez que hidrata el cabello. Es perfecto para nadadores o personas expuestas a agua con alto contenido mineral.",
+      "post_en": "This UltraSwim shampoo is formulated to remove chlorine and hard water deposits, while also moisturizing your hair. It's perfect for swimmers or individuals exposed to high-mineral content water.",
       "price_new": 4.09,
       "price_old": 35.0,
       "currency": "USD",
@@ -886,10 +930,10 @@
     {
       "asin": "B0047747A6",
       "title": "Moonwalk: A Memoir (eBook) by Michael Jackson",
-      "title_es": null,
+      "title_es": "Moonwalk: Una biografía (eBook) de Michael Jackson",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en la vida de Michael Jackson con \"Moonwalk\", su única autobiografía, disponible en formato eBook. Una lectura esencial para fans y amantes de la música que quieran conocer al Rey del Pop desde su perspectiva.",
+      "post_en": "Immerse yourself in Michael Jackson's life with \"Moonwalk,\" his only autobiography, available as an eBook. An essential read for fans and music lovers who want to know the King of Pop from his own perspective.",
       "price_new": 2.99,
       "price_old": 13.99,
       "currency": "USD",
@@ -908,10 +952,10 @@
     {
       "asin": "B0FN3BV3ZD",
       "title": "Hoorola Bluetooth 4x6 Thermal Shipping Label Printer",
-      "title_es": null,
+      "title_es": "Impresora térmica de etiquetas de envío Hoorola Bluetooth 4x6",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta impresora térmica Hoorola permite imprimir etiquetas de envío de 4x6 pulgadas de forma inalámbrica mediante Bluetooth. Es ideal para negocios pequeños o vendedores online que necesitan eficiencia y comodidad.",
+      "post_en": "This Hoorola thermal printer allows you to wirelessly print 4x6 inch shipping labels via Bluetooth. It's ideal for small businesses or online sellers who need efficiency and convenience.",
       "price_new": 49.98,
       "price_old": 99.99,
       "currency": "USD",
@@ -930,10 +974,10 @@
     {
       "asin": "B0978Z1YFT",
       "title": "Greenworks Pro 80V 170 MPH / 730 CFM Brushless Cordless Axial Blower (Tool Only) at Amazon",
-      "title_es": null,
+      "title_es": "Soplador axial sin cable Greenworks Pro 80V 170 MPH / 730 CFM sin escobillas (solo herramienta)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este soplador axial Greenworks Pro 80V ofrece una potente capacidad de soplado sin cables, ideal para tareas de limpieza en el jardín. Es una herramienta robusta para quienes ya poseen baterías Greenworks Pro.",
+      "post_en": "This Greenworks Pro 80V axial blower offers powerful cordless blowing capability, ideal for garden cleanup tasks. It's a robust tool for those who already own Greenworks Pro batteries.",
       "price_new": 99.99,
       "price_old": 199.99,
       "currency": "USD",
@@ -952,10 +996,10 @@
     {
       "asin": "B0BZQXGXDN",
       "title": "CRAFTSMAN V20 18GA Cordless Brad Nailer, Bare Tool Only (CMCN618B)",
-      "title_es": null,
+      "title_es": "Clavadora de brad sin cable CRAFTSMAN V20 18GA, solo herramienta (CMCN618B)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La clavadora de brad sin cable CRAFTSMAN V20 18GA (CMCN618B) es perfecta para proyectos de carpintería y acabado. Ofrece libertad de movimiento y es un complemento excelente para tu colección de herramientas V20.",
+      "post_en": "The CRAFTSMAN V20 18GA Cordless Brad Nailer (CMCN618B) is perfect for woodworking and finishing projects. It offers freedom of movement and is an excellent addition to your V20 tool collection.",
       "price_new": 99.0,
       "price_old": 159.0,
       "currency": "USD",
@@ -974,10 +1018,10 @@
     {
       "asin": "B08QXB9BH5",
       "title": "$129.99** | Ninja NC301 CREAMi Ice Cream Maker at Amazon",
-      "title_es": null,
+      "title_es": "Máquina para hacer helados Ninja NC301 CREAMi",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Crea tus propios helados, sorbetes y batidos personalizados con la máquina Ninja NC301 CREAMi. Es perfecta para los amantes de los postres que desean experimentar con sabores y texturas caseras. 🍦",
+      "post_en": "Create your own personalized ice creams, sorbets, and milkshakes with the Ninja NC301 CREAMi machine. It's perfect for dessert lovers who want to experiment with homemade flavors and textures. 🍦",
       "price_new": 129.99,
       "price_old": 229.99,
       "currency": "USD",
@@ -996,10 +1040,10 @@
     {
       "asin": "B0FTZV2JHG",
       "title": "PDP RIFFMASTER Wireless Guitar Controller (PS4 / 5, Xbox / PC, or Switch)",
-      "title_es": null,
+      "title_es": "Mando de guitarra inalámbrico PDP RIFFMASTER (PS4 / 5, Xbox / PC o Switch)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Revive la experiencia de los juegos musicales con el mando de guitarra inalámbrico PDP RIFFMASTER, compatible con PS4, PS5, Xbox, PC y Switch. Ideal para gamers que buscan precisión y diversión en sus sesiones rítmicas.",
+      "post_en": "Relive the music game experience with the PDP RIFFMASTER Wireless Guitar Controller, compatible with PS4, PS5, Xbox, PC, and Switch. Ideal for gamers seeking precision and fun in their rhythm sessions.",
       "price_new": 99.99,
       "price_old": 149.99,
       "currency": "USD",
@@ -1018,10 +1062,10 @@
     {
       "asin": "B09172433Z",
       "title": "LeadsaiL 7200 DPI Wired Gaming Mouse w/ 8 Programmable Buttons & RGB Backlight (Black)",
-      "title_es": null,
+      "title_es": "Ratón gaming con cable LeadsaiL 7200 DPI con 8 botones programables y retroiluminación RGB (Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este ratón gaming LeadsaiL con cable ofrece 7200 DPI, 8 botones programables y retroiluminación RGB, ideal para jugadores. Proporciona precisión y personalización para mejorar tu experiencia en cualquier juego.",
+      "post_en": "This LeadsaiL wired gaming mouse features 7200 DPI, 8 programmable buttons, and RGB backlight, ideal for gamers. It provides precision and customization to enhance your experience in any game.",
       "price_new": 7.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -1040,10 +1084,10 @@
     {
       "asin": "B09G2GS39R",
       "title": "The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations (eBook) by Gene Kim",
-      "title_es": null,
+      "title_es": "El Manual DevOps: Agilidad, Fiabilidad y Seguridad en Organizaciones Tecnológicas (eBook) de Gene Kim",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este eBook, \"The DevOps Handbook\" de Gene Kim, es una guía esencial para profesionales de TI que buscan mejorar la agilidad, fiabilidad y seguridad en sus organizaciones. Ofrece estrategias prácticas y casos de estudio para implementar metodologías DevOps de clase mundial. 📚",
+      "post_en": "This eBook, \"The DevOps Handbook\" by Gene Kim, is an essential guide for IT professionals aiming to enhance agility, reliability, and security in their organizations. It offers practical strategies and case studies for implementing world-class DevOps methodologies. 📚",
       "price_new": 2.99,
       "price_old": 27.99,
       "currency": "USD",
@@ -1062,10 +1106,10 @@
     {
       "asin": "B0GFBJ2MRF",
       "title": "PGA TOUR 2K25 (Nintendo Switch 2) at Amazon",
-      "title_es": null,
+      "title_es": "PGA TOUR 2K25 para Nintendo Switch 2",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta del golf virtual con PGA TOUR 2K25, diseñado para Nintendo Switch 2. Este juego ofrece una experiencia inmersiva y realista para los entusiastas del golf que buscan competir desde casa. 🏌️‍♂️",
+      "post_en": "Enjoy virtual golf with PGA TOUR 2K25, designed for Nintendo Switch 2. This game offers an immersive and realistic experience for golf enthusiasts looking to compete from home. 🏌️‍♂️",
       "price_new": 24.99,
       "price_old": 39.99,
       "currency": "USD",
@@ -1084,10 +1128,10 @@
     {
       "asin": "B0B94PQR3P",
       "title": "CRAFTSMAN V20 Variable Speed Brushless 1/2\" Impact Wrench (Bare Tool)",
-      "title_es": null,
+      "title_es": "Llave de Impacto CRAFTSMAN V20 de Velocidad Variable sin Escobillas de 1/2\" (Herramienta Básica)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La llave de impacto CRAFTSMAN V20 con motor sin escobillas ofrece potencia y control para tareas exigentes. Es una herramienta versátil de 1/2\" ideal para profesionales y aficionados al bricolaje que ya poseen baterías V20. 🛠️",
+      "post_en": "The CRAFTSMAN V20 brushless impact wrench delivers power and control for demanding tasks. This versatile 1/2\" bare tool is ideal for professionals and DIY enthusiasts who already own V20 batteries. 🛠️",
       "price_new": 99.0,
       "price_old": 169.0,
       "currency": "USD",
@@ -1106,10 +1150,10 @@
     {
       "asin": "B01NBKTPTS",
       "title": "6-Quart Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker",
-      "title_es": null,
+      "title_es": "Olla a Presión Eléctrica Instant Pot Duo Plus 9 en 1 de 6 Cuartos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La Instant Pot Duo Plus de 6 cuartos es una olla a presión eléctrica multifuncional 9 en 1 que simplifica la cocina diaria. Combina varias funciones de cocción para preparar comidas rápidas y deliciosas con facilidad. 🍲",
+      "post_en": "The 6-Quart Instant Pot Duo Plus is a 9-in-1 multifunctional electric pressure cooker that simplifies daily cooking. It combines various cooking functions to prepare quick and delicious meals with ease. 🍲",
       "price_new": 79.99,
       "price_old": 139.99,
       "currency": "USD",
@@ -1128,10 +1172,10 @@
     {
       "asin": "B0C4VSWBHJ",
       "title": "Casio WS-1600H Digital Watch – 90s Sport Design, 100M WR & 10-Year Battery",
-      "title_es": null,
+      "title_es": "Reloj Digital Casio WS-1600H – Diseño Deportivo de los 90, 100M WR y Batería de 10 Años",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El reloj digital Casio WS-1600H combina un estilo deportivo retro de los 90 con características modernas. Cuenta con resistencia al agua de 100 metros y una batería de larga duración de 10 años, perfecto para el uso diario y actividades al aire libre. ⌚",
+      "post_en": "The Casio WS-1600H digital watch combines a retro 90s sport design with modern features. It boasts 100M water resistance and a long-lasting 10-year battery, perfect for daily wear and outdoor activities. ⌚",
       "price_new": 22.44,
       "price_old": 35.0,
       "currency": "USD",
@@ -1387,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750023",
       "published_at": "2026-07-12T07:16:18+00:00",
-      "revalidated_at": "2026-07-12T22:02:35+00:00"
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
     },
     {
       "asin": "B0FCMHJBMW",
@@ -1409,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749822",
       "published_at": "2026-07-12T07:16:18+00:00",
-      "revalidated_at": "2026-07-12T22:02:35+00:00"
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
     },
     {
       "asin": "B0GJCNJ5KQ",
@@ -1541,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19747503",
       "published_at": "2026-07-12T01:02:50+00:00",
-      "revalidated_at": "2026-07-12T22:02:35+00:00"
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
     },
     {
       "asin": "B0BG52SJ5N",
@@ -1563,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19743918",
       "published_at": "2026-07-12T01:02:50+00:00",
-      "revalidated_at": "2026-07-12T22:02:35+00:00"
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
     },
     {
       "asin": "B08HJ53921",
@@ -2487,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746183",
       "published_at": "2026-07-11T04:16:13+00:00",
-      "revalidated_at": "2026-07-12T22:02:35+00:00"
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
     },
     {
       "asin": "B0CGZWBXD7",
@@ -2509,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746321",
       "published_at": "2026-07-11T04:16:13+00:00",
-      "revalidated_at": "2026-07-12T22:02:35+00:00"
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
     },
     {
       "asin": "B08R5PQXLF",
@@ -2531,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19744071",
       "published_at": "2026-07-11T02:16:08+00:00",
-      "revalidated_at": "2026-07-12T22:02:35+00:00"
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
     },
     {
       "asin": "B0GRCDKMSW",
@@ -2553,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746030",
       "published_at": "2026-07-11T02:01:00+00:00",
-      "revalidated_at": "2026-07-12T22:02:35+00:00"
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
     },
     {
       "asin": "B0CSTB2S1X",
@@ -2575,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746801",
       "published_at": "2026-07-11T01:31:15+00:00",
-      "revalidated_at": "2026-07-12T22:02:35+00:00"
+      "revalidated_at": "2026-07-13T00:16:54+00:00"
     },
     {
       "asin": "B09D4QRJ8Y",
@@ -2598,50 +2642,6 @@
       "deal_key": "sd:19746750",
       "published_at": "2026-07-11T01:31:15+00:00",
       "revalidated_at": "2026-07-12T22:16:29+00:00"
-    },
-    {
-      "asin": "B0CQPJKXVD",
-      "title": "LISEN MagSafe Car Mount Magnetic Phone Holder (Ultra Magnets)",
-      "title_es": "Soporte magnético para coche LISEN MagSafe (imanes ultra fuertes)",
-      "headline": null,
-      "post": "Este soporte magnético para coche LISEN MagSafe sujeta tu teléfono de forma segura mientras conduces. Ideal para usuarios de iPhone con MagSafe que buscan una solución de manos libres robusta y cómoda en el coche.",
-      "post_en": "This LISEN MagSafe magnetic car mount securely holds your phone while driving. Perfect for iPhone users with MagSafe looking for a robust and convenient hands-free solution in their car.",
-      "price_new": 6.29,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 82.0,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "QVLNNXYP",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71pI7kbBxXL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CQPJKXVD/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19746882",
-      "published_at": "2026-07-11T01:16:15+00:00",
-      "revalidated_at": "2026-07-12T23:16:29+00:00"
-    },
-    {
-      "asin": "B0H2D3H2JQ",
-      "title": "ARPHA WiFi Smart Lock w/ Camera, Doorbell, Fingerprint & Keypad Keyless Entry Deadbolt w/ Handle Set",
-      "title_es": "Cerradura inteligente WiFi ARPHA con cámara, timbre, huella y teclado (entrada sin llave)",
-      "headline": null,
-      "post": "Mejora la seguridad de tu hogar con esta cerradura inteligente ARPHA WiFi que incluye cámara, timbre, lector de huellas y teclado. Ofrece una entrada sin llave moderna y segura, ideal para un control de acceso avanzado.",
-      "post_en": "Enhance your home security with this ARPHA WiFi Smart Lock featuring a camera, doorbell, fingerprint reader, and keypad. It offers modern and secure keyless entry, ideal for advanced access control.",
-      "price_new": 64.99,
-      "price_old": 144.99,
-      "currency": "USD",
-      "discount_pct": 55.2,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "U4W4GYFX",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61ZpBRamt7L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H2D3H2JQ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19744911",
-      "published_at": "2026-07-11T01:16:15+00:00",
-      "revalidated_at": "2026-07-12T23:16:29+00:00"
     }
   ]
 }
