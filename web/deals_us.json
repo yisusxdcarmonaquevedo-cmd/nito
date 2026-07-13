@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-13T23:01:06+00:00",
+  "generated_at": "2026-07-13T23:15:50+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B00UOL93CG",
+      "title": "4.5-Oz Neutrogena T/Sal Anti-Dandruff Shampoo w/ Salicylic Acid",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.5,
+      "price_old": 8.53,
+      "currency": "USD",
+      "discount_pct": 47.2,
+      "rating": 4.5,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/6124eakvlTL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B00UOL93CG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19753233",
+      "published_at": "2026-07-13T23:15:50+00:00",
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
+    },
     {
       "asin": "B0D16L5F2M",
       "title": "1.01-Oz medicube Exosome Shot Zero 2,000 PPM Spicule Facial Serum",
@@ -102,11 +124,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 47.6,
-      "rating": null,
+      "rating": 4.8,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/8/3/9/2/450x450/20950713.thumb",
+      "image": "https://m.media-amazon.com/images/I/7104ZSslSNL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GSCFY5TX/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19745664",
@@ -463,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19756236",
       "published_at": "2026-07-13T19:30:52+00:00",
-      "revalidated_at": "2026-07-13T21:16:07+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "B0FFN4VSVX",
@@ -881,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752057",
       "published_at": "2026-07-13T15:45:50+00:00",
-      "revalidated_at": "2026-07-13T21:16:07+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "B0DHLHC8WN",
@@ -1101,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19753719",
       "published_at": "2026-07-13T13:45:53+00:00",
-      "revalidated_at": "2026-07-13T21:16:07+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "B0DRDQT8ZX",
@@ -1123,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754547",
       "published_at": "2026-07-13T13:45:53+00:00",
-      "revalidated_at": "2026-07-13T21:16:07+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "0395177111",
@@ -1277,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754133",
       "published_at": "2026-07-13T11:45:58+00:00",
-      "revalidated_at": "2026-07-13T21:16:07+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "B0DRW5YM7M",
@@ -1299,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754037",
       "published_at": "2026-07-13T11:45:58+00:00",
-      "revalidated_at": "2026-07-13T21:16:07+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "B09MQWWP87",
@@ -1497,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752849",
       "published_at": "2026-07-13T05:31:02+00:00",
-      "revalidated_at": "2026-07-13T21:00:56+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "B09NCPDWG4",
@@ -1519,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752045",
       "published_at": "2026-07-13T05:31:02+00:00",
-      "revalidated_at": "2026-07-13T21:00:56+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "B0FJRSJM65",
@@ -1651,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752804",
       "published_at": "2026-07-13T03:45:56+00:00",
-      "revalidated_at": "2026-07-13T21:00:56+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "B07X3XTCHW",
@@ -2487,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751133",
       "published_at": "2026-07-12T16:46:52+00:00",
-      "revalidated_at": "2026-07-13T20:45:44+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "B0877CHF2V",
@@ -2531,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749708",
       "published_at": "2026-07-12T15:46:13+00:00",
-      "revalidated_at": "2026-07-13T21:00:56+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "B0FN4B1XZ4",
@@ -2553,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19745166",
       "published_at": "2026-07-12T15:46:13+00:00",
-      "revalidated_at": "2026-07-13T21:00:56+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "B0G48W6S4T",
@@ -2575,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751037",
       "published_at": "2026-07-12T15:31:10+00:00",
-      "revalidated_at": "2026-07-13T21:00:56+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "B0H1BW1M1M",
@@ -2597,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746597",
       "published_at": "2026-07-12T15:01:12+00:00",
-      "revalidated_at": "2026-07-13T21:00:56+00:00"
+      "revalidated_at": "2026-07-13T23:15:50+00:00"
     },
     {
       "asin": "B00G1879TU",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:19749882",
       "published_at": "2026-07-12T14:46:17+00:00",
       "revalidated_at": "2026-07-13T22:45:53+00:00"
-    },
-    {
-      "asin": "B0FS1W5G48",
-      "title": "Turtle Beach PlayTrek Hard Shell Slim Case Nintendo Switch 2, Lite, OLED",
-      "title_es": "Funda rígida Turtle Beach PlayTrek Slim para Nintendo Switch 2, Lite, OLED",
-      "headline": null,
-      "post": "Protege tu consola Nintendo Switch (modelos 2, Lite, OLED) con esta funda rígida y delgada de Turtle Beach PlayTrek. Ofrece una protección robusta y compacta para llevarla a cualquier parte.",
-      "post_en": "Protect your Nintendo Switch console (2, Lite, OLED models) with this slim, hard shell case from Turtle Beach PlayTrek. It offers robust and compact protection for on-the-go gaming.",
-      "price_new": 14.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 57.2,
-      "rating": 4.5,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71UnVOU8nRL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FS1W5G48/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19750872",
-      "published_at": "2026-07-12T14:46:17+00:00",
-      "revalidated_at": "2026-07-13T23:01:06+00:00"
     }
   ]
 }
