@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-13T18:01:14+00:00",
+  "generated_at": "2026-07-13T18:15:58+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0CWQ5WX7F",
+      "title": "ESR 3 in 1 Wireless Charging Station 15W MagSafe Charger Stand for iPhone (White)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 62.9,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/3/7/7/0/1/3/7/450x450/20972403.thumb",
+      "url": "https://amazon.com/dp/B0CWQ5WX7F/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19755798",
+      "published_at": "2026-07-13T18:15:58+00:00",
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
+    },
     {
       "asin": "B0DZ3Z55RL",
       "title": "10.58-Oz PBfit No Bake Peanut Butter Protein Ball Mix",
@@ -36,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 73.5,
-      "rating": null,
+      "rating": 4.6,
       "condition": "coupon",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/9/1/2/6/8/2/450x450/20969919.thumb",
+      "image": "https://m.media-amazon.com/images/I/81HM-JyOKaL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F4DRRDXN/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19754850",
@@ -178,28 +200,6 @@
       "deal_key": "sd:19755360",
       "published_at": "2026-07-13T16:46:07+00:00",
       "revalidated_at": "2026-07-13T16:46:07+00:00"
-    },
-    {
-      "asin": "B09FT58QQP",
-      "title": "TOZO A1 Wireless Earbuds (Black)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 12.29,
-      "price_old": 19.99,
-      "currency": "USD",
-      "discount_pct": 38.5,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
-      "url": "https://amazon.com/dp/B09FT58QQP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19751739",
-      "published_at": "2026-07-13T16:31:09+00:00",
-      "revalidated_at": "2026-07-13T16:31:09+00:00"
     },
     {
       "asin": "B0FY5RZHXG",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754154",
       "published_at": "2026-07-13T14:30:58+00:00",
-      "revalidated_at": "2026-07-13T16:31:09+00:00"
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
     },
     {
       "asin": "B0FWRZFG42",
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19753980",
       "published_at": "2026-07-13T14:30:58+00:00",
-      "revalidated_at": "2026-07-13T16:31:09+00:00"
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
     },
     {
       "asin": "B0H2647VTB",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754250",
       "published_at": "2026-07-13T12:31:03+00:00",
-      "revalidated_at": "2026-07-13T16:31:09+00:00"
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
     },
     {
       "asin": "B01M0J08MF",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19753917",
       "published_at": "2026-07-13T10:30:32+00:00",
-      "revalidated_at": "2026-07-13T16:31:09+00:00"
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
     },
     {
       "asin": "B09KTDXPY3",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752012",
       "published_at": "2026-07-13T04:45:57+00:00",
-      "revalidated_at": "2026-07-13T16:31:09+00:00"
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
     },
     {
       "asin": "B09RNB8MTQ",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752870",
       "published_at": "2026-07-13T04:32:41+00:00",
-      "revalidated_at": "2026-07-13T16:16:10+00:00"
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
     },
     {
       "asin": "B0GXYF2PN6",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19747812",
       "published_at": "2026-07-13T00:32:33+00:00",
-      "revalidated_at": "2026-07-13T16:31:09+00:00"
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
     },
     {
       "asin": "B0F1C28JVM",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751097",
       "published_at": "2026-07-13T00:32:33+00:00",
-      "revalidated_at": "2026-07-13T16:31:09+00:00"
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
     },
     {
       "asin": "B0DZHBYVJB",
@@ -1475,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751361",
       "published_at": "2026-07-13T00:01:57+00:00",
-      "revalidated_at": "2026-07-13T16:16:10+00:00"
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
     },
     {
       "asin": "B00BD571Y4",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749816",
       "published_at": "2026-07-13T00:01:57+00:00",
-      "revalidated_at": "2026-07-13T16:16:10+00:00"
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
     },
     {
       "asin": "B0DN7N5B12",
@@ -1585,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751733",
       "published_at": "2026-07-12T20:33:08+00:00",
-      "revalidated_at": "2026-07-13T16:16:10+00:00"
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
     },
     {
       "asin": "B01AAH8CXY",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750506",
       "published_at": "2026-07-12T20:33:08+00:00",
-      "revalidated_at": "2026-07-13T16:16:10+00:00"
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
     },
     {
       "asin": "B00N0NGUCG",
@@ -2509,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750629",
       "published_at": "2026-07-12T10:47:31+00:00",
-      "revalidated_at": "2026-07-13T16:16:10+00:00"
+      "revalidated_at": "2026-07-13T18:15:58+00:00"
     },
     {
       "asin": "B0DJ1B7ZDQ",
@@ -2618,28 +2618,6 @@
       "url": "https://amazon.com/dp/B000NPYY04/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19750125",
-      "published_at": "2026-07-12T07:46:26+00:00",
-      "revalidated_at": "2026-07-13T17:16:00+00:00"
-    },
-    {
-      "asin": "B0002GML4U",
-      "title": "D'Addario XLR Cable - Microphone Cable - 25 Feet/7.62 Meters at Amazon",
-      "title_es": "Cable D'Addario XLR para micrófono - 7.62 metros",
-      "headline": null,
-      "post": "Consigue un cable D'Addario XLR de 7.62 metros, ideal para micrófonos y equipos de audio. Ofrece una conexión fiable para músicos, podcasters y creadores de contenido.",
-      "post_en": "Get a D'Addario XLR cable, 25 feet (7.62 meters) long, perfect for microphones and audio equipment. It provides a reliable connection for musicians, podcasters, and content creators.",
-      "price_new": 17.15,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 42.8,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71SPd+CBQDL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0002GML4U/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19726305",
       "published_at": "2026-07-12T07:46:26+00:00",
       "revalidated_at": "2026-07-13T17:16:00+00:00"
     }
