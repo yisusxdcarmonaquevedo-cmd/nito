@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T17:01:04+00:00",
+  "generated_at": "2026-07-13T17:04:38+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0G59TYVLL",
@@ -36,11 +36,11 @@
       "price_old": 23.36,
       "currency": "USD",
       "discount_pct": 51.6,
-      "rating": null,
+      "rating": 4.7,
       "condition": "coupon",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/5/6/3/8/450x450/20971392.thumb",
+      "image": "https://m.media-amazon.com/images/I/81uyL8MqfDL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B019YHSNGC/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19755360",
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754691",
       "published_at": "2026-07-13T15:16:00+00:00",
-      "revalidated_at": "2026-07-13T15:16:00+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B0B5Y7KCS8",
@@ -265,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754967",
       "published_at": "2026-07-13T15:16:00+00:00",
-      "revalidated_at": "2026-07-13T15:16:00+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B07F6XWJN9",
@@ -466,28 +466,6 @@
       "revalidated_at": "2026-07-13T15:31:19+00:00"
     },
     {
-      "asin": "B0FPVCCFZT",
-      "title": "150PSI WOLFBOX Cordless & Corded Tire Inflator / Air Compressor",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 18.0,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 70.0,
-      "rating": 4.4,
-      "condition": "code",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71VfAVe5EDL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FPVCCFZT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19754616",
-      "published_at": "2026-07-13T13:16:04+00:00",
-      "revalidated_at": "2026-07-13T15:16:00+00:00"
-    },
-    {
       "asin": "B0F3337BV7",
       "title": "roborock Q7 L5 Robot Vacuum and Mop Combo at Amazon",
       "title_es": null,
@@ -507,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19753809",
       "published_at": "2026-07-13T13:16:04+00:00",
-      "revalidated_at": "2026-07-13T15:16:00+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B0FNQDNGXY",
@@ -771,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19753257",
       "published_at": "2026-07-13T09:15:21+00:00",
-      "revalidated_at": "2026-07-13T15:16:00+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B00006IE9L",
@@ -815,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752945",
       "published_at": "2026-07-13T07:30:31+00:00",
-      "revalidated_at": "2026-07-13T15:16:00+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B087KV9SHM",
@@ -859,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752045",
       "published_at": "2026-07-13T05:31:02+00:00",
-      "revalidated_at": "2026-07-13T15:16:00+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B0FJRSJM65",
@@ -2267,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749834",
       "published_at": "2026-07-12T11:46:08+00:00",
-      "revalidated_at": "2026-07-13T15:00:57+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B01NBKTPTS",
@@ -2289,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750572",
       "published_at": "2026-07-12T11:32:56+00:00",
-      "revalidated_at": "2026-07-13T15:00:57+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B0C4VSWBHJ",
@@ -2311,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750674",
       "published_at": "2026-07-12T11:32:56+00:00",
-      "revalidated_at": "2026-07-13T15:00:57+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B0FFTQ6B37",
@@ -2465,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750350",
       "published_at": "2026-07-12T09:47:22+00:00",
-      "revalidated_at": "2026-07-13T15:00:57+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B0FRFW6VYR",
@@ -2487,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750374",
       "published_at": "2026-07-12T08:02:29+00:00",
-      "revalidated_at": "2026-07-13T15:00:57+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B000NPYY04",
@@ -2575,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749822",
       "published_at": "2026-07-12T07:16:18+00:00",
-      "revalidated_at": "2026-07-13T15:00:57+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B0GJCNJ5KQ",
@@ -2597,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749687",
       "published_at": "2026-07-12T05:32:52+00:00",
-      "revalidated_at": "2026-07-13T15:00:57+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B0FFBG4JL7",
@@ -2619,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19746297",
       "published_at": "2026-07-12T03:31:05+00:00",
-      "revalidated_at": "2026-07-13T15:00:57+00:00"
+      "revalidated_at": "2026-07-13T17:04:38+00:00"
     },
     {
       "asin": "B0CY7WX24P",
