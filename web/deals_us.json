@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-13T15:16:00+00:00",
+  "generated_at": "2026-07-13T15:31:19+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B0DHLHC8WN",
+      "title": "768-Piece LEGO Horizon: LEGO Horizon Adventures - Aloy & Varl vs. Shell-Walker & Sawtooth (77037, 2025) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 29.3,
+      "price_old": 44.99,
+      "currency": "USD",
+      "discount_pct": 34.9,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20966841.thumb",
+      "url": "https://amazon.com/dp/B0DHLHC8WN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19753647",
+      "published_at": "2026-07-13T15:31:19+00:00",
+      "revalidated_at": "2026-07-13T15:31:19+00:00"
+    },
     {
       "asin": "B0CZD5MNKT",
       "title": "6.6' Baseus 100W USB-C to USB-C Fast Charging Cable w/ LED Display",
@@ -36,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 72.7,
-      "rating": null,
+      "rating": 4.8,
       "condition": "coupon",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/20970273.thumb",
+      "image": "https://m.media-amazon.com/images/I/81sQ802xiDL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0B5Y7KCS8/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19754967",
@@ -243,29 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754583",
       "published_at": "2026-07-13T13:33:28+00:00",
-      "revalidated_at": "2026-07-13T13:33:28+00:00"
-    },
-    {
-      "asin": "B0FKH77R64",
-      "title": "Buzbug LED Bug Zapper Indoor, 3 Efficient 50000H LED Bulbs",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 23.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 31.5,
-      "rating": 4.0,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81cBn6SUlnL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FKH77R64/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19754199",
-      "published_at": "2026-07-13T13:33:28+00:00",
-      "revalidated_at": "2026-07-13T13:33:28+00:00"
+      "revalidated_at": "2026-07-13T15:31:19+00:00"
     },
     {
       "asin": "B0FPVCCFZT",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754031",
       "published_at": "2026-07-13T11:30:44+00:00",
-      "revalidated_at": "2026-07-13T13:33:28+00:00"
+      "revalidated_at": "2026-07-13T15:31:19+00:00"
     },
     {
       "asin": "B0GYQ3HHQF",
@@ -661,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752849",
       "published_at": "2026-07-13T05:31:02+00:00",
-      "revalidated_at": "2026-07-13T13:16:04+00:00"
+      "revalidated_at": "2026-07-13T15:31:19+00:00"
     },
     {
       "asin": "B09NCPDWG4",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752804",
       "published_at": "2026-07-13T03:45:56+00:00",
-      "revalidated_at": "2026-07-13T13:33:28+00:00"
+      "revalidated_at": "2026-07-13T15:31:19+00:00"
     },
     {
       "asin": "B07X3XTCHW",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752030",
       "published_at": "2026-07-13T03:45:56+00:00",
-      "revalidated_at": "2026-07-13T13:33:28+00:00"
+      "revalidated_at": "2026-07-13T15:31:19+00:00"
     },
     {
       "asin": "B098JB8WQ2",
@@ -859,29 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19749081",
       "published_at": "2026-07-13T01:47:51+00:00",
-      "revalidated_at": "2026-07-13T13:33:28+00:00"
-    },
-    {
-      "asin": "B0GM2RHDZ3",
-      "title": "Shun Kanso 8 Piece Block Set at Amazon",
-      "title_es": "Set de Cuchillos Shun Kanso de 8 Piezas con Bloque",
-      "headline": null,
-      "post": "Este set de cuchillos Shun Kanso de 8 piezas es esencial para cualquier cocina, ofreciendo herramientas de corte de alta calidad. Incluye una variedad de cuchillos y un bloque de almacenamiento elegante para mantenerlos organizados y accesibles.",
-      "post_en": "This 8-piece Shun Kanso knife block set is essential for any kitchen, offering high-quality cutting tools. It includes a variety of knives and a stylish storage block to keep them organized and accessible.",
-      "price_new": 436.28,
-      "price_old": 699.95,
-      "currency": "USD",
-      "discount_pct": 37.7,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71iZm104U8L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GM2RHDZ3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19750464",
-      "published_at": "2026-07-13T01:47:51+00:00",
-      "revalidated_at": "2026-07-13T13:33:28+00:00"
+      "revalidated_at": "2026-07-13T15:31:19+00:00"
     },
     {
       "asin": "B0BZT7H8CN",
@@ -925,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752231",
       "published_at": "2026-07-13T01:31:57+00:00",
-      "revalidated_at": "2026-07-13T13:16:04+00:00"
+      "revalidated_at": "2026-07-13T15:31:19+00:00"
     },
     {
       "asin": "B07X1TMQ34",
@@ -947,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752048",
       "published_at": "2026-07-13T01:31:57+00:00",
-      "revalidated_at": "2026-07-13T13:16:04+00:00"
+      "revalidated_at": "2026-07-13T15:31:19+00:00"
     },
     {
       "asin": "B09CRLZKVS",
@@ -969,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752213",
       "published_at": "2026-07-13T01:31:57+00:00",
-      "revalidated_at": "2026-07-13T13:33:28+00:00"
+      "revalidated_at": "2026-07-13T15:31:19+00:00"
     },
     {
       "asin": "B01LTHO3QY",
@@ -991,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752303",
       "published_at": "2026-07-13T01:31:57+00:00",
-      "revalidated_at": "2026-07-13T13:33:28+00:00"
+      "revalidated_at": "2026-07-13T15:31:19+00:00"
     },
     {
       "asin": "B074ZMJLKJ",
@@ -1959,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750827",
       "published_at": "2026-07-12T14:04:10+00:00",
-      "revalidated_at": "2026-07-13T13:16:04+00:00"
+      "revalidated_at": "2026-07-13T15:31:19+00:00"
     },
     {
       "asin": "B0978Z1YFT",
@@ -2069,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750140",
       "published_at": "2026-07-12T12:03:18+00:00",
-      "revalidated_at": "2026-07-13T13:16:04+00:00"
+      "revalidated_at": "2026-07-13T15:31:19+00:00"
     },
     {
       "asin": "B0GFBJ2MRF",
@@ -2620,28 +2598,6 @@
       "deal_key": "sd:19749063",
       "published_at": "2026-07-12T00:47:18+00:00",
       "revalidated_at": "2026-07-13T14:17:37+00:00"
-    },
-    {
-      "asin": "B0DS2389H1",
-      "title": "DREAME G10 Pro Wet Dry Vacuum Mop with Auto Self-Cleaning",
-      "title_es": "Aspirador y fregona húmedo/seco DREAME G10 Pro con auto-limpieza",
-      "headline": null,
-      "post": "Este aspirador y fregona DREAME G10 Pro te permite limpiar en húmedo y seco con facilidad. Cuenta con auto-limpieza, ideal para hogares que buscan una solución eficiente para suelos duros y alfombras.",
-      "post_en": "The DREAME G10 Pro wet and dry vacuum mop offers effortless cleaning for your home. It features auto self-cleaning, making it perfect for households seeking an efficient solution for hard floors and carpets.",
-      "price_new": 159.99,
-      "price_old": 229.99,
-      "currency": "USD",
-      "discount_pct": 30.4,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71RGba78P7L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DS2389H1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19747833",
-      "published_at": "2026-07-12T00:17:38+00:00",
-      "revalidated_at": "2026-07-13T13:16:04+00:00"
     }
   ]
 }
