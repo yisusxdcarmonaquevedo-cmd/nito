@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-14T16:46:50+00:00",
+  "generated_at": "2026-07-14T17:01:54+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B0CBMKRXDX",
+      "title": "6.6' IVANKY 80Gbps 16K DisplayPort Cable 2.1",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 74.3,
+      "rating": null,
+      "condition": "code",
+      "code": "ZT8ERJUG",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/20981937.thumb",
+      "url": "https://amazon.com/dp/B0CBMKRXDX/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19760055",
+      "published_at": "2026-07-14T17:01:54+00:00",
+      "revalidated_at": "2026-07-14T17:01:54+00:00"
+    },
     {
       "asin": "B01H0NVA6M",
       "title": "Bosch TI2131IM 1/16 in. Impact Tough Titanium Nitride Coated Drill Bit",
@@ -80,11 +102,11 @@
       "price_old": 22.99,
       "currency": "USD",
       "discount_pct": 34.3,
-      "rating": null,
+      "rating": 4.9,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20966859.thumb",
+      "image": "https://m.media-amazon.com/images/I/81J83oyrWnL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DRW6PHRQ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19753659",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19759137",
       "published_at": "2026-07-14T15:01:38+00:00",
-      "revalidated_at": "2026-07-14T15:01:38+00:00"
+      "revalidated_at": "2026-07-14T17:01:54+00:00"
     },
     {
       "asin": "B08X976H6W",
@@ -309,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19759527",
       "published_at": "2026-07-14T15:01:38+00:00",
-      "revalidated_at": "2026-07-14T15:01:38+00:00"
+      "revalidated_at": "2026-07-14T17:01:54+00:00"
     },
     {
       "asin": "B004GIO0F8",
@@ -576,28 +598,6 @@
       "revalidated_at": "2026-07-14T15:16:27+00:00"
     },
     {
-      "asin": "B0GJDGL7F2",
-      "title": "4-Pk 12-Count Hefty Slider Jumbo 2.5-Gallon Size Storage Bags",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 10.55,
-      "price_old": 26.76,
-      "currency": "USD",
-      "discount_pct": 60.6,
-      "rating": 4.8,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81i-VzLFfhL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GJDGL7F2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19758753",
-      "published_at": "2026-07-14T13:01:54+00:00",
-      "revalidated_at": "2026-07-14T15:01:38+00:00"
-    },
-    {
       "asin": "B0FYFCW4YC",
       "title": "Timex Unisex Deepwater Meridian 200 38mm Watch - Blue Two- Piece Quick Release Blue Dial Stainless Steel Case at Amazon",
       "title_es": null,
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19759488",
       "published_at": "2026-07-14T13:01:54+00:00",
-      "revalidated_at": "2026-07-14T15:01:38+00:00"
+      "revalidated_at": "2026-07-14T17:01:54+00:00"
     },
     {
       "asin": "B0DZP21RXY",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19759248",
       "published_at": "2026-07-14T13:01:54+00:00",
-      "revalidated_at": "2026-07-14T15:01:38+00:00"
+      "revalidated_at": "2026-07-14T17:01:54+00:00"
     },
     {
       "asin": "B0FPCVQM1L",
@@ -881,29 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19757793",
       "published_at": "2026-07-14T10:46:25+00:00",
-      "revalidated_at": "2026-07-14T14:46:38+00:00"
-    },
-    {
-      "asin": "B07V2NFYD5",
-      "title": "IRWIN QUICK-GRIP Clamps 6 Inch, 8 Piece Set (IRHT83220)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 22.79,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 34.9,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61gp2FQr1wL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07V2NFYD5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19759047",
-      "published_at": "2026-07-14T10:46:25+00:00",
-      "revalidated_at": "2026-07-14T14:46:38+00:00"
+      "revalidated_at": "2026-07-14T17:01:54+00:00"
     },
     {
       "asin": "B0FNRG3P7P",
@@ -1079,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19757259",
       "published_at": "2026-07-14T03:31:35+00:00",
-      "revalidated_at": "2026-07-14T14:46:38+00:00"
+      "revalidated_at": "2026-07-14T17:01:54+00:00"
     },
     {
       "asin": "B0FLF23MBS",
@@ -1101,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754589",
       "published_at": "2026-07-14T03:31:35+00:00",
-      "revalidated_at": "2026-07-14T14:46:38+00:00"
+      "revalidated_at": "2026-07-14T17:01:54+00:00"
     },
     {
       "asin": "B09B7XPFSQ",
@@ -1387,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19755180",
       "published_at": "2026-07-13T23:01:06+00:00",
-      "revalidated_at": "2026-07-14T14:46:38+00:00"
+      "revalidated_at": "2026-07-14T17:01:54+00:00"
     },
     {
       "asin": "B0GP9YQ4TS",
@@ -1409,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19753494",
       "published_at": "2026-07-13T23:01:06+00:00",
-      "revalidated_at": "2026-07-14T14:46:38+00:00"
+      "revalidated_at": "2026-07-14T17:01:54+00:00"
     },
     {
       "asin": "B0CJSNSVMR",
@@ -1431,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19753521",
       "published_at": "2026-07-13T22:45:53+00:00",
-      "revalidated_at": "2026-07-14T14:46:38+00:00"
+      "revalidated_at": "2026-07-14T17:01:54+00:00"
     },
     {
       "asin": "B00KCF7JL6",
@@ -2267,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19753344",
       "published_at": "2026-07-13T15:00:57+00:00",
-      "revalidated_at": "2026-07-14T14:46:38+00:00"
+      "revalidated_at": "2026-07-14T17:01:54+00:00"
     },
     {
       "asin": "B0DZCMKNMT",
@@ -2487,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754265",
       "published_at": "2026-07-13T13:00:55+00:00",
-      "revalidated_at": "2026-07-14T14:46:38+00:00"
+      "revalidated_at": "2026-07-14T17:01:54+00:00"
     },
     {
       "asin": "B07TXVM8LK",
@@ -2620,28 +2598,6 @@
       "deal_key": "sd:19754031",
       "published_at": "2026-07-13T11:30:44+00:00",
       "revalidated_at": "2026-07-14T15:46:29+00:00"
-    },
-    {
-      "asin": "B0GYQ3HHQF",
-      "title": "32\" DUMOS Compact Writing/Computer Desk (Rustic/Wood Brown) at Amazon",
-      "title_es": "Escritorio compacto DUMOS de 32\" para ordenador (Marrón Rústico)",
-      "headline": null,
-      "post": "El escritorio compacto DUMOS de 32\" es ideal para espacios pequeños, ofreciendo una superficie funcional para trabajar o estudiar. Su diseño rústico en marrón madera añade un toque cálido a cualquier habitación.",
-      "post_en": "The 32\" DUMOS compact desk is ideal for small spaces, offering a functional surface for work or study. Its rustic wood brown design adds a warm touch to any room.",
-      "price_new": 19.98,
-      "price_old": 32.99,
-      "currency": "USD",
-      "discount_pct": 39.4,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71qMy5CDPBL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GYQ3HHQF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19753917",
-      "published_at": "2026-07-13T10:30:32+00:00",
-      "revalidated_at": "2026-07-14T16:46:50+00:00"
     }
   ]
 }
