@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-07-15T20:46:46+00:00",
+  "generated_at": "2026-07-15T21:01:18+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B08XVZRP53",
+      "title": "10.3-Oz TIGI Bed Head Masterpiece Extra Hold Hairspray",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.24,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 76.5,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/1/9/1/2/6/8/2/450x450/20993760.thumb",
+      "url": "https://amazon.com/dp/B08XVZRP53/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19765167",
+      "published_at": "2026-07-15T21:01:18+00:00",
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
+    },
+    {
+      "asin": "B0C8VKNJ1B",
+      "title": "Super Mario RPG - Nintendo Switch (US Version)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 32.99,
+      "price_old": 59.99,
+      "currency": "USD",
+      "discount_pct": 45.0,
+      "rating": 4.8,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81pUNVRNnFL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0C8VKNJ1B/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19763940",
+      "published_at": "2026-07-15T21:01:18+00:00",
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
+    },
+    {
+      "asin": "B0D98LTJ4D",
+      "title": "Little Big Adventure Twinsen's Quest Limited Edition Collector's Set (Nintendo Switch)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 20.65,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 41.0,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/7/2/2/9/6/4/450x450/20993094.thumb",
+      "url": "https://amazon.com/dp/B0D98LTJ4D/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19764936",
+      "published_at": "2026-07-15T21:01:18+00:00",
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
+    },
     {
       "asin": "B0FW57PK7S",
       "title": "Furid Men's Leather RFID Bifold Wallet w/ 10 Card Slots & 2 ID Windows (3 Colors)",
@@ -14,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 85.7,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "F56QXB2F",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/20995308.thumb",
+      "image": "https://m.media-amazon.com/images/I/819gwlAjEUL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FW57PK7S/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19765884",
@@ -80,11 +146,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 71.9,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "RD45Y4Z6",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/20993931.thumb",
+      "image": "https://m.media-amazon.com/images/I/61+Jp6fbDVL._AC_SL1300_.jpg",
       "url": "https://amazon.com/dp/B0DP7CG8HG/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19765233",
@@ -177,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765689",
       "published_at": "2026-07-15T19:16:49+00:00",
-      "revalidated_at": "2026-07-15T19:16:49+00:00"
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
     },
     {
       "asin": "B0G916YDXJ",
@@ -199,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19764849",
       "published_at": "2026-07-15T19:16:49+00:00",
-      "revalidated_at": "2026-07-15T19:16:49+00:00"
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
     },
     {
       "asin": "B0FKVWSM3N",
@@ -485,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19764723",
       "published_at": "2026-07-15T17:16:46+00:00",
-      "revalidated_at": "2026-07-15T19:16:49+00:00"
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
     },
     {
       "asin": "B06XX85RSS",
@@ -507,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763739",
       "published_at": "2026-07-15T17:16:46+00:00",
-      "revalidated_at": "2026-07-15T19:16:49+00:00"
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
     },
     {
       "asin": "B0D4R8G1FX",
@@ -529,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763937",
       "published_at": "2026-07-15T17:16:46+00:00",
-      "revalidated_at": "2026-07-15T19:16:49+00:00"
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
     },
     {
       "asin": "B0F28ZWPGM",
@@ -991,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763625",
       "published_at": "2026-07-15T13:31:40+00:00",
-      "revalidated_at": "2026-07-15T19:16:49+00:00"
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
     },
     {
       "asin": "B014W1Z890",
@@ -1211,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763703",
       "published_at": "2026-07-15T11:46:19+00:00",
-      "revalidated_at": "2026-07-15T19:16:49+00:00"
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
     },
     {
       "asin": "B0DJ19J283",
@@ -1365,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19761642",
       "published_at": "2026-07-15T07:46:02+00:00",
-      "revalidated_at": "2026-07-15T19:16:49+00:00"
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
     },
     {
       "asin": "B0DKN69PMV",
@@ -1915,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19761972",
       "published_at": "2026-07-15T01:31:37+00:00",
-      "revalidated_at": "2026-07-15T19:01:36+00:00"
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
     },
     {
       "asin": "B0DFDX7CBH",
@@ -2201,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19761867",
       "published_at": "2026-07-14T23:16:38+00:00",
-      "revalidated_at": "2026-07-15T19:01:36+00:00"
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
     },
     {
       "asin": "B0DZ252XBL",
@@ -2355,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19757973",
       "published_at": "2026-07-14T21:31:38+00:00",
-      "revalidated_at": "2026-07-15T19:01:36+00:00"
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
     },
     {
       "asin": "B000GCQ8X0",
@@ -2377,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19756587",
       "published_at": "2026-07-14T21:16:34+00:00",
-      "revalidated_at": "2026-07-15T19:01:36+00:00"
+      "revalidated_at": "2026-07-15T21:01:18+00:00"
     },
     {
       "asin": "B0GY1KPY6D",
@@ -2576,72 +2642,6 @@
       "deal_key": "sd:19761138",
       "published_at": "2026-07-14T19:46:54+00:00",
       "revalidated_at": "2026-07-15T19:46:44+00:00"
-    },
-    {
-      "asin": "B098SP6RJ9",
-      "title": "CreaCity 2 Remote Garage Door Opener for Craftsman Chamberlain LiftMaster",
-      "title_es": "Mando a Distancia CreaCity 2 para Abrepuertas de Garaje Craftsman Chamberlain LiftMaster",
-      "headline": null,
-      "post": "Este mando a distancia CreaCity 2 es un repuesto o adicional compatible con abrepuertas de garaje de marcas como Craftsman, Chamberlain y LiftMaster. Ofrece una solución práctica para controlar tu puerta de garaje con facilidad y seguridad.",
-      "post_en": "This CreaCity 2 remote control is a replacement or additional unit compatible with garage door openers from brands like Craftsman, Chamberlain, and LiftMaster. It offers a practical solution to control your garage door with ease and security.",
-      "price_new": 11.0,
-      "price_old": 17.0,
-      "currency": "USD",
-      "discount_pct": 35.3,
-      "rating": 4.4,
-      "condition": "code",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/619wzhZXrwL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B098SP6RJ9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19760994",
-      "published_at": "2026-07-14T19:46:54+00:00",
-      "revalidated_at": "2026-07-15T19:46:44+00:00"
-    },
-    {
-      "asin": "B0H28DYMBW",
-      "title": "NIASHOT Women's Long Sleeve UPF 50+ Workout Tops (Various)",
-      "title_es": "Tops de Entrenamiento de Manga Larga NIASHOT para Mujer con Protección UPF 50+",
-      "headline": null,
-      "post": "Los tops de entrenamiento de manga larga NIASHOT para mujer ofrecen protección UPF 50+, ideales para actividades al aire libre o sesiones de gimnasio. Su tejido cómodo y transpirable los hace perfectos para mantenerte protegida y fresca durante el ejercicio.",
-      "post_en": "NIASHOT women's long sleeve workout tops offer UPF 50+ protection, ideal for outdoor activities or gym sessions. Their comfortable and breathable fabric makes them perfect for keeping you protected and cool during exercise.",
-      "price_new": 6.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 80.0,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "8PCFS4R9",
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/71hZntShyqL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H28DYMBW/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19760841",
-      "published_at": "2026-07-14T19:31:43+00:00",
-      "revalidated_at": "2026-07-15T19:46:44+00:00"
-    },
-    {
-      "asin": "B0FJYHTC3X",
-      "title": "Hello Kitty Island Adventure (PlayStation 5) at Amazon",
-      "title_es": "Hello Kitty Island Adventure para PlayStation 5",
-      "headline": null,
-      "post": "Hello Kitty Island Adventure para PlayStation 5 es un encantador juego de simulación y aventura ambientado en un mundo abierto con tus personajes favoritos. Perfecto para jugadores que buscan una experiencia relajante y creativa en la consola. 🎮",
-      "post_en": "Hello Kitty Island Adventure for PlayStation 5 is a charming simulation and adventure game set in an open world with your favorite characters. Perfect for players looking for a relaxing and creative console experience. 🎮",
-      "price_new": 19.99,
-      "price_old": 57.0,
-      "currency": "USD",
-      "discount_pct": 64.9,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/810+WvtaOkL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FJYHTC3X/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19759929",
-      "published_at": "2026-07-14T19:31:43+00:00",
-      "revalidated_at": "2026-07-15T20:01:47+00:00"
     }
   ]
 }
