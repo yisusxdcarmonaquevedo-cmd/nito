@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T16:17:17+00:00",
+  "generated_at": "2026-07-15T16:31:49+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0GJYKV5GP",
@@ -102,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 94.7,
-      "rating": null,
+      "rating": 4.6,
       "condition": "coupon",
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/20992245.thumb",
+      "image": "https://m.media-amazon.com/images/I/712hBeTGGgL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B000R30L4K/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19764579",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19764423",
       "published_at": "2026-07-15T14:31:50+00:00",
-      "revalidated_at": "2026-07-15T14:31:50+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B0DHGG96Z4",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19764093",
       "published_at": "2026-07-15T14:31:50+00:00",
-      "revalidated_at": "2026-07-15T14:31:50+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B0BZXTG5BD",
@@ -573,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763100",
       "published_at": "2026-07-15T12:31:40+00:00",
-      "revalidated_at": "2026-07-15T14:31:50+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B09QH87PYS",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19759812",
       "published_at": "2026-07-15T10:46:41+00:00",
-      "revalidated_at": "2026-07-15T14:31:50+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B09NMF4SMQ",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763337",
       "published_at": "2026-07-15T10:46:41+00:00",
-      "revalidated_at": "2026-07-15T14:31:50+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B0GTYVF36L",
@@ -881,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19757037",
       "published_at": "2026-07-15T07:01:09+00:00",
-      "revalidated_at": "2026-07-15T14:31:50+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B0GF8GQ4PR",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19760703",
       "published_at": "2026-07-15T07:01:09+00:00",
-      "revalidated_at": "2026-07-15T14:31:50+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B0FX4P5DXK",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19760541",
       "published_at": "2026-07-15T03:01:31+00:00",
-      "revalidated_at": "2026-07-15T14:31:50+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B0H3L2XFJV",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19761006",
       "published_at": "2026-07-15T03:01:31+00:00",
-      "revalidated_at": "2026-07-15T14:31:50+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B091CL4YKY",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19758351",
       "published_at": "2026-07-15T03:01:31+00:00",
-      "revalidated_at": "2026-07-15T14:31:50+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B0BJV1V458",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19759236",
       "published_at": "2026-07-15T03:01:31+00:00",
-      "revalidated_at": "2026-07-15T14:31:50+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B0H44K7Y4L",
@@ -1454,28 +1454,6 @@
       "deal_key": "sd:19760133",
       "published_at": "2026-07-15T01:16:27+00:00",
       "revalidated_at": "2026-07-15T14:46:57+00:00"
-    },
-    {
-      "asin": "B0CRY98FG1",
-      "title": "3-Pack MAXIFFE Stainless Steel Shower Caddy Organizer (Black)",
-      "title_es": "Organizador de Ducha MAXIFFE de Acero Inoxidable (3 Unidades, Negro)",
-      "headline": null,
-      "post": "Este paquete de 3 organizadores de ducha MAXIFFE de acero inoxidable te permite mantener tu baño ordenado. Son ideales para guardar champús y geles, optimizando el espacio en la ducha.",
-      "post_en": "This 3-pack of MAXIFFE stainless steel shower caddy organizers helps keep your bathroom tidy. They are perfect for storing shampoos and gels, optimizing space in your shower.",
-      "price_new": 8.66,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 75.3,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "HKF23O8M",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/8137a8abtPL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CRY98FG1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19761717",
-      "published_at": "2026-07-15T01:01:31+00:00",
-      "revalidated_at": "2026-07-15T14:31:50+00:00"
     },
     {
       "asin": "B0GWMMYMR2",
@@ -2245,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19760010",
       "published_at": "2026-07-14T18:46:29+00:00",
-      "revalidated_at": "2026-07-15T14:16:41+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B0F8NT5BB6",
@@ -2399,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19759767",
       "published_at": "2026-07-14T16:46:50+00:00",
-      "revalidated_at": "2026-07-15T14:16:41+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B0GQJSPRK8",
@@ -2421,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19760187",
       "published_at": "2026-07-14T16:46:50+00:00",
-      "revalidated_at": "2026-07-15T14:16:41+00:00"
+      "revalidated_at": "2026-07-15T16:31:49+00:00"
     },
     {
       "asin": "B0DRW6PHRQ",
