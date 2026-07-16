@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-07-16T21:01:37+00:00",
+  "generated_at": "2026-07-16T21:16:59+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0G79TZH78",
+      "title": "3-Pk Lamicall Extension Cord Storage Straps (10\", 14\", 18\")",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 85.7,
+      "rating": 4.7,
+      "condition": "code",
+      "code": "NLONU973",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71OpyK9qS4L._AC_SL1300_.jpg",
+      "url": "https://amazon.com/dp/B0G79TZH78/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19770759",
+      "published_at": "2026-07-16T21:16:59+00:00",
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
+    },
+    {
+      "asin": "B0GSZC8QGB",
+      "title": "Skytech Gaming Shadow 5 Gaming PC, AMD 7 9700X 3.8GHz, RTX 5060 Ti 16GB VRAM, 1TB NVMe SSD, 16GB DDR5 RAM 6000",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 149.0,
+      "price_old": 786.0,
+      "currency": "USD",
+      "discount_pct": 81.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/21007209.thumb",
+      "url": "https://amazon.com/dp/B0GSZC8QGB/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19770777",
+      "published_at": "2026-07-16T21:16:59+00:00",
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
+    },
+    {
+      "asin": "B0GX719TRW",
+      "title": "24-Count EKoBRIT Enzyme Washing Machine Cleaner Tablets for Pet Hair",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 71.5,
+      "rating": null,
+      "condition": "code",
+      "code": "Q5WJOFQM",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/20996271.thumb",
+      "url": "https://amazon.com/dp/B0GX719TRW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19766223",
+      "published_at": "2026-07-16T21:16:59+00:00",
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
+    },
+    {
+      "asin": "B08MVBYWGQ",
+      "title": "34″ Samsung Odyssey G5 3440x1440 165Hz Curved Ultrawide Monitor",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 270.0,
+      "price_old": 399.99,
+      "currency": "USD",
+      "discount_pct": 32.5,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21003336.thumb",
+      "url": "https://amazon.com/dp/B08MVBYWGQ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19769310",
+      "published_at": "2026-07-16T21:16:59+00:00",
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
+    },
     {
       "asin": "B0DHWTNYCG",
       "title": "2-pk Linkind Smart Solar Multicolor SL5 Spot Lights",
@@ -36,11 +124,11 @@
       "price_old": 16.99,
       "currency": "USD",
       "discount_pct": 60.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "EPN6RCOK",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/3/3/5/6/0/450x450/21006126.thumb",
+      "image": "https://m.media-amazon.com/images/I/61vTtGcb9KL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D7WF3H7Q/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19770309",
@@ -221,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765242",
       "published_at": "2026-07-16T19:31:48+00:00",
-      "revalidated_at": "2026-07-16T19:31:48+00:00"
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
     },
     {
       "asin": "B0GL1LV4VK",
@@ -243,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769928",
       "published_at": "2026-07-16T19:31:48+00:00",
-      "revalidated_at": "2026-07-16T19:31:48+00:00"
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
     },
     {
       "asin": "B0GM3VR94M",
@@ -969,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19750035",
       "published_at": "2026-07-16T03:45:52+00:00",
-      "revalidated_at": "2026-07-16T19:31:48+00:00"
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
     },
     {
       "asin": "B0DSM21Y4G",
@@ -1101,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765227",
       "published_at": "2026-07-16T01:46:04+00:00",
-      "revalidated_at": "2026-07-16T19:31:48+00:00"
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
     },
     {
       "asin": "B000GG64O4",
@@ -1123,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19766868",
       "published_at": "2026-07-16T01:46:04+00:00",
-      "revalidated_at": "2026-07-16T19:31:48+00:00"
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
     },
     {
       "asin": "B0FPQ5H6BT",
@@ -1453,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765719",
       "published_at": "2026-07-15T23:46:22+00:00",
-      "revalidated_at": "2026-07-16T19:31:48+00:00"
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
     },
     {
       "asin": "B0C3M87K71",
@@ -1475,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19766028",
       "published_at": "2026-07-15T23:31:20+00:00",
-      "revalidated_at": "2026-07-16T19:16:53+00:00"
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
     },
     {
       "asin": "B091TRCLSF",
@@ -1805,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765059",
       "published_at": "2026-07-15T19:46:44+00:00",
-      "revalidated_at": "2026-07-16T19:16:53+00:00"
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
     },
     {
       "asin": "B0DN331V74",
@@ -1827,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19751565",
       "published_at": "2026-07-15T19:46:44+00:00",
-      "revalidated_at": "2026-07-16T19:16:53+00:00"
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
     },
     {
       "asin": "B0BL42JY41",
@@ -2003,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19764753",
       "published_at": "2026-07-15T17:46:57+00:00",
-      "revalidated_at": "2026-07-16T19:16:53+00:00"
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
     },
     {
       "asin": "B0DCFMSYXS",
@@ -2025,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765164",
       "published_at": "2026-07-15T17:46:57+00:00",
-      "revalidated_at": "2026-07-16T19:16:53+00:00"
+      "revalidated_at": "2026-07-16T21:16:59+00:00"
     },
     {
       "asin": "B0F292DSXC",
@@ -2554,72 +2642,6 @@
       "deal_key": "sd:19763976",
       "published_at": "2026-07-15T13:02:00+00:00",
       "revalidated_at": "2026-07-16T20:46:44+00:00"
-    },
-    {
-      "asin": "B0F3S3CB3G",
-      "title": "adidas Men's Victory Bucket Hat (Dusky Bronze Brown/Aurora Coffee Brown)",
-      "title_es": "Sombrero de Pescador adidas Victory para Hombre (Dusky Bronze Brown/Aurora Coffee Brown)",
-      "headline": null,
-      "post": "El sombrero de pescador adidas Victory para hombre ofrece protección solar y un estilo casual. Es un accesorio versátil para actividades al aire libre o para complementar un look urbano.",
-      "post_en": "The adidas Men's Victory Bucket Hat offers sun protection and a casual style. It's a versatile accessory for outdoor activities or to complement an urban look.",
-      "price_new": 18.6,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 46.9,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81N2CNB5jnL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F3S3CB3G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19763781",
-      "published_at": "2026-07-15T13:02:00+00:00",
-      "revalidated_at": "2026-07-16T21:01:37+00:00"
-    },
-    {
-      "asin": "B00006IE88",
-      "title": "12-Pk Uni-Ball Onyx 0.5 mm Micro Point Rollerball Pens (Blue Ink)",
-      "title_es": "Bolígrafos Uni-Ball Onyx 0.5 mm Micro Point (tinta azul) - Pack de 12",
-      "headline": null,
-      "post": "Estos bolígrafos Uni-Ball Onyx de 0.5 mm ofrecen una escritura suave y precisa con tinta azul. Son ideales para estudiantes y profesionales que buscan fiabilidad en su material de oficina. 🖊️",
-      "post_en": "These 0.5 mm Uni-Ball Onyx pens provide smooth and precise writing with blue ink. They are perfect for students and professionals seeking reliable office supplies. 🖊️",
-      "price_new": 5.65,
-      "price_old": 11.99,
-      "currency": "USD",
-      "discount_pct": 52.9,
-      "rating": 4.7,
-      "condition": "sns",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71P8QHgV-hL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00006IE88/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19753212",
-      "published_at": "2026-07-15T12:46:39+00:00",
-      "revalidated_at": "2026-07-16T20:01:44+00:00"
-    },
-    {
-      "asin": "B0GJGCWQKW",
-      "title": "12-Pack 12-Oz Gatorade Lower Sugar Electrolyte Sports Drink (Fruit Punch)",
-      "title_es": "Bebida isotónica Gatorade Lower Sugar Electrolyte Sports Drink, sabor Fruit Punch (Pack de 12 x 12 oz)",
-      "headline": null,
-      "post": "Esta bebida Gatorade Lower Sugar repone electrolitos y te mantiene hidratado durante o después del ejercicio. Es perfecta para deportistas y personas activas que buscan una opción con menos azúcar.",
-      "post_en": "This Gatorade Lower Sugar drink replenishes electrolytes and keeps you hydrated during or after exercise. It's perfect for athletes and active individuals looking for a lower sugar option.",
-      "price_new": 5.98,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 82.9,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81H9O4KRFmL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GJGCWQKW/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19763100",
-      "published_at": "2026-07-15T12:31:40+00:00",
-      "revalidated_at": "2026-07-16T19:47:04+00:00"
     }
   ]
 }
