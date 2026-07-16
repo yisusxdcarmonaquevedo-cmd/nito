@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-16T01:16:01+00:00",
+  "generated_at": "2026-07-16T01:31:08+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0FPQ5H6BT",
+      "title": "14-Slot Men's RFID Blocking Wallet",
+      "title_es": "Cartera para hombre con 14 ranuras y bloqueo RFID",
+      "headline": null,
+      "post": "Esta cartera para hombre con 14 ranuras ofrece amplio espacio para tarjetas y billetes, incorporando tecnología de bloqueo RFID para proteger tu información personal. Es ideal para quienes buscan funcionalidad, seguridad y un diseño práctico en su día a día.",
+      "post_en": "This men's wallet features 14 slots, providing ample space for cards and cash, and includes RFID blocking technology to protect your personal information. It's perfect for those seeking functionality, security, and a practical design for daily use.",
+      "price_new": 5.1,
+      "price_old": 10.0,
+      "currency": "USD",
+      "discount_pct": 49.0,
+      "rating": 4.5,
+      "condition": "code",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/71eXAA640SL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FPQ5H6BT/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19765344",
+      "published_at": "2026-07-16T01:31:08+00:00",
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
+    },
     {
       "asin": "B0GC5MCH2M",
       "title": "Prime: 3-Port TALIX 12800mAh 125W Laptop Power Bank w/ 240W USB-C Cable",
@@ -212,11 +234,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 91.5,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "4B2HX983",
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/20996652.thumb",
+      "image": "https://m.media-amazon.com/images/I/71eWkyKxjhL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B083B81VJT/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19766391",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19766316",
       "published_at": "2026-07-15T23:46:22+00:00",
-      "revalidated_at": "2026-07-15T23:46:22+00:00"
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
     },
     {
       "asin": "B0H7JCBWYF",
@@ -309,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765719",
       "published_at": "2026-07-15T23:46:22+00:00",
-      "revalidated_at": "2026-07-15T23:46:22+00:00"
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
     },
     {
       "asin": "B00Y1VZ00E",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765233",
       "published_at": "2026-07-15T20:01:47+00:00",
-      "revalidated_at": "2026-07-15T23:46:22+00:00"
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
     },
     {
       "asin": "B0C1Z9V6N1",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765377",
       "published_at": "2026-07-15T20:01:47+00:00",
-      "revalidated_at": "2026-07-15T23:46:22+00:00"
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
     },
     {
       "asin": "B07RT2XQMY",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19761993",
       "published_at": "2026-07-15T18:01:41+00:00",
-      "revalidated_at": "2026-07-15T23:46:22+00:00"
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
     },
     {
       "asin": "B0FHH1HTGH",
@@ -1167,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19764213",
       "published_at": "2026-07-15T16:01:58+00:00",
-      "revalidated_at": "2026-07-15T23:31:20+00:00"
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
     },
     {
       "asin": "B000R30L4K",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763673",
       "published_at": "2026-07-15T14:01:42+00:00",
-      "revalidated_at": "2026-07-15T23:31:20+00:00"
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
     },
     {
       "asin": "B0FXR9H7K2",
@@ -1805,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763211",
       "published_at": "2026-07-15T10:16:35+00:00",
-      "revalidated_at": "2026-07-15T23:31:20+00:00"
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
     },
     {
       "asin": "B01J1A3TFW",
@@ -2028,28 +2050,6 @@
       "revalidated_at": "2026-07-15T23:46:22+00:00"
     },
     {
-      "asin": "B08QZCRHKX",
-      "title": "16\" Acacia Wood Magnetic Knife Holder",
-      "title_es": "Soporte magnético para cuchillos de madera de acacia de 16\"",
-      "headline": null,
-      "post": "Este soporte magnético de 16 pulgadas, hecho de madera de acacia, es perfecto para mantener tus cuchillos organizados y al alcance de forma segura. Ideal para quienes buscan optimizar el espacio en la cocina y tener los utensilios esenciales siempre a mano.",
-      "post_en": "This 16-inch magnetic knife holder, crafted from acacia wood, is perfect for keeping your knives organized and safely within reach. It's ideal for those looking to optimize kitchen space and have essential utensils always at hand.",
-      "price_new": 8.4,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 76.0,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "EDFUIXJF",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61eHnuSdEIL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B08QZCRHKX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19762539",
-      "published_at": "2026-07-15T04:16:19+00:00",
-      "revalidated_at": "2026-07-15T23:31:20+00:00"
-    },
-    {
       "asin": "B08BSKT43L",
       "title": "$22.35 AMAZON FS PRIME Ghost of Tsushima - PlayStation 4",
       "title_es": "Ghost of Tsushima - PlayStation 4",
@@ -2069,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19762473",
       "published_at": "2026-07-15T04:16:19+00:00",
-      "revalidated_at": "2026-07-15T23:31:20+00:00"
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
     },
     {
       "asin": "B09MVMNW5M",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19760607",
       "published_at": "2026-07-15T02:01:25+00:00",
-      "revalidated_at": "2026-07-15T23:31:20+00:00"
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
     },
     {
       "asin": "B0CMW1FXMC",
@@ -2421,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19761921",
       "published_at": "2026-07-15T01:31:37+00:00",
-      "revalidated_at": "2026-07-15T23:31:20+00:00"
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
     },
     {
       "asin": "B0H4G9TFJM",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19760715",
       "published_at": "2026-07-15T01:31:37+00:00",
-      "revalidated_at": "2026-07-15T23:31:20+00:00"
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
     },
     {
       "asin": "B009VTAG5A",
@@ -2597,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19761597",
       "published_at": "2026-07-14T23:46:40+00:00",
-      "revalidated_at": "2026-07-15T23:31:20+00:00"
+      "revalidated_at": "2026-07-16T01:31:08+00:00"
     },
     {
       "asin": "B0FR6937TP",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19761894",
       "published_at": "2026-07-14T23:46:40+00:00",
       "revalidated_at": "2026-07-15T23:46:22+00:00"
-    },
-    {
-      "asin": "1799508196",
-      "title": "DC Batman/Superman: World's Finest: The Deluxe Edition Vol. 1 (Hardcover Book) at Amazon",
-      "title_es": "DC Batman/Superman: World's Finest: The Deluxe Edition Vol. 1 (Libro de Tapa Dura)",
-      "headline": null,
-      "post": "Sumérgete en las emocionantes aventuras de Batman y Superman con este libro de tapa dura. Es una edición de lujo imprescindible para fans de DC Comics y coleccionistas.",
-      "post_en": "Immerse yourself in the thrilling adventures of Batman and Superman with this hardcover book. It's an essential deluxe edition for DC Comics fans and collectors.",
-      "price_new": 33.13,
-      "price_old": 49.99,
-      "currency": "USD",
-      "discount_pct": 33.7,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/911M3CDGudL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/1799508196/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19759035",
-      "published_at": "2026-07-14T23:31:34+00:00",
-      "revalidated_at": "2026-07-16T01:01:06+00:00"
     }
   ]
 }
