@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-17T22:30:42+00:00",
+  "generated_at": "2026-07-17T22:45:44+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0CD88MGMZ",
+      "title": "(2) 30 oz Bags Of Malt-O-Meal S'mores Breakfast Cereal with Honey Graham Squares, Chocolatey Puffs and Marshmallow Bits,",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.85,
+      "price_old": 59.0,
+      "currency": "USD",
+      "discount_pct": 85.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/1/1/9/9/5/2/5/2/450x450/21013494.thumb",
+      "url": "https://amazon.com/dp/B0CD88MGMZ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19773615",
+      "published_at": "2026-07-17T22:45:43+00:00",
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
+    },
     {
       "asin": "B000F4H5FY",
       "title": "6-Pack 20-Count Twinings Variety Black Tea Bags",
@@ -89,7 +111,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19758714",
       "published_at": "2026-07-17T20:46:02+00:00",
-      "revalidated_at": "2026-07-17T20:46:02+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B01NBKTPTS",
@@ -212,11 +234,11 @@
       "price_old": 25.99,
       "currency": "USD",
       "discount_pct": 51.6,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21013269.thumb",
+      "image": "https://m.media-amazon.com/images/I/71oSeP-OjjL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GJRVBSS5/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19773537",
@@ -243,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19774149",
       "published_at": "2026-07-17T18:46:06+00:00",
-      "revalidated_at": "2026-07-17T20:46:02+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B0GQ42B4WQ",
@@ -454,16 +476,16 @@
       "price_old": 209.99,
       "currency": "USD",
       "discount_pct": 38.1,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21008733.thumb",
+      "image": "https://m.media-amazon.com/images/I/71o-OPjOcwL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BTKL7B6N/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19771497",
       "published_at": "2026-07-17T16:46:09+00:00",
-      "revalidated_at": "2026-07-17T20:46:02+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B01F36JEXE",
@@ -1299,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770252",
       "published_at": "2026-07-17T03:16:32+00:00",
-      "revalidated_at": "2026-07-17T20:46:02+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B0852YLFZP",
@@ -1497,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19771248",
       "published_at": "2026-07-17T00:32:05+00:00",
-      "revalidated_at": "2026-07-17T20:46:02+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B0F9F6B875",
@@ -1651,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770165",
       "published_at": "2026-07-16T23:16:36+00:00",
-      "revalidated_at": "2026-07-17T20:46:02+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B0GJDLWM93",
@@ -1673,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770804",
       "published_at": "2026-07-16T23:16:36+00:00",
-      "revalidated_at": "2026-07-17T20:46:02+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B08CX43PWS",
@@ -1695,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770555",
       "published_at": "2026-07-16T23:01:46+00:00",
-      "revalidated_at": "2026-07-17T20:46:02+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B0GTTKHW4K",
@@ -1717,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770372",
       "published_at": "2026-07-16T23:01:46+00:00",
-      "revalidated_at": "2026-07-17T20:46:02+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B0GWY3J19B",
@@ -1739,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19768398",
       "published_at": "2026-07-16T23:01:46+00:00",
-      "revalidated_at": "2026-07-17T20:46:02+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B0178ENI4K",
@@ -1761,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770444",
       "published_at": "2026-07-16T23:01:46+00:00",
-      "revalidated_at": "2026-07-17T20:46:02+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B0G93F9846",
@@ -1783,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769781",
       "published_at": "2026-07-16T22:46:31+00:00",
-      "revalidated_at": "2026-07-17T20:46:02+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B0FT94MJNN",
@@ -2509,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769052",
       "published_at": "2026-07-16T17:49:13+00:00",
-      "revalidated_at": "2026-07-17T20:32:14+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B07MS7G7RZ",
@@ -2531,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19767975",
       "published_at": "2026-07-16T13:06:36+00:00",
-      "revalidated_at": "2026-07-17T20:32:14+00:00"
+      "revalidated_at": "2026-07-17T22:45:44+00:00"
     },
     {
       "asin": "B0DRW69F3D",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:19766184",
       "published_at": "2026-07-16T11:01:44+00:00",
       "revalidated_at": "2026-07-17T21:15:50+00:00"
-    },
-    {
-      "asin": "B0FJ28QX2C",
-      "title": "Baseus VD1 Pro Solar Dual Dash Cam w/ STARVIS & 32GB SD Card",
-      "title_es": "Cámara de Coche Dual Solar Baseus VD1 Pro con STARVIS y Tarjeta SD de 32GB",
-      "headline": null,
-      "post": "La Baseus VD1 Pro es una cámara de salpicadero dual solar con tecnología STARVIS, ideal para una vigilancia constante en tu vehículo. Incluye una tarjeta SD de 32GB, asegurando grabaciones de alta calidad. 🚗",
-      "post_en": "The Baseus VD1 Pro is a solar dual dash cam with STARVIS technology, ideal for constant surveillance in your vehicle. It includes a 32GB SD card, ensuring high-quality recordings. 🚗",
-      "price_new": 90.0,
-      "price_old": 170.0,
-      "currency": "USD",
-      "discount_pct": 47.1,
-      "rating": 4.2,
-      "condition": "code",
-      "code": "VD1SDDEAL",
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/711qiWUbP8L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FJ28QX2C/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19764297",
-      "published_at": "2026-07-16T10:46:29+00:00",
-      "revalidated_at": "2026-07-17T21:00:42+00:00"
     }
   ]
 }
