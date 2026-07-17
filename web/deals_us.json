@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T01:01:36+00:00",
+  "generated_at": "2026-07-17T01:16:22+00:00",
   "market": "us",
   "count": 119,
   "deals": [
@@ -36,11 +36,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 77.2,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "VT96D5JG",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21002799.thumb",
+      "image": "https://m.media-amazon.com/images/I/61n4eSztEAL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GXDH4RTW/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19769103",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770165",
       "published_at": "2026-07-16T23:16:36+00:00",
-      "revalidated_at": "2026-07-16T23:16:36+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B0GJDLWM93",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770804",
       "published_at": "2026-07-16T23:16:36+00:00",
-      "revalidated_at": "2026-07-16T23:16:36+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B08CX43PWS",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770759",
       "published_at": "2026-07-16T21:16:59+00:00",
-      "revalidated_at": "2026-07-16T23:16:36+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B0GSZC8QGB",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770777",
       "published_at": "2026-07-16T21:16:59+00:00",
-      "revalidated_at": "2026-07-16T23:16:36+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B0GX719TRW",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19766223",
       "published_at": "2026-07-16T21:16:59+00:00",
-      "revalidated_at": "2026-07-16T23:16:36+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B08MVBYWGQ",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769310",
       "published_at": "2026-07-16T21:16:59+00:00",
-      "revalidated_at": "2026-07-16T23:16:36+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B0DHWTNYCG",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765242",
       "published_at": "2026-07-16T19:31:48+00:00",
-      "revalidated_at": "2026-07-16T23:16:36+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B0GL1LV4VK",
@@ -1458,10 +1458,10 @@
     {
       "asin": "B0000302YN",
       "title": "Dremel 290-02 120-Volt Engraver Rotary Tool w/ Stencils",
-      "title_es": null,
+      "title_es": "Grabador Dremel 290-02 de 120V con plantillas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta herramienta rotativa Dremel 290-02 es ideal para grabar o personalizar una gran variedad de materiales. Incluye plantillas para facilitar tus proyectos creativos en casa o en el taller.",
+      "post_en": "This Dremel 290-02 rotary tool is ideal for engraving or personalizing a wide variety of materials. It includes stencils to facilitate your creative projects at home or in the workshop.",
       "price_new": 18.89,
       "price_old": 35.0,
       "currency": "USD",
@@ -1480,10 +1480,10 @@
     {
       "asin": "B0795DP124",
       "title": "ARCTIC MX-4 4g Thermal Paste w/ Spatula",
-      "title_es": null,
+      "title_es": "Pasta térmica ARCTIC MX-4 4g con espátula",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La pasta térmica ARCTIC MX-4 de 4g es esencial para mejorar la disipación de calor en tus componentes electrónicos. Incluye una espátula para una aplicación fácil y precisa, ideal para entusiastas del PC.",
+      "post_en": "The ARCTIC MX-4 4g thermal paste is essential for improving heat dissipation in your electronic components. It includes a spatula for easy and precise application, ideal for PC enthusiasts.",
       "price_new": 5.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -1502,10 +1502,10 @@
     {
       "asin": "B0DWXXM8Q9",
       "title": "Pudolla Men's 7\" 2-in-1 Quick-Dry Running Shorts w/ Liner & Zipper Pockets (S-XXL, Various Colors)",
-      "title_es": null,
+      "title_es": "Pantalones cortos de running Pudolla 7\" 2 en 1 de secado rápido para hombre",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estos pantalones cortos Pudolla 2 en 1 son perfectos para correr o entrenar, ofreciendo secado rápido y comodidad. Cuentan con forro interior y bolsillos con cremallera para guardar tus objetos de forma segura.",
+      "post_en": "These Pudolla 2-in-1 shorts are perfect for running or training, offering quick-drying and comfort. They feature an inner liner and zipper pockets to securely store your items.",
       "price_new": 11.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1524,10 +1524,10 @@
     {
       "asin": "B003P2WO5E",
       "title": "The Way of Kings: Book One of the Stormlight Archive (The Stormlight Archive, 1) (eBook) by Brandon Sanderson",
-      "title_es": null,
+      "title_es": "El Camino de los Reyes: Libro uno de El Archivo de las Tormentas (eBook) por Brandon Sanderson",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en \"El Camino de los Reyes\", la épica primera entrega de la aclamada saga El Archivo de las Tormentas de Brandon Sanderson. Una lectura imprescindible para los amantes de la fantasía épica y mundos complejos.",
+      "post_en": "Immerse yourself in \"The Way of Kings,\" the epic first installment of Brandon Sanderson's acclaimed Stormlight Archive series. A must-read for fans of epic fantasy and complex worlds.",
       "price_new": 2.99,
       "price_old": 11.99,
       "currency": "USD",
@@ -1546,10 +1546,10 @@
     {
       "asin": "B0D6274PNZ",
       "title": "28-Pack Emergen-C Kidz Immune Plus Vitamin C Crystals (Tropical Punch)",
-      "title_es": null,
+      "title_es": "Pack de 28 sobres de cristales Emergen-C Kidz Immune Plus Vitamina C (Tropical Punch)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estos cristales Emergen-C Kidz Immune Plus de Vitamina C son una forma deliciosa y fácil de apoyar el sistema inmunitario de los niños. Vienen en sabor Tropical Punch y son perfectos para el día a día. 🍊",
+      "post_en": "These Emergen-C Kidz Immune Plus Vitamin C Crystals are a delicious and easy way to support children's immune systems. They come in Tropical Punch flavor and are perfect for daily use. 🍊",
       "price_new": 3.81,
       "price_old": 35.0,
       "currency": "USD",
@@ -1568,10 +1568,10 @@
     {
       "asin": "B0GTYK375G",
       "title": "Amazon - Wireless Charger for Samsung, 3-in-1 Android Charging Station | Phone and Watch Charger -",
-      "title_es": null,
+      "title_es": "Cargador inalámbrico 3 en 1 para Samsung y Android (teléfono y reloj)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta estación de carga inalámbrica 3 en 1 es ideal para usuarios de Samsung y otros dispositivos Android. Permite cargar simultáneamente tu teléfono y reloj, manteniendo tu espacio organizado y sin cables.",
+      "post_en": "This 3-in-1 wireless charging station is ideal for Samsung and other Android device users. It allows you to simultaneously charge your phone and watch, keeping your space organized and cable-free.",
       "price_new": 13.49,
       "price_old": 26.99,
       "currency": "USD",
@@ -1590,10 +1590,10 @@
     {
       "asin": "B000PKOPQU",
       "title": "3-Pack 8-Count TUMS Extra Strength Assorted Fruit Antacid Chewable Tablets",
-      "title_es": null,
+      "title_es": "Pack de 3 de TUMS Extra Strength tabletas masticables antiácido de frutas variadas (8 unidades)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Las tabletas masticables TUMS Extra Strength ofrecen un alivio rápido y efectivo para la acidez estomacal y la indigestión. Este pack de 3 con sabores de frutas variadas es ideal para tener a mano en cualquier momento.",
+      "post_en": "TUMS Extra Strength chewable tablets provide fast and effective relief for heartburn and indigestion. This 3-pack with assorted fruit flavors is ideal to keep on hand at any time.",
       "price_new": 1.34,
       "price_old": 35.0,
       "currency": "USD",
@@ -1612,10 +1612,10 @@
     {
       "asin": "B08Q74NX8D",
       "title": "12\" Monoprice SW-12 400W RMS Powered Subwoofer Speaker (Black)",
-      "title_es": null,
+      "title_es": "Subwoofer autoamplificado Monoprice SW-12 de 12\" y 400W RMS (negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El subwoofer autoamplificado Monoprice SW-12 de 12 pulgadas y 400W RMS añade graves potentes y profundos a tu sistema de audio. Es perfecto para mejorar la experiencia en cine en casa o escuchar música con mayor impacto.",
+      "post_en": "The Monoprice SW-12 12-inch 400W RMS powered subwoofer adds powerful and deep bass to your audio system. It's perfect for enhancing your home theater experience or listening to music with greater impact.",
       "price_new": 180.0,
       "price_old": 364.99,
       "currency": "USD",
@@ -1634,10 +1634,10 @@
     {
       "asin": "B0DKVDMPT9",
       "title": "2-Pack TP-Link Deco 7 BE25 Dual-Band BE5000 WiFi 7 Mesh Wi-Fi System + 15% Back w/ Prime Visa Card at Amazon",
-      "title_es": null,
+      "title_es": "Pack de 2 TP-Link Deco 7 BE25 Dual-Band BE5000 Sistema WiFi 7 Mesh",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este sistema TP-Link Deco 7 BE25 Mesh Wi-Fi 7 de doble banda ofrece una cobertura robusta y ultrarrápida para todo tu hogar. Ideal para quienes buscan la última tecnología en conectividad y eliminar zonas muertas.",
+      "post_en": "This TP-Link Deco 7 BE25 Dual-Band BE5000 WiFi 7 Mesh system provides robust and ultra-fast coverage for your entire home. It's ideal for those seeking the latest connectivity technology and eliminating dead zones.",
       "price_new": 117.67,
       "price_old": 199.99,
       "currency": "USD",
@@ -1656,10 +1656,10 @@
     {
       "asin": "B0BRKXS7WT",
       "title": "Ekouaer Pajamas 2 Piece Lounge Sets Ribbed Knit Matching Outfits T-shirt Biker Shorts Sleepwear",
-      "title_es": null,
+      "title_es": "Conjunto de pijama Ekouaer de 2 piezas de punto acanalado (camiseta y shorts ciclistas)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este conjunto de pijama Ekouaer de 2 piezas, con camiseta y shorts ciclistas de punto acanalado, es perfecto para relajarte en casa. Su diseño cómodo y moderno lo hace ideal tanto para dormir como para estar casual.",
+      "post_en": "This Ekouaer 2-piece pajama set, featuring a ribbed knit t-shirt and biker shorts, is perfect for relaxing at home. Its comfortable and modern design makes it ideal for both sleeping and casual lounging.",
       "price_new": 19.99,
       "price_old": 29.99,
       "currency": "USD",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19764192",
       "published_at": "2026-07-16T05:30:53+00:00",
-      "revalidated_at": "2026-07-16T23:16:36+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B07R9HZDR3",
@@ -1717,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19764039",
       "published_at": "2026-07-16T05:30:53+00:00",
-      "revalidated_at": "2026-07-16T23:16:36+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B077PJDPP3",
@@ -1849,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754043",
       "published_at": "2026-07-16T03:16:07+00:00",
-      "revalidated_at": "2026-07-16T23:01:46+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B0CWXWNVM7",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19767156",
       "published_at": "2026-07-16T03:16:07+00:00",
-      "revalidated_at": "2026-07-16T23:01:46+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B0CMW3G4F5",
@@ -2003,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765344",
       "published_at": "2026-07-16T01:31:08+00:00",
-      "revalidated_at": "2026-07-16T23:16:36+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B0GC5MCH2M",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763604",
       "published_at": "2026-07-16T01:01:06+00:00",
-      "revalidated_at": "2026-07-16T23:01:46+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B0FNMYQ7C8",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765512",
       "published_at": "2026-07-15T23:16:12+00:00",
-      "revalidated_at": "2026-07-16T23:01:46+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "059383612X",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19766187",
       "published_at": "2026-07-15T21:16:12+00:00",
-      "revalidated_at": "2026-07-16T23:01:46+00:00"
+      "revalidated_at": "2026-07-17T01:16:22+00:00"
     },
     {
       "asin": "B0CKXCFLPN",
