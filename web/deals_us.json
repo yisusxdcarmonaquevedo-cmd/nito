@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-07-17T16:01:15+00:00",
+  "generated_at": "2026-07-17T16:16:18+00:00",
   "market": "us",
-  "count": 116,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0CFW7S82B",
+      "title": "12-Pk 2.5-Oz Chicken of the Sea Wild Caught Light Tuna (Sweet & Spicy)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 6.15,
+      "price_old": 14.75,
+      "currency": "USD",
+      "discount_pct": 58.3,
+      "rating": 4.5,
+      "condition": "coupon",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81XbGZap+DL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CFW7S82B/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19772547",
+      "published_at": "2026-07-17T16:16:18+00:00",
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
+    },
+    {
+      "asin": "B0D7N73XTQ",
+      "title": "54-Piece Melissa & Doug Connectable Wooden Building Blocks Play Set Toy at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.19,
+      "price_old": 32.99,
+      "currency": "USD",
+      "discount_pct": 60.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21010875.thumb",
+      "url": "https://amazon.com/dp/B0D7N73XTQ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19772442",
+      "published_at": "2026-07-17T16:16:18+00:00",
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
+    },
+    {
+      "asin": "B09NDZ41M1",
+      "title": "42.5mm Casio Men's Diver Style Stainless Steel Watch (Blue Dial) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 32.97,
+      "price_old": 54.95,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": 4.6,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/71KImFTMxaL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09NDZ41M1/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19772844",
+      "published_at": "2026-07-17T16:16:18+00:00",
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
+    },
+    {
+      "asin": "B0DT9BG2NG",
+      "title": "G Gradual Men's Athletic Running Shorts with Zipper Pockets Quick Dry 7\"/ 5\"/ 9\"",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.74,
+      "price_old": 19.99,
+      "currency": "USD",
+      "discount_pct": 36.3,
+      "rating": 4.5,
+      "condition": "code",
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://m.media-amazon.com/images/I/71zQ7hga1hL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DT9BG2NG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19773438",
+      "published_at": "2026-07-17T16:16:18+00:00",
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
+    },
+    {
+      "asin": "B09DLGZNHS",
+      "title": "Cold Steel Kyoto II 3-3/8\" Fixed Blade Drop Point Knife w/ Kray-Ex Handle & Sheath",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 22.54,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 35.6,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/4/9/0/0/1/2/450x450/21008910.thumb",
+      "url": "https://amazon.com/dp/B09DLGZNHS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19771632",
+      "published_at": "2026-07-17T16:16:18+00:00",
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
+    },
     {
       "asin": "B0FMDYT9D5",
       "title": "50\" x 60\" BEDELITE Chunky Cable Knit Throw Blanket (2 Colors)",
@@ -155,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769886",
       "published_at": "2026-07-17T14:16:15+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
     },
     {
       "asin": "B0FMX58Y3H",
@@ -177,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773153",
       "published_at": "2026-07-17T14:16:15+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
     },
     {
       "asin": "B0GY89X4PJ",
@@ -199,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769205",
       "published_at": "2026-07-17T14:16:15+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
     },
     {
       "asin": "B0GQ69HQDR",
@@ -507,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19766406",
       "published_at": "2026-07-17T12:16:04+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
     },
     {
       "asin": "B01MZF6LL2",
@@ -815,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19771821",
       "published_at": "2026-07-17T04:31:28+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
     },
     {
       "asin": "B0GKNH1HVM",
@@ -947,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770255",
       "published_at": "2026-07-17T00:32:05+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
     },
     {
       "asin": "B0GXDH4RTW",
@@ -2091,29 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769052",
       "published_at": "2026-07-16T17:49:13+00:00",
-      "revalidated_at": "2026-07-17T14:01:05+00:00"
-    },
-    {
-      "asin": "B0DM9R1QK3",
-      "title": "28-Pc Klein Tools KNECT Essential Pass Through SAE Metric Impact Socket Set",
-      "title_es": "Set de Vasos de Impacto Pasantes Klein Tools KNECT Essential (28 Piezas SAE/Métrico)",
-      "headline": null,
-      "post": "Este completo set de 28 vasos de impacto pasantes Klein Tools KNECT es esencial para trabajos mecánicos y reparaciones. Incluye tamaños SAE y métricos, ideal para profesionales y entusiastas del bricolaje. 🛠️",
-      "post_en": "This comprehensive 28-piece Klein Tools KNECT pass-through impact socket set is essential for mechanical work and repairs. It includes both SAE and metric sizes, ideal for professionals and DIY enthusiasts. 🛠️",
-      "price_new": 65.0,
-      "price_old": 99.98,
-      "currency": "USD",
-      "discount_pct": 35.0,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81IpCh7kS6L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DM9R1QK3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19768335",
-      "published_at": "2026-07-16T17:49:13+00:00",
-      "revalidated_at": "2026-07-17T14:01:05+00:00"
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
     },
     {
       "asin": "B07MS7G7RZ",
@@ -2135,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19767975",
       "published_at": "2026-07-16T13:06:36+00:00",
-      "revalidated_at": "2026-07-17T14:01:05+00:00"
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
     },
     {
       "asin": "B0DRW69F3D",
@@ -2289,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19766466",
       "published_at": "2026-07-16T09:46:21+00:00",
-      "revalidated_at": "2026-07-17T14:01:05+00:00"
+      "revalidated_at": "2026-07-17T16:16:18+00:00"
     },
     {
       "asin": "B0795DP124",
@@ -2532,28 +2620,6 @@
       "deal_key": "sd:19764039",
       "published_at": "2026-07-16T05:30:53+00:00",
       "revalidated_at": "2026-07-17T15:16:05+00:00"
-    },
-    {
-      "asin": "B077PJDPP3",
-      "title": "7\" Bellemain Heavy-Duty Cast Iron Burger Press w/ Wood Handle",
-      "title_es": "Prensa de hamburguesas de hierro fundido Bellemain de 7\" con mango de madera",
-      "headline": null,
-      "post": "Esta prensa de hamburguesas de hierro fundido de Bellemain te permite crear hamburguesas uniformes y compactas fácilmente. Su diseño resistente con mango de madera es ideal para quienes disfrutan preparando sus propias hamburguesas caseras con un acabado profesional.",
-      "post_en": "This Bellemain heavy-duty cast iron burger press helps you create uniformly shaped and compact burgers with ease. Its robust design with a wood handle is perfect for anyone who enjoys making their own homemade burgers with a professional finish.",
-      "price_new": 14.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 57.2,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81eKUgpz3wL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B077PJDPP3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19767444",
-      "published_at": "2026-07-16T04:46:00+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
     }
   ]
 }
