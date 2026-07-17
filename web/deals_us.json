@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-17T16:16:18+00:00",
+  "generated_at": "2026-07-17T16:31:23+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B01F36JEXE",
+      "title": "5-Piece BEAKEY Makeup Sponge Set (Latex-Free, 5 Colors)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.69,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 92.3,
+      "rating": 4.6,
+      "condition": "code",
+      "code": "ZE6L3BVO",
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/61NT06UijtL._SL1100_.jpg",
+      "url": "https://amazon.com/dp/B01F36JEXE/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19773978",
+      "published_at": "2026-07-17T16:31:23+00:00",
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
+    },
     {
       "asin": "B0CFW7S82B",
       "title": "12-Pk 2.5-Oz Chicken of the Sea Wild Caught Light Tuna (Sweet & Spicy)",
@@ -221,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773087",
       "published_at": "2026-07-17T14:31:04+00:00",
-      "revalidated_at": "2026-07-17T14:31:04+00:00"
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
     },
     {
       "asin": "B06XYYF4BG",
@@ -243,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773132",
       "published_at": "2026-07-17T14:31:04+00:00",
-      "revalidated_at": "2026-07-17T14:31:04+00:00"
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
     },
     {
       "asin": "B0GGDKR8G7",
@@ -595,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19772886",
       "published_at": "2026-07-17T12:30:57+00:00",
-      "revalidated_at": "2026-07-17T14:31:04+00:00"
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
     },
     {
       "asin": "B07K2KN7D7",
@@ -749,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19771206",
       "published_at": "2026-07-17T10:31:42+00:00",
-      "revalidated_at": "2026-07-17T14:31:04+00:00"
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
     },
     {
       "asin": "B0BWRN986Y",
@@ -771,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769118",
       "published_at": "2026-07-17T08:31:33+00:00",
-      "revalidated_at": "2026-07-17T14:31:04+00:00"
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
     },
     {
       "asin": "B08BTMXSG6",
@@ -815,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19771170",
       "published_at": "2026-07-17T06:46:34+00:00",
-      "revalidated_at": "2026-07-17T14:31:04+00:00"
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
     },
     {
       "asin": "B0D4NK52ZX",
@@ -1079,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769103",
       "published_at": "2026-07-17T00:32:05+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
     },
     {
       "asin": "B0DWN68V6C",
@@ -1101,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770330",
       "published_at": "2026-07-17T00:32:05+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
     },
     {
       "asin": "B0DFHW4CYM",
@@ -1123,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19771029",
       "published_at": "2026-07-17T00:32:05+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
     },
     {
       "asin": "B0G2P871L8",
@@ -1145,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19771041",
       "published_at": "2026-07-17T00:32:05+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
     },
     {
       "asin": "B0GTQ8CDW4",
@@ -2446,28 +2468,6 @@
       "revalidated_at": "2026-07-17T15:01:23+00:00"
     },
     {
-      "asin": "B0D6274PNZ",
-      "title": "28-Pack Emergen-C Kidz Immune Plus Vitamin C Crystals (Tropical Punch)",
-      "title_es": "Pack de 28 sobres de cristales Emergen-C Kidz Immune Plus Vitamina C (Tropical Punch)",
-      "headline": null,
-      "post": "Estos cristales Emergen-C Kidz Immune Plus de Vitamina C son una forma deliciosa y fácil de apoyar el sistema inmunitario de los niños. Vienen en sabor Tropical Punch y son perfectos para el día a día. 🍊",
-      "post_en": "These Emergen-C Kidz Immune Plus Vitamin C Crystals are a delicious and easy way to support children's immune systems. They come in Tropical Punch flavor and are perfect for daily use. 🍊",
-      "price_new": 3.81,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 89.1,
-      "rating": 4.8,
-      "condition": "coupon",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/818kNYwSfOL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D6274PNZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19767897",
-      "published_at": "2026-07-16T08:16:22+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
-    },
-    {
       "asin": "B0GTYK375G",
       "title": "Amazon - Wireless Charger for Samsung, 3-in-1 Android Charging Station | Phone and Watch Charger -",
       "title_es": "Cargador inalámbrico 3 en 1 para Samsung y Android (teléfono y reloj)",
@@ -2487,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19767150",
       "published_at": "2026-07-16T08:16:22+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
     },
     {
       "asin": "B000PKOPQU",
@@ -2509,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19767867",
       "published_at": "2026-07-16T08:01:15+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
     },
     {
       "asin": "B08Q74NX8D",
@@ -2575,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752330",
       "published_at": "2026-07-16T06:46:16+00:00",
-      "revalidated_at": "2026-07-17T14:16:15+00:00"
+      "revalidated_at": "2026-07-17T16:31:23+00:00"
     },
     {
       "asin": "B0F7T7TZPB",
