@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T21:00:42+00:00",
+  "generated_at": "2026-07-17T21:15:50+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B01N6NIVPG",
@@ -177,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773537",
       "published_at": "2026-07-17T19:16:02+00:00",
-      "revalidated_at": "2026-07-17T19:16:02+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     },
     {
       "asin": "B00M30RXG4",
@@ -234,11 +234,11 @@
       "price_old": 39.95,
       "currency": "USD",
       "discount_pct": 40.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21011259.thumb",
+      "image": "https://m.media-amazon.com/images/I/61WO0jdz7yL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B09NCPN559/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19772583",
@@ -278,11 +278,11 @@
       "price_old": 59.99,
       "currency": "USD",
       "discount_pct": 50.3,
-      "rating": null,
+      "rating": 4.1,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/20980365.thumb",
+      "image": "https://m.media-amazon.com/images/I/71asiEFCYDL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GY7NFVKH/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19759377",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773636",
       "published_at": "2026-07-17T17:16:06+00:00",
-      "revalidated_at": "2026-07-17T19:16:02+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     },
     {
       "asin": "B00006IE7K",
@@ -573,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769703",
       "published_at": "2026-07-17T15:31:23+00:00",
-      "revalidated_at": "2026-07-17T19:16:02+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     },
     {
       "asin": "B0G1M9LS6H",
@@ -595,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769850",
       "published_at": "2026-07-17T15:31:23+00:00",
-      "revalidated_at": "2026-07-17T19:16:02+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     },
     {
       "asin": "B0G7T39WMG",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773018",
       "published_at": "2026-07-17T13:31:16+00:00",
-      "revalidated_at": "2026-07-17T19:16:02+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     },
     {
       "asin": "B0F21ZJHMY",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773189",
       "published_at": "2026-07-17T13:31:16+00:00",
-      "revalidated_at": "2026-07-17T19:16:02+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     },
     {
       "asin": "B07DMBYH4S",
@@ -837,29 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19768590",
       "published_at": "2026-07-17T13:31:16+00:00",
-      "revalidated_at": "2026-07-17T19:16:02+00:00"
-    },
-    {
-      "asin": "B0FHJ8MMK8",
-      "title": "820-Piece Mattel Brick Shop Hot Wheels '15 Audi R8 LMS Building Set at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 31.99,
-      "price_old": 53.99,
-      "currency": "USD",
-      "discount_pct": 40.7,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21004503.thumb",
-      "url": "https://amazon.com/dp/B0FHJ8MMK8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19769649",
-      "published_at": "2026-07-17T13:31:16+00:00",
-      "revalidated_at": "2026-07-17T19:16:02+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     },
     {
       "asin": "B0F5LPQZPT",
@@ -2355,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769178",
       "published_at": "2026-07-16T19:02:03+00:00",
-      "revalidated_at": "2026-07-17T19:01:09+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     },
     {
       "asin": "B0DX2K5L11",
@@ -2377,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769292",
       "published_at": "2026-07-16T19:02:03+00:00",
-      "revalidated_at": "2026-07-17T19:01:09+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     },
     {
       "asin": "B0DSGQ4C2J",
@@ -2399,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770114",
       "published_at": "2026-07-16T19:02:03+00:00",
-      "revalidated_at": "2026-07-17T19:01:09+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     },
     {
       "asin": "B07LHB3B2Q",
@@ -2553,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19768113",
       "published_at": "2026-07-16T11:16:23+00:00",
-      "revalidated_at": "2026-07-17T19:01:09+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     },
     {
       "asin": "B0FRNNTHML",
@@ -2575,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19767912",
       "published_at": "2026-07-16T11:01:44+00:00",
-      "revalidated_at": "2026-07-17T19:01:09+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     },
     {
       "asin": "B0CW25XR5R",
@@ -2597,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19766184",
       "published_at": "2026-07-16T11:01:44+00:00",
-      "revalidated_at": "2026-07-17T19:01:09+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     },
     {
       "asin": "B0FJ28QX2C",
@@ -2641,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19768221",
       "published_at": "2026-07-16T10:46:29+00:00",
-      "revalidated_at": "2026-07-17T19:01:09+00:00"
+      "revalidated_at": "2026-07-17T21:15:50+00:00"
     }
   ]
 }
