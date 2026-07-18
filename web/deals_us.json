@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T03:30:20+00:00",
+  "generated_at": "2026-07-18T03:45:19+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0FPGGHTPM",
@@ -36,11 +36,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 83.9,
-      "rating": null,
+      "rating": 4.7,
       "condition": "code",
       "code": "BELOW",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/21018057.thumb",
+      "image": "https://m.media-amazon.com/images/I/71aKqrcl9tL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DY7WGRWG/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19775313",
@@ -80,11 +80,11 @@
       "price_old": 39.99,
       "currency": "USD",
       "discount_pct": 30.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/20969895.thumb",
+      "image": "https://m.media-amazon.com/images/I/81+QRQDk9TL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BXHH7J4N/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19754847",
@@ -551,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773732",
       "published_at": "2026-07-17T22:00:52+00:00",
-      "revalidated_at": "2026-07-18T01:45:14+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B01N6NIVPG",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19759377",
       "published_at": "2026-07-17T18:01:12+00:00",
-      "revalidated_at": "2026-07-18T01:45:14+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B07NT7RVJF",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19772547",
       "published_at": "2026-07-17T16:16:18+00:00",
-      "revalidated_at": "2026-07-18T01:45:14+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B0D7N73XTQ",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19772442",
       "published_at": "2026-07-17T16:16:18+00:00",
-      "revalidated_at": "2026-07-18T01:45:14+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B09NDZ41M1",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19772844",
       "published_at": "2026-07-17T16:16:18+00:00",
-      "revalidated_at": "2026-07-18T01:45:14+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B0DT9BG2NG",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773438",
       "published_at": "2026-07-17T16:16:18+00:00",
-      "revalidated_at": "2026-07-18T01:45:14+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B09DLGZNHS",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19771632",
       "published_at": "2026-07-17T16:16:18+00:00",
-      "revalidated_at": "2026-07-18T01:45:14+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B0FMDYT9D5",
@@ -1212,28 +1212,6 @@
       "deal_key": "sd:19773132",
       "published_at": "2026-07-17T14:31:04+00:00",
       "revalidated_at": "2026-07-18T02:15:17+00:00"
-    },
-    {
-      "asin": "B0GGDKR8G7",
-      "title": "TISSCARE Vibration Plate Exercise Machine w/ 4 Preset Programs & 99 Speed Levels",
-      "title_es": "Plataforma Vibratoria TISSCARE con 4 Programas y 99 Niveles de Velocidad",
-      "headline": null,
-      "post": "Mejora tu entrenamiento con esta plataforma vibratoria TISSCARE, que ofrece 4 programas preestablecidos y 99 niveles de velocidad para una rutina personalizable. Es ideal para tonificar músculos y mejorar la circulación desde casa.",
-      "post_en": "Enhance your workout with this TISSCARE vibration plate, offering 4 preset programs and 99 speed levels for a customizable routine. It's ideal for muscle toning and improving circulation from home.",
-      "price_new": 44.99,
-      "price_old": 124.99,
-      "currency": "USD",
-      "discount_pct": 64.0,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "2PJUIHL7",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61iBux+kGVL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GGDKR8G7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19769886",
-      "published_at": "2026-07-17T14:16:15+00:00",
-      "revalidated_at": "2026-07-18T01:45:14+00:00"
     },
     {
       "asin": "B0GY89X4PJ",
@@ -2069,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19764801",
       "published_at": "2026-07-16T23:47:00+00:00",
-      "revalidated_at": "2026-07-18T01:30:28+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B08YJDKMF6",
@@ -2091,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769532",
       "published_at": "2026-07-16T23:31:38+00:00",
-      "revalidated_at": "2026-07-18T01:30:28+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B0DPLL3428",
@@ -2113,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770894",
       "published_at": "2026-07-16T23:31:38+00:00",
-      "revalidated_at": "2026-07-18T01:30:28+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B0GX9TXR26",
@@ -2355,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770009",
       "published_at": "2026-07-16T22:16:50+00:00",
-      "revalidated_at": "2026-07-18T01:30:28+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B0CWH7368P",
@@ -2377,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770717",
       "published_at": "2026-07-16T22:16:50+00:00",
-      "revalidated_at": "2026-07-18T01:30:28+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B0FDB9MJL2",
@@ -2399,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765545",
       "published_at": "2026-07-16T22:16:50+00:00",
-      "revalidated_at": "2026-07-18T01:30:28+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B0GSQDPKP4",
@@ -2421,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770855",
       "published_at": "2026-07-16T22:01:46+00:00",
-      "revalidated_at": "2026-07-18T01:30:28+00:00"
+      "revalidated_at": "2026-07-18T03:45:19+00:00"
     },
     {
       "asin": "B0GHY4P18C",
