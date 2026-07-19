@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-19T21:31:40+00:00",
+  "generated_at": "2026-07-19T21:46:41+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B0FRB4CWHD",
+      "title": "12-Pk 14-Oz Ensure Max Protein Shake (French Vanilla)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.15,
+      "price_old": 47.76,
+      "currency": "USD",
+      "discount_pct": 72.5,
+      "rating": 4.7,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/618k4ZGfFTL._AC_SL1300_.jpg",
+      "url": "https://amazon.com/dp/B0FRB4CWHD/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19781667",
+      "published_at": "2026-07-19T21:46:41+00:00",
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
+    },
     {
       "asin": "B0D2X8GBZ2",
       "title": "Logitech K345 Wireless Keyboard w/ Palm Rest",
@@ -155,29 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19757853",
       "published_at": "2026-07-19T20:01:15+00:00",
-      "revalidated_at": "2026-07-19T20:01:15+00:00"
-    },
-    {
-      "asin": "B0DW9K8MKC",
-      "title": "Barkbone Chew Ring, Chamomile Vanilla Flavored Nylon Chew Bone Dog Toy, 5.75\"",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 7.83,
-      "price_old": 13.99,
-      "currency": "USD",
-      "discount_pct": 44.0,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71WzW0ZPlRL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DW9K8MKC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19771281",
-      "published_at": "2026-07-19T20:01:15+00:00",
-      "revalidated_at": "2026-07-19T20:01:15+00:00"
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
     },
     {
       "asin": "B0DBXDCYNQ",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770369",
       "published_at": "2026-07-19T18:31:09+00:00",
-      "revalidated_at": "2026-07-19T20:01:15+00:00"
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
     },
     {
       "asin": "B0798GPBYN",
@@ -881,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19756626",
       "published_at": "2026-07-19T07:46:34+00:00",
-      "revalidated_at": "2026-07-19T19:58:25+00:00"
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
     },
     {
       "asin": "B0BMX9KRDN",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19777092",
       "published_at": "2026-07-19T07:46:34+00:00",
-      "revalidated_at": "2026-07-19T19:58:25+00:00"
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
     },
     {
       "asin": "B0D7WZV5LV",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19752006",
       "published_at": "2026-07-19T04:17:19+00:00",
-      "revalidated_at": "2026-07-19T20:01:15+00:00"
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
     },
     {
       "asin": "B0FMYW35D4",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754280",
       "published_at": "2026-07-19T03:46:29+00:00",
-      "revalidated_at": "2026-07-19T19:58:25+00:00"
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
     },
     {
       "asin": "B0GVMQLBPW",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19778664",
       "published_at": "2026-07-19T03:46:29+00:00",
-      "revalidated_at": "2026-07-19T19:58:25+00:00"
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
     },
     {
       "asin": "B0GKGS1FSC",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19777884",
       "published_at": "2026-07-19T02:16:36+00:00",
-      "revalidated_at": "2026-07-19T20:01:15+00:00"
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
     },
     {
       "asin": "B0C42DMPRF",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19767936",
       "published_at": "2026-07-19T02:16:36+00:00",
-      "revalidated_at": "2026-07-19T20:01:15+00:00"
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
     },
     {
       "asin": "B0DHH81K13",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19768683",
       "published_at": "2026-07-19T02:16:36+00:00",
-      "revalidated_at": "2026-07-19T20:01:15+00:00"
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
     },
     {
       "asin": "B0D4215HCX",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770426",
       "published_at": "2026-07-19T02:02:21+00:00",
-      "revalidated_at": "2026-07-19T19:58:25+00:00"
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
     },
     {
       "asin": "B0DQ82FJST",
@@ -1343,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770399",
       "published_at": "2026-07-19T01:46:55+00:00",
-      "revalidated_at": "2026-07-19T20:01:15+00:00"
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
     },
     {
       "asin": "B0036QO8M6",
@@ -2597,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763592",
       "published_at": "2026-07-18T00:00:55+00:00",
-      "revalidated_at": "2026-07-19T19:58:25+00:00"
+      "revalidated_at": "2026-07-19T21:46:41+00:00"
     },
     {
       "asin": "B0DG8J6R1F",
