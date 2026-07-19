@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-07-19T17:46:03+00:00",
+  "generated_at": "2026-07-19T18:01:38+00:00",
   "market": "us",
-  "count": 118,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0BMX8N6XB",
+      "title": "Logitech POP Wireless Mouse (Cosmos or Rose)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 65.7,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/51zBxgfnZkL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0BMX8N6XB/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19777803",
+      "published_at": "2026-07-19T18:01:38+00:00",
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
+    },
+    {
+      "asin": "B0GHRY5YRG",
+      "title": "Amazon - Smart Watches for Men or Women with Alexa/AI Voice & Call & Health Monitor/Fitness Tracking Watch for iPhone & Android & Samsung -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 21.99,
+      "price_old": 59.99,
+      "currency": "USD",
+      "discount_pct": 63.3,
+      "rating": 4.3,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61E5dfrmzuL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GHRY5YRG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19777227",
+      "published_at": "2026-07-19T18:01:38+00:00",
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
+    },
+    {
+      "asin": "B00B7EUS46",
+      "title": "$109.99** | SKILSAW 7-14/\" 15 Amp Corded Worm Drive Circular Saw at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 109.99,
+      "price_old": 219.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.3,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61fhPDP5iUL._AC_SL1000_.jpg",
+      "url": "https://amazon.com/dp/B00B7EUS46/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19781862",
+      "published_at": "2026-07-19T18:01:38+00:00",
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
+    },
+    {
+      "asin": "B0F9DWFSHP",
+      "title": "Logitech Bolt USB-C Receiver",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.24,
+      "price_old": 13.49,
+      "currency": "USD",
+      "discount_pct": 46.3,
+      "rating": 4.6,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/31PGBcTnMeL._AC_SL1000_.jpg",
+      "url": "https://amazon.com/dp/B0F9DWFSHP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19781610",
+      "published_at": "2026-07-19T18:01:38+00:00",
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
+    },
+    {
+      "asin": "B0F621X769",
+      "title": "Lamicall Dual Magnetic Silicone Cable Organizer Clips: 8-Pack",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.0,
+      "price_old": 6.0,
+      "currency": "USD",
+      "discount_pct": 33.3,
+      "rating": 4.2,
+      "condition": "code",
+      "code": "EALP9ZXU",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61ARaGUKpPL._AC_SL1300_.jpg",
+      "url": "https://amazon.com/dp/B0F621X769/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19762794",
+      "published_at": "2026-07-19T18:01:38+00:00",
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
+    },
     {
       "asin": "B0FH7PWF4Q",
       "title": "Hyperkin Travel Kit Accessories Bundle w/ Hard Carrying Case for Nintendo Switch 2",
@@ -67,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19780719",
       "published_at": "2026-07-19T16:31:21+00:00",
-      "revalidated_at": "2026-07-19T16:31:21+00:00"
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
     },
     {
       "asin": "B0F37L2DRC",
@@ -89,29 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19781256",
       "published_at": "2026-07-19T16:31:21+00:00",
-      "revalidated_at": "2026-07-19T16:31:21+00:00"
-    },
-    {
-      "asin": "B08ZQBTYTZ",
-      "title": "(Amazon Business) KitchenAid Classic Rubberwood Cutting Board: 8x10",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 1.92,
-      "price_old": 3.52,
-      "currency": "USD",
-      "discount_pct": 45.5,
-      "rating": 4.1,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61aoM+eFXfL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B08ZQBTYTZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19781820",
-      "published_at": "2026-07-19T16:31:21+00:00",
-      "revalidated_at": "2026-07-19T16:31:21+00:00"
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
     },
     {
       "asin": "B0CQ2YRH79",
@@ -221,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19780710",
       "published_at": "2026-07-19T14:45:56+00:00",
-      "revalidated_at": "2026-07-19T16:31:21+00:00"
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
     },
     {
       "asin": "B07V3STXT5",
@@ -331,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19781034",
       "published_at": "2026-07-19T13:01:15+00:00",
-      "revalidated_at": "2026-07-19T16:31:21+00:00"
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
     },
     {
       "asin": "B0DJ1BH9T1",
@@ -441,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19757895",
       "published_at": "2026-07-19T09:30:53+00:00",
-      "revalidated_at": "2026-07-19T16:31:21+00:00"
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
     },
     {
       "asin": "B08QRYXSQT",
@@ -463,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19777923",
       "published_at": "2026-07-19T09:30:53+00:00",
-      "revalidated_at": "2026-07-19T16:31:21+00:00"
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
     },
     {
       "asin": "B074ZJSSNB",
@@ -507,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19756626",
       "published_at": "2026-07-19T07:46:34+00:00",
-      "revalidated_at": "2026-07-19T16:31:21+00:00"
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
     },
     {
       "asin": "B0BMX9KRDN",
@@ -529,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19777092",
       "published_at": "2026-07-19T07:46:34+00:00",
-      "revalidated_at": "2026-07-19T16:31:21+00:00"
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
     },
     {
       "asin": "B0D7WZV5LV",
@@ -2355,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763592",
       "published_at": "2026-07-18T00:00:55+00:00",
-      "revalidated_at": "2026-07-19T16:16:18+00:00"
+      "revalidated_at": "2026-07-19T18:01:38+00:00"
     },
     {
       "asin": "B0DG8J6R1F",
@@ -2532,72 +2620,6 @@
       "deal_key": "sd:19761807",
       "published_at": "2026-07-17T20:32:14+00:00",
       "revalidated_at": "2026-07-19T16:38:52+00:00"
-    },
-    {
-      "asin": "B0F4MKTZGM",
-      "title": "Sennheiser ACCENTUM Open True Wireless Bluetooth Earbuds (Pink Blush)",
-      "title_es": "Auriculares inalámbricos Bluetooth Sennheiser ACCENTUM Open True (rosa rubor)",
-      "headline": null,
-      "post": "Los auriculares Sennheiser ACCENTUM Open True Wireless en rosa rubor ofrecen una experiencia de audio inmersiva con libertad total de movimiento. Son ideales para amantes de la música que buscan calidad de sonido y comodidad sin cables. 🎧",
-      "post_en": "The Sennheiser ACCENTUM Open True Wireless earbuds in Pink Blush offer an immersive audio experience with complete freedom of movement. They are ideal for music lovers seeking sound quality and wireless convenience. 🎧",
-      "price_new": 39.95,
-      "price_old": 129.99,
-      "currency": "USD",
-      "discount_pct": 69.3,
-      "rating": 4.1,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/6101MpTn3ML._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F4MKTZGM/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19769433",
-      "published_at": "2026-07-17T19:31:06+00:00",
-      "revalidated_at": "2026-07-19T17:31:02+00:00"
-    },
-    {
-      "asin": "B0FL22ZBBG",
-      "title": "CINCOM Cordless Leg Massager, Air Compression for Pain & Circulation",
-      "title_es": "Masajeador de piernas inalámbrico CINCOM, compresión de aire para dolor y circulación",
-      "headline": null,
-      "post": "El masajeador de piernas inalámbrico CINCOM utiliza compresión de aire para aliviar el dolor y mejorar la circulación. Es perfecto para quienes buscan relajación y bienestar en casa después de un largo día. ✨",
-      "post_en": "The CINCOM Cordless Leg Massager uses air compression to relieve pain and improve circulation. It's perfect for those seeking relaxation and well-being at home after a long day. ✨",
-      "price_new": 70.0,
-      "price_old": 199.0,
-      "currency": "USD",
-      "discount_pct": 64.8,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/712AtlWv6DL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FL22ZBBG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19764720",
-      "published_at": "2026-07-17T19:31:06+00:00",
-      "revalidated_at": "2026-07-19T17:31:02+00:00"
-    },
-    {
-      "asin": "B07DPTCX6J",
-      "title": "Swarovski Stilla Attract Trilogy Round Pendant Necklace - Women's White Round Crystal Pendant with Rhodium Plated Chain",
-      "title_es": "Collar Swarovski Stilla Attract Trilogy Round con colgante de cristal blanco y cadena rodiada.",
-      "headline": null,
-      "post": "Este elegante collar Swarovski presenta un colgante redondo con tres cristales blancos, ideal para añadir un toque de sofisticación a cualquier atuendo. Su cadena rodiada lo hace perfecto para mujeres que buscan una joya versátil y brillante. ✨",
-      "post_en": "This elegant Swarovski necklace features a round pendant with three white crystals, ideal for adding a touch of sophistication to any outfit. Its rhodium-plated chain makes it perfect for women looking for a versatile and brilliant piece of jewelry. ✨",
-      "price_new": 65.7,
-      "price_old": 119.0,
-      "currency": "USD",
-      "discount_pct": 44.8,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61T3xla2UPL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07DPTCX6J/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19756074",
-      "published_at": "2026-07-17T19:31:06+00:00",
-      "revalidated_at": "2026-07-19T17:44:03+00:00"
     }
   ]
 }
