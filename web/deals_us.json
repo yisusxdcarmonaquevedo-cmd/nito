@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T04:08:30+00:00",
+  "generated_at": "2026-07-20T04:16:15+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
     {
       "asin": "B0CQRTXCCS",
@@ -14,11 +14,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 96.3,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/21037254.thumb",
+      "image": "https://m.media-amazon.com/images/I/71jp3Fh-vPL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CQRTXCCS/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19783287",
@@ -661,29 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19779369",
       "published_at": "2026-07-19T22:16:46+00:00",
-      "revalidated_at": "2026-07-20T02:31:08+00:00"
-    },
-    {
-      "asin": "B0FHHHHXJH",
-      "title": "PQRQP Ring Light for Desk, Soft Lighting for Zoom & Video Calls, Selfie Light with Stand & Phone Holder, CRI 97+ Webcam Light for Recording, Streaming, Home Office",
-      "title_es": "Anillo de luz PQRQP para escritorio con soporte y soporte para teléfono",
-      "headline": null,
-      "post": "El anillo de luz PQRQP proporciona una iluminación suave y profesional para tus videollamadas, grabaciones o streaming. Incluye soporte y soporte para teléfono, ideal para mejorar tu presencia en línea desde casa.",
-      "post_en": "The PQRQP Ring Light provides soft, professional lighting for your video calls, recordings, or streaming. It includes a stand and phone holder, ideal for enhancing your online presence from home.",
-      "price_new": 15.0,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 75.0,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "OJQ6F6B5",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61aHkmeOGiL._AC_SL1254_.jpg",
-      "url": "https://amazon.com/dp/B0FHHHHXJH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19762212",
-      "published_at": "2026-07-19T22:16:46+00:00",
-      "revalidated_at": "2026-07-20T02:31:08+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0GYD9GN9N",
@@ -1167,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776288",
       "published_at": "2026-07-19T17:16:09+00:00",
-      "revalidated_at": "2026-07-20T02:31:08+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0DWBD4F6B",
@@ -1299,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776093",
       "published_at": "2026-07-19T15:41:42+00:00",
-      "revalidated_at": "2026-07-20T02:31:08+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0D2PNT1W1",
@@ -1321,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19753323",
       "published_at": "2026-07-19T15:41:42+00:00",
-      "revalidated_at": "2026-07-20T02:31:08+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0015SBILG",
@@ -1629,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19775928",
       "published_at": "2026-07-19T06:48:20+00:00",
-      "revalidated_at": "2026-07-20T02:31:08+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0DPQQL14B",
@@ -1893,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19764183",
       "published_at": "2026-07-19T02:46:38+00:00",
-      "revalidated_at": "2026-07-20T02:31:08+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0GHYNVYMD",
@@ -1981,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19768683",
       "published_at": "2026-07-19T02:16:36+00:00",
-      "revalidated_at": "2026-07-20T02:16:16+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0D4215HCX",
@@ -2003,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770426",
       "published_at": "2026-07-19T02:02:21+00:00",
-      "revalidated_at": "2026-07-20T02:16:16+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0DQ82FJST",
@@ -2025,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770399",
       "published_at": "2026-07-19T01:46:55+00:00",
-      "revalidated_at": "2026-07-20T02:16:16+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0036QO8M6",
@@ -2091,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776087",
       "published_at": "2026-07-19T00:47:04+00:00",
-      "revalidated_at": "2026-07-20T02:31:08+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0D355W5F2",
@@ -2157,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19772466",
       "published_at": "2026-07-19T00:17:13+00:00",
-      "revalidated_at": "2026-07-20T02:31:08+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0F8QFCH51",
@@ -2179,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776546",
       "published_at": "2026-07-19T00:02:46+00:00",
-      "revalidated_at": "2026-07-20T02:31:08+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0CJJZ3CJ7",
@@ -2201,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776174",
       "published_at": "2026-07-19T00:02:46+00:00",
-      "revalidated_at": "2026-07-20T02:31:08+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0D62W141K",
@@ -2289,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19777098",
       "published_at": "2026-07-18T22:32:27+00:00",
-      "revalidated_at": "2026-07-20T02:31:08+00:00"
+      "revalidated_at": "2026-07-20T04:16:15+00:00"
     },
     {
       "asin": "B0G12HGHGM",
