@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-20T18:45:04+00:00",
+  "generated_at": "2026-07-20T19:01:23+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0D8N1HP7F",
+      "title": "Imaginary Steelbook Edition 4K UHD + Blu Ray + Digital",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.49,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 79.2,
+      "rating": 4.2,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81QrPvm11vL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0D8N1HP7F/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19775601",
+      "published_at": "2026-07-20T19:01:23+00:00",
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
+    },
     {
       "asin": "B0DRW5WSFG",
       "title": "$6.99** | 79-Piece LEGO Ninjago: Dragons Rising Season 3 - Kai's Motorcycle Speed Race (71838, 2025) at Amazon",
@@ -202,28 +224,6 @@
       "revalidated_at": "2026-07-20T17:31:18+00:00"
     },
     {
-      "asin": "B000IOCJK2",
-      "title": "Swanson 12\" Big Speed Square Layout Tool with Blue Book",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 3.2,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 90.9,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/710FQtk9NpL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B000IOCJK2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19785942",
-      "published_at": "2026-07-20T15:16:35+00:00",
-      "revalidated_at": "2026-07-20T17:01:23+00:00"
-    },
-    {
       "asin": "B0FST4FTPQ",
       "title": "$49** | Crimson Desert: Standard Edition (PlayStation 5) at Amazon",
       "title_es": null,
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784484",
       "published_at": "2026-07-20T15:16:35+00:00",
-      "revalidated_at": "2026-07-20T17:01:23+00:00"
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
     },
     {
       "asin": "B001GCU6KA",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782240",
       "published_at": "2026-07-20T13:31:06+00:00",
-      "revalidated_at": "2026-07-20T17:01:23+00:00"
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
     },
     {
       "asin": "B001FA0W5W",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784784",
       "published_at": "2026-07-20T13:31:06+00:00",
-      "revalidated_at": "2026-07-20T17:01:23+00:00"
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
     },
     {
       "asin": "B01AROOL12",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19783740",
       "published_at": "2026-07-20T13:31:06+00:00",
-      "revalidated_at": "2026-07-20T17:01:23+00:00"
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
     },
     {
       "asin": "B0DWX4YTLJ",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19767681",
       "published_at": "2026-07-20T08:00:49+00:00",
-      "revalidated_at": "2026-07-20T17:01:23+00:00"
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
     },
     {
       "asin": "B09F5S9XTR",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19780503",
       "published_at": "2026-07-20T02:46:28+00:00",
-      "revalidated_at": "2026-07-20T17:01:23+00:00"
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
     },
     {
       "asin": "B0CN1P8G4W",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19779369",
       "published_at": "2026-07-19T22:16:46+00:00",
-      "revalidated_at": "2026-07-20T17:01:23+00:00"
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
     },
     {
       "asin": "B0GYD9GN9N",
@@ -1893,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776093",
       "published_at": "2026-07-19T15:41:42+00:00",
-      "revalidated_at": "2026-07-20T17:01:23+00:00"
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
     },
     {
       "asin": "B0D2PNT1W1",
@@ -1915,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19753323",
       "published_at": "2026-07-19T15:41:42+00:00",
-      "revalidated_at": "2026-07-20T17:01:23+00:00"
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
     },
     {
       "asin": "B0015SBILG",
@@ -2003,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19781034",
       "published_at": "2026-07-19T13:01:15+00:00",
-      "revalidated_at": "2026-07-20T16:46:17+00:00"
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
     },
     {
       "asin": "B0DJ1BH9T1",
@@ -2047,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19777071",
       "published_at": "2026-07-19T11:30:58+00:00",
-      "revalidated_at": "2026-07-20T16:46:17+00:00"
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
     },
     {
       "asin": "B0B5VGZTXH",
@@ -2069,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19779285",
       "published_at": "2026-07-19T11:30:58+00:00",
-      "revalidated_at": "2026-07-20T16:46:17+00:00"
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
     },
     {
       "asin": "B00NR1YIKM",
@@ -2113,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19757895",
       "published_at": "2026-07-19T09:30:53+00:00",
-      "revalidated_at": "2026-07-20T17:01:23+00:00"
+      "revalidated_at": "2026-07-20T19:01:23+00:00"
     },
     {
       "asin": "B08QRYXSQT",
@@ -2619,28 +2619,6 @@
       "source": "slickdeals",
       "deal_key": "sd:19763376",
       "published_at": "2026-07-19T01:02:54+00:00",
-      "revalidated_at": "2026-07-20T18:01:10+00:00"
-    },
-    {
-      "asin": "B0BZ8N65J6",
-      "title": "Indiana Jones and the Last Crusade 4K UHD + Digital Code",
-      "title_es": "Indiana Jones y la Última Cruzada 4K UHD + Código Digital",
-      "headline": null,
-      "post": "Disfruta de la clásica aventura de Indiana Jones y la Última Cruzada en impresionante calidad 4K UHD, incluyendo también un código digital para mayor flexibilidad. Es la oportunidad perfecta para revivir este icónico film con la mejor resolución.",
-      "post_en": "Enjoy the classic adventure of Indiana Jones and the Last Crusade in stunning 4K UHD quality, also including a digital code for added flexibility. It's the perfect opportunity to re-experience this iconic film in the best resolution.",
-      "price_new": 13.49,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 77.5,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81J1hh3e3TL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0BZ8N65J6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19776087",
-      "published_at": "2026-07-19T00:47:04+00:00",
       "revalidated_at": "2026-07-20T18:01:10+00:00"
     }
   ]
