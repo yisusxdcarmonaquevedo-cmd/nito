@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T00:01:57+00:00",
+  "generated_at": "2026-07-20T00:06:57+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -168,11 +168,11 @@
       "price_old": 60.0,
       "currency": "USD",
       "discount_pct": 83.9,
-      "rating": null,
+      "rating": 4.8,
       "condition": "sns",
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/21031185.thumb",
+      "image": "https://m.media-amazon.com/images/I/81IuhG1EPYL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B01N6ZP7F5/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19780500",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19779369",
       "published_at": "2026-07-19T22:16:46+00:00",
-      "revalidated_at": "2026-07-19T22:16:46+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B0FHHHHXJH",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19762212",
       "published_at": "2026-07-19T22:16:46+00:00",
-      "revalidated_at": "2026-07-19T22:16:46+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B0GYD9GN9N",
@@ -798,10 +798,10 @@
     {
       "asin": "B0798GPBYN",
       "title": "32-Ct Green Mountain Dark Magic K-Cup Coffee Pods (Dark Roast)",
-      "title_es": null,
+      "title_es": "Cápsulas de café K-Cup Green Mountain Dark Magic (Tueste Oscuro), 32 unidades",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de un café intenso con estas cápsulas K-Cup de Green Mountain, ideales para tu cafetera compatible. Su tueste oscuro ofrece un sabor rico y profundo, perfecto para empezar el día con energía. ☕",
+      "post_en": "Enjoy an intense coffee with these Green Mountain K-Cup pods, ideal for your compatible coffee maker. Its dark roast offers a rich and deep flavor, perfect for starting your day with energy. ☕",
       "price_new": 8.6,
       "price_old": 20.76,
       "currency": "USD",
@@ -820,10 +820,10 @@
     {
       "asin": "B07M62L77L",
       "title": "Metabo HPT 15 Gauge Angled Finish Nailer, Selective Actuation, NT65MA4",
-      "title_es": null,
+      "title_es": "Clavadora de acabado angular Metabo HPT 15 Gauge, Actuación Selectiva, NT65MA4",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta clavadora de acabado profesional Metabo HPT es perfecta para trabajos de carpintería y ebanistería. Su diseño angular y actuación selectiva facilitan la precisión en proyectos detallados.",
+      "post_en": "This professional Metabo HPT finish nailer is perfect for carpentry and woodworking projects. Its angled design and selective actuation facilitate precision in detailed work.",
       "price_new": 65.4,
       "price_old": 189.0,
       "currency": "USD",
@@ -842,10 +842,10 @@
     {
       "asin": "B0GC2WXX8C",
       "title": "Monster S150 Bluetooth 5.4 Wireless Speaker w/ IPX7 Waterproof & Multi-Channel Connection (Black)",
-      "title_es": null,
+      "title_es": "Altavoz inalámbrico Bluetooth 5.4 Monster S150 con IPX7 y conexión multicanal (Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El altavoz Monster S150 ofrece sonido potente y conexión Bluetooth 5.4 para tu música. Es resistente al agua IPX7 y permite conectar varios altavoces para una experiencia envolvente.",
+      "post_en": "The Monster S150 speaker offers powerful sound and Bluetooth 5.4 connectivity for your music. It's IPX7 waterproof and allows connecting multiple speakers for an immersive experience.",
       "price_new": 21.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -864,10 +864,10 @@
     {
       "asin": "B0GHRY5YRG",
       "title": "Amazon - Smart Watches for Men or Women with Alexa/AI Voice & Call & Health Monitor/Fitness Tracking Watch for iPhone & Android & Samsung -",
-      "title_es": null,
+      "title_es": "Reloj inteligente con Alexa/Voz IA, llamadas y monitor de salud para iPhone y Android",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este smartwatch versátil es compatible con iOS y Android, ofreciendo funciones de monitoreo de salud y seguimiento de actividad física. Incluye asistente de voz Alexa/IA y capacidad para hacer llamadas desde tu muñeca.",
+      "post_en": "This versatile smartwatch is compatible with iOS and Android, offering health monitoring and fitness tracking features. It includes Alexa/AI voice assistant and the ability to make calls from your wrist.",
       "price_new": 21.99,
       "price_old": 59.99,
       "currency": "USD",
@@ -886,10 +886,10 @@
     {
       "asin": "B0F9DWFSHP",
       "title": "Logitech Bolt USB-C Receiver",
-      "title_es": null,
+      "title_es": "Receptor USB-C Logitech Bolt",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El receptor Logitech Bolt USB-C te permite conectar tus dispositivos inalámbricos Logitech compatibles de forma segura. Es ideal para mantener una conexión robusta y fiable con tu ratón o teclado.",
+      "post_en": "The Logitech Bolt USB-C receiver allows you to securely connect your compatible Logitech wireless devices. It's ideal for maintaining a robust and reliable connection with your mouse or keyboard.",
       "price_new": 7.24,
       "price_old": 13.49,
       "currency": "USD",
@@ -908,10 +908,10 @@
     {
       "asin": "B0F621X769",
       "title": "Lamicall Dual Magnetic Silicone Cable Organizer Clips: 8-Pack",
-      "title_es": null,
+      "title_es": "Clips organizadores de cables magnéticos dobles Lamicall de silicona: Pack de 8",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mantén tus cables ordenados y accesibles con este pack de 8 clips magnéticos de silicona Lamicall. Son perfectos para el escritorio, la mesita de noche o cualquier superficie donde necesites organizar cables.",
+      "post_en": "Keep your cables tidy and accessible with this 8-pack of Lamicall dual magnetic silicone cable organizer clips. They are perfect for your desk, nightstand, or any surface where you need to organize cables.",
       "price_new": 4.0,
       "price_old": 6.0,
       "currency": "USD",
@@ -930,10 +930,10 @@
     {
       "asin": "B0FH7PWF4Q",
       "title": "Hyperkin Travel Kit Accessories Bundle w/ Hard Carrying Case for Nintendo Switch 2",
-      "title_es": null,
+      "title_es": "Kit de accesorios de viaje Hyperkin con estuche rígido para Nintendo Switch 2",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este kit de viaje Hyperkin es esencial para proteger y transportar tu Nintendo Switch 2 y sus accesorios. Incluye un estuche rígido resistente y otros complementos útiles para tus aventuras.",
+      "post_en": "This Hyperkin travel kit is essential for protecting and transporting your Nintendo Switch 2 and its accessories. It includes a durable hard carrying case and other useful complements for your adventures.",
       "price_new": 10.38,
       "price_old": 35.0,
       "currency": "USD",
@@ -947,15 +947,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19776288",
       "published_at": "2026-07-19T17:16:09+00:00",
-      "revalidated_at": "2026-07-19T22:03:06+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B0DWBD4F6B",
       "title": "BLOKEES Transformers Classic Class 16 Transformers One Starscream at Amazon",
-      "title_es": null,
+      "title_es": "BLOKEES Transformers Classic Class 16 Transformers One Starscream",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Colecciona a Starscream con esta figura BLOKEES Transformers Classic Class 16, inspirada en Transformers One. Es un regalo ideal para fans de la saga y coleccionistas de Transformers.",
+      "post_en": "Collect Starscream with this BLOKEES Transformers Classic Class 16 figure, inspired by Transformers One. It's an ideal gift for fans of the saga and Transformers collectors.",
       "price_new": 8.3,
       "price_old": 19.99,
       "currency": "USD",
@@ -974,10 +974,10 @@
     {
       "asin": "B09DV8WKK8",
       "title": "Logitech Studio Series Desk Mat (Mid-Grey)",
-      "title_es": null,
+      "title_es": "Alfombrilla de escritorio Logitech Studio Series (Gris Medio)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mejora tu espacio de trabajo con esta alfombrilla de escritorio Logitech Studio Series en gris medio. Ofrece una superficie suave y amplia para tu ratón y teclado, protegiendo tu escritorio.",
+      "post_en": "Enhance your workspace with this Logitech Studio Series Desk Mat in mid-grey. It offers a smooth and spacious surface for your mouse and keyboard, protecting your desk.",
       "price_new": 10.61,
       "price_old": 35.0,
       "currency": "USD",
@@ -996,10 +996,10 @@
     {
       "asin": "B0F37L2DRC",
       "title": "Logitech MK250 Bluetooth Wireless Mouse and Keyboard Combo(Rose)",
-      "title_es": null,
+      "title_es": "Combo de teclado y ratón inalámbricos Bluetooth Logitech MK250 (Rosa)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de la libertad inalámbrica con este combo de teclado y ratón Bluetooth Logitech MK250 en color rosa. Ideal para el hogar o la oficina, ofrece comodidad y estilo para tu configuración.",
+      "post_en": "Enjoy wireless freedom with this Logitech MK250 Bluetooth wireless mouse and keyboard combo in rose. Ideal for home or office, it offers comfort and style for your setup.",
       "price_new": 14.98,
       "price_old": 35.0,
       "currency": "USD",
@@ -1018,10 +1018,10 @@
     {
       "asin": "B0CQ2YRH79",
       "title": "Billie Women's Razor + 2 Blades Refill w/ Magnetic Holder (Sunburst)",
-      "title_es": null,
+      "title_es": "Maquinilla de afeitar Billie para mujer + 2 recambios y soporte magnético (Sunburst)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta maquinilla Billie está diseñada para un afeitado suave y cómodo, ideal para el cuidado personal diario. Incluye dos recambios de cuchillas y un práctico soporte magnético para mantenerla organizada en la ducha. 🛀",
+      "post_en": "This Billie razor is designed for a smooth and comfortable shave, ideal for daily personal care. It includes two blade refills and a practical magnetic holder to keep it organized in the shower. 🛀",
       "price_new": 6.0,
       "price_old": 35.0,
       "currency": "USD",
@@ -1040,10 +1040,10 @@
     {
       "asin": "B08J8FQ5JJ",
       "title": "KitchenAid Albany Mini Oven Mitt 2-Pack Set (Grey, 5.5\"x8\")",
-      "title_es": null,
+      "title_es": "Set de 2 manoplas de horno KitchenAid Albany Mini (Gris, 5.5\"x8\")",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set de dos manoplas de horno KitchenAid Albany Mini ofrece protección esencial para tus manos en la cocina. Son compactas y perfectas para manipular bandejas calientes o utensilios pequeños con seguridad.",
+      "post_en": "This set of two KitchenAid Albany Mini oven mitts offers essential protection for your hands in the kitchen. They are compact and perfect for safely handling hot trays or small utensils.",
       "price_new": 8.5,
       "price_old": 35.0,
       "currency": "USD",
@@ -1062,10 +1062,10 @@
     {
       "asin": "B0010O094W",
       "title": "10-Ct BIC Cristal Xtra Smooth 1.0mm Medium Point Ballpoint Pens (Blue) at Amazon",
-      "title_es": null,
+      "title_es": "Bolígrafos BIC Cristal Xtra Smooth 1.0mm punta media, 10 unidades (Azul)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Consigue este paquete de 10 bolígrafos BIC Cristal Xtra Smooth, perfectos para una escritura fluida y sin esfuerzo. Son ideales para estudiantes, profesionales o para tener siempre a mano en casa y la oficina.",
+      "post_en": "Get this pack of 10 BIC Cristal Xtra Smooth ballpoint pens, perfect for fluid and effortless writing. They are ideal for students, professionals, or to always have on hand at home and the office.",
       "price_new": 0.97,
       "price_old": 2.99,
       "currency": "USD",
@@ -1079,15 +1079,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19776093",
       "published_at": "2026-07-19T15:41:42+00:00",
-      "revalidated_at": "2026-07-19T22:03:06+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B0D2PNT1W1",
       "title": "16-Oz Contigo Byron 2.0 Stainless Steel Insulated Travel Mug (Pansy) 2 for",
-      "title_es": null,
+      "title_es": "Taza de viaje aislada Contigo Byron 2.0 de acero inoxidable de 16 oz (Pansy)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta taza de viaje Contigo Byron 2.0 de acero inoxidable mantiene tus bebidas calientes o frías durante horas, ideal para llevar café o té a cualquier parte. Su diseño a prueba de derrames la hace perfecta para el día a día y viajes. ☕",
+      "post_en": "This Contigo Byron 2.0 stainless steel insulated travel mug keeps your drinks hot or cold for hours, ideal for taking coffee or tea anywhere. Its spill-proof design makes it perfect for daily use and travel. ☕",
       "price_new": 19.5,
       "price_old": 38.98,
       "currency": "USD",
@@ -1101,15 +1101,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19753323",
       "published_at": "2026-07-19T15:41:42+00:00",
-      "revalidated_at": "2026-07-19T22:03:06+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B0015SBILG",
       "title": "11-in-1 Klein Tools Multi Bit Screwdriver & Nut Driver w/ Cushion Grip Handle",
-      "title_es": null,
+      "title_es": "Destornillador y llave de tuercas multi-punta 11 en 1 Klein Tools con mango ergonómico",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este destornillador Klein Tools 11 en 1 es una herramienta versátil que combina múltiples puntas y llaves de tuercas en un solo diseño. Es esencial para cualquier caja de herramientas, facilitando reparaciones y montajes con su mango de agarre cómodo.",
+      "post_en": "This Klein Tools 11-in-1 screwdriver is a versatile tool that combines multiple bits and nut drivers in a single design. It's essential for any toolbox, making repairs and assemblies easier with its comfortable cushion grip handle.",
       "price_new": 11.98,
       "price_old": 35.0,
       "currency": "USD",
@@ -1128,10 +1128,10 @@
     {
       "asin": "B0DJG5VWTV",
       "title": "Panasonic LUMIX S9 Full-Frame Mirrorless Camera w/ S 18-40mm F4.5-6.3 Lens at Amazon",
-      "title_es": null,
+      "title_es": "Cámara mirrorless Full-Frame Panasonic LUMIX S9 con objetivo S 18-40mm F4.5-6.3",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La Panasonic LUMIX S9 es una cámara mirrorless Full-Frame compacta, ideal para creadores de contenido que buscan alta calidad de imagen y video. Viene con un versátil objetivo S 18-40mm, perfecto para capturar desde paisajes hasta retratos. 📸",
+      "post_en": "The Panasonic LUMIX S9 is a compact Full-Frame mirrorless camera, ideal for content creators seeking high-quality image and video. It comes with a versatile S 18-40mm lens, perfect for capturing everything from landscapes to portraits. 📸",
       "price_new": 139.0,
       "price_old": 867.0,
       "currency": "USD",
@@ -1150,10 +1150,10 @@
     {
       "asin": "B0C3N7GGVY",
       "title": "ANTAKIPRO AP-42 Professional High Power Audio Class-D Power Amplifier 2 x 8500 Watts @ 2 Ohms Per Channel with Dual Digital Signal LEDs 1 U Rack Mount",
-      "title_es": null,
+      "title_es": "Amplificador de potencia ANTAKIPRO AP-42 Audio Clase-D profesional de alta potencia 2 x 8500 Watts @ 2 Ohms",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El amplificador ANTAKIPRO AP-42 es una potente solución de audio Clase-D para profesionales, ofreciendo 2 x 8500 Watts por canal. Ideal para sistemas de sonido de gran escala que requieren rendimiento y fiabilidad en montaje en rack.",
+      "post_en": "The ANTAKIPRO AP-42 amplifier is a powerful Class-D audio solution for professionals, delivering 2 x 8500 Watts per channel. It's ideal for large-scale sound systems requiring performance and reliability in a rack mount setup.",
       "price_new": 106.0,
       "price_old": 789.0,
       "currency": "USD",
@@ -1172,10 +1172,10 @@
     {
       "asin": "B0CM3WWVKX",
       "title": "Black Rifle Coffee Company Tactisquatch K-Cup Coffee Pods, Dark Roast, 75ct",
-      "title_es": null,
+      "title_es": "Cápsulas de café Black Rifle Coffee Company Tactisquatch K-Cup, Tostado Oscuro, 75 unidades",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de un café robusto y con cuerpo con estas cápsulas Black Rifle Coffee Company Tactisquatch K-Cup de tostado oscuro. Este paquete de 75 unidades es perfecto para los amantes del café fuerte y conveniente en su día a día. ☕",
+      "post_en": "Enjoy a robust and full-bodied coffee with these Black Rifle Coffee Company Tactisquatch K-Cup dark roast pods. This 75-count pack is perfect for lovers of strong and convenient coffee in their daily routine. ☕",
       "price_new": 16.92,
       "price_old": 57.0,
       "currency": "USD",
@@ -1194,10 +1194,10 @@
     {
       "asin": "B000Z9361G",
       "title": "100-Count NOW Foods L-Lysine 1,000mg Double Strength Amino Acid Supplement",
-      "title_es": null,
+      "title_es": "Suplemento de aminoácidos NOW Foods L-Lysine 1,000mg Doble Concentración, 100 cápsulas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El suplemento NOW Foods L-Lysine ofrece 1,000mg de lisina de doble concentración por cápsula, un aminoácido esencial para el bienestar general. Es ideal para quienes buscan apoyar la salud inmunológica y la producción de colágeno.",
+      "post_en": "The NOW Foods L-Lysine supplement offers 1,000mg of double strength lysine per capsule, an essential amino acid for overall well-being. It's ideal for those looking to support immune health and collagen production.",
       "price_new": 1.11,
       "price_old": 35.0,
       "currency": "USD",
@@ -1216,10 +1216,10 @@
     {
       "asin": "B0DJ1BH9T1",
       "title": "221-Piece LEGO City - Off-Road Mountain Truck",
-      "title_es": null,
+      "title_es": "Camión todoterreno de montaña LEGO City de 221 piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Construye emocionantes aventuras con el camión todoterreno de montaña LEGO City, un set de 221 piezas que fomenta la creatividad y el juego imaginativo. Es perfecto para niños y coleccionistas que disfrutan de los vehículos de construcción y la acción al aire libre. ⛰️",
+      "post_en": "Build exciting adventures with the 221-piece LEGO City Off-Road Mountain Truck, a set that fosters creativity and imaginative play. It's perfect for children and collectors who enjoy construction vehicles and outdoor action. ⛰️",
       "price_new": 15.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1238,10 +1238,10 @@
     {
       "asin": "B0F21LM9Z5",
       "title": "G4Free Maternity Shorts for Women Over The Belly Pregnancy Workout Yoga Athletic Lounge Shorts with Pockets",
-      "title_es": null,
+      "title_es": "Pantalones cortos de maternidad G4Free para mujer, de entrenamiento, yoga o descanso, con bolsillos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estos pantalones cortos de maternidad G4Free están diseñados para ofrecer comodidad y soporte durante el embarazo, con un diseño que cubre la barriga y prácticos bolsillos. Son ideales para futuras mamás que buscan ropa versátil para ejercicio ligero, yoga o simplemente para relajarse en casa. 🧘‍♀️",
+      "post_en": "These G4Free maternity shorts are designed to offer comfort and support during pregnancy, featuring an over-the-belly design and practical pockets. They are perfect for expectant mothers looking for versatile activewear for light workouts, yoga, or simply lounging at home. 🧘‍♀️",
       "price_new": 7.49,
       "price_old": 26.99,
       "currency": "USD",
@@ -1260,10 +1260,10 @@
     {
       "asin": "B0B5VGZTXH",
       "title": "Blink Wired Floodlight Camera (Black or White) at Amazon",
-      "title_es": null,
+      "title_es": "Cámara Blink Wired Floodlight (negra o blanca)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La cámara Blink Wired Floodlight es una solución de seguridad exterior que combina una cámara de alta definición con potentes focos LED. Es ideal para quienes buscan monitorizar su hogar con iluminación adicional y detección de movimiento avanzada. 💡",
+      "post_en": "The Blink Wired Floodlight Camera is an outdoor security solution that combines a high-definition camera with powerful LED floodlights. It's perfect for those looking to monitor their home with added illumination and advanced motion detection. 💡",
       "price_new": 29.99,
       "price_old": 99.99,
       "currency": "USD",
@@ -1282,10 +1282,10 @@
     {
       "asin": "B00NR1YIKM",
       "title": "0.5-Oz Neutrogena Hydro Boost Hydrating Gel Eye Cream w/ Hyaluronic Acid​",
-      "title_es": null,
+      "title_es": "Neutrogena Hydro Boost Crema de ojos en gel hidratante con ácido hialurónico, 0.5 oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta crema de ojos en gel Neutrogena Hydro Boost está formulada con ácido hialurónico para hidratar intensamente la delicada piel alrededor de los ojos. Ayuda a revitalizar la mirada y reducir los signos de fatiga, siendo perfecta para una hidratación diaria y profunda. ✨",
+      "post_en": "This Neutrogena Hydro Boost Hydrating Gel Eye Cream is formulated with hyaluronic acid to intensely moisturize the delicate skin around the eyes. It helps revitalize your look and reduce signs of fatigue, perfect for deep daily hydration. ✨",
       "price_new": 7.0,
       "price_old": 26.79,
       "currency": "USD",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19775928",
       "published_at": "2026-07-19T06:48:20+00:00",
-      "revalidated_at": "2026-07-19T22:03:06+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B0DPQQL14B",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19764183",
       "published_at": "2026-07-19T02:46:38+00:00",
-      "revalidated_at": "2026-07-19T22:03:06+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B0GHYNVYMD",
@@ -1893,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776087",
       "published_at": "2026-07-19T00:47:04+00:00",
-      "revalidated_at": "2026-07-19T22:03:06+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B0D355W5F2",
@@ -2245,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19775763",
       "published_at": "2026-07-18T20:16:03+00:00",
-      "revalidated_at": "2026-07-19T22:03:06+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B0046CD3IO",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776969",
       "published_at": "2026-07-18T18:32:12+00:00",
-      "revalidated_at": "2026-07-19T22:03:06+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B00KWRM78E",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776702",
       "published_at": "2026-07-18T18:00:53+00:00",
-      "revalidated_at": "2026-07-19T22:03:06+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B0DYR6F37F",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19762452",
       "published_at": "2026-07-18T18:00:53+00:00",
-      "revalidated_at": "2026-07-19T22:03:06+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B09ZWKD9TF",
@@ -2377,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754475",
       "published_at": "2026-07-18T18:00:53+00:00",
-      "revalidated_at": "2026-07-19T22:03:06+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B07WD9PF7T",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776990",
       "published_at": "2026-07-18T16:15:55+00:00",
-      "revalidated_at": "2026-07-19T22:03:06+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B0F9XTQ89J",
@@ -2465,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19767198",
       "published_at": "2026-07-18T14:30:33+00:00",
-      "revalidated_at": "2026-07-19T22:03:06+00:00"
+      "revalidated_at": "2026-07-20T00:06:57+00:00"
     },
     {
       "asin": "B0GH7B993V",
