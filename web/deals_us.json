@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T08:00:49+00:00",
+  "generated_at": "2026-07-20T08:15:36+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
     {
       "asin": "B000Q3KHCM",
@@ -124,11 +124,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 82.9,
-      "rating": null,
+      "rating": 4.7,
       "condition": "code",
       "code": "GE5P3XQE",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/21019107.thumb",
+      "image": "https://m.media-amazon.com/images/I/51kNJsPhFSL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F999PW7L/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19775802",
@@ -177,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19767258",
       "published_at": "2026-07-20T02:46:28+00:00",
-      "revalidated_at": "2026-07-20T06:30:33+00:00"
+      "revalidated_at": "2026-07-20T08:15:36+00:00"
     },
     {
       "asin": "B0CN1P8G4W",
@@ -234,11 +234,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 73.2,
-      "rating": null,
+      "rating": 4.3,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/20988528.thumb",
+      "image": "https://m.media-amazon.com/images/I/71f4OqQvTZL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0C3DNWKC9/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19763010",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782927",
       "published_at": "2026-07-20T00:46:37+00:00",
-      "revalidated_at": "2026-07-20T06:30:33+00:00"
+      "revalidated_at": "2026-07-20T08:15:36+00:00"
     },
     {
       "asin": "B0FM8FBH7P",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782327",
       "published_at": "2026-07-19T22:31:40+00:00",
-      "revalidated_at": "2026-07-20T06:30:33+00:00"
+      "revalidated_at": "2026-07-20T08:15:36+00:00"
     },
     {
       "asin": "B09CTK5PZT",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19774527",
       "published_at": "2026-07-19T22:31:40+00:00",
-      "revalidated_at": "2026-07-20T06:30:33+00:00"
+      "revalidated_at": "2026-07-20T08:15:36+00:00"
     },
     {
       "asin": "B07PFYT8MC",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19781739",
       "published_at": "2026-07-19T20:46:23+00:00",
-      "revalidated_at": "2026-07-20T06:30:33+00:00"
+      "revalidated_at": "2026-07-20T08:15:36+00:00"
     },
     {
       "asin": "B0DJS1P4RL",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19756605",
       "published_at": "2026-07-19T20:46:23+00:00",
-      "revalidated_at": "2026-07-20T06:30:33+00:00"
+      "revalidated_at": "2026-07-20T08:15:36+00:00"
     },
     {
       "asin": "B09RNGZF7N",
@@ -972,28 +972,6 @@
       "revalidated_at": "2026-07-20T07:15:38+00:00"
     },
     {
-      "asin": "B09RG6LXJ2",
-      "title": "120-Count NOW Supplements Mega D-3 (5000 IU) & MK-7 (180 mcg)",
-      "title_es": "Suplemento NOW Mega D-3 (5000 IU) y MK-7 (180 mcg), 120 Cápsulas",
-      "headline": null,
-      "post": "Este suplemento NOW combina vitamina D-3 y MK-7 para apoyar la salud ósea y cardiovascular. Es una opción conveniente para quienes buscan mantener niveles óptimos de estas vitaminas esenciales.",
-      "post_en": "This NOW supplement combines Vitamin D-3 and MK-7 to support bone and cardiovascular health. It's a convenient option for those looking to maintain optimal levels of these essential vitamins.",
-      "price_new": 3.25,
-      "price_old": 22.4,
-      "currency": "USD",
-      "discount_pct": 85.5,
-      "rating": 4.8,
-      "condition": "sns",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71CHb2uRkVL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09RG6LXJ2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19781874",
-      "published_at": "2026-07-19T19:01:22+00:00",
-      "revalidated_at": "2026-07-20T06:30:33+00:00"
-    },
-    {
       "asin": "B00ADBY98A",
       "title": "Logitech M317 Wireless Mouse, 2.4 GHz with USB Receiver, 1000 DPI Optical Tracking, 12 Month Battery, Compatible with PC, Mac, Laptop, Chromebook - Blue",
       "title_es": "Ratón Inalámbrico Logitech M317 (Azul) con Receptor USB y 1000 DPI",
@@ -1013,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19781757",
       "published_at": "2026-07-19T19:01:22+00:00",
-      "revalidated_at": "2026-07-20T06:30:33+00:00"
+      "revalidated_at": "2026-07-20T08:15:36+00:00"
     },
     {
       "asin": "B0CCNPV7NZ",
@@ -2091,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763376",
       "published_at": "2026-07-19T01:02:54+00:00",
-      "revalidated_at": "2026-07-20T06:30:33+00:00"
+      "revalidated_at": "2026-07-20T08:15:36+00:00"
     },
     {
       "asin": "B0BZ8N65J6",
@@ -2135,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19777938",
       "published_at": "2026-07-19T00:32:12+00:00",
-      "revalidated_at": "2026-07-20T06:30:33+00:00"
+      "revalidated_at": "2026-07-20T08:15:36+00:00"
     },
     {
       "asin": "B0GFD58BBW",
@@ -2202,28 +2180,6 @@
       "deal_key": "sd:19776546",
       "published_at": "2026-07-19T00:02:46+00:00",
       "revalidated_at": "2026-07-20T08:00:49+00:00"
-    },
-    {
-      "asin": "B0CJJZ3CJ7",
-      "title": "12-Pk Callaway Chrome Soft '24 Golf Ball (Triple Track White)",
-      "title_es": "Pack de 12 bolas de golf Callaway Chrome Soft '24 (Triple Track White)",
-      "headline": null,
-      "post": "Mejora tu juego con este pack de 12 bolas de golf Callaway Chrome Soft '24, que incorporan la tecnología Triple Track para una alineación superior. Son ideales para golfistas que buscan rendimiento y precisión en cada golpe. 🏌️‍♂️",
-      "post_en": "Enhance your game with this 12-pack of Callaway Chrome Soft '24 Golf Balls, featuring Triple Track technology for superior alignment. They are ideal for golfers seeking performance and precision on every shot. 🏌️‍♂️",
-      "price_new": 30.0,
-      "price_old": 47.99,
-      "currency": "USD",
-      "discount_pct": 37.5,
-      "rating": 4.8,
-      "condition": "sns",
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/71jD2yOn6QL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CJJZ3CJ7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19776174",
-      "published_at": "2026-07-19T00:02:46+00:00",
-      "revalidated_at": "2026-07-20T06:15:54+00:00"
     },
     {
       "asin": "B0D62W141K",
@@ -2311,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19777098",
       "published_at": "2026-07-18T22:32:27+00:00",
-      "revalidated_at": "2026-07-20T06:15:54+00:00"
+      "revalidated_at": "2026-07-20T08:15:36+00:00"
     },
     {
       "asin": "B0G12HGHGM",
@@ -2355,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19755219",
       "published_at": "2026-07-18T22:16:41+00:00",
-      "revalidated_at": "2026-07-20T06:30:33+00:00"
+      "revalidated_at": "2026-07-20T08:15:36+00:00"
     },
     {
       "asin": "B0CYP8C4RJ",
@@ -2377,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776480",
       "published_at": "2026-07-18T21:46:22+00:00",
-      "revalidated_at": "2026-07-20T06:30:33+00:00"
+      "revalidated_at": "2026-07-20T08:15:36+00:00"
     },
     {
       "asin": "B0CRQZH7N1",
@@ -2443,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19775763",
       "published_at": "2026-07-18T20:16:03+00:00",
-      "revalidated_at": "2026-07-20T06:30:33+00:00"
+      "revalidated_at": "2026-07-20T08:15:36+00:00"
     },
     {
       "asin": "B0046CD3IO",
