@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-07-20T14:31:04+00:00",
+  "generated_at": "2026-07-20T14:46:45+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0FDSV599G",
+      "title": "1.1-Lb Gorilla Garage Floor Coating Decorative Flakes (Gray, Black & White, up to 550sq ft)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.05,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 77.0,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/6/3/5/4/7/1/450x450/21034971.thumb",
+      "url": "https://amazon.com/dp/B0FDSV599G/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19782153",
+      "published_at": "2026-07-20T14:46:45+00:00",
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
+    },
+    {
+      "asin": "B0GGB9QC6T",
+      "title": "GratKit Wood PLA Filament, 3D Printer Filament 1.75mm, -0.03mm, 1KG/Roll, Fit Most FDM 3D Printers Teak with Code GKWDMB30 Free Shipping w/ Prime or on orders",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.29,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 62.0,
+      "rating": null,
+      "condition": "code",
+      "code": "GKWDMB30",
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/2/8/4/5/3/5/9/4/450x450/21038148.thumb",
+      "url": "https://amazon.com/dp/B0GGB9QC6T/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19783656",
+      "published_at": "2026-07-20T14:46:45+00:00",
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
+    },
     {
       "asin": "B0FNZ1457J",
       "title": "KitchenAid Pizza Wheel (Mineral Water, 9.4 inch)",
@@ -14,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 82.9,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/21043020.thumb",
+      "image": "https://m.media-amazon.com/images/I/51yEswsQsHL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FNZ1457J/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19785381",
@@ -510,28 +554,6 @@
       "revalidated_at": "2026-07-20T14:31:04+00:00"
     },
     {
-      "asin": "B0CQRTXCCS",
-      "title": "2-Pack Chicco PhysioForma Luxe Orthodontic Pacifier for Babies 16-24 Months,Terracotta",
-      "title_es": "Chicco PhysioForma Luxe Chupete Ortodóntico para Bebés 16-24 Meses, Terracota (Pack de 2)",
-      "headline": null,
-      "post": "Este pack de dos chupetes Chicco PhysioForma Luxe está diseñado ortodónticamente para bebés de 16 a 24 meses, favoreciendo el desarrollo bucal. Su diseño de terracota ofrece un toque elegante y es ideal para el uso diario.",
-      "post_en": "This 2-pack of Chicco PhysioForma Luxe orthodontic pacifiers is designed for babies aged 16-24 months, supporting oral development. Its terracotta design offers an elegant touch and is ideal for daily use.",
-      "price_new": 1.28,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 96.3,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71jp3Fh-vPL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CQRTXCCS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19783287",
-      "published_at": "2026-07-20T03:46:29+00:00",
-      "revalidated_at": "2026-07-20T12:46:01+00:00"
-    },
-    {
       "asin": "B07PY7ZGB8",
       "title": "KastKing Crixus Spinning Baitcaster Fishing Rod and Reel Combo (Various Sizes) Starting",
       "title_es": "KastKing Crixus Combo de Caña de Pescar y Carrete de Spinning Baitcaster (Varias Tallas)",
@@ -551,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19774440",
       "published_at": "2026-07-20T03:46:29+00:00",
-      "revalidated_at": "2026-07-20T12:46:01+00:00"
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
     },
     {
       "asin": "B0F999PW7L",
@@ -617,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19771734",
       "published_at": "2026-07-20T01:46:37+00:00",
-      "revalidated_at": "2026-07-20T12:46:01+00:00"
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
     },
     {
       "asin": "B0C2XJ8L5S",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19779348",
       "published_at": "2026-07-20T01:46:37+00:00",
-      "revalidated_at": "2026-07-20T12:46:01+00:00"
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
     },
     {
       "asin": "B0C3DNWKC9",
@@ -925,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19780500",
       "published_at": "2026-07-19T23:31:44+00:00",
-      "revalidated_at": "2026-07-20T12:46:01+00:00"
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
     },
     {
       "asin": "B07YXPDDX1",
@@ -947,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782531",
       "published_at": "2026-07-19T23:31:44+00:00",
-      "revalidated_at": "2026-07-20T12:46:01+00:00"
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
     },
     {
       "asin": "B005CN5JEM",
@@ -969,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782720",
       "published_at": "2026-07-19T23:31:44+00:00",
-      "revalidated_at": "2026-07-20T12:46:01+00:00"
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
     },
     {
       "asin": "B0BPSH2S2Y",
@@ -1211,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19781667",
       "published_at": "2026-07-19T21:46:41+00:00",
-      "revalidated_at": "2026-07-20T12:46:01+00:00"
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
     },
     {
       "asin": "B0D2X8GBZ2",
@@ -1365,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19757853",
       "published_at": "2026-07-19T20:01:15+00:00",
-      "revalidated_at": "2026-07-20T12:46:01+00:00"
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
     },
     {
       "asin": "B00ADBY98A",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770369",
       "published_at": "2026-07-19T18:31:09+00:00",
-      "revalidated_at": "2026-07-20T12:46:01+00:00"
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
     },
     {
       "asin": "B07M62L77L",
@@ -1497,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19777227",
       "published_at": "2026-07-19T18:01:38+00:00",
-      "revalidated_at": "2026-07-20T12:35:33+00:00"
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
     },
     {
       "asin": "B0F9DWFSHP",
@@ -2575,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19761630",
       "published_at": "2026-07-18T22:46:59+00:00",
-      "revalidated_at": "2026-07-20T12:35:33+00:00"
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
     },
     {
       "asin": "B0DCHN3YQL",
@@ -2597,51 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19774248",
       "published_at": "2026-07-18T22:46:59+00:00",
-      "revalidated_at": "2026-07-20T12:35:33+00:00"
-    },
-    {
-      "asin": "B0GXDWNV45",
-      "title": "TOPOINT Sleep Headphones Bluetooth 5.4, Sports Wireless Earphones Sweat Breathable with HD Stereo Speaker",
-      "title_es": "Auriculares TOPOINT Sleep Headphones Bluetooth 5.4 para dormir y deportes.",
-      "headline": null,
-      "post": "Estos auriculares TOPOINT Sleep Headphones son ideales para dormir o hacer deporte, ofreciendo comodidad y sonido estéreo HD. Su diseño transpirable y resistente al sudor los hace perfectos para relajarse o entrenar sin molestias.",
-      "post_en": "These TOPOINT Sleep Headphones are ideal for sleeping or sports, offering comfort and HD stereo sound. Their breathable, sweat-resistant design makes them perfect for relaxing or working out without discomfort.",
-      "price_new": 5.99,
-      "price_old": 19.99,
-      "currency": "USD",
-      "discount_pct": 70.0,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81aQvd6Z+AL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GXDWNV45/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19777098",
-      "published_at": "2026-07-18T22:32:27+00:00",
-      "revalidated_at": "2026-07-20T14:00:52+00:00"
-    },
-    {
-      "asin": "B0G12HGHGM",
-      "title": "Logitech G PRO X2 SUPERSTRIKE Wireless Gaming Mouse at Amazon",
-      "title_es": "Ratón gaming inalámbrico Logitech G PRO X2 SUPERSTRIKE.",
-      "headline": null,
-      "post": "Experimenta la máxima precisión en tus partidas con el ratón gaming inalámbrico Logitech G PRO X2 SUPERSTRIKE. Diseñado para jugadores profesionales, ofrece rendimiento y fiabilidad excepcionales para dominar cualquier juego.",
-      "post_en": "Experience maximum precision in your games with the Logitech G PRO X2 SUPERSTRIKE wireless gaming mouse. Designed for professional gamers, it offers exceptional performance and reliability to dominate any game.",
-      "price_new": 125.99,
-      "price_old": 179.99,
-      "currency": "USD",
-      "discount_pct": 30.0,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51+51Ur4jzL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G12HGHGM/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19776663",
-      "published_at": "2026-07-18T22:32:27+00:00",
-      "revalidated_at": "2026-07-20T12:35:33+00:00"
+      "revalidated_at": "2026-07-20T14:46:45+00:00"
     }
   ]
 }
