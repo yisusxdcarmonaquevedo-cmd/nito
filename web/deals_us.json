@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-20T10:30:38+00:00",
+  "generated_at": "2026-07-20T10:45:38+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0G8K4TCTM",
+      "title": "Amazon: Monster Wireless Earbuds & Headphones from",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.99,
+      "price_old": 59.0,
+      "currency": "USD",
+      "discount_pct": 78.0,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/5/3/8/0/3/450x450/21014406.thumb",
+      "url": "https://amazon.com/dp/B0G8K4TCTM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19773936",
+      "published_at": "2026-07-20T10:45:38+00:00",
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
+    },
     {
       "asin": "B07C51MD68",
       "title": "Force Factor Volcano Extreme Pre Workout Nitric Oxide Booster w/ Creatine & L-Citrulline (90 Tablets)",
@@ -36,11 +58,11 @@
       "price_old": 57.0,
       "currency": "USD",
       "discount_pct": 96.7,
-      "rating": null,
+      "rating": 4.6,
       "condition": "sns",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/21002883.thumb",
+      "image": "https://m.media-amazon.com/images/I/71iRu5RjFoL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B074H5LYGT/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19769139",
@@ -58,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 57.2,
-      "rating": null,
+      "rating": 4.5,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21040521.thumb",
+      "image": "https://m.media-amazon.com/images/I/51W9dzHAdyL._AC_SL1200_.jpg",
       "url": "https://amazon.com/dp/B0C7G6H2SG/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19784556",
@@ -199,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782714",
       "published_at": "2026-07-20T07:15:38+00:00",
-      "revalidated_at": "2026-07-20T09:00:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     },
     {
       "asin": "B0CQRTXCCS",
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763010",
       "published_at": "2026-07-20T01:31:37+00:00",
-      "revalidated_at": "2026-07-20T09:00:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     },
     {
       "asin": "B0DPW7JG4K",
@@ -375,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19774683",
       "published_at": "2026-07-20T01:31:37+00:00",
-      "revalidated_at": "2026-07-20T09:00:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     },
     {
       "asin": "B00PXVTU5C",
@@ -397,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19779846",
       "published_at": "2026-07-20T01:31:37+00:00",
-      "revalidated_at": "2026-07-20T09:00:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     },
     {
       "asin": "B0C3JSQR6V",
@@ -683,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19772589",
       "published_at": "2026-07-19T23:04:11+00:00",
-      "revalidated_at": "2026-07-20T09:00:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     },
     {
       "asin": "B0BKR66QGC",
@@ -947,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19775346",
       "published_at": "2026-07-19T21:16:34+00:00",
-      "revalidated_at": "2026-07-20T09:00:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     },
     {
       "asin": "B0DQ77HWRQ",
@@ -1079,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19768827",
       "published_at": "2026-07-19T19:46:19+00:00",
-      "revalidated_at": "2026-07-20T09:00:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     },
     {
       "asin": "B00ADBY98A",
@@ -1167,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19777338",
       "published_at": "2026-07-19T18:16:12+00:00",
-      "revalidated_at": "2026-07-20T09:00:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     },
     {
       "asin": "B0GC2WXX8C",
@@ -1211,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19777227",
       "published_at": "2026-07-19T18:01:38+00:00",
-      "revalidated_at": "2026-07-20T09:00:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     },
     {
       "asin": "B0F9DWFSHP",
@@ -2311,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19774248",
       "published_at": "2026-07-18T22:46:59+00:00",
-      "revalidated_at": "2026-07-20T08:45:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     },
     {
       "asin": "B0GXDWNV45",
@@ -2355,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776663",
       "published_at": "2026-07-18T22:32:27+00:00",
-      "revalidated_at": "2026-07-20T09:00:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     },
     {
       "asin": "B0D55K4XXD",
@@ -2421,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19774092",
       "published_at": "2026-07-18T21:02:33+00:00",
-      "revalidated_at": "2026-07-20T09:00:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     },
     {
       "asin": "B0002E2GQU",
@@ -2597,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19754475",
       "published_at": "2026-07-18T18:00:53+00:00",
-      "revalidated_at": "2026-07-20T08:45:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     },
     {
       "asin": "B07WD9PF7T",
@@ -2619,29 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776990",
       "published_at": "2026-07-18T16:15:55+00:00",
-      "revalidated_at": "2026-07-20T08:45:33+00:00"
-    },
-    {
-      "asin": "B0F9XTQ89J",
-      "title": "[Prime] 3-Pack QALLY Kids' UV Protection Baseball & Softball Sunglasses (Ages 4-14)",
-      "title_es": "Pack de 3 gafas de sol QALLY con protección UV para niños (béisbol y sóftbol, edades 4-14)",
-      "headline": null,
-      "post": "Protege los ojos de los más pequeños con este pack de 3 gafas de sol QALLY, diseñadas para béisbol y sóftbol. Ofrecen protección UV y son ideales para niños entre 4 y 14 años que disfrutan de actividades al aire libre. ⚾",
-      "post_en": "Protect your little ones' eyes with this 3-pack of QALLY UV Protection Sunglasses, designed for baseball and softball. They offer UV protection and are ideal for children aged 4-14 who enjoy outdoor activities. ⚾",
-      "price_new": 2.66,
-      "price_old": 7.99,
-      "currency": "USD",
-      "discount_pct": 66.7,
-      "rating": 4.8,
-      "condition": "code",
-      "code": "FLYF2ZUC",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71+HRfXx47L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F9XTQ89J/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19775367",
-      "published_at": "2026-07-18T16:00:53+00:00",
-      "revalidated_at": "2026-07-20T09:00:33+00:00"
+      "revalidated_at": "2026-07-20T10:45:38+00:00"
     }
   ]
 }
