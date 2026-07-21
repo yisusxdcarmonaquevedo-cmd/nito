@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-07-21T17:45:50+00:00",
+  "generated_at": "2026-07-21T18:01:09+00:00",
   "market": "us",
-  "count": 117,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0C4SNV366",
+      "title": "Unruly: The Ridiculous History of England's Kings and Queens (eBook) by David Mitchell",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.99,
+      "price_old": 8.99,
+      "currency": "USD",
+      "discount_pct": 77.9,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81fOZKL0mDL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0C4SNV366/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19785894",
+      "published_at": "2026-07-21T18:01:09+00:00",
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
+    },
+    {
+      "asin": "B002F3QYZA",
+      "title": "8-Oz Neutrogena Oil-Free Acne Stress Control Triple-Action Toner (Green Tea Scent)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.8,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 83.4,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/20994174.thumb",
+      "url": "https://amazon.com/dp/B002F3QYZA/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19765320",
+      "published_at": "2026-07-21T18:01:09+00:00",
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
+    },
+    {
+      "asin": "B0FK22SXWH",
+      "title": "Dragonlance: Legends Trilogy (Hardcover Book)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 17.47,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 50.1,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/9176teziAPL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FK22SXWH/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19790853",
+      "published_at": "2026-07-21T18:01:09+00:00",
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
+    },
+    {
+      "asin": "B0DX6RVJF7",
+      "title": "Amazon - Thermal Shipping Label Printer 4x6 Bluetooth Label Maker for Small Business (Black) -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 28.31,
+      "price_old": 56.6,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/2/8/9/8/9/5/2/450x450/21052413.thumb",
+      "url": "https://amazon.com/dp/B0DX6RVJF7/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19788846",
+      "published_at": "2026-07-21T18:01:09+00:00",
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
+    },
+    {
+      "asin": "B0GX62DBBM",
+      "title": "Medcursor TENS Unit Muscle Stimulator - Wireless 3-in-1 Dual-Channel EMS Machine with App Control & Session Memory, 25 Intensity Levels, 8 Target Areas, Storage Pouch",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 25.0,
+      "price_old": 49.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21026928.thumb",
+      "url": "https://amazon.com/dp/B0GX62DBBM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19778874",
+      "published_at": "2026-07-21T18:01:09+00:00",
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
+    },
     {
       "asin": "B0G8HBRLJC",
       "title": "SRGBND 25 KPH RC Boat w/ LED Lights, 3 Speed Modes & Self-Righting (Red or Blue)",
@@ -199,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19791057",
       "published_at": "2026-07-21T16:01:09+00:00",
-      "revalidated_at": "2026-07-21T16:01:09+00:00"
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
     },
     {
       "asin": "B0GTTGQ1SZ",
@@ -221,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19791024",
       "published_at": "2026-07-21T16:01:09+00:00",
-      "revalidated_at": "2026-07-21T16:01:09+00:00"
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
     },
     {
       "asin": "B0D48W2214",
@@ -595,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19768134",
       "published_at": "2026-07-21T12:30:46+00:00",
-      "revalidated_at": "2026-07-21T16:01:09+00:00"
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
     },
     {
       "asin": "B0FHF6G4RC",
@@ -727,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782264",
       "published_at": "2026-07-21T10:30:51+00:00",
-      "revalidated_at": "2026-07-21T16:01:09+00:00"
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
     },
     {
       "asin": "B0GJD9TPQV",
@@ -1695,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786713",
       "published_at": "2026-07-20T21:36:08+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
     },
     {
       "asin": "B082H2JJG3",
@@ -1849,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784796",
       "published_at": "2026-07-20T20:01:41+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
     },
     {
       "asin": "B0D8N1HP7F",
@@ -1915,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786935",
       "published_at": "2026-07-20T17:46:10+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
     },
     {
       "asin": "B0FRFR8MWB",
@@ -1937,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786548",
       "published_at": "2026-07-20T17:31:18+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
     },
     {
       "asin": "B0F6VV1ZFG",
@@ -2289,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784784",
       "published_at": "2026-07-20T13:31:06+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
     },
     {
       "asin": "B01AROOL12",
@@ -2311,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19783740",
       "published_at": "2026-07-20T13:31:06+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
+      "revalidated_at": "2026-07-21T18:01:09+00:00"
     },
     {
       "asin": "B0DWX4YTLJ",
@@ -2532,50 +2642,6 @@
       "deal_key": "sd:19784040",
       "published_at": "2026-07-20T07:45:43+00:00",
       "revalidated_at": "2026-07-21T16:15:52+00:00"
-    },
-    {
-      "asin": "B003UMW63Y",
-      "title": "The Chronicles Of Narnia: The Lion, The Witch And The Wardrobe Blu Ray",
-      "title_es": "Las Crónicas de Narnia: El león, la bruja y el armario Blu Ray",
-      "headline": null,
-      "post": "Sumérgete en el mágico mundo de Narnia con este Blu-ray de \"El león, la bruja y el armario\". Es ideal para fans de la fantasía y el cine familiar que buscan una edición física de alta calidad para su colección. 🎬",
-      "post_en": "Immerse yourself in the magical world of Narnia with this Blu-ray of \"The Lion, The Witch And The Wardrobe\". It's perfect for fantasy fans and families looking for a high-quality physical edition for their collection. 🎬",
-      "price_new": 5.99,
-      "price_old": 9.47,
-      "currency": "USD",
-      "discount_pct": 36.7,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/91-N00NTYKL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B003UMW63Y/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19782714",
-      "published_at": "2026-07-20T07:15:38+00:00",
-      "revalidated_at": "2026-07-21T16:46:25+00:00"
-    },
-    {
-      "asin": "B07PY7ZGB8",
-      "title": "KastKing Crixus Spinning Baitcaster Fishing Rod and Reel Combo (Various Sizes) Starting",
-      "title_es": "KastKing Crixus Combo de Caña de Pescar y Carrete de Spinning Baitcaster (Varias Tallas)",
-      "headline": null,
-      "post": "Este combo de caña y carrete KastKing Crixus es perfecto para los aficionados a la pesca, combinando rendimiento y durabilidad. Disponible en varias tallas, ofrece una experiencia equilibrada tanto para spinning como para baitcasting.",
-      "post_en": "This KastKing Crixus spinning and baitcaster rod and reel combo is perfect for fishing enthusiasts, combining performance and durability. Available in various sizes, it offers a balanced experience for both spinning and baitcasting.",
-      "price_new": 40.5,
-      "price_old": 80.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.0,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/61tFtRzCWvL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07PY7ZGB8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19774440",
-      "published_at": "2026-07-20T03:46:29+00:00",
-      "revalidated_at": "2026-07-21T16:46:25+00:00"
     }
   ]
 }
