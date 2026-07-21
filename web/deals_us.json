@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-07-21T02:45:39+00:00",
+  "generated_at": "2026-07-21T03:00:48+00:00",
   "market": "us",
-  "count": 118,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0CPKH9P62",
+      "title": "KitchenAid 9\" Nonstick Aluminized Steel Square Cake Pan (Ink Blue)",
+      "title_es": "Molde cuadrado antiadherente de acero aluminizado KitchenAid de 9\" (Azul Tinta)",
+      "headline": null,
+      "post": "Este molde cuadrado antiadherente de KitchenAid es ideal para hornear pasteles y brownies con facilidad. Fabricado en acero aluminizado, garantiza una distribución uniforme del calor para resultados perfectos.",
+      "post_en": "This KitchenAid nonstick square cake pan is ideal for baking cakes and brownies with ease. Made from aluminized steel, it ensures even heat distribution for perfect results.",
+      "price_new": 4.55,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 87.0,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/51LX2o9oxxL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CPKH9P62/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19785690",
+      "published_at": "2026-07-21T03:00:48+00:00",
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
+    },
+    {
+      "asin": "B0B9GP3WS4",
+      "title": "90\"x90\" Guohaoi Arc-Chill Q-Max >0.5 Cooling Blanket",
+      "title_es": "Manta refrescante Guohaoi Arc-Chill Q-Max >0.5 de 90\"x90\"",
+      "headline": null,
+      "post": "Esta manta refrescante Guohaoi Arc-Chill de 90\"x90\" está diseñada para ofrecer una sensación de frescor óptima. Es perfecta para quienes buscan mejorar su confort durante el sueño en noches cálidas.",
+      "post_en": "This 90\"x90\" Guohaoi Arc-Chill cooling blanket is designed to offer an optimal cooling sensation. It's perfect for those looking to improve their sleep comfort on warm nights.",
+      "price_new": 11.98,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 65.8,
+      "rating": null,
+      "condition": "code",
+      "code": "BME7OU2F",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/21051504.thumb",
+      "url": "https://amazon.com/dp/B0B9GP3WS4/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19788447",
+      "published_at": "2026-07-21T03:00:48+00:00",
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
+    },
+    {
+      "asin": "B000001INW",
+      "title": "Bad Religion: NO CONTROL (Vinyl LP)",
+      "title_es": "Bad Religion: NO CONTROL (Vinilo LP)",
+      "headline": null,
+      "post": "Disfruta del clásico álbum \"NO CONTROL\" de Bad Religion en formato vinilo LP. Una excelente adición para coleccionistas y amantes del punk rock que aprecian el sonido analógico.",
+      "post_en": "Enjoy the classic album \"NO CONTROL\" by Bad Religion on vinyl LP format. An excellent addition for collectors and punk rock lovers who appreciate analog sound.",
+      "price_new": 15.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 54.3,
+      "rating": 4.8,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/91-JvFCdO+L._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B000001INW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19762806",
+      "published_at": "2026-07-21T03:00:48+00:00",
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
+    },
+    {
+      "asin": "B000001IO5",
+      "title": "Bad Religion \"Epitaph Against the Grain\" (Vinyl LP)",
+      "title_es": "Bad Religion \"Epitaph Against the Grain\" (Vinilo LP)",
+      "headline": null,
+      "post": "Consigue el vinilo LP \"Epitaph Against the Grain\" de Bad Religion para tu colección. Este álbum es perfecto para los seguidores de la banda y los entusiastas del punk rock.",
+      "post_en": "Get the \"Epitaph Against the Grain\" vinyl LP by Bad Religion for your collection. This album is perfect for fans of the band and punk rock enthusiasts.",
+      "price_new": 20.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": 4.8,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81teAdITsgL._SL1499_.jpg",
+      "url": "https://amazon.com/dp/B000001IO5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19764813",
+      "published_at": "2026-07-21T03:00:48+00:00",
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
+    },
     {
       "asin": "B08Q5SWVFC",
       "title": "2L Chapin Handheld Multi-Purpose Garden Pump Sprayer w/ Adjustable Nozzle",
@@ -58,11 +146,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 64.3,
-      "rating": null,
+      "rating": 4.3,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/0/4/6/9/4/2/0/450x450/21050853.thumb",
+      "image": "https://m.media-amazon.com/images/I/61FxW-B6tgL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B004N627KS/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19788141",
@@ -595,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782771",
       "published_at": "2026-07-20T23:31:47+00:00",
-      "revalidated_at": "2026-07-21T01:03:23+00:00"
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
     },
     {
       "asin": "B07GRJMSDQ",
@@ -859,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784811",
       "published_at": "2026-07-20T20:14:07+00:00",
-      "revalidated_at": "2026-07-21T01:03:23+00:00"
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
     },
     {
       "asin": "B00ARHAAZ6",
@@ -1057,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782324",
       "published_at": "2026-07-20T16:31:41+00:00",
-      "revalidated_at": "2026-07-21T01:03:23+00:00"
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
     },
     {
       "asin": "B0FR7K693P",
@@ -1079,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19785297",
       "published_at": "2026-07-20T16:01:42+00:00",
-      "revalidated_at": "2026-07-21T01:01:32+00:00"
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
     },
     {
       "asin": "B0D1CXL52G",
@@ -1167,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782153",
       "published_at": "2026-07-20T14:46:45+00:00",
-      "revalidated_at": "2026-07-21T01:03:23+00:00"
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
     },
     {
       "asin": "B0GGB9QC6T",
@@ -1189,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19783656",
       "published_at": "2026-07-20T14:46:45+00:00",
-      "revalidated_at": "2026-07-21T01:03:23+00:00"
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
     },
     {
       "asin": "B0GSQKP7RF",
@@ -1211,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773666",
       "published_at": "2026-07-20T14:15:53+00:00",
-      "revalidated_at": "2026-07-21T01:01:32+00:00"
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
     },
     {
       "asin": "B0CYHGTMNH",
@@ -1233,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776111",
       "published_at": "2026-07-20T14:15:53+00:00",
-      "revalidated_at": "2026-07-21T01:01:32+00:00"
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
     },
     {
       "asin": "B09XW9ZPCT",
@@ -1409,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19762680",
       "published_at": "2026-07-20T12:30:53+00:00",
-      "revalidated_at": "2026-07-21T01:01:32+00:00"
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
     },
     {
       "asin": "B08T5QN2TR",
@@ -1453,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773936",
       "published_at": "2026-07-20T10:45:38+00:00",
-      "revalidated_at": "2026-07-21T01:03:23+00:00"
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
     },
     {
       "asin": "B074H5LYGT",
@@ -2245,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782357",
       "published_at": "2026-07-19T21:01:34+00:00",
-      "revalidated_at": "2026-07-21T01:01:32+00:00"
+      "revalidated_at": "2026-07-21T03:00:48+00:00"
     },
     {
       "asin": "1631409905",
@@ -2554,50 +2642,6 @@
       "deal_key": "sd:19776093",
       "published_at": "2026-07-19T15:41:42+00:00",
       "revalidated_at": "2026-07-21T02:30:32+00:00"
-    },
-    {
-      "asin": "B0D2PNT1W1",
-      "title": "16-Oz Contigo Byron 2.0 Stainless Steel Insulated Travel Mug (Pansy) 2 for",
-      "title_es": "Taza de viaje aislada Contigo Byron 2.0 de acero inoxidable de 16 oz (Pansy)",
-      "headline": null,
-      "post": "Esta taza de viaje Contigo Byron 2.0 de acero inoxidable mantiene tus bebidas calientes o frías durante horas, ideal para llevar café o té a cualquier parte. Su diseño a prueba de derrames la hace perfecta para el día a día y viajes. ☕",
-      "post_en": "This Contigo Byron 2.0 stainless steel insulated travel mug keeps your drinks hot or cold for hours, ideal for taking coffee or tea anywhere. Its spill-proof design makes it perfect for daily use and travel. ☕",
-      "price_new": 19.5,
-      "price_old": 38.98,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/7120ldldUGL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D2PNT1W1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19753323",
-      "published_at": "2026-07-19T15:41:42+00:00",
-      "revalidated_at": "2026-07-21T02:30:32+00:00"
-    },
-    {
-      "asin": "B0DJG5VWTV",
-      "title": "Panasonic LUMIX S9 Full-Frame Mirrorless Camera w/ S 18-40mm F4.5-6.3 Lens at Amazon",
-      "title_es": "Cámara mirrorless Full-Frame Panasonic LUMIX S9 con objetivo S 18-40mm F4.5-6.3",
-      "headline": null,
-      "post": "La Panasonic LUMIX S9 es una cámara mirrorless Full-Frame compacta, ideal para creadores de contenido que buscan alta calidad de imagen y video. Viene con un versátil objetivo S 18-40mm, perfecto para capturar desde paisajes hasta retratos. 📸",
-      "post_en": "The Panasonic LUMIX S9 is a compact Full-Frame mirrorless camera, ideal for content creators seeking high-quality image and video. It comes with a versatile S 18-40mm lens, perfect for capturing everything from landscapes to portraits. 📸",
-      "price_new": 139.0,
-      "price_old": 867.0,
-      "currency": "USD",
-      "discount_pct": 84.0,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/710+xeJTnWL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DJG5VWTV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19765929",
-      "published_at": "2026-07-19T14:31:03+00:00",
-      "revalidated_at": "2026-07-21T01:45:33+00:00"
     }
   ]
 }
