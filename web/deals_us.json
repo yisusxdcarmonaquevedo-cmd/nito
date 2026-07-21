@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-21T22:31:45+00:00",
+  "generated_at": "2026-07-21T22:46:38+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B008FUJ2LK",
+      "title": "9.1\" Instant Pot 6-Quart Tempered Glass Lid w/ Stainless Steel Handle & Rim",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.6,
+      "price_old": 19.23,
+      "currency": "USD",
+      "discount_pct": 50.1,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21054192.thumb",
+      "url": "https://amazon.com/dp/B008FUJ2LK/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19789584",
+      "published_at": "2026-07-21T22:46:38+00:00",
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
+    },
     {
       "asin": "B0FWMSPRN2",
       "title": "17-Oz Method Exfoliating Body Wash (Lavender, Eucalyptus & Rose)",
@@ -36,11 +58,11 @@
       "price_old": 399.99,
       "currency": "USD",
       "discount_pct": 42.5,
-      "rating": null,
+      "rating": 4.3,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/21043194.thumb",
+      "image": "https://m.media-amazon.com/images/I/51oJ9GjSFRL._AC_SL1321_.jpg",
       "url": "https://amazon.com/dp/B0B8B8MCF1/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19785438",
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786800",
       "published_at": "2026-07-21T21:01:27+00:00",
-      "revalidated_at": "2026-07-21T21:01:27+00:00"
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
     },
     {
       "asin": "B09VSY2GXW",
@@ -727,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19761189",
       "published_at": "2026-07-21T17:30:55+00:00",
-      "revalidated_at": "2026-07-21T21:01:27+00:00"
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
     },
     {
       "asin": "B0DBLRCP2F",
@@ -991,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19788225",
       "published_at": "2026-07-21T15:31:14+00:00",
-      "revalidated_at": "2026-07-21T21:01:27+00:00"
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
     },
     {
       "asin": "B0F62KYJX1",
@@ -1013,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786314",
       "published_at": "2026-07-21T15:31:14+00:00",
-      "revalidated_at": "2026-07-21T21:01:27+00:00"
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
     },
     {
       "asin": "B07M62L77L",
@@ -1123,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786410",
       "published_at": "2026-07-21T13:45:54+00:00",
-      "revalidated_at": "2026-07-21T21:01:27+00:00"
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
     },
     {
       "asin": "B0FKNJHYR9",
@@ -1255,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19787493",
       "published_at": "2026-07-21T12:00:44+00:00",
-      "revalidated_at": "2026-07-21T21:01:27+00:00"
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
     },
     {
       "asin": "B0FR9N3W25",
@@ -1387,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773168",
       "published_at": "2026-07-21T10:00:52+00:00",
-      "revalidated_at": "2026-07-21T21:01:27+00:00"
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
     },
     {
       "asin": "B0FDB8BS79",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19768152",
       "published_at": "2026-07-21T08:15:49+00:00",
-      "revalidated_at": "2026-07-21T21:01:27+00:00"
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
     },
     {
       "asin": "B0FSFRY856",
@@ -1453,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784568",
       "published_at": "2026-07-21T08:15:49+00:00",
-      "revalidated_at": "2026-07-21T21:01:27+00:00"
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
     },
     {
       "asin": "B0GR9WYXN1",
@@ -1783,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773759",
       "published_at": "2026-07-21T02:00:49+00:00",
-      "revalidated_at": "2026-07-21T21:01:27+00:00"
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
     },
     {
       "asin": "B08NYMBXG8",
@@ -1937,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19787937",
       "published_at": "2026-07-21T00:31:54+00:00",
-      "revalidated_at": "2026-07-21T21:01:27+00:00"
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
     },
     {
       "asin": "B0CSFJR66V",
@@ -2028,28 +2050,6 @@
       "revalidated_at": "2026-07-21T21:16:28+00:00"
     },
     {
-      "asin": "B08JPC2M46",
-      "title": "Amazon - Swim Goggles 2 Pack Anti-Fog Anti-UV Wide View Swimming Goggles for Kids 3-14 -",
-      "title_es": "Gafas de natación Amazon 2 unidades anti-vaho anti-UV de visión amplia para niños 3-14",
-      "headline": null,
-      "post": "Este pack de dos gafas de natación es ideal para niños de 3 a 14 años, ofreciendo una visión amplia y protección anti-vaho y UV. Son perfectas para que los pequeños nadadores disfruten cómodamente en la piscina o el mar.",
-      "post_en": "This 2-pack of swim goggles is ideal for children aged 3 to 14, offering a wide view and anti-fog and UV protection. They are perfect for young swimmers to comfortably enjoy the pool or the sea.",
-      "price_new": 7.49,
-      "price_old": 14.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/612ZG0PJKYL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B08JPC2M46/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19785789",
-      "published_at": "2026-07-21T00:16:29+00:00",
-      "revalidated_at": "2026-07-21T21:01:27+00:00"
-    },
-    {
       "asin": "B0GWHG9HPN",
       "title": "MAPICK Women's Short Sleeve Tee Casual Loose Fit V Neck Shirt (Various)",
       "title_es": "Camiseta de manga corta MAPICK para mujer, corte holgado con cuello en V",
@@ -2113,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19787070",
       "published_at": "2026-07-21T00:02:03+00:00",
-      "revalidated_at": "2026-07-21T20:51:52+00:00"
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
     },
     {
       "asin": "B0H2MFTCZ4",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786227",
       "published_at": "2026-07-21T00:02:03+00:00",
-      "revalidated_at": "2026-07-21T20:51:52+00:00"
+      "revalidated_at": "2026-07-21T22:46:38+00:00"
     },
     {
       "asin": "B09RC41QGJ",
