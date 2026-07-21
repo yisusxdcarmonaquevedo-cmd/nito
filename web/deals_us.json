@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T17:30:55+00:00",
+  "generated_at": "2026-07-21T17:45:50+00:00",
   "market": "us",
-  "count": 120,
+  "count": 117,
   "deals": [
     {
       "asin": "B0G8HBRLJC",
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786158",
       "published_at": "2026-07-21T15:46:16+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
+      "revalidated_at": "2026-07-21T17:45:50+00:00"
     },
     {
       "asin": "B0G6SRV6MB",
@@ -265,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19785534",
       "published_at": "2026-07-21T15:46:16+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
+      "revalidated_at": "2026-07-21T17:45:50+00:00"
     },
     {
       "asin": "B0G87JWX8L",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19788324",
       "published_at": "2026-07-21T15:46:16+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
+      "revalidated_at": "2026-07-21T17:45:50+00:00"
     },
     {
       "asin": "B0BMDRBPM7",
@@ -774,28 +774,6 @@
       "revalidated_at": "2026-07-21T17:01:04+00:00"
     },
     {
-      "asin": "B0GVDWHG7N",
-      "title": "Rrtizan Rechargeable 5000mAh Handheld Misting Fan (Dark Blue)",
-      "title_es": "Rrtizan Ventilador de Mano Pulverizador Recargable de 5000mAh (Azul Oscuro)",
-      "headline": null,
-      "post": "Este ventilador de mano recargable Rrtizan ofrece una potente brisa y función de pulverización para mantenerte fresco. Es ideal para llevar contigo y combatir el calor en cualquier lugar gracias a su batería de 5000mAh. 🌬️",
-      "post_en": "This Rrtizan rechargeable handheld fan provides a powerful breeze and misting function to keep you cool. It's perfect for on-the-go use, helping you beat the heat anywhere thanks to its 5000mAh battery. 🌬️",
-      "price_new": 13.3,
-      "price_old": 26.99,
-      "currency": "USD",
-      "discount_pct": 50.7,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "VVI8VVDJ",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71djBzSwmhL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GVDWHG7N/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19770624",
-      "published_at": "2026-07-21T08:30:43+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
-    },
-    {
       "asin": "1684128870",
       "title": "Harry Potter Crochet Craft Kit",
       "title_es": "Kit de Ganchillo Harry Potter",
@@ -1145,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19788516",
       "published_at": "2026-07-21T02:45:39+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
+      "revalidated_at": "2026-07-21T17:45:50+00:00"
     },
     {
       "asin": "B0GKPLHPCZ",
@@ -1167,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19788102",
       "published_at": "2026-07-21T02:45:39+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
+      "revalidated_at": "2026-07-21T17:45:50+00:00"
     },
     {
       "asin": "B004N627KS",
@@ -1322,28 +1300,6 @@
       "deal_key": "sd:19787541",
       "published_at": "2026-07-21T01:16:38+00:00",
       "revalidated_at": "2026-07-21T16:15:52+00:00"
-    },
-    {
-      "asin": "B0B5M1YRXQ",
-      "title": "$14.10 Amazon FS PRIME Duck HP260 High Performance Packing Tape Refills, 6 Rolls | Heavy Duty, E-Commerce Shipping, Warehouses, Tear-Resistant,",
-      "title_es": "Recambios de cinta de embalaje de alto rendimiento Duck HP260, 6 rollos",
-      "headline": null,
-      "post": "Este pack de 6 rollos de cinta de embalaje Duck HP260 de alto rendimiento es ideal para envíos de e-commerce y almacenes. Su diseño resistente garantiza un sellado seguro y duradero para tus paquetes.",
-      "post_en": "This 6-roll pack of Duck HP260 high-performance packing tape is perfect for e-commerce shipping and warehouse use. Its heavy-duty, tear-resistant design ensures secure and durable sealing for your packages.",
-      "price_new": 14.1,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 76.5,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/6182e6F+i0L._SL1200_.jpg",
-      "url": "https://amazon.com/dp/B0B5M1YRXQ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19775634",
-      "published_at": "2026-07-21T01:01:32+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
     },
     {
       "asin": "B0GJYKV5GP",
@@ -1673,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19788312",
       "published_at": "2026-07-20T23:16:45+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
+      "revalidated_at": "2026-07-21T17:45:50+00:00"
     },
     {
       "asin": "B0CW1QN3DF",
@@ -1695,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769628",
       "published_at": "2026-07-20T22:46:37+00:00",
-      "revalidated_at": "2026-07-21T15:31:14+00:00"
+      "revalidated_at": "2026-07-21T17:45:50+00:00"
     },
     {
       "asin": "B0DR1K3DM1",
@@ -1718,28 +1674,6 @@
       "deal_key": "sd:19787544",
       "published_at": "2026-07-20T22:31:33+00:00",
       "revalidated_at": "2026-07-21T17:01:04+00:00"
-    },
-    {
-      "asin": "B001OMGKUC",
-      "title": "9\" Swanson Tool Speedlite Torpedo Level at Amazon",
-      "title_es": "Nivel de torpedo Swanson Tool Speedlite de 9 pulgadas",
-      "headline": null,
-      "post": "Consigue mediciones precisas con este nivel de torpedo Swanson Tool Speedlite de 9 pulgadas, compacto y fácil de usar. Ideal para trabajos de bricolaje, instalación y proyectos domésticos.",
-      "post_en": "Get precise measurements with this 9-inch Swanson Tool Speedlite torpedo level, compact and easy to use. Ideal for DIY tasks, installation, and home projects.",
-      "price_new": 0.86,
-      "price_old": 3.99,
-      "currency": "USD",
-      "discount_pct": 78.4,
-      "rating": 4.7,
-      "condition": "sns",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51c2ntAWyzL._SL1000_.jpg",
-      "url": "https://amazon.com/dp/B001OMGKUC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19787802",
-      "published_at": "2026-07-20T21:36:08+00:00",
-      "revalidated_at": "2026-07-21T15:46:16+00:00"
     },
     {
       "asin": "B0G87T2HXK",
@@ -1783,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784790",
       "published_at": "2026-07-20T21:31:50+00:00",
-      "revalidated_at": "2026-07-21T15:31:14+00:00"
+      "revalidated_at": "2026-07-21T17:45:50+00:00"
     },
     {
       "asin": "B0FQFH9BST",
@@ -1805,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786857",
       "published_at": "2026-07-20T21:31:50+00:00",
-      "revalidated_at": "2026-07-21T15:31:14+00:00"
+      "revalidated_at": "2026-07-21T17:45:50+00:00"
     },
     {
       "asin": "B0DJ19VVJ1",
@@ -2311,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784619",
       "published_at": "2026-07-20T13:45:53+00:00",
-      "revalidated_at": "2026-07-21T15:31:14+00:00"
+      "revalidated_at": "2026-07-21T17:45:50+00:00"
     },
     {
       "asin": "B06XXZ19HX",
@@ -2333,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782240",
       "published_at": "2026-07-20T13:31:06+00:00",
-      "revalidated_at": "2026-07-21T15:31:14+00:00"
+      "revalidated_at": "2026-07-21T17:45:50+00:00"
     },
     {
       "asin": "B001FA0W5W",
@@ -2531,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19783272",
       "published_at": "2026-07-20T09:45:56+00:00",
-      "revalidated_at": "2026-07-21T15:31:14+00:00"
+      "revalidated_at": "2026-07-21T17:45:50+00:00"
     },
     {
       "asin": "B0G1H49J6D",
