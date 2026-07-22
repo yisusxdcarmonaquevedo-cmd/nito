@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-22T08:46:18+00:00",
+  "generated_at": "2026-07-22T09:01:28+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B00L8KDBCK",
+      "title": "12-Pack 12-Oz Seagram's Ginger Ale",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.68,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 86.6,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81CrcqfWN3L._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B00L8KDBCK/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19793769",
+      "published_at": "2026-07-22T09:01:28+00:00",
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
+    },
     {
       "asin": "B0FTFK7R1N",
       "title": "OSULLOC Volcanic Isle Matcha Milk Tea Latte Powder (10.6oz, 300g)",
@@ -46,28 +68,6 @@
       "deal_key": "sd:19792833",
       "published_at": "2026-07-22T07:31:21+00:00",
       "revalidated_at": "2026-07-22T07:31:21+00:00"
-    },
-    {
-      "asin": "B00004YTPX",
-      "title": "10-Count BIC Round Stic Xtra Life Medium Point Ball Pens (Blue, 1.0mm)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 0.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 97.2,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81vTybix+fL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00004YTPX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19780746",
-      "published_at": "2026-07-22T07:01:27+00:00",
-      "revalidated_at": "2026-07-22T07:01:27+00:00"
     },
     {
       "asin": "B08HW1L75J",
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19775130",
       "published_at": "2026-07-22T03:31:20+00:00",
-      "revalidated_at": "2026-07-22T07:01:27+00:00"
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
     },
     {
       "asin": "B0C5VBDC65",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19793046",
       "published_at": "2026-07-22T01:31:29+00:00",
-      "revalidated_at": "2026-07-22T07:01:27+00:00"
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
     },
     {
       "asin": "B0GTNHY43L",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19793100",
       "published_at": "2026-07-22T01:31:29+00:00",
-      "revalidated_at": "2026-07-22T07:01:27+00:00"
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
     },
     {
       "asin": "B0GQY5ZM3T",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19774722",
       "published_at": "2026-07-21T20:30:34+00:00",
-      "revalidated_at": "2026-07-22T07:01:27+00:00"
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
     },
     {
       "asin": "B0F923XCK6",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763130",
       "published_at": "2026-07-21T20:30:34+00:00",
-      "revalidated_at": "2026-07-22T07:01:27+00:00"
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
     },
     {
       "asin": "B0GKDB57SQ",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19777791",
       "published_at": "2026-07-21T18:30:51+00:00",
-      "revalidated_at": "2026-07-22T07:01:27+00:00"
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
     },
     {
       "asin": "B0C4SNV366",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784799",
       "published_at": "2026-07-21T16:46:25+00:00",
-      "revalidated_at": "2026-07-22T07:01:27+00:00"
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
     },
     {
       "asin": "B0C8HCCFR9",
@@ -1475,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19761096",
       "published_at": "2026-07-21T15:01:01+00:00",
-      "revalidated_at": "2026-07-22T07:01:27+00:00"
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
     },
     {
       "asin": "B096QF7YTT",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776525",
       "published_at": "2026-07-21T07:30:42+00:00",
-      "revalidated_at": "2026-07-22T07:01:27+00:00"
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
     },
     {
       "asin": "B0009J5NXG",
@@ -2025,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19787877",
       "published_at": "2026-07-21T03:45:45+00:00",
-      "revalidated_at": "2026-07-22T07:01:27+00:00"
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
     },
     {
       "asin": "B0CBRV94B1",
@@ -2047,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19770456",
       "published_at": "2026-07-21T03:45:45+00:00",
-      "revalidated_at": "2026-07-22T07:01:27+00:00"
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
     },
     {
       "asin": "B0B9GP3WS4",
@@ -2091,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19764813",
       "published_at": "2026-07-21T03:00:48+00:00",
-      "revalidated_at": "2026-07-22T07:01:27+00:00"
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
     },
     {
       "asin": "B08Q5SWVFC",
@@ -2619,29 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19769628",
       "published_at": "2026-07-20T22:46:37+00:00",
-      "revalidated_at": "2026-07-22T06:46:15+00:00"
-    },
-    {
-      "asin": "B0DR1K3DM1",
-      "title": "UGREEN Wireless Bluetooth Ergonomic Mouse",
-      "title_es": "Ratón ergonómico inalámbrico Bluetooth UGREEN",
-      "headline": null,
-      "post": "Mejora tu comodidad y productividad con este ratón ergonómico inalámbrico UGREEN Bluetooth. Su diseño está pensado para reducir la tensión en la muñeca durante largas horas de uso.",
-      "post_en": "Enhance your comfort and productivity with this UGREEN ergonomic wireless Bluetooth mouse. Its design aims to reduce wrist strain during long hours of use.",
-      "price_new": 14.99,
-      "price_old": 25.99,
-      "currency": "USD",
-      "discount_pct": 42.3,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51ajqadTtaL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DR1K3DM1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19787544",
-      "published_at": "2026-07-20T22:31:33+00:00",
-      "revalidated_at": "2026-07-22T06:46:15+00:00"
+      "revalidated_at": "2026-07-22T09:01:28+00:00"
     }
   ]
 }
