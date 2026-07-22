@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T00:31:37+00:00",
+  "generated_at": "2026-07-22T00:46:18+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -14,11 +14,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 74.3,
-      "rating": null,
+      "rating": 5.0,
       "condition": "code",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/21056508.thumb",
+      "image": "https://m.media-amazon.com/images/I/71oydar4QkL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GQY5ZM3T/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19790376",
@@ -265,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19792638",
       "published_at": "2026-07-21T21:31:55+00:00",
-      "revalidated_at": "2026-07-21T23:14:51+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B0DPQDD8YZ",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19792149",
       "published_at": "2026-07-21T21:31:55+00:00",
-      "revalidated_at": "2026-07-21T23:14:51+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B08D9MVRXT",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773612",
       "published_at": "2026-07-21T21:31:55+00:00",
-      "revalidated_at": "2026-07-21T23:14:51+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B0CDPQ3MQN",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784760",
       "published_at": "2026-07-21T21:31:55+00:00",
-      "revalidated_at": "2026-07-21T23:14:51+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B0GCF3GK1C",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19791105",
       "published_at": "2026-07-21T19:45:35+00:00",
-      "revalidated_at": "2026-07-21T23:14:51+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B07NQD3TMD",
@@ -551,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19790472",
       "published_at": "2026-07-21T19:45:35+00:00",
-      "revalidated_at": "2026-07-21T23:14:51+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B0BNQ6PJZT",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19785894",
       "published_at": "2026-07-21T18:01:09+00:00",
-      "revalidated_at": "2026-07-21T23:14:51+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B002F3QYZA",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19765320",
       "published_at": "2026-07-21T18:01:09+00:00",
-      "revalidated_at": "2026-07-21T23:14:51+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B0FK22SXWH",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19790853",
       "published_at": "2026-07-21T18:01:09+00:00",
-      "revalidated_at": "2026-07-21T23:14:51+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B0DX6RVJF7",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19788846",
       "published_at": "2026-07-21T18:01:09+00:00",
-      "revalidated_at": "2026-07-21T23:14:51+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B0GX62DBBM",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19778874",
       "published_at": "2026-07-21T18:01:09+00:00",
-      "revalidated_at": "2026-07-21T23:14:51+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B0G8HBRLJC",
@@ -1392,10 +1392,10 @@
     {
       "asin": "B0DBX3MF6N",
       "title": "ZAGG Pro Keys 2 iPad Pro 13\" (M5)/ Pro 13\" (M4) Keyboard Case at Amazon",
-      "title_es": null,
+      "title_es": "Funda con teclado ZAGG Pro Keys 2 para iPad Pro 13\" (M5)/ Pro 13\" (M4)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta funda con teclado ZAGG Pro Keys 2 convierte tu iPad Pro 13\" en una estación de trabajo portátil. Ofrece protección robusta y una experiencia de escritura cómoda, ideal para estudiantes o profesionales en movimiento. 🚀",
+      "post_en": "This ZAGG Pro Keys 2 keyboard case transforms your iPad Pro 13\" into a portable workstation. It provides robust protection and a comfortable typing experience, perfect for students or professionals on the go. 🚀",
       "price_new": 64.99,
       "price_old": 149.99,
       "currency": "USD",
@@ -1414,10 +1414,10 @@
     {
       "asin": "B0C2ZKLV2D",
       "title": "30-Pk 10\" Glad for Kids Disney Princess Paper Plates (Floral Frames)",
-      "title_es": null,
+      "title_es": "Paquete de 30 platos de papel Glad for Kids Disney Princess de 10\" (Marcos florales)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este paquete de 30 platos de papel Glad for Kids con diseño de Disney Princess es perfecto para cualquier celebración infantil. Con 10 pulgadas y un resistente diseño de marcos florales, son ideales para facilitar la limpieza en fiestas y reuniones. ✨",
+      "post_en": "This 30-pack of Glad for Kids Disney Princess paper plates is perfect for any children's celebration. Featuring a 10-inch size and sturdy floral frames design, they are ideal for easy cleanup at parties and gatherings. ✨",
       "price_new": 3.7,
       "price_old": 7.69,
       "currency": "USD",
@@ -2003,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19785105",
       "published_at": "2026-07-21T00:46:20+00:00",
-      "revalidated_at": "2026-07-21T23:14:51+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B0F9FKRBJB",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19787544",
       "published_at": "2026-07-20T22:31:33+00:00",
-      "revalidated_at": "2026-07-21T23:01:34+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B0G87T2HXK",
@@ -2421,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786947",
       "published_at": "2026-07-20T21:01:49+00:00",
-      "revalidated_at": "2026-07-21T23:01:34+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B0DF8RSVJK",
@@ -2465,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782993",
       "published_at": "2026-07-20T20:31:32+00:00",
-      "revalidated_at": "2026-07-21T23:01:34+00:00"
+      "revalidated_at": "2026-07-22T00:46:18+00:00"
     },
     {
       "asin": "B0C3ZH8FY5",
