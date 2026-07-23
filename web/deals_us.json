@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-23T16:16:18+00:00",
+  "generated_at": "2026-07-23T16:31:26+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B000NRG4TQ",
+      "title": "Snow's Wild Caught Chopped Clams Canned, 6.5 oz Can (Pack of 12) - 5g Protein Per Serving - Keto Friendly, 99% Fat Free~$19.55 With S&S @ Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.55,
+      "price_old": 29.29,
+      "currency": "USD",
+      "discount_pct": 33.3,
+      "rating": null,
+      "condition": "sns",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/1/7/2/9/6/9/0/450x450/21054651.thumb",
+      "url": "https://amazon.com/dp/B000NRG4TQ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19789797",
+      "published_at": "2026-07-23T16:31:26+00:00",
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
+    },
     {
       "asin": "B0C4TQ398M",
       "title": "3\" Gaialoop Dual Layer Memory Foam Camping Mattress w/ Washable Cover (Green, Various Sizes) from",
@@ -14,11 +36,11 @@
       "price_old": 79.99,
       "currency": "USD",
       "discount_pct": 55.8,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "9JDSGWKS",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21064902.thumb",
+      "image": "https://m.media-amazon.com/images/I/919gXmacLAL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0C4TQ398M/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19793469",
@@ -36,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 52.2,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "RH5WVCRE",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21017577.thumb",
+      "image": "https://m.media-amazon.com/images/I/51HxmtWdoLL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CSK7H7HB/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19775076",
@@ -177,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19778748",
       "published_at": "2026-07-23T14:46:37+00:00",
-      "revalidated_at": "2026-07-23T14:46:37+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B08W2DLP47",
@@ -419,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19795902",
       "published_at": "2026-07-23T13:01:36+00:00",
-      "revalidated_at": "2026-07-23T14:46:37+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B097PG84S9",
@@ -441,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19756599",
       "published_at": "2026-07-23T13:01:36+00:00",
-      "revalidated_at": "2026-07-23T14:46:37+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B0GR8QCLKS",
@@ -463,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19796703",
       "published_at": "2026-07-23T13:01:36+00:00",
-      "revalidated_at": "2026-07-23T14:46:37+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B0GFCYN78G",
@@ -485,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19795773",
       "published_at": "2026-07-23T13:01:36+00:00",
-      "revalidated_at": "2026-07-23T14:46:37+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B0GKP35R9Z",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19793490",
       "published_at": "2026-07-23T07:23:41+00:00",
-      "revalidated_at": "2026-07-23T14:46:37+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B0CKS16PYG",
@@ -1035,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19797240",
       "published_at": "2026-07-23T01:45:34+00:00",
-      "revalidated_at": "2026-07-23T14:46:37+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B0DGG89R5X",
@@ -1145,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19780587",
       "published_at": "2026-07-22T23:45:45+00:00",
-      "revalidated_at": "2026-07-23T14:46:37+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B0FWVBKNCL",
@@ -1475,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19795755",
       "published_at": "2026-07-22T18:31:23+00:00",
-      "revalidated_at": "2026-07-23T14:46:37+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B0CP9ZX49N",
@@ -1497,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19794093",
       "published_at": "2026-07-22T18:31:23+00:00",
-      "revalidated_at": "2026-07-23T14:46:37+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B0BB5Q2Y96",
@@ -1827,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19783377",
       "published_at": "2026-07-22T15:01:45+00:00",
-      "revalidated_at": "2026-07-23T14:46:37+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B001KYVYZ0",
@@ -2179,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19793769",
       "published_at": "2026-07-22T09:01:28+00:00",
-      "revalidated_at": "2026-07-23T14:31:27+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B0FTFK7R1N",
@@ -2223,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19792833",
       "published_at": "2026-07-22T07:31:21+00:00",
-      "revalidated_at": "2026-07-23T14:31:27+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B08HW1L75J",
@@ -2575,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19774509",
       "published_at": "2026-07-21T22:01:53+00:00",
-      "revalidated_at": "2026-07-23T14:31:27+00:00"
+      "revalidated_at": "2026-07-23T16:31:26+00:00"
     },
     {
       "asin": "B0F7HHMR8B",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:19792638",
       "published_at": "2026-07-21T21:31:55+00:00",
       "revalidated_at": "2026-07-23T15:31:31+00:00"
-    },
-    {
-      "asin": "B0DPQDD8YZ",
-      "title": "The World Atlas of Coffee 3rd edition: From beans to brewing – coffees explored, explained and enjoyed (eBook) by James Hoffmann",
-      "title_es": "El Atlas Mundial del Café 3ª Edición (eBook) de James Hoffmann",
-      "headline": null,
-      "post": "Sumérgete en el fascinante mundo del café con este eBook de James Hoffmann, una guía esencial para amantes del café. Explora desde los granos hasta la preparación, con explicaciones detalladas y consejos para disfrutar al máximo. ☕",
-      "post_en": "Dive into the fascinating world of coffee with this eBook by James Hoffmann, an essential guide for coffee lovers. Explore everything from beans to brewing, with detailed explanations and tips for maximum enjoyment. ☕",
-      "price_new": 1.99,
-      "price_old": 18.99,
-      "currency": "USD",
-      "discount_pct": 89.5,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/91cE1AigdcL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DPQDD8YZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19792149",
-      "published_at": "2026-07-21T21:31:55+00:00",
-      "revalidated_at": "2026-07-23T15:46:32+00:00"
     }
   ]
 }
