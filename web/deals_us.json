@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-23T11:46:30+00:00",
+  "generated_at": "2026-07-23T11:58:41+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B09KF8MKB8",
+      "title": "One A Day Men’s 50+ Multivitamin, 200 Count",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.98,
+      "price_old": 19.97,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/2/6/3/4/4/5/8/9/450x450/21052371.thumb",
+      "url": "https://amazon.com/dp/B09KF8MKB8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19788837",
+      "published_at": "2026-07-23T11:58:41+00:00",
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
+    },
     {
       "asin": "B08536T762",
       "title": "SIMIYA Womens Sports Bras, Yoga Comfort Seamless Stretchy Sports Bra for Women 3 Pack Black",
@@ -68,28 +90,6 @@
       "deal_key": "sd:19787481",
       "published_at": "2026-07-23T10:31:26+00:00",
       "revalidated_at": "2026-07-23T10:31:26+00:00"
-    },
-    {
-      "asin": "B0DBVMFX1B",
-      "title": "[Prime] 4-Pack 33FT Lakumu Battery Operated 100 LED Fairy Lights w/ Remote",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.74,
-      "price_old": 23.99,
-      "currency": "USD",
-      "discount_pct": 59.4,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "LTY43KWW",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81eIjH+80jL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DBVMFX1B/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19772304",
-      "published_at": "2026-07-23T10:01:22+00:00",
-      "revalidated_at": "2026-07-23T10:01:22+00:00"
     },
     {
       "asin": "B09SBQYJDY",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19796940",
       "published_at": "2026-07-23T02:30:41+00:00",
-      "revalidated_at": "2026-07-23T10:01:22+00:00"
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
     },
     {
       "asin": "B0FRMCJKJ9",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19774608",
       "published_at": "2026-07-22T19:16:26+00:00",
-      "revalidated_at": "2026-07-23T10:01:22+00:00"
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
     },
     {
       "asin": "B0FQFB1BVF",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19791423",
       "published_at": "2026-07-22T15:31:25+00:00",
-      "revalidated_at": "2026-07-23T10:01:22+00:00"
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
     },
     {
       "asin": "B0F84LQRYZ",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19793250",
       "published_at": "2026-07-22T13:46:45+00:00",
-      "revalidated_at": "2026-07-23T10:01:22+00:00"
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
     },
     {
       "asin": "B0G43PTWRT",
@@ -1431,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19794936",
       "published_at": "2026-07-22T13:46:45+00:00",
-      "revalidated_at": "2026-07-23T10:01:22+00:00"
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
     },
     {
       "asin": "B0DJ1CSHXK",
@@ -2091,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19792638",
       "published_at": "2026-07-21T21:31:55+00:00",
-      "revalidated_at": "2026-07-23T10:01:22+00:00"
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
     },
     {
       "asin": "B0DPQDD8YZ",
@@ -2113,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19792149",
       "published_at": "2026-07-21T21:31:55+00:00",
-      "revalidated_at": "2026-07-23T10:01:22+00:00"
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
     },
     {
       "asin": "B08D9MVRXT",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19773612",
       "published_at": "2026-07-21T21:31:55+00:00",
-      "revalidated_at": "2026-07-23T10:01:22+00:00"
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
     },
     {
       "asin": "B0CDPQ3MQN",
@@ -2157,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784760",
       "published_at": "2026-07-21T21:31:55+00:00",
-      "revalidated_at": "2026-07-23T10:01:22+00:00"
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
     },
     {
       "asin": "B0GCF3GK1C",
@@ -2223,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19774722",
       "published_at": "2026-07-21T20:30:34+00:00",
-      "revalidated_at": "2026-07-23T09:46:19+00:00"
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
     },
     {
       "asin": "B0F923XCK6",
@@ -2245,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763130",
       "published_at": "2026-07-21T20:30:34+00:00",
-      "revalidated_at": "2026-07-23T09:46:19+00:00"
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
     },
     {
       "asin": "B0GKDB57SQ",
@@ -2377,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782180",
       "published_at": "2026-07-21T19:31:05+00:00",
-      "revalidated_at": "2026-07-23T10:01:22+00:00"
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
     },
     {
       "asin": "B0BRTC5VN7",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19792167",
       "published_at": "2026-07-21T19:00:51+00:00",
-      "revalidated_at": "2026-07-23T10:01:22+00:00"
+      "revalidated_at": "2026-07-23T11:58:41+00:00"
     },
     {
       "asin": "B0FCBT541C",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19761189",
       "published_at": "2026-07-21T17:30:55+00:00",
       "revalidated_at": "2026-07-23T10:46:22+00:00"
-    },
-    {
-      "asin": "B0DBLRCP2F",
-      "title": "14\" GUND Disney Official Minnie Mouse Classic Plush",
-      "title_es": "Peluche Clásico Oficial GUND Disney Minnie Mouse de 14\"",
-      "headline": null,
-      "post": "Adorable peluche oficial GUND de Minnie Mouse de 14 pulgadas, perfecto para abrazar y coleccionar. Un regalo encantador para fans de Disney de todas las edades. 🎀",
-      "post_en": "Adorable 14-inch GUND Official Disney Minnie Mouse Classic Plush, perfect for cuddling and collecting. A charming gift for Disney fans of all ages. 🎀",
-      "price_new": 5.44,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 84.5,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/815Ck3XCwpL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DBLRCP2F/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19789896",
-      "published_at": "2026-07-21T17:16:07+00:00",
-      "revalidated_at": "2026-07-23T10:01:22+00:00"
     }
   ]
 }
