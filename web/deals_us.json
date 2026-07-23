@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T23:45:45+00:00",
+  "generated_at": "2026-07-23T00:00:52+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -36,11 +36,11 @@
       "price_old": 24.99,
       "currency": "USD",
       "discount_pct": 40.3,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21031500.thumb",
+      "image": "https://m.media-amazon.com/images/I/71MW8ZR1vUL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B093KTJ7FH/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19780587",
@@ -58,11 +58,11 @@
       "price_old": 2.33,
       "currency": "USD",
       "discount_pct": 51.9,
-      "rating": null,
+      "rating": 4.2,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/21076011.thumb",
+      "image": "https://m.media-amazon.com/images/I/512qWw0vSgL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FWVBKNCL/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19797243",
@@ -80,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 65.7,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/21073341.thumb",
+      "image": "https://m.media-amazon.com/images/I/61-xRFSS12L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CQZ4JG1K/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19796211",
@@ -111,7 +111,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776099",
       "published_at": "2026-07-22T22:01:03+00:00",
-      "revalidated_at": "2026-07-22T22:01:03+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B0DR3Y8B9V",
@@ -199,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784466",
       "published_at": "2026-07-22T20:31:26+00:00",
-      "revalidated_at": "2026-07-22T22:01:03+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B0FPMQSDW6",
@@ -226,10 +226,10 @@
     {
       "asin": "B0GSZ256RW",
       "title": "[Prime] 2-Pack YANIKY Men's or Women's Breathable Mesh Helmet Liner Skull Cap",
-      "title_es": null,
+      "title_es": "Pack de 2 gorros transpirables YANIKY para casco (hombre/mujer)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estos gorros YANIKY de malla transpirable son ideales para usar bajo el casco, proporcionando comodidad y absorción del sudor. Perfectos para ciclistas, motoristas o cualquier actividad que requiera protección y frescura en la cabeza. 🌬️",
+      "post_en": "These YANIKY breathable mesh skull caps are ideal for wearing under a helmet, providing comfort and sweat absorption. Perfect for cyclists, motorcyclists, or any activity requiring head protection and coolness. 🌬️",
       "price_new": 7.19,
       "price_old": 16.99,
       "currency": "USD",
@@ -248,10 +248,10 @@
     {
       "asin": "B0FQFB1BVF",
       "title": "Beats iPhone Kickstand Case with MagSafe & Camera Control: iPhone 17 Pro",
-      "title_es": null,
+      "title_es": "Funda Beats con MagSafe y soporte para iPhone 17 Pro",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta funda Beats para iPhone 17 Pro incorpora MagSafe y un práctico soporte, ideal para ver contenido manos libres. Además, ofrece control de cámara integrado para una experiencia fotográfica mejorada.",
+      "post_en": "This Beats case for iPhone 17 Pro features MagSafe and a practical kickstand, perfect for hands-free viewing. It also offers integrated camera control for an enhanced photography experience.",
       "price_new": 5.0,
       "price_old": 35.0,
       "currency": "USD",
@@ -270,10 +270,10 @@
     {
       "asin": "B0G9CFQFFX",
       "title": "233' Starrey Drip Irrigation Garden Watering System",
-      "title_es": null,
+      "title_es": "Sistema de riego por goteo Starrey de 233 pies para jardín",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El sistema de riego por goteo Starrey de 233 pies permite una hidratación eficiente y controlada de tus plantas en el jardín. Es ideal para mantener tus cultivos sanos con un uso optimizado del agua. 💧",
+      "post_en": "The 233' Starrey drip irrigation system allows for efficient and controlled hydration of your garden plants. It's ideal for keeping your crops healthy with optimized water usage. 💧",
       "price_new": 25.6,
       "price_old": 59.99,
       "currency": "USD",
@@ -292,10 +292,10 @@
     {
       "asin": "B07YZPVQXT",
       "title": "Multi Charging Cable 4ft 3Pack 3 in 1 Charger Cord, Multiple Usb C Port Rapid Nylon Braided Cable USB Charging Cable",
-      "title_es": null,
+      "title_es": "Pack de 3 cables de carga múltiple 3 en 1 de 4 pies con USB-C (Nylon trenzado)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack incluye tres cables de carga múltiple de 4 pies, con conectores 3 en 1 y puerto USB-C, ideales para cargar varios dispositivos simultáneamente. Su diseño trenzado de nailon asegura durabilidad y carga rápida.",
+      "post_en": "This pack includes three 4ft multi-charging cables, featuring 3-in-1 connectors and a USB-C port, ideal for charging multiple devices simultaneously. Their nylon braided design ensures durability and rapid charging.",
       "price_new": 4.99,
       "price_old": 9.99,
       "currency": "USD",
@@ -309,15 +309,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19785705",
       "published_at": "2026-07-22T18:46:34+00:00",
-      "revalidated_at": "2026-07-22T22:01:03+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B0FC4LY36N",
       "title": "Klein Tools 6-in-1 Convertible Snap Ring Pliers Set w/ 4 Interchangeable Heads (73066)",
-      "title_es": null,
+      "title_es": "Set de alicates para anillos de retención Klein Tools 6 en 1 (73066) con 4 cabezales",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set de alicates Klein Tools 6 en 1 (73066) es una herramienta versátil para anillos de retención, incluyendo 4 cabezales intercambiables. Ideal para profesionales y entusiastas del bricolaje que necesitan precisión y adaptabilidad.",
+      "post_en": "This Klein Tools 6-in-1 snap ring pliers set (73066) is a versatile tool for retaining rings, including 4 interchangeable heads. Ideal for professionals and DIY enthusiasts who need precision and adaptability.",
       "price_new": 19.98,
       "price_old": 35.0,
       "currency": "USD",
@@ -331,15 +331,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19780650",
       "published_at": "2026-07-22T18:46:34+00:00",
-      "revalidated_at": "2026-07-22T22:01:03+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B075LRY264",
       "title": "BOSCH 12V Max Lithium-Ion LED Worklight (Bare Tool)",
-      "title_es": null,
+      "title_es": "Linterna de trabajo LED BOSCH 12V Max de ion de litio (solo herramienta)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La linterna de trabajo LED BOSCH 12V Max ofrece una iluminación potente y duradera para cualquier proyecto. Es una herramienta esencial para quienes necesitan visibilidad en espacios oscuros o reducidos (batería no incluida). 💡",
+      "post_en": "The BOSCH 12V Max Lithium-Ion LED Worklight provides powerful and long-lasting illumination for any project. It's an essential tool for those who need visibility in dark or confined spaces (battery not included). 💡",
       "price_new": 24.48,
       "price_old": 35.0,
       "currency": "USD",
@@ -353,15 +353,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19796136",
       "published_at": "2026-07-22T18:46:34+00:00",
-      "revalidated_at": "2026-07-22T22:01:03+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B08RD6S5HF",
       "title": "BAIMEI IcyMe Gua Sha & Jade Roller Facial Skincare Tool Set (Green)",
-      "title_es": null,
+      "title_es": "Set de herramientas faciales BAIMEI IcyMe Gua Sha y rodillo de jade (verde)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set BAIMEI IcyMe incluye una herramienta Gua Sha y un rodillo de jade en color verde, diseñados para el cuidado facial. Ayuda a mejorar la circulación y relajar los músculos del rostro, aportando una sensación de frescura.",
+      "post_en": "This BAIMEI IcyMe set includes a green Gua Sha tool and a jade roller, designed for facial skincare. It helps improve circulation and relax facial muscles, providing a refreshing sensation.",
       "price_new": 3.74,
       "price_old": 35.0,
       "currency": "USD",
@@ -380,10 +380,10 @@
     {
       "asin": "B0CP9ZX49N",
       "title": "30-Oz Stanley Quencher H2.0 FlowState Vacuum Insulated Tumbler (Stone)",
-      "title_es": null,
+      "title_es": "Vaso térmico Stanley Quencher H2.0 FlowState de 30 oz (Stone)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El vaso térmico Stanley Quencher H2.0 FlowState de 30 oz mantiene tus bebidas a la temperatura ideal durante horas. Su aislamiento al vacío lo hace perfecto para llevar tus bebidas favoritas a cualquier parte. 🥤",
+      "post_en": "The 30-Oz Stanley Quencher H2.0 FlowState vacuum insulated tumbler keeps your drinks at the ideal temperature for hours. Its vacuum insulation makes it perfect for taking your favorite beverages anywhere. 🥤",
       "price_new": 20.0,
       "price_old": 40.0,
       "currency": "USD",
@@ -402,10 +402,10 @@
     {
       "asin": "B0BB5Q2Y96",
       "title": "AORRZER Grease Gun Coupler, Strong Lock on Greases Gun Couplers, 12000 PSI Quick Release Grease Coupler with 12\" Spring Flex Hose",
-      "title_es": null,
+      "title_es": "Acoplador de engrasador AORRZER con bloqueo fuerte, 12000 PSI y manguera de 12\"",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El acoplador de engrasador AORRZER ofrece un bloqueo fuerte y liberación rápida, soportando hasta 12000 PSI, e incluye una manguera flexible de 12 pulgadas. Es una herramienta robusta y eficiente para tareas de lubricación.",
+      "post_en": "The AORRZER grease gun coupler offers a strong lock and quick release, supporting up to 12000 PSI, and includes a 12-inch spring flex hose. It's a robust and efficient tool for lubrication tasks.",
       "price_new": 9.5,
       "price_old": 19.5,
       "currency": "USD",
@@ -424,10 +424,10 @@
     {
       "asin": "B0H7XW7BKZ",
       "title": "Air Purifiers for Home Large Room up to 1690 ft², HEPA Filter with PM 2.5 Monitor, WiFi and Alexa Compatible, Dual Air Intake for Smoke, Odor, Ivory",
-      "title_es": null,
+      "title_es": "Purificador de aire para grandes habitaciones (hasta 1690 ft²) con filtro HEPA, WiFi y Alexa (Ivory)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este purificador de aire con filtro HEPA es ideal para habitaciones grandes (hasta 1690 ft²), eliminando humo y olores gracias a su doble entrada de aire. Incluye monitor PM 2.5 y es compatible con WiFi y Alexa para un control inteligente.",
+      "post_en": "This HEPA air purifier is ideal for large rooms (up to 1690 ft²), eliminating smoke and odors thanks to its dual air intake. It includes a PM 2.5 monitor and is WiFi and Alexa compatible for smart control.",
       "price_new": 42.89,
       "price_old": 249.99,
       "currency": "USD",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19775829",
       "published_at": "2026-07-22T08:01:33+00:00",
-      "revalidated_at": "2026-07-22T22:01:03+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B08Z2ZKVXX",
@@ -1365,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19790376",
       "published_at": "2026-07-22T00:31:37+00:00",
-      "revalidated_at": "2026-07-22T22:01:03+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B0DRW63X1Z",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19787979",
       "published_at": "2026-07-22T00:31:37+00:00",
-      "revalidated_at": "2026-07-22T22:01:03+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B0C8QVDQJC",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19789584",
       "published_at": "2026-07-21T22:46:38+00:00",
-      "revalidated_at": "2026-07-22T22:01:03+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B0FWMSPRN2",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786800",
       "published_at": "2026-07-21T21:01:27+00:00",
-      "revalidated_at": "2026-07-22T22:01:03+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B09VSY2GXW",
@@ -1893,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782180",
       "published_at": "2026-07-21T19:31:05+00:00",
-      "revalidated_at": "2026-07-22T22:01:03+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B0BRTC5VN7",
@@ -2179,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786329",
       "published_at": "2026-07-21T17:16:07+00:00",
-      "revalidated_at": "2026-07-22T22:01:03+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B0GFDYS7R8",
@@ -2267,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784799",
       "published_at": "2026-07-21T16:46:25+00:00",
-      "revalidated_at": "2026-07-22T21:50:17+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B0GTTGQ1SZ",
@@ -2421,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782825",
       "published_at": "2026-07-21T15:12:28+00:00",
-      "revalidated_at": "2026-07-22T21:50:17+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B0B7PBRZX5",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19761096",
       "published_at": "2026-07-21T15:01:01+00:00",
-      "revalidated_at": "2026-07-22T21:50:17+00:00"
+      "revalidated_at": "2026-07-23T00:00:52+00:00"
     },
     {
       "asin": "B096QF7YTT",
