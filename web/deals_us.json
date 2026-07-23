@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-23T01:30:36+00:00",
+  "generated_at": "2026-07-23T01:45:34+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0FRMCJKJ9",
+      "title": "20-in-1 WORKPRO 3.6V Mini Electric Screwdriver w/ Magnetizer & S2 Steel Bits",
+      "title_es": "WORKPRO Destornillador Eléctrico Mini 20 en 1 con Magnetizador y Puntas de Acero S2",
+      "headline": null,
+      "post": "Este mini destornillador eléctrico WORKPRO 20 en 1, con puntas de acero S2 y magnetizador, es perfecto para tareas de precisión. Ideal para reparaciones electrónicas o pequeños proyectos de bricolaje en casa. 🛠️",
+      "post_en": "This WORKPRO 20-in-1 mini electric screwdriver, featuring S2 steel bits and a magnetizer, is perfect for precision tasks. Ideal for electronic repairs or small DIY projects around the home. 🛠️",
+      "price_new": 13.99,
+      "price_old": 35.99,
+      "currency": "USD",
+      "discount_pct": 61.1,
+      "rating": 4.4,
+      "condition": "code",
+      "code": "GV4EP9Z6",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/8131alFe8IL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FRMCJKJ9/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19797240",
+      "published_at": "2026-07-23T01:45:34+00:00",
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
+    },
     {
       "asin": "B0DZ746LB9",
       "title": "CRKD Gibson Les Paul Edition Guitar Controller for Xbox & PC",
@@ -36,11 +58,11 @@
       "price_old": 135.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "NB2VILOY",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/3/3/5/6/0/450x450/21039009.thumb",
+      "image": "https://m.media-amazon.com/images/I/71Z71A1sIpL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DGG89R5X/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19784043",
@@ -180,28 +202,6 @@
       "revalidated_at": "2026-07-23T00:15:33+00:00"
     },
     {
-      "asin": "B0DNQ9X77Z",
-      "title": "[S&S] iMATCHME Magnesium Glycinate 850mg Capsules with L-Theanine, Chamomile & GABA",
-      "title_es": "Cápsulas iMATCHME Magnesium Glycinate 850mg con L-Teanina, Manzanilla y GABA",
-      "headline": null,
-      "post": "Estas cápsulas de iMATCHME combinan Magnesio Glicinato con L-Teanina, Manzanilla y GABA para apoyar la relajación. Son ideales para quienes buscan un suplemento natural para mejorar el descanso y el bienestar general. 🌿",
-      "post_en": "These iMATCHME capsules combine Magnesium Glycinate with L-Theanine, Chamomile, and GABA to support relaxation. They are ideal for those seeking a natural supplement to improve rest and overall well-being. 🌿",
-      "price_new": 7.19,
-      "price_old": 19.99,
-      "currency": "USD",
-      "discount_pct": 64.0,
-      "rating": null,
-      "condition": "code",
-      "code": "GM6GB7F8",
-      "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21002619.thumb",
-      "url": "https://amazon.com/dp/B0DNQ9X77Z/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19769055",
-      "published_at": "2026-07-22T23:45:45+00:00",
-      "revalidated_at": "2026-07-22T23:45:45+00:00"
-    },
-    {
       "asin": "B093KTJ7FH",
       "title": "HP 230 Wireless Mouse and Keyboard Combo at Amazon",
       "title_es": "Combo Inalámbrico HP 230 de Ratón y Teclado",
@@ -221,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19780587",
       "published_at": "2026-07-22T23:45:45+00:00",
-      "revalidated_at": "2026-07-22T23:45:45+00:00"
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
     },
     {
       "asin": "B0FWVBKNCL",
@@ -551,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19795755",
       "published_at": "2026-07-22T18:31:23+00:00",
-      "revalidated_at": "2026-07-22T23:45:45+00:00"
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
     },
     {
       "asin": "B0CP9ZX49N",
@@ -573,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19794093",
       "published_at": "2026-07-22T18:31:23+00:00",
-      "revalidated_at": "2026-07-22T23:45:45+00:00"
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
     },
     {
       "asin": "B0BB5Q2Y96",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19783377",
       "published_at": "2026-07-22T15:01:45+00:00",
-      "revalidated_at": "2026-07-22T23:45:45+00:00"
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
     },
     {
       "asin": "B001KYVYZ0",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19766253",
       "published_at": "2026-07-22T15:01:45+00:00",
-      "revalidated_at": "2026-07-22T23:45:45+00:00"
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
     },
     {
       "asin": "B0DKC8X3PM",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19793355",
       "published_at": "2026-07-22T15:01:45+00:00",
-      "revalidated_at": "2026-07-22T23:45:45+00:00"
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
     },
     {
       "asin": "B00NHQF6MG",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19792809",
       "published_at": "2026-07-22T15:01:45+00:00",
-      "revalidated_at": "2026-07-22T23:45:45+00:00"
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
     },
     {
       "asin": "B0GQMTS8G6",
@@ -1365,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786002",
       "published_at": "2026-07-22T06:01:27+00:00",
-      "revalidated_at": "2026-07-22T23:45:45+00:00"
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
     },
     {
       "asin": "B09Q2SBQST",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19777995",
       "published_at": "2026-07-22T00:16:19+00:00",
-      "revalidated_at": "2026-07-22T23:45:45+00:00"
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
     },
     {
       "asin": "B0FMX58Y3H",
@@ -1651,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19785438",
       "published_at": "2026-07-21T22:31:45+00:00",
-      "revalidated_at": "2026-07-22T23:30:41+00:00"
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
     },
     {
       "asin": "B09YPSNDQP",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19774722",
       "published_at": "2026-07-21T20:30:34+00:00",
-      "revalidated_at": "2026-07-22T23:30:41+00:00"
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
     },
     {
       "asin": "B0F923XCK6",
@@ -1893,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19763130",
       "published_at": "2026-07-21T20:30:34+00:00",
-      "revalidated_at": "2026-07-22T23:30:41+00:00"
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
     },
     {
       "asin": "B0GKDB57SQ",
@@ -2113,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19785879",
       "published_at": "2026-07-21T18:45:42+00:00",
-      "revalidated_at": "2026-07-22T23:30:41+00:00"
+      "revalidated_at": "2026-07-23T01:45:34+00:00"
     },
     {
       "asin": "B0C51J2ZXN",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19786410",
       "published_at": "2026-07-21T13:45:54+00:00",
       "revalidated_at": "2026-07-23T00:45:37+00:00"
-    },
-    {
-      "asin": "B0FKNJHYR9",
-      "title": "Persona 3 Reload: Launch Edition (Nintendo Switch 2, Game Key Card) at Amazon",
-      "title_es": "Persona 3 Reload: Launch Edition (Nintendo Switch 2, Tarjeta de clave de juego)",
-      "headline": null,
-      "post": "Sumérgete en la aventura con Persona 3 Reload: Launch Edition, un RPG aclamado con gráficos renovados y mejoras en la jugabilidad. Ideal para fans de los JRPG y nuevos jugadores que buscan una historia profunda.",
-      "post_en": "Dive into adventure with Persona 3 Reload: Launch Edition, an acclaimed RPG featuring revamped graphics and gameplay improvements. Perfect for JRPG fans and new players seeking a deep storyline.",
-      "price_new": 29.99,
-      "price_old": 59.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81B+Nl30qML._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FKNJHYR9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19785591",
-      "published_at": "2026-07-21T13:31:08+00:00",
-      "revalidated_at": "2026-07-23T00:30:38+00:00"
     }
   ]
 }
