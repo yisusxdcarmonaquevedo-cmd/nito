@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-07-24T19:01:10+00:00",
+  "generated_at": "2026-07-24T19:16:49+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B00MS95U9W",
+      "title": "22-Oz Maxwell House Decaf Original Medium Roast Ground Coffee",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.68,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 89.5,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/8/3/9/2/450x450/21096042.thumb",
+      "url": "https://amazon.com/dp/B00MS95U9W/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19804893",
+      "published_at": "2026-07-24T19:16:49+00:00",
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
+    },
+    {
+      "asin": "B0GRV5PSGM",
+      "title": "INKZOO Interactive Rechargeable Flying Bird Cat Wand Toy w/ Clamp Mount & 3 Attachments",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.67,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 66.7,
+      "rating": null,
+      "condition": "code",
+      "code": "IG7BZ8UQ",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/21074313.thumb",
+      "url": "https://amazon.com/dp/B0GRV5PSGM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19796595",
+      "published_at": "2026-07-24T19:16:49+00:00",
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
+    },
+    {
+      "asin": "B0FH5T25M2",
+      "title": "Razer Wolverine V3 Tournament Edition 8K PC Wired Gaming Controller at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 49.99,
+      "price_old": 119.99,
+      "currency": "USD",
+      "discount_pct": 58.3,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21034587.thumb",
+      "url": "https://amazon.com/dp/B0FH5T25M2/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19781982",
+      "published_at": "2026-07-24T19:16:49+00:00",
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
+    },
+    {
+      "asin": "B0D4B6TLW6",
+      "title": "Assassin's Creed Shadows (PlayStation 5) -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 29.99,
+      "price_old": 57.0,
+      "currency": "USD",
+      "discount_pct": 47.4,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/9/4/6/5/6/8/450x450/21095355.thumb",
+      "url": "https://amazon.com/dp/B0D4B6TLW6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19804623",
+      "published_at": "2026-07-24T19:16:49+00:00",
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
+    },
+    {
+      "asin": "B0DMPTN8DG",
+      "title": "27″ LG Ultragear OLED Gaming Monitor QHD 1440p 480Hz, 0.03ms (27GX790A-B) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 599.99,
+      "price_old": 999.99,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21020079.thumb",
+      "url": "https://amazon.com/dp/B0DMPTN8DG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19776237",
+      "published_at": "2026-07-24T19:16:49+00:00",
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
+    },
     {
       "asin": "B0BHX8KW3X",
       "title": "$19.99** | Nuby Reversible Baby Floor Mat, 77\" x 58\" at Amazon",
@@ -155,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19783827",
       "published_at": "2026-07-24T17:31:45+00:00",
-      "revalidated_at": "2026-07-24T17:31:45+00:00"
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
     },
     {
       "asin": "B0FWSRBLQ3",
@@ -661,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19799535",
       "published_at": "2026-07-24T13:46:39+00:00",
-      "revalidated_at": "2026-07-24T17:31:45+00:00"
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
     },
     {
       "asin": "B0FSD5TLYH",
@@ -683,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19792962",
       "published_at": "2026-07-24T13:46:39+00:00",
-      "revalidated_at": "2026-07-24T17:31:45+00:00"
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
     },
     {
       "asin": "B0GVN19YW4",
@@ -837,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19790691",
       "published_at": "2026-07-24T12:01:14+00:00",
-      "revalidated_at": "2026-07-24T17:31:45+00:00"
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
     },
     {
       "asin": "B0F933F1G8",
@@ -947,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19800723",
       "published_at": "2026-07-24T10:01:28+00:00",
-      "revalidated_at": "2026-07-24T17:31:45+00:00"
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
     },
     {
       "asin": "B0DGLNHYZM",
@@ -1563,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19792251",
       "published_at": "2026-07-24T00:30:44+00:00",
-      "revalidated_at": "2026-07-24T17:31:45+00:00"
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
     },
     {
       "asin": "B00006JNM9",
@@ -1981,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19771356",
       "published_at": "2026-07-23T18:54:11+00:00",
-      "revalidated_at": "2026-07-24T17:16:43+00:00"
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
     },
     {
       "asin": "B0GX9P9X3Y",
@@ -2069,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19790697",
       "published_at": "2026-07-23T17:31:33+00:00",
-      "revalidated_at": "2026-07-24T17:16:43+00:00"
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
     },
     {
       "asin": "B00008IS18",
@@ -2443,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19798275",
       "published_at": "2026-07-23T13:16:36+00:00",
-      "revalidated_at": "2026-07-24T17:16:43+00:00"
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
     },
     {
       "asin": "B09Y9L5S1C",
@@ -2465,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19796106",
       "published_at": "2026-07-23T13:16:36+00:00",
-      "revalidated_at": "2026-07-24T17:16:43+00:00"
+      "revalidated_at": "2026-07-24T19:16:49+00:00"
     },
     {
       "asin": "B00JOVDHCO",
@@ -2532,116 +2642,6 @@
       "deal_key": "sd:19796703",
       "published_at": "2026-07-23T13:01:36+00:00",
       "revalidated_at": "2026-07-24T18:46:37+00:00"
-    },
-    {
-      "asin": "B0GFCYN78G",
-      "title": "(6 Pack) LETMY 104 LED Solar Spot Lights Outdoor, 6500K, IP65 Waterproof, 2000mAh Large Battery",
-      "title_es": "Pack de 6 LETMY 104 LED Solar Spot Lights Outdoor, impermeables IP65",
-      "headline": null,
-      "post": "Este pack de 6 focos solares LETMY ofrece una potente iluminación exterior con 104 LEDs y luz de 6500K. Son resistentes al agua (IP65) y cuentan con una batería de 2000mAh para una larga duración.",
-      "post_en": "This 6-pack of LETMY 104 LED Solar Spot Lights provides powerful outdoor illumination with 104 LEDs and 6500K light. They are IP65 waterproof and feature a large 2000mAh battery for extended duration.",
-      "price_new": 19.49,
-      "price_old": 32.49,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.4,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/718506MjDlL._AC_SL1254_.jpg",
-      "url": "https://amazon.com/dp/B0GFCYN78G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19795773",
-      "published_at": "2026-07-23T13:01:36+00:00",
-      "revalidated_at": "2026-07-24T18:46:37+00:00"
-    },
-    {
-      "asin": "B0GKP35R9Z",
-      "title": "Lossga Travel Backpack, 18x14x8 Spirit Airlines Personal Item Travel Bag, Carry On Backpack",
-      "title_es": "Mochila de viaje Lossga, para artículo personal en Spirit Airlines, 18x14x8",
-      "headline": null,
-      "post": "Esta mochila de viaje Lossga está diseñada para cumplir con las dimensiones de artículo personal de Spirit Airlines (18x14x8). Es ideal para viajeros que buscan una opción compacta y funcional como equipaje de mano.",
-      "post_en": "This Lossga Travel Backpack is designed to meet Spirit Airlines' personal item dimensions (18x14x8). It's ideal for travelers looking for a compact and functional carry-on option.",
-      "price_new": 10.91,
-      "price_old": 20.99,
-      "currency": "USD",
-      "discount_pct": 48.0,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/812JvpUSpKL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GKP35R9Z/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19791237",
-      "published_at": "2026-07-23T12:46:22+00:00",
-      "revalidated_at": "2026-07-24T18:16:33+00:00"
-    },
-    {
-      "asin": "B00B7NPRY8",
-      "title": "Dune (eBook) by Frank Herbert",
-      "title_es": "Dune (eBook) de Frank Herbert",
-      "headline": null,
-      "post": "Sumérgete en el clásico de ciencia ficción \"Dune\" de Frank Herbert en formato eBook. Una lectura esencial para los amantes de las épicas espaciales y la fantasía.📚",
-      "post_en": "Immerse yourself in Frank Herbert's classic science fiction novel \"Dune\" in eBook format. An essential read for lovers of space epics and fantasy.📚",
-      "price_new": 1.99,
-      "price_old": 9.99,
-      "currency": "USD",
-      "discount_pct": 80.1,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71m91l0treL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00B7NPRY8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19798509",
-      "published_at": "2026-07-23T12:31:38+00:00",
-      "revalidated_at": "2026-07-24T18:01:34+00:00"
-    },
-    {
-      "asin": "B0F95RMFRQ",
-      "title": "Blink Outdoor 2K+ (newest model) — 5 camera system at Amazon",
-      "title_es": "Sistema de 5 cámaras Blink Outdoor 2K+ (modelo más reciente)",
-      "headline": null,
-      "post": "Asegura tu hogar con este sistema de 5 cámaras de seguridad Blink Outdoor 2K+, el modelo más reciente. Ofrece vigilancia exterior de alta calidad para una mayor tranquilidad.",
-      "post_en": "Secure your home with this 5-camera Blink Outdoor 2K+ security system, the newest model. It offers high-quality outdoor surveillance for greater peace of mind.",
-      "price_new": 156.99,
-      "price_old": 349.99,
-      "currency": "USD",
-      "discount_pct": 55.1,
-      "rating": 4.1,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/61WNE1Lv1VL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F95RMFRQ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19780437",
-      "published_at": "2026-07-23T12:31:38+00:00",
-      "revalidated_at": "2026-07-24T18:01:34+00:00"
-    },
-    {
-      "asin": "B0GVN7RCCN",
-      "title": "LAMTTO 2-in-1 Car TV Mate Pro Wireless CarPlay Adapter",
-      "title_es": "Adaptador inalámbrico CarPlay 2 en 1 LAMTTO Car TV Mate Pro",
-      "headline": null,
-      "post": "Transforma tu experiencia en el coche con el adaptador inalámbrico 2 en 1 LAMTTO Car TV Mate Pro, que integra CarPlay. Es perfecto para quienes buscan una conectividad inteligente y sin cables en su vehículo.",
-      "post_en": "Transform your in-car experience with the LAMTTO 2-in-1 Car TV Mate Pro Wireless CarPlay Adapter. It's perfect for those seeking smart, cable-free connectivity in their vehicle.",
-      "price_new": 50.39,
-      "price_old": 139.99,
-      "currency": "USD",
-      "discount_pct": 64.0,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "OB67VLA9",
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/71EV-XP7PAL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GVN7RCCN/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19795113",
-      "published_at": "2026-07-23T12:16:25+00:00",
-      "revalidated_at": "2026-07-24T18:01:34+00:00"
     }
   ]
 }
