@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-07-24T22:31:34+00:00",
+  "generated_at": "2026-07-24T22:46:43+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B095PMD8JG",
+      "title": "300-Count Amazon Basics Reclosable Food Storage Snack Bags",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.08,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 85.5,
+      "rating": 4.8,
+      "condition": "coupon",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61wo6sQpJlL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B095PMD8JG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19799226",
+      "published_at": "2026-07-24T22:46:43+00:00",
+      "revalidated_at": "2026-07-24T22:46:43+00:00"
+    },
+    {
+      "asin": "B0F9FS822W",
+      "title": "Typhur InstaWhisk USB-C Rechargeable Milk Frother Wand w/ 3 Heads (Black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 10.0,
+      "price_old": 40.0,
+      "currency": "USD",
+      "discount_pct": 75.0,
+      "rating": 4.2,
+      "condition": "code",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71WMKOG2DtL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0F9FS822W/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19805658",
+      "published_at": "2026-07-24T22:46:43+00:00",
+      "revalidated_at": "2026-07-24T22:46:43+00:00"
+    },
+    {
+      "asin": "B0DK4XRHN9",
+      "title": "44-Piece ROOTCRAFT 10-Herb Complete Kitchen Herb Starter Set",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 16.19,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 53.7,
+      "rating": null,
+      "condition": "code",
+      "code": "XJT95R9H",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/21097731.thumb",
+      "url": "https://amazon.com/dp/B0DK4XRHN9/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19805625",
+      "published_at": "2026-07-24T22:46:43+00:00",
+      "revalidated_at": "2026-07-24T22:46:43+00:00"
+    },
     {
       "asin": "B0H3PMCPY2",
       "title": "TOGUARDGO 9.26\" Wireless CarPlay Screen with 4K+1080P Dual Dash Cam Front & Rear, 1600x600 IPS Display, Apple CarPlay & Android Auto",
@@ -155,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19797435",
       "published_at": "2026-07-24T21:01:41+00:00",
-      "revalidated_at": "2026-07-24T21:01:41+00:00"
+      "revalidated_at": "2026-07-24T22:46:43+00:00"
     },
     {
       "asin": "B0FMK9CDKV",
@@ -444,28 +510,6 @@
       "revalidated_at": "2026-07-24T21:15:13+00:00"
     },
     {
-      "asin": "B00MS95U9W",
-      "title": "22-Oz Maxwell House Decaf Original Medium Roast Ground Coffee",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 3.68,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 89.5,
-      "rating": 4.6,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71QQA93Fg3L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00MS95U9W/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19804893",
-      "published_at": "2026-07-24T19:16:49+00:00",
-      "revalidated_at": "2026-07-24T21:01:41+00:00"
-    },
-    {
       "asin": "B0GRV5PSGM",
       "title": "INKZOO Interactive Rechargeable Flying Bird Cat Wand Toy w/ Clamp Mount & 3 Attachments",
       "title_es": null,
@@ -485,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19796595",
       "published_at": "2026-07-24T19:16:49+00:00",
-      "revalidated_at": "2026-07-24T21:01:41+00:00"
+      "revalidated_at": "2026-07-24T22:46:43+00:00"
     },
     {
       "asin": "B0FH5T25M2",
@@ -507,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19781982",
       "published_at": "2026-07-24T19:16:49+00:00",
-      "revalidated_at": "2026-07-24T21:01:41+00:00"
+      "revalidated_at": "2026-07-24T22:46:43+00:00"
     },
     {
       "asin": "B0D4B6TLW6",
@@ -529,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19804623",
       "published_at": "2026-07-24T19:16:49+00:00",
-      "revalidated_at": "2026-07-24T21:01:41+00:00"
+      "revalidated_at": "2026-07-24T22:46:43+00:00"
     },
     {
       "asin": "B0DMPTN8DG",
@@ -551,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19776237",
       "published_at": "2026-07-24T19:16:49+00:00",
-      "revalidated_at": "2026-07-24T21:01:41+00:00"
+      "revalidated_at": "2026-07-24T22:46:43+00:00"
     },
     {
       "asin": "B0BHX8KW3X",
@@ -1805,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19795065",
       "published_at": "2026-07-24T02:30:32+00:00",
-      "revalidated_at": "2026-07-24T21:01:41+00:00"
+      "revalidated_at": "2026-07-24T22:46:43+00:00"
     },
     {
       "asin": "B0CFZTHZVZ",
@@ -1959,29 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19778766",
       "published_at": "2026-07-24T00:30:44+00:00",
-      "revalidated_at": "2026-07-24T21:01:41+00:00"
-    },
-    {
-      "asin": "B0CK2JW21V",
-      "title": "[Prime] BlissTrends Memory Foam Knee Pillow for Side Sleepers",
-      "title_es": "Almohada de rodilla de espuma viscoelástica BlissTrends para quienes duermen de lado",
-      "headline": null,
-      "post": "Esta almohada de rodilla de BlissTrends, fabricada con espuma viscoelástica, está diseñada para mejorar la postura y aliviar la presión. Es ideal para quienes duermen de lado y buscan un mayor confort y soporte durante la noche.",
-      "post_en": "This BlissTrends memory foam knee pillow is designed to improve posture and relieve pressure. It's ideal for side sleepers looking for greater comfort and support during the night.",
-      "price_new": 6.99,
-      "price_old": 13.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "3O9W3O9R",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81dYaZB6dCL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CK2JW21V/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19800624",
-      "published_at": "2026-07-24T00:30:44+00:00",
-      "revalidated_at": "2026-07-24T21:01:41+00:00"
+      "revalidated_at": "2026-07-24T22:46:43+00:00"
     },
     {
       "asin": "B0BCFMTQV5",
@@ -2113,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19800297",
       "published_at": "2026-07-24T00:01:15+00:00",
-      "revalidated_at": "2026-07-24T20:46:46+00:00"
+      "revalidated_at": "2026-07-24T22:46:43+00:00"
     },
     {
       "asin": "B0DQ6RBVK7",
@@ -2135,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19799316",
       "published_at": "2026-07-24T00:01:15+00:00",
-      "revalidated_at": "2026-07-24T20:46:46+00:00"
+      "revalidated_at": "2026-07-24T22:46:43+00:00"
     },
     {
       "asin": "B0G22LTCF1",
@@ -2245,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19790919",
       "published_at": "2026-07-23T22:15:36+00:00",
-      "revalidated_at": "2026-07-24T20:46:46+00:00"
+      "revalidated_at": "2026-07-24T22:46:43+00:00"
     },
     {
       "asin": "B0BZ8D6YDM",
@@ -2576,72 +2598,6 @@
       "deal_key": "sd:19787793",
       "published_at": "2026-07-23T16:46:27+00:00",
       "revalidated_at": "2026-07-24T21:01:41+00:00"
-    },
-    {
-      "asin": "B0GQ33SWXZ",
-      "title": "eufy eufyCam C37, Wireless Outdoor Security Camera + Solar Panel",
-      "title_es": "Cámara de Seguridad Exterior Inalámbrica eufy eufyCam C37 + Panel Solar",
-      "headline": null,
-      "post": "Esta cámara de seguridad exterior inalámbrica ofrece vigilancia fiable con la comodidad de la energía solar. Es ideal para quienes buscan una solución de seguridad fácil de instalar y mantener, sin preocuparse por la batería. ☀️",
-      "post_en": "This wireless outdoor security camera provides reliable surveillance with the convenience of solar power. It's ideal for those seeking an easy-to-install and low-maintenance security solution, without worrying about battery life. ☀️",
-      "price_new": 70.0,
-      "price_old": 99.99,
-      "currency": "USD",
-      "discount_pct": 30.0,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81miVi3F8bL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GQ33SWXZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19786812",
-      "published_at": "2026-07-23T16:46:27+00:00",
-      "revalidated_at": "2026-07-24T21:01:41+00:00"
-    },
-    {
-      "asin": "B000NRG4TQ",
-      "title": "Snow's Wild Caught Chopped Clams Canned, 6.5 oz Can (Pack of 12) - 5g Protein Per Serving - Keto Friendly, 99% Fat Free~$19.55 With S&S @ Amazon",
-      "title_es": "Almejas Picadas en Lata Snow's Wild Caught, 6.5 oz (Paquete de 12)",
-      "headline": null,
-      "post": "Descubre estas almejas picadas enlatadas, una fuente de proteína magra y una opción keto-friendly. Son perfectas para añadir a tus recetas favoritas o como un ingrediente rápido para comidas saludables.",
-      "post_en": "Discover these canned chopped clams, a lean protein source and a keto-friendly option. They are perfect for adding to your favorite recipes or as a quick ingredient for healthy meals.",
-      "price_new": 19.55,
-      "price_old": 29.29,
-      "currency": "USD",
-      "discount_pct": 33.3,
-      "rating": 4.6,
-      "condition": "sns",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81VszCaWoPL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B000NRG4TQ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19789797",
-      "published_at": "2026-07-23T16:31:26+00:00",
-      "revalidated_at": "2026-07-24T22:31:34+00:00"
-    },
-    {
-      "asin": "B098F6XH3H",
-      "title": "CINCOM Knee Massager with Heat, Air Compression Knee Massager for Relief of Minor Muscle Aches and Pains, 3 Modes & 3 Intensities (A Pair)",
-      "title_es": "Masajeador de Rodilla CINCOM con Calor y Compresión de Aire (Par)",
-      "headline": null,
-      "post": "Este masajeador de rodilla CINCOM combina calor y compresión de aire para aliviar molestias musculares menores. Con 3 modos y 3 intensidades, es ideal para quienes buscan una recuperación cómoda y personalizada en casa.",
-      "post_en": "This CINCOM knee massager combines heat and air compression to relieve minor muscle aches and pains. With 3 modes and 3 intensities, it's ideal for those seeking comfortable and personalized recovery at home.",
-      "price_new": 45.0,
-      "price_old": 84.99,
-      "currency": "USD",
-      "discount_pct": 47.1,
-      "rating": 4.1,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/91V1DoIxm8L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B098F6XH3H/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19786170",
-      "published_at": "2026-07-23T16:01:37+00:00",
-      "revalidated_at": "2026-07-24T21:47:01+00:00"
     }
   ]
 }
