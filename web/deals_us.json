@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-07-24T20:16:21+00:00",
+  "generated_at": "2026-07-24T20:31:33+00:00",
   "market": "us",
-  "count": 118,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0DKK1BY7B",
+      "title": "LISEN 96W 4-in-1 Retractable Car Charger w/ USB-C & Lightning Cables, USB-C PD & USB-A Ports",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.89,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 71.7,
+      "rating": 4.6,
+      "condition": "code",
+      "code": "UWONXJFO",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71WUMNlHdFL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DKK1BY7B/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19800411",
+      "published_at": "2026-07-24T20:31:33+00:00",
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
+    },
+    {
+      "asin": "B09SW6GCGL",
+      "title": "Gran Turismo 7 (PlayStation 5) -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 29.83,
+      "price_old": 57.0,
+      "currency": "USD",
+      "discount_pct": 47.7,
+      "rating": 4.8,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81zKmfAPBmL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09SW6GCGL/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19804239",
+      "published_at": "2026-07-24T20:31:33+00:00",
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
+    },
+    {
+      "asin": "B0FMS7VMVB",
+      "title": "279-Piece LEGO Friends Horse & Baby Foal Trailer (42695)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 20.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/21052815.thumb",
+      "url": "https://amazon.com/dp/B0FMS7VMVB/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19789017",
+      "published_at": "2026-07-24T20:31:33+00:00",
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
+    },
     {
       "asin": "B08HRPDBFF",
       "title": "Google Nest Programmable Smart WiFi Thermostat (Charcoal) at Amazon",
@@ -80,11 +146,11 @@
       "price_old": 59.99,
       "currency": "USD",
       "discount_pct": 53.8,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21091776.thumb",
+      "image": "https://m.media-amazon.com/images/I/71LIUbNIMZL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G2Z27JLJ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19803129",
@@ -168,11 +234,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 89.5,
-      "rating": null,
+      "rating": 4.6,
       "condition": "coupon",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/8/3/9/2/450x450/21096042.thumb",
+      "image": "https://m.media-amazon.com/images/I/71QQA93Fg3L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B00MS95U9W/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19804893",
@@ -287,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19803423",
       "published_at": "2026-07-24T18:46:37+00:00",
-      "revalidated_at": "2026-07-24T18:46:37+00:00"
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
     },
     {
       "asin": "B00791R1MI",
@@ -463,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19792008",
       "published_at": "2026-07-24T17:02:29+00:00",
-      "revalidated_at": "2026-07-24T18:46:37+00:00"
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
     },
     {
       "asin": "1503752356",
@@ -485,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782579",
       "published_at": "2026-07-24T17:02:29+00:00",
-      "revalidated_at": "2026-07-24T18:46:37+00:00"
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
     },
     {
       "asin": "B0FSS88Y4X",
@@ -705,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19780191",
       "published_at": "2026-07-24T15:04:22+00:00",
-      "revalidated_at": "2026-07-24T18:46:37+00:00"
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
     },
     {
       "asin": "B0CW9249DK",
@@ -727,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19803315",
       "published_at": "2026-07-24T15:04:22+00:00",
-      "revalidated_at": "2026-07-24T18:46:37+00:00"
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
     },
     {
       "asin": "B09N4ZKCH6",
@@ -1585,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19800972",
       "published_at": "2026-07-24T02:00:39+00:00",
-      "revalidated_at": "2026-07-24T18:31:28+00:00"
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
     },
     {
       "asin": "B002PMV4UG",
@@ -2003,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19793301",
       "published_at": "2026-07-23T22:00:33+00:00",
-      "revalidated_at": "2026-07-24T18:31:28+00:00"
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
     },
     {
       "asin": "B0GRTKHHHK",
@@ -2091,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782387",
       "published_at": "2026-07-23T20:16:34+00:00",
-      "revalidated_at": "2026-07-24T18:31:28+00:00"
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
     },
     {
       "asin": "B0G43XL8BH",
@@ -2113,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19795449",
       "published_at": "2026-07-23T20:16:34+00:00",
-      "revalidated_at": "2026-07-24T18:31:28+00:00"
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
     },
     {
       "asin": "B00F5YTHYQ",
@@ -2135,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784709",
       "published_at": "2026-07-23T20:01:27+00:00",
-      "revalidated_at": "2026-07-24T18:31:28+00:00"
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
     },
     {
       "asin": "B00CC6XSSQ",
@@ -2355,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19789797",
       "published_at": "2026-07-23T16:31:26+00:00",
-      "revalidated_at": "2026-07-24T18:31:28+00:00"
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
     },
     {
       "asin": "B098F6XH3H",
@@ -2443,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19778748",
       "published_at": "2026-07-23T14:46:37+00:00",
-      "revalidated_at": "2026-07-24T18:31:28+00:00"
+      "revalidated_at": "2026-07-24T20:31:33+00:00"
     },
     {
       "asin": "B08W2DLP47",
@@ -2576,28 +2642,6 @@
       "deal_key": "sd:19783953",
       "published_at": "2026-07-23T13:46:28+00:00",
       "revalidated_at": "2026-07-24T19:31:34+00:00"
-    },
-    {
-      "asin": "B08FM539L5",
-      "title": "15-Piece Nextuyere Heavy Duty Storage Straps",
-      "title_es": "Correas de almacenamiento resistentes Nextuyere de 15 piezas",
-      "headline": null,
-      "post": "Estas 15 correas de almacenamiento resistentes Nextuyere son perfectas para organizar cables, mangueras y herramientas en tu garaje o taller. Su durabilidad y versatilidad las hacen ideales para mantener el orden en cualquier espacio. 🧰",
-      "post_en": "These 15 heavy-duty Nextuyere storage straps are perfect for organizing cables, hoses, and tools in your garage or workshop. Their durability and versatility make them ideal for maintaining order in any space. 🧰",
-      "price_new": 9.02,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 74.2,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "XSQ9IFXO",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71jUmmRDZKS._AC_SL1200_.jpg",
-      "url": "https://amazon.com/dp/B08FM539L5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19798140",
-      "published_at": "2026-07-23T13:16:36+00:00",
-      "revalidated_at": "2026-07-24T19:01:10+00:00"
     }
   ]
 }
