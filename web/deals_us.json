@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-26T22:01:23+00:00",
+  "generated_at": "2026-07-26T22:15:36+00:00",
   "market": "us",
   "count": 91,
   "deals": [
+    {
+      "asin": "B07PBGRWGZ",
+      "title": "2-Pk DeWALT 6.5\" Wood Cutting Circular Saw Blades (18 & 24 Tooth) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 18.14,
+      "price_old": 28.34,
+      "currency": "USD",
+      "discount_pct": 36.0,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/91kNvlBIohL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07PBGRWGZ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19791678",
+      "published_at": "2026-07-26T22:15:36+00:00",
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
+    },
     {
       "asin": "B0G5YMKVXF",
       "title": "17\" WANDF Mesh Beach Bag w/ 40-oz Tumbler Pockets (Black)",
@@ -24,28 +46,6 @@
       "deal_key": "sd:19797312",
       "published_at": "2026-07-26T21:16:19+00:00",
       "revalidated_at": "2026-07-26T21:16:19+00:00"
-    },
-    {
-      "asin": "B0CCQ8CSZ6",
-      "title": "Baby Trend Passport Seasons All-Terrain Stroller Travel System w/ EZ-Lift Plus Infant Car Seat (Dash Black)",
-      "title_es": "Sistema de viaje Baby Trend Passport Seasons con cochecito todoterreno y silla de coche infantil EZ-Lift Plus (Dash Black)",
-      "headline": null,
-      "post": "Este sistema de viaje Baby Trend Passport Seasons incluye un cochecito todoterreno y una silla de coche infantil EZ-Lift Plus, ideal para padres activos. Ofrece comodidad y seguridad para tu bebé desde el nacimiento, facilitando los desplazamientos diarios.",
-      "post_en": "This Baby Trend Passport Seasons travel system includes an all-terrain stroller and an EZ-Lift Plus infant car seat, perfect for active parents. It offers comfort and safety for your baby from birth, making daily travel easier.",
-      "price_new": 131.99,
-      "price_old": 254.99,
-      "currency": "USD",
-      "discount_pct": 48.2,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/810kRS90NnL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CCQ8CSZ6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19795089",
-      "published_at": "2026-07-26T21:01:40+00:00",
-      "revalidated_at": "2026-07-26T21:01:40+00:00"
     },
     {
       "asin": "B003WUYQG4",
@@ -111,7 +111,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19806642",
       "published_at": "2026-07-26T19:46:03+00:00",
-      "revalidated_at": "2026-07-26T21:01:40+00:00"
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
     },
     {
       "asin": "B0D1ZBGJTY",
@@ -133,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19810470",
       "published_at": "2026-07-26T19:46:03+00:00",
-      "revalidated_at": "2026-07-26T21:01:40+00:00"
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
     },
     {
       "asin": "B0FDFV14T3",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19809768",
       "published_at": "2026-07-26T17:01:06+00:00",
-      "revalidated_at": "2026-07-26T21:01:40+00:00"
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
     },
     {
       "asin": "B0G5Z5N274",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19808664",
       "published_at": "2026-07-26T15:00:56+00:00",
-      "revalidated_at": "2026-07-26T21:01:40+00:00"
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
     },
     {
       "asin": "B0GKPGB3FG",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19800180",
       "published_at": "2026-07-26T15:00:56+00:00",
-      "revalidated_at": "2026-07-26T21:01:40+00:00"
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
     },
     {
       "asin": "B01MRHXM0I",
@@ -1233,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19797405",
       "published_at": "2026-07-25T11:46:51+00:00",
-      "revalidated_at": "2026-07-26T21:01:40+00:00"
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
     },
     {
       "asin": "B0C6728W48",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19782786",
       "published_at": "2026-07-25T11:46:51+00:00",
-      "revalidated_at": "2026-07-26T21:01:40+00:00"
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
     },
     {
       "asin": "B0B9FZTRT6",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784562",
       "published_at": "2026-07-25T08:01:21+00:00",
-      "revalidated_at": "2026-07-26T21:01:40+00:00"
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
     },
     {
       "asin": "B0B94PQR3P",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19784376",
       "published_at": "2026-07-25T08:01:21+00:00",
-      "revalidated_at": "2026-07-26T21:01:40+00:00"
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
     },
     {
       "asin": "B0DT4PLP2P",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19806204",
       "published_at": "2026-07-25T06:31:24+00:00",
-      "revalidated_at": "2026-07-26T21:01:40+00:00"
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
     },
     {
       "asin": "B0722HN5TR",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19805607",
       "published_at": "2026-07-25T04:31:25+00:00",
-      "revalidated_at": "2026-07-26T21:01:40+00:00"
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
     },
     {
       "asin": "B0FHZGXZH7",
@@ -1629,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19790652",
       "published_at": "2026-07-25T01:31:18+00:00",
-      "revalidated_at": "2026-07-26T20:45:53+00:00"
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
     },
     {
       "asin": "B0792DV4JZ",
@@ -1739,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19796352",
       "published_at": "2026-07-25T00:16:25+00:00",
-      "revalidated_at": "2026-07-26T21:01:40+00:00"
+      "revalidated_at": "2026-07-26T22:15:36+00:00"
     },
     {
       "asin": "B0H14QSC2B",
