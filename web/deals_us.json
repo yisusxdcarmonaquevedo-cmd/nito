@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-26T18:30:40+00:00",
+  "generated_at": "2026-07-26T18:36:35+00:00",
   "market": "us",
-  "count": 97,
+  "count": 95,
   "deals": [
+    {
+      "asin": "B0FJH3K1RW",
+      "title": "Just Dance 2026 Edition Limited Edition (Switch, Code in Box) at Amazon",
+      "title_es": "Just Dance 2026 Edition Edición Limitada (Switch, Código en Caja)",
+      "headline": null,
+      "post": "Sumérgete en la diversión del baile con Just Dance 2026 Edition para Nintendo Switch. Este juego es perfecto para quienes buscan una forma entretenida de moverse y disfrutar de la música en solitario o con amigos. 💃",
+      "post_en": "Dive into the fun of dancing with Just Dance 2026 Edition for Nintendo Switch. This game is perfect for those looking for an entertaining way to move and enjoy music alone or with friends. 💃",
+      "price_new": 19.99,
+      "price_old": 49.99,
+      "currency": "USD",
+      "discount_pct": 60.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21041457.thumb",
+      "url": "https://amazon.com/dp/B0FJH3K1RW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19784892",
+      "published_at": "2026-07-26T18:36:35+00:00",
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
+    },
     {
       "asin": "B000C1VX6M",
       "title": "3.3 fl. oz. Givenchy Pi Men's Eau De Toilette Spray",
@@ -36,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 57.8,
-      "rating": null,
+      "rating": 4.2,
       "condition": "code",
       "code": "TJU5IV7O",
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/21096366.thumb",
+      "image": "https://m.media-amazon.com/images/I/818dgEa3RVL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GCH784ZS/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19805037",
@@ -68,28 +90,6 @@
       "deal_key": "sd:19805295",
       "published_at": "2026-07-26T17:30:50+00:00",
       "revalidated_at": "2026-07-26T17:30:51+00:00"
-    },
-    {
-      "asin": "B005S1CHKC",
-      "title": "Drive Medical Rollator Walker with Seat, Height Adjustable, Foldable Frame, 7.5\" Wheels, 350 lb Limit, Red",
-      "title_es": "Andador Rollator Drive Medical con Asiento, Altura Ajustable y Plegable, Rojo",
-      "headline": null,
-      "post": "Este andador tipo rollator con asiento de Drive Medical es ideal para quienes buscan apoyo y comodidad al caminar. Cuenta con altura ajustable, estructura plegable y ruedas de 7.5 pulgadas para facilitar su transporte y uso.",
-      "post_en": "This Drive Medical rollator walker with a seat is ideal for those seeking support and comfort while walking. It features adjustable height, a foldable frame, and 7.5-inch wheels for easy transport and use.",
-      "price_new": 37.6,
-      "price_old": 66.99,
-      "currency": "USD",
-      "discount_pct": 43.9,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71WXonKq7DL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B005S1CHKC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19808526",
-      "published_at": "2026-07-26T17:27:19+00:00",
-      "revalidated_at": "2026-07-26T17:27:19+00:00"
     },
     {
       "asin": "B000U5TUQU",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19791201",
       "published_at": "2026-07-26T15:45:53+00:00",
-      "revalidated_at": "2026-07-26T17:27:19+00:00"
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
     },
     {
       "asin": "B0FJFY3JXY",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19807269",
       "published_at": "2026-07-26T12:33:36+00:00",
-      "revalidated_at": "2026-07-26T17:27:19+00:00"
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
     },
     {
       "asin": "B0DZWV2K1G",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19780701",
       "published_at": "2026-07-25T10:31:23+00:00",
-      "revalidated_at": "2026-07-26T17:16:06+00:00"
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
     },
     {
       "asin": "B0FC34KFSP",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19785372",
       "published_at": "2026-07-25T06:58:07+00:00",
-      "revalidated_at": "2026-07-26T17:16:06+00:00"
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
     },
     {
       "asin": "B000E7D7HC",
@@ -1519,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19804653",
       "published_at": "2026-07-24T23:31:48+00:00",
-      "revalidated_at": "2026-07-26T17:16:06+00:00"
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
     },
     {
       "asin": "B071D6T8JK",
@@ -1541,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19783881",
       "published_at": "2026-07-24T23:31:48+00:00",
-      "revalidated_at": "2026-07-26T17:16:06+00:00"
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
     },
     {
       "asin": "B077FFRQQS",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19802574",
       "published_at": "2026-07-24T23:31:48+00:00",
-      "revalidated_at": "2026-07-26T17:16:06+00:00"
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
     },
     {
       "asin": "B077XDB3C4",
@@ -1651,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19805217",
       "published_at": "2026-07-24T23:01:37+00:00",
-      "revalidated_at": "2026-07-26T17:16:06+00:00"
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
     },
     {
       "asin": "B0DR5VX7L2",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19805094",
       "published_at": "2026-07-24T23:01:37+00:00",
-      "revalidated_at": "2026-07-26T17:16:06+00:00"
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
     },
     {
       "asin": "B095PMD8JG",
@@ -1717,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19805625",
       "published_at": "2026-07-24T22:46:43+00:00",
-      "revalidated_at": "2026-07-26T17:16:06+00:00"
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
     },
     {
       "asin": "B0GYQ3HHQF",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19797435",
       "published_at": "2026-07-24T21:01:41+00:00",
-      "revalidated_at": "2026-07-26T17:16:06+00:00"
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
     },
     {
       "asin": "B0FMK9CDKV",
@@ -2025,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19796595",
       "published_at": "2026-07-24T19:16:49+00:00",
-      "revalidated_at": "2026-07-26T17:16:06+00:00"
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
     },
     {
       "asin": "B0FH5T25M2",
@@ -2047,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19781982",
       "published_at": "2026-07-24T19:16:49+00:00",
-      "revalidated_at": "2026-07-26T17:16:06+00:00"
+      "revalidated_at": "2026-07-26T18:36:35+00:00"
     },
     {
       "asin": "B0D4B6TLW6",
@@ -2091,50 +2091,6 @@
       "source": "slickdeals",
       "deal_key": "sd:19776237",
       "published_at": "2026-07-24T19:16:49+00:00",
-      "revalidated_at": "2026-07-26T17:30:51+00:00"
-    },
-    {
-      "asin": "B00791R1MI",
-      "title": "Men's Casio AQS800W Series 46mm Solar Powered Analog Watch at Amazon",
-      "title_es": "Reloj analógico Casio AQS800W Series de 46mm con energía solar para hombre",
-      "headline": null,
-      "post": "Este reloj Casio AQS800W Series combina un diseño robusto de 46mm con la comodidad de la energía solar, eliminando la necesidad de cambiar pilas. Es un accesorio práctico y duradero para hombres que valoran la funcionalidad y el estilo.",
-      "post_en": "This Casio AQS800W Series watch combines a robust 46mm design with the convenience of solar power, eliminating the need for battery changes. It's a practical and durable accessory for men who value functionality and style.",
-      "price_new": 38.97,
-      "price_old": 64.95,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61GhXKSy9HL._AC_SL1102_.jpg",
-      "url": "https://amazon.com/dp/B00791R1MI/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19804011",
-      "published_at": "2026-07-24T18:16:33+00:00",
-      "revalidated_at": "2026-07-26T17:30:51+00:00"
-    },
-    {
-      "asin": "B0DRW5YM7M",
-      "title": "225-Piece LEGO Creator: 3 in 1 - Tropical Toucan (31173, 2025) at Amazon",
-      "title_es": "LEGO Creator 3 en 1: Tucán Tropical de 225 piezas (31173, 2025)",
-      "headline": null,
-      "post": "Despierta la creatividad con el set LEGO Creator 3 en 1 Tucán Tropical de 225 piezas, que permite construir tres modelos diferentes a partir de las mismas piezas. Es un regalo ideal para niños y entusiastas de LEGO que disfrutan de la construcción versátil.",
-      "post_en": "Spark creativity with the 225-piece LEGO Creator 3 in 1 Tropical Toucan set, allowing you to build three different models from the same bricks. It's an ideal gift for children and LEGO enthusiasts who enjoy versatile construction.",
-      "price_new": 9.99,
-      "price_old": 17.99,
-      "currency": "USD",
-      "discount_pct": 44.5,
-      "rating": 4.9,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81yN-v6gvnL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DRW5YM7M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19803849",
-      "published_at": "2026-07-24T18:01:34+00:00",
       "revalidated_at": "2026-07-26T17:30:51+00:00"
     }
   ]
