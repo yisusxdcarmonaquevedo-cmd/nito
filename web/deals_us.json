@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-27T18:01:33+00:00",
+  "generated_at": "2026-07-27T18:09:04+00:00",
   "market": "us",
-  "count": 105,
+  "count": 104,
   "deals": [
     {
       "asin": "B00P0ZMWEC",
@@ -36,11 +36,11 @@
       "price_old": 1.91,
       "currency": "USD",
       "discount_pct": 41.4,
-      "rating": null,
+      "rating": 4.6,
       "condition": "sns",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/7/2/9/6/9/0/450x450/21111111.thumb",
+      "image": "https://m.media-amazon.com/images/I/71p3sTGkMwL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BQX55FSH/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19812012",
@@ -89,7 +89,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19809159",
       "published_at": "2026-07-27T16:31:20+00:00",
-      "revalidated_at": "2026-07-27T16:31:20+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B08FCGLYFZ",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19805880",
       "published_at": "2026-07-27T13:46:24+00:00",
-      "revalidated_at": "2026-07-27T16:31:20+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B07ZSBC7L7",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19812789",
       "published_at": "2026-07-27T13:46:24+00:00",
-      "revalidated_at": "2026-07-27T16:31:20+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B0B9ZFWMK1",
@@ -532,28 +532,6 @@
       "revalidated_at": "2026-07-27T17:31:18+00:00"
     },
     {
-      "asin": "B09FQ2WSKK",
-      "title": "EGO Power+ 21\" 56V Cordless Snow Blower w/ 2x 5.0Ah Batteries & Dual Port Charger at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 524.0,
-      "price_old": 749.0,
-      "currency": "USD",
-      "discount_pct": 30.0,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71fck-oENFL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09FQ2WSKK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19812633",
-      "published_at": "2026-07-27T11:31:21+00:00",
-      "revalidated_at": "2026-07-27T16:31:20+00:00"
-    },
-    {
       "asin": "B00UJIYQ6W",
       "title": "PLANTERS Lightly Salted Cocktail Peanuts, Plant Based Protein Snacks, 16 Oz (1 Ct)~$2.83 With S&S @ Amazon",
       "title_es": null,
@@ -573,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19808178",
       "published_at": "2026-07-27T11:16:26+00:00",
-      "revalidated_at": "2026-07-27T16:31:20+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B08PBCD9Y7",
@@ -595,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19812573",
       "published_at": "2026-07-27T11:16:26+00:00",
-      "revalidated_at": "2026-07-27T16:31:20+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B0B4BJR5X3",
@@ -617,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19809069",
       "published_at": "2026-07-27T11:01:24+00:00",
-      "revalidated_at": "2026-07-27T16:31:20+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B01N90YTVN",
@@ -639,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19801032",
       "published_at": "2026-07-27T11:01:24+00:00",
-      "revalidated_at": "2026-07-27T16:31:20+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B000GASBNC",
@@ -749,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19787007",
       "published_at": "2026-07-27T07:16:40+00:00",
-      "revalidated_at": "2026-07-27T16:31:20+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B08QF2X9MX",
@@ -1871,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19802325",
       "published_at": "2026-07-26T14:46:07+00:00",
-      "revalidated_at": "2026-07-27T16:31:20+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B0CL5FZ6ZV",
@@ -2003,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786365",
       "published_at": "2026-07-26T13:01:05+00:00",
-      "revalidated_at": "2026-07-27T16:28:58+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B07RVT23F9",
@@ -2025,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19809459",
       "published_at": "2026-07-26T13:01:05+00:00",
-      "revalidated_at": "2026-07-27T16:28:58+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B071WC2LVY",
@@ -2047,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19807317",
       "published_at": "2026-07-26T12:46:37+00:00",
-      "revalidated_at": "2026-07-27T16:31:20+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B074CR89QG",
@@ -2069,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19786698",
       "published_at": "2026-07-26T12:46:37+00:00",
-      "revalidated_at": "2026-07-27T16:31:20+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B09MYS6VGS",
@@ -2091,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19799481",
       "published_at": "2026-07-26T12:46:37+00:00",
-      "revalidated_at": "2026-07-27T16:31:20+00:00"
+      "revalidated_at": "2026-07-27T18:09:04+00:00"
     },
     {
       "asin": "B0GS7G5DFZ",
