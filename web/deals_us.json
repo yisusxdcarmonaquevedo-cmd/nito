@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-07-29T13:16:52+00:00",
+  "generated_at": "2026-07-29T13:31:50+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B01IE1OJQM",
+      "title": "Men's Champion Midweight Fleece Sweatpants in Granite Heather (various sizes) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 17.93,
+      "price_old": 45.0,
+      "currency": "USD",
+      "discount_pct": 60.2,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21106626.thumb",
+      "url": "https://amazon.com/dp/B01IE1OJQM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19809825",
+      "published_at": "2026-07-29T13:31:50+00:00",
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
+    },
+    {
+      "asin": "B0FS25G9VD",
+      "title": "URUQ Golf Chipping Game with 6 x 6 FT Large Target Mat Training Set",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 49.99,
+      "price_old": 99.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21070902.thumb",
+      "url": "https://amazon.com/dp/B0FS25G9VD/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19795425",
+      "published_at": "2026-07-29T13:31:50+00:00",
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
+    },
+    {
+      "asin": "B0DSR1CB8W",
+      "title": "The North Face Recon 30L Everyday Laptop Backpack",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 76.3,
+      "price_old": 109.0,
+      "currency": "USD",
+      "discount_pct": 30.0,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81eXjvD07jL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DSR1CB8W/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19820556",
+      "published_at": "2026-07-29T13:31:50+00:00",
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
+    },
     {
       "asin": "B0FB9C6D1N",
       "title": "ATDIAG OBD2 Scanner Diagnostic Tool w/ 2.4\" Display & More",
@@ -14,11 +80,11 @@
       "price_old": 39.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "KAXPVY4W",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/21128652.thumb",
+      "image": "https://m.media-amazon.com/images/I/714nkSsZJgL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FB9C6D1N/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19818294",
@@ -92,28 +158,6 @@
       "revalidated_at": "2026-07-29T12:16:43+00:00"
     },
     {
-      "asin": "B0F9W5WTH2",
-      "title": "Candy 7-in-1 Indoor Grill & Air Fryer, 5.2 QT, 500°F, 1500W at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 80.71,
-      "price_old": 169.99,
-      "currency": "USD",
-      "discount_pct": 52.5,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61MsYiYSNyL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F9W5WTH2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19808121",
-      "published_at": "2026-07-29T11:45:43+00:00",
-      "revalidated_at": "2026-07-29T11:45:43+00:00"
-    },
-    {
       "asin": "B0CN9RZZ5C",
       "title": "The North Face Berkeley Crossbody Bag at Amazon",
       "title_es": null,
@@ -133,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19819557",
       "published_at": "2026-07-29T11:45:43+00:00",
-      "revalidated_at": "2026-07-29T11:45:43+00:00"
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
     },
     {
       "asin": "B0C5WJ39TZ",
@@ -507,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19819353",
       "published_at": "2026-07-29T02:31:29+00:00",
-      "revalidated_at": "2026-07-29T11:45:43+00:00"
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
     },
     {
       "asin": "B09Y8X6NZZ",
@@ -529,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19818963",
       "published_at": "2026-07-29T02:31:29+00:00",
-      "revalidated_at": "2026-07-29T11:45:43+00:00"
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
     },
     {
       "asin": "B0GC5GZ9CT",
@@ -551,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19817577",
       "published_at": "2026-07-29T02:31:29+00:00",
-      "revalidated_at": "2026-07-29T11:45:43+00:00"
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
     },
     {
       "asin": "B07MGYH1XH",
@@ -573,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19819584",
       "published_at": "2026-07-29T02:31:29+00:00",
-      "revalidated_at": "2026-07-29T11:45:43+00:00"
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
     },
     {
       "asin": "B0GVY5VG5P",
@@ -1013,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19817451",
       "published_at": "2026-07-28T23:01:29+00:00",
-      "revalidated_at": "2026-07-29T11:45:43+00:00"
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
     },
     {
       "asin": "B0GS9VZ5L8",
@@ -1497,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19814763",
       "published_at": "2026-07-28T17:49:00+00:00",
-      "revalidated_at": "2026-07-29T11:45:43+00:00"
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
     },
     {
       "asin": "B09GCL6WNQ",
@@ -1563,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19812696",
       "published_at": "2026-07-28T17:45:47+00:00",
-      "revalidated_at": "2026-07-29T11:45:43+00:00"
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
     },
     {
       "asin": "B0FVLX9KSV",
@@ -1651,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19796613",
       "published_at": "2026-07-28T16:15:48+00:00",
-      "revalidated_at": "2026-07-29T11:45:43+00:00"
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
     },
     {
       "asin": "B0000224J0",
@@ -2245,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19797225",
       "published_at": "2026-07-28T03:31:21+00:00",
-      "revalidated_at": "2026-07-29T11:30:34+00:00"
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
     },
     {
       "asin": "B0FMS9BQ15",
@@ -2267,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19798104",
       "published_at": "2026-07-28T03:16:24+00:00",
-      "revalidated_at": "2026-07-29T11:30:34+00:00"
+      "revalidated_at": "2026-07-29T13:31:50+00:00"
     },
     {
       "asin": "B0B8QTSZXL",
@@ -2576,72 +2620,6 @@
       "deal_key": "sd:19814451",
       "published_at": "2026-07-28T00:16:34+00:00",
       "revalidated_at": "2026-07-29T12:16:43+00:00"
-    },
-    {
-      "asin": "B0F4MXZL7Q",
-      "title": "JOYROOM 360° Adjustable Magnetic Car Phone Mount w/ Vacuum Suction Cup",
-      "title_es": "Soporte magnético para teléfono de coche JOYROOM 360° ajustable con ventosa",
-      "headline": null,
-      "post": "Este soporte magnético para coche JOYROOM ofrece una sujeción segura para tu teléfono con un ángulo de 360° ajustable y ventosa. Es ideal para conductores que buscan una navegación fácil y manos libres.",
-      "post_en": "This JOYROOM magnetic car phone mount provides a secure grip for your phone with a 360° adjustable angle and vacuum suction cup. It's ideal for drivers looking for easy, hands-free navigation.",
-      "price_new": 8.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 75.7,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "QBF9EZYL",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/810v4HsBGLL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F4MXZL7Q/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19798656",
-      "published_at": "2026-07-28T00:01:55+00:00",
-      "revalidated_at": "2026-07-29T11:45:43+00:00"
-    },
-    {
-      "asin": "B0FRR8R49G",
-      "title": "RENPHO 3-in-1 TENS EMS Muscle Stimulator w/ 60 Programs, Dual Channel & 8 Gel Electrode Pads",
-      "title_es": "Estimulador muscular RENPHO 3 en 1 TENS EMS con 60 programas",
-      "headline": null,
-      "post": "Este estimulador muscular RENPHO 3 en 1 combina TENS y EMS con 60 programas y doble canal para aliviar el dolor y la recuperación muscular. Es perfecto para quienes buscan gestionar el dolor o mejorar su rendimiento físico.",
-      "post_en": "This RENPHO 3-in-1 TENS EMS muscle stimulator offers 60 programs and dual channels for pain relief and muscle recovery. It's perfect for those looking to manage pain or enhance physical performance.",
-      "price_new": 13.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 60.0,
-      "rating": 4.0,
-      "condition": "code",
-      "code": "7S36869N",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71+m6z4c2WL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FRR8R49G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19814460",
-      "published_at": "2026-07-28T00:01:55+00:00",
-      "revalidated_at": "2026-07-29T12:01:34+00:00"
-    },
-    {
-      "asin": "B0GF44MVBP",
-      "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck Bundle at Amazon",
-      "title_es": "Pack de mazos Commander Magic: The Gathering Marvel Super Heroes",
-      "headline": null,
-      "post": "Este paquete de mazos Commander de Magic: The Gathering con temática de Marvel Super Heroes ofrece una experiencia de juego única para coleccionistas y jugadores. Es ideal para fans de ambos universos que buscan expandir su colección o empezar a jugar.",
-      "post_en": "This Magic: The Gathering Marvel Super Heroes Commander Deck Bundle offers a unique gaming experience for collectors and players. It's ideal for fans of both universes looking to expand their collection or start playing.",
-      "price_new": 209.95,
-      "price_old": 299.96,
-      "currency": "USD",
-      "discount_pct": 30.0,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/817ibJnYn4L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GF44MVBP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19803249",
-      "published_at": "2026-07-28T00:01:55+00:00",
-      "revalidated_at": "2026-07-29T12:01:34+00:00"
     }
   ]
 }
