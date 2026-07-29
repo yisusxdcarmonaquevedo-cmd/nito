@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-07-29T16:46:36+00:00",
+  "generated_at": "2026-07-29T17:01:43+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B01FZY53KW",
+      "title": "Cape Cod Potato Chips, Less Fat Original Kettle Chips, 14 Oz~$3.98 After Coupon @ Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.98,
+      "price_old": 56.0,
+      "currency": "USD",
+      "discount_pct": 92.9,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/7/2/9/6/9/0/450x450/21104847.thumb",
+      "url": "https://amazon.com/dp/B01FZY53KW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19808991",
+      "published_at": "2026-07-29T17:01:43+00:00",
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
+    },
+    {
+      "asin": "B074J6TDVP",
+      "title": "AMZ S&S: Shelf Stable 365 by Whole Foods Market, Organic  Almond Milk (Various), Vegan, Low-Fat, 32 Fl Oz 4 Quarts for",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 6.7,
+      "price_old": 59.0,
+      "currency": "USD",
+      "discount_pct": 88.6,
+      "rating": null,
+      "condition": "sns",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/21135984.thumb",
+      "url": "https://amazon.com/dp/B074J6TDVP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19821258",
+      "published_at": "2026-07-29T17:01:43+00:00",
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
+    },
+    {
+      "asin": "B0DLCKTQ18",
+      "title": "24-Oz Meguiar's G250524 Ultimate Iron Remover",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 10.17,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 70.9,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://m.media-amazon.com/images/I/71FLPd3nWWL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DLCKTQ18/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19812675",
+      "published_at": "2026-07-29T17:01:43+00:00",
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
+    },
+    {
+      "asin": "B0GGN779QB",
+      "title": "Dekool Foldable Dog & Cat Playpen w/ Carrying Case: Green or Blue Medium",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 15.5,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 55.7,
+      "rating": null,
+      "condition": "code",
+      "code": "P3AHY6UN",
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/3/1/1/9/6/7/1/6/450x450/21085176.thumb",
+      "url": "https://amazon.com/dp/B0GGN779QB/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19800711",
+      "published_at": "2026-07-29T17:01:43+00:00",
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
+    },
+    {
+      "asin": "B0GXVVQ2C1",
+      "title": "FLEXISPOT Queen Adjustable Upholstered Bed Frame",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 199.99,
+      "price_old": 289.99,
+      "currency": "USD",
+      "discount_pct": 31.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/3/2/3/5/9/2/4/450x450/21083910.thumb",
+      "url": "https://amazon.com/dp/B0GXVVQ2C1/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19800312",
+      "published_at": "2026-07-29T17:01:43+00:00",
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
+    },
     {
       "asin": "B0F9YD7F71",
       "title": "3-Piece KITNATS Hand-Forged High Carbon Steel Butcher Knife Set w/ Meat Cleaver, Serbian Chef & Boning Knives",
@@ -177,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19819158",
       "published_at": "2026-07-29T15:16:44+00:00",
-      "revalidated_at": "2026-07-29T15:16:44+00:00"
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
     },
     {
       "asin": "B0GGBCJF34",
@@ -375,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19809825",
       "published_at": "2026-07-29T13:31:50+00:00",
-      "revalidated_at": "2026-07-29T15:16:44+00:00"
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
     },
     {
       "asin": "B0FS25G9VD",
@@ -397,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19795425",
       "published_at": "2026-07-29T13:31:50+00:00",
-      "revalidated_at": "2026-07-29T15:16:44+00:00"
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
     },
     {
       "asin": "B0DSR1CB8W",
@@ -419,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19820556",
       "published_at": "2026-07-29T13:31:50+00:00",
-      "revalidated_at": "2026-07-29T15:16:44+00:00"
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
     },
     {
       "asin": "B0FB9C6D1N",
@@ -529,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19819557",
       "published_at": "2026-07-29T11:45:43+00:00",
-      "revalidated_at": "2026-07-29T15:16:44+00:00"
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
     },
     {
       "asin": "B0C5WJ39TZ",
@@ -903,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19819353",
       "published_at": "2026-07-29T02:31:29+00:00",
-      "revalidated_at": "2026-07-29T15:16:44+00:00"
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
     },
     {
       "asin": "B09Y8X6NZZ",
@@ -925,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19818963",
       "published_at": "2026-07-29T02:31:29+00:00",
-      "revalidated_at": "2026-07-29T15:16:44+00:00"
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
     },
     {
       "asin": "B0GC5GZ9CT",
@@ -947,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19817577",
       "published_at": "2026-07-29T02:31:29+00:00",
-      "revalidated_at": "2026-07-29T15:16:44+00:00"
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
     },
     {
       "asin": "B07MGYH1XH",
@@ -2509,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19811664",
       "published_at": "2026-07-28T07:19:25+00:00",
-      "revalidated_at": "2026-07-29T15:01:33+00:00"
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
     },
     {
       "asin": "B0GLY9HR9N",
@@ -2531,117 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19791702",
       "published_at": "2026-07-28T05:31:17+00:00",
-      "revalidated_at": "2026-07-29T15:01:33+00:00"
-    },
-    {
-      "asin": "B0F1YDYHBV",
-      "title": "DRONIRING Boys UPF 50+ Long Sleeve Rash Guard UV Sun Protection Swim Shirt (Various)",
-      "title_es": "Camiseta de natación DRONIRING de manga larga UPF 50+ para niños",
-      "headline": null,
-      "post": "Esta camiseta de natación de manga larga DRONIRING para niños ofrece protección solar UPF 50+ contra los rayos UV. Es ideal para mantener a los pequeños protegidos y cómodos durante sus actividades acuáticas al aire libre. ☀️",
-      "post_en": "This DRONIRING long-sleeve swim shirt for boys provides UPF 50+ UV sun protection. It's perfect for keeping kids protected and comfortable during their outdoor water activities. ☀️",
-      "price_new": 4.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 85.7,
-      "rating": 4.7,
-      "condition": "code",
-      "code": "B7VHPMQI",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/81cXV8x4jnL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F1YDYHBV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19816020",
-      "published_at": "2026-07-28T05:16:36+00:00",
-      "revalidated_at": "2026-07-29T16:36:20+00:00"
-    },
-    {
-      "asin": "B0FP1RDCPM",
-      "title": "FLEXISPOT AC2 Modern Chenille Upholstered Accent Chair (Grey)",
-      "title_es": "Silla auxiliar moderna FLEXISPOT AC2 tapizada en chenilla (Gris)",
-      "headline": null,
-      "post": "La silla auxiliar FLEXISPOT AC2 es un moderno asiento tapizado en chenilla, ideal para añadir un toque de estilo y confort a cualquier habitación. Su diseño versátil la hace perfecta para salones, dormitorios o estudios.",
-      "post_en": "The FLEXISPOT AC2 accent chair is a modern chenille upholstered seat, perfect for adding a touch of style and comfort to any room. Its versatile design makes it ideal for living rooms, bedrooms, or studies.",
-      "price_new": 94.6,
-      "price_old": 180.0,
-      "currency": "USD",
-      "discount_pct": 47.4,
-      "rating": 4.1,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/91dTOEvVGlL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FP1RDCPM/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19795197",
-      "published_at": "2026-07-28T05:16:36+00:00",
-      "revalidated_at": "2026-07-29T15:16:44+00:00"
-    },
-    {
-      "asin": "B0FM5RQS2L",
-      "title": "Homedics True HEPA Air Purifier Filter Replacement for AP-T63 and AP-T65 at Amazon",
-      "title_es": "Filtro de repuesto Homedics True HEPA para purificadores de aire AP-T63 y AP-T65",
-      "headline": null,
-      "post": "Este es un filtro de repuesto Homedics True HEPA diseñado para los purificadores de aire AP-T63 y AP-T65. Es esencial para mantener la calidad del aire de tu hogar y el rendimiento óptimo de tu purificador.",
-      "post_en": "This is a Homedics True HEPA replacement filter designed for the AP-T63 and AP-T65 air purifiers. It's essential for maintaining your home's air quality and your purifier's optimal performance.",
-      "price_new": 14.99,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 5.0,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71J+efhVLdL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FM5RQS2L/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19806615",
-      "published_at": "2026-07-28T05:16:36+00:00",
-      "revalidated_at": "2026-07-29T15:16:44+00:00"
-    },
-    {
-      "asin": "B000XXBP4E",
-      "title": "Matfer Bourgeat Copper Cookware Set, Set of 8",
-      "title_es": "Juego de Utensilios de Cocina de Cobre Matfer Bourgeat, Set de 8 Piezas",
-      "headline": null,
-      "post": "Este set de 8 piezas de Matfer Bourgeat ofrece una experiencia culinaria superior gracias a su construcción en cobre, ideal para una distribución uniforme del calor. Es perfecto para entusiastas de la cocina que buscan durabilidad y rendimiento profesional en sus utensilios. 🍳",
-      "post_en": "This 8-piece Matfer Bourgeat set offers a superior culinary experience thanks to its copper construction, ideal for even heat distribution. It's perfect for cooking enthusiasts seeking durability and professional performance in their cookware. 🍳",
-      "price_new": 316.0,
-      "price_old": 1215.0,
-      "currency": "USD",
-      "discount_pct": 74.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/716fnJW6UkL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B000XXBP4E/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19797354",
-      "published_at": "2026-07-28T05:01:12+00:00",
-      "revalidated_at": "2026-07-29T16:01:35+00:00"
-    },
-    {
-      "asin": "B003BTRQ68",
-      "title": "Homestyles Buffet of Buffets Server with Hutch (White)",
-      "title_es": "Mueble Buffet con Vitrina Homestyles (Blanco)",
-      "headline": null,
-      "post": "Este mueble de estilo buffet con vitrina superior es ideal para añadir almacenamiento y superficie de servicio en tu comedor o cocina. Ofrece espacio para guardar vajilla y exponer tus objetos favoritos, combinando funcionalidad y un diseño limpio en color blanco.",
-      "post_en": "This buffet server with a hutch is perfect for adding storage and serving space to your dining room or kitchen. It provides room to store dinnerware and display your favorite items, combining functionality with a clean white design.",
-      "price_new": 172.29,
-      "price_old": 356.99,
-      "currency": "USD",
-      "discount_pct": 51.7,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71KQTPr0CgL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B003BTRQ68/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19797225",
-      "published_at": "2026-07-28T03:31:21+00:00",
-      "revalidated_at": "2026-07-29T15:31:52+00:00"
+      "revalidated_at": "2026-07-29T17:01:43+00:00"
     }
   ]
 }
