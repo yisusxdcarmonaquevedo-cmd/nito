@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-07-30T12:45:46+00:00",
+  "generated_at": "2026-07-30T13:00:45+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0H9DC9H3Z",
+      "title": "150 ft No Kink Expandable Water Hose",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 39.99,
+      "price_old": 79.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.8,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/815TuBS7qjL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0H9DC9H3Z/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19817559",
+      "published_at": "2026-07-30T13:00:45+00:00",
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
+    },
+    {
+      "asin": "B0DB8ZN253",
+      "title": "22-Oz Ninja Blast Max Portable Blender w/ 3-Speed, Lithium Ion Battery & Dishwasher-Safe at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 69.99,
+      "price_old": 99.99,
+      "currency": "USD",
+      "discount_pct": 30.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21106191.thumb",
+      "url": "https://amazon.com/dp/B0DB8ZN253/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19809627",
+      "published_at": "2026-07-30T13:00:45+00:00",
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
+    },
     {
       "asin": "B00GL2HMES",
       "title": "17.9-Oz Nutricost Micronized Creatine Monohydrate Powder (100 Servings)",
@@ -36,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 52.4,
-      "rating": null,
+      "rating": 4.3,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/9/1/2/6/8/2/450x450/21127470.thumb",
+      "image": "https://m.media-amazon.com/images/I/81nXeP-OASL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FGDKTC8K/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19817829",
@@ -485,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19804149",
       "published_at": "2026-07-30T02:16:46+00:00",
-      "revalidated_at": "2026-07-30T11:15:42+00:00"
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
     },
     {
       "asin": "B0GH7B993V",
@@ -573,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19820094",
       "published_at": "2026-07-30T02:01:45+00:00",
-      "revalidated_at": "2026-07-30T11:15:42+00:00"
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
     },
     {
       "asin": "B0DJ2NV88T",
@@ -595,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19817955",
       "published_at": "2026-07-30T02:01:45+00:00",
-      "revalidated_at": "2026-07-30T11:15:42+00:00"
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
     },
     {
       "asin": "B09HWGP8GL",
@@ -661,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19821699",
       "published_at": "2026-07-30T01:46:29+00:00",
-      "revalidated_at": "2026-07-30T11:15:42+00:00"
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
     },
     {
       "asin": "B0DWT9XN4D",
@@ -683,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19818003",
       "published_at": "2026-07-30T01:46:29+00:00",
-      "revalidated_at": "2026-07-30T11:15:42+00:00"
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
     },
     {
       "asin": "B0GHNRWHQD",
@@ -1101,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19821669",
       "published_at": "2026-07-29T22:16:30+00:00",
-      "revalidated_at": "2026-07-30T11:15:42+00:00"
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
     },
     {
       "asin": "B0GQYNV5DJ",
@@ -1123,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19822881",
       "published_at": "2026-07-29T22:16:30+00:00",
-      "revalidated_at": "2026-07-30T11:15:42+00:00"
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
     },
     {
       "asin": "B00SM2S7TE",
@@ -1145,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19803360",
       "published_at": "2026-07-29T22:16:30+00:00",
-      "revalidated_at": "2026-07-30T11:15:42+00:00"
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
     },
     {
       "asin": "B0G6Y1GZ4F",
@@ -1453,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19821258",
       "published_at": "2026-07-29T17:01:43+00:00",
-      "revalidated_at": "2026-07-30T11:15:42+00:00"
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
     },
     {
       "asin": "B0DLCKTQ18",
@@ -2003,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19818729",
       "published_at": "2026-07-29T11:30:34+00:00",
-      "revalidated_at": "2026-07-30T11:00:47+00:00"
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
     },
     {
       "asin": "B074G52K9T",
@@ -2465,29 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19793571",
       "published_at": "2026-07-29T01:46:10+00:00",
-      "revalidated_at": "2026-07-30T11:00:47+00:00"
-    },
-    {
-      "asin": "B077PJDPP3",
-      "title": "7\" Bellemain Heavy-Duty Cast Iron Bacon/Burger Press w/ Wooden Handle at Amazon",
-      "title_es": "Prensa de Hierro Fundido Bellemain de 7\" para Bacon/Hamburguesas con Mango de Madera",
-      "headline": null,
-      "post": "Esta prensa de hierro fundido Bellemain de 7 pulgadas es ideal para cocinar bacon crujiente o hamburguesas perfectas. Su mango de madera ofrece un agarre cómodo y seguro mientras cocinas.",
-      "post_en": "This 7-inch Bellemain heavy-duty cast iron press is ideal for cooking crispy bacon or perfectly seared burgers. Its wooden handle provides a comfortable and secure grip while you cook.",
-      "price_new": 8.99,
-      "price_old": 16.99,
-      "currency": "USD",
-      "discount_pct": 47.1,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81eKUgpz3wL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B077PJDPP3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19819566",
-      "published_at": "2026-07-29T01:46:10+00:00",
-      "revalidated_at": "2026-07-30T11:00:47+00:00"
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
     },
     {
       "asin": "B0DSQZX9JZ",
@@ -2509,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19819365",
       "published_at": "2026-07-29T01:31:17+00:00",
-      "revalidated_at": "2026-07-30T11:00:47+00:00"
+      "revalidated_at": "2026-07-30T13:00:45+00:00"
     },
     {
       "asin": "B0DRW4RCV5",
@@ -2598,50 +2620,6 @@
       "deal_key": "sd:19819329",
       "published_at": "2026-07-29T00:31:25+00:00",
       "revalidated_at": "2026-07-30T11:30:46+00:00"
-    },
-    {
-      "asin": "B08YS8TM62",
-      "title": "120-Count Nature's Bounty Elderberry Sambucus Softgels",
-      "title_es": "Nature's Bounty Sambucus de Saúco en Cápsulas Blandas, 120 unidades",
-      "headline": null,
-      "post": "Estas cápsulas blandas de saúco Nature's Bounty Sambucus son un suplemento dietético formulado para apoyar el sistema inmunitario. Son ideales para quienes buscan incorporar los beneficios del saúco en su rutina diaria de bienestar. ✨",
-      "post_en": "These Nature's Bounty Elderberry Sambucus Softgels are a dietary supplement formulated to support the immune system. They are ideal for individuals looking to incorporate the benefits of elderberry into their daily wellness routine. ✨",
-      "price_new": 4.38,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 87.5,
-      "rating": 4.7,
-      "condition": "coupon",
-      "code": null,
-      "category": "Salud",
-      "image": "https://m.media-amazon.com/images/I/61ZO2xfXoYS._AC_SL1001_.jpg",
-      "url": "https://amazon.com/dp/B08YS8TM62/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19818558",
-      "published_at": "2026-07-29T00:16:14+00:00",
-      "revalidated_at": "2026-07-30T11:25:26+00:00"
-    },
-    {
-      "asin": "B07GDRZXSS",
-      "title": "Amazon Basics Exterior Door Knob With Lock, Coastal, Matte Black",
-      "title_es": "Pomo de puerta exterior Amazon Basics Coastal, Negro Mate con cerradura.",
-      "headline": null,
-      "post": "Este pomo de puerta exterior Amazon Basics ofrece seguridad y un estilo Coastal en negro mate. Ideal para quienes buscan una solución robusta y estéticamente agradable para sus puertas exteriores.",
-      "post_en": "This Amazon Basics exterior door knob provides security and a Coastal style in matte black. It's ideal for those looking for a robust and aesthetically pleasing solution for their exterior doors.",
-      "price_new": 12.0,
-      "price_old": 19.1,
-      "currency": "USD",
-      "discount_pct": 37.2,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/51Np72X4AkS._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07GDRZXSS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19802178",
-      "published_at": "2026-07-28T23:44:47+00:00",
-      "revalidated_at": "2026-07-30T12:45:46+00:00"
     }
   ]
 }
