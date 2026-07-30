@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-07-30T20:30:46+00:00",
+  "generated_at": "2026-07-30T20:45:55+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0G7XMT49G",
+      "title": "52\" x 18\" Yinhua Floral Farmhouse Light-Filtering Window Valance w/ Ruffle (2 Colors)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.79,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 86.3,
+      "rating": 4.7,
+      "condition": "code",
+      "code": "V5P8SGZM",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81XmYvaTG2L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0G7XMT49G/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19800873",
+      "published_at": "2026-07-30T20:45:55+00:00",
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
+    },
+    {
+      "asin": "B0BLJQHWM2",
+      "title": "TOPOINT Bluetooth Sleep Mask w/ Headphones & Microphone (Various)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 65.7,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "RWEOTOEF",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81ENjYnewUL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0BLJQHWM2/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19826217",
+      "published_at": "2026-07-30T20:45:55+00:00",
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
+    },
+    {
+      "asin": "B0DQJV5D9K",
+      "title": "Bissell PowerClean FurFinder 200W Self-Standing Cordless Vacuum",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 159.99,
+      "price_old": 259.99,
+      "currency": "USD",
+      "discount_pct": 38.5,
+      "rating": 4.5,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/619+epXuT4L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DQJV5D9K/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19812642",
+      "published_at": "2026-07-30T20:45:55+00:00",
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
+    },
     {
       "asin": "B0CZZ78R8L",
       "title": "1.17-lb Orgain X Justin's 20g Protein Powder (Peanut Butter)",
@@ -111,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19815051",
       "published_at": "2026-07-30T19:00:52+00:00",
-      "revalidated_at": "2026-07-30T19:00:52+00:00"
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
     },
     {
       "asin": "B0DD5F82LT",
@@ -133,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19824090",
       "published_at": "2026-07-30T19:00:52+00:00",
-      "revalidated_at": "2026-07-30T19:00:52+00:00"
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
     },
     {
       "asin": "B0G4SW3XXP",
@@ -278,11 +344,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 92.1,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "ISQOLQL5",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/21120153.thumb",
+      "image": "https://m.media-amazon.com/images/I/71Lp3H47PBL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DKNJKSDC/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19815195",
@@ -300,11 +366,11 @@
       "price_old": 8.99,
       "currency": "USD",
       "discount_pct": 77.9,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21147207.thumb",
+      "image": "https://m.media-amazon.com/images/I/810jTVO83TL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B00INIXKV2/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19825350",
@@ -322,11 +388,11 @@
       "price_old": 59.99,
       "currency": "USD",
       "discount_pct": 45.0,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21107763.thumb",
+      "image": "https://m.media-amazon.com/images/I/91rwzulpkrL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F2NX9G77/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19810197",
@@ -344,11 +410,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 81.5,
-      "rating": null,
+      "rating": 4.8,
       "condition": "coupon",
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21123852.thumb",
+      "image": "https://m.media-amazon.com/images/I/81bYhyBndnL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F94H2MQQ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19816650",
@@ -771,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19814253",
       "published_at": "2026-07-30T13:45:46+00:00",
-      "revalidated_at": "2026-07-30T19:00:52+00:00"
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
     },
     {
       "asin": "B0BDHYF8YS",
@@ -793,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19807602",
       "published_at": "2026-07-30T13:45:46+00:00",
-      "revalidated_at": "2026-07-30T19:00:52+00:00"
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
     },
     {
       "asin": "B0CPL68VGP",
@@ -815,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19812102",
       "published_at": "2026-07-30T13:45:46+00:00",
-      "revalidated_at": "2026-07-30T19:00:52+00:00"
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
     },
     {
       "asin": "B0GXDDH5K3",
@@ -1079,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19821255",
       "published_at": "2026-07-30T12:00:43+00:00",
-      "revalidated_at": "2026-07-30T19:00:52+00:00"
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
     },
     {
       "asin": "B0GKBJ4GV1",
@@ -1255,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19808637",
       "published_at": "2026-07-30T04:46:33+00:00",
-      "revalidated_at": "2026-07-30T19:00:52+00:00"
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
     },
     {
       "asin": "B0BY2T8YTD",
@@ -1761,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19812081",
       "published_at": "2026-07-30T01:01:27+00:00",
-      "revalidated_at": "2026-07-30T19:00:52+00:00"
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
     },
     {
       "asin": "B0C9Y4CDJC",
@@ -2377,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19800711",
       "published_at": "2026-07-29T17:01:43+00:00",
-      "revalidated_at": "2026-07-30T18:45:47+00:00"
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
     },
     {
       "asin": "B0GXVVQ2C1",
@@ -2399,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19800312",
       "published_at": "2026-07-29T17:01:43+00:00",
-      "revalidated_at": "2026-07-30T18:45:47+00:00"
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
     },
     {
       "asin": "B0F9YD7F71",
@@ -2487,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19820670",
       "published_at": "2026-07-29T15:46:37+00:00",
-      "revalidated_at": "2026-07-30T18:45:47+00:00"
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
     },
     {
       "asin": "B0BPSH2S2Y",
@@ -2509,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19821234",
       "published_at": "2026-07-29T15:46:37+00:00",
-      "revalidated_at": "2026-07-30T18:45:47+00:00"
+      "revalidated_at": "2026-07-30T20:45:55+00:00"
     },
     {
       "asin": "B08CGHSY9G",
@@ -2576,72 +2642,6 @@
       "deal_key": "sd:19817613",
       "published_at": "2026-07-29T15:01:33+00:00",
       "revalidated_at": "2026-07-30T20:30:46+00:00"
-    },
-    {
-      "asin": "B0CK9H22XS",
-      "title": "24 oz Stanley Stay-Hot Camp Mug (Cream)",
-      "title_es": "Taza de camping Stanley Stay-Hot de 24 oz (Crema)",
-      "headline": null,
-      "post": "Mantén tus bebidas calientes o frías durante horas con esta resistente taza de camping Stanley Stay-Hot. Ideal para tus aventuras al aire libre o el uso diario.",
-      "post_en": "Keep your drinks hot or cold for hours with this durable 24 oz Stanley Stay-Hot Camp Mug. It's ideal for your outdoor adventures or daily use.",
-      "price_new": 18.0,
-      "price_old": 30.0,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/51BxEecqkdL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CK9H22XS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19821453",
-      "published_at": "2026-07-29T14:54:54+00:00",
-      "revalidated_at": "2026-07-30T20:07:23+00:00"
-    },
-    {
-      "asin": "B0GM3VR94M",
-      "title": "12-Pack 16.1-Oz Campbell's Protein Italian Style Wedding Soup",
-      "title_es": "Pack de 12 latas de sopa Campbell's Protein Italian Style Wedding Soup de 16.1 oz",
-      "headline": null,
-      "post": "Disfruta de una comida rápida y nutritiva con este pack de 12 sopas Campbell's Protein Italian Style Wedding. Es una opción conveniente y sabrosa para cualquier momento.",
-      "post_en": "Enjoy a quick and nutritious meal with this 12-pack of Campbell's Protein Italian Style Wedding Soup. It's a convenient and tasty option for any time.",
-      "price_new": 1.67,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 95.2,
-      "rating": 4.0,
-      "condition": "coupon",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81ymod3jJwL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GM3VR94M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19821198",
-      "published_at": "2026-07-29T14:46:43+00:00",
-      "revalidated_at": "2026-07-30T20:07:23+00:00"
-    },
-    {
-      "asin": "B09MT34T62",
-      "title": "FLYLEAD 75W 4-Port Car Charger w/ USB-C PD 60W & QC 3.0",
-      "title_es": "Cargador de coche FLYLEAD de 75W con 4 puertos, USB-C PD 60W y QC 3.0",
-      "headline": null,
-      "post": "Carga rápidamente múltiples dispositivos en tu coche con este cargador FLYLEAD de 75W y 4 puertos. Es esencial para viajes largos o para mantener todos tus gadgets listos.",
-      "post_en": "Quickly charge multiple devices in your car with this FLYLEAD 75W 4-Port Car Charger. It's essential for long trips or keeping all your gadgets ready.",
-      "price_new": 7.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 78.6,
-      "rating": 4.7,
-      "condition": "code",
-      "code": "LS73CVO6",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81UPTBLzw-L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09MT34T62/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19817670",
-      "published_at": "2026-07-29T14:31:47+00:00",
-      "revalidated_at": "2026-07-30T19:45:51+00:00"
     }
   ]
 }
