@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T14:16:30+00:00",
+  "generated_at": "2026-08-01T14:31:28+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B09TPY25D1",
@@ -14,11 +14,11 @@
       "price_old": 925.0,
       "currency": "USD",
       "discount_pct": 55.7,
-      "rating": null,
+      "rating": 4.0,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/21141873.thumb",
+      "image": "https://m.media-amazon.com/images/I/617qmQUYayL._AC_SL1333_.jpg",
       "url": "https://amazon.com/dp/B09TPY25D1/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19823268",
@@ -177,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19809780",
       "published_at": "2026-08-01T12:31:28+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B0C53MKFMY",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19830864",
       "published_at": "2026-08-01T11:01:30+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B01CEY489S",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19831476",
       "published_at": "2026-08-01T11:01:30+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B09GM8JZM9",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19830360",
       "published_at": "2026-08-01T07:16:51+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B08TM2F4BH",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19831047",
       "published_at": "2026-08-01T07:16:51+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B0DNTHSWKR",
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19830309",
       "published_at": "2026-08-01T07:16:51+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B0CK2KFR5P",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19822662",
       "published_at": "2026-08-01T07:16:51+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B0C67VFTSR",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19825539",
       "published_at": "2026-08-01T05:16:02+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B0DS4GF7VB",
@@ -661,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19828017",
       "published_at": "2026-08-01T03:30:59+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B0FKTDB3CR",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19830063",
       "published_at": "2026-07-31T23:46:08+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B0BXBRP9VF",
@@ -1236,28 +1236,6 @@
       "revalidated_at": "2026-08-01T12:46:41+00:00"
     },
     {
-      "asin": "B0DRCPRXNW",
-      "title": "TCL 52\" White Low Profile Ceiling Fan with Light & Remote",
-      "title_es": "Ventilador de Techo TCL de 52\" de Bajo Perfil con Luz y Mando a Distancia (Blanco)",
-      "headline": null,
-      "post": "Este ventilador de techo TCL de 52\" con diseño de bajo perfil es perfecto para cualquier habitación, ofreciendo una brisa agradable y una iluminación integrada. Se controla cómodamente con su mando a distancia incluido.",
-      "post_en": "This 52\" TCL low-profile ceiling fan is perfect for any room, offering a pleasant breeze and integrated lighting. It is conveniently controlled with its included remote.",
-      "price_new": 69.29,
-      "price_old": 159.99,
-      "currency": "USD",
-      "discount_pct": 56.7,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/3/2/8/0/4/4/7/450x450/21138897.thumb",
-      "url": "https://amazon.com/dp/B0DRCPRXNW/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19822239",
-      "published_at": "2026-07-31T22:16:30+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
-    },
-    {
       "asin": "B0GLXGZWMY",
       "title": "UGREEN Nexode Pro 160W Charger w/ Retractable Cable",
       "title_es": "Cargador UGREEN Nexode Pro 160W con Cable Retráctil",
@@ -1277,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19828272",
       "published_at": "2026-07-31T22:16:30+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B0DQJ6LWLR",
@@ -1893,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19812939",
       "published_at": "2026-07-31T13:15:49+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B0FK3826VH",
@@ -2025,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19809507",
       "published_at": "2026-07-31T11:31:37+00:00",
-      "revalidated_at": "2026-08-01T12:31:28+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B0D92BBTZR",
@@ -2267,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19827330",
       "published_at": "2026-07-31T05:15:32+00:00",
-      "revalidated_at": "2026-08-01T12:16:20+00:00"
+      "revalidated_at": "2026-08-01T14:31:28+00:00"
     },
     {
       "asin": "B0F23NPF78",
