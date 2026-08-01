@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-01T23:01:26+00:00",
+  "generated_at": "2026-08-01T23:16:28+00:00",
   "market": "us",
   "count": 117,
   "deals": [
+    {
+      "asin": "B0FWHSCC1F",
+      "title": "Linkind Matter A19 Smart LED Edison Light Bulb w/ 16M Colors, Tunable White, Music Sync",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 62.9,
+      "rating": 4.6,
+      "condition": "code",
+      "code": "2JS39QGW",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/7143J+vjscL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FWHSCC1F/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19814214",
+      "published_at": "2026-08-01T23:16:28+00:00",
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
+    },
     {
       "asin": "B0DY1D46R7",
       "title": "PELONIS 40 inch Bladeless Tower Fan, Standing Fan with Remote Control (Grey)",
@@ -278,11 +300,11 @@
       "price_old": 89.0,
       "currency": "USD",
       "discount_pct": 32.4,
-      "rating": null,
+      "rating": 4.2,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21154677.thumb",
+      "image": "https://m.media-amazon.com/images/I/71WrN3G1qQL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CNB2687R/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19828182",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19828716",
       "published_at": "2026-08-01T19:46:28+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
     },
     {
       "asin": "B000V98HCI",
@@ -529,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19808508",
       "published_at": "2026-08-01T18:01:45+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
     },
     {
       "asin": "B00NQQTXW6",
@@ -683,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19827204",
       "published_at": "2026-08-01T16:16:00+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
     },
     {
       "asin": "B00ADNPDEM",
@@ -1035,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19819779",
       "published_at": "2026-08-01T12:16:20+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
     },
     {
       "asin": "B0FRSDJS2N",
@@ -1101,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19830864",
       "published_at": "2026-08-01T11:01:30+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
     },
     {
       "asin": "B01CEY489S",
@@ -1123,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19831476",
       "published_at": "2026-08-01T11:01:30+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
     },
     {
       "asin": "B09GM8JZM9",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19830360",
       "published_at": "2026-08-01T07:16:51+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
     },
     {
       "asin": "B08TM2F4BH",
@@ -1255,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19831047",
       "published_at": "2026-08-01T07:16:51+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
     },
     {
       "asin": "B0DNTHSWKR",
@@ -1277,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19830309",
       "published_at": "2026-08-01T07:16:51+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
     },
     {
       "asin": "B0CK2KFR5P",
@@ -1299,29 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19822662",
       "published_at": "2026-08-01T07:16:51+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
-    },
-    {
-      "asin": "B0DZWW13J8",
-      "title": "2-in-1 MakeFit Dual Handheld Shower Head Combo w/ 10 Modes (Chrome)",
-      "title_es": "Combo de ducha de mano dual MakeFit 2 en 1 con 10 modos (Cromo)",
-      "headline": null,
-      "post": "Este combo de ducha de mano dual MakeFit 2 en 1 ofrece 10 modos de pulverización para una experiencia de baño personalizada. Es ideal para quienes buscan renovar su baño con una solución versátil y fácil de instalar. 🚿",
-      "post_en": "This MakeFit 2-in-1 Dual Handheld Shower Head Combo features 10 spray modes for a personalized bathing experience. It's ideal for anyone looking to upgrade their bathroom with a versatile and easy-to-install solution. 🚿",
-      "price_new": 29.0,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 58.6,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "LMYKPVDW",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71Z7AVwuQOL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DZWW13J8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19825539",
-      "published_at": "2026-08-01T05:16:02+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
     },
     {
       "asin": "B0DS4GF7VB",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19820019",
       "published_at": "2026-07-31T20:11:56+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
     },
     {
       "asin": "B0D2X7DCG5",
@@ -2157,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19813218",
       "published_at": "2026-07-31T20:11:56+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
     },
     {
       "asin": "B0FRM282XL",
@@ -2267,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19809954",
       "published_at": "2026-07-31T16:31:01+00:00",
-      "revalidated_at": "2026-08-01T21:16:47+00:00"
+      "revalidated_at": "2026-08-01T23:16:28+00:00"
     },
     {
       "asin": "B0F86WLC2H",
