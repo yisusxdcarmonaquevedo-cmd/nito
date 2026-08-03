@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-03T15:01:01+00:00",
+  "generated_at": "2026-08-03T15:10:51+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B000JMKNTW",
+      "title": "The Looming Tower (Pulitzer Prize Winner) (eBook) by Lawrence Wright",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.99,
+      "price_old": 12.99,
+      "currency": "USD",
+      "discount_pct": 84.7,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21175959.thumb",
+      "url": "https://amazon.com/dp/B000JMKNTW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19837314",
+      "published_at": "2026-08-03T15:10:51+00:00",
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
+    },
     {
       "asin": "B0CCNPV7NZ",
       "title": "Gyroor Hoverboard New G13 All Terrain Hoverboard with LED Lights, Off Road Hoverboard with Bluetooth for Kids ages 6-12 and Adults-Black",
@@ -353,29 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19837305",
       "published_at": "2026-08-03T13:16:00+00:00",
-      "revalidated_at": "2026-08-03T13:16:00+00:00"
-    },
-    {
-      "asin": "B0FXMRY2TV",
-      "title": "Soothfeel Women's 2 in 1 Running Shorts 5\" Athletic Shorts High Waisted Workout Gym Tennis Exercise Shorts with Liner Pocketfluorescent_greenL",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 13.99,
-      "price_old": 25.99,
-      "currency": "USD",
-      "discount_pct": 46.2,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21115392.thumb",
-      "url": "https://amazon.com/dp/B0FXMRY2TV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19813494",
-      "published_at": "2026-08-03T13:16:00+00:00",
-      "revalidated_at": "2026-08-03T13:16:00+00:00"
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
     },
     {
       "asin": "B0GK8TGCX6",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19817301",
       "published_at": "2026-08-03T05:45:39+00:00",
-      "revalidated_at": "2026-08-03T13:16:00+00:00"
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
     },
     {
       "asin": "B0GXK7TPCG",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19824996",
       "published_at": "2026-08-03T05:45:39+00:00",
-      "revalidated_at": "2026-08-03T13:16:00+00:00"
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
     },
     {
       "asin": "B07MMZ8Y1V",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19822452",
       "published_at": "2026-08-03T05:45:39+00:00",
-      "revalidated_at": "2026-08-03T13:16:00+00:00"
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
     },
     {
       "asin": "B08QW7K1JJ",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19836375",
       "published_at": "2026-08-03T04:00:36+00:00",
-      "revalidated_at": "2026-08-03T13:16:00+00:00"
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
     },
     {
       "asin": "B0GLYZR5YV",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19825038",
       "published_at": "2026-08-03T04:00:36+00:00",
-      "revalidated_at": "2026-08-03T13:16:00+00:00"
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
     },
     {
       "asin": "B0F4JDMBG5",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19830369",
       "published_at": "2026-08-03T02:00:30+00:00",
-      "revalidated_at": "2026-08-03T13:16:00+00:00"
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
     },
     {
       "asin": "B0GT8QJKK6",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19825905",
       "published_at": "2026-08-03T00:15:38+00:00",
-      "revalidated_at": "2026-08-03T13:16:00+00:00"
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
     },
     {
       "asin": "B0GX6QFZLZ",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19834377",
       "published_at": "2026-08-03T00:01:06+00:00",
-      "revalidated_at": "2026-08-03T13:01:07+00:00"
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
     },
     {
       "asin": "B09BCHZZ7W",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19819920",
       "published_at": "2026-08-03T00:01:06+00:00",
-      "revalidated_at": "2026-08-03T13:01:07+00:00"
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
     },
     {
       "asin": "B0CJMMGH6T",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19829049",
       "published_at": "2026-08-03T00:01:06+00:00",
-      "revalidated_at": "2026-08-03T13:01:07+00:00"
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
     },
     {
       "asin": "B0DYKTX8YL",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19810146",
       "published_at": "2026-08-03T00:01:06+00:00",
-      "revalidated_at": "2026-08-03T13:16:00+00:00"
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
     },
     {
       "asin": "B0GV4TNY4G",
@@ -2509,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19825704",
       "published_at": "2026-08-02T02:46:46+00:00",
-      "revalidated_at": "2026-08-03T13:01:07+00:00"
+      "revalidated_at": "2026-08-03T15:10:51+00:00"
     },
     {
       "asin": "B0G19DPB2H",
@@ -2619,28 +2619,6 @@
       "source": "slickdeals",
       "deal_key": "sd:19831152",
       "published_at": "2026-08-02T01:46:32+00:00",
-      "revalidated_at": "2026-08-03T14:16:05+00:00"
-    },
-    {
-      "asin": "B0CBVRNL2R",
-      "title": "Hanes EcoSmart Fleece Pullover Hoodie (Metallic Teal)",
-      "title_es": "Sudadera con capucha Hanes EcoSmart Fleece (Metallic Teal)",
-      "headline": null,
-      "post": "Este buzo con capucha Hanes EcoSmart está confeccionado con forro polar suave, ideal para mantenerte abrigado y cómodo en el día a día. Es una prenda versátil perfecta para quienes buscan confort y estilo casual.",
-      "post_en": "This Hanes EcoSmart pullover hoodie is made with soft fleece, perfect for keeping you warm and comfortable for everyday wear. It's a versatile garment ideal for those seeking comfort and casual style.",
-      "price_new": 8.27,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 76.4,
-      "rating": 4.5,
-      "condition": "prime",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71ryGi-t6gL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CBVRNL2R/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19819275",
-      "published_at": "2026-08-02T01:31:36+00:00",
       "revalidated_at": "2026-08-03T14:16:05+00:00"
     }
   ]
