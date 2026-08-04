@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-04T15:16:14+00:00",
+  "generated_at": "2026-08-04T15:31:26+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0GFNFBFV2",
+      "title": "Bircen Men's Polarized Acetate Sunglasses (Various Colors)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 68.6,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/3/4/2/9/3/0/8/450x450/21182496.thumb",
+      "url": "https://amazon.com/dp/B0GFNFBFV2/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19839729",
+      "published_at": "2026-08-04T15:31:26+00:00",
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
+    },
     {
       "asin": "B06XKHNK5X",
       "title": "Ocean Spray® Cran-Energy™ Cranberry Pomegranate Juice Drinks, 10 Fl Oz Bottles, 6 Count~$4.72 With S&S @ Amazon",
@@ -14,11 +36,11 @@
       "price_old": 60.0,
       "currency": "USD",
       "discount_pct": 92.1,
-      "rating": null,
+      "rating": 4.6,
       "condition": "sns",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/7/2/9/6/9/0/450x450/21143634.thumb",
+      "image": "https://m.media-amazon.com/images/I/81bF4NKB0yL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B06XKHNK5X/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19824024",
@@ -419,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19819881",
       "published_at": "2026-08-04T08:15:57+00:00",
-      "revalidated_at": "2026-08-04T13:31:18+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B082G42S5P",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19824060",
       "published_at": "2026-08-04T04:31:29+00:00",
-      "revalidated_at": "2026-08-04T13:31:18+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B0CQZ25H1M",
@@ -595,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839249",
       "published_at": "2026-08-04T04:31:29+00:00",
-      "revalidated_at": "2026-08-04T13:31:18+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B0GQLC6T73",
@@ -771,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19840125",
       "published_at": "2026-08-04T00:46:28+00:00",
-      "revalidated_at": "2026-08-04T13:31:18+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B0DMZWD4JP",
@@ -793,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839327",
       "published_at": "2026-08-04T00:46:28+00:00",
-      "revalidated_at": "2026-08-04T13:31:18+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B0DH25JNG3",
@@ -815,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19818915",
       "published_at": "2026-08-04T00:46:28+00:00",
-      "revalidated_at": "2026-08-04T13:31:18+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B0DQNKS1ZX",
@@ -1057,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19836867",
       "published_at": "2026-08-03T23:01:48+00:00",
-      "revalidated_at": "2026-08-04T13:31:18+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B0GX19T6VB",
@@ -1079,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19829940",
       "published_at": "2026-08-03T23:01:48+00:00",
-      "revalidated_at": "2026-08-04T13:31:18+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B0GQKCKTXT",
@@ -1101,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839915",
       "published_at": "2026-08-03T23:01:48+00:00",
-      "revalidated_at": "2026-08-04T13:31:18+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B07G28CM6P",
@@ -1123,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19833966",
       "published_at": "2026-08-03T23:01:48+00:00",
-      "revalidated_at": "2026-08-04T13:31:18+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B08TQLRZ6W",
@@ -2421,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19822452",
       "published_at": "2026-08-03T05:45:39+00:00",
-      "revalidated_at": "2026-08-04T13:20:44+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B08QW7K1JJ",
@@ -2443,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19836492",
       "published_at": "2026-08-03T05:15:35+00:00",
-      "revalidated_at": "2026-08-04T13:20:44+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B0H6J12W4F",
@@ -2509,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19836375",
       "published_at": "2026-08-03T04:00:36+00:00",
-      "revalidated_at": "2026-08-04T13:20:44+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B0GLYZR5YV",
@@ -2531,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19825038",
       "published_at": "2026-08-03T04:00:36+00:00",
-      "revalidated_at": "2026-08-04T13:20:44+00:00"
+      "revalidated_at": "2026-08-04T15:31:26+00:00"
     },
     {
       "asin": "B0F4JDMBG5",
@@ -2618,28 +2640,6 @@
       "url": "https://amazon.com/dp/B0FJ5QCQ77/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19830342",
-      "published_at": "2026-08-03T03:15:36+00:00",
-      "revalidated_at": "2026-08-04T14:16:11+00:00"
-    },
-    {
-      "asin": "B0CQ3VG1S8",
-      "title": "Nerf N Series Party Pack, Includes 5 N Series Flex Blasters, 15 N1 Darts Compatible Only N Series Blasters, Ages 8+ (Amazon Exclusive)",
-      "title_es": "Nerf N Series Party Pack, Incluye 5 Lanzadores Flex y 15 Dardos N1",
-      "headline": null,
-      "post": "Prepara la diversión con este pack de fiesta Nerf N Series, que incluye cinco lanzadores Flex y dardos N1 para batallas épicas. Es ideal para grupos o para regalar a niños de 8 años en adelante que disfruten de la acción y el juego.",
-      "post_en": "Get ready for fun with this Nerf N Series Party Pack, featuring five Flex Blasters and N1 darts for epic battles. It's ideal for groups or as a gift for children aged 8 and up who enjoy action and play.",
-      "price_new": 12.49,
-      "price_old": 21.15,
-      "currency": "USD",
-      "discount_pct": 40.9,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81tLPGcncmL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CQ3VG1S8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19818444",
       "published_at": "2026-08-03T03:15:36+00:00",
       "revalidated_at": "2026-08-04T14:16:11+00:00"
     }
