@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-04T11:30:47+00:00",
+  "generated_at": "2026-08-04T11:35:33+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0F42TZ2FY",
+      "title": "The Art of Spending Money: Simple Choices for a Richer Life (eBook) by Morgan Housel",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.99,
+      "price_old": 15.99,
+      "currency": "USD",
+      "discount_pct": 81.3,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21187500.thumb",
+      "url": "https://amazon.com/dp/B0F42TZ2FY/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19841616",
+      "published_at": "2026-08-04T11:35:33+00:00",
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
+    },
     {
       "asin": "B004XFUSRI",
       "title": "Boudreaux's Butt Paste Maximum Strength Diaper Rash Cream 2-Ounce Tube",
@@ -68,28 +90,6 @@
       "deal_key": "sd:19834908",
       "published_at": "2026-08-04T11:01:17+00:00",
       "revalidated_at": "2026-08-04T11:01:17+00:00"
-    },
-    {
-      "asin": "B0DMPTN8DG",
-      "title": "27\" LG UltraGear OLED QHD 1440p 480Hz Gaming Monitor at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 499.99,
-      "price_old": 999.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81CluF9QydL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DMPTN8DG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19835232",
-      "published_at": "2026-08-04T09:45:59+00:00",
-      "revalidated_at": "2026-08-04T09:45:59+00:00"
     },
     {
       "asin": "B00NJ2M33I",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19827543",
       "published_at": "2026-08-04T06:13:08+00:00",
-      "revalidated_at": "2026-08-04T09:45:59+00:00"
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
     },
     {
       "asin": "B0DMT133P2",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19840392",
       "published_at": "2026-08-04T04:16:43+00:00",
-      "revalidated_at": "2026-08-04T09:45:59+00:00"
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
     },
     {
       "asin": "B0DB6QT8K6",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839354",
       "published_at": "2026-08-04T02:31:22+00:00",
-      "revalidated_at": "2026-08-04T09:45:59+00:00"
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
     },
     {
       "asin": "B001ECQPUC",
@@ -595,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19828593",
       "published_at": "2026-08-04T00:31:25+00:00",
-      "revalidated_at": "2026-08-04T09:45:59+00:00"
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
     },
     {
       "asin": "B0DT1HDBMY",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19840011",
       "published_at": "2026-08-04T00:31:25+00:00",
-      "revalidated_at": "2026-08-04T09:45:59+00:00"
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
     },
     {
       "asin": "B01EY4MRIU",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839468",
       "published_at": "2026-08-03T19:16:10+00:00",
-      "revalidated_at": "2026-08-04T09:45:59+00:00"
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
     },
     {
       "asin": "B00EUBD14C",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19823016",
       "published_at": "2026-08-03T19:16:10+00:00",
-      "revalidated_at": "2026-08-04T09:45:59+00:00"
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
     },
     {
       "asin": "B0DQC1Y2Z7",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19825191",
       "published_at": "2026-08-03T17:21:12+00:00",
-      "revalidated_at": "2026-08-04T09:45:59+00:00"
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
     },
     {
       "asin": "B09P45LR5T",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19837284",
       "published_at": "2026-08-03T17:21:12+00:00",
-      "revalidated_at": "2026-08-04T09:45:59+00:00"
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
     },
     {
       "asin": "B0FHWJTW55",
@@ -1519,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19829343",
       "published_at": "2026-08-03T15:31:07+00:00",
-      "revalidated_at": "2026-08-04T09:45:59+00:00"
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
     },
     {
       "asin": "B0DD5F82LT",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19819251",
       "published_at": "2026-08-03T13:31:06+00:00",
-      "revalidated_at": "2026-08-04T09:45:59+00:00"
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
     },
     {
       "asin": "B0G3W9WTQM",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19835124",
       "published_at": "2026-08-03T03:30:35+00:00",
-      "revalidated_at": "2026-08-04T09:31:00+00:00"
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
     },
     {
       "asin": "B0FJ5QCQ77",
@@ -2509,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19826604",
       "published_at": "2026-08-03T01:30:38+00:00",
-      "revalidated_at": "2026-08-04T09:31:00+00:00"
+      "revalidated_at": "2026-08-04T11:35:33+00:00"
     },
     {
       "asin": "B0DPKJC58B",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19825905",
       "published_at": "2026-08-03T00:15:38+00:00",
       "revalidated_at": "2026-08-04T10:31:05+00:00"
-    },
-    {
-      "asin": "B0GX6QFZLZ",
-      "title": "Lamicall Portable Laptop Stand for Desk & Travel 0.47in Ultra-Slim 10-15.6\"",
-      "title_es": "Soporte portátil Lamicall ultra-delgado para ordenador de 10-15.6\"",
-      "headline": null,
-      "post": "Este soporte elevador para portátil, con solo 0.47 pulgadas de grosor, mejora tu postura y la ventilación de tu dispositivo. Es ideal para trabajar cómodamente en el escritorio o para llevarlo de viaje gracias a su diseño ultra-delgado y plegable. 💻",
-      "post_en": "This ultra-slim 0.47-inch laptop stand improves your posture and device ventilation. It's perfect for comfortable desk work or for travel thanks to its ultra-slim and foldable design. 💻",
-      "price_new": 10.99,
-      "price_old": 24.99,
-      "currency": "USD",
-      "discount_pct": 56.0,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61EfPKvR47L._AC_SL1300_.jpg",
-      "url": "https://amazon.com/dp/B0GX6QFZLZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19813638",
-      "published_at": "2026-08-03T00:01:06+00:00",
-      "revalidated_at": "2026-08-04T10:46:10+00:00"
     }
   ]
 }
