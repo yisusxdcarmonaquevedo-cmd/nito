@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-08-05T17:05:21+00:00",
+  "generated_at": "2026-08-05T17:16:28+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B001OK5XSO",
+      "title": "8.75\" x 2\" Ezy Dose Weekly (7-Day) X-Large Pill Organizer (Color May Vary)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.61,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 92.5,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/41uaB72OA3L._AC_SL1030_.jpg",
+      "url": "https://amazon.com/dp/B001OK5XSO/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19846533",
+      "published_at": "2026-08-05T17:16:28+00:00",
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
+    },
+    {
+      "asin": "B0FDK7B7BS",
+      "title": "PINSPARK Men's Lightweight Pullover Hoodie (Various)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 74.3,
+      "rating": null,
+      "condition": "code",
+      "code": "3ZDDGVDQ",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21181509.thumb",
+      "url": "https://amazon.com/dp/B0FDK7B7BS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19839261",
+      "published_at": "2026-08-05T17:16:28+00:00",
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
+    },
+    {
+      "asin": "B0FPX1SN3T",
+      "title": "sicotool Travel Makeup Mirror w/ 10X Magnification, 3-Color Adjustable LED & Suction Cup",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.35,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 64.7,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "UXAHZ9KT",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61cmVy4p4dL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FPX1SN3T/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19825317",
+      "published_at": "2026-08-05T17:16:28+00:00",
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
+    },
+    {
+      "asin": "B07YGQ2BHH",
+      "title": "[S&S] Bliss Glow and Hydrate Niacinamide Hydrating Face Serum - 1 Fl Oz - Radiant",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.57,
+      "price_old": 32.0,
+      "currency": "USD",
+      "discount_pct": 60.7,
+      "rating": null,
+      "condition": "sns",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21153471.thumb",
+      "url": "https://amazon.com/dp/B07YGQ2BHH/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19827723",
+      "published_at": "2026-08-05T17:16:28+00:00",
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
+    },
+    {
+      "asin": "B0CN9VK1C6",
+      "title": "The North Face Recon 30L 16\" Laptop Backpack (Timber Tan) + 10% Back w/ Prime Visa Card at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 86.93,
+      "price_old": 125.0,
+      "currency": "USD",
+      "discount_pct": 30.5,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81rsOnT8ZoL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CN9VK1C6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19845795",
+      "published_at": "2026-08-05T17:16:28+00:00",
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
+    },
     {
       "asin": "B07K52XKSP",
       "title": "11.75\" DeWalt Smooth Face 16-Oz Curve Claw Hammer w/ Steel Handle",
@@ -199,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19845399",
       "published_at": "2026-08-05T15:31:24+00:00",
-      "revalidated_at": "2026-08-05T15:31:24+00:00"
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
     },
     {
       "asin": "B0BL7316GD",
@@ -221,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19845051",
       "published_at": "2026-08-05T15:31:24+00:00",
-      "revalidated_at": "2026-08-05T15:31:24+00:00"
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
     },
     {
       "asin": "B0CGGLZ8YT",
@@ -1057,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19836144",
       "published_at": "2026-08-05T00:15:51+00:00",
-      "revalidated_at": "2026-08-05T15:31:24+00:00"
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
     },
     {
       "asin": "B0B9MTW1MH",
@@ -1079,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19825407",
       "published_at": "2026-08-05T00:15:51+00:00",
-      "revalidated_at": "2026-08-05T15:31:24+00:00"
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
     },
     {
       "asin": "B0F2YG51TX",
@@ -1343,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19830048",
       "published_at": "2026-08-04T20:46:27+00:00",
-      "revalidated_at": "2026-08-05T15:31:24+00:00"
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
     },
     {
       "asin": "B08DFBNG7F",
@@ -1497,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19842498",
       "published_at": "2026-08-04T19:01:20+00:00",
-      "revalidated_at": "2026-08-05T15:31:24+00:00"
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
     },
     {
       "asin": "B07QNFCSPH",
@@ -1519,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19842444",
       "published_at": "2026-08-04T19:01:20+00:00",
-      "revalidated_at": "2026-08-05T15:31:24+00:00"
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
     },
     {
       "asin": "B0CJ3GM2MQ",
@@ -1651,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19818618",
       "published_at": "2026-08-04T17:16:11+00:00",
-      "revalidated_at": "2026-08-05T15:31:24+00:00"
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
     },
     {
       "asin": "B00KBIDF7Q",
@@ -1981,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839729",
       "published_at": "2026-08-04T15:31:26+00:00",
-      "revalidated_at": "2026-08-05T15:31:24+00:00"
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
     },
     {
       "asin": "B06XKHNK5X",
@@ -2245,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19840929",
       "published_at": "2026-08-04T11:01:17+00:00",
-      "revalidated_at": "2026-08-05T15:16:36+00:00"
+      "revalidated_at": "2026-08-05T17:16:28+00:00"
     },
     {
       "asin": "B0G3X2FW71",
@@ -2532,94 +2642,6 @@
       "deal_key": "sd:19839249",
       "published_at": "2026-08-04T04:31:29+00:00",
       "revalidated_at": "2026-08-05T16:31:14+00:00"
-    },
-    {
-      "asin": "B0GQLC6T73",
-      "title": "2-in-1 Ziluce 17.13\" XL Wooden Foldable Dog ramp & Ottoman",
-      "title_es": "Rampa y otomana plegable de madera 2 en 1 Ziluce 17.13\" XL para perros",
-      "headline": null,
-      "post": "Esta rampa plegable de madera 2 en 1 funciona también como otomana, ideal para ayudar a tus mascotas a subir y bajar de los muebles. Su diseño versátil y extra grande la convierte en un accesorio práctico y discreto para cualquier hogar con perros pequeños o mayores. 🐶",
-      "post_en": "This 2-in-1 wooden foldable ramp also functions as an ottoman, perfect for helping your pets get on and off furniture. Its versatile and extra-large design makes it a practical and discreet accessory for any home with small or elderly dogs. 🐶",
-      "price_new": 49.99,
-      "price_old": 99.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "3YYEDV9N",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71Bus3ddw0L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GQLC6T73/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19840392",
-      "published_at": "2026-08-04T04:16:43+00:00",
-      "revalidated_at": "2026-08-05T16:31:14+00:00"
-    },
-    {
-      "asin": "B0DB6QT8K6",
-      "title": "Razer Wolverine V3 Tournament Edition Wired Gaming Controller",
-      "title_es": "Mando gaming con cable Razer Wolverine V3 Tournament Edition",
-      "headline": null,
-      "post": "Mando gaming con cable Razer Wolverine V3 Tournament Edition, diseñado para jugadores competitivos. Ofrece botones remapeables y gatillos personalizables para una experiencia de juego superior.",
-      "post_en": "Razer Wolverine V3 Tournament Edition wired gaming controller, designed for competitive gamers. It features remappable buttons and customizable triggers for a superior gaming experience.",
-      "price_new": 50.0,
-      "price_old": 99.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/718mtYcRjYL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DB6QT8K6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19803531",
-      "published_at": "2026-08-04T03:01:39+00:00",
-      "revalidated_at": "2026-08-05T16:31:14+00:00"
-    },
-    {
-      "asin": "B00006IM9Q",
-      "title": "Blondie: Greatest Hits (Audio CD w/ AutoRip MP3) at Amazon",
-      "title_es": "Blondie: Greatest Hits (CD de audio con AutoRip MP3)",
-      "headline": null,
-      "post": "El álbum \"Greatest Hits\" de Blondie en CD, perfecto para los amantes del pop-rock clásico. Incluye una colección de sus éxitos más icónicos para disfrutar en cualquier momento.",
-      "post_en": "Blondie's \"Greatest Hits\" album on CD, perfect for classic pop-rock fans. It features a collection of their most iconic hits to enjoy anytime.",
-      "price_new": 7.25,
-      "price_old": 13.98,
-      "currency": "USD",
-      "discount_pct": 48.1,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/614c-v-mtVL._SL1200_.jpg",
-      "url": "https://amazon.com/dp/B00006IM9Q/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19833882",
-      "published_at": "2026-08-04T03:01:39+00:00",
-      "revalidated_at": "2026-08-05T16:46:16+00:00"
-    },
-    {
-      "asin": "B07WGBWBTC",
-      "title": "[Prime] 16-Pack GIGALUMI Solar LED Stainless Steel Outdoor Lights",
-      "title_es": "Pack de 16 luces solares LED GIGALUMI de acero inoxidable para exterior",
-      "headline": null,
-      "post": "Este pack de 16 luces solares LED de acero inoxidable es ideal para iluminar y decorar tus espacios exteriores. Son perfectas para jardines, caminos o patios, ofreciendo una solución de iluminación eficiente y sin cables.",
-      "post_en": "This 16-pack of solar LED stainless steel outdoor lights is ideal for illuminating and decorating your outdoor spaces. They are perfect for gardens, pathways, or patios, offering an efficient and wire-free lighting solution.",
-      "price_new": 11.49,
-      "price_old": 24.99,
-      "currency": "USD",
-      "discount_pct": 54.0,
-      "rating": 4.1,
-      "condition": "code",
-      "code": "BL7CRKP9",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81Wk+J4Q1oL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07WGBWBTC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19839354",
-      "published_at": "2026-08-04T02:31:22+00:00",
-      "revalidated_at": "2026-08-05T16:46:16+00:00"
     }
   ]
 }
