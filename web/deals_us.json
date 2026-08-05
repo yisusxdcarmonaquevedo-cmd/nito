@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-05T11:46:28+00:00",
+  "generated_at": "2026-08-05T12:01:41+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0CGYH4VG8",
+      "title": "654-Piece LEGO Star Wars: A New Hope Tantive IV (75376)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 55.99,
+      "price_old": 79.99,
+      "currency": "USD",
+      "discount_pct": 30.0,
+      "rating": 4.9,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/71wilPGyaAL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CGYH4VG8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19821276",
+      "published_at": "2026-08-05T12:01:41+00:00",
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
+    },
     {
       "asin": "B0DRVWK3V3",
       "title": "CINCOM Cordless Leg Massager with Heat and Air Compression",
@@ -58,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 66.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/3/3/7/7/0/1/3/7/450x450/21160608.thumb",
+      "image": "https://m.media-amazon.com/images/I/81UWtNpDAIL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F9XRT1KJ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19830120",
@@ -80,11 +102,11 @@
       "price_old": 106.39,
       "currency": "USD",
       "discount_pct": 43.1,
-      "rating": null,
+      "rating": 4.8,
       "condition": "coupon",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/21193908.thumb",
+      "image": "https://m.media-amazon.com/images/I/81bHXbJjWZL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0B9YVG4LR/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19843905",
@@ -102,11 +124,11 @@
       "price_old": 39.99,
       "currency": "USD",
       "discount_pct": 40.0,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21136521.thumb",
+      "image": "https://m.media-amazon.com/images/I/71XiMDWs+YL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BBYYL2LJ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19821444",
@@ -156,28 +178,6 @@
       "deal_key": "sd:19830804",
       "published_at": "2026-08-05T10:46:30+00:00",
       "revalidated_at": "2026-08-05T10:46:30+00:00"
-    },
-    {
-      "asin": "B01BZ0LXL8",
-      "title": "$11.37 S&S AMZ Hefty Ultra Strong 13 Gal Kitchen Trash Bags, White, Lavender Vanilla or Lavender Fabuloso , 80ct | 13G",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 11.37,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 81.0,
-      "rating": null,
-      "condition": "sns",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/21162816.thumb",
-      "url": "https://amazon.com/dp/B01BZ0LXL8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19831137",
-      "published_at": "2026-08-05T10:01:11+00:00",
-      "revalidated_at": "2026-08-05T10:01:11+00:00"
     },
     {
       "asin": "B0BZHR5WP2",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19827810",
       "published_at": "2026-08-05T02:45:51+00:00",
-      "revalidated_at": "2026-08-05T10:01:11+00:00"
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
     },
     {
       "asin": "B0CQJFLXHY",
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19835865",
       "published_at": "2026-08-05T02:45:51+00:00",
-      "revalidated_at": "2026-08-05T10:01:11+00:00"
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
     },
     {
       "asin": "B0GH7B993V",
@@ -573,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19825830",
       "published_at": "2026-08-05T00:45:49+00:00",
-      "revalidated_at": "2026-08-05T10:01:11+00:00"
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
     },
     {
       "asin": "B0FH4XF4D8",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19843377",
       "published_at": "2026-08-04T23:13:08+00:00",
-      "revalidated_at": "2026-08-05T10:01:11+00:00"
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
     },
     {
       "asin": "B07ZR9S9X6",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19843002",
       "published_at": "2026-08-04T23:01:07+00:00",
-      "revalidated_at": "2026-08-05T10:01:11+00:00"
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
     },
     {
       "asin": "B0GRG3ZWD5",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19838637",
       "published_at": "2026-08-04T23:01:07+00:00",
-      "revalidated_at": "2026-08-05T10:01:11+00:00"
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
     },
     {
       "asin": "B0GX16Y6VW",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19823097",
       "published_at": "2026-08-04T23:01:07+00:00",
-      "revalidated_at": "2026-08-05T10:01:11+00:00"
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
     },
     {
       "asin": "B0DSR3RCJ4",
@@ -881,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19838157",
       "published_at": "2026-08-04T21:16:00+00:00",
-      "revalidated_at": "2026-08-05T10:01:11+00:00"
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
     },
     {
       "asin": "B0D8L637P6",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19840101",
       "published_at": "2026-08-04T12:01:12+00:00",
-      "revalidated_at": "2026-08-05T09:46:14+00:00"
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
     },
     {
       "asin": "B0F42TZ2FY",
@@ -2069,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19827543",
       "published_at": "2026-08-04T06:13:08+00:00",
-      "revalidated_at": "2026-08-05T09:46:14+00:00"
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
     },
     {
       "asin": "B0DMT133P2",
@@ -2113,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19824060",
       "published_at": "2026-08-04T04:31:29+00:00",
-      "revalidated_at": "2026-08-05T09:46:14+00:00"
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
     },
     {
       "asin": "B0CQZ25H1M",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839249",
       "published_at": "2026-08-04T04:31:29+00:00",
-      "revalidated_at": "2026-08-05T10:01:11+00:00"
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
     },
     {
       "asin": "B0GQLC6T73",
@@ -2157,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19840392",
       "published_at": "2026-08-04T04:16:43+00:00",
-      "revalidated_at": "2026-08-05T10:01:11+00:00"
+      "revalidated_at": "2026-08-05T12:01:41+00:00"
     },
     {
       "asin": "B0DB6QT8K6",
@@ -2618,28 +2618,6 @@
       "url": "https://amazon.com/dp/B08TQLRZ6W/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19839141",
-      "published_at": "2026-08-03T22:43:43+00:00",
-      "revalidated_at": "2026-08-05T10:46:30+00:00"
-    },
-    {
-      "asin": "B0DFDX7CBH",
-      "title": "Rune Factory: Guardians of Azuma (Nintendo Switch) at Amazon",
-      "title_es": "Rune Factory: Guardians of Azuma para Nintendo Switch",
-      "headline": null,
-      "post": "Adéntrate en el mundo de Rune Factory: Guardians of Azuma para Nintendo Switch, un fascinante RPG de simulación de vida y combate. Disfruta de la agricultura, la exploración y la interacción con personajes en una aventura épica.",
-      "post_en": "Immerse yourself in the world of Rune Factory: Guardians of Azuma for Nintendo Switch, a fascinating life simulation and combat RPG. Enjoy farming, exploration, and character interaction in an epic adventure.",
-      "price_new": 19.99,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 33.3,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71EpI22T2SL._SL1123_.jpg",
-      "url": "https://amazon.com/dp/B0DFDX7CBH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19839138",
       "published_at": "2026-08-03T22:43:43+00:00",
       "revalidated_at": "2026-08-05T10:46:30+00:00"
     }
