@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T22:31:02+00:00",
+  "generated_at": "2026-08-06T22:46:02+00:00",
   "market": "us",
-  "count": 119,
+  "count": 117,
   "deals": [
     {
       "asin": "B0CZPX7SDV",
@@ -36,11 +36,11 @@
       "price_old": 20.99,
       "currency": "USD",
       "discount_pct": 57.1,
-      "rating": null,
+      "rating": 4.3,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21207165.thumb",
+      "image": "https://m.media-amazon.com/images/I/7153Rl7gnmL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G6DCNZJH/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19849026",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19836396",
       "published_at": "2026-08-06T19:07:55+00:00",
-      "revalidated_at": "2026-08-06T19:07:55+00:00"
+      "revalidated_at": "2026-08-06T22:46:02+00:00"
     },
     {
       "asin": "0544445783",
@@ -353,29 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19849143",
       "published_at": "2026-08-06T19:07:55+00:00",
-      "revalidated_at": "2026-08-06T19:07:55+00:00"
-    },
-    {
-      "asin": "B0CY19SYG2",
-      "title": "Chapin 6-9481: Deluxe 1-Way Shutoff Hose Connection w/ Kink-Free Extension",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 5.4,
-      "price_old": 11.85,
-      "currency": "USD",
-      "discount_pct": 54.4,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/61K0ED7vm5L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CY19SYG2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19850025",
-      "published_at": "2026-08-06T19:07:55+00:00",
-      "revalidated_at": "2026-08-06T19:07:55+00:00"
+      "revalidated_at": "2026-08-06T22:46:02+00:00"
     },
     {
       "asin": "B08747N388",
@@ -397,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19849413",
       "published_at": "2026-08-06T19:07:55+00:00",
-      "revalidated_at": "2026-08-06T19:07:55+00:00"
+      "revalidated_at": "2026-08-06T22:46:02+00:00"
     },
     {
       "asin": "B0FTQY4Z2V",
@@ -419,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19849716",
       "published_at": "2026-08-06T19:07:55+00:00",
-      "revalidated_at": "2026-08-06T19:07:55+00:00"
+      "revalidated_at": "2026-08-06T22:46:02+00:00"
     },
     {
       "asin": "B08K78J238",
@@ -586,11 +564,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 78.7,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/8/3/9/2/450x450/21186612.thumb",
+      "image": "https://m.media-amazon.com/images/I/61SnfW4OqpL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B085WNTCHL/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19841223",
@@ -639,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847739",
       "published_at": "2026-08-06T13:46:16+00:00",
-      "revalidated_at": "2026-08-06T19:07:55+00:00"
+      "revalidated_at": "2026-08-06T22:46:02+00:00"
     },
     {
       "asin": "B0FWKWMGBB",
@@ -925,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19827009",
       "published_at": "2026-08-06T08:15:44+00:00",
-      "revalidated_at": "2026-08-06T19:07:55+00:00"
+      "revalidated_at": "2026-08-06T22:46:02+00:00"
     },
     {
       "asin": "B0D9R2KDY9",
@@ -1035,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19848051",
       "published_at": "2026-08-06T06:31:03+00:00",
-      "revalidated_at": "2026-08-06T19:07:55+00:00"
+      "revalidated_at": "2026-08-06T22:46:02+00:00"
     },
     {
       "asin": "B01H0NVA6M",
@@ -1563,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839213",
       "published_at": "2026-08-06T02:47:08+00:00",
-      "revalidated_at": "2026-08-06T19:07:55+00:00"
+      "revalidated_at": "2026-08-06T22:46:02+00:00"
     },
     {
       "asin": "B0DTG572GW",
@@ -1585,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19845876",
       "published_at": "2026-08-06T02:47:08+00:00",
-      "revalidated_at": "2026-08-06T19:07:55+00:00"
+      "revalidated_at": "2026-08-06T22:46:02+00:00"
     },
     {
       "asin": "B0C5MCP7BF",
@@ -1607,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19838910",
       "published_at": "2026-08-06T02:47:08+00:00",
-      "revalidated_at": "2026-08-06T19:07:55+00:00"
+      "revalidated_at": "2026-08-06T22:46:02+00:00"
     },
     {
       "asin": "B0CTK8P6H2",
@@ -2091,29 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19844859",
       "published_at": "2026-08-06T00:46:18+00:00",
-      "revalidated_at": "2026-08-06T19:07:55+00:00"
-    },
-    {
-      "asin": "B0D4M581B3",
-      "title": "8-Pk Mupoer 1.5V 3000mWh Rechargeable AA Lithium Batteries w/ USB-C Charger",
-      "title_es": "Pack de 8 pilas AA de litio recargables Mupoer 1.5V 3000mWh con cargador USB-C",
-      "headline": null,
-      "post": "Este paquete de 8 pilas AA de litio recargables Mupoer de 1.5V incluye un cargador USB-C para mayor comodidad. Son ideales para alimentar tus dispositivos electrónicos de uso diario de forma sostenible. 🔋",
-      "post_en": "This 8-pack of Mupoer 1.5V 3000mWh rechargeable AA lithium batteries comes with a USB-C charger for convenience. They are ideal for sustainably powering your everyday electronic devices. 🔋",
-      "price_new": 15.0,
-      "price_old": 25.5,
-      "currency": "USD",
-      "discount_pct": 41.2,
-      "rating": 4.3,
-      "condition": "code",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71W-7chkixL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D4M581B3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19846815",
-      "published_at": "2026-08-06T00:46:18+00:00",
-      "revalidated_at": "2026-08-06T19:07:55+00:00"
+      "revalidated_at": "2026-08-06T22:46:02+00:00"
     },
     {
       "asin": "B0FP3FN9GB",
@@ -2597,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19836948",
       "published_at": "2026-08-05T20:46:35+00:00",
-      "revalidated_at": "2026-08-06T15:16:38+00:00"
+      "revalidated_at": "2026-08-06T22:46:02+00:00"
     },
     {
       "asin": "B0FPHRQLD2",
@@ -2619,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19834305",
       "published_at": "2026-08-05T20:46:35+00:00",
-      "revalidated_at": "2026-08-06T15:16:38+00:00"
+      "revalidated_at": "2026-08-06T22:46:02+00:00"
     }
   ]
 }
