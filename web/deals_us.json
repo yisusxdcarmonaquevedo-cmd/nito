@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T22:01:14+00:00",
+  "generated_at": "2026-08-06T22:16:06+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0CZPX7SDV",
@@ -14,11 +14,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 65.8,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "PFJS7RRZ",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/3/3/5/6/0/450x450/21212451.thumb",
+      "image": "https://m.media-amazon.com/images/I/71IsVkeupgL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CZPX7SDV/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19850901",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847457",
       "published_at": "2026-08-06T15:01:25+00:00",
-      "revalidated_at": "2026-08-06T15:01:25+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B09VVBFF1R",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19846239",
       "published_at": "2026-08-06T13:16:34+00:00",
-      "revalidated_at": "2026-08-06T15:01:25+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B0C5HJH6FX",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847727",
       "published_at": "2026-08-06T13:16:34+00:00",
-      "revalidated_at": "2026-08-06T15:01:25+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B0CM9BBXXL",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19846965",
       "published_at": "2026-08-06T11:31:41+00:00",
-      "revalidated_at": "2026-08-06T15:01:25+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B0FS98RB8G",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19845672",
       "published_at": "2026-08-06T07:45:43+00:00",
-      "revalidated_at": "2026-08-06T15:01:25+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B0GMSPT76M",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19843746",
       "published_at": "2026-08-06T02:16:42+00:00",
-      "revalidated_at": "2026-08-06T15:01:25+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B094XRTKT7",
@@ -1827,29 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19846389",
       "published_at": "2026-08-06T02:16:42+00:00",
-      "revalidated_at": "2026-08-06T15:01:25+00:00"
-    },
-    {
-      "asin": "B0BZJWTQRK",
-      "title": "51.7\" Furinno PASIR 5-Tier Corner Bookshelf w/ Open Shelf (Blackwood)",
-      "title_es": "Estantería Esquinera de 5 Niveles Furinno PASIR de 51.7\" con Estantes Abiertos (Blackwood)",
-      "headline": null,
-      "post": "Maximiza el espacio con esta estantería esquinera Furinno PASIR de 5 niveles, perfecta para cualquier rincón de tu hogar. Su diseño abierto y elegante en color Blackwood es ideal para organizar libros y objetos decorativos.",
-      "post_en": "Maximize space with this 51.7\" Furinno PASIR 5-Tier Corner Bookshelf, perfect for any corner of your home. Its open and elegant Blackwood design is ideal for organizing books and decorative items.",
-      "price_new": 21.0,
-      "price_old": 43.73,
-      "currency": "USD",
-      "discount_pct": 52.0,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61G3V4W50gL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0BZJWTQRK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19846059",
-      "published_at": "2026-08-06T02:16:42+00:00",
-      "revalidated_at": "2026-08-06T15:01:25+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B074ZMJLKJ",
@@ -1871,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19845855",
       "published_at": "2026-08-06T02:16:42+00:00",
-      "revalidated_at": "2026-08-06T15:01:25+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B01HI7WQRW",
@@ -1893,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19844595",
       "published_at": "2026-08-06T02:16:42+00:00",
-      "revalidated_at": "2026-08-06T15:01:25+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B002XK5QU4",
@@ -1915,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19846440",
       "published_at": "2026-08-06T02:16:42+00:00",
-      "revalidated_at": "2026-08-06T15:01:25+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B00DFBDALC",
@@ -1937,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847475",
       "published_at": "2026-08-06T02:01:14+00:00",
-      "revalidated_at": "2026-08-06T14:57:44+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B08WVBQ147",
@@ -1959,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19831296",
       "published_at": "2026-08-06T01:46:09+00:00",
-      "revalidated_at": "2026-08-06T14:57:44+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B0BM8X5LHF",
@@ -1981,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19827357",
       "published_at": "2026-08-06T01:46:09+00:00",
-      "revalidated_at": "2026-08-06T14:57:44+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B0CJVPY572",
@@ -2003,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19846986",
       "published_at": "2026-08-06T01:46:09+00:00",
-      "revalidated_at": "2026-08-06T14:57:44+00:00"
+      "revalidated_at": "2026-08-06T22:16:06+00:00"
     },
     {
       "asin": "B0FR4JJG21",
