@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-08-07T14:16:23+00:00",
+  "generated_at": "2026-08-07T14:31:42+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0DPQTNJHP",
+      "title": "GOLDYIPE 3-in-1 USB-C Card Reader (SD & microSD & USB 3.0, Supports up to 2TB)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 85.7,
+      "rating": null,
+      "condition": "code",
+      "code": "6FXNDA3J",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/21213195.thumb",
+      "url": "https://amazon.com/dp/B0DPQTNJHP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19851123",
+      "published_at": "2026-08-07T14:31:42+00:00",
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
+    },
+    {
+      "asin": "B08M9HND4F",
+      "title": "6.6' Highwings 2.1 HDMI Cable 48Gbps (8K@60Hz 4K@120Hz)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.39,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 84.6,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/2/4/1/2/8/9/8/450x450/21184296.thumb",
+      "url": "https://amazon.com/dp/B08M9HND4F/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19840230",
+      "published_at": "2026-08-07T14:31:42+00:00",
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
+    },
+    {
+      "asin": "B0D8N3B4HC",
+      "title": "Borderlands: Amazon Exclusive SteelBook (4K Ultra HD + Blu-ray)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.49,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 77.5,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/8/2/8/3/4/450x450/21218898.thumb",
+      "url": "https://amazon.com/dp/B0D8N3B4HC/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19853307",
+      "published_at": "2026-08-07T14:31:42+00:00",
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
+    },
+    {
+      "asin": "B0G3617Z5H",
+      "title": "(Renewed) Tineco Pure ONE X Tango Smart Cordless Stick Vacuum Cleaner w/ iLoop Sensor & HEPA Filter",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 99.95,
+      "price_old": 249.99,
+      "currency": "USD",
+      "discount_pct": 60.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/3/2/4/1/2/8/9/8/450x450/21201732.thumb",
+      "url": "https://amazon.com/dp/B0G3617Z5H/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19846923",
+      "published_at": "2026-08-07T14:31:42+00:00",
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
+    },
+    {
+      "asin": "B0FHKGQ484",
+      "title": "Solati Professional Beard Trimmer & Hair Clipper Grooming Kit (Gold)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 42.9,
+      "rating": null,
+      "condition": "code",
+      "code": "HJJ7SKAD",
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/21183021.thumb",
+      "url": "https://amazon.com/dp/B0FHKGQ484/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19839858",
+      "published_at": "2026-08-07T14:31:42+00:00",
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
+    },
     {
       "asin": "B0DSSS3PNJ",
       "title": "52\" ocioc Smart (Compatible with Alexa / Google home) Ceiling Fan w/ Dimmable Light",
@@ -331,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19843830",
       "published_at": "2026-08-07T12:46:23+00:00",
-      "revalidated_at": "2026-08-07T12:46:23+00:00"
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
     },
     {
       "asin": "B0CB1Q4ZPF",
@@ -441,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19851288",
       "published_at": "2026-08-07T11:01:22+00:00",
-      "revalidated_at": "2026-08-07T12:46:23+00:00"
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
     },
     {
       "asin": "B0F9YGPVVL",
@@ -463,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19837083",
       "published_at": "2026-08-07T11:01:22+00:00",
-      "revalidated_at": "2026-08-07T12:46:23+00:00"
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
     },
     {
       "asin": "B0F8J83GLH",
@@ -727,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839096",
       "published_at": "2026-08-07T05:45:59+00:00",
-      "revalidated_at": "2026-08-07T12:46:23+00:00"
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
     },
     {
       "asin": "B0DZ1ZDGRJ",
@@ -771,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19850607",
       "published_at": "2026-08-07T04:00:52+00:00",
-      "revalidated_at": "2026-08-07T12:46:23+00:00"
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
     },
     {
       "asin": "B0F28KQRXG",
@@ -1145,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19851915",
       "published_at": "2026-08-07T02:16:23+00:00",
-      "revalidated_at": "2026-08-07T12:46:23+00:00"
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
     },
     {
       "asin": "B0CQHCSVM4",
@@ -1321,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19850895",
       "published_at": "2026-08-07T02:01:43+00:00",
-      "revalidated_at": "2026-08-07T12:31:15+00:00"
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
     },
     {
       "asin": "B00W9BYWIY",
@@ -2421,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19846809",
       "published_at": "2026-08-06T11:16:41+00:00",
-      "revalidated_at": "2026-08-07T12:31:15+00:00"
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
     },
     {
       "asin": "B0F9PKQBJ2",
@@ -2443,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19826277",
       "published_at": "2026-08-06T11:16:41+00:00",
-      "revalidated_at": "2026-08-07T12:31:15+00:00"
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
     },
     {
       "asin": "B002YY3V9M",
@@ -2531,117 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19840647",
       "published_at": "2026-08-06T08:46:27+00:00",
-      "revalidated_at": "2026-08-07T12:31:15+00:00"
-    },
-    {
-      "asin": "B0GHXNM4RW",
-      "title": "COPYLEAF Women's 5\" High Waisted Biker Shorts w/ Pockets (Various)",
-      "title_es": "Pantalones Cortos de Ciclismo de Mujer COPYLEAF de Cintura Alta con Bolsillos",
-      "headline": null,
-      "post": "Estos pantalones cortos de ciclismo COPYLEAF de cintura alta son cómodos y funcionales para tus entrenamientos. Cuentan con prácticos bolsillos, perfectos para llevar lo esencial mientras te mantienes activa.",
-      "post_en": "These COPYLEAF high-waisted biker shorts are comfortable and functional for your workouts. They feature practical pockets, perfect for carrying essentials while staying active.",
-      "price_new": 6.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 80.0,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "8HBMBNN2",
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/61dC7vhdDtL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GHXNM4RW/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19827009",
-      "published_at": "2026-08-06T08:15:44+00:00",
-      "revalidated_at": "2026-08-07T13:23:04+00:00"
-    },
-    {
-      "asin": "B0D9R2KDY9",
-      "title": "Sony WF-C510 True Wireless Bluetooth In-Ear Headphones (Black)",
-      "title_es": "Auriculares Inalámbricos Sony WF-C510 True Wireless Bluetooth (Negros)",
-      "headline": null,
-      "post": "Disfruta de un sonido de calidad y libertad total con los auriculares Sony WF-C510 True Wireless Bluetooth. Son ligeros, cómodos y perfectos para escuchar música o podcasts sin cables en cualquier lugar.",
-      "post_en": "Enjoy quality sound and total freedom with the Sony WF-C510 True Wireless Bluetooth headphones. They are lightweight, comfortable, and perfect for listening to music or podcasts wirelessly anywhere.",
-      "price_new": 47.95,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 31.5,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51+hPX2tSpL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D9R2KDY9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19827420",
-      "published_at": "2026-08-06T08:00:55+00:00",
-      "revalidated_at": "2026-08-07T13:31:19+00:00"
-    },
-    {
-      "asin": "B0HC3JVQ4W",
-      "title": "THERUN Walking Pad with Handle Bar, 2 in 1 Under Desk Portable Treadmill",
-      "title_es": "THERUN Walking Pad con Manillar, Cinta de Andar Portátil 2 en 1 para Escritorio",
-      "headline": null,
-      "post": "Este THERUN Walking Pad es una cinta de andar portátil 2 en 1, ideal para mantenerte activo mientras trabajas o en espacios reducidos. Su diseño con manillar ofrece seguridad y estabilidad, perfecto para un ejercicio cómodo en casa u oficina. 🚶",
-      "post_en": "This THERUN Walking Pad is a 2-in-1 portable treadmill, perfect for exercising while working or in small spaces. Its design with a handle bar offers safety and stability, ideal for comfortable exercise at home or the office. 🚶",
-      "price_new": 98.38,
-      "price_old": 163.98,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.5,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61IPpu-ykIL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0HC3JVQ4W/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19845672",
-      "published_at": "2026-08-06T07:45:43+00:00",
-      "revalidated_at": "2026-08-07T13:31:19+00:00"
-    },
-    {
-      "asin": "B0GMSPT76M",
-      "title": "Greenworks 1700 PSI (1.2 GPM) Electric Pressure Washer (25°, 40° Nozzles) at Amazon",
-      "title_es": "Hidrolimpiadora eléctrica Greenworks 1700 PSI (1.2 GPM) con boquillas (25°, 40°)",
-      "headline": null,
-      "post": "Esta hidrolimpiadora eléctrica Greenworks es ideal para limpiar patios, vehículos y fachadas con sus 1700 PSI de potencia. Incluye boquillas de 25° y 40° para adaptarse a diferentes tareas de limpieza en el hogar.",
-      "post_en": "This Greenworks electric pressure washer is ideal for cleaning patios, vehicles, and facades with its 1700 PSI of power. It includes 25° and 40° nozzles to adapt to various home cleaning tasks.",
-      "price_new": 99.99,
-      "price_old": 149.99,
-      "currency": "USD",
-      "discount_pct": 33.3,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61Xmtb-Q9dL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GMSPT76M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19840344",
-      "published_at": "2026-08-06T07:15:55+00:00",
-      "revalidated_at": "2026-08-07T12:31:15+00:00"
-    },
-    {
-      "asin": "B0GK6S2BHL",
-      "title": "100-Speed OidoZac 4000mAh Portable Handheld Mini Fan w/ Digital Display (2 Colors)",
-      "title_es": "Mini ventilador portátil OidoZac de 100 velocidades con pantalla digital (4000mAh)",
-      "headline": null,
-      "post": "Este mini ventilador portátil OidoZac cuenta con 100 velocidades y una pantalla digital, perfecto para mantenerte fresco en cualquier lugar. Su batería de 4000mAh ofrece una larga duración, ideal para el día a día o viajes.",
-      "post_en": "This OidoZac portable mini fan features 100 speeds and a digital display, perfect for keeping you cool anywhere. Its 4000mAh battery offers long-lasting power, ideal for daily use or travel.",
-      "price_new": 5.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 82.9,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "EX2AIE2Q",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61VRBjSvH4L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GK6S2BHL/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19847574",
-      "published_at": "2026-08-06T07:15:55+00:00",
-      "revalidated_at": "2026-08-07T12:31:15+00:00"
+      "revalidated_at": "2026-08-07T14:31:42+00:00"
     }
   ]
 }
