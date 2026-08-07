@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-07T08:31:17+00:00",
+  "generated_at": "2026-08-07T08:46:15+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0DQP4DNNJ",
+      "title": "3-Pack TP-Link Deco 7 BE23 Dual-Band BE3600 WiFi 7 Mesh Wi-Fi System + 15% Back w/ Prime Visa Card at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 152.99,
+      "price_old": 219.99,
+      "currency": "USD",
+      "discount_pct": 30.5,
+      "rating": 4.4,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/61nqMMAifBL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DQP4DNNJ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19842657",
+      "published_at": "2026-08-07T08:46:15+00:00",
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
+    },
     {
       "asin": "B0GX2WKFCB",
       "title": "The Business Book: Big Ideas Simply Explained (eBook)",
@@ -14,11 +36,11 @@
       "price_old": 9.99,
       "currency": "USD",
       "discount_pct": 80.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21209763.thumb",
+      "image": "https://m.media-amazon.com/images/I/81f479U1cSL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GX2WKFCB/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19849977",
@@ -133,7 +155,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19850994",
       "published_at": "2026-08-07T06:46:15+00:00",
-      "revalidated_at": "2026-08-07T06:46:15+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B0D7VSHSN5",
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19849113",
       "published_at": "2026-08-07T03:31:21+00:00",
-      "revalidated_at": "2026-08-07T06:46:15+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B0FB38QWK6",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847088",
       "published_at": "2026-08-07T03:31:21+00:00",
-      "revalidated_at": "2026-08-07T06:46:15+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B0DSL9YPK1",
@@ -309,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19850409",
       "published_at": "2026-08-07T03:31:21+00:00",
-      "revalidated_at": "2026-08-07T06:46:15+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B001MYIXAW",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847883",
       "published_at": "2026-08-07T03:31:21+00:00",
-      "revalidated_at": "2026-08-07T06:46:15+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B0FFBB4S9G",
@@ -881,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19851651",
       "published_at": "2026-08-07T01:31:03+00:00",
-      "revalidated_at": "2026-08-07T06:46:15+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B0GT6W2SXQ",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19842339",
       "published_at": "2026-08-07T01:31:03+00:00",
-      "revalidated_at": "2026-08-07T06:46:15+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B0H7XW7BKZ",
@@ -925,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19842876",
       "published_at": "2026-08-07T01:31:03+00:00",
-      "revalidated_at": "2026-08-07T06:46:15+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B0CDG5HCCH",
@@ -1013,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19844514",
       "published_at": "2026-08-06T23:46:24+00:00",
-      "revalidated_at": "2026-08-07T06:46:15+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B004I5PYHM",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19827801",
       "published_at": "2026-08-06T21:16:34+00:00",
-      "revalidated_at": "2026-08-07T06:46:15+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B0C4YTB56H",
@@ -1255,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19836885",
       "published_at": "2026-08-06T21:16:34+00:00",
-      "revalidated_at": "2026-08-07T06:46:15+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B09VCJ171S",
@@ -1673,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19841223",
       "published_at": "2026-08-06T14:16:29+00:00",
-      "revalidated_at": "2026-08-07T06:46:15+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B0CP7Z4RDT",
@@ -1695,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19830108",
       "published_at": "2026-08-06T14:16:29+00:00",
-      "revalidated_at": "2026-08-07T06:46:15+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B0DQNFSW4Q",
@@ -2575,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19844286",
       "published_at": "2026-08-06T03:02:04+00:00",
-      "revalidated_at": "2026-08-07T06:37:41+00:00"
+      "revalidated_at": "2026-08-07T08:46:15+00:00"
     },
     {
       "asin": "B001B197II",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:19848183",
       "published_at": "2026-08-06T03:02:04+00:00",
       "revalidated_at": "2026-08-07T07:01:15+00:00"
-    },
-    {
-      "asin": "B0GC4QL7T3",
-      "title": "PINSPARK Men's UPF 50+ Sun Shirts Long Sleeve Rash Guard Hoodie (Various Colors)",
-      "title_es": "Camiseta de sol PINSPARK para hombre UPF 50+ de manga larga con capucha",
-      "headline": null,
-      "post": "Una camiseta de manga larga con protección solar UPF 50+ ideal para actividades al aire libre. Su diseño tipo rash guard con capucha es perfecto para hombres que buscan comodidad y protección contra el sol.",
-      "post_en": "A long-sleeve UPF 50+ sun protection shirt, ideal for outdoor activities. Its rash guard design with a hood is perfect for men seeking comfort and sun protection.",
-      "price_new": 9.0,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 74.3,
-      "rating": 4.4,
-      "condition": "code",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71NI0oyd+oL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GC4QL7T3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19839213",
-      "published_at": "2026-08-06T02:47:08+00:00",
-      "revalidated_at": "2026-08-07T08:16:15+00:00"
     }
   ]
 }
