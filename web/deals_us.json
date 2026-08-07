@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T04:00:52+00:00",
+  "generated_at": "2026-08-07T04:15:53+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B00AA8WX52",
@@ -146,11 +146,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 51.4,
-      "rating": null,
+      "rating": 4.2,
       "condition": "code",
       "code": "WWWYKZ8U",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/21159672.thumb",
+      "image": "https://m.media-amazon.com/images/I/71n3A7b3QDL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FFBB4S9G/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19829844",
@@ -212,11 +212,11 @@
       "price_old": 69.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21163107.thumb",
+      "image": "https://m.media-amazon.com/images/I/71k1bvSCOZL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DP7BBSN7/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19831284",
@@ -234,11 +234,11 @@
       "price_old": 9.99,
       "currency": "USD",
       "discount_pct": 55.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "RHCEKEW7",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/21209829.thumb",
+      "image": "https://m.media-amazon.com/images/I/71XZRXGrmTL._AC_SL1300_.jpg",
       "url": "https://amazon.com/dp/B0F9KGWG46/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19850010",
@@ -256,11 +256,11 @@
       "price_old": 249.99,
       "currency": "USD",
       "discount_pct": 54.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "IFCDRF9N",
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/21210366.thumb",
+      "image": "https://m.media-amazon.com/images/I/71VUFxyaBtL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H7X7DK3C/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19850166",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19851450",
       "published_at": "2026-08-07T02:31:29+00:00",
-      "revalidated_at": "2026-08-07T02:31:29+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "B0FV85RWWD",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19851546",
       "published_at": "2026-08-07T02:31:29+00:00",
-      "revalidated_at": "2026-08-07T02:31:29+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "B0BTDHQJ6X",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19844571",
       "published_at": "2026-08-07T02:31:29+00:00",
-      "revalidated_at": "2026-08-07T02:31:29+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "B0DTHMFMKP",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839171",
       "published_at": "2026-08-07T02:31:29+00:00",
-      "revalidated_at": "2026-08-07T02:31:29+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "B0GCFKF23W",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19850760",
       "published_at": "2026-08-07T02:31:29+00:00",
-      "revalidated_at": "2026-08-07T02:31:29+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "B0C5QG25Z4",
@@ -1343,29 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19848747",
       "published_at": "2026-08-06T15:16:38+00:00",
-      "revalidated_at": "2026-08-07T02:16:23+00:00"
-    },
-    {
-      "asin": "B0BX5HBH45",
-      "title": "iPower 12-Pack 5 Gallon Grow Bags Heavy Duty Thickened Aeration Nonwoven Fabric Pots with Nylon Handles at Amazon",
-      "title_es": "Pack de 12 bolsas de cultivo iPower de 5 galones con asas de nailon",
-      "headline": null,
-      "post": "Este pack incluye 12 bolsas de cultivo iPower de 5 galones, fabricadas con tela no tejida transpirable y asas de nailon. Son perfectas para horticultores que buscan un sistema de cultivo eficiente y reutilizable para diversas plantas.",
-      "post_en": "This pack includes 12 iPower 5-gallon grow bags, made from breathable nonwoven fabric with nylon handles. They are perfect for horticulturists seeking an efficient and reusable growing system for various plants.",
-      "price_new": 9.6,
-      "price_old": 15.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/91QgwkUrbqL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0BX5HBH45/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19849575",
-      "published_at": "2026-08-06T15:16:38+00:00",
-      "revalidated_at": "2026-08-07T02:16:23+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "B0F8NLLYDV",
@@ -1563,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19841391",
       "published_at": "2026-08-06T13:31:31+00:00",
-      "revalidated_at": "2026-08-07T02:31:29+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "B0F8KRNB49",
@@ -1607,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847727",
       "published_at": "2026-08-06T13:16:34+00:00",
-      "revalidated_at": "2026-08-07T02:16:23+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "B0CM9BBXXL",
@@ -1651,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19848501",
       "published_at": "2026-08-06T11:46:53+00:00",
-      "revalidated_at": "2026-08-07T02:31:29+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "B0GGGY2RB4",
@@ -1673,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19846965",
       "published_at": "2026-08-06T11:31:41+00:00",
-      "revalidated_at": "2026-08-07T02:16:23+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "B0FS98RB8G",
@@ -1849,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19827420",
       "published_at": "2026-08-06T08:00:55+00:00",
-      "revalidated_at": "2026-08-07T02:31:29+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "B0HC3JVQ4W",
@@ -1871,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19845672",
       "published_at": "2026-08-06T07:45:43+00:00",
-      "revalidated_at": "2026-08-07T02:16:23+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "B0GMSPT76M",
@@ -2069,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19838883",
       "published_at": "2026-08-06T04:01:30+00:00",
-      "revalidated_at": "2026-08-07T02:16:23+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "1250105196",
@@ -2091,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19825236",
       "published_at": "2026-08-06T04:01:30+00:00",
-      "revalidated_at": "2026-08-07T02:16:23+00:00"
+      "revalidated_at": "2026-08-07T04:15:53+00:00"
     },
     {
       "asin": "B0DYJY2MKS",
