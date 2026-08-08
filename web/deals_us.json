@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-08T17:00:58+00:00",
+  "generated_at": "2026-08-08T17:16:04+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0F137DHZP",
+      "title": "$22 AMAZON ThermoMaven Propane Torch Gun, Adjustable Cooking Torch, Camouflage Green | Sous Vide, Steak Searing, BBQ, Grilling, Campfires and Charcoal Light",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 22.0,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 63.3,
+      "rating": 4.5,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71zAthau+UL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0F137DHZP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19853856",
+      "published_at": "2026-08-08T17:16:04+00:00",
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
+    },
+    {
+      "asin": "B083VY2YQM",
+      "title": "34mm Casio Data Bank Watch w/ 8-Digit Calculator & Resin Band (Olive Green) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 23.97,
+      "price_old": 39.95,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21216687.thumb",
+      "url": "https://amazon.com/dp/B083VY2YQM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19852524",
+      "published_at": "2026-08-08T17:16:04+00:00",
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
+    },
     {
       "asin": "B07NW8RPYN",
       "title": "Anker 2 in 1 USB-C SD and Micro SD Card Reader",
@@ -102,11 +146,11 @@
       "price_old": 39.99,
       "currency": "USD",
       "discount_pct": 51.3,
-      "rating": null,
+      "rating": 4.7,
       "condition": "code",
       "code": "QNG8A2AW",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/21224034.thumb",
+      "image": "https://m.media-amazon.com/images/I/61hruxR5ipL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D876QQH4/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19855023",
@@ -146,11 +190,11 @@
       "price_old": 6.99,
       "currency": "USD",
       "discount_pct": 43.1,
-      "rating": null,
+      "rating": 4.3,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/5/8/1/1/9/7/5/450x450/21220047.thumb",
+      "image": "https://m.media-amazon.com/images/I/619LsoylpML._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DN61MSMF/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19853769",
@@ -224,28 +268,6 @@
       "revalidated_at": "2026-08-08T15:49:42+00:00"
     },
     {
-      "asin": "B0DVBP5L6Y",
-      "title": "TP-Link Archer BE6500 Dual-Band Wi-Fi 7 Router, Black + 15% Back w/ Prime Visa Card at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 114.99,
-      "price_old": 179.99,
-      "currency": "USD",
-      "discount_pct": 36.1,
-      "rating": 4.4,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71wDRCm5ADL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DVBP5L6Y/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19842159",
-      "published_at": "2026-08-08T14:16:16+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
-    },
-    {
       "asin": "B0GJCSQDJX",
       "title": "TCL Class QM9K Series | Mini LED QLED 4K | Latest Model | 144HZ Peak Brightness & Contrast Dolby Vision, 75 Inch -",
       "title_es": null,
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19856334",
       "published_at": "2026-08-08T14:16:16+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
     },
     {
       "asin": "B01N7WCYUD",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19842834",
       "published_at": "2026-08-08T12:16:02+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
     },
     {
       "asin": "B0CXDVLDJT",
@@ -595,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19855962",
       "published_at": "2026-08-08T12:16:02+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
     },
     {
       "asin": "B0GXLL9G2W",
@@ -617,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19856175",
       "published_at": "2026-08-08T12:16:02+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
     },
     {
       "asin": "B0DBTJ61KF",
@@ -727,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854723",
       "published_at": "2026-08-08T10:45:52+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
     },
     {
       "asin": "B0DQSJ4S89",
@@ -749,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854291",
       "published_at": "2026-08-08T10:45:52+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
     },
     {
       "asin": "B0GVYJPHP8",
@@ -859,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19831617",
       "published_at": "2026-08-08T09:00:44+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
     },
     {
       "asin": "B0F8V9Y1DT",
@@ -925,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19855905",
       "published_at": "2026-08-08T07:31:01+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
     },
     {
       "asin": "B0F2PPWWMX",
@@ -1321,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854933",
       "published_at": "2026-08-08T00:31:24+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
     },
     {
       "asin": "B0GPRCWMZ5",
@@ -1343,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19853451",
       "published_at": "2026-08-08T00:31:24+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
     },
     {
       "asin": "B000J45N2W",
@@ -2311,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19851876",
       "published_at": "2026-08-07T16:01:40+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
     },
     {
       "asin": "B0CGGLZ8YT",
@@ -2333,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19845276",
       "published_at": "2026-08-07T16:01:40+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
+      "revalidated_at": "2026-08-08T17:16:04+00:00"
     },
     {
       "asin": "B0GL1G5BFW",
@@ -2598,50 +2620,6 @@
       "deal_key": "sd:19839858",
       "published_at": "2026-08-07T14:31:42+00:00",
       "revalidated_at": "2026-08-08T16:15:02+00:00"
-    },
-    {
-      "asin": "B0DSSS3PNJ",
-      "title": "52\" ocioc Smart (Compatible with Alexa / Google home) Ceiling Fan w/ Dimmable Light",
-      "title_es": "Ventilador de Techo Inteligente ocioc de 52\" con Luz Regulable (Compatible con Alexa/Google Home)",
-      "headline": null,
-      "post": "Refresca tu hogar con el ventilador de techo inteligente ocioc de 52\", que incluye luz regulable y es compatible con Alexa y Google Home. Controla la temperatura y la iluminación de forma cómoda y moderna.",
-      "post_en": "Cool your home with the 52\" ocioc Smart Ceiling Fan, featuring a dimmable light and compatibility with Alexa and Google Home. Control temperature and lighting conveniently and modernly.",
-      "price_new": 56.0,
-      "price_old": 100.0,
-      "currency": "USD",
-      "discount_pct": 44.0,
-      "rating": 4.4,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51nwy-+Zr+L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DSSS3PNJ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19850496",
-      "published_at": "2026-08-07T14:16:23+00:00",
-      "revalidated_at": "2026-08-08T15:45:55+00:00"
-    },
-    {
-      "asin": "B0CPDC23NZ",
-      "title": "Hicream 5.29-Ounce Turmeric Vitamin C Clay Facial Mask",
-      "title_es": "Mascarilla Facial de Arcilla Hicream con Cúrcuma y Vitamina C (150g)",
-      "headline": null,
-      "post": "Esta mascarilla facial de arcilla Hicream con cúrcuma y vitamina C es perfecta para revitalizar tu piel. Ayuda a mejorar la luminosidad y la textura, ofreciendo un cuidado facial completo para todo tipo de piel. ✨",
-      "post_en": "This Hicream Turmeric Vitamin C Clay Facial Mask is perfect for revitalizing your skin. It helps improve radiance and texture, offering comprehensive facial care for all skin types. ✨",
-      "price_new": 4.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 85.7,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "QGX8EUIF",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/710MOQeu4ML._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CPDC23NZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19851264",
-      "published_at": "2026-08-07T14:01:26+00:00",
-      "revalidated_at": "2026-08-08T17:00:58+00:00"
     }
   ]
 }
