@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-08T20:01:11+00:00",
+  "generated_at": "2026-08-08T20:10:57+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B006T9B6R2",
+      "title": "2-in-1 Anker USB 3.0 Type A to MicroSD / SD Card Reader at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.99,
+      "price_old": 12.99,
+      "currency": "USD",
+      "discount_pct": 30.8,
+      "rating": 4.6,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/6108jujRa5L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B006T9B6R2/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19837155",
+      "published_at": "2026-08-08T20:10:57+00:00",
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
+    },
     {
       "asin": "B0F9PJ7LWL",
       "title": "2-Pack Chelmon Adjustable Elastic Luggage Straps (Black)",
@@ -14,11 +36,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 82.9,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "EBZA7O6N",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/1/1/9/6/7/1/6/450x450/21210744.thumb",
+      "image": "https://m.media-amazon.com/images/I/71+bh+pik8L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F9PJ7LWL/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19850307",
@@ -111,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19856922",
       "published_at": "2026-08-08T18:45:59+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B01FA87072",
@@ -190,11 +212,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 77.7,
-      "rating": null,
+      "rating": 4.9,
       "condition": "code",
       "code": "V7AFVMWK",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21201681.thumb",
+      "image": "https://m.media-amazon.com/images/I/71wWKjY-1yL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GYMVBK36/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19846854",
@@ -234,11 +256,11 @@
       "price_old": 19.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.2,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21189693.thumb",
+      "image": "https://m.media-amazon.com/images/I/71LK8QNv7yL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F2TCVRQD/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19842462",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19853856",
       "published_at": "2026-08-08T17:16:04+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B083VY2YQM",
@@ -344,16 +366,16 @@
       "price_old": 39.95,
       "currency": "USD",
       "discount_pct": 40.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21216687.thumb",
+      "image": "https://m.media-amazon.com/images/I/51e6yA3P5ML._AC_SL1102_.jpg",
       "url": "https://amazon.com/dp/B083VY2YQM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19852524",
       "published_at": "2026-08-08T17:16:04+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B07NW8RPYN",
@@ -595,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19856334",
       "published_at": "2026-08-08T14:16:16+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B01N7WCYUD",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19842834",
       "published_at": "2026-08-08T12:16:02+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B0CXDVLDJT",
@@ -925,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19855962",
       "published_at": "2026-08-08T12:16:02+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B0GXLL9G2W",
@@ -947,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19856175",
       "published_at": "2026-08-08T12:16:02+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B0DBTJ61KF",
@@ -1057,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854723",
       "published_at": "2026-08-08T10:45:52+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B0DQSJ4S89",
@@ -1079,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854291",
       "published_at": "2026-08-08T10:45:52+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B0GVYJPHP8",
@@ -1189,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19831617",
       "published_at": "2026-08-08T09:00:44+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B0F8V9Y1DT",
@@ -1959,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19838367",
       "published_at": "2026-08-07T22:46:18+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B0H9X5K6PM",
@@ -1981,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839648",
       "published_at": "2026-08-07T22:46:18+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B0F5B11J3B",
@@ -2245,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19851342",
       "published_at": "2026-08-07T21:01:34+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B0B3XMTRHN",
@@ -2531,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854003",
       "published_at": "2026-08-07T17:46:21+00:00",
-      "revalidated_at": "2026-08-08T18:45:59+00:00"
+      "revalidated_at": "2026-08-08T20:10:57+00:00"
     },
     {
       "asin": "B0FGPKC21W",
@@ -2618,28 +2640,6 @@
       "url": "https://amazon.com/dp/B0DHZ6889L/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19851876",
-      "published_at": "2026-08-07T16:01:40+00:00",
-      "revalidated_at": "2026-08-08T19:01:03+00:00"
-    },
-    {
-      "asin": "B0CGGLZ8YT",
-      "title": "15.6″ ASUS ZenScreen 1080P USB-C Portable Monitor at Amazon",
-      "title_es": "Monitor portátil ASUS ZenScreen de 15.6″ 1080P USB-C",
-      "headline": null,
-      "post": "El ASUS ZenScreen es un monitor portátil de 15.6 pulgadas con resolución 1080P y conexión USB-C. Ideal para profesionales que necesitan una segunda pantalla en cualquier lugar.",
-      "post_en": "The ASUS ZenScreen is a 15.6-inch portable monitor with 1080P resolution and USB-C connectivity. It's ideal for professionals who need a second screen on the go.",
-      "price_new": 94.4,
-      "price_old": 149.0,
-      "currency": "USD",
-      "discount_pct": 36.6,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81ayKOdNeWL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CGGLZ8YT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19845276",
       "published_at": "2026-08-07T16:01:40+00:00",
       "revalidated_at": "2026-08-08T19:01:03+00:00"
     }
