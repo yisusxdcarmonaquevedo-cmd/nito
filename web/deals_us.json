@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-08T17:38:50+00:00",
+  "generated_at": "2026-08-08T17:45:50+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B00006IE7K",
+      "title": "12-Ct. BIC Round Stic Xtra Life Ballpoint Pens (Black, Medium Point 1.0mm) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.19,
+      "price_old": 2.99,
+      "currency": "USD",
+      "discount_pct": 60.2,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/71JsF3prXZL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B00006IE7K/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19855629",
+      "published_at": "2026-08-08T17:45:50+00:00",
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
+    },
     {
       "asin": "B0F2TCVRQD",
       "title": "KALIYADI Sunglasses with UV400 for Running Cycling Golf Fishing",
@@ -199,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854927",
       "published_at": "2026-08-08T16:15:02+00:00",
-      "revalidated_at": "2026-08-08T16:15:02+00:00"
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
     },
     {
       "asin": "B07WGJTL4F",
@@ -529,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19838139",
       "published_at": "2026-08-08T13:00:56+00:00",
-      "revalidated_at": "2026-08-08T16:15:02+00:00"
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
     },
     {
       "asin": "B07BP4V1HJ",
@@ -1013,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847634",
       "published_at": "2026-08-08T08:03:44+00:00",
-      "revalidated_at": "2026-08-08T16:15:02+00:00"
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
     },
     {
       "asin": "B089NYWHJ5",
@@ -1167,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854594",
       "published_at": "2026-08-08T06:31:16+00:00",
-      "revalidated_at": "2026-08-08T16:15:02+00:00"
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
     },
     {
       "asin": "B07T85L1TJ",
@@ -1344,28 +1366,6 @@
       "deal_key": "sd:19842504",
       "published_at": "2026-08-08T01:31:26+00:00",
       "revalidated_at": "2026-08-08T16:31:13+00:00"
-    },
-    {
-      "asin": "B01DUT3X1K",
-      "title": "8\" Cuisinart Graphix Collection Chef's Knife For",
-      "title_es": "Cuchillo de Chef Cuisinart Graphix Collection de 8\"",
-      "headline": null,
-      "post": "Este cuchillo de chef Cuisinart de 8 pulgadas es ideal para tareas diarias en la cocina, desde picar verduras hasta cortar carnes. Su diseño de la colección Graphix ofrece un agarre cómodo y un filo preciso para cocineros caseros.",
-      "post_en": "This 8-inch Cuisinart Chef's Knife is perfect for daily kitchen tasks, from chopping vegetables to slicing meats. Its Graphix Collection design offers a comfortable grip and a precise edge for home cooks.",
-      "price_new": 9.99,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 83.4,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51rFWOTjhFL._AC_SL1358_.jpg",
-      "url": "https://amazon.com/dp/B01DUT3X1K/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19854639",
-      "published_at": "2026-08-08T01:16:18+00:00",
-      "revalidated_at": "2026-08-08T16:15:02+00:00"
     },
     {
       "asin": "B006FSCJWS",
@@ -1739,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19853181",
       "published_at": "2026-08-07T23:31:14+00:00",
-      "revalidated_at": "2026-08-08T16:15:02+00:00"
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
     },
     {
       "asin": "B0FD2V4W1W",
@@ -1849,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839891",
       "published_at": "2026-08-07T22:01:18+00:00",
-      "revalidated_at": "2026-08-08T16:15:02+00:00"
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
     },
     {
       "asin": "B0FCFCY9BW",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19852935",
       "published_at": "2026-08-07T18:16:30+00:00",
-      "revalidated_at": "2026-08-08T16:01:12+00:00"
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
     },
     {
       "asin": "B0FXXW3VP2",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19840533",
       "published_at": "2026-08-07T18:16:30+00:00",
-      "revalidated_at": "2026-08-08T16:01:12+00:00"
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
     },
     {
       "asin": "B0DL9G4J9J",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19849341",
       "published_at": "2026-08-07T17:01:22+00:00",
-      "revalidated_at": "2026-08-08T16:01:12+00:00"
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
     },
     {
       "asin": "B0DHZ6889L",
@@ -2487,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19834395",
       "published_at": "2026-08-07T15:16:54+00:00",
-      "revalidated_at": "2026-08-08T16:15:02+00:00"
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
     },
     {
       "asin": "B000GASBNC",
@@ -2509,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19837200",
       "published_at": "2026-08-07T15:01:31+00:00",
-      "revalidated_at": "2026-08-08T16:01:12+00:00"
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
     },
     {
       "asin": "B0GT8V9N24",
@@ -2531,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839732",
       "published_at": "2026-08-07T15:01:31+00:00",
-      "revalidated_at": "2026-08-08T16:15:02+00:00"
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
     },
     {
       "asin": "B00JHKSMG8",
@@ -2553,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19852521",
       "published_at": "2026-08-07T14:46:29+00:00",
-      "revalidated_at": "2026-08-08T16:15:02+00:00"
+      "revalidated_at": "2026-08-08T17:45:50+00:00"
     },
     {
       "asin": "B004FGMZAI",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19851123",
       "published_at": "2026-08-07T14:31:42+00:00",
       "revalidated_at": "2026-08-08T17:31:11+00:00"
-    },
-    {
-      "asin": "B08M9HND4F",
-      "title": "6.6' Highwings 2.1 HDMI Cable 48Gbps (8K@60Hz 4K@120Hz)",
-      "title_es": "Cable HDMI 2.1 Highwings de 2 metros y 48Gbps (8K@60Hz 4K@120Hz)",
-      "headline": null,
-      "post": "Mejora tu experiencia visual con este cable HDMI 2.1 Highwings de 2 metros, compatible con 8K@60Hz y 4K@120Hz. Ideal para consolas de última generación, PCs y televisores de alta resolución, ofreciendo una transmisión de 48Gbps. 🎮",
-      "post_en": "Enhance your visual experience with this 6.6' Highwings 2.1 HDMI cable, supporting 8K@60Hz and 4K@120Hz. Ideal for next-gen consoles, PCs, and high-resolution TVs, offering 48Gbps transmission. 🎮",
-      "price_new": 5.39,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 84.6,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81i+RJVMZpL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B08M9HND4F/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19840230",
-      "published_at": "2026-08-07T14:31:42+00:00",
-      "revalidated_at": "2026-08-08T16:01:12+00:00"
     }
   ]
 }
