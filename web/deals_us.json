@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-08-08T23:16:17+00:00",
+  "generated_at": "2026-08-08T23:31:46+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B07SNGVLDB",
+      "title": "Jumanji: The Video Game (Nintendo Switch)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 62.9,
+      "rating": 4.4,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81dsh7rD2gL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07SNGVLDB/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19841415",
+      "published_at": "2026-08-08T23:31:46+00:00",
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
+    },
+    {
+      "asin": "B0DCZ33KY8",
+      "title": "Pleny Folding Stationary Exercise Bike",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 77.0,
+      "price_old": 140.0,
+      "currency": "USD",
+      "discount_pct": 45.0,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/9/5/3/2/3/450x450/21178875.thumb",
+      "url": "https://amazon.com/dp/B0DCZ33KY8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19838394",
+      "published_at": "2026-08-08T23:31:46+00:00",
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
+    },
+    {
+      "asin": "B0GKNRSYHW",
+      "title": "Greenworks 24V 20\" Telescoping Pole Hedge Trimmer Attachment w/ 2.0Ah Battery & Charger (HT2002)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 89.99,
+      "price_old": 129.99,
+      "currency": "USD",
+      "discount_pct": 30.8,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/0/4/6/9/4/2/0/450x450/21212895.thumb",
+      "url": "https://amazon.com/dp/B0GKNRSYHW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19851021",
+      "published_at": "2026-08-08T23:31:46+00:00",
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
+    },
     {
       "asin": "B0B5VLPVL5",
       "title": "AMD Ryzen Threadripper PRO 5995WX, 64-core, 128-Thread Desktop Processor",
@@ -146,16 +212,16 @@
       "price_old": 60.0,
       "currency": "USD",
       "discount_pct": 88.2,
-      "rating": null,
+      "rating": 4.8,
       "condition": "sns",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/21201195.thumb",
+      "image": "https://m.media-amazon.com/images/I/81WOY9AMqPL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B08MQRQTKJ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19846620",
       "published_at": "2026-08-08T22:11:20+00:00",
-      "revalidated_at": "2026-08-08T22:11:20+00:00"
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
     },
     {
       "asin": "B0D8QN1TJN",
@@ -177,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19845207",
       "published_at": "2026-08-08T22:11:20+00:00",
-      "revalidated_at": "2026-08-08T22:11:20+00:00"
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
     },
     {
       "asin": "B0CP66WRW9",
@@ -199,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19850283",
       "published_at": "2026-08-08T22:11:20+00:00",
-      "revalidated_at": "2026-08-08T22:11:20+00:00"
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
     },
     {
       "asin": "B003WUYPI8",
@@ -397,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19857222",
       "published_at": "2026-08-08T20:45:50+00:00",
-      "revalidated_at": "2026-08-08T22:11:20+00:00"
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
     },
     {
       "asin": "B0G59PBJPL",
@@ -683,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19855629",
       "published_at": "2026-08-08T17:45:50+00:00",
-      "revalidated_at": "2026-08-08T22:11:20+00:00"
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
     },
     {
       "asin": "B0F2TCVRQD",
@@ -881,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854927",
       "published_at": "2026-08-08T16:15:02+00:00",
-      "revalidated_at": "2026-08-08T22:11:20+00:00"
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
     },
     {
       "asin": "B07WGJTL4F",
@@ -1189,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19838139",
       "published_at": "2026-08-08T13:00:56+00:00",
-      "revalidated_at": "2026-08-08T22:11:20+00:00"
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
     },
     {
       "asin": "B07BP4V1HJ",
@@ -1651,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847634",
       "published_at": "2026-08-08T08:03:44+00:00",
-      "revalidated_at": "2026-08-08T22:11:20+00:00"
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
     },
     {
       "asin": "B089NYWHJ5",
@@ -1805,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854594",
       "published_at": "2026-08-08T06:31:16+00:00",
-      "revalidated_at": "2026-08-08T22:11:20+00:00"
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
     },
     {
       "asin": "B07T85L1TJ",
@@ -1893,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19855164",
       "published_at": "2026-08-08T02:31:13+00:00",
-      "revalidated_at": "2026-08-08T22:11:20+00:00"
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
     },
     {
       "asin": "B00CAXQV3K",
@@ -2047,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854933",
       "published_at": "2026-08-08T00:31:24+00:00",
-      "revalidated_at": "2026-08-08T22:01:23+00:00"
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
     },
     {
       "asin": "B0GPRCWMZ5",
@@ -2069,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19853451",
       "published_at": "2026-08-08T00:31:24+00:00",
-      "revalidated_at": "2026-08-08T22:01:23+00:00"
+      "revalidated_at": "2026-08-08T23:31:46+00:00"
     },
     {
       "asin": "B000J45N2W",
@@ -2576,72 +2642,6 @@
       "deal_key": "sd:19850262",
       "published_at": "2026-08-07T21:16:32+00:00",
       "revalidated_at": "2026-08-08T22:16:40+00:00"
-    },
-    {
-      "asin": "B0DJM6RHLD",
-      "title": "[Prime] Athlefit Women's Flat Square Open Toe Sandals from",
-      "title_es": "Sandalias planas de mujer Athlefit con puntera cuadrada abierta",
-      "headline": null,
-      "post": "Estas sandalias planas Athlefit ofrecen comodidad y un estilo moderno con su diseño de puntera cuadrada abierta, perfectas para el verano. Son un calzado versátil y ligero, ideal para pasear o complementar tus looks casuales.",
-      "post_en": "These Athlefit flat sandals offer comfort and modern style with their open square toe design, perfect for summer. They are versatile and lightweight footwear, ideal for strolling or complementing your casual outfits.",
-      "price_new": 11.39,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 62.0,
-      "rating": 4.2,
-      "condition": "code",
-      "code": "23G5LAOM",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61-NhkD8xHL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DJM6RHLD/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19847868",
-      "published_at": "2026-08-07T21:16:32+00:00",
-      "revalidated_at": "2026-08-08T22:16:40+00:00"
-    },
-    {
-      "asin": "B0DR4LK5WB",
-      "title": "3-Pack Bn-Link Outdoor Extension Cord Safety Cover Black",
-      "title_es": "Pack de 3 protectores de seguridad para cables de extensión exteriores Bn-Link (Negro)",
-      "headline": null,
-      "post": "Este pack de 3 protectores Bn-Link asegura tus conexiones de cables de extensión al aire libre, protegiéndolas de la humedad y el polvo. Son esenciales para mantener la seguridad eléctrica en jardines, patios o eventos exteriores.",
-      "post_en": "This 3-pack of Bn-Link safety covers secures your outdoor extension cord connections, protecting them from moisture and dust. They are essential for maintaining electrical safety in gardens, patios, or outdoor events.",
-      "price_new": 2.33,
-      "price_old": 6.99,
-      "currency": "USD",
-      "discount_pct": 66.7,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/719ob1mi6BL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DR4LK5WB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19853922",
-      "published_at": "2026-08-07T21:01:34+00:00",
-      "revalidated_at": "2026-08-08T23:01:18+00:00"
-    },
-    {
-      "asin": "B0B94JHNGS",
-      "title": "$29** | CRAFTSMAN V20 Cordless Soldering Iron, Tool Only (CMCE040B) at Amazon",
-      "title_es": "Soldador inalámbrico CRAFTSMAN V20 (solo herramienta, CMCE040B)",
-      "headline": null,
-      "post": "El soldador inalámbrico CRAFTSMAN V20 ofrece la libertad de trabajar sin cables, ideal para proyectos de electrónica o reparaciones en cualquier lugar. Es una herramienta práctica y potente para aficionados y profesionales que buscan movilidad.",
-      "post_en": "The CRAFTSMAN V20 Cordless Soldering Iron offers the freedom to work without cords, ideal for electronics projects or repairs anywhere. It's a practical and powerful tool for hobbyists and professionals seeking mobility.",
-      "price_new": 29.0,
-      "price_old": 59.0,
-      "currency": "USD",
-      "discount_pct": 50.8,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/613YOcf9guL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0B94JHNGS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19836600",
-      "published_at": "2026-08-07T21:01:34+00:00",
-      "revalidated_at": "2026-08-08T23:13:57+00:00"
     }
   ]
 }
