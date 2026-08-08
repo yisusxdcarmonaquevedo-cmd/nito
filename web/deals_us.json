@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-08T09:48:46+00:00",
+  "generated_at": "2026-08-08T10:01:00+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B07TSCWJ13",
+      "title": "6-Oz Amazon Grocery Tomato Paste",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 0.62,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 98.2,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/21213807.thumb",
+      "url": "https://amazon.com/dp/B07TSCWJ13/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19851297",
+      "published_at": "2026-08-08T10:01:00+00:00",
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
+    },
     {
       "asin": "B0B5VX1V82",
       "title": "8.5-Oz Jergens Shea & Cocoa Whipped Body Butter Lotion w/ Vitamins B3 & E",
@@ -14,11 +36,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 89.8,
-      "rating": null,
+      "rating": 4.7,
       "condition": "coupon",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/21199299.thumb",
+      "image": "https://m.media-amazon.com/images/I/61SwrFvZ-NL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0B5VX1V82/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19845957",
@@ -36,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 75.8,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "7SB25WMY",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/21222615.thumb",
+      "image": "https://m.media-amazon.com/images/I/61y1EG-VogL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G4D51T7F/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19854603",
@@ -58,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 82.9,
-      "rating": null,
+      "rating": 4.2,
       "condition": "code",
       "code": "EYHEWZDN",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21192780.thumb",
+      "image": "https://m.media-amazon.com/images/I/715y8ds0SHL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GQ3JKV5T/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19843467",
@@ -111,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19838166",
       "published_at": "2026-08-08T08:30:41+00:00",
-      "revalidated_at": "2026-08-08T08:30:41+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B0CMJW3Q8M",
@@ -199,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19855317",
       "published_at": "2026-08-08T07:00:57+00:00",
-      "revalidated_at": "2026-08-08T08:30:41+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B0D76BH4HX",
@@ -221,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847205",
       "published_at": "2026-08-08T07:00:57+00:00",
-      "revalidated_at": "2026-08-08T08:30:41+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B0F1W9HR1M",
@@ -419,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19838130",
       "published_at": "2026-08-08T01:46:20+00:00",
-      "revalidated_at": "2026-08-08T08:30:41+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B09DV6PSJ3",
@@ -793,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854408",
       "published_at": "2026-08-07T23:53:23+00:00",
-      "revalidated_at": "2026-08-08T08:30:41+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B0C8VKNJ1B",
@@ -1123,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19853922",
       "published_at": "2026-08-07T21:01:34+00:00",
-      "revalidated_at": "2026-08-08T08:30:41+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B0B94JHNGS",
@@ -1145,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19836600",
       "published_at": "2026-08-07T21:01:34+00:00",
-      "revalidated_at": "2026-08-08T08:30:41+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B0DFRX299Q",
@@ -1167,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19851342",
       "published_at": "2026-08-07T21:01:34+00:00",
-      "revalidated_at": "2026-08-08T08:30:41+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B0B3XMTRHN",
@@ -1453,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854003",
       "published_at": "2026-08-07T17:46:21+00:00",
-      "revalidated_at": "2026-08-08T08:30:41+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B0FGPKC21W",
@@ -1475,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19852965",
       "published_at": "2026-08-07T17:46:21+00:00",
-      "revalidated_at": "2026-08-08T08:30:41+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B0D37CDR9P",
@@ -1541,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19851876",
       "published_at": "2026-08-07T16:01:40+00:00",
-      "revalidated_at": "2026-08-08T08:30:41+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B0CGGLZ8YT",
@@ -1563,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19845276",
       "published_at": "2026-08-07T16:01:40+00:00",
-      "revalidated_at": "2026-08-08T08:30:41+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B0GL1G5BFW",
@@ -1739,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19851123",
       "published_at": "2026-08-07T14:31:42+00:00",
-      "revalidated_at": "2026-08-08T08:30:41+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B08M9HND4F",
@@ -2553,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19849113",
       "published_at": "2026-08-07T03:31:21+00:00",
-      "revalidated_at": "2026-08-08T08:15:39+00:00"
+      "revalidated_at": "2026-08-08T10:01:00+00:00"
     },
     {
       "asin": "B0FB38QWK6",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:19847883",
       "published_at": "2026-08-07T03:31:21+00:00",
       "revalidated_at": "2026-08-08T08:54:47+00:00"
-    },
-    {
-      "asin": "B0FFBB4S9G",
-      "title": "MIXC 1/4\" 100-Foot Drip Irrigation System Kit w/ 16-Piece 360° Adjustable Brass Nozzles & Bendable Rods",
-      "title_es": "Kit de Sistema de Riego por Goteo MIXC 1/4\" de 100 Pies con 16 Boquillas de Latón Ajustables 360° y Varillas Flexibles",
-      "headline": null,
-      "post": "Este kit de riego por goteo es ideal para mantener tus plantas hidratadas de forma eficiente y controlada. Incluye boquillas ajustables y varillas flexibles para una instalación personalizada en tu jardín o huerto.",
-      "post_en": "This drip irrigation kit is ideal for efficiently and controllably keeping your plants hydrated. It includes adjustable nozzles and bendable rods for a customizable setup in your garden or vegetable patch.",
-      "price_new": 17.0,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 51.4,
-      "rating": 4.2,
-      "condition": "code",
-      "code": "WWWYKZ8U",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71n3A7b3QDL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FFBB4S9G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19829844",
-      "published_at": "2026-08-07T03:16:00+00:00",
-      "revalidated_at": "2026-08-08T09:00:44+00:00"
     }
   ]
 }
