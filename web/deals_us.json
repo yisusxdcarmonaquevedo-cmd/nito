@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-08T20:45:50+00:00",
+  "generated_at": "2026-08-08T20:52:07+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B01HIUTDZW",
+      "title": "Champion Men's Powerblend Fleece Comfortable Hoodie (various) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 18.99,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 68.3,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/717I5EwzaoL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B01HIUTDZW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19837056",
+      "published_at": "2026-08-08T20:52:07+00:00",
+      "revalidated_at": "2026-08-08T20:52:07+00:00"
+    },
     {
       "asin": "B0D5B72J39",
       "title": "Handheld Digital Microscope for Kids, 1000X, 2.1'' HD LCD Screen, 6 LED lights, slides, 32GB card",
@@ -111,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19850307",
       "published_at": "2026-08-08T19:31:09+00:00",
-      "revalidated_at": "2026-08-08T19:31:09+00:00"
+      "revalidated_at": "2026-08-08T20:52:07+00:00"
     },
     {
       "asin": "B0CSFKV7TG",
@@ -133,7 +155,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19849704",
       "published_at": "2026-08-08T19:31:09+00:00",
-      "revalidated_at": "2026-08-08T19:31:09+00:00"
+      "revalidated_at": "2026-08-08T20:52:07+00:00"
     },
     {
       "asin": "B08YGSCCTP",
@@ -485,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19843476",
       "published_at": "2026-08-08T16:31:13+00:00",
-      "revalidated_at": "2026-08-08T19:31:09+00:00"
+      "revalidated_at": "2026-08-08T20:52:07+00:00"
     },
     {
       "asin": "B0GL83H4H7",
@@ -617,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847817",
       "published_at": "2026-08-08T15:00:59+00:00",
-      "revalidated_at": "2026-08-08T19:31:09+00:00"
+      "revalidated_at": "2026-08-08T20:52:07+00:00"
     },
     {
       "asin": "B0FF53H4N5",
@@ -1004,11 +1026,11 @@
       "price_old": 599.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 3.2,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/8/2/8/3/4/450x450/21226002.thumb",
+      "image": "https://m.media-amazon.com/images/I/91KR3-SZJAL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CXDVLDJT/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19855962",
@@ -1048,11 +1070,11 @@
       "price_old": 669.99,
       "currency": "USD",
       "discount_pct": 55.4,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/21197343.thumb",
+      "image": "https://m.media-amazon.com/images/I/61PyGZjMGZL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DBTJ61KF/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19845237",
@@ -1070,11 +1092,11 @@
       "price_old": 762.0,
       "currency": "USD",
       "discount_pct": 85.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/21226857.thumb",
+      "image": "https://m.media-amazon.com/images/I/61BHf+8B-GL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D78QZVXQ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19856325",
@@ -1101,29 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854303",
       "published_at": "2026-08-08T11:30:59+00:00",
-      "revalidated_at": "2026-08-08T19:31:09+00:00"
-    },
-    {
-      "asin": "B0GGQV8QK9",
-      "title": "Bircen Men's Polarized Anti-Glare AL-Mg Metal Sunglasses",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 11.0,
-      "price_old": 24.95,
-      "currency": "USD",
-      "discount_pct": 55.9,
-      "rating": null,
-      "condition": "code",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/4/2/9/3/0/8/450x450/21213780.thumb",
-      "url": "https://amazon.com/dp/B0GGQV8QK9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19851285",
-      "published_at": "2026-08-08T11:30:59+00:00",
-      "revalidated_at": "2026-08-08T19:31:09+00:00"
+      "revalidated_at": "2026-08-08T20:52:07+00:00"
     },
     {
       "asin": "B0GC77X93P",
@@ -1431,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847505",
       "published_at": "2026-08-08T06:45:51+00:00",
-      "revalidated_at": "2026-08-08T19:31:09+00:00"
+      "revalidated_at": "2026-08-08T20:52:07+00:00"
     },
     {
       "asin": "B0H8D5P1ZM",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19855236",
       "published_at": "2026-08-08T06:45:51+00:00",
-      "revalidated_at": "2026-08-08T19:31:09+00:00"
+      "revalidated_at": "2026-08-08T20:52:07+00:00"
     },
     {
       "asin": "B0GVF12YHQ",
@@ -1541,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19839552",
       "published_at": "2026-08-08T05:01:18+00:00",
-      "revalidated_at": "2026-08-08T19:31:09+00:00"
+      "revalidated_at": "2026-08-08T20:52:07+00:00"
     },
     {
       "asin": "B0DMVTCNHQ",
@@ -1629,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19854270",
       "published_at": "2026-08-08T01:31:26+00:00",
-      "revalidated_at": "2026-08-08T19:31:09+00:00"
+      "revalidated_at": "2026-08-08T20:52:07+00:00"
     },
     {
       "asin": "B0DCFMYLYD",
@@ -1651,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19842504",
       "published_at": "2026-08-08T01:31:26+00:00",
-      "revalidated_at": "2026-08-08T19:31:09+00:00"
+      "revalidated_at": "2026-08-08T20:52:07+00:00"
     },
     {
       "asin": "B006FSCJWS",
@@ -2553,29 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847208",
       "published_at": "2026-08-07T18:31:33+00:00",
-      "revalidated_at": "2026-08-08T19:16:01+00:00"
-    },
-    {
-      "asin": "B09YMRKF8W",
-      "title": "Casio 48mm Edifice Men's Quartz Date Indicator Sapphire Crystal Wrist Watch EFB-108D-7AV at Amazon",
-      "title_es": "Reloj de Pulsera Casio Edifice EFB-108D-7AV de Cuarzo para Hombre con Cristal de Zafiro",
-      "headline": null,
-      "post": "Luce un estilo elegante y funcional con este reloj Casio Edifice EFB-108D-7AV, que combina un diseño robusto con la precisión del cuarzo. Su cristal de zafiro y el indicador de fecha lo hacen perfecto para el uso diario.",
-      "post_en": "Sport an elegant and functional style with this Casio Edifice EFB-108D-7AV watch, combining a robust design with quartz precision. Its sapphire crystal and date indicator make it perfect for daily wear.",
-      "price_new": 90.0,
-      "price_old": 150.0,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61hlEBsl6mL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09YMRKF8W/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19852935",
-      "published_at": "2026-08-07T18:16:30+00:00",
-      "revalidated_at": "2026-08-08T19:16:01+00:00"
+      "revalidated_at": "2026-08-08T20:52:07+00:00"
     },
     {
       "asin": "B0FXXW3VP2",
@@ -2597,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19840533",
       "published_at": "2026-08-07T18:16:30+00:00",
-      "revalidated_at": "2026-08-08T19:16:01+00:00"
+      "revalidated_at": "2026-08-08T20:52:07+00:00"
     },
     {
       "asin": "B0DL9G4J9J",
@@ -2620,28 +2598,6 @@
       "deal_key": "sd:19854003",
       "published_at": "2026-08-07T17:46:21+00:00",
       "revalidated_at": "2026-08-08T20:10:57+00:00"
-    },
-    {
-      "asin": "B0FGPKC21W",
-      "title": "Google Pixelsnap Phone Charger with Stand at Amazon",
-      "title_es": "Cargador de teléfono Google Pixelsnap con soporte",
-      "headline": null,
-      "post": "El Google Pixelsnap es un cargador de teléfono que también funciona como soporte. Perfecto para mantener tu dispositivo cargado y visible en tu escritorio o mesita.",
-      "post_en": "The Google Pixelsnap is a phone charger that also doubles as a stand. Perfect for keeping your device charged and visible on your desk or nightstand.",
-      "price_new": 34.99,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51uQ3w-82vL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FGPKC21W/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19852965",
-      "published_at": "2026-08-07T17:46:21+00:00",
-      "revalidated_at": "2026-08-08T20:15:47+00:00"
     }
   ]
 }
