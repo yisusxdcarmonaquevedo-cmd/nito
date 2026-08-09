@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-09T06:00:54+00:00",
+  "generated_at": "2026-08-09T06:15:53+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0BQ1TFYH5",
+      "title": "Colgate Kids Battery Powered Bluey Toothbrush, Extra Soft",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.99,
+      "price_old": 5.9,
+      "currency": "USD",
+      "discount_pct": 49.3,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21183195.thumb",
+      "url": "https://amazon.com/dp/B0BQ1TFYH5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19839894",
+      "published_at": "2026-08-09T06:15:53+00:00",
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
+    },
+    {
+      "asin": "B0B12JHN3H",
+      "title": "LaDoVita Ceramic Plant Pot with Stand, 10\" Planter with Wood Shelf",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 22.79,
+      "price_old": 37.99,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/21211722.thumb",
+      "url": "https://amazon.com/dp/B0B12JHN3H/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19850649",
+      "published_at": "2026-08-09T06:15:53+00:00",
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
+    },
     {
       "asin": "B0GX16ZSSY",
       "title": "BALDR Solar Pool Thermometer Floating with Easy Read Large Dual LCD IPX8",
@@ -14,11 +58,11 @@
       "price_old": 34.99,
       "currency": "USD",
       "discount_pct": 45.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "3P4E6SK6",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/5/3/4/7/0/450x450/21195342.thumb",
+      "image": "https://m.media-amazon.com/images/I/61cEQRT9RWL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GX16ZSSY/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19844454",
@@ -36,11 +80,11 @@
       "price_old": 399.0,
       "currency": "USD",
       "discount_pct": 37.6,
-      "rating": null,
+      "rating": 4.3,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21225087.thumb",
+      "image": "https://m.media-amazon.com/images/I/61U-0LTtVYL._AC_SL1000_.jpg",
       "url": "https://amazon.com/dp/B09LXG3C23/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19855578",
@@ -89,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19840965",
       "published_at": "2026-08-09T04:24:35+00:00",
-      "revalidated_at": "2026-08-09T04:24:35+00:00"
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
     },
     {
       "asin": "B0F942ZNH4",
@@ -221,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19857549",
       "published_at": "2026-08-09T02:46:17+00:00",
-      "revalidated_at": "2026-08-09T04:24:35+00:00"
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
     },
     {
       "asin": "B0G4PLYRY7",
@@ -243,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847898",
       "published_at": "2026-08-09T02:46:17+00:00",
-      "revalidated_at": "2026-08-09T04:24:35+00:00"
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
     },
     {
       "asin": "B0DTHPL6YV",
@@ -551,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19837140",
       "published_at": "2026-08-09T00:46:11+00:00",
-      "revalidated_at": "2026-08-09T04:24:35+00:00"
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
     },
     {
       "asin": "B0DSVHC33N",
@@ -1101,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19857240",
       "published_at": "2026-08-08T22:01:23+00:00",
-      "revalidated_at": "2026-08-09T04:24:35+00:00"
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
     },
     {
       "asin": "B004KO409E",
@@ -1299,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19857243",
       "published_at": "2026-08-08T20:30:54+00:00",
-      "revalidated_at": "2026-08-09T04:24:35+00:00"
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
     },
     {
       "asin": "B0DZXDXW9Y",
@@ -1321,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19845225",
       "published_at": "2026-08-08T20:30:54+00:00",
-      "revalidated_at": "2026-08-09T04:24:35+00:00"
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
     },
     {
       "asin": "B006T9B6R2",
@@ -1563,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19842462",
       "published_at": "2026-08-08T17:38:50+00:00",
-      "revalidated_at": "2026-08-09T04:24:35+00:00"
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
     },
     {
       "asin": "B0DWG2XQXF",
@@ -1585,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19835874",
       "published_at": "2026-08-08T17:31:11+00:00",
-      "revalidated_at": "2026-08-09T04:24:35+00:00"
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
     },
     {
       "asin": "B0B2M7GYHH",
@@ -1607,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19849212",
       "published_at": "2026-08-08T17:31:11+00:00",
-      "revalidated_at": "2026-08-09T04:24:35+00:00"
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
     },
     {
       "asin": "B0F137DHZP",
@@ -1651,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19852524",
       "published_at": "2026-08-08T17:16:04+00:00",
-      "revalidated_at": "2026-08-09T04:24:35+00:00"
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
     },
     {
       "asin": "B07NW8RPYN",
@@ -2355,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19846299",
       "published_at": "2026-08-08T10:30:57+00:00",
-      "revalidated_at": "2026-08-09T04:16:11+00:00"
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
     },
     {
       "asin": "B07TSCWJ13",
@@ -2575,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847205",
       "published_at": "2026-08-08T07:00:57+00:00",
-      "revalidated_at": "2026-08-09T04:16:11+00:00"
+      "revalidated_at": "2026-08-09T06:15:53+00:00"
     },
     {
       "asin": "B0F1W9HR1M",
@@ -2598,28 +2642,6 @@
       "deal_key": "sd:19847505",
       "published_at": "2026-08-08T06:45:51+00:00",
       "revalidated_at": "2026-08-09T05:16:10+00:00"
-    },
-    {
-      "asin": "B0H8D5P1ZM",
-      "title": "COMHOMA Big & Tall Ergonomic Office/Gaming Chair (Black) from",
-      "title_es": "Silla Ergonómica COMHOMA Big & Tall para Oficina/Gaming (Negra)",
-      "headline": null,
-      "post": "Descubre la silla ergonómica COMHOMA, diseñada para ofrecer comodidad superior a usuarios de mayor tamaño, tanto para la oficina como para tus sesiones de juego. Su diseño robusto y ajustable favorece una postura saludable durante largas horas.",
-      "post_en": "Discover the COMHOMA ergonomic chair, designed to provide superior comfort for big & tall users, whether for office work or gaming sessions. Its robust and adjustable design promotes a healthy posture during long hours.",
-      "price_new": 114.99,
-      "price_old": 229.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.2,
-      "condition": "code",
-      "code": "CVLZKTW2",
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71hGBFOgEVL._AC_SL1254_.jpg",
-      "url": "https://amazon.com/dp/B0H8D5P1ZM/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19855236",
-      "published_at": "2026-08-08T06:45:51+00:00",
-      "revalidated_at": "2026-08-09T05:31:02+00:00"
     }
   ]
 }
