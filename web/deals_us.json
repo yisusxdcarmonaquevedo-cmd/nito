@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-09T17:16:32+00:00",
+  "generated_at": "2026-08-09T17:31:33+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B0DPG776F4",
+      "title": "Coostar Men's Lace-Up Casual Dress Sneakers (various)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 17.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 48.6,
+      "rating": null,
+      "condition": "code",
+      "code": "Q22C95LM",
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/3/1/1/9/6/7/1/6/450x450/21211899.thumb",
+      "url": "https://amazon.com/dp/B0DPG776F4/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19850691",
+      "published_at": "2026-08-09T17:31:33+00:00",
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
+    },
     {
       "asin": "B0GPDGSP6D",
       "title": "1.35 fl oz Sungboon Editor Glow Intensive Kojic Acid Face Ampoule Serum",
@@ -14,11 +36,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 47.1,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/3/5/6/4/5/1/8/7/450x450/21219888.thumb",
+      "image": "https://m.media-amazon.com/images/I/71VkxRzt2NL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GPDGSP6D/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19853754",
@@ -80,11 +102,11 @@
       "price_old": 79.99,
       "currency": "USD",
       "discount_pct": 47.5,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/0/4/3/8/5/9/5/450x450/21223551.thumb",
+      "image": "https://m.media-amazon.com/images/I/71CeFQirWzL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H34SD9J9/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19854882",
@@ -177,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19849512",
       "published_at": "2026-08-09T16:01:16+00:00",
-      "revalidated_at": "2026-08-09T16:01:16+00:00"
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
     },
     {
       "asin": "B000SEH7ZO",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19842420",
       "published_at": "2026-08-09T13:01:26+00:00",
-      "revalidated_at": "2026-08-09T16:01:16+00:00"
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
     },
     {
       "asin": "B005LEMQOS",
@@ -1720,28 +1742,6 @@
       "revalidated_at": "2026-08-09T16:31:33+00:00"
     },
     {
-      "asin": "B0CP9CY6RK",
-      "title": "Garmin HRM-Fit™, Heart Rate Monitor, Clip-On Design",
-      "title_es": "Monitor de Frecuencia Cardíaca Garmin HRM-Fit™, Diseño Clip-On",
-      "headline": null,
-      "post": "Este monitor de frecuencia cardíaca Garmin HRM-Fit™ se sujeta cómodamente a tu sujetador deportivo, ofreciendo datos precisos de forma discreta. Es ideal para atletas y entusiastas del fitness que buscan un seguimiento fiable sin correas pectorales tradicionales.",
-      "post_en": "This Garmin HRM-Fit™ heart rate monitor clips comfortably onto your sports bra, offering accurate data discreetly. It's ideal for athletes and fitness enthusiasts looking for reliable tracking without traditional chest straps.",
-      "price_new": 97.49,
-      "price_old": 149.99,
-      "currency": "USD",
-      "discount_pct": 35.0,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71ClLYo5TtL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CP9CY6RK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19856286",
-      "published_at": "2026-08-08T23:46:34+00:00",
-      "revalidated_at": "2026-08-09T16:01:16+00:00"
-    },
-    {
       "asin": "B07SNGVLDB",
       "title": "Jumanji: The Video Game (Nintendo Switch)",
       "title_es": "Jumanji: The Video Game (Nintendo Switch)",
@@ -1761,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19841415",
       "published_at": "2026-08-08T23:31:46+00:00",
-      "revalidated_at": "2026-08-09T16:01:16+00:00"
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
     },
     {
       "asin": "B0DCZ33KY8",
@@ -1783,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19838394",
       "published_at": "2026-08-08T23:31:46+00:00",
-      "revalidated_at": "2026-08-09T16:01:16+00:00"
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
     },
     {
       "asin": "B0GKNRSYHW",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19851021",
       "published_at": "2026-08-08T23:31:46+00:00",
-      "revalidated_at": "2026-08-09T16:01:16+00:00"
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
     },
     {
       "asin": "B0B5VLPVL5",
@@ -1937,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19853889",
       "published_at": "2026-08-08T22:16:40+00:00",
-      "revalidated_at": "2026-08-09T16:01:16+00:00"
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
     },
     {
       "asin": "B0D8QN1TJN",
@@ -1959,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19845207",
       "published_at": "2026-08-08T22:11:20+00:00",
-      "revalidated_at": "2026-08-09T16:01:16+00:00"
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
     },
     {
       "asin": "B0CP66WRW9",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19850283",
       "published_at": "2026-08-08T22:11:20+00:00",
-      "revalidated_at": "2026-08-09T16:01:16+00:00"
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
     },
     {
       "asin": "B003WUYPI8",
@@ -2025,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19841928",
       "published_at": "2026-08-08T21:46:22+00:00",
-      "revalidated_at": "2026-08-09T15:46:08+00:00"
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
     },
     {
       "asin": "B0DTHT8XMM",
@@ -2157,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19837056",
       "published_at": "2026-08-08T20:52:07+00:00",
-      "revalidated_at": "2026-08-09T16:01:16+00:00"
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
     },
     {
       "asin": "B0D5B72J39",
@@ -2201,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19857243",
       "published_at": "2026-08-08T20:30:54+00:00",
-      "revalidated_at": "2026-08-09T15:46:08+00:00"
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
     },
     {
       "asin": "B0DZXDXW9Y",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19846854",
       "published_at": "2026-08-08T18:16:01+00:00",
-      "revalidated_at": "2026-08-09T15:46:08+00:00"
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
     },
     {
       "asin": "B00006IE7K",
@@ -2509,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19853856",
       "published_at": "2026-08-08T17:16:04+00:00",
-      "revalidated_at": "2026-08-09T15:46:08+00:00"
+      "revalidated_at": "2026-08-09T17:31:33+00:00"
     },
     {
       "asin": "B083VY2YQM",
