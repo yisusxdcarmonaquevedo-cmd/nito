@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T00:45:35+00:00",
+  "generated_at": "2026-08-10T01:00:37+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B08Y1MBXWC",
@@ -212,11 +212,11 @@
       "price_old": 24.98,
       "currency": "USD",
       "discount_pct": 40.0,
-      "rating": null,
+      "rating": 4.0,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/9/5/6/6/2/2/0/450x450/21199485.thumb",
+      "image": "https://m.media-amazon.com/images/I/71PAsv0dPyL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CX49B2SJ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19846017",
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19859622",
       "published_at": "2026-08-09T23:31:03+00:00",
-      "revalidated_at": "2026-08-09T23:31:03+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B0C9FW58GF",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19848759",
       "published_at": "2026-08-09T22:01:05+00:00",
-      "revalidated_at": "2026-08-09T23:31:03+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B0FL2WH8K1",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19859637",
       "published_at": "2026-08-09T22:01:05+00:00",
-      "revalidated_at": "2026-08-09T23:31:03+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B08JGBB9N1",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19840008",
       "published_at": "2026-08-09T22:01:05+00:00",
-      "revalidated_at": "2026-08-09T23:31:03+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B0FK3826VH",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19857399",
       "published_at": "2026-08-09T22:01:05+00:00",
-      "revalidated_at": "2026-08-09T23:31:03+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B000FC1GHO",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19852719",
       "published_at": "2026-08-09T20:31:28+00:00",
-      "revalidated_at": "2026-08-09T23:31:03+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B0CGLXBNL2",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19858155",
       "published_at": "2026-08-09T20:31:28+00:00",
-      "revalidated_at": "2026-08-09T23:31:03+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B0DRW8G3VY",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19853754",
       "published_at": "2026-08-09T17:16:32+00:00",
-      "revalidated_at": "2026-08-09T23:31:03+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B0DRW5NFHG",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19858512",
       "published_at": "2026-08-09T15:46:08+00:00",
-      "revalidated_at": "2026-08-09T23:31:03+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B0G4F6ZCSV",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19835160",
       "published_at": "2026-08-09T14:16:17+00:00",
-      "revalidated_at": "2026-08-09T23:31:03+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B0BSKQ5ZDM",
@@ -1915,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19857549",
       "published_at": "2026-08-09T02:46:17+00:00",
-      "revalidated_at": "2026-08-09T23:15:46+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B0G4PLYRY7",
@@ -1959,29 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19847520",
       "published_at": "2026-08-09T02:31:36+00:00",
-      "revalidated_at": "2026-08-09T23:15:46+00:00"
-    },
-    {
-      "asin": "B07DFLDJNH",
-      "title": "Orbit Pro Series 8-Pattern Thumb Control Hose Nozzle",
-      "title_es": "Boquilla de Manguera Orbit Pro Series con Control de Pulgar y 8 Patrones",
-      "headline": null,
-      "post": "La boquilla de manguera Orbit Pro Series con control de pulgar ofrece 8 patrones de pulverización, ideal para diversas tareas de riego en el jardín o limpieza. Su diseño ergonómico facilita el uso y permite ajustar el flujo con comodidad.",
-      "post_en": "The Orbit Pro Series 8-Pattern Thumb Control Hose Nozzle is perfect for various gardening and cleaning tasks. Its ergonomic design allows for easy flow adjustment and comfortable use.",
-      "price_new": 10.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 70.0,
-      "rating": 4.4,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/719sVNnMDzL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07DFLDJNH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19849593",
-      "published_at": "2026-08-09T02:31:36+00:00",
-      "revalidated_at": "2026-08-09T23:15:46+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B078Y5R267",
@@ -2003,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19856925",
       "published_at": "2026-08-09T02:31:36+00:00",
-      "revalidated_at": "2026-08-09T23:15:46+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B0FWRZFG42",
@@ -2025,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19857429",
       "published_at": "2026-08-09T02:31:36+00:00",
-      "revalidated_at": "2026-08-09T23:15:46+00:00"
+      "revalidated_at": "2026-08-10T01:00:37+00:00"
     },
     {
       "asin": "B0DH4QD6PV",
