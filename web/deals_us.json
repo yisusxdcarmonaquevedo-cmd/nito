@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T12:01:37+00:00",
+  "generated_at": "2026-08-12T12:16:03+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
     {
       "asin": "B0CS89B53Z",
@@ -14,38 +14,16 @@
       "price_old": 16.99,
       "currency": "USD",
       "discount_pct": 88.3,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21261117.thumb",
+      "image": "https://m.media-amazon.com/images/I/81gqy9dFoDL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CS89B53Z/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19870185",
       "published_at": "2026-08-12T12:01:37+00:00",
       "revalidated_at": "2026-08-12T12:01:37+00:00"
-    },
-    {
-      "asin": "B0G22LTCF1",
-      "title": "VEVOR 96 Piece 3/8\" Drive Impact Socket Wrench and Bit Set, SAE (5/16\" to 3/4\") & Metric (8 to 22 mm) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 35.99,
-      "price_old": 56.9,
-      "currency": "USD",
-      "discount_pct": 36.7,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71GIbev2AQL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G22LTCF1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19857999",
-      "published_at": "2026-08-12T10:31:31+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
     },
     {
       "asin": "B0C77XQP2W",
@@ -89,7 +67,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19861395",
       "published_at": "2026-08-12T08:46:15+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
+      "revalidated_at": "2026-08-12T12:16:03+00:00"
     },
     {
       "asin": "B00S4GMSYI",
@@ -309,29 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19868949",
       "published_at": "2026-08-12T05:01:45+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
-    },
-    {
-      "asin": "B0BNCBRXLK",
-      "title": "[Limited Stock] Household Essentials Magnetic Spice Rack w/ Paper Towel Holder",
-      "title_es": "Estante magnético para especias Household Essentials con soporte para papel de cocina",
-      "headline": null,
-      "post": "Organiza tu cocina con este práctico estante magnético para especias, que incluye un soporte integrado para rollos de papel. Es perfecto para maximizar el espacio en la nevera o cualquier superficie metálica y tener lo esencial a mano.",
-      "post_en": "Organize your kitchen with this practical magnetic spice rack, which includes an integrated paper towel holder. It's perfect for maximizing space on your fridge or any metal surface and keeping essentials within reach.",
-      "price_new": 10.0,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.4,
-      "rating": 4.1,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61-lQ8KSKNL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0BNCBRXLK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19868298",
-      "published_at": "2026-08-12T05:01:45+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
+      "revalidated_at": "2026-08-12T12:16:03+00:00"
     },
     {
       "asin": "B0DKS89T75",
@@ -353,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867989",
       "published_at": "2026-08-12T05:01:45+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
+      "revalidated_at": "2026-08-12T12:16:03+00:00"
     },
     {
       "asin": "B00BF4VUKO",
@@ -375,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19869180",
       "published_at": "2026-08-12T05:01:45+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
+      "revalidated_at": "2026-08-12T12:16:03+00:00"
     },
     {
       "asin": "B0FJFNY5SG",
@@ -397,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867107",
       "published_at": "2026-08-12T05:01:45+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
+      "revalidated_at": "2026-08-12T12:16:03+00:00"
     },
     {
       "asin": "B0FXX397YZ",
@@ -419,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867338",
       "published_at": "2026-08-12T05:01:45+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
+      "revalidated_at": "2026-08-12T12:16:03+00:00"
     },
     {
       "asin": "B0FW4N65BC",
@@ -441,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19868430",
       "published_at": "2026-08-12T05:01:45+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
+      "revalidated_at": "2026-08-12T12:16:03+00:00"
     },
     {
       "asin": "B0BLBSR41J",
@@ -463,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867143",
       "published_at": "2026-08-12T05:01:45+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
+      "revalidated_at": "2026-08-12T12:16:03+00:00"
     },
     {
       "asin": "B09NRYCNDC",
@@ -485,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867245",
       "published_at": "2026-08-12T05:01:45+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
+      "revalidated_at": "2026-08-12T12:16:03+00:00"
     },
     {
       "asin": "B001FXK8XU",
@@ -595,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19849260",
       "published_at": "2026-08-12T03:15:43+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
+      "revalidated_at": "2026-08-12T12:16:03+00:00"
     },
     {
       "asin": "B0FH593ZSX",
@@ -617,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867701",
       "published_at": "2026-08-12T03:15:43+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
+      "revalidated_at": "2026-08-12T12:16:03+00:00"
     },
     {
       "asin": "B0DVLZNQ5K",
@@ -1563,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867275",
       "published_at": "2026-08-11T20:18:50+00:00",
-      "revalidated_at": "2026-08-12T10:31:31+00:00"
+      "revalidated_at": "2026-08-12T12:16:03+00:00"
     },
     {
       "asin": "B0F4DZKVGH",
@@ -2641,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19860639",
       "published_at": "2026-08-11T02:16:41+00:00",
-      "revalidated_at": "2026-08-12T10:16:09+00:00"
+      "revalidated_at": "2026-08-12T12:16:03+00:00"
     }
   ]
 }
