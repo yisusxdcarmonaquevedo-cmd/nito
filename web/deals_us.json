@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-12T14:01:14+00:00",
+  "generated_at": "2026-08-12T14:16:12+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0C9KJT36W",
+      "title": "3-Pack Kasa Smart Matter Smart Dimmer Switch at Amazon ($12.83 each)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.83,
+      "price_old": 38.49,
+      "currency": "USD",
+      "discount_pct": 66.7,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21225105.thumb",
+      "url": "https://amazon.com/dp/B0C9KJT36W/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19855587",
+      "published_at": "2026-08-12T14:16:12+00:00",
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
+    },
     {
       "asin": "B01BUX7Z6M",
       "title": "Metallica: Ride The Lightning Remastered (Audio CD w/ AutoRip MP3) at Amazon",
@@ -112,28 +134,6 @@
       "deal_key": "sd:19864275",
       "published_at": "2026-08-12T12:46:17+00:00",
       "revalidated_at": "2026-08-12T12:46:17+00:00"
-    },
-    {
-      "asin": "B08QRYXSQT",
-      "title": "The Jackson 5: The Ultimate Collection (Double Vinyl LP Album w/ MP3) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 19.79,
-      "price_old": 32.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/61Ouy1IE2YL._SL1332_.jpg",
-      "url": "https://amazon.com/dp/B08QRYXSQT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19846530",
-      "published_at": "2026-08-12T12:31:22+00:00",
-      "revalidated_at": "2026-08-12T12:31:22+00:00"
     },
     {
       "asin": "B0CS89B53Z",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19866891",
       "published_at": "2026-08-12T05:15:56+00:00",
-      "revalidated_at": "2026-08-12T12:31:22+00:00"
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
     },
     {
       "asin": "B0FHB84B41",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19866690",
       "published_at": "2026-08-12T05:15:56+00:00",
-      "revalidated_at": "2026-08-12T12:31:22+00:00"
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
     },
     {
       "asin": "B0G1CPTN1F",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19868217",
       "published_at": "2026-08-12T05:15:56+00:00",
-      "revalidated_at": "2026-08-12T12:31:22+00:00"
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
     },
     {
       "asin": "B0DT1JY68G",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19868646",
       "published_at": "2026-08-12T01:46:03+00:00",
-      "revalidated_at": "2026-08-12T12:31:22+00:00"
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
     },
     {
       "asin": "B0GXKLJM2F",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19862790",
       "published_at": "2026-08-12T01:46:03+00:00",
-      "revalidated_at": "2026-08-12T12:31:22+00:00"
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
     },
     {
       "asin": "B09MYS6VGS",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19863417",
       "published_at": "2026-08-12T01:46:03+00:00",
-      "revalidated_at": "2026-08-12T12:31:22+00:00"
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
     },
     {
       "asin": "B0CP9CY6RK",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867284",
       "published_at": "2026-08-12T01:30:49+00:00",
-      "revalidated_at": "2026-08-12T12:31:22+00:00"
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
     },
     {
       "asin": "B0CJHD3JZ8",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867611",
       "published_at": "2026-08-12T01:30:49+00:00",
-      "revalidated_at": "2026-08-12T12:31:22+00:00"
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
     },
     {
       "asin": "B0CKDZM4HH",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19866666",
       "published_at": "2026-08-12T01:30:49+00:00",
-      "revalidated_at": "2026-08-12T12:31:22+00:00"
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
     },
     {
       "asin": "B0DGLT9HMR",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867563",
       "published_at": "2026-08-11T23:45:54+00:00",
-      "revalidated_at": "2026-08-12T12:31:22+00:00"
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
     },
     {
       "asin": "B0H3YRXCBN",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19864761",
       "published_at": "2026-08-11T23:45:54+00:00",
-      "revalidated_at": "2026-08-12T12:31:22+00:00"
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
     },
     {
       "asin": "B0GHXQJY1L",
@@ -1629,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19868091",
       "published_at": "2026-08-11T20:30:47+00:00",
-      "revalidated_at": "2026-08-12T12:31:22+00:00"
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
     },
     {
       "asin": "B0H9LC8G35",
@@ -1651,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867275",
       "published_at": "2026-08-11T20:18:50+00:00",
-      "revalidated_at": "2026-08-12T12:16:03+00:00"
+      "revalidated_at": "2026-08-12T14:16:12+00:00"
     },
     {
       "asin": "B0F4DZKVGH",
@@ -2618,28 +2618,6 @@
       "url": "https://amazon.com/dp/B0F1D7FZCB/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19864002",
-      "published_at": "2026-08-11T02:16:41+00:00",
-      "revalidated_at": "2026-08-12T13:46:05+00:00"
-    },
-    {
-      "asin": "B0GXJKK21H",
-      "title": "GKU D600 Pro Max 4K+1080P Dual Dash Cam w/ STARVIS 2, 5.8GHz WiFi 6 & GPS",
-      "title_es": "Cámara de salpicadero dual GKU D600 Pro Max 4K+1080P con STARVIS 2, WiFi 6 de 5.8GHz y GPS.",
-      "headline": null,
-      "post": "Protege tus viajes con la cámara de salpicadero dual GKU D600 Pro Max, que graba en 4K+1080P con tecnología STARVIS 2 para una imagen nítida. Incluye WiFi 6 y GPS, ideal para conductores que buscan seguridad y registro de alta calidad.",
-      "post_en": "Protect your journeys with the GKU D600 Pro Max dual dash cam, recording in 4K+1080P with STARVIS 2 technology for crisp images. It includes WiFi 6 and GPS, ideal for drivers seeking security and high-quality recording.",
-      "price_new": 72.49,
-      "price_old": 149.99,
-      "currency": "USD",
-      "discount_pct": 51.7,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "ERG65OYR",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71UPE95ppOL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GXJKK21H/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19864503",
       "published_at": "2026-08-11T02:16:41+00:00",
       "revalidated_at": "2026-08-12T13:46:05+00:00"
     }
