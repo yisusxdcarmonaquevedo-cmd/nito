@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T01:16:49+00:00",
+  "generated_at": "2026-08-13T01:31:37+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0FDKVYZ92",
@@ -168,11 +168,11 @@
       "price_old": 219.99,
       "currency": "USD",
       "discount_pct": 30.5,
-      "rating": null,
+      "rating": 4.3,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21267129.thumb",
+      "image": "https://m.media-amazon.com/images/I/61NzovTQ6vL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B08VRZ172R/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19872564",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19853058",
       "published_at": "2026-08-12T23:31:12+00:00",
-      "revalidated_at": "2026-08-12T23:31:12+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     },
     {
       "asin": "B0GH771495",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19871127",
       "published_at": "2026-08-12T23:31:12+00:00",
-      "revalidated_at": "2026-08-12T23:31:12+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     },
     {
       "asin": "B0DP4VYQ9N",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19864371",
       "published_at": "2026-08-12T22:01:10+00:00",
-      "revalidated_at": "2026-08-12T23:31:12+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     },
     {
       "asin": "B0CNXF7SVS",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19871478",
       "published_at": "2026-08-12T20:16:10+00:00",
-      "revalidated_at": "2026-08-12T23:15:55+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     },
     {
       "asin": "B00UJIYQ6W",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19868796",
       "published_at": "2026-08-12T18:46:07+00:00",
-      "revalidated_at": "2026-08-12T23:31:12+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     },
     {
       "asin": "B000Q5ZGIA",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19862187",
       "published_at": "2026-08-12T15:16:17+00:00",
-      "revalidated_at": "2026-08-12T23:15:55+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     },
     {
       "asin": "B01BUX7Z7Q",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19868559",
       "published_at": "2026-08-12T15:16:17+00:00",
-      "revalidated_at": "2026-08-12T23:15:55+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     },
     {
       "asin": "B000V98HCI",
@@ -1541,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19869840",
       "published_at": "2026-08-12T13:36:53+00:00",
-      "revalidated_at": "2026-08-12T23:31:12+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     },
     {
       "asin": "B0F19KLHG3",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19860699",
       "published_at": "2026-08-12T06:31:31+00:00",
-      "revalidated_at": "2026-08-12T23:31:12+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     },
     {
       "asin": "B0D2PKJKLD",
@@ -2465,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867821",
       "published_at": "2026-08-12T00:45:32+00:00",
-      "revalidated_at": "2026-08-12T23:15:55+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     },
     {
       "asin": "B0BVQX6875",
@@ -2509,29 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19868124",
       "published_at": "2026-08-12T00:30:55+00:00",
-      "revalidated_at": "2026-08-12T23:15:55+00:00"
-    },
-    {
-      "asin": "B074BJJH2H",
-      "title": "Little Shop of Horrors: The Director's Cut + Theatrical (Blu Ray)",
-      "title_es": "La Pequeña Tienda de los Horrores: Edición del Director + Teatral (Blu Ray)",
-      "headline": null,
-      "post": "Revive el clásico musical de culto \"La Pequeña Tienda de los Horrores\" con esta edición Blu-ray que incluye tanto el corte del director como la versión teatral. Ideal para coleccionistas y amantes del cine que disfrutan de versiones extendidas.",
-      "post_en": "Relive the cult musical classic \"Little Shop of Horrors\" with this Blu-ray edition that includes both the director's cut and the theatrical version. Ideal for collectors and movie lovers who enjoy extended versions.",
-      "price_new": 7.99,
-      "price_old": 57.0,
-      "currency": "USD",
-      "discount_pct": 86.0,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81lGt+IIUZL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B074BJJH2H/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19860435",
-      "published_at": "2026-08-12T00:30:55+00:00",
-      "revalidated_at": "2026-08-12T23:15:55+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     },
     {
       "asin": "B0DWFFPYW5",
@@ -2597,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867578",
       "published_at": "2026-08-12T00:15:38+00:00",
-      "revalidated_at": "2026-08-12T23:15:55+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     },
     {
       "asin": "B088WZWZ44",
@@ -2619,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19866765",
       "published_at": "2026-08-12T00:00:50+00:00",
-      "revalidated_at": "2026-08-12T23:15:55+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     },
     {
       "asin": "B07KLVMXLP",
@@ -2641,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19867842",
       "published_at": "2026-08-12T00:00:50+00:00",
-      "revalidated_at": "2026-08-12T23:15:55+00:00"
+      "revalidated_at": "2026-08-13T01:31:37+00:00"
     }
   ]
 }
