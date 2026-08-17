@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-08-17T17:12:03+00:00",
+  "generated_at": "2026-08-17T17:30:58+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B074M5TLLJ",
+      "title": "CIRCE (eBook) by Madeline Miller",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.99,
+      "price_old": 11.99,
+      "currency": "USD",
+      "discount_pct": 83.4,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21302505.thumb",
+      "url": "https://amazon.com/dp/B074M5TLLJ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19887636",
+      "published_at": "2026-08-17T17:30:58+00:00",
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
+    },
+    {
+      "asin": "B000OT8GD0",
+      "title": "The Tipping Point: How Little Things Can Make a Big Difference (eBook) by Malcolm Gladwell",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.99,
+      "price_old": 11.99,
+      "currency": "USD",
+      "discount_pct": 83.4,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21302526.thumb",
+      "url": "https://amazon.com/dp/B000OT8GD0/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19887648",
+      "published_at": "2026-08-17T17:30:58+00:00",
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
+    },
+    {
+      "asin": "B0DP2N5TX7",
+      "title": "Power Bank 10000mAh INIU 45W Fast Charging Tablet Portable Charger",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.76,
+      "price_old": 26.99,
+      "currency": "USD",
+      "discount_pct": 49.0,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/4/9/1/6/6/2/6/450x450/21306393.thumb",
+      "url": "https://amazon.com/dp/B0DP2N5TX7/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19889088",
+      "published_at": "2026-08-17T17:30:58+00:00",
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
+    },
     {
       "asin": "B001KYS930",
       "title": "48-Count Conair Heatless Foam Hair Rollers w/ Snap Closures",
@@ -155,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19887897",
       "published_at": "2026-08-17T16:00:45+00:00",
-      "revalidated_at": "2026-08-17T16:00:45+00:00"
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
     },
     {
       "asin": "B09M3Y8QZY",
@@ -177,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19888701",
       "published_at": "2026-08-17T16:00:45+00:00",
-      "revalidated_at": "2026-08-17T16:00:45+00:00"
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
     },
     {
       "asin": "B0FJMCHS8S",
@@ -199,29 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19879092",
       "published_at": "2026-08-17T16:00:45+00:00",
-      "revalidated_at": "2026-08-17T16:00:45+00:00"
-    },
-    {
-      "asin": "B0GTW24K19",
-      "title": "REVO 12\" Gel Memory Foam Mattress (Queen)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 204.0,
-      "price_old": 389.99,
-      "currency": "USD",
-      "discount_pct": 47.7,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/7/2/2/9/6/4/450x450/21305979.thumb",
-      "url": "https://amazon.com/dp/B0GTW24K19/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19888923",
-      "published_at": "2026-08-17T16:00:45+00:00",
-      "revalidated_at": "2026-08-17T16:00:45+00:00"
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
     },
     {
       "asin": "B08Z8HBLV4",
@@ -243,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19888857",
       "published_at": "2026-08-17T16:00:45+00:00",
-      "revalidated_at": "2026-08-17T16:00:45+00:00"
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
     },
     {
       "asin": "B00G3L6KOA",
@@ -969,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19885182",
       "published_at": "2026-08-17T00:15:37+00:00",
-      "revalidated_at": "2026-08-17T16:00:45+00:00"
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
     },
     {
       "asin": "B0DR8GKCYQ",
@@ -991,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19876773",
       "published_at": "2026-08-17T00:15:37+00:00",
-      "revalidated_at": "2026-08-17T16:00:45+00:00"
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
     },
     {
       "asin": "B07PHTLJNP",
@@ -2201,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19884210",
       "published_at": "2026-08-16T14:16:33+00:00",
-      "revalidated_at": "2026-08-17T15:45:30+00:00"
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
     },
     {
       "asin": "B0G87JWX8L",
@@ -2223,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19878246",
       "published_at": "2026-08-16T14:16:33+00:00",
-      "revalidated_at": "2026-08-17T15:45:30+00:00"
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
     },
     {
       "asin": "B00006IE7K",
@@ -2311,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19869993",
       "published_at": "2026-08-16T12:46:37+00:00",
-      "revalidated_at": "2026-08-17T15:45:30+00:00"
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
     },
     {
       "asin": "B0CF7YG3SR",
@@ -2531,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19873614",
       "published_at": "2026-08-16T09:11:58+00:00",
-      "revalidated_at": "2026-08-17T15:45:30+00:00"
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
     },
     {
       "asin": "B0CPYWHRXQ",
@@ -2575,73 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19883841",
       "published_at": "2026-08-16T08:03:22+00:00",
-      "revalidated_at": "2026-08-17T15:45:30+00:00"
-    },
-    {
-      "asin": "B0F4DXFJB4",
-      "title": "71-Count Cascade Platinum Dishwasher Pods (Fresh): 3 for",
-      "title_es": "Pastillas para lavavajillas Cascade Platinum (71 unidades, aroma Fresh)",
-      "headline": null,
-      "post": "Estos pods Cascade Platinum ofrecen una limpieza potente para tu lavavajillas, eliminando restos de comida incrustados y dejando tus platos brillantes. Son ideales para hogares que buscan una solución de limpieza eficaz y cómoda para el día a día. ✨",
-      "post_en": "These Cascade Platinum dishwasher pods provide powerful cleaning for your dishwasher, removing stuck-on food and leaving your dishes sparkling. They are ideal for households seeking an effective and convenient daily cleaning solution. ✨",
-      "price_new": 40.96,
-      "price_old": 59.94,
-      "currency": "USD",
-      "discount_pct": 31.7,
-      "rating": 4.8,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71d8Lg-kCYL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F4DXFJB4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19883982",
-      "published_at": "2026-08-16T08:03:22+00:00",
-      "revalidated_at": "2026-08-17T16:00:45+00:00"
-    },
-    {
-      "asin": "B07MVM6W5G",
-      "title": "22\" WORX Electric Hedge Trimmer w/ Dual-Action Blades (Tool Only) at Amazon",
-      "title_es": "Cortasetos eléctrico WORX de 22\" con cuchillas de doble acción (solo herramienta)",
-      "headline": null,
-      "post": "Este cortasetos eléctrico WORX de 22\" es ideal para mantener tu jardín impecable. Sus cuchillas de doble acción ofrecen cortes precisos y eficientes para setos y arbustos.",
-      "post_en": "This 22\" WORX Electric Hedge Trimmer is perfect for keeping your garden tidy. Its dual-action blades provide precise and efficient cuts for hedges and shrubs.",
-      "price_new": 34.99,
-      "price_old": 89.99,
-      "currency": "USD",
-      "discount_pct": 61.1,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/514KbDnR9zL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07MVM6W5G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19874415",
-      "published_at": "2026-08-16T07:39:10+00:00",
-      "revalidated_at": "2026-08-17T16:15:34+00:00"
-    },
-    {
-      "asin": "B0FWV6LC4B",
-      "title": "150-Count Force Factor Creatine Monohydrate Gummies (Blue Raspberry or Watermelon)",
-      "title_es": "Gomitas de monohidrato de creatina Force Factor de 150 unidades (frambuesa azul o sandía)",
-      "headline": null,
-      "post": "Estas gomitas de monohidrato de creatina Force Factor son una forma cómoda de apoyar tu rendimiento físico. Disponibles en sabores de frambuesa azul o sandía, son ideales para quienes buscan suplementar su rutina de ejercicio.",
-      "post_en": "These Force Factor Creatine Monohydrate Gummies offer a convenient way to support your physical performance. Available in blue raspberry or watermelon flavors, they're perfect for those looking to supplement their workout routine.",
-      "price_new": 16.56,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 52.7,
-      "rating": 3.9,
-      "condition": "coupon",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81AIpWqGiWL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FWV6LC4B/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19870440",
-      "published_at": "2026-08-16T07:39:10+00:00",
-      "revalidated_at": "2026-08-17T16:15:34+00:00"
+      "revalidated_at": "2026-08-17T17:30:58+00:00"
     }
   ]
 }
