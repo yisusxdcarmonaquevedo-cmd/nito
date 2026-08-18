@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-08-18T14:00:15+00:00",
+  "generated_at": "2026-08-18T14:16:26+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0D1TMFTPN",
+      "title": "ThermoMaven P2 Smart Bluetooth Wireless Wi-Fi Meat Thermometer w/ 2 Probes",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 50.0,
+      "price_old": 150.0,
+      "currency": "USD",
+      "discount_pct": 66.7,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "J2SDC6ID",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71Mhqhh0y5L._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0D1TMFTPN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19888245",
+      "published_at": "2026-08-18T14:16:26+00:00",
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
+    },
+    {
+      "asin": "B0FHVKN1PN",
+      "title": "25-Piece 11.8\" Rnfinewow 3D Wooden Flame Flower Working Clock Puzzle Kit",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 71.5,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/21314694.thumb",
+      "url": "https://amazon.com/dp/B0FHVKN1PN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19892415",
+      "published_at": "2026-08-18T14:16:26+00:00",
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
+    },
+    {
+      "asin": "B0FMNKRRPP",
+      "title": "Aeocoo Magnetic Insulated Thermal Door Curtain (Various) from",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.84,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 60.5,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/21314538.thumb",
+      "url": "https://amazon.com/dp/B0FMNKRRPP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19892373",
+      "published_at": "2026-08-18T14:16:26+00:00",
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
+    },
+    {
+      "asin": "B0DPJ33N99",
+      "title": "Bear 8-in-1 Multi-Function Baby Bottle Warmer w/ Time & Temp Control & Automatic Shut-Off (White)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 57.2,
+      "rating": null,
+      "condition": "code",
+      "code": "DCFNXDA5",
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/1/1/3/3/5/6/0/450x450/21308514.thumb",
+      "url": "https://amazon.com/dp/B0DPJ33N99/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19889883",
+      "published_at": "2026-08-18T14:16:26+00:00",
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
+    },
+    {
+      "asin": "B0CVSGMRHJ",
+      "title": "Carhartt Crossbody Zip Bag (2 colors)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.8,
+      "price_old": 32.99,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/812LvkcEo-L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CVSGMRHJ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19892484",
+      "published_at": "2026-08-18T14:16:26+00:00",
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
+    },
     {
       "asin": "B0DS3Q2BGN",
       "title": "$8.99 for 2-Pack 70-Oz Seventh Generation Dishwasher Detergent Gel (Lemon) w/ S&S",
@@ -287,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19891854",
       "published_at": "2026-08-18T11:10:34+00:00",
-      "revalidated_at": "2026-08-18T12:31:12+00:00"
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
     },
     {
       "asin": "B07WNRN9WQ",
@@ -375,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19873305",
       "published_at": "2026-08-18T09:46:17+00:00",
-      "revalidated_at": "2026-08-18T12:31:12+00:00"
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
     },
     {
       "asin": "B07J5LQ5LG",
@@ -1541,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19874682",
       "published_at": "2026-08-17T21:01:34+00:00",
-      "revalidated_at": "2026-08-18T12:31:12+00:00"
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
     },
     {
       "asin": "B0CRTNX7KZ",
@@ -1585,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19870065",
       "published_at": "2026-08-17T19:35:16+00:00",
-      "revalidated_at": "2026-08-18T12:16:34+00:00"
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
     },
     {
       "asin": "B0BX76YG4F",
@@ -1871,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19887897",
       "published_at": "2026-08-17T16:00:45+00:00",
-      "revalidated_at": "2026-08-18T12:16:34+00:00"
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
     },
     {
       "asin": "B09M3Y8QZY",
@@ -1893,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19888701",
       "published_at": "2026-08-17T16:00:45+00:00",
-      "revalidated_at": "2026-08-18T12:16:34+00:00"
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
     },
     {
       "asin": "B0FJMCHS8S",
@@ -1915,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19879092",
       "published_at": "2026-08-17T16:00:45+00:00",
-      "revalidated_at": "2026-08-18T12:16:34+00:00"
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
     },
     {
       "asin": "B08Z8HBLV4",
@@ -1937,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19888857",
       "published_at": "2026-08-17T16:00:45+00:00",
-      "revalidated_at": "2026-08-18T12:16:34+00:00"
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
     },
     {
       "asin": "B00G3L6KOA",
@@ -2003,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19877250",
       "published_at": "2026-08-17T14:45:38+00:00",
-      "revalidated_at": "2026-08-18T12:16:34+00:00"
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
     },
     {
       "asin": "B0BZRC2KNL",
@@ -2113,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19886895",
       "published_at": "2026-08-17T13:30:39+00:00",
-      "revalidated_at": "2026-08-18T12:31:12+00:00"
+      "revalidated_at": "2026-08-18T14:16:26+00:00"
     },
     {
       "asin": "B0CW4PKBH9",
@@ -2532,116 +2642,6 @@
       "deal_key": "sd:19885743",
       "published_at": "2026-08-17T01:00:51+00:00",
       "revalidated_at": "2026-08-18T13:31:17+00:00"
-    },
-    {
-      "asin": "B0FWRZFG42",
-      "title": "Kitsch Scalp Renewal Exfoliating Massage Brush at Amazon",
-      "title_es": "Cepillo masajeador exfoliante Kitsch para la renovación del cuero cabelludo",
-      "headline": null,
-      "post": "Este cepillo masajeador exfoliante Kitsch para el cuero cabelludo ayuda a limpiar profundamente y estimular la circulación capilar. Ideal para mejorar la salud del cuero cabelludo y promover un cabello más fuerte.",
-      "post_en": "This Kitsch Scalp Renewal Exfoliating Massage Brush helps to deeply cleanse and stimulate scalp circulation. It's ideal for improving scalp health and promoting stronger hair.",
-      "price_new": 7.99,
-      "price_old": 12.0,
-      "currency": "USD",
-      "discount_pct": 33.4,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71wa30BtxgL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FWRZFG42/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19884063",
-      "published_at": "2026-08-17T01:00:51+00:00",
-      "revalidated_at": "2026-08-18T13:31:17+00:00"
-    },
-    {
-      "asin": "B0G6JH8R3S",
-      "title": "Amazon – Benazcap Large Cooling Gel Memory Foam Seat Cushion",
-      "title_es": "Benazcap Cojín de Asiento Grande de Espuma Viscoelástica con Gel Refrescante",
-      "headline": null,
-      "post": "Mejora tu comodidad al sentarte con este cojín de asiento Benazcap de espuma viscoelástica con gel refrescante. Ideal para quienes buscan aliviar la presión y mantener una temperatura agradable durante largas horas.",
-      "post_en": "Enhance your sitting comfort with this Benazcap memory foam seat cushion featuring cooling gel. It's perfect for those seeking pressure relief and a pleasant temperature during long hours.",
-      "price_new": 17.99,
-      "price_old": 39.99,
-      "currency": "USD",
-      "discount_pct": 55.0,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "8WVRMXP3",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71bK+YEj11L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G6JH8R3S/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19874952",
-      "published_at": "2026-08-17T00:30:33+00:00",
-      "revalidated_at": "2026-08-18T12:31:12+00:00"
-    },
-    {
-      "asin": "B0DT43R2D9",
-      "title": "BEBIRD Earsight Plus HD Visual Ear Wax Removal Cleaner Tool (White or Blue)",
-      "title_es": "Herramienta de limpieza visual de cera de oídos BEBIRD Earsight Plus HD",
-      "headline": null,
-      "post": "Este innovador limpiador de oídos visual BEBIRD Earsight Plus HD te permite ver y eliminar la cera de forma segura. Ideal para quienes buscan una herramienta de higiene personal avanzada y precisa.",
-      "post_en": "This innovative BEBIRD Earsight Plus HD visual ear cleaner allows you to safely see and remove earwax. Ideal for those seeking an advanced and precise personal hygiene tool.",
-      "price_new": 22.99,
-      "price_old": 49.99,
-      "currency": "USD",
-      "discount_pct": 54.0,
-      "rating": 4.1,
-      "condition": "code",
-      "code": "AXG4ET29",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71rhKNjzHlL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DT43R2D9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19885182",
-      "published_at": "2026-08-17T00:15:37+00:00",
-      "revalidated_at": "2026-08-18T12:31:12+00:00"
-    },
-    {
-      "asin": "B07PHTLJNP",
-      "title": "SAXX Underwear Co. Men's Daytripper Comfort Stretch Boxer Brief Fly 2-Pack, Black/City Blue Heather, Medium",
-      "title_es": "SAXX Underwear Co. Calzoncillos bóxer Daytripper Comfort Stretch (Pack de 2)",
-      "headline": null,
-      "post": "Descubre la comodidad de los calzoncillos SAXX Underwear Co. Daytripper Comfort Stretch Boxer Brief, un pack de dos diseñados para el día a día. Ideales para hombres que buscan soporte y confort duradero.",
-      "post_en": "Discover the comfort of SAXX Underwear Co. Daytripper Comfort Stretch Boxer Briefs, a two-pack designed for everyday wear. Ideal for men seeking lasting support and comfort.",
-      "price_new": 18.7,
-      "price_old": 51.95,
-      "currency": "USD",
-      "discount_pct": 64.0,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/81zDXm91TxL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07PHTLJNP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19885764",
-      "published_at": "2026-08-17T00:15:37+00:00",
-      "revalidated_at": "2026-08-18T12:31:12+00:00"
-    },
-    {
-      "asin": "B09ZNXZXP6",
-      "title": "Amazon – Booms Fishing 10-Rod Garage Fishing Rod Holder",
-      "title_es": "Soporte para 10 cañas de pescar Booms Fishing para garaje",
-      "headline": null,
-      "post": "Este soporte de pared Booms Fishing es ideal para organizar hasta 10 cañas de pescar en tu garaje o trastero. Mantiene tu equipo ordenado y accesible, perfecto para aficionados a la pesca que buscan optimizar su espacio.",
-      "post_en": "This Booms Fishing wall-mounted holder is perfect for organizing up to 10 fishing rods in your garage or storage room. It keeps your equipment tidy and accessible, ideal for fishing enthusiasts looking to optimize their space.",
-      "price_new": 12.99,
-      "price_old": 25.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "SYVZO7H8",
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/61l4lT6ZX8L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09ZNXZXP6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19878894",
-      "published_at": "2026-08-17T00:00:40+00:00",
-      "revalidated_at": "2026-08-18T12:46:15+00:00"
     }
   ]
 }
