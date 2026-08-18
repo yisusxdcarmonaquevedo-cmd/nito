@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-18T22:01:13+00:00",
+  "generated_at": "2026-08-18T22:16:03+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0GSQDBJ7T",
+      "title": "6-Pack, 8x10 Picture Frames, Mat for 5x7 Photos (various) -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.33,
+      "price_old": 20.75,
+      "currency": "USD",
+      "discount_pct": 55.0,
+      "rating": 4.5,
+      "condition": "coupon",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71knKSqfLWL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GSQDBJ7T/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19885788",
+      "published_at": "2026-08-18T22:16:03+00:00",
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
+    },
     {
       "asin": "B0FL2BZX2R",
       "title": "Ufree U-862 Cordless Hair Clippers + Trimmer",
@@ -14,11 +36,11 @@
       "price_old": 60.0,
       "currency": "USD",
       "discount_pct": 40.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/9/5/3/2/3/450x450/21291360.thumb",
+      "image": "https://m.media-amazon.com/images/I/71iL0cYl3EL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FL2BZX2R/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19882635",
@@ -80,11 +102,11 @@
       "price_old": 130.0,
       "currency": "USD",
       "discount_pct": 57.7,
-      "rating": null,
+      "rating": 4.0,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21301128.thumb",
+      "image": "https://m.media-amazon.com/images/I/71AAXwHc2bL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B07TYHPS4P/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19887051",
@@ -102,11 +124,11 @@
       "price_old": 18.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/3/8/5/4/6/4/0/450x450/21287433.thumb",
+      "image": "https://m.media-amazon.com/images/I/71Bxs5CQN8L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DW9F3FSX/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19880937",
@@ -199,29 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19871499",
       "published_at": "2026-08-18T20:46:13+00:00",
-      "revalidated_at": "2026-08-18T20:46:13+00:00"
-    },
-    {
-      "asin": "B0C3PQHGR7",
-      "title": "DEWALT 20V MAX Cordless Drill and Impact Driver, Power Drill Brushless 2-Tool Power Tool Combo Kit, Includes 2 Batteries, Charger and Bag (DCK277D2) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 161.1,
-      "price_old": 249.0,
-      "currency": "USD",
-      "discount_pct": 35.3,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/21270156.thumb",
-      "url": "https://amazon.com/dp/B0C3PQHGR7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19874325",
-      "published_at": "2026-08-18T20:46:13+00:00",
-      "revalidated_at": "2026-08-18T20:46:13+00:00"
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
     },
     {
       "asin": "B0GX6S6P5X",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19889994",
       "published_at": "2026-08-18T19:16:13+00:00",
-      "revalidated_at": "2026-08-18T20:46:13+00:00"
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
     },
     {
       "asin": "B0C1DWC251",
@@ -1343,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19892166",
       "published_at": "2026-08-18T13:01:17+00:00",
-      "revalidated_at": "2026-08-18T20:46:13+00:00"
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
     },
     {
       "asin": "B0F9ZT5MH9",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19884267",
       "published_at": "2026-08-18T11:31:33+00:00",
-      "revalidated_at": "2026-08-18T20:46:13+00:00"
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
     },
     {
       "asin": "B07WNRN9WQ",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19880880",
       "published_at": "2026-08-18T10:01:18+00:00",
-      "revalidated_at": "2026-08-18T20:46:13+00:00"
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
     },
     {
       "asin": "B0GFMJPQFC",
@@ -1541,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19884081",
       "published_at": "2026-08-18T08:31:21+00:00",
-      "revalidated_at": "2026-08-18T20:46:13+00:00"
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
     },
     {
       "asin": "B0D7ZD9MLV",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19885620",
       "published_at": "2026-08-18T07:09:24+00:00",
-      "revalidated_at": "2026-08-18T20:46:13+00:00"
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
     },
     {
       "asin": "B0C9QD8CL9",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19886403",
       "published_at": "2026-08-18T05:16:13+00:00",
-      "revalidated_at": "2026-08-18T20:46:13+00:00"
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
     },
     {
       "asin": "B0CYTY31MQ",
@@ -1739,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19888467",
       "published_at": "2026-08-18T03:46:18+00:00",
-      "revalidated_at": "2026-08-18T20:46:13+00:00"
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
     },
     {
       "asin": "B078YYD66B",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19876578",
       "published_at": "2026-08-18T02:16:34+00:00",
-      "revalidated_at": "2026-08-18T20:46:13+00:00"
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
     },
     {
       "asin": "B0DCJPKQ8S",
@@ -2069,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19888572",
       "published_at": "2026-08-18T01:47:03+00:00",
-      "revalidated_at": "2026-08-18T20:46:13+00:00"
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
     },
     {
       "asin": "B075KWV3JQ",
@@ -2597,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19874682",
       "published_at": "2026-08-17T21:01:34+00:00",
-      "revalidated_at": "2026-08-18T20:33:31+00:00"
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
     },
     {
       "asin": "B0CRTNX7KZ",
@@ -2619,29 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19880751",
       "published_at": "2026-08-17T20:59:17+00:00",
-      "revalidated_at": "2026-08-18T20:33:31+00:00"
-    },
-    {
-      "asin": "B0H2NH7ST4",
-      "title": "TCL S60K S Series 3.1 Channel Sound Bar with Dolby Atmos, DTS:X, Wireless Subwoofer, Bluetooth Music Streaming, and AI Sonic Auto Room Calibration",
-      "title_es": "Barra de sonido TCL S60K S Series 3.1 con Dolby Atmos, DTS:X y subwoofer inalámbrico",
-      "headline": null,
-      "post": "La barra de sonido TCL S60K S Series 3.1 ofrece una experiencia de audio inmersiva con Dolby Atmos y DTS:X, ideal para cine en casa. Incluye un subwoofer inalámbrico y calibración automática de sala para un sonido optimizado.",
-      "post_en": "The TCL S60K S Series 3.1 soundbar delivers an immersive audio experience with Dolby Atmos and DTS:X, perfect for home theater. It includes a wireless subwoofer and AI Sonic auto room calibration for optimized sound.",
-      "price_new": 199.99,
-      "price_old": 299.99,
-      "currency": "USD",
-      "discount_pct": 33.3,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71pQ+gErdIL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H2NH7ST4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19870065",
-      "published_at": "2026-08-17T19:35:16+00:00",
-      "revalidated_at": "2026-08-18T20:33:31+00:00"
+      "revalidated_at": "2026-08-18T22:16:03+00:00"
     }
   ]
 }
