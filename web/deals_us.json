@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-19T16:30:50+00:00",
+  "generated_at": "2026-08-19T16:45:43+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0FDGTG8HP",
+      "title": "EF ECOFLOW Rapid Pro Charger, 146W 4-Post GaN USB C Charger Block",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 47.49,
+      "price_old": 74.99,
+      "currency": "USD",
+      "discount_pct": 36.7,
+      "rating": null,
+      "condition": "code",
+      "code": "NK2KR5ZF",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/5/3/4/7/0/450x450/21268230.thumb",
+      "url": "https://amazon.com/dp/B0FDGTG8HP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19873317",
+      "published_at": "2026-08-19T16:45:43+00:00",
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
+    },
     {
       "asin": "B07N1WW638",
       "title": "TP-Link AC750 Dual-Band Wi-Fi Range Extender w/ Ethernet Port (RE220)",
@@ -14,11 +36,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 61.9,
-      "rating": null,
+      "rating": 4.0,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/2/0/5/3/8/1/8/4/450x450/21286734.thumb",
+      "image": "https://m.media-amazon.com/images/I/41UPCOb1YXL._AC_SL1205_.jpg",
       "url": "https://amazon.com/dp/B07N1WW638/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19880646",
@@ -80,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 90.0,
-      "rating": null,
+      "rating": 4.9,
       "condition": "prime",
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/2/7/9/2/9/3/0/2/450x450/21317310.thumb",
+      "image": "https://m.media-amazon.com/images/I/818AZLWkejL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GCCYSQS5/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19893426",
@@ -221,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19895523",
       "published_at": "2026-08-19T15:00:56+00:00",
-      "revalidated_at": "2026-08-19T15:00:56+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B0DK1XHRQM",
@@ -243,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19889376",
       "published_at": "2026-08-19T15:00:56+00:00",
-      "revalidated_at": "2026-08-19T15:00:56+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B09WYWL7SD",
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19887786",
       "published_at": "2026-08-19T15:00:56+00:00",
-      "revalidated_at": "2026-08-19T15:00:56+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B0CJHB7B59",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19894692",
       "published_at": "2026-08-19T15:00:56+00:00",
-      "revalidated_at": "2026-08-19T15:00:56+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B0G745BH5Y",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19895886",
       "published_at": "2026-08-19T13:13:12+00:00",
-      "revalidated_at": "2026-08-19T15:00:56+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B0DZX98557",
@@ -793,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19877778",
       "published_at": "2026-08-19T11:44:02+00:00",
-      "revalidated_at": "2026-08-19T15:00:56+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B0FKSQ2YXS",
@@ -1365,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19894662",
       "published_at": "2026-08-19T00:46:02+00:00",
-      "revalidated_at": "2026-08-19T15:00:56+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B0C8VMDMCV",
@@ -1497,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19892505",
       "published_at": "2026-08-19T00:16:03+00:00",
-      "revalidated_at": "2026-08-19T14:44:27+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B0F93BVGB6",
@@ -1827,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19879917",
       "published_at": "2026-08-18T22:46:12+00:00",
-      "revalidated_at": "2026-08-19T14:44:27+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B07GDF35G6",
@@ -1915,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19882521",
       "published_at": "2026-08-18T21:46:11+00:00",
-      "revalidated_at": "2026-08-19T14:44:27+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B07TYHPS4P",
@@ -1937,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19887051",
       "published_at": "2026-08-18T21:31:19+00:00",
-      "revalidated_at": "2026-08-19T14:44:27+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B0DW9F3FSX",
@@ -1959,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19880937",
       "published_at": "2026-08-18T21:31:19+00:00",
-      "revalidated_at": "2026-08-19T14:44:27+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B0GJ8XC4WG",
@@ -1981,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19889511",
       "published_at": "2026-08-18T21:31:19+00:00",
-      "revalidated_at": "2026-08-19T15:00:56+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B0DB995J8X",
@@ -2003,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19873095",
       "published_at": "2026-08-18T21:31:19+00:00",
-      "revalidated_at": "2026-08-19T15:00:56+00:00"
+      "revalidated_at": "2026-08-19T16:45:43+00:00"
     },
     {
       "asin": "B093TNJY8D",
@@ -2619,28 +2641,6 @@
       "source": "slickdeals",
       "deal_key": "sd:19889250",
       "published_at": "2026-08-18T16:14:32+00:00",
-      "revalidated_at": "2026-08-19T16:00:47+00:00"
-    },
-    {
-      "asin": "B0DSVKLNQR",
-      "title": "Fanttik E2 Ultra Electric Precision Screwdriver Set w/ 50-Piece S2 Steel Bits (Space Grey)",
-      "title_es": "Fanttik E2 Ultra Set de destornillador eléctrico de precisión con 50 puntas de acero S2 (Space Grey)",
-      "headline": null,
-      "post": "El set Fanttik E2 Ultra incluye un destornillador eléctrico de precisión y 50 puntas de acero S2 para trabajos delicados. Es una herramienta esencial para reparaciones de electrónica, gafas o pequeños electrodomésticos.",
-      "post_en": "The Fanttik E2 Ultra set includes a precision electric screwdriver and 50 S2 steel bits for delicate tasks. It's an essential tool for repairing electronics, eyeglasses, or small appliances.",
-      "price_new": 49.27,
-      "price_old": 79.99,
-      "currency": "USD",
-      "discount_pct": 38.4,
-      "rating": null,
-      "condition": "code",
-      "code": "TVL7UFMJ",
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/7/4/7/9/3/450x450/21305616.thumb",
-      "url": "https://amazon.com/dp/B0DSVKLNQR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19888788",
-      "published_at": "2026-08-18T16:01:26+00:00",
       "revalidated_at": "2026-08-19T16:00:47+00:00"
     }
   ]
