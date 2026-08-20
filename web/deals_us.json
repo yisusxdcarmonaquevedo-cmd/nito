@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-20T15:46:36+00:00",
+  "generated_at": "2026-08-20T15:52:56+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B002DYIZEO",
+      "title": "Optimum Nutrition Creatine Monohydrate Powder, Unflavored, 1.32 LB",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 17.99,
+      "price_old": 27.99,
+      "currency": "USD",
+      "discount_pct": 35.7,
+      "rating": 4.6,
+      "condition": null,
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71IBf0W5hsL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B002DYIZEO/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19898481",
+      "published_at": "2026-08-20T15:52:56+00:00",
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
+    },
     {
       "asin": "B0H1ZYG7FH",
       "title": "8' Vitalismo Artificial Indoor Olive Tree in Black Basic Pot",
@@ -14,11 +36,11 @@
       "price_old": 133.99,
       "currency": "USD",
       "discount_pct": 55.2,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/21304365.thumb",
+      "image": "https://m.media-amazon.com/images/I/71Ld80CkfaL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H1ZYG7FH/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19888335",
@@ -58,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 62.0,
-      "rating": null,
+      "rating": 4.0,
       "condition": "code",
       "code": "K8F6E3VU",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/21339615.thumb",
+      "image": "https://m.media-amazon.com/images/I/61HvUghUu0L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DD74T3LF/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19902006",
@@ -617,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19900611",
       "published_at": "2026-08-20T11:00:57+00:00",
-      "revalidated_at": "2026-08-20T14:31:39+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B0F1WZKCN3",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19900560",
       "published_at": "2026-08-20T11:00:57+00:00",
-      "revalidated_at": "2026-08-20T14:31:39+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B0H2NCQ9FB",
@@ -727,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19900365",
       "published_at": "2026-08-20T09:30:56+00:00",
-      "revalidated_at": "2026-08-20T14:31:39+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B09P45LR5T",
@@ -793,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19890030",
       "published_at": "2026-08-20T07:59:55+00:00",
-      "revalidated_at": "2026-08-20T14:31:39+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B0G82LBKFH",
@@ -815,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19900437",
       "published_at": "2026-08-20T07:59:55+00:00",
-      "revalidated_at": "2026-08-20T14:31:39+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B0F4JLP6PY",
@@ -1321,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19898901",
       "published_at": "2026-08-20T02:01:23+00:00",
-      "revalidated_at": "2026-08-20T14:31:39+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B0GYMVBK36",
@@ -1343,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19898430",
       "published_at": "2026-08-20T02:01:23+00:00",
-      "revalidated_at": "2026-08-20T14:31:39+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B09M75RG8L",
@@ -1365,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19898379",
       "published_at": "2026-08-20T02:01:23+00:00",
-      "revalidated_at": "2026-08-20T14:31:39+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B0BX5B23TL",
@@ -1387,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19898667",
       "published_at": "2026-08-20T02:01:23+00:00",
-      "revalidated_at": "2026-08-20T14:31:39+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B0FBZYSJXM",
@@ -1409,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19889940",
       "published_at": "2026-08-20T02:01:23+00:00",
-      "revalidated_at": "2026-08-20T14:31:39+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B0CTMKNWF7",
@@ -2245,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19889478",
       "published_at": "2026-08-19T21:00:59+00:00",
-      "revalidated_at": "2026-08-20T14:31:39+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B0GZW195KW",
@@ -2333,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19889247",
       "published_at": "2026-08-19T20:00:38+00:00",
-      "revalidated_at": "2026-08-20T14:31:39+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B0H6SD9317",
@@ -2355,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19884153",
       "published_at": "2026-08-19T20:00:38+00:00",
-      "revalidated_at": "2026-08-20T14:31:39+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B0FHB8BPY2",
@@ -2443,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19886844",
       "published_at": "2026-08-19T19:30:44+00:00",
-      "revalidated_at": "2026-08-20T14:16:25+00:00"
+      "revalidated_at": "2026-08-20T15:52:56+00:00"
     },
     {
       "asin": "B0DYNX3R8M",
@@ -2618,28 +2640,6 @@
       "url": "https://amazon.com/dp/B086GBVDSK/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19896753",
-      "published_at": "2026-08-19T18:15:52+00:00",
-      "revalidated_at": "2026-08-20T15:16:34+00:00"
-    },
-    {
-      "asin": "B00AG0VMTC",
-      "title": "Plant-Strong: Discover the World's Healthiest Diet--with 150 Engine 2 Recipes (eBook) by Rip Esselstyn",
-      "title_es": "Plant-Strong: Descubre la dieta más saludable del mundo con 150 recetas Engine 2 (eBook) de Rip Esselstyn.",
-      "headline": null,
-      "post": "Este eBook 'Plant-Strong' te guía para descubrir una de las dietas más saludables del mundo. Incluye 150 recetas Engine 2, ideal para quienes buscan una alimentación basada en plantas y mejorar su bienestar.",
-      "post_en": "This 'Plant-Strong' eBook guides you to discover one of the world's healthiest diets. It includes 150 Engine 2 recipes, ideal for those seeking a plant-based diet and improved well-being.",
-      "price_new": 1.99,
-      "price_old": 11.99,
-      "currency": "USD",
-      "discount_pct": 83.4,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21329607.thumb",
-      "url": "https://amazon.com/dp/B00AG0VMTC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19897764",
       "published_at": "2026-08-19T18:15:52+00:00",
       "revalidated_at": "2026-08-20T15:16:34+00:00"
     }
