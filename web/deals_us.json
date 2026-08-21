@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-08-21T18:00:44+00:00",
+  "generated_at": "2026-08-21T18:16:04+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0C1XMCFRH",
+      "title": "adidas Starlancer Club Size 4 Soccer Ball (Solar Pink/White)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 61.5,
+      "rating": 4.5,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/71OHx9EC0ZL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0C1XMCFRH/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19905000",
+      "published_at": "2026-08-21T18:16:04+00:00",
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
+    },
+    {
+      "asin": "B08C2LC3H2",
+      "title": "Topsky Dual-Motor Electric Height-Adjustable Desk Frame (225-Lb Capacity)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 98.99,
+      "price_old": 200.0,
+      "currency": "USD",
+      "discount_pct": 50.5,
+      "rating": 4.2,
+      "condition": "code",
+      "code": "MD57EUO3",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/51SesPZG72L._AC_SL1200_.jpg",
+      "url": "https://amazon.com/dp/B08C2LC3H2/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19906878",
+      "published_at": "2026-08-21T18:16:04+00:00",
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
+    },
+    {
+      "asin": "B0H4F9YPLW",
+      "title": "Amazon – G Gradual Women's Long-Sleeve Workout Top",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.49,
+      "price_old": 14.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": "code",
+      "code": "G9VYLU3U",
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21339093.thumb",
+      "url": "https://amazon.com/dp/B0H4F9YPLW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19901832",
+      "published_at": "2026-08-21T18:16:04+00:00",
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
+    },
+    {
+      "asin": "B00K3LH4UK",
+      "title": "Victorinox Ranger 79 M Grip 12-Function Swiss Army Folding Knife (Red/Black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 49.31,
+      "price_old": 88.0,
+      "currency": "USD",
+      "discount_pct": 44.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/3/2/4/1/2/8/9/8/450x450/21351732.thumb",
+      "url": "https://amazon.com/dp/B00K3LH4UK/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19907022",
+      "published_at": "2026-08-21T18:16:04+00:00",
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
+    },
     {
       "asin": "B0F6N88NHD",
       "title": "AstroAI P10 5000A Car Battery Jump Starter & Power Bank",
@@ -155,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19907076",
       "published_at": "2026-08-21T16:45:22+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
     },
     {
       "asin": "B0GKMT933X",
@@ -177,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19906962",
       "published_at": "2026-08-21T16:45:22+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
     },
     {
       "asin": "B0C1SZQRVL",
@@ -199,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19906974",
       "published_at": "2026-08-21T16:45:22+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
     },
     {
       "asin": "B0F242WC7M",
@@ -212,16 +300,16 @@
       "price_old": 33.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.2,
       "condition": "code",
       "code": "XXSNRBO9",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21339129.thumb",
+      "image": "https://m.media-amazon.com/images/I/61-GqZ7j0uL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F242WC7M/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19901850",
       "published_at": "2026-08-21T16:45:22+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
     },
     {
       "asin": "B004DCV1FO",
@@ -661,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19905255",
       "published_at": "2026-08-21T13:00:56+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
     },
     {
       "asin": "B0H11N5M16",
@@ -683,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19905807",
       "published_at": "2026-08-21T13:00:56+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
     },
     {
       "asin": "B0DH4MJ757",
@@ -705,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19905693",
       "published_at": "2026-08-21T13:00:56+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
     },
     {
       "asin": "B0BTPB23LB",
@@ -2267,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19903311",
       "published_at": "2026-08-20T20:46:37+00:00",
-      "revalidated_at": "2026-08-21T16:30:45+00:00"
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
     },
     {
       "asin": "B01LL8C1ZQ",
@@ -2289,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19900662",
       "published_at": "2026-08-20T20:31:33+00:00",
-      "revalidated_at": "2026-08-21T16:30:45+00:00"
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
     },
     {
       "asin": "B0FMY62LL5",
@@ -2311,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19903044",
       "published_at": "2026-08-20T20:31:33+00:00",
-      "revalidated_at": "2026-08-21T16:30:45+00:00"
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
     },
     {
       "asin": "B0D9YS69TN",
@@ -2531,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19898613",
       "published_at": "2026-08-20T18:46:37+00:00",
-      "revalidated_at": "2026-08-21T16:30:45+00:00"
+      "revalidated_at": "2026-08-21T18:16:04+00:00"
     },
     {
       "asin": "B0037LOPQY",
@@ -2554,72 +2642,6 @@
       "deal_key": "sd:19900371",
       "published_at": "2026-08-20T18:31:41+00:00",
       "revalidated_at": "2026-08-21T17:45:52+00:00"
-    },
-    {
-      "asin": "B0GQM58XNH",
-      "title": "18\" Glocusent USB Powered 57 LED Clip-on Reading 2.75\" Desk Lamp",
-      "title_es": "Lámpara de lectura Glocusent USB de 18\" con 57 LED y clip para escritorio",
-      "headline": null,
-      "post": "Esta lámpara Glocusent es ideal para leer o trabajar en tu escritorio, ofreciendo iluminación potente con 57 LED. Se alimenta por USB y se sujeta fácilmente, perfecta para espacios reducidos o para llevarla contigo.",
-      "post_en": "This Glocusent lamp is ideal for reading or working at your desk, offering powerful illumination with 57 LEDs. It's USB-powered and easily clips on, perfect for small spaces or taking it with you.",
-      "price_new": 11.98,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 65.8,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "PQUMFACX",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71JHkK3wtIL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GQM58XNH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19897902",
-      "published_at": "2026-08-20T18:31:41+00:00",
-      "revalidated_at": "2026-08-21T17:45:52+00:00"
-    },
-    {
-      "asin": "B0H83T7BM2",
-      "title": "Ekouaer Women Pajama Set Jogger Sleepwear Long Lounge Set with Pocket",
-      "title_es": "Conjunto de pijama Ekouaer de mujer estilo jogger con bolsillo",
-      "headline": null,
-      "post": "Descubre este cómodo conjunto de pijama Ekouaer para mujer, perfecto para dormir o relajarte en casa. Incluye pantalones estilo jogger y una parte superior a juego con un práctico bolsillo.",
-      "post_en": "Discover this comfortable Ekouaer pajama set for women, perfect for sleeping or lounging at home. It includes jogger-style pants and a matching top with a convenient pocket.",
-      "price_new": 10.99,
-      "price_old": 27.99,
-      "currency": "USD",
-      "discount_pct": 60.7,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61LbO83D6DL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H83T7BM2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19902258",
-      "published_at": "2026-08-20T18:16:48+00:00",
-      "revalidated_at": "2026-08-21T17:49:05+00:00"
-    },
-    {
-      "asin": "B0FV88W3X5",
-      "title": "[Prime] HAPBEAR 72\" x 24\" Non-Slip Microfiber Hot Yoga Towel Mat (Blue or Grey)",
-      "title_es": "Toalla de yoga HAPBEAR de microfibra antideslizante 72\"x24\" (azul o gris)",
-      "headline": null,
-      "post": "Mejora tu práctica de yoga con esta toalla HAPBEAR de microfibra antideslizante, ideal para hot yoga y para colocar sobre tu esterilla. Absorbe la humedad y proporciona una superficie higiénica y segura para tus posturas.",
-      "post_en": "Enhance your yoga practice with this HAPBEAR non-slip microfiber towel, ideal for hot yoga and for placing over your mat. It absorbs moisture and provides a hygienic, secure surface for your poses.",
-      "price_new": 9.89,
-      "price_old": 22.99,
-      "currency": "USD",
-      "discount_pct": 57.0,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "4S2OEGPZ",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71hZmldkCHL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FV88W3X5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19902075",
-      "published_at": "2026-08-20T18:16:48+00:00",
-      "revalidated_at": "2026-08-21T17:49:05+00:00"
     }
   ]
 }
