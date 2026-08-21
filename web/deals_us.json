@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-21T15:00:38+00:00",
+  "generated_at": "2026-08-21T15:15:56+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0FPLKHPGY",
+      "title": "Race Track Car Adventure Toy w/ Steering Wheel & Sound for Toddlers (Pink or Green)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.06,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 62.7,
+      "rating": null,
+      "condition": "code",
+      "code": "FLRCAVTT",
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/3/7/4/7/9/3/450x450/21320742.thumb",
+      "url": "https://amazon.com/dp/B0FPLKHPGY/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19894518",
+      "published_at": "2026-08-21T15:15:56+00:00",
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
+    },
+    {
+      "asin": "B0F21LF3CM",
+      "title": "Greenworks 24V 13 in String Trimmer, 20 Blades, 4.0 Ah Battery",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 89.99,
+      "price_old": 169.99,
+      "currency": "USD",
+      "discount_pct": 47.1,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/21349608.thumb",
+      "url": "https://amazon.com/dp/B0F21LF3CM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19906296",
+      "published_at": "2026-08-21T15:15:56+00:00",
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
+    },
     {
       "asin": "B0FX4GD2RN",
       "title": "XenGro Wireless Portable Bluetooth Mini Label Printer w/ Tape",
@@ -36,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 38.4,
-      "rating": null,
+      "rating": 4.5,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/21314640.thumb",
+      "image": "https://m.media-amazon.com/images/I/818dRJiF8sL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B00MDRTV8A/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19892397",
@@ -485,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19904223",
       "published_at": "2026-08-21T09:54:42+00:00",
-      "revalidated_at": "2026-08-21T13:14:47+00:00"
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
     },
     {
       "asin": "B0DMPTN8DG",
@@ -705,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19905009",
       "published_at": "2026-08-21T06:45:41+00:00",
-      "revalidated_at": "2026-08-21T13:14:47+00:00"
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
     },
     {
       "asin": "B0GXW2TCZ1",
@@ -837,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19904532",
       "published_at": "2026-08-21T05:15:42+00:00",
-      "revalidated_at": "2026-08-21T13:14:47+00:00"
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
     },
     {
       "asin": "B0H5M6YSM3",
@@ -881,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19904016",
       "published_at": "2026-08-21T05:00:55+00:00",
-      "revalidated_at": "2026-08-21T13:00:56+00:00"
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
     },
     {
       "asin": "B0DPPLWYGX",
@@ -903,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19889349",
       "published_at": "2026-08-21T05:00:55+00:00",
-      "revalidated_at": "2026-08-21T13:00:56+00:00"
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
     },
     {
       "asin": "B0GGCGP4SN",
@@ -947,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19903935",
       "published_at": "2026-08-21T03:31:08+00:00",
-      "revalidated_at": "2026-08-21T13:14:47+00:00"
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
     },
     {
       "asin": "B0GJ3GD9K4",
@@ -1211,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19903674",
       "published_at": "2026-08-21T00:16:42+00:00",
-      "revalidated_at": "2026-08-21T13:14:47+00:00"
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
     },
     {
       "asin": "B0FWC56FT4",
@@ -1233,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19903551",
       "published_at": "2026-08-21T00:16:42+00:00",
-      "revalidated_at": "2026-08-21T13:14:47+00:00"
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
     },
     {
       "asin": "B0DGGZDHCV",
@@ -1255,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19903977",
       "published_at": "2026-08-21T00:16:42+00:00",
-      "revalidated_at": "2026-08-21T13:14:47+00:00"
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
     },
     {
       "asin": "B0GF1VC179",
@@ -1277,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19903923",
       "published_at": "2026-08-21T00:16:42+00:00",
-      "revalidated_at": "2026-08-21T13:14:47+00:00"
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
     },
     {
       "asin": "B0GDZZKGNC",
@@ -1299,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19903836",
       "published_at": "2026-08-21T00:16:42+00:00",
-      "revalidated_at": "2026-08-21T13:14:47+00:00"
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
     },
     {
       "asin": "B0FQV41K8J",
@@ -2377,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19902276",
       "published_at": "2026-08-20T17:46:41+00:00",
-      "revalidated_at": "2026-08-21T13:00:56+00:00"
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
     },
     {
       "asin": "B0FT3B5THT",
@@ -2399,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19902495",
       "published_at": "2026-08-20T17:31:36+00:00",
-      "revalidated_at": "2026-08-21T13:00:56+00:00"
+      "revalidated_at": "2026-08-21T15:15:56+00:00"
     },
     {
       "asin": "B0DP2C3LS9",
@@ -2598,28 +2642,6 @@
       "deal_key": "sd:19897437",
       "published_at": "2026-08-20T16:45:41+00:00",
       "revalidated_at": "2026-08-21T14:45:43+00:00"
-    },
-    {
-      "asin": "B0FC1ZQRYP",
-      "title": "Vibration Plate Exercise Machine: Vibrating Platform with Resistance Bands Slot, 300 Lbs Capacity, 120-Speed, 9 Workout Modes",
-      "title_es": "Plataforma vibratoria de ejercicio con bandas de resistencia (capacidad 300 Lbs, 120 velocidades, 9 modos)",
-      "headline": null,
-      "post": "Mejora tu rutina de ejercicios con esta plataforma vibratoria que incluye ranura para bandas de resistencia, ideal para un entrenamiento completo en casa. Ofrece 120 velocidades y 9 modos de entrenamiento, adaptándose a diversas intensidades.",
-      "post_en": "Enhance your workout routine with this vibration plate exercise machine, featuring a resistance bands slot, ideal for a full home workout. It offers 120 speeds and 9 workout modes, adapting to various intensities.",
-      "price_new": 42.49,
-      "price_old": 89.99,
-      "currency": "USD",
-      "discount_pct": 52.8,
-      "rating": 4.5,
-      "condition": "code",
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/61UiNGVdVJL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FC1ZQRYP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19902087",
-      "published_at": "2026-08-20T16:31:30+00:00",
-      "revalidated_at": "2026-08-21T13:14:47+00:00"
     }
   ]
 }
