@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-21T23:31:25+00:00",
+  "generated_at": "2026-08-21T23:46:23+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0FP2Z5242",
+      "title": "iVANKY 4K@144Hz 8-in-1 Steam Deck Docking Station (ASUS ROG Ally X/Valve Steam Deck OLED/Legion Go 2/S)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 20.0,
+      "price_old": 39.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/3/4/2/9/3/0/8/450x450/21353328.thumb",
+      "url": "https://amazon.com/dp/B0FP2Z5242/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19907682",
+      "published_at": "2026-08-21T23:46:23+00:00",
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
+    },
+    {
+      "asin": "B0F95PGXH3",
+      "title": "Tomb Raider IV-VI Remastered Starring Lara Croft (Nintendo Switch) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.99,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 33.3,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21354849.thumb",
+      "url": "https://amazon.com/dp/B0F95PGXH3/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19908420",
+      "published_at": "2026-08-21T23:46:23+00:00",
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
+    },
     {
       "asin": "B0C8KWRH39",
       "title": "Case-Mate Travel Tech Organizer w/ External Zipper Pocket (Black)",
@@ -58,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 71.5,
-      "rating": null,
+      "rating": 4.1,
       "condition": "code",
       "code": "3KYTXPWP",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21354276.thumb",
+      "image": "https://m.media-amazon.com/images/I/61QjcwJhuML._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FP2C255J/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19908057",
@@ -112,28 +156,6 @@
       "deal_key": "sd:19907127",
       "published_at": "2026-08-21T22:31:24+00:00",
       "revalidated_at": "2026-08-21T22:31:24+00:00"
-    },
-    {
-      "asin": "B0GGHNMX7M",
-      "title": "WARWOLF 160PSI Rechargeable Portable Air Compressor Tire Inflator w/ Auto Shut-Off & LED Flashlight",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.5,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "A84MDK6GQ",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71dk9xDm0uL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GGHNMX7M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19907958",
-      "published_at": "2026-08-21T22:16:08+00:00",
-      "revalidated_at": "2026-08-21T22:16:08+00:00"
     },
     {
       "asin": "B087DP3BYL",
@@ -419,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19894071",
       "published_at": "2026-08-21T21:00:36+00:00",
-      "revalidated_at": "2026-08-21T22:16:08+00:00"
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
     },
     {
       "asin": "B0FLLNVXFG",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19907430",
       "published_at": "2026-08-21T19:45:47+00:00",
-      "revalidated_at": "2026-08-21T22:16:08+00:00"
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
     },
     {
       "asin": "B0C3B4B4XL",
@@ -683,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19907244",
       "published_at": "2026-08-21T19:45:47+00:00",
-      "revalidated_at": "2026-08-21T22:16:08+00:00"
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
     },
     {
       "asin": "B0F4811RW6",
@@ -1189,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19906434",
       "published_at": "2026-08-21T16:30:45+00:00",
-      "revalidated_at": "2026-08-21T22:16:08+00:00"
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
     },
     {
       "asin": "B0FX7WH9DJ",
@@ -1211,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19894506",
       "published_at": "2026-08-21T16:30:45+00:00",
-      "revalidated_at": "2026-08-21T22:16:08+00:00"
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
     },
     {
       "asin": "B0FD7PD58L",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19897554",
       "published_at": "2026-08-21T16:30:45+00:00",
-      "revalidated_at": "2026-08-21T22:16:08+00:00"
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
     },
     {
       "asin": "B0GKFT114W",
@@ -1651,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19902630",
       "published_at": "2026-08-21T12:45:47+00:00",
-      "revalidated_at": "2026-08-21T22:16:08+00:00"
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
     },
     {
       "asin": "B0FPGF4VDX",
@@ -1695,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19896402",
       "published_at": "2026-08-21T12:30:48+00:00",
-      "revalidated_at": "2026-08-21T22:16:08+00:00"
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
     },
     {
       "asin": "B0DLCMMS8L",
@@ -1717,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19905732",
       "published_at": "2026-08-21T12:15:13+00:00",
-      "revalidated_at": "2026-08-21T22:16:08+00:00"
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
     },
     {
       "asin": "B0FMSC41B5",
@@ -1827,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19904868",
       "published_at": "2026-08-21T11:00:58+00:00",
-      "revalidated_at": "2026-08-21T22:16:08+00:00"
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
     },
     {
       "asin": "B06XYGVLRQ",
@@ -2025,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19903506",
       "published_at": "2026-08-21T07:51:07+00:00",
-      "revalidated_at": "2026-08-21T22:16:08+00:00"
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
     },
     {
       "asin": "B0GCJQ3F51",
@@ -2487,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19901760",
       "published_at": "2026-08-21T00:45:56+00:00",
-      "revalidated_at": "2026-08-21T22:01:17+00:00"
+      "revalidated_at": "2026-08-21T23:46:23+00:00"
     },
     {
       "asin": "B0GDCPBYHF",
@@ -2598,50 +2620,6 @@
       "deal_key": "sd:19903977",
       "published_at": "2026-08-21T00:16:42+00:00",
       "revalidated_at": "2026-08-21T23:16:17+00:00"
-    },
-    {
-      "asin": "B0GF1VC179",
-      "title": "Berydress Women's V-Neck Short Sleeve Babydoll Mini Sundress (Various)",
-      "title_es": "Vestido Mini Babydoll de Manga Corta y Cuello V Berydress para Mujer",
-      "headline": null,
-      "post": "Este vestido mini babydoll Berydress de manga corta y cuello V es una prenda fresca y versátil para cualquier ocasión casual. Su diseño ligero y cómodo lo hace ideal para el verano o para combinar en otras estaciones.",
-      "post_en": "This Berydress V-neck short sleeve babydoll mini sundress is a fresh and versatile garment for any casual occasion. Its light and comfortable design makes it ideal for summer or for layering in other seasons.",
-      "price_new": 9.95,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.6,
-      "rating": 4.1,
-      "condition": "code",
-      "code": "7URJ7G4K",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61e06IAQ1RL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GF1VC179/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19903923",
-      "published_at": "2026-08-21T00:16:42+00:00",
-      "revalidated_at": "2026-08-21T23:16:17+00:00"
-    },
-    {
-      "asin": "B0GDZZKGNC",
-      "title": "20\" addlon IP65 Outdoor Plug-In Ceiling Fan w/ Remote & App Control (Black)",
-      "title_es": "Ventilador de Techo Exterior addlon IP65 de 20\" con Control Remoto y por App",
-      "headline": null,
-      "post": "Este ventilador de techo exterior addlon de 20 pulgadas con certificación IP65 es perfecto para mantener frescos tus espacios al aire libre. Ofrece control conveniente mediante un mando a distancia o desde tu smartphone.",
-      "post_en": "This 20-inch addlon IP65 outdoor ceiling fan is perfect for keeping your outdoor spaces cool. It offers convenient control via remote or from your smartphone.",
-      "price_new": 49.99,
-      "price_old": 106.99,
-      "currency": "USD",
-      "discount_pct": 53.3,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "Y50BEW4H",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81-KWJXoCfL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GDZZKGNC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19903836",
-      "published_at": "2026-08-21T00:16:42+00:00",
-      "revalidated_at": "2026-08-21T23:31:25+00:00"
     }
   ]
 }
