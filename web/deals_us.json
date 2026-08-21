@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T18:16:04+00:00",
+  "generated_at": "2026-08-21T18:30:45+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0C1XMCFRH",
@@ -80,11 +80,11 @@
       "price_old": 88.0,
       "currency": "USD",
       "discount_pct": 44.0,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/2/4/1/2/8/9/8/450x450/21351732.thumb",
+      "image": "https://m.media-amazon.com/images/I/6183D9xx6wL._AC_SL1080_.jpg",
       "url": "https://amazon.com/dp/B00K3LH4UK/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19907022",
@@ -199,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19907019",
       "published_at": "2026-08-21T17:00:41+00:00",
-      "revalidated_at": "2026-08-21T17:00:41+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B0DT7CW7VR",
@@ -221,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19906779",
       "published_at": "2026-08-21T17:00:41+00:00",
-      "revalidated_at": "2026-08-21T17:00:41+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B0GRVFV1ZH",
@@ -573,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19894518",
       "published_at": "2026-08-21T15:15:56+00:00",
-      "revalidated_at": "2026-08-21T17:00:41+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B0F21LF3CM",
@@ -595,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19906296",
       "published_at": "2026-08-21T15:15:56+00:00",
-      "revalidated_at": "2026-08-21T17:00:41+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B0FX4GD2RN",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19904223",
       "published_at": "2026-08-21T09:54:42+00:00",
-      "revalidated_at": "2026-08-21T17:00:41+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B0DMPTN8DG",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19905216",
       "published_at": "2026-08-21T09:45:58+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B0H35L2WMX",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19902012",
       "published_at": "2026-08-21T09:45:58+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B0C2BMNHW2",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19904487",
       "published_at": "2026-08-21T09:45:58+00:00",
-      "revalidated_at": "2026-08-21T17:00:41+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B0DKHPVD98",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19905009",
       "published_at": "2026-08-21T06:45:41+00:00",
-      "revalidated_at": "2026-08-21T17:00:41+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B0GXW2TCZ1",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19901862",
       "published_at": "2026-08-21T06:30:45+00:00",
-      "revalidated_at": "2026-08-21T17:00:41+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B0992V3N2M",
@@ -2465,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19902528",
       "published_at": "2026-08-20T19:31:40+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B0GHS19P81",
@@ -2487,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19902813",
       "published_at": "2026-08-20T19:31:40+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B0D2V8422W",
@@ -2509,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19901829",
       "published_at": "2026-08-20T19:31:40+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B0FSS88Y4X",
@@ -2534,28 +2534,6 @@
       "revalidated_at": "2026-08-21T17:00:41+00:00"
     },
     {
-      "asin": "B0CLXWS8B7",
-      "title": "OREiN 4500LM Hardwired Outdoor LED Flood Light w/ Motion Sensor, 180° 50' Detection & Dusk-to-Dawn Mode (Black)",
-      "title_es": "Foco LED exterior OREiN de 4500LM con sensor de movimiento, detección de 180° y 50', modo anochecer-amanecer (Negro)",
-      "headline": null,
-      "post": "Este foco LED exterior OREiN de 4500LM ofrece iluminación potente con un sensor de movimiento de 180° y 50 pies de alcance. Ideal para seguridad y visibilidad en entradas o jardines, activándose automáticamente al anochecer.",
-      "post_en": "This OREiN 4500LM hardwired outdoor LED flood light provides powerful illumination with a 180° and 50-foot motion sensor. It's ideal for security and visibility in driveways or gardens, activating automatically at dusk.",
-      "price_new": 16.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 51.5,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "Q2IVTPTK",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61iAoblGS8L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CLXWS8B7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19902645",
-      "published_at": "2026-08-20T19:05:11+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
-    },
-    {
       "asin": "B09XQ5WSF5",
       "title": "Logitech H390 USB-A Wired Stereo Headset w/ Noise Canceling Mic (Off-White)",
       "title_es": "Auriculares estéreo con cable USB-A Logitech H390 con micrófono con cancelación de ruido (Blanco roto)",
@@ -2575,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19899624",
       "published_at": "2026-08-20T19:05:11+00:00",
-      "revalidated_at": "2026-08-21T16:45:22+00:00"
+      "revalidated_at": "2026-08-21T18:30:45+00:00"
     },
     {
       "asin": "B07X3XTCHW",
