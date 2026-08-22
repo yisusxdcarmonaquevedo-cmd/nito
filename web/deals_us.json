@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T18:30:55+00:00",
+  "generated_at": "2026-08-22T18:45:55+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
     {
       "asin": "B00NON258U",
@@ -36,11 +36,11 @@
       "price_old": 35.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "RTK977IM",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21359049.thumb",
+      "image": "https://m.media-amazon.com/images/I/61fxwkASQgL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0HFVYDHMN/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19910607",
@@ -111,7 +111,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19910583",
       "published_at": "2026-08-22T17:29:30+00:00",
-      "revalidated_at": "2026-08-22T17:29:30+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B0786QYJHR",
@@ -133,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19907616",
       "published_at": "2026-08-22T17:29:30+00:00",
-      "revalidated_at": "2026-08-22T17:29:30+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B0FNRDKZYR",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19898556",
       "published_at": "2026-08-22T11:45:56+00:00",
-      "revalidated_at": "2026-08-22T17:29:30+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B003YVWHOE",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19908855",
       "published_at": "2026-08-22T05:58:07+00:00",
-      "revalidated_at": "2026-08-22T17:29:30+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B0DHH6KLVF",
@@ -1014,28 +1014,6 @@
       "deal_key": "sd:19909191",
       "published_at": "2026-08-22T05:31:06+00:00",
       "revalidated_at": "2026-08-22T18:08:58+00:00"
-    },
-    {
-      "asin": "B0FN6M54YX",
-      "title": "Les Miserables: 10th Anniversary Concert at the Royal Albert Hall (Vinyl)",
-      "title_es": "Les Misérables: Concierto del 10º Aniversario en el Royal Albert Hall (Vinilo)",
-      "headline": null,
-      "post": "Disfruta de la icónica celebración del décimo aniversario de Les Misérables en el Royal Albert Hall en formato vinilo. Ideal para coleccionistas y amantes de los musicales que buscan una experiencia auditiva clásica y memorable. 🎶",
-      "post_en": "Enjoy the iconic 10th Anniversary Concert of Les Misérables at the Royal Albert Hall on vinyl. Perfect for collectors and musical lovers seeking a classic and memorable listening experience. 🎶",
-      "price_new": 20.65,
-      "price_old": 49.98,
-      "currency": "USD",
-      "discount_pct": 58.7,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/91VVO1LrNYL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FN6M54YX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19905840",
-      "published_at": "2026-08-22T04:31:01+00:00",
-      "revalidated_at": "2026-08-22T17:29:30+00:00"
     },
     {
       "asin": "B0BWTW5DX2",
@@ -1189,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19908075",
       "published_at": "2026-08-22T03:15:56+00:00",
-      "revalidated_at": "2026-08-22T17:29:30+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B0FCSC22RH",
@@ -1365,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19902459",
       "published_at": "2026-08-22T01:31:21+00:00",
-      "revalidated_at": "2026-08-22T17:29:30+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B0GKG14M8Z",
@@ -1387,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19908597",
       "published_at": "2026-08-22T01:31:21+00:00",
-      "revalidated_at": "2026-08-22T17:29:30+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B000GG64O4",
@@ -1497,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19906866",
       "published_at": "2026-08-22T01:01:19+00:00",
-      "revalidated_at": "2026-08-22T17:15:55+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B0G3NG8GNV",
@@ -1519,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19907904",
       "published_at": "2026-08-22T00:46:08+00:00",
-      "revalidated_at": "2026-08-22T17:15:55+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B0CYHZFMFX",
@@ -1629,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19908420",
       "published_at": "2026-08-21T23:46:23+00:00",
-      "revalidated_at": "2026-08-22T17:29:30+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B0C8KWRH39",
@@ -1651,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19901904",
       "published_at": "2026-08-21T23:31:25+00:00",
-      "revalidated_at": "2026-08-22T17:15:55+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B0GQMTS8G6",
@@ -1673,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19889955",
       "published_at": "2026-08-21T23:16:17+00:00",
-      "revalidated_at": "2026-08-22T17:29:30+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B0FP2C255J",
@@ -1761,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19908150",
       "published_at": "2026-08-21T22:01:17+00:00",
-      "revalidated_at": "2026-08-22T17:29:30+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B0FGM678BZ",
@@ -1783,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19908006",
       "published_at": "2026-08-21T22:01:17+00:00",
-      "revalidated_at": "2026-08-22T17:29:30+00:00"
+      "revalidated_at": "2026-08-22T18:45:55+00:00"
     },
     {
       "asin": "B0FKCXCHRP",
