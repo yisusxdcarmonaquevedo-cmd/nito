@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:53:02+00:00",
+  "generated_at": "2026-08-22T00:01:14+00:00",
   "market": "us",
   "count": 119,
   "deals": [
@@ -146,11 +146,11 @@
       "price_old": 13.0,
       "currency": "USD",
       "discount_pct": 37.1,
-      "rating": null,
+      "rating": 4.6,
       "condition": "coupon",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/1/9/9/5/2/5/2/450x450/21352029.thumb",
+      "image": "https://m.media-amazon.com/images/I/71AY5G6yj9L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DJHK8P82/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19907127",
@@ -226,10 +226,10 @@
     {
       "asin": "B0DTQ9RNPN",
       "title": "Kinetic Sand SquishPizza Playset w/ 1-Lb Sand, Oven, Tools & Accessories",
-      "title_es": null,
+      "title_es": "Kinetic Sand SquishPizza Playset con 1 libra de arena, horno, herramientas y accesorios",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set de Kinetic Sand permite a los niños crear sus propias pizzas de arena con un horno y herramientas. Ideal para el desarrollo de la creatividad y habilidades motoras finas en pequeños chefs a partir de 3 años. 🍕",
+      "post_en": "This Kinetic Sand playset allows children to create their own sand pizzas with an oven and tools. It's perfect for developing creativity and fine motor skills in little chefs aged 3 and up. 🍕",
       "price_new": 8.81,
       "price_old": 35.0,
       "currency": "USD",
@@ -248,10 +248,10 @@
     {
       "asin": "B0D98W3BM4",
       "title": "Chia Pet T-Rex - Tyrannosaurus with Seed Pack, Decorative Pottery Planter",
-      "title_es": null,
+      "title_es": "Chia Pet T-Rex - Tyrannosaurus con paquete de semillas, maceta decorativa de cerámica",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El Chia Pet T-Rex es una maceta de cerámica decorativa que da vida a un dinosaurio con brotes de chía. Es un regalo divertido y educativo para amantes de los dinosaurios y la jardinería. 🌱",
+      "post_en": "The Chia Pet T-Rex is a decorative pottery planter that brings a dinosaur to life with chia sprouts. It makes a fun and educational gift for dinosaur and gardening enthusiasts. 🌱",
       "price_new": 16.09,
       "price_old": 35.0,
       "currency": "USD",
@@ -270,10 +270,10 @@
     {
       "asin": "B0FT6VPVX5",
       "title": "VOLPAM 3-Wheel Kids Electric Scooter w/ Adjustable Handlebar & LED Wheels (Black)",
-      "title_es": null,
+      "title_es": "Patinete eléctrico infantil VOLPAM de 3 ruedas con manillar ajustable y ruedas LED (Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este patinete eléctrico VOLPAM de 3 ruedas ofrece diversión segura con su manillar ajustable y ruedas LED. Diseñado para niños, fomenta la actividad al aire libre y mejora el equilibrio.",
+      "post_en": "This VOLPAM 3-wheel electric scooter offers safe fun with its adjustable handlebar and LED wheels. Designed for children, it encourages outdoor activity and improves balance.",
       "price_new": 79.99,
       "price_old": 159.99,
       "currency": "USD",
@@ -292,10 +292,10 @@
     {
       "asin": "B0B5TVKLG5",
       "title": "Costzon 6V Ride on Chopper Kids Motorcycle with Horn, Headlight (Pink)",
-      "title_es": null,
+      "title_es": "Moto infantil Costzon 6V Ride on Chopper con claxon y faro (Rosa)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La moto infantil Costzon 6V Ride on Chopper es perfecta para pequeños aventureros con su diseño realista, claxon y faro. Proporciona horas de diversión al aire libre para niños pequeños.",
+      "post_en": "The Costzon 6V Ride on Chopper kids motorcycle is perfect for little adventurers with its realistic design, horn, and headlight. It provides hours of outdoor fun for young children.",
       "price_new": 78.2,
       "price_old": 129.99,
       "currency": "USD",
@@ -314,10 +314,10 @@
     {
       "asin": "B09DLFGLW3",
       "title": "Cold Steel 3.5\" Mini Leatherneck Fixed Blade Knife w/ Sheath at Amazon",
-      "title_es": null,
+      "title_es": "Cuchillo de hoja fija Cold Steel 3.5\" Mini Leatherneck con funda",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este cuchillo de hoja fija Cold Steel 3.5\" Mini Leatherneck es compacto y robusto, ideal para tareas al aire libre o coleccionistas. Incluye una funda segura para un transporte fácil y seguro.",
+      "post_en": "This Cold Steel 3.5\" Mini Leatherneck fixed blade knife is compact and robust, ideal for outdoor tasks or collectors. It includes a secure sheath for easy and safe transport.",
       "price_new": 18.49,
       "price_old": 29.99,
       "currency": "USD",
@@ -336,10 +336,10 @@
     {
       "asin": "B08J2BJSCB",
       "title": "Orbit B-hyve XR 8-Zone WiFi Smart Sprinkler Timer & Irrigation Controller (57985)",
-      "title_es": null,
+      "title_es": "Temporizador y controlador de riego inteligente WiFi Orbit B-hyve XR de 8 zonas (57985)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El Orbit B-hyve XR es un controlador de riego inteligente WiFi de 8 zonas que te permite gestionar tu jardín desde cualquier lugar. Optimiza el uso del agua y simplifica el mantenimiento del césped y plantas.",
+      "post_en": "The Orbit B-hyve XR is an 8-zone WiFi smart sprinkler controller that allows you to manage your garden from anywhere. It optimizes water usage and simplifies lawn and plant maintenance.",
       "price_new": 108.43,
       "price_old": 169.99,
       "currency": "USD",
@@ -358,10 +358,10 @@
     {
       "asin": "B0FZVG8VWY",
       "title": "24-Pc vancasso AMBER Stoneware Plates & Bowls Dinnerware Set for 8 (Light Blue)",
-      "title_es": null,
+      "title_es": "Set de vajilla vancasso AMBER de gres de 24 piezas para 8 personas (Azul claro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set de vajilla vancasso AMBER de 24 piezas en gres azul claro es perfecto para ocho comensales, añadiendo un toque elegante a cualquier mesa. Es ideal para uso diario o para ocasiones especiales.",
+      "post_en": "This 24-piece vancasso AMBER stoneware dinnerware set in light blue is perfect for eight diners, adding an elegant touch to any table. It's ideal for daily use or special occasions.",
       "price_new": 54.99,
       "price_old": 159.99,
       "currency": "USD",
@@ -375,15 +375,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19907301",
       "published_at": "2026-08-21T21:16:20+00:00",
-      "revalidated_at": "2026-08-21T22:33:57+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B0H2CCR1KF",
       "title": "Titoe Heavy-Duty Snap Fastener Tool Kit w/ 100 Canvas Snap Sets (4 Colors)",
-      "title_es": null,
+      "title_es": "Kit de herramientas Titoe para broches de presión de alta resistencia con 100 juegos de broches de lona (4 colores)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El kit Titoe de herramientas para broches de presión es robusto y viene con 100 juegos en cuatro colores, ideal para reparaciones y proyectos de costura. Es perfecto para aficionados al bricolaje y profesionales que trabajan con lona y tejidos.",
+      "post_en": "The Titoe heavy-duty snap fastener tool kit is robust and comes with 100 sets in four colors, ideal for repairs and sewing projects. It's perfect for DIY enthusiasts and professionals working with canvas and fabrics.",
       "price_new": 20.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -397,15 +397,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19907592",
       "published_at": "2026-08-21T21:16:20+00:00",
-      "revalidated_at": "2026-08-21T22:33:57+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B0F8LNWKYF",
       "title": "Force Factor Creatine Monohydrate Powder, 5g Dose, Micronized, 100 servings 17.6 oz",
-      "title_es": null,
+      "title_es": "Force Factor Creatine Monohydrate Powder, dosis de 5g, micronizada, 100 servicios 17.6 oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este monohidrato de creatina micronizada Force Factor ofrece 5g por dosis, ideal para mejorar el rendimiento deportivo y la fuerza. Es un suplemento esencial para atletas y entusiastas del fitness que buscan optimizar sus entrenamientos.",
+      "post_en": "This Force Factor micronized Creatine Monohydrate Powder provides a 5g dose, ideal for enhancing athletic performance and strength. It's an essential supplement for athletes and fitness enthusiasts looking to optimize their workouts.",
       "price_new": 11.94,
       "price_old": 21.99,
       "currency": "USD",
@@ -419,15 +419,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19907172",
       "published_at": "2026-08-21T21:16:20+00:00",
-      "revalidated_at": "2026-08-21T22:33:57+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B0732NXYNS",
       "title": "8\" CAROTE Classic Granite Nonstick Frying Pan",
-      "title_es": null,
+      "title_es": "Sartén antiadherente CAROTE Classic Granite de 8\"",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La sartén antiadherente CAROTE Classic Granite de 8\" es duradera y fácil de limpiar, ideal para cocinar a diario. Su revestimiento de granito asegura una cocción uniforme y sin que se peguen los alimentos.",
+      "post_en": "The 8\" CAROTE Classic Granite nonstick frying pan is durable and easy to clean, perfect for everyday cooking. Its granite coating ensures even cooking and prevents food from sticking.",
       "price_new": 14.98,
       "price_old": 35.0,
       "currency": "USD",
@@ -446,10 +446,10 @@
     {
       "asin": "B0FLLNVXFG",
       "title": "LG 27GX700A-B 27-inch Ultragear QHD (2560 x 1440) OLED Gaming Monitor, 280Hz, 0.03ms at Amazon",
-      "title_es": null,
+      "title_es": "Monitor Gaming OLED LG 27GX700A-B Ultragear QHD de 27 pulgadas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este monitor LG Ultragear OLED de 27 pulgadas ofrece una resolución QHD y una tasa de refresco de 280Hz con 0.03ms, ideal para gamers que buscan máxima fluidez y calidad visual. Disfruta de imágenes vibrantes y una respuesta ultrarrápida en tus sesiones de juego más intensas. 🎮",
+      "post_en": "This 27-inch LG Ultragear OLED monitor features QHD resolution and a 280Hz refresh rate with 0.03ms, perfect for gamers seeking maximum fluidity and visual quality. Enjoy vibrant images and ultra-fast response in your most intense gaming sessions. 🎮",
       "price_new": 385.27,
       "price_old": 599.99,
       "currency": "USD",
@@ -468,10 +468,10 @@
     {
       "asin": "B0GCCWBWJB",
       "title": "TALIX X6 Open Ear Clip-On Bluetooth 5.4 Earbuds w/ 26H Playtime (Various)",
-      "title_es": null,
+      "title_es": "Auriculares Bluetooth 5.4 TALIX X6 Open Ear Clip-On con 26H de autonomía",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Los auriculares TALIX X6 ofrecen un diseño de clip abierto con conectividad Bluetooth 5.4, permitiéndote escuchar música mientras mantienes la conciencia de tu entorno. Son perfectos para quienes buscan comodidad y hasta 26 horas de reproducción sin aislarse completamente.",
+      "post_en": "The TALIX X6 earbuds feature an open-ear clip-on design with Bluetooth 5.4 connectivity, allowing you to listen to music while staying aware of your surroundings. They are perfect for those seeking comfort and up to 26 hours of playtime without complete isolation.",
       "price_new": 12.5,
       "price_old": 35.0,
       "currency": "USD",
@@ -490,10 +490,10 @@
     {
       "asin": "B07NCJB86S",
       "title": "The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World (eBook) by John Mark Comer",
-      "title_es": null,
+      "title_es": "eBook The Ruthless Elimination of Hurry de John Mark Comer",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este eBook de John Mark Comer explora cómo mantener la salud emocional y espiritual en el ajetreo del mundo moderno. Es una lectura esencial para quienes buscan estrategias para reducir el estrés y vivir de forma más consciente. 📚",
+      "post_en": "This eBook by John Mark Comer explores how to maintain emotional and spiritual health amidst the chaos of the modern world. It's an essential read for those seeking strategies to reduce stress and live more mindfully. 📚",
       "price_new": 1.99,
       "price_old": 12.99,
       "currency": "USD",
@@ -512,10 +512,10 @@
     {
       "asin": "B0D8HZJ4VK",
       "title": "JACKETOWN Men's Plaid Hooded Flannel Shirt Jacket (Various)",
-      "title_es": null,
+      "title_es": "Camisa-Chaqueta de Franela a Cuadros con Capucha JACKETOWN para Hombre",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta camisa-chaqueta de franela a cuadros JACKETOWN con capucha es una prenda versátil para hombre, ideal para un estilo casual y abrigado. Perfecta para el entretiempo o como capa adicional en días frescos.",
+      "post_en": "This JACKETOWN men's plaid hooded flannel shirt jacket is a versatile garment, ideal for a casual and warm style. Perfect for transitional weather or as an extra layer on cool days.",
       "price_new": 10.0,
       "price_old": 19.99,
       "currency": "USD",
@@ -534,10 +534,10 @@
     {
       "asin": "B0B4M95P79",
       "title": "Pyle 2-Pack Bluetooth Outdoor Speakers, 500W Waterproof 5.25\" 2-Way Speaker System with Tweeter at Amazon",
-      "title_es": null,
+      "title_es": "Pack de 2 Altavoces Bluetooth de Exterior Pyle de 500W, impermeables",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de dos altavoces Bluetooth Pyle de exterior, con 500W y resistencia al agua, son ideales para sonorizar terrazas o jardines. Su sistema de 2 vías con tweeter asegura un sonido claro y potente en cualquier ambiente exterior. 🔊",
+      "post_en": "This 2-pack of Pyle 500W waterproof outdoor Bluetooth speakers is ideal for sound-filling patios or gardens. Their 2-way system with tweeter ensures clear and powerful sound in any outdoor environment. 🔊",
       "price_new": 51.99,
       "price_old": 100.99,
       "currency": "USD",
@@ -556,10 +556,10 @@
     {
       "asin": "B07MVM6W5G",
       "title": "22\" WORX Electric Hedge Trimmer w/ Dual-Action Blades (Tool Only) at Amazon",
-      "title_es": null,
+      "title_es": "Cortasetos Eléctrico WORX de 22\" con Cuchillas de Doble Acción (Solo Herramienta)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El cortasetos eléctrico WORX de 22 pulgadas cuenta con cuchillas de doble acción para un corte eficiente y preciso en tu jardín. Es una herramienta robusta y fiable para mantener tus setos en perfecto estado. 🌿",
+      "post_en": "The 22-inch WORX electric hedge trimmer features dual-action blades for efficient and precise cutting in your garden. It's a robust and reliable tool for keeping your hedges in perfect condition. 🌿",
       "price_new": 34.99,
       "price_old": 89.99,
       "currency": "USD",
@@ -573,15 +573,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19907445",
       "published_at": "2026-08-21T20:00:43+00:00",
-      "revalidated_at": "2026-08-21T22:33:57+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B0GXVPKJV4",
       "title": "Ekouaer Womens Silk Pajama Sets Side Split Shorts Satin Pjs Sexy Lounge Set",
-      "title_es": null,
+      "title_es": "Conjunto de Pijama de Satén Ekouaer para Mujer con Shorts de Abertura Lateral",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este conjunto de pijama de satén Ekouaer para mujer incluye shorts con abertura lateral, ofreciendo comodidad y un toque elegante para tus momentos de relax. Es perfecto para sentirse cómoda y sofisticada en casa.",
+      "post_en": "This Ekouaer women's satin pajama set includes side-split shorts, offering comfort and an elegant touch for your relaxation moments. It's perfect for feeling comfortable and sophisticated at home.",
       "price_new": 7.99,
       "price_old": 19.99,
       "currency": "USD",
@@ -595,15 +595,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19907643",
       "published_at": "2026-08-21T20:00:43+00:00",
-      "revalidated_at": "2026-08-21T22:33:57+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B00JUM36NC",
       "title": "Hanes EcoSmart Fleece Pullover Hoodie (Navy)",
-      "title_es": null,
+      "title_es": "Sudadera con Capucha Hanes EcoSmart Fleece Pullover (Azul Marino)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La sudadera con capucha Hanes EcoSmart Fleece Pullover en azul marino es una prenda básica cómoda y sostenible. Ideal para el uso diario, ofrece calidez y suavidad para cualquier ocasión casual.",
+      "post_en": "The Hanes EcoSmart Fleece Pullover Hoodie in navy is a comfortable and sustainable basic garment. Ideal for everyday wear, it offers warmth and softness for any casual occasion.",
       "price_new": 8.0,
       "price_old": 27.0,
       "currency": "USD",
@@ -622,10 +622,10 @@
     {
       "asin": "B0BRSV29H6",
       "title": "Amazon – SOWO Mini Bluetooth Speaker w/ RGB Lights",
-      "title_es": null,
+      "title_es": "Mini Altavoz Bluetooth SOWO con Luces RGB",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El mini altavoz Bluetooth SOWO con luces RGB es un dispositivo compacto que ofrece sonido portátil y un ambiente divertido. Perfecto para llevar tu música a cualquier parte con un toque de color. ✨",
+      "post_en": "The SOWO Mini Bluetooth Speaker with RGB Lights is a compact device that offers portable sound and a fun atmosphere. Perfect for taking your music anywhere with a touch of color. ✨",
       "price_new": 12.49,
       "price_old": 24.99,
       "currency": "USD",
@@ -644,10 +644,10 @@
     {
       "asin": "B0CNF4T78B",
       "title": "2-Pack O'Food Tteokbooki Authentic Korean Rice Cakes (BBQ)",
-      "title_es": null,
+      "title_es": "Pack de 2 Tteokbokki O'Food Auténticos Pasteles de Arroz Coreanos (BBQ)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta del auténtico sabor coreano con este pack de dos Tteokbokki O'Food, pasteles de arroz con sabor BBQ. Son una opción deliciosa y fácil de preparar para los amantes de la gastronomía asiática. 🍜",
+      "post_en": "Enjoy authentic Korean flavor with this 2-pack of O'Food Tteokbokki, rice cakes with BBQ flavor. They are a delicious and easy-to-prepare option for lovers of Asian cuisine. 🍜",
       "price_new": 4.8,
       "price_old": 8.99,
       "currency": "USD",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19901832",
       "published_at": "2026-08-21T18:16:04+00:00",
-      "revalidated_at": "2026-08-21T22:33:57+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B00K3LH4UK",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19907022",
       "published_at": "2026-08-21T18:16:04+00:00",
-      "revalidated_at": "2026-08-21T22:33:57+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B0F6N88NHD",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19907019",
       "published_at": "2026-08-21T17:00:41+00:00",
-      "revalidated_at": "2026-08-21T22:33:57+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B0GRVFV1ZH",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19907076",
       "published_at": "2026-08-21T16:45:22+00:00",
-      "revalidated_at": "2026-08-21T22:33:57+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B0GKMT933X",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19906962",
       "published_at": "2026-08-21T16:45:22+00:00",
-      "revalidated_at": "2026-08-21T22:33:57+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B0C1SZQRVL",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19906974",
       "published_at": "2026-08-21T16:45:22+00:00",
-      "revalidated_at": "2026-08-21T22:33:57+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B0F242WC7M",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19901850",
       "published_at": "2026-08-21T16:45:22+00:00",
-      "revalidated_at": "2026-08-21T22:33:57+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B004DCV1FO",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19903221",
       "published_at": "2026-08-21T02:46:03+00:00",
-      "revalidated_at": "2026-08-21T22:31:24+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B0FL7FF81Z",
@@ -2377,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19893696",
       "published_at": "2026-08-21T02:46:03+00:00",
-      "revalidated_at": "2026-08-21T22:31:24+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B0D89WZ56S",
@@ -2487,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19902531",
       "published_at": "2026-08-21T01:00:49+00:00",
-      "revalidated_at": "2026-08-21T22:31:24+00:00"
+      "revalidated_at": "2026-08-22T00:01:14+00:00"
     },
     {
       "asin": "B0CVZN8ZRS",
