@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T01:15:39+00:00",
+  "generated_at": "2026-08-23T01:30:32+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B09RQ47HC8",
@@ -36,11 +36,11 @@
       "price_old": 49.99,
       "currency": "USD",
       "discount_pct": 55.0,
-      "rating": null,
+      "rating": 4.7,
       "condition": "code",
       "code": "LM6ZVOOJ",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/1/1/9/6/7/1/6/450x450/21352188.thumb",
+      "image": "https://m.media-amazon.com/images/I/81Q3LwII4PL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GGTC8SFN/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19907220",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19909140",
       "published_at": "2026-08-22T23:46:00+00:00",
-      "revalidated_at": "2026-08-22T23:46:00+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     },
     {
       "asin": "B0CZZX4G4Y",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19911522",
       "published_at": "2026-08-22T23:46:00+00:00",
-      "revalidated_at": "2026-08-22T23:46:00+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     },
     {
       "asin": "B0CBNJJ77D",
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19898514",
       "published_at": "2026-08-22T23:30:50+00:00",
-      "revalidated_at": "2026-08-22T23:30:50+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     },
     {
       "asin": "B0D5PW25C1",
@@ -617,29 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19894674",
       "published_at": "2026-08-22T22:30:53+00:00",
-      "revalidated_at": "2026-08-22T23:46:00+00:00"
-    },
-    {
-      "asin": "B0GMQQPMKT",
-      "title": "2-Pk Baofeng UV-5R Mini 5W Dual Band Handheld Ham Radios w/ USB-C Charging",
-      "title_es": "Pack de 2 Radios Baofeng UV-5R Mini 5W de Doble Banda con Carga USB-C",
-      "headline": null,
-      "post": "Este pack incluye dos radios Baofeng UV-5R Mini de 5W, ideales para comunicación en doble banda. Son compactas, portátiles y cuentan con carga USB-C, perfectas para entusiastas de la radioafición o para uso recreativo al aire libre. 📻",
-      "post_en": "This pack includes two Baofeng UV-5R Mini 5W radios, ideal for dual-band communication. They are compact, portable, and feature USB-C charging, perfect for ham radio enthusiasts or outdoor recreational use. 📻",
-      "price_new": 21.5,
-      "price_old": 42.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/712AvQSzPuL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GMQQPMKT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19911111",
-      "published_at": "2026-08-22T22:30:53+00:00",
-      "revalidated_at": "2026-08-22T23:46:00+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     },
     {
       "asin": "B0CRVXFZXN",
@@ -661,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19895697",
       "published_at": "2026-08-22T22:30:53+00:00",
-      "revalidated_at": "2026-08-22T23:46:00+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     },
     {
       "asin": "B09VX6PKST",
@@ -881,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19910721",
       "published_at": "2026-08-22T19:45:51+00:00",
-      "revalidated_at": "2026-08-22T23:46:00+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     },
     {
       "asin": "B0GSDTJQK8",
@@ -1101,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19889334",
       "published_at": "2026-08-22T16:45:56+00:00",
-      "revalidated_at": "2026-08-22T23:30:50+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     },
     {
       "asin": "B0FLLNVXFG",
@@ -1387,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19909074",
       "published_at": "2026-08-22T12:15:56+00:00",
-      "revalidated_at": "2026-08-22T23:30:50+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     },
     {
       "asin": "B0DX3ZYFPB",
@@ -1409,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19909527",
       "published_at": "2026-08-22T12:15:56+00:00",
-      "revalidated_at": "2026-08-22T23:30:50+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     },
     {
       "asin": "B09NVVWCSH",
@@ -2333,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19908624",
       "published_at": "2026-08-22T00:31:07+00:00",
-      "revalidated_at": "2026-08-22T23:30:50+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     },
     {
       "asin": "B08W7SXT1H",
@@ -2355,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19906479",
       "published_at": "2026-08-22T00:31:07+00:00",
-      "revalidated_at": "2026-08-22T23:30:50+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     },
     {
       "asin": "B09BCTF5JP",
@@ -2399,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19906635",
       "published_at": "2026-08-22T00:16:01+00:00",
-      "revalidated_at": "2026-08-22T23:30:50+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     },
     {
       "asin": "B0F95PGXH3",
@@ -2619,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19908090",
       "published_at": "2026-08-21T21:46:21+00:00",
-      "revalidated_at": "2026-08-22T23:29:13+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     },
     {
       "asin": "B0D98W3BM4",
@@ -2641,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19896507",
       "published_at": "2026-08-21T21:46:21+00:00",
-      "revalidated_at": "2026-08-22T23:30:50+00:00"
+      "revalidated_at": "2026-08-23T01:30:32+00:00"
     }
   ]
 }
