@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-23T01:45:34+00:00",
+  "generated_at": "2026-08-23T01:54:27+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0GK8TGCX6",
+      "title": "(8 Pack) ELECLINK Garden Lights Solar Powered Path Lights with Focused Beam Lens, 2 Light Modes Waterproof",
+      "title_es": "(Pack de 8) Luces Solares para Jardín ELECLINK con Haz Enfocado, 2 Modos de Luz, Impermeables",
+      "headline": null,
+      "post": "Este paquete de 8 luces solares para jardín ilumina caminos y zonas exteriores con un haz enfocado. Son resistentes al agua y ofrecen dos modos de luz, ideales para mejorar la seguridad y el ambiente de tu hogar.",
+      "post_en": "This 8-pack of solar-powered garden lights illuminates paths and outdoor areas with a focused beam. They are waterproof and offer two light modes, perfect for enhancing your home's safety and ambiance.",
+      "price_new": 25.99,
+      "price_old": 59.99,
+      "currency": "USD",
+      "discount_pct": 56.7,
+      "rating": 4.4,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81p8AHYzqsL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GK8TGCX6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19911129",
+      "published_at": "2026-08-23T01:54:27+00:00",
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
+    },
+    {
+      "asin": "B0CXT8WJ6L",
+      "title": "QGOO AC1300 USB 3.0 Wi-Fi Network Adapter w/ Dual 5dBi Antennas (2.4GHz/5GHz)",
+      "title_es": "Adaptador de Red Wi-Fi USB 3.0 AC1300 QGOO con Antenas Duales (2.4GHz/5GHz)",
+      "headline": null,
+      "post": "Este adaptador de red Wi-Fi USB 3.0 AC1300 mejora la conexión inalámbrica de tu ordenador con soporte para doble banda. Sus antenas duales de 5dBi aseguran una señal estable y rápida, ideal para streaming y juegos.",
+      "post_en": "This QGOO AC1300 USB 3.0 Wi-Fi network adapter upgrades your computer's wireless connection with dual-band support. Its dual 5dBi antennas ensure a stable and fast signal, perfect for streaming and gaming.",
+      "price_new": 6.05,
+      "price_old": 10.67,
+      "currency": "USD",
+      "discount_pct": 43.3,
+      "rating": 4.3,
+      "condition": "coupon",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61yOy3ZBD1L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CXT8WJ6L/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19909251",
+      "published_at": "2026-08-23T01:54:27+00:00",
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
+    },
     {
       "asin": "B09RQ47HC8",
       "title": "JBL Flip 6 - Portable Waterproof Speaker - Camo at Amazon",
@@ -168,11 +212,11 @@
       "price_old": 57.0,
       "currency": "USD",
       "discount_pct": 77.2,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/8/2/8/3/4/450x450/21360084.thumb",
+      "image": "https://m.media-amazon.com/images/I/71CcmIN0NdL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B08Y4HB68Y/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19911273",
@@ -212,11 +256,11 @@
       "price_old": 19.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21329469.thumb",
+      "image": "https://m.media-amazon.com/images/I/61R6OdIL7bL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GG42CPFW/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19897713",
@@ -234,11 +278,11 @@
       "price_old": 42.99,
       "currency": "USD",
       "discount_pct": 36.8,
-      "rating": null,
+      "rating": 4.3,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21353460.thumb",
+      "image": "https://m.media-amazon.com/images/I/71WmD3tYFQL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GLN9XVQM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19907700",
@@ -309,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19909455",
       "published_at": "2026-08-23T00:01:17+00:00",
-      "revalidated_at": "2026-08-23T00:01:17+00:00"
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
     },
     {
       "asin": "B0D3PBB78P",
@@ -331,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19909497",
       "published_at": "2026-08-23T00:01:17+00:00",
-      "revalidated_at": "2026-08-23T00:01:17+00:00"
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
     },
     {
       "asin": "B0F2TL6ZJN",
@@ -353,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19910610",
       "published_at": "2026-08-23T00:01:17+00:00",
-      "revalidated_at": "2026-08-23T00:01:17+00:00"
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
     },
     {
       "asin": "B0D1YLY7JY",
@@ -375,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19911306",
       "published_at": "2026-08-23T00:01:17+00:00",
-      "revalidated_at": "2026-08-23T00:01:17+00:00"
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
     },
     {
       "asin": "B0D5XLTHSN",
@@ -397,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19910643",
       "published_at": "2026-08-23T00:01:17+00:00",
-      "revalidated_at": "2026-08-23T00:01:17+00:00"
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
     },
     {
       "asin": "B0C4G4Q7VN",
@@ -749,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19893990",
       "published_at": "2026-08-22T21:30:19+00:00",
-      "revalidated_at": "2026-08-23T00:01:17+00:00"
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
     },
     {
       "asin": "B0DS1XWRW3",
@@ -771,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19909809",
       "published_at": "2026-08-22T21:30:19+00:00",
-      "revalidated_at": "2026-08-23T00:01:17+00:00"
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
     },
     {
       "asin": "B0H8XMGBFR",
@@ -925,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19910364",
       "published_at": "2026-08-22T18:30:55+00:00",
-      "revalidated_at": "2026-08-23T00:01:17+00:00"
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
     },
     {
       "asin": "B0HFVYDHMN",
@@ -1057,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19910109",
       "published_at": "2026-08-22T17:15:55+00:00",
-      "revalidated_at": "2026-08-23T00:01:17+00:00"
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
     },
     {
       "asin": "B0F3GYMWG5",
@@ -1145,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19894548",
       "published_at": "2026-08-22T16:00:52+00:00",
-      "revalidated_at": "2026-08-23T00:01:17+00:00"
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
     },
     {
       "asin": "B07H3R4CHM",
@@ -1233,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19910172",
       "published_at": "2026-08-22T14:30:56+00:00",
-      "revalidated_at": "2026-08-23T00:01:17+00:00"
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
     },
     {
       "asin": "B07VWXKXSK",
@@ -1255,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19893291",
       "published_at": "2026-08-22T14:30:56+00:00",
-      "revalidated_at": "2026-08-23T00:01:17+00:00"
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
     },
     {
       "asin": "B0FYFDD1WW",
@@ -1981,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19908774",
       "published_at": "2026-08-22T02:41:36+00:00",
-      "revalidated_at": "2026-08-22T23:49:28+00:00"
+      "revalidated_at": "2026-08-23T01:54:27+00:00"
     },
     {
       "asin": "B0GZBBM9R6",
@@ -2596,28 +2640,6 @@
       "url": "https://amazon.com/dp/B0DTQ9RNPN/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19908090",
-      "published_at": "2026-08-21T21:46:21+00:00",
-      "revalidated_at": "2026-08-23T01:30:32+00:00"
-    },
-    {
-      "asin": "B0D98W3BM4",
-      "title": "Chia Pet T-Rex - Tyrannosaurus with Seed Pack, Decorative Pottery Planter",
-      "title_es": "Chia Pet T-Rex - Tyrannosaurus con paquete de semillas, maceta decorativa de cerámica",
-      "headline": null,
-      "post": "El Chia Pet T-Rex es una maceta de cerámica decorativa que da vida a un dinosaurio con brotes de chía. Es un regalo divertido y educativo para amantes de los dinosaurios y la jardinería. 🌱",
-      "post_en": "The Chia Pet T-Rex is a decorative pottery planter that brings a dinosaur to life with chia sprouts. It makes a fun and educational gift for dinosaur and gardening enthusiasts. 🌱",
-      "price_new": 16.09,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 54.0,
-      "rating": 4.1,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81cfMWITgvL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D98W3BM4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19896507",
       "published_at": "2026-08-21T21:46:21+00:00",
       "revalidated_at": "2026-08-23T01:30:32+00:00"
     }
