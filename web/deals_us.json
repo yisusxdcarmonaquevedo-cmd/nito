@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-23T09:46:02+00:00",
+  "generated_at": "2026-08-23T09:56:34+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B0GC4RLGVJ",
+      "title": "PINSPARK Men's UPF 50+ LS Rash Guard Fishing Hoodie (Various)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.5,
+      "price_old": 17.99,
+      "currency": "USD",
+      "discount_pct": 58.3,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "JWJ4DMCE",
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/71a4qtMX7FL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GC4RLGVJ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19903302",
+      "published_at": "2026-08-23T09:56:34+00:00",
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
+    },
     {
       "asin": "B0CZCVT6DY",
       "title": "UGREEN 2.4GHz Wireless Mouse Ergonomic 1600 DPI USB Receiver Compatible with Windows Mac Linux Chromebook Laptop PC at Amazon",
@@ -68,28 +90,6 @@
       "deal_key": "sd:19909533",
       "published_at": "2026-08-23T08:51:28+00:00",
       "revalidated_at": "2026-08-23T08:51:28+00:00"
-    },
-    {
-      "asin": "B0F5FPG64M",
-      "title": "Razer Joro Portable Compact Wireless Gaming Keyboard w/ Chroma RGB Backlighting at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 56.0,
-      "price_old": 139.99,
-      "currency": "USD",
-      "discount_pct": 60.0,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71ncSOmlNBL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F5FPG64M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19912680",
-      "published_at": "2026-08-23T08:30:58+00:00",
-      "revalidated_at": "2026-08-23T08:30:58+00:00"
     },
     {
       "asin": "B0FLM15Q5L",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19905267",
       "published_at": "2026-08-23T02:30:47+00:00",
-      "revalidated_at": "2026-08-23T08:30:58+00:00"
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
     },
     {
       "asin": "B07TWTR3K8",
@@ -573,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19901712",
       "published_at": "2026-08-23T00:45:50+00:00",
-      "revalidated_at": "2026-08-23T08:30:58+00:00"
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
     },
     {
       "asin": "B0F9B3ZV61",
@@ -595,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19896939",
       "published_at": "2026-08-23T00:45:50+00:00",
-      "revalidated_at": "2026-08-23T08:30:58+00:00"
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
     },
     {
       "asin": "B0FDGTG8HP",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19902912",
       "published_at": "2026-08-22T20:30:47+00:00",
-      "revalidated_at": "2026-08-23T08:30:58+00:00"
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
     },
     {
       "asin": "B0GVY6DYWZ",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19907427",
       "published_at": "2026-08-22T20:30:47+00:00",
-      "revalidated_at": "2026-08-23T08:30:58+00:00"
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
     },
     {
       "asin": "B0GYPQ75WH",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19908921",
       "published_at": "2026-08-22T18:52:00+00:00",
-      "revalidated_at": "2026-08-23T08:30:58+00:00"
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
     },
     {
       "asin": "B00NON258U",
@@ -1717,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19910394",
       "published_at": "2026-08-22T14:52:29+00:00",
-      "revalidated_at": "2026-08-23T08:30:58+00:00"
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
     },
     {
       "asin": "B0CV1WNF1Q",
@@ -1937,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19897350",
       "published_at": "2026-08-22T11:50:59+00:00",
-      "revalidated_at": "2026-08-23T08:30:58+00:00"
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
     },
     {
       "asin": "B0CSFMYH22",
@@ -2113,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19898295",
       "published_at": "2026-08-22T10:34:11+00:00",
-      "revalidated_at": "2026-08-23T08:30:58+00:00"
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
     },
     {
       "asin": "B0C3C14X8Y",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19904001",
       "published_at": "2026-08-22T10:34:11+00:00",
-      "revalidated_at": "2026-08-23T08:30:58+00:00"
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
     },
     {
       "asin": "B0F46LM67B",
@@ -2179,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19909503",
       "published_at": "2026-08-22T07:15:58+00:00",
-      "revalidated_at": "2026-08-23T08:15:51+00:00"
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
     },
     {
       "asin": "1506754902",
@@ -2201,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19909563",
       "published_at": "2026-08-22T07:15:58+00:00",
-      "revalidated_at": "2026-08-23T08:30:58+00:00"
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
     },
     {
       "asin": "B0GKFZB2JD",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19906686",
       "published_at": "2026-08-22T04:01:24+00:00",
-      "revalidated_at": "2026-08-23T08:15:51+00:00"
+      "revalidated_at": "2026-08-23T09:56:34+00:00"
     },
     {
       "asin": "B0C6642S1F",
