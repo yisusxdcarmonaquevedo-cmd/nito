@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T03:00:24+00:00",
+  "generated_at": "2026-08-24T03:15:22+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B06X3TR53X",
@@ -36,11 +36,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 80.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21368142.thumb",
+      "image": "https://m.media-amazon.com/images/I/41l8eixHmML._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B08C9PSH42/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19915275",
@@ -155,7 +155,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19914216",
       "published_at": "2026-08-24T01:30:29+00:00",
-      "revalidated_at": "2026-08-24T01:30:29+00:00"
+      "revalidated_at": "2026-08-24T03:15:22+00:00"
     },
     {
       "asin": "B09PMBKTGH",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19914900",
       "published_at": "2026-08-23T23:50:30+00:00",
-      "revalidated_at": "2026-08-24T01:30:29+00:00"
+      "revalidated_at": "2026-08-24T03:15:22+00:00"
     },
     {
       "asin": "B0014E82II",
@@ -466,28 +466,6 @@
       "revalidated_at": "2026-08-24T02:30:25+00:00"
     },
     {
-      "asin": "B01464GUOU",
-      "title": "40-Lb CAP Barbell Adjustable Weighted Vest w/ Removable Weight Packets at Amazon",
-      "title_es": "Chaleco Lastrado Ajustable CAP Barbell de 40 Lb con Paquetes de Peso Extraíbles",
-      "headline": null,
-      "post": "Este chaleco lastrado ajustable CAP Barbell de 40 lb es perfecto para añadir intensidad a tus entrenamientos de fuerza y cardio. Sus paquetes de peso extraíbles permiten personalizar la resistencia.",
-      "post_en": "This 40-Lb CAP Barbell adjustable weighted vest is perfect for adding intensity to your strength and cardio workouts. Its removable weight packets allow for customizable resistance.",
-      "price_new": 41.97,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/81mNt+x2YDL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B01464GUOU/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19914522",
-      "published_at": "2026-08-23T22:30:34+00:00",
-      "revalidated_at": "2026-08-24T01:30:29+00:00"
-    },
-    {
       "asin": "B0FH7CKD4V",
       "title": "Fit & Fresh Cool Coolers Soft Ice Packs for Lunch Bags & Coolers, 2pk",
       "title_es": "Bolsas de Hielo Suaves Fit & Fresh Cool Coolers para Bolsas de Almuerzo (Pack de 2)",
@@ -507,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19914429",
       "published_at": "2026-08-23T22:30:34+00:00",
-      "revalidated_at": "2026-08-24T01:30:29+00:00"
+      "revalidated_at": "2026-08-24T03:15:22+00:00"
     },
     {
       "asin": "1577315936",
@@ -1167,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19913694",
       "published_at": "2026-08-23T17:00:40+00:00",
-      "revalidated_at": "2026-08-24T01:30:29+00:00"
+      "revalidated_at": "2026-08-24T03:15:22+00:00"
     },
     {
       "asin": "B00DJPK8MS",
@@ -1365,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19913076",
       "published_at": "2026-08-23T15:30:42+00:00",
-      "revalidated_at": "2026-08-24T01:30:29+00:00"
+      "revalidated_at": "2026-08-24T03:15:22+00:00"
     },
     {
       "asin": "B0FFH28TG4",
@@ -1629,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19913094",
       "published_at": "2026-08-23T14:03:00+00:00",
-      "revalidated_at": "2026-08-24T01:30:29+00:00"
+      "revalidated_at": "2026-08-24T03:15:22+00:00"
     },
     {
       "asin": "B0FMS9Q3LT",
@@ -1805,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19912785",
       "published_at": "2026-08-23T12:45:46+00:00",
-      "revalidated_at": "2026-08-24T01:30:29+00:00"
+      "revalidated_at": "2026-08-24T03:15:22+00:00"
     },
     {
       "asin": "B0DJ1BH9T1",
@@ -1827,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19913064",
       "published_at": "2026-08-23T12:45:46+00:00",
-      "revalidated_at": "2026-08-24T01:30:29+00:00"
+      "revalidated_at": "2026-08-24T03:15:22+00:00"
     },
     {
       "asin": "B09NXV9W12",
@@ -1959,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19912692",
       "published_at": "2026-08-23T11:29:03+00:00",
-      "revalidated_at": "2026-08-24T01:30:29+00:00"
+      "revalidated_at": "2026-08-24T03:15:22+00:00"
     },
     {
       "asin": "B0GH6XYJKC",
@@ -2355,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19912074",
       "published_at": "2026-08-23T05:00:55+00:00",
-      "revalidated_at": "2026-08-24T01:15:24+00:00"
+      "revalidated_at": "2026-08-24T03:15:22+00:00"
     },
     {
       "asin": "B0C353JQZB",
@@ -2399,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19912008",
       "published_at": "2026-08-23T05:00:55+00:00",
-      "revalidated_at": "2026-08-24T01:15:24+00:00"
+      "revalidated_at": "2026-08-24T03:15:22+00:00"
     },
     {
       "asin": "B09YS1QNV4",
@@ -2465,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19905267",
       "published_at": "2026-08-23T02:30:47+00:00",
-      "revalidated_at": "2026-08-24T01:30:29+00:00"
+      "revalidated_at": "2026-08-24T03:15:22+00:00"
     },
     {
       "asin": "B07TWTR3K8",
@@ -2487,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19911735",
       "published_at": "2026-08-23T02:15:42+00:00",
-      "revalidated_at": "2026-08-24T01:30:29+00:00"
+      "revalidated_at": "2026-08-24T03:15:22+00:00"
     },
     {
       "asin": "B0CV2HGYS3",
