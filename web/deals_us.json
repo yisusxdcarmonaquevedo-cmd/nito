@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-08-24T18:01:01+00:00",
+  "generated_at": "2026-08-24T18:15:52+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0H4VSNK9B",
+      "title": "Amazon – Goodeco 3-Pc Mini Ceramic Heart Fridge Magnet Vases",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.99,
+      "price_old": 9.99,
+      "currency": "USD",
+      "discount_pct": 50.1,
+      "rating": null,
+      "condition": "code",
+      "code": "EG72SVEF",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21372777.thumb",
+      "url": "https://amazon.com/dp/B0H4VSNK9B/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19917483",
+      "published_at": "2026-08-24T18:15:52+00:00",
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
+    },
+    {
+      "asin": "B0GC3CM9PX",
+      "title": "Warping Point Pickleball Paddle, T700 Raw Carbon Fiber Pickleball Racket with Endura Friction Surface, 13mm Polymer Core",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.99,
+      "price_old": 39.98,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/21376104.thumb",
+      "url": "https://amazon.com/dp/B0GC3CM9PX/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19918593",
+      "published_at": "2026-08-24T18:15:52+00:00",
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
+    },
+    {
+      "asin": "B0GTRPBPRR",
+      "title": "Dash Pro Shaved Ice Machine w/ Adjustable Blade & 2 Ice Molds (Cream)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 53.7,
+      "price_old": 99.99,
+      "currency": "USD",
+      "discount_pct": 46.3,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/21374631.thumb",
+      "url": "https://amazon.com/dp/B0GTRPBPRR/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19918041",
+      "published_at": "2026-08-24T18:15:52+00:00",
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
+    },
+    {
+      "asin": "B0791ZPVTY",
+      "title": "12-Pack Ensure Max Protein Café Mocha Shake (30g Protein): 2 for",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 22.88,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 34.6,
+      "rating": 4.5,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/714QnXW7YaL._AC_SL1300_.jpg",
+      "url": "https://amazon.com/dp/B0791ZPVTY/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19918875",
+      "published_at": "2026-08-24T18:15:52+00:00",
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
+    },
     {
       "asin": "B0GK8TGCX6",
       "title": "[Prime] 8-Count ELECLINK 60-Lumen Solar Pathway Lights w/ 2 Lighting Modes (Warm White)",
@@ -58,11 +146,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 80.1,
-      "rating": null,
+      "rating": 4.8,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/5/5/7/3/6/2/450x450/21375243.thumb",
+      "image": "https://m.media-amazon.com/images/I/71WTWrZl1fL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DJ19R8H7/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19918236",
@@ -1387,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19912644",
       "published_at": "2026-08-24T11:31:09+00:00",
-      "revalidated_at": "2026-08-24T16:19:17+00:00"
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
     },
     {
       "asin": "B0G1CPTN1F",
@@ -1695,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19913898",
       "published_at": "2026-08-24T05:00:29+00:00",
-      "revalidated_at": "2026-08-24T16:19:17+00:00"
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
     },
     {
       "asin": "B0GVN19YW4",
@@ -1717,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19915422",
       "published_at": "2026-08-24T05:00:29+00:00",
-      "revalidated_at": "2026-08-24T16:19:17+00:00"
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
     },
     {
       "asin": "B07BHV28DR",
@@ -1871,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19912581",
       "published_at": "2026-08-24T03:00:24+00:00",
-      "revalidated_at": "2026-08-24T16:19:17+00:00"
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
     },
     {
       "asin": "B0FSP164RL",
@@ -1959,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19914216",
       "published_at": "2026-08-24T01:30:29+00:00",
-      "revalidated_at": "2026-08-24T16:19:17+00:00"
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
     },
     {
       "asin": "B09PMBKTGH",
@@ -2135,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19914900",
       "published_at": "2026-08-23T23:50:30+00:00",
-      "revalidated_at": "2026-08-24T16:19:17+00:00"
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
     },
     {
       "asin": "B0014E82II",
@@ -2157,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19914240",
       "published_at": "2026-08-23T23:45:26+00:00",
-      "revalidated_at": "2026-08-24T16:19:17+00:00"
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
     },
     {
       "asin": "B07GNXD3BS",
@@ -2179,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19897779",
       "published_at": "2026-08-23T23:29:43+00:00",
-      "revalidated_at": "2026-08-24T16:19:17+00:00"
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
     },
     {
       "asin": "B07RLTXCFX",
@@ -2201,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19914822",
       "published_at": "2026-08-23T23:29:43+00:00",
-      "revalidated_at": "2026-08-24T16:19:17+00:00"
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
     },
     {
       "asin": "B0BJYKVLRN",
@@ -2223,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19914129",
       "published_at": "2026-08-23T23:29:43+00:00",
-      "revalidated_at": "2026-08-24T16:19:17+00:00"
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
     },
     {
       "asin": "B0046XC528",
@@ -2443,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19914330",
       "published_at": "2026-08-23T20:45:54+00:00",
-      "revalidated_at": "2026-08-24T16:19:17+00:00"
+      "revalidated_at": "2026-08-24T18:15:52+00:00"
     },
     {
       "asin": "B004UHY2TY",
@@ -2554,94 +2642,6 @@
       "deal_key": "sd:19913919",
       "published_at": "2026-08-23T20:16:13+00:00",
       "revalidated_at": "2026-08-24T17:30:59+00:00"
-    },
-    {
-      "asin": "B0DNJYH86M",
-      "title": "KKJCXY Magnetic Picture Frames for Refrigerator 4x6, 10 Pack White",
-      "title_es": "Marcos de fotos magnéticos KKJCXY para nevera 4x6, pack de 10 blancos",
-      "headline": null,
-      "post": "Un set de 10 marcos magnéticos KKJCXY para fotos de 4x6, perfectos para decorar tu nevera o cualquier superficie metálica. Mantén tus recuerdos favoritos a la vista de forma sencilla y elegante.",
-      "post_en": "A set of 10 KKJCXY magnetic frames for 4x6 photos, perfect for decorating your fridge or any metal surface. Keep your favorite memories in sight simply and elegantly.",
-      "price_new": 4.59,
-      "price_old": 9.99,
-      "currency": "USD",
-      "discount_pct": 54.1,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/714smzfUNeL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DNJYH86M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19891398",
-      "published_at": "2026-08-23T20:00:22+00:00",
-      "revalidated_at": "2026-08-24T17:00:20+00:00"
-    },
-    {
-      "asin": "B0FCLRF124",
-      "title": "Ultrean 110lb Digital Luggage Scale w/ Backlit LCD at Amazon",
-      "title_es": "Báscula digital de equipaje Ultrean de 110lb con pantalla LCD retroiluminada",
-      "headline": null,
-      "post": "Esta báscula digital de equipaje Ultrean te ayuda a evitar sorpresas en el aeropuerto, pesando maletas de hasta 110lb. Su pantalla LCD retroiluminada facilita la lectura en cualquier condición. ✈️",
-      "post_en": "This Ultrean digital luggage scale helps you avoid surprises at the airport, weighing bags up to 110lb. Its backlit LCD screen makes reading easy in any condition. ✈️",
-      "price_new": 6.99,
-      "price_old": 13.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61Bh+A4tYIL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FCLRF124/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19913907",
-      "published_at": "2026-08-23T20:00:22+00:00",
-      "revalidated_at": "2026-08-24T17:15:53+00:00"
-    },
-    {
-      "asin": "B0B466YTT3",
-      "title": "Anker 622 Magnetic Power Bank, 5,000mAh Foldable Wireless Portable Charger",
-      "title_es": "Power Bank magnético Anker 622 de 5.000mAh, cargador portátil inalámbrico plegable",
-      "headline": null,
-      "post": "El Power Bank magnético Anker 622 de 5.000mAh ofrece carga inalámbrica y un diseño plegable, ideal para tener energía extra en movimiento. Su sujeción magnética facilita la carga de tu dispositivo.",
-      "post_en": "The Anker 622 Magnetic Power Bank with 5,000mAh offers wireless charging and a foldable design, ideal for extra power on the go. Its magnetic attachment makes charging your device easy.",
-      "price_new": 29.99,
-      "price_old": 47.99,
-      "currency": "USD",
-      "discount_pct": 37.5,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61wNCQ0NdgL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0B466YTT3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19888566",
-      "published_at": "2026-08-23T20:00:22+00:00",
-      "revalidated_at": "2026-08-24T17:15:53+00:00"
-    },
-    {
-      "asin": "B0F6DTBHKZ",
-      "title": "The Nightwatch Collection: Limited Edition (Blu-ray) at Amazon",
-      "title_es": "The Nightwatch Collection: Edición Limitada (Blu-ray)",
-      "headline": null,
-      "post": "Disfruta de la \"The Nightwatch Collection\" en esta edición limitada Blu-ray, perfecta para coleccionistas y amantes del cine. Sumérgete en estas historias con la mejor calidad de imagen y sonido. 🎬",
-      "post_en": "Enjoy \"The Nightwatch Collection\" in this limited edition Blu-ray, perfect for collectors and film enthusiasts. Immerse yourself in these stories with the best image and sound quality. 🎬",
-      "price_new": 19.99,
-      "price_old": 39.95,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71OJu+3STQL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F6DTBHKZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19913943",
-      "published_at": "2026-08-23T19:30:49+00:00",
-      "revalidated_at": "2026-08-24T16:31:18+00:00"
     }
   ]
 }
