@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-25T23:42:31+00:00",
+  "generated_at": "2026-08-25T23:46:27+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B083RQS7CH",
+      "title": "NYX Professional Makeup Butter Gloss Lip Gloss (Assorted Colors)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.72,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 92.2,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/3/5/6/4/5/1/8/7/450x450/21392292.thumb",
+      "url": "https://amazon.com/dp/B083RQS7CH/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19925346",
+      "published_at": "2026-08-25T23:46:27+00:00",
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
+    },
     {
       "asin": "B0GMPCXD64",
       "title": "18-Oz GEARWRENCH Dead Blow Hammer",
@@ -134,28 +156,6 @@
       "deal_key": "sd:19923345",
       "published_at": "2026-08-25T23:01:40+00:00",
       "revalidated_at": "2026-08-25T23:01:40+00:00"
-    },
-    {
-      "asin": "B0G2XQSMSK",
-      "title": "6' Hichain 60W USB-C to USB-C Braided Cable w/ LED Display",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 5.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 82.9,
-      "rating": 4.8,
-      "condition": "code",
-      "code": "5EBE7LEO",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/616m5z58biL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G2XQSMSK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19925106",
-      "published_at": "2026-08-25T22:31:25+00:00",
-      "revalidated_at": "2026-08-25T22:31:25+00:00"
     },
     {
       "asin": "B0FCLGGK9Z",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923867",
       "published_at": "2026-08-25T18:16:19+00:00",
-      "revalidated_at": "2026-08-25T22:31:25+00:00"
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
     },
     {
       "asin": "B015SR9IBQ",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923864",
       "published_at": "2026-08-25T18:16:19+00:00",
-      "revalidated_at": "2026-08-25T22:31:25+00:00"
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
     },
     {
       "asin": "B092RCLKHN",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923882",
       "published_at": "2026-08-25T18:16:19+00:00",
-      "revalidated_at": "2026-08-25T22:31:25+00:00"
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
     },
     {
       "asin": "B0C533SHZB",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19895826",
       "published_at": "2026-08-25T16:48:50+00:00",
-      "revalidated_at": "2026-08-25T22:31:25+00:00"
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
     },
     {
       "asin": "B0FS5YHZJX",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923180",
       "published_at": "2026-08-25T16:48:50+00:00",
-      "revalidated_at": "2026-08-25T22:31:25+00:00"
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
     },
     {
       "asin": "B0FVXP8M33",
@@ -1343,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919724",
       "published_at": "2026-08-25T13:31:07+00:00",
-      "revalidated_at": "2026-08-25T22:31:25+00:00"
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
     },
     {
       "asin": "B0CDG5HCCH",
@@ -1365,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19922583",
       "published_at": "2026-08-25T13:31:07+00:00",
-      "revalidated_at": "2026-08-25T22:31:25+00:00"
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
     },
     {
       "asin": "B01B2OVUAG",
@@ -2267,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19916649",
       "published_at": "2026-08-25T01:46:58+00:00",
-      "revalidated_at": "2026-08-25T22:16:32+00:00"
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
     },
     {
       "asin": "B0F1MDSBHG",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919352",
       "published_at": "2026-08-25T01:32:01+00:00",
-      "revalidated_at": "2026-08-25T22:16:32+00:00"
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
     },
     {
       "asin": "B0DBM5WXJ5",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19917984",
       "published_at": "2026-08-25T01:32:01+00:00",
-      "revalidated_at": "2026-08-25T22:16:32+00:00"
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
     },
     {
       "asin": "B09KTDXPY3",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19916394",
       "published_at": "2026-08-25T01:32:01+00:00",
-      "revalidated_at": "2026-08-25T22:31:25+00:00"
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
     },
     {
       "asin": "B0C68WNH8W",
@@ -2509,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919301",
       "published_at": "2026-08-25T01:16:26+00:00",
-      "revalidated_at": "2026-08-25T22:16:32+00:00"
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
     },
     {
       "asin": "B000N2HCKQ",
@@ -2575,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919745",
       "published_at": "2026-08-25T01:01:43+00:00",
-      "revalidated_at": "2026-08-25T22:31:25+00:00"
+      "revalidated_at": "2026-08-25T23:46:27+00:00"
     },
     {
       "asin": "B07XW3FWFF",
@@ -2618,28 +2618,6 @@
       "url": "https://amazon.com/dp/B0DKJ288TC/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19918053",
-      "published_at": "2026-08-25T01:01:43+00:00",
-      "revalidated_at": "2026-08-25T22:31:25+00:00"
-    },
-    {
-      "asin": "B0BHMW8R6S",
-      "title": "ASUS ROG Strix B650-A Gaming WiFi AMD B650 AM5 ATX Motherboard",
-      "title_es": "Placa base ASUS ROG Strix B650-A Gaming WiFi AMD B650 AM5 ATX",
-      "headline": null,
-      "post": "Esta placa base ASUS ROG Strix B650-A es ideal para construir o actualizar un PC gaming con procesadores AMD AM5. Ofrece conectividad WiFi y un rendimiento sólido para entusiastas y jugadores.",
-      "post_en": "This ASUS ROG Strix B650-A motherboard is ideal for building or upgrading a gaming PC with AMD AM5 processors. It offers WiFi connectivity and solid performance for enthusiasts and gamers.",
-      "price_new": 130.0,
-      "price_old": 189.99,
-      "currency": "USD",
-      "discount_pct": 31.6,
-      "rating": 4.4,
-      "condition": "coupon",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81MH+nx+shL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0BHMW8R6S/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19916940",
       "published_at": "2026-08-25T01:01:43+00:00",
       "revalidated_at": "2026-08-25T22:31:25+00:00"
     }
