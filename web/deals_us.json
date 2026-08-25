@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-08-25T14:16:03+00:00",
+  "generated_at": "2026-08-25T14:31:08+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0014CW4U2",
+      "title": "$2.37 S&S PLANTERS Salted Peanuts, Plant Based Protein Snacks, 16 Oz (1 Ct)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.37,
+      "price_old": 56.0,
+      "currency": "USD",
+      "discount_pct": 95.8,
+      "rating": 4.7,
+      "condition": "sns",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/81i4ohiPg7L._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0014CW4U2/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19914345",
+      "published_at": "2026-08-25T14:31:08+00:00",
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
+    },
+    {
+      "asin": "B0G59PBJPL",
+      "title": "16-Oz Dawn Platinum Plus Powerwash Dish Spray Refill (Lemon)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.8,
+      "price_old": 3.94,
+      "currency": "USD",
+      "discount_pct": 54.3,
+      "rating": 4.9,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71W8qK5bQTL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0G59PBJPL/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19922139",
+      "published_at": "2026-08-25T14:31:08+00:00",
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
+    },
+    {
+      "asin": "B0F59W26X6",
+      "title": "Amazon – ZITY Men's Sherpa-Lined Pullover Hoodie -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.99,
+      "price_old": 45.99,
+      "currency": "USD",
+      "discount_pct": 56.5,
+      "rating": null,
+      "condition": "code",
+      "code": "6BHR55OJ",
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21386235.thumb",
+      "url": "https://amazon.com/dp/B0F59W26X6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19923051",
+      "published_at": "2026-08-25T14:31:08+00:00",
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
+    },
+    {
+      "asin": "B07L32B9C2",
+      "title": "Anker 4-Port Ultra Slim USB 3.0 Hub w/ 2' Extended USB-A Cable (Black) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.99,
+      "price_old": 14.99,
+      "currency": "USD",
+      "discount_pct": 46.7,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21372018.thumb",
+      "url": "https://amazon.com/dp/B07L32B9C2/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19917132",
+      "published_at": "2026-08-25T14:31:08+00:00",
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
+    },
+    {
+      "asin": "B0GJFPKW8R",
+      "title": "12-Pk 12-Oz Gatorade Lower Sugar Electrolyte Drink (Lemonade)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.5,
+      "price_old": 6.97,
+      "currency": "USD",
+      "discount_pct": 35.4,
+      "rating": 4.5,
+      "condition": "sns",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81KDFgFwd3L._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GJFPKW8R/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19921566",
+      "published_at": "2026-08-25T14:31:08+00:00",
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
+    },
     {
       "asin": "B0G916YDXJ",
       "title": "[Prime] 8-Pack LETMY Solar Pathway Lights Outdoor w/ 8-LED 3000K (Warm White)",
@@ -243,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19917576",
       "published_at": "2026-08-25T12:46:11+00:00",
-      "revalidated_at": "2026-08-25T12:46:11+00:00"
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
     },
     {
       "asin": "B0B2MKMS27",
@@ -859,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19918659",
       "published_at": "2026-08-25T04:31:15+00:00",
-      "revalidated_at": "2026-08-25T12:46:11+00:00"
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
     },
     {
       "asin": "B091JKTZR1",
@@ -881,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19916910",
       "published_at": "2026-08-25T04:31:15+00:00",
-      "revalidated_at": "2026-08-25T12:46:11+00:00"
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
     },
     {
       "asin": "B08JPQFPKG",
@@ -947,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19920408",
       "published_at": "2026-08-25T03:01:12+00:00",
-      "revalidated_at": "2026-08-25T12:46:11+00:00"
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
     },
     {
       "asin": "B004S0PGN4",
@@ -1387,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919301",
       "published_at": "2026-08-25T01:16:26+00:00",
-      "revalidated_at": "2026-08-25T12:46:11+00:00"
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
     },
     {
       "asin": "B000N2HCKQ",
@@ -1453,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919745",
       "published_at": "2026-08-25T01:01:43+00:00",
-      "revalidated_at": "2026-08-25T12:31:18+00:00"
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
     },
     {
       "asin": "B07XW3FWFF",
@@ -1475,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919577",
       "published_at": "2026-08-25T01:01:43+00:00",
-      "revalidated_at": "2026-08-25T12:31:18+00:00"
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
     },
     {
       "asin": "B0DKJ288TC",
@@ -1497,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19918053",
       "published_at": "2026-08-25T01:01:43+00:00",
-      "revalidated_at": "2026-08-25T12:31:18+00:00"
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
     },
     {
       "asin": "B0BHMW8R6S",
@@ -1519,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19916940",
       "published_at": "2026-08-25T01:01:43+00:00",
-      "revalidated_at": "2026-08-25T12:46:11+00:00"
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
     },
     {
       "asin": "B0GB9HK357",
@@ -1541,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919625",
       "published_at": "2026-08-25T00:46:34+00:00",
-      "revalidated_at": "2026-08-25T12:46:11+00:00"
+      "revalidated_at": "2026-08-25T14:31:08+00:00"
     },
     {
       "asin": "B0BXS8XJVT",
@@ -2532,116 +2642,6 @@
       "deal_key": "sd:19918584",
       "published_at": "2026-08-24T20:31:07+00:00",
       "revalidated_at": "2026-08-25T13:04:30+00:00"
-    },
-    {
-      "asin": "B0DQN178J4",
-      "title": "The Vegan Creamery: Plant-Based Cheese, Milk, Ice Cream, and More (A Cookbook) (eBook) by Miyoko Schinner",
-      "title_es": "eBook The Vegan Creamery: Plant-Based Cheese, Milk, Ice Cream, and More (A Cookbook) de Miyoko Schinner",
-      "headline": null,
-      "post": "\"The Vegan Creamery\" de Miyoko Schinner es un eBook de recetas imprescindible para amantes de la cocina vegana, ofreciendo alternativas vegetales a lácteos como quesos y helados. Es perfecto para quienes buscan explorar opciones deliciosas y creativas sin productos animales.",
-      "post_en": "\"The Vegan Creamery\" by Miyoko Schinner is a must-have eBook for vegan cooking enthusiasts, offering plant-based alternatives to dairy like cheeses and ice creams. It's perfect for those looking to explore delicious and creative animal-free options.",
-      "price_new": 1.99,
-      "price_old": 14.99,
-      "currency": "USD",
-      "discount_pct": 86.7,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/91JIfY2yTbL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DQN178J4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19916496",
-      "published_at": "2026-08-24T20:16:02+00:00",
-      "revalidated_at": "2026-08-25T14:16:03+00:00"
-    },
-    {
-      "asin": "B0CR93BBF1",
-      "title": "Atlas Obscura: Wild Life: An Explorer's Guide to the World's Living Wonders (eBook) by Cara Giaimo, Joshua Foer, Atlas Obscura",
-      "title_es": "eBook Atlas Obscura: Wild Life: An Explorer's Guide to the World's Living Wonders",
-      "headline": null,
-      "post": "\"Atlas Obscura: Wild Life\" es un eBook que te sumerge en las maravillas vivas del mundo, desde criaturas extrañas hasta ecosistemas únicos. Ideal para exploradores de sillón y amantes de la naturaleza que buscan descubrimientos sorprendentes.",
-      "post_en": "\"Atlas Obscura: Wild Life\" is an eBook that immerses you in the world's living wonders, from strange creatures to unique ecosystems. It's ideal for armchair explorers and nature lovers seeking surprising discoveries.",
-      "price_new": 1.99,
-      "price_old": 18.99,
-      "currency": "USD",
-      "discount_pct": 89.5,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81ghUiB3IOL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CR93BBF1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19918956",
-      "published_at": "2026-08-24T20:00:56+00:00",
-      "revalidated_at": "2026-08-25T14:16:03+00:00"
-    },
-    {
-      "asin": "B0DPL9N9MV",
-      "title": "Backyard Discovery Barrington Cedar Wood Outdoor Gazebo Pavilion with Hardtop Galvanized Steel Hip Roof, Snow Support, Wind Resistance, PowerPort, various size, from",
-      "title_es": "Cenador de madera de cedro Backyard Discovery Barrington con techo rígido de acero galvanizado",
-      "headline": null,
-      "post": "El cenador Backyard Discovery Barrington de madera de cedro ofrece un espacio exterior elegante y duradero, con un techo rígido de acero galvanizado resistente a la nieve y al viento. Incluye PowerPort, ideal para crear una zona de relax o entretenimiento en tu jardín.",
-      "post_en": "The Backyard Discovery Barrington cedar wood gazebo offers an elegant and durable outdoor space, featuring a hardtop galvanized steel roof resistant to snow and wind. It includes a PowerPort, ideal for creating a relaxation or entertainment area in your garden.",
-      "price_new": 179.0,
-      "price_old": 781.0,
-      "currency": "USD",
-      "discount_pct": 77.1,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/81qqMp3OKJL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DPL9N9MV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19919436",
-      "published_at": "2026-08-24T20:00:56+00:00",
-      "revalidated_at": "2026-08-25T14:16:03+00:00"
-    },
-    {
-      "asin": "B0DQWN2GY3",
-      "title": "2-Pack CELOX Dish Brush w/ Soap Dispenser",
-      "title_es": "Pack de 2 cepillos CELOX para platos con dispensador de jabón",
-      "headline": null,
-      "post": "Este pack incluye dos cepillos de cocina CELOX con dispensador de jabón integrado, ideales para una limpieza eficiente. Son perfectos para quienes buscan comodidad y funcionalidad al lavar los platos.",
-      "post_en": "This pack includes two CELOX dish brushes with an integrated soap dispenser, ideal for efficient cleaning. They are perfect for those looking for convenience and functionality when washing dishes.",
-      "price_new": 6.87,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 80.4,
-      "rating": 4.2,
-      "condition": "code",
-      "code": "CELOX57OFF",
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71DGGIAwZqL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DQWN2GY3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19917789",
-      "published_at": "2026-08-24T19:46:01+00:00",
-      "revalidated_at": "2026-08-25T13:59:29+00:00"
-    },
-    {
-      "asin": "B0C7J25MVB",
-      "title": "[S&S]5oz CeraVe Acne Foaming Cream Wash, 10% Benzoyl Peroxide Facial Cleanser at Amazon",
-      "title_es": "Limpiador facial en crema espumosa CeraVe Acne de 5oz con 10% de peróxido de benzoilo",
-      "headline": null,
-      "post": "CeraVe Acne Foaming Cream Wash es un limpiador facial con 10% de peróxido de benzoilo, diseñado para tratar el acné y prevenir nuevos brotes. Es ideal para pieles propensas al acné que buscan una limpieza profunda y efectiva.",
-      "post_en": "CeraVe Acne Foaming Cream Wash is a facial cleanser with 10% benzoyl peroxide, designed to treat acne and prevent new breakouts. It's ideal for acne-prone skin looking for a deep and effective cleanse.",
-      "price_new": 9.49,
-      "price_old": 19.99,
-      "currency": "USD",
-      "discount_pct": 52.5,
-      "rating": 4.7,
-      "condition": "sns",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81JlZZYZosL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0C7J25MVB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19897089",
-      "published_at": "2026-08-24T19:46:01+00:00",
-      "revalidated_at": "2026-08-25T14:16:03+00:00"
     }
   ]
 }
