@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-25T12:31:18+00:00",
+  "generated_at": "2026-08-25T12:46:11+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0GKNH3WHB",
+      "title": "havit Dual Device Hybrid Noise Cancelling Headphones",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 21.6,
+      "price_old": 36.0,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/9/5/3/2/3/450x450/21373083.thumb",
+      "url": "https://amazon.com/dp/B0GKNH3WHB/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19917576",
+      "published_at": "2026-08-25T12:46:11+00:00",
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
+    },
     {
       "asin": "B0B2MKMS27",
       "title": "Empress of the Nile: The Daredevil Archaeologist Who Saved Egypt's Ancient Temples from Destruction (eBook) by Lynne Olson",
@@ -14,11 +36,11 @@
       "price_old": 9.99,
       "currency": "USD",
       "discount_pct": 80.1,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21382926.thumb",
+      "image": "https://m.media-amazon.com/images/I/71-g9eZXM1L._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0B2MKMS27/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19921632",
@@ -102,11 +124,11 @@
       "price_old": 57.0,
       "currency": "USD",
       "discount_pct": 79.6,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21384417.thumb",
+      "image": "https://m.media-amazon.com/images/I/617a8leSUzL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B004397VEW/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19922262",
@@ -222,28 +244,6 @@
       "deal_key": "sd:19920963",
       "published_at": "2026-08-25T11:15:44+00:00",
       "revalidated_at": "2026-08-25T11:15:44+00:00"
-    },
-    {
-      "asin": "B09X26ZHPV",
-      "title": "16\" EGO POWER+ 56V Cordless Chain Saw + 2.5Ah Battery & Charger at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 195.0,
-      "price_old": 279.99,
-      "currency": "USD",
-      "discount_pct": 30.4,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71WxFjcT4rL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09X26ZHPV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19921950",
-      "published_at": "2026-08-25T11:00:40+00:00",
-      "revalidated_at": "2026-08-25T11:00:40+00:00"
     },
     {
       "asin": "B0DQ4M4YKV",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19918659",
       "published_at": "2026-08-25T04:31:15+00:00",
-      "revalidated_at": "2026-08-25T11:00:40+00:00"
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
     },
     {
       "asin": "B091JKTZR1",
@@ -661,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19916910",
       "published_at": "2026-08-25T04:31:15+00:00",
-      "revalidated_at": "2026-08-25T11:00:40+00:00"
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
     },
     {
       "asin": "B08JPQFPKG",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19920408",
       "published_at": "2026-08-25T03:01:12+00:00",
-      "revalidated_at": "2026-08-25T11:00:40+00:00"
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
     },
     {
       "asin": "B004S0PGN4",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919301",
       "published_at": "2026-08-25T01:16:26+00:00",
-      "revalidated_at": "2026-08-25T11:00:40+00:00"
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
     },
     {
       "asin": "B000N2HCKQ",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19916940",
       "published_at": "2026-08-25T01:01:43+00:00",
-      "revalidated_at": "2026-08-25T11:00:40+00:00"
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
     },
     {
       "asin": "B0GB9HK357",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919625",
       "published_at": "2026-08-25T00:46:34+00:00",
-      "revalidated_at": "2026-08-25T11:00:40+00:00"
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
     },
     {
       "asin": "B0BXS8XJVT",
@@ -1343,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19920225",
       "published_at": "2026-08-25T00:46:34+00:00",
-      "revalidated_at": "2026-08-25T11:00:40+00:00"
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
     },
     {
       "asin": "B09CTK5PZT",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19916856",
       "published_at": "2026-08-24T23:31:27+00:00",
-      "revalidated_at": "2026-08-25T11:00:40+00:00"
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
     },
     {
       "asin": "B0CNKNZ1XS",
@@ -1585,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19904502",
       "published_at": "2026-08-24T23:31:27+00:00",
-      "revalidated_at": "2026-08-25T11:00:40+00:00"
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
     },
     {
       "asin": "B0742QXMH2",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919415",
       "published_at": "2026-08-24T23:16:18+00:00",
-      "revalidated_at": "2026-08-25T11:00:40+00:00"
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
     },
     {
       "asin": "B0DZMBNZHB",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919667",
       "published_at": "2026-08-24T22:01:31+00:00",
-      "revalidated_at": "2026-08-25T11:00:40+00:00"
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
     },
     {
       "asin": "B0FXB2KHK5",
@@ -2267,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919439",
       "published_at": "2026-08-24T20:31:07+00:00",
-      "revalidated_at": "2026-08-25T11:00:40+00:00"
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
     },
     {
       "asin": "B000OCXFWE",
@@ -2619,29 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19918506",
       "published_at": "2026-08-24T18:30:55+00:00",
-      "revalidated_at": "2026-08-25T10:53:14+00:00"
-    },
-    {
-      "asin": "B0GCD4X6MX",
-      "title": "Belle Poque Polka Dot Dress Mini Short HOCO Cocktail Party Dress Cream S",
-      "title_es": "Vestido mini de cóctel Belle Poque de lunares (Cream, talla S)",
-      "headline": null,
-      "post": "El vestido Belle Poque de lunares es una opción encantadora para fiestas de cóctel o eventos especiales. Su diseño mini y estilo vintage lo hacen perfecto para un look divertido y elegante.",
-      "post_en": "The Belle Poque polka dot dress is a charming option for cocktail parties or special events. Its mini design and vintage style make it perfect for a fun and elegant look.",
-      "price_new": 14.97,
-      "price_old": 29.57,
-      "currency": "USD",
-      "discount_pct": 49.4,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/61vVWeOqikL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GCD4X6MX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19917717",
-      "published_at": "2026-08-24T18:30:55+00:00",
-      "revalidated_at": "2026-08-25T10:53:14+00:00"
+      "revalidated_at": "2026-08-25T12:46:11+00:00"
     }
   ]
 }
