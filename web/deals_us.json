@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-25T21:46:27+00:00",
+  "generated_at": "2026-08-25T22:01:26+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B0DWX4YTLJ",
+      "title": "Amazon - Uineer Ergonomic Wireless Vertical Mouse -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.99,
+      "price_old": 23.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.4,
+      "condition": "code",
+      "code": "A06P500825Q",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61zOalL59AL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DWX4YTLJ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19924287",
+      "published_at": "2026-08-25T22:01:26+00:00",
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
+    },
     {
       "asin": "B0BJTKYLCB",
       "title": "Resident Evil 4 (PlayStation 5) at Amazon",
@@ -90,28 +112,6 @@
       "deal_key": "sd:19924311",
       "published_at": "2026-08-25T21:13:23+00:00",
       "revalidated_at": "2026-08-25T21:13:23+00:00"
-    },
-    {
-      "asin": "B0BTK795C9",
-      "title": "Best Choice Products Set of 2 Adjustable Steel Mesh Zero Gravity Lounge Chair Recliners w/Pillows and Cup Holder Trays - American Flag",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 79.99,
-      "price_old": 129.99,
-      "currency": "USD",
-      "discount_pct": 38.5,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/91Pp1gYE4fL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0BTK795C9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19924638",
-      "published_at": "2026-08-25T20:31:04+00:00",
-      "revalidated_at": "2026-08-25T20:31:04+00:00"
     },
     {
       "asin": "B0DYQGRHX3",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19922760",
       "published_at": "2026-08-25T19:03:31+00:00",
-      "revalidated_at": "2026-08-25T20:31:04+00:00"
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
     },
     {
       "asin": "B00JCS4NMC",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19922469",
       "published_at": "2026-08-25T14:46:02+00:00",
-      "revalidated_at": "2026-08-25T20:31:04+00:00"
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
     },
     {
       "asin": "B0014CW4U2",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19922409",
       "published_at": "2026-08-25T13:01:28+00:00",
-      "revalidated_at": "2026-08-25T20:31:04+00:00"
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
     },
     {
       "asin": "B0DB5GWLL4",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19917243",
       "published_at": "2026-08-25T13:01:28+00:00",
-      "revalidated_at": "2026-08-25T20:31:04+00:00"
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
     },
     {
       "asin": "B0H6M2SWFL",
@@ -1233,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19922250",
       "published_at": "2026-08-25T13:01:28+00:00",
-      "revalidated_at": "2026-08-25T20:31:04+00:00"
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
     },
     {
       "asin": "B0GKNH3WHB",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19917576",
       "published_at": "2026-08-25T12:46:11+00:00",
-      "revalidated_at": "2026-08-25T20:31:04+00:00"
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
     },
     {
       "asin": "B0B2MKMS27",
@@ -1431,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19920963",
       "published_at": "2026-08-25T11:15:44+00:00",
-      "revalidated_at": "2026-08-25T20:31:04+00:00"
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
     },
     {
       "asin": "B0DQ4M4YKV",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19921893",
       "published_at": "2026-08-25T09:30:44+00:00",
-      "revalidated_at": "2026-08-25T20:31:04+00:00"
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
     },
     {
       "asin": "B0C3PPW4JY",
@@ -1629,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19921848",
       "published_at": "2026-08-25T09:30:44+00:00",
-      "revalidated_at": "2026-08-25T20:31:04+00:00"
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
     },
     {
       "asin": "B0C2B8CCR1",
@@ -1717,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19921092",
       "published_at": "2026-08-25T07:30:41+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
     },
     {
       "asin": "B0H6HRBQBD",
@@ -1783,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919976",
       "published_at": "2026-08-25T06:01:07+00:00",
-      "revalidated_at": "2026-08-25T20:31:04+00:00"
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
     },
     {
       "asin": "B0F8QDDQFL",
@@ -1937,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19920042",
       "published_at": "2026-08-25T02:16:12+00:00",
-      "revalidated_at": "2026-08-25T20:31:04+00:00"
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
     },
     {
       "asin": "B0GWQ5QSRL",
@@ -2619,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19916268",
       "published_at": "2026-08-25T00:17:02+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
+      "revalidated_at": "2026-08-25T22:01:26+00:00"
     }
   ]
 }
