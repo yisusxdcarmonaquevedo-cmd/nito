@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T02:16:12+00:00",
+  "generated_at": "2026-08-25T02:31:10+00:00",
   "market": "us",
   "count": 119,
   "deals": [
@@ -322,11 +322,11 @@
       "price_old": 31.99,
       "currency": "USD",
       "discount_pct": 53.1,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/21378795.thumb",
+      "image": "https://m.media-amazon.com/images/I/71Pbr+JhKhL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GFJ49Y36/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19919658",
@@ -344,11 +344,11 @@
       "price_old": 84.99,
       "currency": "USD",
       "discount_pct": 47.1,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/21378276.thumb",
+      "image": "https://m.media-amazon.com/images/I/81kpZrxFKeL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DZXNHNDD/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19919478",
@@ -432,11 +432,11 @@
       "price_old": 98.99,
       "currency": "USD",
       "discount_pct": 34.3,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "REQUIRED",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21372981.thumb",
+      "image": "https://m.media-amazon.com/images/I/61LNmczVLSL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FFBJ9P6W/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19917540",
@@ -520,11 +520,11 @@
       "price_old": 9.99,
       "currency": "USD",
       "discount_pct": 80.1,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21370644.thumb",
+      "image": "https://m.media-amazon.com/images/I/819mJU6ALHL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0036S49QE/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19916475",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19918545",
       "published_at": "2026-08-25T00:31:19+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B0GT97X2FC",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919166",
       "published_at": "2026-08-25T00:31:19+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B0F25RG6QC",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19917681",
       "published_at": "2026-08-24T21:46:24+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B0F7TL5W1N",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19916496",
       "published_at": "2026-08-24T20:16:02+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B0CR93BBF1",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19916184",
       "published_at": "2026-08-24T19:01:06+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B00P7PHTBG",
@@ -1893,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19910697",
       "published_at": "2026-08-24T19:01:06+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B084V8N7Q4",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19918506",
       "published_at": "2026-08-24T18:30:55+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B0GCD4X6MX",
@@ -2003,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19917717",
       "published_at": "2026-08-24T18:30:55+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B01BUX7Z7Q",
@@ -2025,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19918626",
       "published_at": "2026-08-24T18:30:55+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B0H4VSNK9B",
@@ -2069,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19918593",
       "published_at": "2026-08-24T18:15:52+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B0GTRPBPRR",
@@ -2091,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19918041",
       "published_at": "2026-08-24T18:15:52+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B0791ZPVTY",
@@ -2113,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19918875",
       "published_at": "2026-08-24T18:15:52+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B0GK8TGCX6",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19916469",
       "published_at": "2026-08-24T17:00:20+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B0G6JH8R3S",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19916787",
       "published_at": "2026-08-24T16:45:57+00:00",
-      "revalidated_at": "2026-08-25T00:31:19+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B0DL59ZSBB",
@@ -2509,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19918101",
       "published_at": "2026-08-24T16:19:17+00:00",
-      "revalidated_at": "2026-08-25T00:25:33+00:00"
+      "revalidated_at": "2026-08-25T02:31:10+00:00"
     },
     {
       "asin": "B00513HXAG",
