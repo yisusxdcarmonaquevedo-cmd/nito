@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-25T21:31:24+00:00",
+  "generated_at": "2026-08-25T21:46:27+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0BJTKYLCB",
+      "title": "Resident Evil 4 (PlayStation 5) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 16.49,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 72.5,
+      "rating": 4.8,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/712XPl7+qKL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0BJTKYLCB/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19923648",
+      "published_at": "2026-08-25T21:46:27+00:00",
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
+    },
     {
       "asin": "B0FW595WML",
       "title": "BBIBBI Women’s Regular/Petite/Tall Wrinkle-Resistant Stretch Cotton-Blend Long-Sleeve Button-Down Shirt (XS–6XL, Various Colors) from",
@@ -334,28 +356,6 @@
       "revalidated_at": "2026-08-25T20:31:04+00:00"
     },
     {
-      "asin": "B0BRXK7NT2",
-      "title": "EGO POWER+ 56V 26\" Brushless Hedge Trimmer w/ 2.5 Ah Battery & Charger at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 195.0,
-      "price_old": 279.99,
-      "currency": "USD",
-      "discount_pct": 30.4,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/41+XM8DpYAL._AC_SL1080_.jpg",
-      "url": "https://amazon.com/dp/B0BRXK7NT2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19924359",
-      "published_at": "2026-08-25T19:01:23+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
-    },
-    {
       "asin": "B00JCS4NMC",
       "title": "No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind (eBook) by Daniel J. Siegel M.D., Tina Payne Bryson",
       "title_es": null,
@@ -661,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19921581",
       "published_at": "2026-08-25T17:31:19+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
     },
     {
       "asin": "B075K55S4K",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19914345",
       "published_at": "2026-08-25T14:31:08+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
     },
     {
       "asin": "B0G59PBJPL",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19922139",
       "published_at": "2026-08-25T14:31:08+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
     },
     {
       "asin": "B0F59W26X6",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923051",
       "published_at": "2026-08-25T14:31:08+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
     },
     {
       "asin": "B07L32B9C2",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19917132",
       "published_at": "2026-08-25T14:31:08+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
     },
     {
       "asin": "B0GJFPKW8R",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19921566",
       "published_at": "2026-08-25T14:31:08+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
     },
     {
       "asin": "B0G916YDXJ",
@@ -1224,11 +1224,11 @@
       "price_old": 14.99,
       "currency": "USD",
       "discount_pct": 33.4,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21384408.thumb",
+      "image": "https://m.media-amazon.com/images/I/81RipbqhGgL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H6M2SWFL/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19922250",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919838",
       "published_at": "2026-08-25T10:53:14+00:00",
-      "revalidated_at": "2026-08-25T20:10:10+00:00"
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
     },
     {
       "asin": "B0H8XRP4YK",
@@ -1475,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919916",
       "published_at": "2026-08-25T10:45:51+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
     },
     {
       "asin": "B095WNBLMN",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19921785",
       "published_at": "2026-08-25T10:45:51+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
     },
     {
       "asin": "B0DPHB6FSG",
@@ -1519,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19906389",
       "published_at": "2026-08-25T10:45:51+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
     },
     {
       "asin": "B0B6Z4SVTH",
@@ -1651,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19921839",
       "published_at": "2026-08-25T09:00:40+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
     },
     {
       "asin": "B07B3DWF52",
@@ -2575,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919727",
       "published_at": "2026-08-25T00:17:02+00:00",
-      "revalidated_at": "2026-08-25T20:10:10+00:00"
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
     },
     {
       "asin": "B07X3JRSF2",
@@ -2597,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919736",
       "published_at": "2026-08-25T00:17:02+00:00",
-      "revalidated_at": "2026-08-25T20:10:10+00:00"
+      "revalidated_at": "2026-08-25T21:46:27+00:00"
     },
     {
       "asin": "B071WWY2W7",
@@ -2618,28 +2618,6 @@
       "url": "https://amazon.com/dp/B071WWY2W7/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19916268",
-      "published_at": "2026-08-25T00:17:02+00:00",
-      "revalidated_at": "2026-08-25T20:15:58+00:00"
-    },
-    {
-      "asin": "B01JG5UG1W",
-      "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray",
-      "title_es": "Versace Pour Homme Dylan Blue para hombre, Eau de Toilette en spray 6.7 oz",
-      "headline": null,
-      "post": "Esta fragancia Versace Pour Homme Dylan Blue es una Eau de Toilette masculina con un aroma distintivo y elegante. Perfecta para el hombre moderno que busca un toque sofisticado en su día a día. ✨",
-      "post_en": "This Versace Pour Homme Dylan Blue fragrance is a masculine Eau de Toilette with a distinctive and elegant scent. Perfect for the modern man seeking a sophisticated touch in his daily routine. ✨",
-      "price_new": 69.99,
-      "price_old": 160.0,
-      "currency": "USD",
-      "discount_pct": 56.3,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/51ir1sksNHL._SL1000_.jpg",
-      "url": "https://amazon.com/dp/B01JG5UG1W/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19917957",
       "published_at": "2026-08-25T00:17:02+00:00",
       "revalidated_at": "2026-08-25T20:15:58+00:00"
     }
