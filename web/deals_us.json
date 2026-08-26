@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T01:52:12+00:00",
+  "generated_at": "2026-08-26T02:01:07+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
     {
       "asin": "B0D9N6VWCG",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923702",
       "published_at": "2026-08-25T21:16:20+00:00",
-      "revalidated_at": "2026-08-26T00:16:01+00:00"
+      "revalidated_at": "2026-08-26T02:01:07+00:00"
     },
     {
       "asin": "B0GK9857FX",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19924233",
       "published_at": "2026-08-25T20:01:10+00:00",
-      "revalidated_at": "2026-08-26T00:16:01+00:00"
+      "revalidated_at": "2026-08-26T02:01:07+00:00"
     },
     {
       "asin": "B00005249G",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19915596",
       "published_at": "2026-08-25T20:01:10+00:00",
-      "revalidated_at": "2026-08-26T00:16:01+00:00"
+      "revalidated_at": "2026-08-26T02:01:07+00:00"
     },
     {
       "asin": "B0F21LF3CM",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19909161",
       "published_at": "2026-08-25T20:01:10+00:00",
-      "revalidated_at": "2026-08-26T00:16:01+00:00"
+      "revalidated_at": "2026-08-26T02:01:07+00:00"
     },
     {
       "asin": "B0GNSXXNRT",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923750",
       "published_at": "2026-08-25T18:31:23+00:00",
-      "revalidated_at": "2026-08-26T00:16:01+00:00"
+      "revalidated_at": "2026-08-26T02:01:07+00:00"
     },
     {
       "asin": "B0GWZJBSYB",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923840",
       "published_at": "2026-08-25T18:31:23+00:00",
-      "revalidated_at": "2026-08-26T00:16:01+00:00"
+      "revalidated_at": "2026-08-26T02:01:07+00:00"
     },
     {
       "asin": "B0D3LXK3W1",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19924353",
       "published_at": "2026-08-25T18:31:23+00:00",
-      "revalidated_at": "2026-08-26T00:16:01+00:00"
+      "revalidated_at": "2026-08-26T02:01:07+00:00"
     },
     {
       "asin": "B0BZHZ56M9",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923834",
       "published_at": "2026-08-25T18:31:23+00:00",
-      "revalidated_at": "2026-08-26T00:16:01+00:00"
+      "revalidated_at": "2026-08-26T02:01:07+00:00"
     },
     {
       "asin": "B0BGSDTZVF",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923765",
       "published_at": "2026-08-25T17:16:09+00:00",
-      "revalidated_at": "2026-08-26T00:16:01+00:00"
+      "revalidated_at": "2026-08-26T02:01:07+00:00"
     },
     {
       "asin": "B0D92PCN7H",
@@ -1588,28 +1588,6 @@
       "revalidated_at": "2026-08-26T00:46:12+00:00"
     },
     {
-      "asin": "B0FBZH28Q1",
-      "title": "2-Pack 2.9-Oz McCormick Grill Mates Sweet & Tangy Grilling Seasoning",
-      "title_es": "Pack de 2 Sazonadores McCormick Grill Mates Sweet & Tangy para Parrilla de 2.9 Oz",
-      "headline": null,
-      "post": "Dale un toque especial a tus asados con este pack de 2 sazonadores McCormick Grill Mates Sweet & Tangy. Su mezcla dulce y ácida es ideal para carnes y verduras a la parrilla.",
-      "post_en": "Add a special touch to your barbecues with this 2-pack of McCormick Grill Mates Sweet & Tangy seasoning. Its sweet and tangy blend is ideal for grilled meats and vegetables.",
-      "price_new": 3.74,
-      "price_old": 11.9,
-      "currency": "USD",
-      "discount_pct": 68.6,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/813KtnReB1L._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FBZH28Q1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19921323",
-      "published_at": "2026-08-25T13:46:04+00:00",
-      "revalidated_at": "2026-08-26T00:01:35+00:00"
-    },
-    {
       "asin": "B00KWRM78E",
       "title": "20-Volt DeWALT MAX LED Work Light (Tool Only, DCL050)",
       "title_es": "Linterna de Trabajo LED DeWALT MAX de 20 Voltios (Solo Herramienta, DCL050)",
@@ -1629,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19922754",
       "published_at": "2026-08-25T13:46:04+00:00",
-      "revalidated_at": "2026-08-26T00:01:35+00:00"
+      "revalidated_at": "2026-08-26T02:01:07+00:00"
     },
     {
       "asin": "B0DYK7Y2YB",
@@ -1874,28 +1852,6 @@
       "revalidated_at": "2026-08-26T01:01:30+00:00"
     },
     {
-      "asin": "B0D2M31483",
-      "title": "5-Count 6.5-Ounce Nature Valley Strawberry Creamy Wafer Bars",
-      "title_es": "Barras de oblea cremosas de fresa Nature Valley de 6.5 onzas (5 unidades)",
-      "headline": null,
-      "post": "Disfruta de estas deliciosas barras de oblea cremosas de fresa Nature Valley, perfectas para un snack rápido. Son una opción sabrosa y ligera para llevar contigo a cualquier parte.",
-      "post_en": "Enjoy these delicious Nature Valley Strawberry Creamy Wafer Bars, perfect for a quick snack. They are a tasty and light option to take with you anywhere.",
-      "price_new": 2.78,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 92.1,
-      "rating": 4.4,
-      "condition": "coupon",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81KeZ5g2pWL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D2M31483/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19893492",
-      "published_at": "2026-08-25T12:00:03+00:00",
-      "revalidated_at": "2026-08-26T00:01:35+00:00"
-    },
-    {
       "asin": "B0FMNN3T5L",
       "title": "8-Piece ELEAD Flex Head Crows Foot Wrench Set at Amazon",
       "title_es": "Juego de 8 llaves de pata de cuervo ELEAD Flex Head",
@@ -2047,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19921623",
       "published_at": "2026-08-25T10:15:37+00:00",
-      "revalidated_at": "2026-08-26T00:01:35+00:00"
+      "revalidated_at": "2026-08-26T02:01:07+00:00"
     },
     {
       "asin": "B0FNCCZ3X4",
@@ -2157,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19919892",
       "published_at": "2026-08-25T08:30:37+00:00",
-      "revalidated_at": "2026-08-26T00:16:01+00:00"
+      "revalidated_at": "2026-08-26T02:01:07+00:00"
     },
     {
       "asin": "B07R4659ZY",
@@ -2487,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19915371",
       "published_at": "2026-08-25T02:01:40+00:00",
-      "revalidated_at": "2026-08-26T00:01:35+00:00"
+      "revalidated_at": "2026-08-26T02:01:07+00:00"
     },
     {
       "asin": "B0DJ1BTW9H",
