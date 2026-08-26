@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-26T20:31:33+00:00",
+  "generated_at": "2026-08-26T20:46:38+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B01F36JBDM",
+      "title": "12-Piece BEAKEY Makeup Brush Set w/ 2 Blending Sponges",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.87,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 86.1,
+      "rating": 4.5,
+      "condition": "code",
+      "code": "PRUHILDF",
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71xxsUicLnL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B01F36JBDM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19928997",
+      "published_at": "2026-08-26T20:46:38+00:00",
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
+    },
     {
       "asin": "0451532376",
       "title": "32-Pg. \"Coat of Many Colors\" by Dolly Parton (Hardcover) Book",
@@ -177,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19928460",
       "published_at": "2026-08-26T19:01:36+00:00",
-      "revalidated_at": "2026-08-26T19:01:36+00:00"
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
     },
     {
       "asin": "B0H3BC3R48",
@@ -199,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19922472",
       "published_at": "2026-08-26T19:01:36+00:00",
-      "revalidated_at": "2026-08-26T19:01:36+00:00"
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
     },
     {
       "asin": "B004G60FWM",
@@ -486,28 +508,6 @@
       "deal_key": "sd:19928205",
       "published_at": "2026-08-26T17:16:30+00:00",
       "revalidated_at": "2026-08-26T19:14:01+00:00"
-    },
-    {
-      "asin": "B01KL0DY0Q",
-      "title": "48-Count Panasonic Platinum Power AA Alkaline Battery at Amazon (26.6￠ each)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 12.79,
-      "price_old": 33.99,
-      "currency": "USD",
-      "discount_pct": 62.4,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81-ZUH7mNgL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B01KL0DY0Q/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19928502",
-      "published_at": "2026-08-26T17:01:29+00:00",
-      "revalidated_at": "2026-08-26T19:01:36+00:00"
     },
     {
       "asin": "B0BRXJVG1S",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19927812",
       "published_at": "2026-08-26T14:46:25+00:00",
-      "revalidated_at": "2026-08-26T19:01:36+00:00"
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
     },
     {
       "asin": "B07531HM8Q",
@@ -881,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19928106",
       "published_at": "2026-08-26T14:46:25+00:00",
-      "revalidated_at": "2026-08-26T19:01:36+00:00"
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
     },
     {
       "asin": "B0F6W7HRY9",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19928001",
       "published_at": "2026-08-26T14:46:25+00:00",
-      "revalidated_at": "2026-08-26T19:01:36+00:00"
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
     },
     {
       "asin": "B0GT33HGT9",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19928067",
       "published_at": "2026-08-26T14:46:25+00:00",
-      "revalidated_at": "2026-08-26T19:01:36+00:00"
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
     },
     {
       "asin": "B00BKRW5E6",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19926882",
       "published_at": "2026-08-26T13:16:25+00:00",
-      "revalidated_at": "2026-08-26T19:01:36+00:00"
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
     },
     {
       "asin": "B0CYXX3PX1",
@@ -1246,11 +1246,11 @@
       "price_old": 299.96,
       "currency": "USD",
       "discount_pct": 45.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "AEROGO45",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/3/3/5/6/0/450x450/21394941.thumb",
+      "image": "https://m.media-amazon.com/images/I/61vpkAPkPlL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GHXQTLMR/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19926597",
@@ -1343,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19927338",
       "published_at": "2026-08-26T11:46:26+00:00",
-      "revalidated_at": "2026-08-26T19:01:36+00:00"
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
     },
     {
       "asin": "B0HBFZDB3F",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19924854",
       "published_at": "2026-08-26T03:46:23+00:00",
-      "revalidated_at": "2026-08-26T18:46:41+00:00"
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
     },
     {
       "asin": "B0DRW3KMXK",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19925865",
       "published_at": "2026-08-26T03:46:23+00:00",
-      "revalidated_at": "2026-08-26T18:46:41+00:00"
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
     },
     {
       "asin": "B0CX52LHM1",
@@ -1717,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19924341",
       "published_at": "2026-08-26T03:46:23+00:00",
-      "revalidated_at": "2026-08-26T18:46:41+00:00"
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
     },
     {
       "asin": "B0CWNQ5PYJ",
@@ -1937,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19925334",
       "published_at": "2026-08-26T02:16:32+00:00",
-      "revalidated_at": "2026-08-26T18:46:41+00:00"
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
     },
     {
       "asin": "B0DX3ZYFPB",
@@ -1959,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19925754",
       "published_at": "2026-08-26T02:16:32+00:00",
-      "revalidated_at": "2026-08-26T19:01:36+00:00"
+      "revalidated_at": "2026-08-26T20:46:38+00:00"
     },
     {
       "asin": "B08P67X7PT",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19924269",
       "published_at": "2026-08-25T20:10:10+00:00",
       "revalidated_at": "2026-08-26T19:46:24+00:00"
-    },
-    {
-      "asin": "B075YX6KK6",
-      "title": "55\"*106\" Sunyear Camping Hammock w/ Mosquito Net & 2-10' Straps",
-      "title_es": "Hamaca de camping Sunyear de 55\"*106\" con mosquitera y 2 correas de 10'",
-      "headline": null,
-      "post": "Disfruta de la naturaleza con esta hamaca de camping Sunyear, que incluye mosquitera integrada y dos correas de 10 pies para una fácil instalación. Es perfecta para relajarse al aire libre, protegida de insectos. 🏕️",
-      "post_en": "Enjoy nature with this Sunyear camping hammock, which includes an integrated mosquito net and two 10-foot straps for easy setup. It's perfect for relaxing outdoors, protected from insects. 🏕️",
-      "price_new": 14.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 57.2,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "W6US44XW",
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/61Z6xwIpX1L._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B075YX6KK6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19924662",
-      "published_at": "2026-08-25T20:10:10+00:00",
-      "revalidated_at": "2026-08-26T20:01:31+00:00"
     }
   ]
 }
