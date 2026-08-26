@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-26T13:01:27+00:00",
+  "generated_at": "2026-08-26T13:16:25+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0CD2F4B1G",
+      "title": "Bose Quietcomfort Ultra Wireless Noise Cancelling Earbuds (White Smoke) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 169.0,
+      "price_old": 299.0,
+      "currency": "USD",
+      "discount_pct": 43.5,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21395976.thumb",
+      "url": "https://amazon.com/dp/B0CD2F4B1G/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19926882",
+      "published_at": "2026-08-26T13:16:25+00:00",
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
+    },
     {
       "asin": "B0CYXX3PX1",
       "title": "The Correspondent: A Novel (eBook) by Virginia Evans",
@@ -36,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 71.5,
-      "rating": null,
+      "rating": 4.8,
       "condition": "prime",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/21397749.thumb",
+      "image": "https://m.media-amazon.com/images/I/51Sam5ZIDgL._AC_SL1250_.jpg",
       "url": "https://amazon.com/dp/B07K39RYQM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19927533",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19927338",
       "published_at": "2026-08-26T11:46:26+00:00",
-      "revalidated_at": "2026-08-26T11:46:26+00:00"
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
     },
     {
       "asin": "B0HBFZDB3F",
@@ -309,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19925010",
       "published_at": "2026-08-26T11:46:26+00:00",
-      "revalidated_at": "2026-08-26T11:46:26+00:00"
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
     },
     {
       "asin": "B0CWJ9G31W",
@@ -331,29 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19926786",
       "published_at": "2026-08-26T11:46:26+00:00",
-      "revalidated_at": "2026-08-26T11:46:26+00:00"
-    },
-    {
-      "asin": "B0DHLGKXM7",
-      "title": "559-Piece LEGO Star Wars: Starship Collection - Home One Starcruiser (75405, 2025) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 48.99,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 30.0,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71CBEsCYibL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DHLGKXM7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19926714",
-      "published_at": "2026-08-26T11:46:26+00:00",
-      "revalidated_at": "2026-08-26T11:46:26+00:00"
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
     },
     {
       "asin": "B00004SY4H",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923279",
       "published_at": "2026-08-26T08:45:59+00:00",
-      "revalidated_at": "2026-08-26T11:46:26+00:00"
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
     },
     {
       "asin": "B0FGQ2MRCL",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19926447",
       "published_at": "2026-08-26T07:14:28+00:00",
-      "revalidated_at": "2026-08-26T11:46:26+00:00"
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
     },
     {
       "asin": "B0G2YLK6RC",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19922661",
       "published_at": "2026-08-26T07:14:28+00:00",
-      "revalidated_at": "2026-08-26T11:46:26+00:00"
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
     },
     {
       "asin": "B0GVWBCLWB",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19925607",
       "published_at": "2026-08-26T02:31:25+00:00",
-      "revalidated_at": "2026-08-26T11:46:26+00:00"
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
     },
     {
       "asin": "B0DYNXC8W8",
@@ -881,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923990",
       "published_at": "2026-08-26T02:31:25+00:00",
-      "revalidated_at": "2026-08-26T11:46:26+00:00"
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
     },
     {
       "asin": "B0H6MGXK36",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19925967",
       "published_at": "2026-08-26T02:31:25+00:00",
-      "revalidated_at": "2026-08-26T11:46:26+00:00"
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
     },
     {
       "asin": "B0C5SJ23HT",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19925472",
       "published_at": "2026-08-26T00:46:12+00:00",
-      "revalidated_at": "2026-08-26T11:46:26+00:00"
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
     },
     {
       "asin": "B01E9EZ0HK",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19922883",
       "published_at": "2026-08-26T00:46:12+00:00",
-      "revalidated_at": "2026-08-26T11:46:26+00:00"
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
     },
     {
       "asin": "B0GL7S8TRD",
@@ -2201,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19895826",
       "published_at": "2026-08-25T16:48:50+00:00",
-      "revalidated_at": "2026-08-26T11:31:08+00:00"
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
     },
     {
       "asin": "B0FS5YHZJX",
@@ -2223,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923180",
       "published_at": "2026-08-25T16:48:50+00:00",
-      "revalidated_at": "2026-08-26T11:31:08+00:00"
+      "revalidated_at": "2026-08-26T13:16:25+00:00"
     },
     {
       "asin": "B0FVXP8M33",
@@ -2619,28 +2619,6 @@
       "source": "slickdeals",
       "deal_key": "sd:19917576",
       "published_at": "2026-08-25T12:46:11+00:00",
-      "revalidated_at": "2026-08-26T12:19:50+00:00"
-    },
-    {
-      "asin": "B0B2MKMS27",
-      "title": "Empress of the Nile: The Daredevil Archaeologist Who Saved Egypt's Ancient Temples from Destruction (eBook) by Lynne Olson",
-      "title_es": "Empress of the Nile: The Daredevil Archaeologist Who Saved Egypt's Ancient Temples from Destruction (eBook) de Lynne Olson",
-      "headline": null,
-      "post": "Descubre la fascinante historia de una arqueóloga audaz que salvó los templos antiguos de Egipto en este eBook de Lynne Olson. Una lectura cautivadora para amantes de la historia y las biografías. 📖",
-      "post_en": "Discover the fascinating story of a daring archaeologist who saved Egypt's ancient temples in this eBook by Lynne Olson. A captivating read for history and biography lovers. 📖",
-      "price_new": 1.99,
-      "price_old": 9.99,
-      "currency": "USD",
-      "discount_pct": 80.1,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71-g9eZXM1L._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0B2MKMS27/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19921632",
-      "published_at": "2026-08-25T12:31:18+00:00",
       "revalidated_at": "2026-08-26T12:19:50+00:00"
     }
   ]
