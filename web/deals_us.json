@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-27T00:01:39+00:00",
+  "generated_at": "2026-08-27T00:16:05+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0D3HBC4ZJ",
       "title": "2-Pack Ekouaer Women's Long Sleeve Scoop Neck Lounge Set (Various)",
-      "title_es": null,
+      "title_es": "Pack de 2 conjuntos de loungewear de manga larga y cuello redondo Ekouaer para mujer (varios)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack incluye dos cómodos conjuntos de loungewear Ekouaer con manga larga y cuello redondo, perfectos para relajarse en casa. Son ideales para quienes buscan confort y estilo casual en su vestuario diario.",
+      "post_en": "This pack includes two comfortable Ekouaer long-sleeve, scoop-neck lounge sets, perfect for relaxing at home. They are ideal for those seeking comfort and casual style in their daily wardrobe.",
       "price_new": 9.99,
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 71.5,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "96GJTS97",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21404277.thumb",
+      "image": "https://m.media-amazon.com/images/I/71vPv+S+bwL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D3HBC4ZJ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19929843",
@@ -28,10 +28,10 @@
     {
       "asin": "B0DMZSD9LW",
       "title": "Wet Brush Ceramic Speed Dry Detangler, Black, Vented Blow-Dry Hair Brush",
-      "title_es": null,
+      "title_es": "Cepillo desenredante Wet Brush Ceramic Speed Dry, negro, ventilado para secado rápido",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este cepillo Wet Brush Ceramic Speed Dry está diseñado para desenredar el cabello rápidamente y ayudar a acelerar el secado con secador. Sus cerdas y diseño ventilado lo hacen ideal para un cuidado eficiente del cabello.",
+      "post_en": "This Wet Brush Ceramic Speed Dry brush is designed to quickly detangle hair and help speed up blow-drying. Its bristles and vented design make it ideal for efficient hair care.",
       "price_new": 8.66,
       "price_old": 17.49,
       "currency": "USD",
@@ -50,10 +50,10 @@
     {
       "asin": "B0FYN8HM9V",
       "title": "medicube Jelly Mist Serum with Kojic Acid Turmeric, 2.02 fl.oz",
-      "title_es": null,
+      "title_es": "Sérum en bruma medicube Jelly Mist con ácido kójico y cúrcuma, 2.02 fl.oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El medicube Jelly Mist Serum es una bruma facial enriquecida con ácido kójico y cúrcuma, conocida por sus propiedades para la piel. Es un complemento ideal para quienes buscan mejorar la luminosidad y el tono de su cutis. ✨",
+      "post_en": "The medicube Jelly Mist Serum is a facial mist enriched with Kojic Acid and Turmeric, known for their skin properties. It's an ideal addition for those looking to improve their complexion's radiance and tone. ✨",
       "price_new": 9.9,
       "price_old": 20.0,
       "currency": "USD",
@@ -72,10 +72,10 @@
     {
       "asin": "B0H239T2GS",
       "title": "2-Pc Desol Women's Long-Sleeve Lounge Pajamas Set (various)",
-      "title_es": null,
+      "title_es": "Conjunto de pijama de loungewear de manga larga Desol para mujer, 2 piezas (varios)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este conjunto de pijama Desol de dos piezas ofrece comodidad con su diseño de manga larga, perfecto para estar en casa o dormir. Es una opción práctica y suave para el descanso diario.",
+      "post_en": "This two-piece Desol long-sleeve lounge pajama set offers comfort with its design, perfect for lounging or sleeping. It's a practical and soft option for daily relaxation.",
       "price_new": 12.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -94,10 +94,10 @@
     {
       "asin": "B0D7N2458M",
       "title": "16-Quart Performance Tool W4077 Automotive Oil Drain Container",
-      "title_es": null,
+      "title_es": "Contenedor de drenaje de aceite automotriz Performance Tool W4077 de 16 cuartos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El Performance Tool W4077 es un contenedor de 16 cuartos diseñado para el drenaje seguro de aceite automotriz. Es una herramienta esencial para entusiastas del bricolaje y mecánicos que realizan cambios de aceite.",
+      "post_en": "The Performance Tool W4077 is a 16-quart container designed for the safe draining of automotive oil. It's an essential tool for DIY enthusiasts and mechanics performing oil changes.",
       "price_new": 13.98,
       "price_old": 35.0,
       "currency": "USD",
@@ -116,10 +116,10 @@
     {
       "asin": "B0DZ6XDSNS",
       "title": "Lefant M330 Pro Robot Vacuum & Mop w/ dToF Navigation, 190° PSD Obstacle Avoidance, Multi-Floor Mapping & 450ml Dustbin",
-      "title_es": null,
+      "title_es": "Robot aspirador y mopa Lefant M330 Pro con navegación dToF y mapeo multi-piso",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El Lefant M330 Pro es un robot aspirador y mopa avanzado con navegación dToF y evitación de obstáculos PSD de 190°, ideal para mantener tu hogar impecable. Ofrece mapeo multi-piso y un depósito de 450ml, perfecto para hogares modernos.",
+      "post_en": "The Lefant M330 Pro is an advanced robot vacuum and mop with dToF navigation and 190° PSD obstacle avoidance, ideal for keeping your home spotless. It offers multi-floor mapping and a 450ml dustbin, perfect for modern households.",
       "price_new": 89.99,
       "price_old": 149.99,
       "currency": "USD",
@@ -138,19 +138,19 @@
     {
       "asin": "B0FJ1ZC3SM",
       "title": "[Prime] 2000-Lumen Arrow Rechargeable LED Flashlight w/ Zoomable Beam",
-      "title_es": null,
+      "title_es": "Linterna LED recargable Arrow de 2000 lúmenes con haz zoomable",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta linterna LED recargable Arrow de 2000 lúmenes ofrece un haz de luz potente y zoomable, ideal para diversas situaciones. Es perfecta para actividades al aire libre, emergencias o uso doméstico general.",
+      "post_en": "This 2000-Lumen Arrow rechargeable LED flashlight offers a powerful and zoomable light beam, ideal for various situations. It's perfect for outdoor activities, emergencies, or general home use.",
       "price_new": 15.99,
       "price_old": 31.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/21391542.thumb",
+      "image": "https://m.media-amazon.com/images/I/71LkenaWrWL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FJ1ZC3SM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19924938",
@@ -160,19 +160,19 @@
     {
       "asin": "B0DP2QHL6G",
       "title": "3-Pack QGGQDD 3\" Women's High Waisted Biker Shorts",
-      "title_es": null,
+      "title_es": "Pack de 3 shorts ciclistas de cintura alta QGGQDD de 3\" para mujer",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de tres shorts ciclistas QGGQDD de cintura alta y 3 pulgadas ofrece comodidad y soporte para tus entrenamientos. Son una prenda versátil para yoga, gimnasio o actividades deportivas.",
+      "post_en": "This 3-pack of QGGQDD 3\" high-waisted biker shorts offers comfort and support for your workouts. They are a versatile garment for yoga, gym, or sports activities.",
       "price_new": 7.49,
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 78.6,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "KY29E4QU",
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/21403692.thumb",
+      "image": "https://m.media-amazon.com/images/I/619jyNq9M0L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DP2QHL6G/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19929555",
@@ -182,10 +182,10 @@
     {
       "asin": "B07RC84B75",
       "title": "2-Pack 4-Oz Stasher Reusable Silicone Pocket Bags (Clear + Aqua)",
-      "title_es": null,
+      "title_es": "Pack de 2 bolsas de silicona reutilizables Stasher Pocket de 4 oz (transparente + aguamarina)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack incluye dos bolsas Stasher Pocket de silicona reutilizables de 4 oz, perfectas para guardar pequeños snacks o artículos personales. Son una alternativa ecológica y práctica a las bolsas de un solo uso. ♻️",
+      "post_en": "This pack includes two 4-oz Stasher Reusable Silicone Pocket Bags, perfect for storing small snacks or personal items. They are an eco-friendly and practical alternative to single-use bags. ♻️",
       "price_new": 8.01,
       "price_old": 35.0,
       "currency": "USD",
@@ -204,10 +204,10 @@
     {
       "asin": "B0FQF5NZCG",
       "title": "Apple iPhone Air Bumper (Light Blue)",
-      "title_es": null,
+      "title_es": "Bumper Apple iPhone Air (azul claro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este bumper Apple iPhone Air en azul claro proporciona una protección ligera y elegante para tu dispositivo. Es ideal para quienes buscan resguardar su iPhone de pequeños golpes sin añadir volumen excesivo.",
+      "post_en": "This Apple iPhone Air Bumper in light blue provides lightweight and stylish protection for your device. It's ideal for those looking to shield their iPhone from minor bumps without adding excessive bulk.",
       "price_new": 12.65,
       "price_old": 39.0,
       "currency": "USD",
@@ -446,10 +446,10 @@
     {
       "asin": "B01F36JBDM",
       "title": "12-Piece BEAKEY Makeup Brush Set w/ 2 Blending Sponges",
-      "title_es": null,
+      "title_es": "Set de 12 brochas de maquillaje BEAKEY con 2 esponjas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set BEAKEY incluye 12 brochas esenciales y 2 esponjas para difuminar, ideal para aplicar todo tipo de maquillaje con precisión. Perfecto para aficionados al maquillaje que buscan herramientas versátiles y de calidad. 💄",
+      "post_en": "This BEAKEY set includes 12 essential makeup brushes and 2 blending sponges, ideal for precise application of all makeup types. Perfect for makeup enthusiasts looking for versatile, quality tools. 💄",
       "price_new": 4.87,
       "price_old": 35.0,
       "currency": "USD",
@@ -468,10 +468,10 @@
     {
       "asin": "0451532376",
       "title": "32-Pg. \"Coat of Many Colors\" by Dolly Parton (Hardcover) Book",
-      "title_es": null,
+      "title_es": "Libro \"Coat of Many Colors\" de Dolly Parton (Tapa dura, 32 págs.)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Descubre la emotiva historia de \"Coat of Many Colors\" de Dolly Parton en este libro de tapa dura de 32 páginas. Una lectura encantadora y atemporal, ideal para niños y adultos que aprecian los mensajes inspiradores.",
+      "post_en": "Discover the heartwarming story of \"Coat of Many Colors\" by Dolly Parton in this 32-page hardcover book. A charming and timeless read, perfect for children and adults who appreciate inspiring messages.",
       "price_new": 9.04,
       "price_old": 35.0,
       "currency": "USD",
@@ -490,10 +490,10 @@
     {
       "asin": "B016PP999G",
       "title": "Paramore \"All We Know Is Falling\" (Vinyl LP + MP3 Album)",
-      "title_es": null,
+      "title_es": "Paramore \"All We Know Is Falling\" (Vinilo LP + Álbum MP3)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta del álbum \"All We Know Is Falling\" de Paramore en formato vinilo LP, que incluye también la versión digital en MP3. Una excelente opción para coleccionistas y fans que quieren revivir los inicios de la banda con la mejor calidad de sonido. 🎶",
+      "post_en": "Enjoy Paramore's \"All We Know Is Falling\" album on vinyl LP, which also includes the digital MP3 version. An excellent choice for collectors and fans who want to relive the band's early days with the best sound quality. 🎶",
       "price_new": 16.96,
       "price_old": 35.0,
       "currency": "USD",
@@ -512,10 +512,10 @@
     {
       "asin": "B0FPCX42D6",
       "title": "6-Count Linkind Outdoor A19 Dusk-to-Dawn LED Light Bulbs (75W Equivalent, 2700K Soft White)",
-      "title_es": null,
+      "title_es": "Pack de 6 bombillas LED Linkind A19 para exterior (75W equiv., 2700K Blanco Suave)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 6 bombillas LED Linkind A19 se encienden automáticamente al anochecer y se apagan al amanecer, ofreciendo una luz suave de 2700K. Son perfectas para iluminar patios, porches o entradas con eficiencia energética y comodidad.",
+      "post_en": "This 6-pack of Linkind A19 LED bulbs automatically turn on at dusk and off at dawn, providing a soft 2700K light. They are perfect for illuminating patios, porches, or entryways with energy efficiency and convenience.",
       "price_new": 1.92,
       "price_old": 35.0,
       "currency": "USD",
@@ -534,10 +534,10 @@
     {
       "asin": "B0FTXCF536",
       "title": "6-Count LISEN 360° Rotating Magnetic / Adhesive Cord & Cable Holders",
-      "title_es": null,
+      "title_es": "Pack de 6 sujetacables LISEN magnéticos/adhesivos giratorios 360°",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Organiza tus cables con este pack de 6 sujetacables LISEN, que cuentan con rotación de 360° y fijación magnética o adhesiva. Son ideales para mantener ordenado tu escritorio, coche o cualquier superficie, evitando enredos y caídas.",
+      "post_en": "Organize your cables with this 6-pack of LISEN cable holders, featuring 360° rotation and magnetic or adhesive fastening. They are ideal for keeping your desk, car, or any surface tidy, preventing tangles and falls.",
       "price_new": 6.29,
       "price_old": 35.0,
       "currency": "USD",
@@ -556,10 +556,10 @@
     {
       "asin": "B00018MSNI",
       "title": "Sennheiser HD 650 - Audiophile Hi-Res Open Back Dynamic Headphone",
-      "title_es": null,
+      "title_es": "Auriculares Sennheiser HD 650 - Dinámicos de alta resolución con diseño abierto",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Los Sennheiser HD 650 son unos auriculares dinámicos de alta resolución con diseño abierto, diseñados para audiófilos que buscan una experiencia sonora excepcional. Ofrecen una reproducción de audio precisa y natural, ideal para sesiones de escucha prolongadas y detalladas.",
+      "post_en": "The Sennheiser HD 650 are high-resolution, open-back dynamic headphones, designed for audiophiles seeking an exceptional sound experience. They offer precise and natural audio reproduction, ideal for extended and detailed listening sessions.",
       "price_new": 311.93,
       "price_old": 579.95,
       "currency": "USD",
@@ -578,10 +578,10 @@
     {
       "asin": "B0HFR4C6JS",
       "title": "MERACH 300-Lb Capacity Foldable Treadmill w/ 6% Manual Incline",
-      "title_es": null,
+      "title_es": "Cinta de correr plegable MERACH con capacidad de 300 Lb y 6% de inclinación manual",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La cinta de correr plegable MERACH soporta hasta 300 Lb y ofrece una inclinación manual del 6%, perfecta para entrenamientos en casa. Es una solución compacta y robusta para quienes buscan mantenerse activos y mejorar su resistencia. 🏃‍♀️",
+      "post_en": "The MERACH foldable treadmill supports up to 300 Lb and offers a 6% manual incline, perfect for home workouts. It's a compact and robust solution for those looking to stay active and improve their endurance. 🏃‍♀️",
       "price_new": 199.99,
       "price_old": 399.99,
       "currency": "USD",
@@ -600,10 +600,10 @@
     {
       "asin": "B0GR4PQMTR",
       "title": "10'6\" x 33\" FunWater Inflatable Stand-Up Paddle Board w/ Paddle, Pump & Backpack (Various) from",
-      "title_es": null,
+      "title_es": "Tabla de paddle surf hinchable FunWater 10'6\" x 33\" con remo, bomba y mochila",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta tabla de paddle surf hinchable FunWater incluye remo, bomba y mochila, facilitando su transporte y almacenamiento. Ideal para aventureros que disfrutan del agua y buscan una experiencia completa y fácil de llevar. 🌊",
+      "post_en": "This FunWater inflatable stand-up paddle board includes a paddle, pump, and backpack, making it easy to transport and store. Ideal for adventurers who enjoy the water and are looking for a complete, portable experience. 🌊",
       "price_new": 79.79,
       "price_old": 239.95,
       "currency": "USD",
@@ -622,10 +622,10 @@
     {
       "asin": "B089CKYNT9",
       "title": "A Life on Our Planet: My Witness Statement and a Vision for the Future (eBook) by Sir David Attenborough",
-      "title_es": null,
+      "title_es": "\"A Life on Our Planet\" (eBook) de Sir David Attenborough",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "\"A Life on Our Planet\" es el conmovedor testimonio de Sir David Attenborough y su visión para el futuro del planeta. Este eBook es una lectura esencial para quienes se preocupan por el medio ambiente y buscan inspiración para un cambio positivo. 🌍",
+      "post_en": "\"A Life on Our Planet\" is Sir David Attenborough's moving witness statement and vision for the future of the planet. This eBook is essential reading for those concerned about the environment and seeking inspiration for positive change. 🌍",
       "price_new": 1.99,
       "price_old": 11.99,
       "currency": "USD",
@@ -644,10 +644,10 @@
     {
       "asin": "B0H3BC3R48",
       "title": "2-pc Ekouaer Women's Long Sleeve Ribbed Knit Pajamas Sets (various)",
-      "title_es": null,
+      "title_es": "Conjunto de pijama de punto acanalado de manga larga Ekouaer para mujer (2 piezas)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este conjunto de pijama Ekouaer de 2 piezas, con punto acanalado y manga larga, es perfecto para descansar cómodamente en casa. Ofrece suavidad y estilo para las noches de relax.",
+      "post_en": "This 2-piece Ekouaer long-sleeve ribbed knit pajama set is perfect for comfortable lounging at home. It offers softness and style for relaxing evenings.",
       "price_new": 12.0,
       "price_old": 36.99,
       "currency": "USD",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19915914",
       "published_at": "2026-08-26T18:46:41+00:00",
-      "revalidated_at": "2026-08-26T22:18:09+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B0989JLFGW",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19924941",
       "published_at": "2026-08-26T16:54:23+00:00",
-      "revalidated_at": "2026-08-26T22:18:09+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B0H72NQL5H",
@@ -1014,28 +1014,6 @@
       "deal_key": "sd:19927212",
       "published_at": "2026-08-26T16:46:35+00:00",
       "revalidated_at": "2026-08-27T00:01:39+00:00"
-    },
-    {
-      "asin": "B0D54JZTHY",
-      "title": "4-Pk Apple AirTag Bluetooth Tracking Devices (1st Gen) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 62.98,
-      "price_old": 99.0,
-      "currency": "USD",
-      "discount_pct": 36.4,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61bMNCeAUAL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D54JZTHY/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19928481",
-      "published_at": "2026-08-26T16:46:35+00:00",
-      "revalidated_at": "2026-08-26T22:18:09+00:00"
     },
     {
       "asin": "B09KZ8TS7L",
@@ -1387,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19927830",
       "published_at": "2026-08-26T14:31:25+00:00",
-      "revalidated_at": "2026-08-26T22:18:09+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B08Z2ZKVXX",
@@ -1409,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19927602",
       "published_at": "2026-08-26T14:31:25+00:00",
-      "revalidated_at": "2026-08-26T22:18:09+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B0F9L19VJM",
@@ -1431,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19898571",
       "published_at": "2026-08-26T14:21:08+00:00",
-      "revalidated_at": "2026-08-26T22:18:09+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B0G6LCC42J",
@@ -1585,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19926450",
       "published_at": "2026-08-26T13:01:27+00:00",
-      "revalidated_at": "2026-08-26T22:18:09+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B07K39RYQM",
@@ -1673,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19926672",
       "published_at": "2026-08-26T12:31:33+00:00",
-      "revalidated_at": "2026-08-26T22:18:09+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B0GHXQTLMR",
@@ -1695,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19926597",
       "published_at": "2026-08-26T12:31:33+00:00",
-      "revalidated_at": "2026-08-26T22:18:09+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B0CMXXPTVH",
@@ -1717,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19926969",
       "published_at": "2026-08-26T12:31:33+00:00",
-      "revalidated_at": "2026-08-26T22:18:09+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B07QFCP93T",
@@ -2223,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19917435",
       "published_at": "2026-08-26T03:14:13+00:00",
-      "revalidated_at": "2026-08-26T22:16:32+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B0B9V1WBVW",
@@ -2245,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19924956",
       "published_at": "2026-08-26T03:14:13+00:00",
-      "revalidated_at": "2026-08-26T22:16:32+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B0FFLF89TY",
@@ -2267,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19918629",
       "published_at": "2026-08-26T03:14:13+00:00",
-      "revalidated_at": "2026-08-26T22:16:32+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B0DXQY61N6",
@@ -2289,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19923918",
       "published_at": "2026-08-26T03:14:13+00:00",
-      "revalidated_at": "2026-08-26T22:18:09+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B0FLDKRWL1",
@@ -2465,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19924479",
       "published_at": "2026-08-26T01:52:12+00:00",
-      "revalidated_at": "2026-08-26T22:18:09+00:00"
+      "revalidated_at": "2026-08-27T00:16:05+00:00"
     },
     {
       "asin": "B0DCZ9FS5Z",
