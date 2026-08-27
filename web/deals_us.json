@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-27T14:31:04+00:00",
+  "generated_at": "2026-08-27T14:34:13+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
     {
       "asin": "B017O7Q4UG",
@@ -36,11 +36,11 @@
       "price_old": 14.99,
       "currency": "USD",
       "discount_pct": 40.0,
-      "rating": null,
+      "rating": 3.9,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21410490.thumb",
+      "image": "https://m.media-amazon.com/images/I/81jTpLMJ4PL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FGV15H8M/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19932759",
@@ -265,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19926798",
       "published_at": "2026-08-27T12:46:03+00:00",
-      "revalidated_at": "2026-08-27T12:46:03+00:00"
+      "revalidated_at": "2026-08-27T14:34:13+00:00"
     },
     {
       "asin": "B0DSP8J476",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19931640",
       "published_at": "2026-08-27T12:46:03+00:00",
-      "revalidated_at": "2026-08-27T12:46:03+00:00"
+      "revalidated_at": "2026-08-27T14:34:13+00:00"
     },
     {
       "asin": "B08VRVVFHJ",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19932435",
       "published_at": "2026-08-27T12:46:03+00:00",
-      "revalidated_at": "2026-08-27T12:46:03+00:00"
+      "revalidated_at": "2026-08-27T14:34:13+00:00"
     },
     {
       "asin": "B0F94KV22V",
@@ -573,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19931523",
       "published_at": "2026-08-27T10:45:42+00:00",
-      "revalidated_at": "2026-08-27T12:46:03+00:00"
+      "revalidated_at": "2026-08-27T14:34:13+00:00"
     },
     {
       "asin": "B0CBKHBQ78",
@@ -595,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19928223",
       "published_at": "2026-08-27T10:45:42+00:00",
-      "revalidated_at": "2026-08-27T12:46:03+00:00"
+      "revalidated_at": "2026-08-27T14:34:13+00:00"
     },
     {
       "asin": "B0C6WSMD72",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19931562",
       "published_at": "2026-08-27T08:45:38+00:00",
-      "revalidated_at": "2026-08-27T12:46:03+00:00"
+      "revalidated_at": "2026-08-27T14:34:13+00:00"
     },
     {
       "asin": "B00JUM36NC",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19930593",
       "published_at": "2026-08-27T08:30:32+00:00",
-      "revalidated_at": "2026-08-27T12:46:03+00:00"
+      "revalidated_at": "2026-08-27T14:34:13+00:00"
     },
     {
       "asin": "B019B6VCLO",
@@ -750,28 +750,6 @@
       "deal_key": "sd:19927308",
       "published_at": "2026-08-27T08:15:39+00:00",
       "revalidated_at": "2026-08-27T14:31:04+00:00"
-    },
-    {
-      "asin": "B0GY89TFDN",
-      "title": "JanSport Unisex Unphased Crossbody Bag (Black or Cherry Lacquer Red)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.95,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.6,
-      "rating": 4.5,
-      "condition": "prime",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/811wmBAtF9L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GY89TFDN/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19931559",
-      "published_at": "2026-08-27T08:15:39+00:00",
-      "revalidated_at": "2026-08-27T12:30:54+00:00"
     },
     {
       "asin": "B0D2FY9H73",
@@ -1189,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19929057",
       "published_at": "2026-08-27T02:31:08+00:00",
-      "revalidated_at": "2026-08-27T12:30:54+00:00"
+      "revalidated_at": "2026-08-27T14:34:13+00:00"
     },
     {
       "asin": "B0H17CG1L2",
@@ -1453,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19930170",
       "published_at": "2026-08-27T00:31:18+00:00",
-      "revalidated_at": "2026-08-27T12:30:54+00:00"
+      "revalidated_at": "2026-08-27T14:34:13+00:00"
     },
     {
       "asin": "B00EF1PM44",
@@ -1475,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19930356",
       "published_at": "2026-08-27T00:31:18+00:00",
-      "revalidated_at": "2026-08-27T12:30:54+00:00"
+      "revalidated_at": "2026-08-27T14:34:13+00:00"
     },
     {
       "asin": "B0D3HBC4ZJ",
@@ -1630,28 +1608,6 @@
       "deal_key": "sd:19924938",
       "published_at": "2026-08-26T22:46:29+00:00",
       "revalidated_at": "2026-08-27T13:15:59+00:00"
-    },
-    {
-      "asin": "B0DP2QHL6G",
-      "title": "3-Pack QGGQDD 3\" Women's High Waisted Biker Shorts",
-      "title_es": "Pack de 3 shorts ciclistas de cintura alta QGGQDD de 3\" para mujer",
-      "headline": null,
-      "post": "Este pack de tres shorts ciclistas QGGQDD de cintura alta y 3 pulgadas ofrece comodidad y soporte para tus entrenamientos. Son una prenda versátil para yoga, gimnasio o actividades deportivas.",
-      "post_en": "This 3-pack of QGGQDD 3\" high-waisted biker shorts offers comfort and support for your workouts. They are a versatile garment for yoga, gym, or sports activities.",
-      "price_new": 7.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 78.6,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "KY29E4QU",
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/619jyNq9M0L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DP2QHL6G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19929555",
-      "published_at": "2026-08-26T22:31:35+00:00",
-      "revalidated_at": "2026-08-27T12:30:54+00:00"
     },
     {
       "asin": "B07RC84B75",
@@ -1937,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19928997",
       "published_at": "2026-08-26T20:46:38+00:00",
-      "revalidated_at": "2026-08-27T12:30:54+00:00"
+      "revalidated_at": "2026-08-27T14:34:13+00:00"
     },
     {
       "asin": "0451532376",
@@ -2091,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19928460",
       "published_at": "2026-08-26T19:01:36+00:00",
-      "revalidated_at": "2026-08-27T12:30:54+00:00"
+      "revalidated_at": "2026-08-27T14:34:13+00:00"
     },
     {
       "asin": "B0H3BC3R48",
@@ -2113,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19922472",
       "published_at": "2026-08-26T19:01:36+00:00",
-      "revalidated_at": "2026-08-27T12:30:54+00:00"
+      "revalidated_at": "2026-08-27T14:34:13+00:00"
     },
     {
       "asin": "B004G60FWM",
