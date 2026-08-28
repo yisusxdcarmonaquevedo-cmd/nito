@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-28T12:31:17+00:00",
+  "generated_at": "2026-08-28T12:46:12+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0FMSC41B5",
+      "title": "$12.99** | 278-Pc LEGO Friends Dog Treats Bakery Building Toy (42677) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.99,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 56.7,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21420789.thumb",
+      "url": "https://amazon.com/dp/B0FMSC41B5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19936944",
+      "published_at": "2026-08-28T12:46:12+00:00",
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
+    },
     {
       "asin": "B0FD39P134",
       "title": "4-Piece Hansleep Adjustable Memory Foam Bed Wedge Pillow Set at Amazon",
@@ -190,11 +212,11 @@
       "price_old": 14.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.7,
       "condition": "code",
       "code": "35G959FR",
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21414780.thumb",
+      "image": "https://m.media-amazon.com/images/I/51KnLSAONBL._AC_SL1254_.jpg",
       "url": "https://amazon.com/dp/B0FZQJ6JKJ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19934298",
@@ -397,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19935939",
       "published_at": "2026-08-28T09:00:54+00:00",
-      "revalidated_at": "2026-08-28T11:01:03+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B06X1CT33R",
@@ -529,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19935069",
       "published_at": "2026-08-28T07:00:51+00:00",
-      "revalidated_at": "2026-08-28T11:01:03+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B0G1LP7CW1",
@@ -551,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19934448",
       "published_at": "2026-08-28T07:00:51+00:00",
-      "revalidated_at": "2026-08-28T11:01:03+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B0GRK5D3RW",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19932222",
       "published_at": "2026-08-28T05:00:29+00:00",
-      "revalidated_at": "2026-08-28T11:01:03+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B0GS17VTRF",
@@ -1057,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19932726",
       "published_at": "2026-08-28T00:45:54+00:00",
-      "revalidated_at": "2026-08-28T11:01:03+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B0B1Z3MN35",
@@ -1079,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19916922",
       "published_at": "2026-08-28T00:45:54+00:00",
-      "revalidated_at": "2026-08-28T11:01:03+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B0FF4VKHGP",
@@ -1101,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19934511",
       "published_at": "2026-08-28T00:30:59+00:00",
-      "revalidated_at": "2026-08-28T10:45:53+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B0CK3W8QWR",
@@ -1123,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19921650",
       "published_at": "2026-08-28T00:30:59+00:00",
-      "revalidated_at": "2026-08-28T10:45:53+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B0H744X119",
@@ -1145,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19933041",
       "published_at": "2026-08-28T00:30:59+00:00",
-      "revalidated_at": "2026-08-28T10:45:53+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B0FNNK8LPR",
@@ -1167,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19934547",
       "published_at": "2026-08-28T00:30:59+00:00",
-      "revalidated_at": "2026-08-28T10:45:53+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B0DDKY4QRZ",
@@ -1189,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19928886",
       "published_at": "2026-08-28T00:30:59+00:00",
-      "revalidated_at": "2026-08-28T10:45:53+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B09C3K2675",
@@ -1409,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19934961",
       "published_at": "2026-08-27T22:46:02+00:00",
-      "revalidated_at": "2026-08-28T10:45:53+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B0F82LMZ7M",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19934271",
       "published_at": "2026-08-27T22:46:02+00:00",
-      "revalidated_at": "2026-08-28T10:45:53+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B0DV1HTF6K",
@@ -1783,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19930542",
       "published_at": "2026-08-27T18:31:05+00:00",
-      "revalidated_at": "2026-08-28T10:45:53+00:00"
+      "revalidated_at": "2026-08-28T12:46:12+00:00"
     },
     {
       "asin": "B091Y7TKSX",
@@ -2618,28 +2640,6 @@
       "url": "https://amazon.com/dp/B0C7BHBF89/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19932561",
-      "published_at": "2026-08-27T13:15:59+00:00",
-      "revalidated_at": "2026-08-28T11:16:08+00:00"
-    },
-    {
-      "asin": "B0FYPGR48K",
-      "title": "52' Brightown Edison Bulb Waterproof Solar String Lights w/ Remote",
-      "title_es": "Guirnalda de luces solares impermeables Brightown Edison de 52' con mando",
-      "headline": null,
-      "post": "Ilumina tus espacios exteriores con esta guirnalda solar Brightown de 52 pies, con bombillas Edison impermeables y control remoto. Perfecta para crear un ambiente festivo y acogedor en jardines o patios sin necesidad de enchufes. ✨",
-      "post_en": "Illuminate your outdoor spaces with these 52-foot Brightown solar string lights, featuring waterproof Edison bulbs and a remote control. Perfect for creating a festive and cozy atmosphere in gardens or patios without the need for outlets. ✨",
-      "price_new": 14.39,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 58.9,
-      "rating": null,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/21409911.thumb",
-      "url": "https://amazon.com/dp/B0FYPGR48K/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19932507",
       "published_at": "2026-08-27T13:15:59+00:00",
       "revalidated_at": "2026-08-28T11:16:08+00:00"
     }
