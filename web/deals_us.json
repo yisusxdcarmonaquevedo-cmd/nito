@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-28T20:16:11+00:00",
+  "generated_at": "2026-08-28T20:31:14+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0G5Z5N274",
+      "title": "26.5\" Acer Predator WQHD QD-OLED 240Hz FreeSync Gaming Monitor at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 314.99,
+      "price_old": 549.99,
+      "currency": "USD",
+      "discount_pct": 42.7,
+      "rating": 4.5,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81Xon1YZwJL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0G5Z5N274/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19936623",
+      "published_at": "2026-08-28T20:31:14+00:00",
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
+    },
     {
       "asin": "B0H1C5S676",
       "title": "6-Pc BAGSMART Compression Packing Cubes w/ Fillable Neck Pillow (Light Beige)",
@@ -309,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19937631",
       "published_at": "2026-08-28T18:31:36+00:00",
-      "revalidated_at": "2026-08-28T18:31:36+00:00"
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
     },
     {
       "asin": "B0DNQB9YL1",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19937727",
       "published_at": "2026-08-28T18:31:36+00:00",
-      "revalidated_at": "2026-08-28T18:31:36+00:00"
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
     },
     {
       "asin": "B0D9YZJ3V7",
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19936869",
       "published_at": "2026-08-28T18:31:36+00:00",
-      "revalidated_at": "2026-08-28T18:31:36+00:00"
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
     },
     {
       "asin": "B0BVKZXVM9",
@@ -529,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19938216",
       "published_at": "2026-08-28T16:31:18+00:00",
-      "revalidated_at": "2026-08-28T18:31:36+00:00"
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
     },
     {
       "asin": "B0DHZSG5L1",
@@ -859,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19936575",
       "published_at": "2026-08-28T14:16:28+00:00",
-      "revalidated_at": "2026-08-28T18:16:33+00:00"
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
     },
     {
       "asin": "B0GFDMJJ46",
@@ -1123,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19936905",
       "published_at": "2026-08-28T12:16:37+00:00",
-      "revalidated_at": "2026-08-28T18:16:33+00:00"
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
     },
     {
       "asin": "B01BNDNIX8",
@@ -1145,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19934190",
       "published_at": "2026-08-28T12:16:37+00:00",
-      "revalidated_at": "2026-08-28T18:16:33+00:00"
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
     },
     {
       "asin": "B0BQQ9B2MD",
@@ -1167,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19937037",
       "published_at": "2026-08-28T12:01:09+00:00",
-      "revalidated_at": "2026-08-28T18:16:33+00:00"
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
     },
     {
       "asin": "B0FZQJ6JKJ",
@@ -1277,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19934172",
       "published_at": "2026-08-28T10:30:55+00:00",
-      "revalidated_at": "2026-08-28T18:16:33+00:00"
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
     },
     {
       "asin": "B0FR49R479",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19932990",
       "published_at": "2026-08-28T08:16:04+00:00",
-      "revalidated_at": "2026-08-28T18:16:33+00:00"
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
     },
     {
       "asin": "B0H6QBKNG3",
@@ -1542,28 +1564,6 @@
       "deal_key": "sd:19932222",
       "published_at": "2026-08-28T05:00:29+00:00",
       "revalidated_at": "2026-08-28T19:16:25+00:00"
-    },
-    {
-      "asin": "B0GS17VTRF",
-      "title": "DATAFY Page Turner Remote Clicker for Kindle, Kobo & Tablets (iOS/Android, 6 Colors)",
-      "title_es": "DATAFY Mando a distancia para pasar páginas en Kindle, Kobo y tablets (iOS/Android, 6 colores)",
-      "headline": null,
-      "post": "Este control remoto te permite pasar páginas en tu Kindle, Kobo o tablet sin tocar la pantalla, ideal para leer cómodamente con las manos libres. Es compatible con dispositivos iOS y Android, y viene en varios colores para adaptarse a tu estilo. 📚",
-      "post_en": "This remote allows you to turn pages on your Kindle, Kobo, or tablet without touching the screen, perfect for comfortable hands-free reading. It's compatible with both iOS and Android devices and comes in various colors to match your style. 📚",
-      "price_new": 4.1,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 88.3,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "HY7JD6AT",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71b3UuXi+XL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GS17VTRF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19935408",
-      "published_at": "2026-08-28T04:15:49+00:00",
-      "revalidated_at": "2026-08-28T18:16:33+00:00"
     },
     {
       "asin": "B0CTZVN51J",
@@ -2531,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19933956",
       "published_at": "2026-08-27T19:31:05+00:00",
-      "revalidated_at": "2026-08-28T18:16:33+00:00"
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
     },
     {
       "asin": "B0FCY2FG2L",
@@ -2575,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19933464",
       "published_at": "2026-08-27T19:16:13+00:00",
-      "revalidated_at": "2026-08-28T18:16:33+00:00"
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
     },
     {
       "asin": "B0DWF9F9Q3",
@@ -2597,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19933989",
       "published_at": "2026-08-27T19:16:13+00:00",
-      "revalidated_at": "2026-08-28T18:16:33+00:00"
+      "revalidated_at": "2026-08-28T20:31:14+00:00"
     },
     {
       "asin": "B0B75J7GJZ",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19930542",
       "published_at": "2026-08-27T18:31:05+00:00",
       "revalidated_at": "2026-08-28T19:32:07+00:00"
-    },
-    {
-      "asin": "B0FK2B6WXR",
-      "title": "Kinglucky Open-Ear Clip-On Wireless Earbuds w/ 40-Hr Playtime (Black, Purple, Beige or Rose Gold)",
-      "title_es": "Auriculares inalámbricos Kinglucky Open-Ear Clip-On con 40 horas de autonomía",
-      "headline": null,
-      "post": "Los auriculares Kinglucky Open-Ear Clip-On ofrecen audio inalámbrico con un diseño que no cubre el oído, perfecto para mantenerte consciente de tu entorno. Disfruta de hasta 40 horas de reproducción, ideales para uso diario y prolongado.",
-      "post_en": "Kinglucky Open-Ear Clip-On earbuds provide wireless audio with an open-ear design, perfect for staying aware of your surroundings. Enjoy up to 40 hours of playtime, ideal for daily and extended use.",
-      "price_new": 12.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 64.3,
-      "rating": 4.1,
-      "condition": "code",
-      "code": "QWB9JCXP",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61z3NghslrL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FK2B6WXR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19933368",
-      "published_at": "2026-08-27T18:31:05+00:00",
-      "revalidated_at": "2026-08-28T19:46:23+00:00"
     }
   ]
 }
