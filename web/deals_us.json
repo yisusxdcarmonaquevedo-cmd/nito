@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-29T22:46:31+00:00",
+  "generated_at": "2026-08-29T23:01:35+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0FRS11B4M",
+      "title": "6-Pk 50-Pc Metflavor V60 Unbleached Compostable Paper Coffee Filters #2",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.0,
+      "price_old": 17.99,
+      "currency": "USD",
+      "discount_pct": 72.2,
+      "rating": null,
+      "condition": "code",
+      "code": "BUX4OF7Y",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21424662.thumb",
+      "url": "https://amazon.com/dp/B0FRS11B4M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19938411",
+      "published_at": "2026-08-29T23:01:35+00:00",
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
+    },
     {
       "asin": "B0GYWF7T5L",
       "title": "MFVLP 1.85\" AMOLED Fitness Watch w/ Bluetooth Calling, 120 Sports Modes & IP68 Waterproofing (3 Colors)",
@@ -58,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 43.5,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "BHAFTH7L",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/21415716.thumb",
+      "image": "https://m.media-amazon.com/images/I/71izEWnYWVL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FPLG6HFF/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19934634",
@@ -202,28 +224,6 @@
       "revalidated_at": "2026-08-29T21:31:38+00:00"
     },
     {
-      "asin": "B0DZ2KTGNJ",
-      "title": "20\"x32\" COSY HOMEER Dirt Trapper Non-Slip Door Mat (Brown)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 6.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 81.5,
-      "rating": 4.5,
-      "condition": "code",
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/91nNAKJ7-3L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DZ2KTGNJ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19942314",
-      "published_at": "2026-08-29T21:16:38+00:00",
-      "revalidated_at": "2026-08-29T21:16:38+00:00"
-    },
-    {
       "asin": "B08YR92KYT",
       "title": "ELEMUSE Twin XL Mattress Topper (White)",
       "title_es": null,
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19941864",
       "published_at": "2026-08-29T21:16:38+00:00",
-      "revalidated_at": "2026-08-29T21:16:38+00:00"
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
     },
     {
       "asin": "B0D1CBDFP3",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19941792",
       "published_at": "2026-08-29T19:16:28+00:00",
-      "revalidated_at": "2026-08-29T21:16:38+00:00"
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
     },
     {
       "asin": "B001AMBWTK",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19931322",
       "published_at": "2026-08-29T17:31:32+00:00",
-      "revalidated_at": "2026-08-29T21:16:38+00:00"
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
     },
     {
       "asin": "B0GKFZB2JD",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19940478",
       "published_at": "2026-08-29T17:31:32+00:00",
-      "revalidated_at": "2026-08-29T21:16:38+00:00"
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
     },
     {
       "asin": "B0CYHG8CS2",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19938246",
       "published_at": "2026-08-29T15:31:28+00:00",
-      "revalidated_at": "2026-08-29T21:16:38+00:00"
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
     },
     {
       "asin": "B0G1MRLXMV",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19937850",
       "published_at": "2026-08-29T09:46:15+00:00",
-      "revalidated_at": "2026-08-29T21:01:19+00:00"
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
     },
     {
       "asin": "B0GGRSMXKN",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19938963",
       "published_at": "2026-08-29T03:46:11+00:00",
-      "revalidated_at": "2026-08-29T21:01:19+00:00"
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
     },
     {
       "asin": "B09W36Y3KQ",
@@ -1629,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19912626",
       "published_at": "2026-08-29T03:46:11+00:00",
-      "revalidated_at": "2026-08-29T21:01:19+00:00"
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
     },
     {
       "asin": "B00C8S9VKM",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19936650",
       "published_at": "2026-08-29T02:01:33+00:00",
-      "revalidated_at": "2026-08-29T21:01:19+00:00"
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
     },
     {
       "asin": "B0D418HJVN",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19937148",
       "published_at": "2026-08-29T01:30:59+00:00",
-      "revalidated_at": "2026-08-29T21:01:19+00:00"
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
     },
     {
       "asin": "B07MVM6W5G",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19939323",
       "published_at": "2026-08-28T23:46:16+00:00",
-      "revalidated_at": "2026-08-29T21:01:19+00:00"
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
     },
     {
       "asin": "B0FW4HWD38",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19928040",
       "published_at": "2026-08-28T23:46:16+00:00",
-      "revalidated_at": "2026-08-29T21:01:19+00:00"
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
     },
     {
       "asin": "B0GTP31C6T",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19939311",
       "published_at": "2026-08-28T23:31:19+00:00",
-      "revalidated_at": "2026-08-29T21:01:19+00:00"
+      "revalidated_at": "2026-08-29T23:01:35+00:00"
     },
     {
       "asin": "B0DJ18ZWYQ",
@@ -2618,28 +2618,6 @@
       "url": "https://amazon.com/dp/B09YRZ8J1M/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19935924",
-      "published_at": "2026-08-28T20:46:16+00:00",
-      "revalidated_at": "2026-08-29T22:31:40+00:00"
-    },
-    {
-      "asin": "B0CXQ71XY8",
-      "title": "10-ct CLIF BAR Protein Energy Bars (Cool Mint Chocolate w/ Caffeine)",
-      "title_es": "Pack de 10 barritas energéticas CLIF BAR con proteína (Cool Mint Chocolate con cafeína)",
-      "headline": null,
-      "post": "Este pack de 10 barritas CLIF BAR ofrece un impulso de energía y proteína con sabor Cool Mint Chocolate y cafeína. Son ideales para deportistas o personas activas que necesitan un snack nutritivo y rápido para sus actividades.",
-      "post_en": "This 10-count pack of CLIF BAR Protein Energy Bars provides an energy and protein boost with a Cool Mint Chocolate flavor and caffeine. They are ideal for athletes or active individuals who need a nutritious and quick snack for their activities.",
-      "price_new": 7.95,
-      "price_old": 12.64,
-      "currency": "USD",
-      "discount_pct": 37.1,
-      "rating": 4.7,
-      "condition": "coupon",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81CtWrO0vRL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CXQ71XY8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19931778",
       "published_at": "2026-08-28T20:46:16+00:00",
       "revalidated_at": "2026-08-29T22:31:40+00:00"
     }
