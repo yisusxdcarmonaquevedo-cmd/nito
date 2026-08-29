@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T03:18:51+00:00",
+  "generated_at": "2026-08-29T03:30:49+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B00C8S9VKM",
@@ -14,11 +14,11 @@
       "price_old": 8.99,
       "currency": "USD",
       "discount_pct": 77.9,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21370782.thumb",
+      "image": "https://m.media-amazon.com/images/I/81wYzUJwchL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B00C8S9VKM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19916550",
@@ -124,11 +124,11 @@
       "price_old": 39.99,
       "currency": "USD",
       "discount_pct": 60.7,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/8/6/7/1/9/450x450/21425793.thumb",
+      "image": "https://m.media-amazon.com/images/I/71QxyGPyjVL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B00B6EAMHK/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19938828",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19938054",
       "published_at": "2026-08-29T01:45:59+00:00",
-      "revalidated_at": "2026-08-29T01:45:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "0593977157",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19940028",
       "published_at": "2026-08-29T01:45:59+00:00",
-      "revalidated_at": "2026-08-29T01:45:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "B07SHFPD8S",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19939323",
       "published_at": "2026-08-28T23:46:16+00:00",
-      "revalidated_at": "2026-08-29T01:45:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "B0FW4HWD38",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19928040",
       "published_at": "2026-08-28T23:46:16+00:00",
-      "revalidated_at": "2026-08-29T01:45:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "B0GTP31C6T",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19937997",
       "published_at": "2026-08-28T21:46:21+00:00",
-      "revalidated_at": "2026-08-29T01:45:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "B0D9C8Q19X",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19938906",
       "published_at": "2026-08-28T20:02:32+00:00",
-      "revalidated_at": "2026-08-29T01:45:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "B0GZ31HHNN",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19933758",
       "published_at": "2026-08-28T19:46:23+00:00",
-      "revalidated_at": "2026-08-29T01:30:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "B0CC5FV8XR",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19939044",
       "published_at": "2026-08-28T19:46:23+00:00",
-      "revalidated_at": "2026-08-29T01:30:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "B0CCYCG6SY",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19937952",
       "published_at": "2026-08-28T19:32:07+00:00",
-      "revalidated_at": "2026-08-29T01:30:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "B08VRZ172R",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19938984",
       "published_at": "2026-08-28T19:32:07+00:00",
-      "revalidated_at": "2026-08-29T01:30:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "B0CJSNSVMR",
@@ -1475,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19936443",
       "published_at": "2026-08-28T18:01:27+00:00",
-      "revalidated_at": "2026-08-29T01:45:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "B0GJWDW61B",
@@ -1717,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19937385",
       "published_at": "2026-08-28T15:31:16+00:00",
-      "revalidated_at": "2026-08-29T01:30:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "B08BX66VLD",
@@ -1739,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19937562",
       "published_at": "2026-08-28T15:31:16+00:00",
-      "revalidated_at": "2026-08-29T01:30:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "B000K7M36W",
@@ -2490,28 +2490,6 @@
       "revalidated_at": "2026-08-29T02:15:54+00:00"
     },
     {
-      "asin": "B0G1LP7CW1",
-      "title": "Amazon Basics 7.3-Qt Enameled Cast Iron Dutch Oven w/ Lid (Olive)",
-      "title_es": "Amazon Basics Olla Holandesa de Hierro Fundido Esmaltado 7.3-Qt con Tapa (Olive)",
-      "headline": null,
-      "post": "Esta olla holandesa Amazon Basics de hierro fundido esmaltado de 7.3 cuartos es perfecta para guisos, asados y sopas. Su diseño robusto distribuye el calor uniformemente, ideal para cocciones lentas.",
-      "post_en": "This Amazon Basics 7.3-Qt enameled cast iron Dutch oven is perfect for stews, roasts, and soups. Its robust design distributes heat evenly, ideal for slow cooking.",
-      "price_new": 35.31,
-      "price_old": 54.57,
-      "currency": "USD",
-      "discount_pct": 35.3,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61C7dD98t+L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G1LP7CW1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19934448",
-      "published_at": "2026-08-28T07:00:51+00:00",
-      "revalidated_at": "2026-08-29T01:30:59+00:00"
-    },
-    {
       "asin": "B0GRK5D3RW",
       "title": "LG 65-Inch Class OLED evo AI 4K C6 Series Smart TV w/Dolby Atmos (OLED65C6PUA, 2026) at Amazon",
       "title_es": "LG Smart TV OLED evo AI 4K C6 Series de 65 Pulgadas con Dolby Atmos (OLED65C6PUA)",
@@ -2575,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19932222",
       "published_at": "2026-08-28T05:00:29+00:00",
-      "revalidated_at": "2026-08-29T01:30:59+00:00"
+      "revalidated_at": "2026-08-29T03:30:49+00:00"
     },
     {
       "asin": "B0CTZVN51J",
