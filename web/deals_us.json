@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-30T15:30:56+00:00",
+  "generated_at": "2026-08-30T15:46:01+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B0BLB2568F",
+      "title": "The Science of Cooking: Every Question Answered to Perfect Your Cooking (The Science of Food) (eBook) by Dr. Stuart Farrimond",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.99,
+      "price_old": 12.99,
+      "currency": "USD",
+      "discount_pct": 84.7,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21437709.thumb",
+      "url": "https://amazon.com/dp/B0BLB2568F/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19944939",
+      "published_at": "2026-08-30T15:46:01+00:00",
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
+    },
     {
       "asin": "B0F1382C13",
       "title": "Nike Women's Court Vision Low Nubuck Shoes, Sail/Sail-Cacao Wow-Coconut Milk for",
@@ -102,11 +124,11 @@
       "price_old": 49.95,
       "currency": "USD",
       "discount_pct": 43.7,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21435288.thumb",
+      "image": "https://m.media-amazon.com/images/I/71ErjLL3MRL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CQPP5ZP2/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19943748",
@@ -177,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19944291",
       "published_at": "2026-08-30T13:45:55+00:00",
-      "revalidated_at": "2026-08-30T13:45:55+00:00"
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
     },
     {
       "asin": "B0H1VHFQD2",
@@ -551,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19938486",
       "published_at": "2026-08-30T07:46:26+00:00",
-      "revalidated_at": "2026-08-30T13:45:55+00:00"
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
     },
     {
       "asin": "B09YRYPVRF",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19943505",
       "published_at": "2026-08-30T07:46:26+00:00",
-      "revalidated_at": "2026-08-30T13:45:55+00:00"
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
     },
     {
       "asin": "B01FXMCWYG",
@@ -639,29 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19943523",
       "published_at": "2026-08-30T06:01:32+00:00",
-      "revalidated_at": "2026-08-30T13:45:55+00:00"
-    },
-    {
-      "asin": "B0F1QHNFJP",
-      "title": "[S&S] Magnum Solace Nighttime Magnesium Lotion with Arnica – Highly Concentrated Magnesium for Muscles & Joints",
-      "title_es": "Loción nocturna de magnesio con árnica Magnum Solace para músculos y articulaciones",
-      "headline": null,
-      "post": "La loción nocturna Magnum Solace con magnesio y árnica está formulada para relajar músculos y articulaciones. Es ideal para quienes buscan alivio concentrado y un cuidado corporal reparador.",
-      "post_en": "Magnum Solace Nighttime Magnesium Lotion with Arnica is formulated to relax muscles and joints. It's ideal for those seeking concentrated relief and restorative body care.",
-      "price_new": 5.94,
-      "price_old": 14.99,
-      "currency": "USD",
-      "discount_pct": 60.4,
-      "rating": 4.4,
-      "condition": "sns",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71+oszjnRVL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F1QHNFJP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19943445",
-      "published_at": "2026-08-30T06:01:32+00:00",
-      "revalidated_at": "2026-08-30T13:45:55+00:00"
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
     },
     {
       "asin": "B0CP9B43VB",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19942845",
       "published_at": "2026-08-30T06:01:32+00:00",
-      "revalidated_at": "2026-08-30T13:45:55+00:00"
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
     },
     {
       "asin": "B08C82941W",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19942950",
       "published_at": "2026-08-30T02:01:48+00:00",
-      "revalidated_at": "2026-08-30T13:45:55+00:00"
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
     },
     {
       "asin": "B09RQ47HC8",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19943028",
       "published_at": "2026-08-30T02:01:48+00:00",
-      "revalidated_at": "2026-08-30T13:45:55+00:00"
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
     },
     {
       "asin": "B0G6K8R3C1",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19942806",
       "published_at": "2026-08-30T02:01:48+00:00",
-      "revalidated_at": "2026-08-30T13:45:55+00:00"
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
     },
     {
       "asin": "B007I7KZN0",
@@ -2025,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19940616",
       "published_at": "2026-08-29T20:01:23+00:00",
-      "revalidated_at": "2026-08-30T13:31:12+00:00"
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
     },
     {
       "asin": "B0H5R3NHND",
@@ -2047,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19941522",
       "published_at": "2026-08-29T20:01:23+00:00",
-      "revalidated_at": "2026-08-30T13:31:12+00:00"
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
     },
     {
       "asin": "B0F5H77D13",
@@ -2223,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19941192",
       "published_at": "2026-08-29T18:16:19+00:00",
-      "revalidated_at": "2026-08-30T13:31:12+00:00"
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
     },
     {
       "asin": "B0FWC37SH1",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19927035",
       "published_at": "2026-08-29T16:16:22+00:00",
-      "revalidated_at": "2026-08-30T13:31:12+00:00"
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
     },
     {
       "asin": "B07YM8MCWN",
@@ -2619,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19941447",
       "published_at": "2026-08-29T14:31:29+00:00",
-      "revalidated_at": "2026-08-30T13:31:12+00:00"
+      "revalidated_at": "2026-08-30T15:46:01+00:00"
     }
   ]
 }
