@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-31T19:46:25+00:00",
+  "generated_at": "2026-08-31T20:01:21+00:00",
   "market": "us",
   "count": 116,
   "deals": [
+    {
+      "asin": "B0GFMY5JF3",
+      "title": "3.5-Quart CAROTE Enameled Cast Iron Braiser Pan w/ Lid (White & Blue)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 39.99,
+      "price_old": 79.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/5/7/4/5/9/6/3/450x450/21401178.thumb",
+      "url": "https://amazon.com/dp/B0GFMY5JF3/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19928802",
+      "published_at": "2026-08-31T20:01:21+00:00",
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
+    },
     {
       "asin": "B0FSRXCHTW",
       "title": "2-Pk 16\" Dntorx Folding Shelf Bracket (Load Capacity up to 130 Lbs)",
@@ -80,11 +102,11 @@
       "price_old": 49.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.2,
       "condition": "coupon",
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/6/0/1/6/4/7/5/450x450/21446265.thumb",
+      "image": "https://m.media-amazon.com/images/I/71CGp5YWHmL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DBLMHFJ8/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19948875",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19947357",
       "published_at": "2026-08-31T16:01:29+00:00",
-      "revalidated_at": "2026-08-31T18:01:32+00:00"
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
     },
     {
       "asin": "B0FP98MW6G",
@@ -464,28 +486,6 @@
       "deal_key": "sd:19947162",
       "published_at": "2026-08-31T14:31:44+00:00",
       "revalidated_at": "2026-08-31T18:31:40+00:00"
-    },
-    {
-      "asin": "B0CCZ1L489",
-      "title": "Bose QuietComfort Ultra Wireless Noise Cancelling Headphones (Black or Deep Plum)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 249.0,
-      "price_old": 449.0,
-      "currency": "USD",
-      "discount_pct": 44.5,
-      "rating": 4.0,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51ZR4lyxBHL._AC_SL1123_.jpg",
-      "url": "https://amazon.com/dp/B0CCZ1L489/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19948356",
-      "published_at": "2026-08-31T14:01:44+00:00",
-      "revalidated_at": "2026-08-31T18:01:32+00:00"
     },
     {
       "asin": "B087JVNJ4X",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19947729",
       "published_at": "2026-08-31T12:01:34+00:00",
-      "revalidated_at": "2026-08-31T18:01:32+00:00"
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
     },
     {
       "asin": "B01MSZBDFN",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19947204",
       "published_at": "2026-08-31T10:01:47+00:00",
-      "revalidated_at": "2026-08-31T18:01:32+00:00"
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
     },
     {
       "asin": "B0FMRDZQN7",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19945392",
       "published_at": "2026-08-31T04:15:36+00:00",
-      "revalidated_at": "2026-08-31T18:01:32+00:00"
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
     },
     {
       "asin": "B01LTHO3QO",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946634",
       "published_at": "2026-08-31T04:15:36+00:00",
-      "revalidated_at": "2026-08-31T18:01:32+00:00"
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
     },
     {
       "asin": "B0DJ19VGDH",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19945296",
       "published_at": "2026-08-31T02:15:37+00:00",
-      "revalidated_at": "2026-08-31T18:01:32+00:00"
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
     },
     {
       "asin": "B0B39KFR6P",
@@ -1343,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946331",
       "published_at": "2026-08-31T02:15:37+00:00",
-      "revalidated_at": "2026-08-31T18:01:32+00:00"
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
     },
     {
       "asin": "B0B28GQ8MP",
@@ -1365,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19941951",
       "published_at": "2026-08-31T02:15:37+00:00",
-      "revalidated_at": "2026-08-31T18:01:32+00:00"
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
     },
     {
       "asin": "B00X7R1FZ2",
@@ -1651,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19944720",
       "published_at": "2026-08-31T00:00:50+00:00",
-      "revalidated_at": "2026-08-31T18:01:32+00:00"
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
     },
     {
       "asin": "B001AJS1AQ",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19944852",
       "published_at": "2026-08-31T00:00:50+00:00",
-      "revalidated_at": "2026-08-31T18:01:32+00:00"
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
     },
     {
       "asin": "B00KCIZ5SM",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19945377",
       "published_at": "2026-08-31T00:00:50+00:00",
-      "revalidated_at": "2026-08-31T18:01:32+00:00"
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
     },
     {
       "asin": "B0DBZ7RYVW",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19938318",
       "published_at": "2026-08-30T16:15:57+00:00",
-      "revalidated_at": "2026-08-31T17:46:30+00:00"
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
     },
     {
       "asin": "B0BLB2568F",
@@ -2509,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19943550",
       "published_at": "2026-08-30T14:00:50+00:00",
-      "revalidated_at": "2026-08-31T17:46:30+00:00"
+      "revalidated_at": "2026-08-31T20:01:21+00:00"
     },
     {
       "asin": "B0H1VHFQD2",
