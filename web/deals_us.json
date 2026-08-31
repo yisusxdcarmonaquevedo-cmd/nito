@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-31T11:31:29+00:00",
+  "generated_at": "2026-08-31T11:46:40+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B01MSZBDFN",
+      "title": "Performance Tools 3/8\" Ratcheting Drive Adapter Socket at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 6.4,
+      "price_old": 9.75,
+      "currency": "USD",
+      "discount_pct": 34.4,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61SKg+HDz3L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B01MSZBDFN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19947300",
+      "published_at": "2026-08-31T11:46:40+00:00",
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
+    },
     {
       "asin": "B0BFTZ74WD",
       "title": "3/$13.89 or less S&S MultiBuy Dr Pepper Strawberries and Cream Soda, 12 fl oz cans, 12 Pack",
@@ -124,11 +146,11 @@
       "price_old": 50.0,
       "currency": "USD",
       "discount_pct": 80.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21443160.thumb",
+      "image": "https://m.media-amazon.com/images/I/71YCZY7g+KL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F38KJKHG/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19947681",
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19947210",
       "published_at": "2026-08-31T09:46:50+00:00",
-      "revalidated_at": "2026-08-31T09:46:50+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B0FK7YTRL9",
@@ -375,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19947666",
       "published_at": "2026-08-31T09:46:50+00:00",
-      "revalidated_at": "2026-08-31T09:46:50+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B07D4B3JF4",
@@ -419,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19925136",
       "published_at": "2026-08-31T07:46:43+00:00",
-      "revalidated_at": "2026-08-31T09:46:50+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B0FMRDZQN7",
@@ -441,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19943988",
       "published_at": "2026-08-31T07:46:43+00:00",
-      "revalidated_at": "2026-08-31T09:46:50+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B0DNJWSVMD",
@@ -1035,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946172",
       "published_at": "2026-08-31T00:15:32+00:00",
-      "revalidated_at": "2026-08-31T09:46:50+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B0FHBVS6GC",
@@ -1057,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19943808",
       "published_at": "2026-08-31T00:15:32+00:00",
-      "revalidated_at": "2026-08-31T09:46:50+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B0BF9YFL2X",
@@ -1145,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19944720",
       "published_at": "2026-08-31T00:00:50+00:00",
-      "revalidated_at": "2026-08-31T09:31:03+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B001AJS1AQ",
@@ -1167,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19944852",
       "published_at": "2026-08-31T00:00:50+00:00",
-      "revalidated_at": "2026-08-31T09:31:03+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B00KCIZ5SM",
@@ -1189,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19945377",
       "published_at": "2026-08-31T00:00:50+00:00",
-      "revalidated_at": "2026-08-31T09:31:03+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B0DBZ7RYVW",
@@ -1211,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19944891",
       "published_at": "2026-08-31T00:00:50+00:00",
-      "revalidated_at": "2026-08-31T09:46:50+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B0F23NXP3D",
@@ -1607,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19937079",
       "published_at": "2026-08-30T18:15:56+00:00",
-      "revalidated_at": "2026-08-31T09:31:03+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B0DQLH7V6S",
@@ -1783,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19944792",
       "published_at": "2026-08-30T16:30:55+00:00",
-      "revalidated_at": "2026-08-31T09:31:03+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B0DJ1D4TYS",
@@ -1805,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19945104",
       "published_at": "2026-08-30T16:30:55+00:00",
-      "revalidated_at": "2026-08-31T09:31:03+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B01EB4JD30",
@@ -2553,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19940685",
       "published_at": "2026-08-30T02:31:48+00:00",
-      "revalidated_at": "2026-08-31T09:31:03+00:00"
+      "revalidated_at": "2026-08-31T11:46:40+00:00"
     },
     {
       "asin": "B0CDPNJCWF",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:19943052",
       "published_at": "2026-08-30T02:16:44+00:00",
       "revalidated_at": "2026-08-31T11:01:31+00:00"
-    },
-    {
-      "asin": "B0000DC13R",
-      "title": "Weird Al Yankovic: The Ultimate Video Collection (DVD) at Amazon",
-      "title_es": "Weird Al Yankovic: La Colección Definitiva de Vídeos (DVD)",
-      "headline": null,
-      "post": "Disfruta de la colección definitiva de vídeos musicales de Weird Al Yankovic en formato DVD, perfecta para fans del humor y la parodia. Es una excelente opción para revivir sus clásicos y añadir a tu videoteca de entretenimiento.",
-      "post_en": "Enjoy the ultimate collection of Weird Al Yankovic music videos on DVD, perfect for fans of humor and parody. It's an excellent option to relive his classics and add to your entertainment video library.",
-      "price_new": 12.43,
-      "price_old": 19.99,
-      "currency": "USD",
-      "discount_pct": 37.8,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81DIAc+NkCL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0000DC13R/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19942878",
-      "published_at": "2026-08-30T02:16:44+00:00",
-      "revalidated_at": "2026-08-31T11:16:40+00:00"
     }
   ]
 }
