@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-31T09:01:34+00:00",
+  "generated_at": "2026-08-31T09:16:34+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0CSQ37SNH",
+      "title": "4-Pack 16-Oz Dial Body Wash (Spring Water)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.05,
+      "price_old": 15.96,
+      "currency": "USD",
+      "discount_pct": 80.9,
+      "rating": null,
+      "condition": "sns",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21441981.thumb",
+      "url": "https://amazon.com/dp/B0CSQ37SNH/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19947234",
+      "published_at": "2026-08-31T09:16:34+00:00",
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
+    },
     {
       "asin": "B07D4B3JF4",
       "title": "Clorox Toilet Bowl Brush & Plunger Combo Set w/ Storage Caddy at Amazon",
@@ -92,28 +114,6 @@
       "revalidated_at": "2026-08-31T07:46:43+00:00"
     },
     {
-      "asin": "B0FMYYGFQF",
-      "title": "2842-Pc LEGO Editions: FIFA World Cup Official Trophy Building Set",
-      "title_es": "Set de construcción LEGO Edición: Trofeo oficial Copa Mundial FIFA",
-      "headline": null,
-      "post": "Construye el icónico trofeo de la Copa del Mundo con este detallado set de LEGO de 2842 piezas. Ideal para aficionados al fútbol y entusiastas de LEGO que buscan un desafío de construcción y una pieza de exhibición. ⚽",
-      "post_en": "Build the iconic World Cup trophy with this detailed 2842-piece LEGO set. Perfect for football fans and LEGO enthusiasts looking for a building challenge and a display piece. ⚽",
-      "price_new": 40.0,
-      "price_old": 199.99,
-      "currency": "USD",
-      "discount_pct": 80.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/8/6/6/3/0/450x450/21442242.thumb",
-      "url": "https://amazon.com/dp/B0FMYYGFQF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19947222",
-      "published_at": "2026-08-31T07:16:27+00:00",
-      "revalidated_at": "2026-08-31T07:16:27+00:00"
-    },
-    {
       "asin": "B0DNJWSVMD",
       "title": "5-Pack QWE Girls Athletic Basketball Shorts w/ Drawstring Pocket (Various, 5Y-18Y)",
       "title_es": "Pack de 5 shorts deportivos QWE para niñas con cordón y bolsillo",
@@ -133,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946805",
       "published_at": "2026-08-31T07:16:27+00:00",
-      "revalidated_at": "2026-08-31T07:16:27+00:00"
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
     },
     {
       "asin": "B0FDB3LNWH",
@@ -155,7 +155,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946664",
       "published_at": "2026-08-31T07:16:27+00:00",
-      "revalidated_at": "2026-08-31T07:16:27+00:00"
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
     },
     {
       "asin": "1577315936",
@@ -177,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946208",
       "published_at": "2026-08-31T07:16:27+00:00",
-      "revalidated_at": "2026-08-31T07:16:27+00:00"
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
     },
     {
       "asin": "B0DT8CFH48",
@@ -322,11 +322,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 68.5,
-      "rating": null,
+      "rating": 4.5,
       "condition": "coupon",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21440628.thumb",
+      "image": "https://m.media-amazon.com/images/I/91O8a8v9mhL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B01LTHO3QO/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19946634",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19945929",
       "published_at": "2026-08-31T03:30:35+00:00",
-      "revalidated_at": "2026-08-31T07:16:27+00:00"
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
     },
     {
       "asin": "B0DSCK52F1",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19944663",
       "published_at": "2026-08-31T03:30:35+00:00",
-      "revalidated_at": "2026-08-31T07:16:27+00:00"
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
     },
     {
       "asin": "B0G51GLQHD",
@@ -595,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946325",
       "published_at": "2026-08-31T01:30:26+00:00",
-      "revalidated_at": "2026-08-31T07:16:27+00:00"
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
     },
     {
       "asin": "B0GJ8GQJHW",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946241",
       "published_at": "2026-08-30T23:45:43+00:00",
-      "revalidated_at": "2026-08-31T07:16:27+00:00"
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
     },
     {
       "asin": "B0D8X87JB9",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19945719",
       "published_at": "2026-08-30T23:45:43+00:00",
-      "revalidated_at": "2026-08-31T07:16:27+00:00"
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
     },
     {
       "asin": "B079T6HZXK",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19945707",
       "published_at": "2026-08-30T22:00:49+00:00",
-      "revalidated_at": "2026-08-31T07:16:27+00:00"
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
     },
     {
       "asin": "B000GUTJRY",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19945716",
       "published_at": "2026-08-30T22:00:49+00:00",
-      "revalidated_at": "2026-08-31T07:16:27+00:00"
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
     },
     {
       "asin": "B0GDX63N31",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19933833",
       "published_at": "2026-08-30T18:15:56+00:00",
-      "revalidated_at": "2026-08-31T07:16:27+00:00"
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
     },
     {
       "asin": "B0FC649122",
@@ -2201,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19940943",
       "published_at": "2026-08-30T02:31:48+00:00",
-      "revalidated_at": "2026-08-31T07:16:27+00:00"
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
     },
     {
       "asin": "B0DJ1BGHYJ",
@@ -2619,29 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19936548",
       "published_at": "2026-08-30T01:31:54+00:00",
-      "revalidated_at": "2026-08-31T07:00:58+00:00"
-    },
-    {
-      "asin": "B0DKW2H52M",
-      "title": "Resident Evil 2 (PS5) at Amazon",
-      "title_es": "Resident Evil 2 (PS5)",
-      "headline": null,
-      "post": "Resident Evil 2 para PS5 es una impresionante reimaginación del survival horror clásico, con gráficos fotorrealistas y una atmósfera aterradora. Sumérgete en Raccoon City y experimenta una historia de terror inolvidable.",
-      "post_en": "Resident Evil 2 for PS5 is a stunning reimagining of the classic survival horror, featuring photorealistic graphics and a terrifying atmosphere. Immerse yourself in Raccoon City and experience an unforgettable horror story.",
-      "price_new": 15.99,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 73.4,
-      "rating": 4.9,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81w7DlVxvDL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DKW2H52M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19942959",
-      "published_at": "2026-08-30T01:01:18+00:00",
-      "revalidated_at": "2026-08-31T08:16:27+00:00"
+      "revalidated_at": "2026-08-31T09:16:34+00:00"
     }
   ]
 }
