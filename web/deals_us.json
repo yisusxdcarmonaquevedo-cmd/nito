@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-01T22:16:10+00:00",
+  "generated_at": "2026-09-01T22:30:58+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B085NTJF7M",
+      "title": "30L Idrybag Waterproof Dry Bag Backpack (Black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.79,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 43.5,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/71Fs07ClP8L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B085NTJF7M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19955736",
+      "published_at": "2026-09-01T22:30:58+00:00",
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
+    },
     {
       "asin": "B0GCB42FCM",
       "title": "BAGSMART 15-Pack Travel Vacuum Storage Bags w/ Rechargeable Electric Pump",
@@ -36,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 63.6,
-      "rating": null,
+      "rating": 4.3,
       "condition": "prime",
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/2/7/9/2/9/3/0/2/450x450/21464919.thumb",
+      "image": "https://m.media-amazon.com/images/I/71lqSUZEosL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GRV8519S/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19956660",
@@ -168,11 +190,11 @@
       "price_old": 70.0,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/21465165.thumb",
+      "image": "https://m.media-amazon.com/images/I/71Md-6Omw9L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FDH6VT4K/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19956618",
@@ -212,11 +234,11 @@
       "price_old": 35.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "HGMIELSO",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21460671.thumb",
+      "image": "https://m.media-amazon.com/images/I/61OI3+cBssL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0HDY6PTY2/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19954695",
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19955508",
       "published_at": "2026-09-01T20:31:10+00:00",
-      "revalidated_at": "2026-09-01T20:31:10+00:00"
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
     },
     {
       "asin": "B0F1DGM1TM",
@@ -530,28 +552,6 @@
       "deal_key": "sd:19955649",
       "published_at": "2026-09-01T18:46:12+00:00",
       "revalidated_at": "2026-09-01T20:46:15+00:00"
-    },
-    {
-      "asin": "B0D51KQBG7",
-      "title": "11\" Hell's Kitchen Hybrid Tri-Clad Stainless Steel & Ceramic Nonstick Frying Pan",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 49.99,
-      "price_old": 139.99,
-      "currency": "USD",
-      "discount_pct": 64.3,
-      "rating": 4.1,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71w+BCelLpL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D51KQBG7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19955592",
-      "published_at": "2026-09-01T18:22:52+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
     },
     {
       "asin": "B01E4BC1SE",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19952991",
       "published_at": "2026-09-01T16:16:21+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
     },
     {
       "asin": "B0FRFYNXGC",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19954326",
       "published_at": "2026-09-01T14:31:07+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
     },
     {
       "asin": "B0FBGV69CK",
@@ -1343,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19953096",
       "published_at": "2026-09-01T14:31:07+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
     },
     {
       "asin": "B0FT85BDMK",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19950564",
       "published_at": "2026-09-01T08:45:42+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
     },
     {
       "asin": "B07FTPX71F",
@@ -2069,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19949544",
       "published_at": "2026-09-01T06:30:46+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
     },
     {
       "asin": "B0FVSPTFZF",
@@ -2091,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19952340",
       "published_at": "2026-09-01T06:30:46+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
     },
     {
       "asin": "B0D46D1GBR",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19948737",
       "published_at": "2026-09-01T06:16:42+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
     },
     {
       "asin": "B0149DCESE",
@@ -2157,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19949508",
       "published_at": "2026-09-01T06:16:42+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
     },
     {
       "asin": "B01ELI90R0",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19943928",
       "published_at": "2026-09-01T02:45:54+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
     },
     {
       "asin": "B0764BRLF2",
@@ -2553,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19951383",
       "published_at": "2026-09-01T00:45:48+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
     },
     {
       "asin": "B0DX19LC1T",
@@ -2575,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19950699",
       "published_at": "2026-09-01T00:30:53+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
     },
     {
       "asin": "B01MT1DPZ8",
@@ -2619,29 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19935810",
       "published_at": "2026-09-01T00:16:05+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
-    },
-    {
-      "asin": "B0FBGVMPRL",
-      "title": "Mazzy Star \"She Hangs Brightly\" (Vinyl LP + MP3 Album)",
-      "title_es": "Mazzy Star \"She Hangs Brightly\" (Vinilo LP + Álbum MP3)",
-      "headline": null,
-      "post": "Disfruta del clásico álbum \"She Hangs Brightly\" de Mazzy Star en formato vinilo LP, perfecto para coleccionistas y audiófilos. Incluye también el álbum en MP3 para que puedas escucharlo en cualquier lugar.",
-      "post_en": "Enjoy Mazzy Star's classic album \"She Hangs Brightly\" on vinyl LP, perfect for collectors and audiophiles. It also includes the MP3 album so you can listen to it anywhere.",
-      "price_new": 19.58,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 44.1,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71uOimcRTjL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FBGVMPRL/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19950666",
-      "published_at": "2026-09-01T00:16:05+00:00",
-      "revalidated_at": "2026-09-01T20:16:31+00:00"
+      "revalidated_at": "2026-09-01T22:30:58+00:00"
     }
   ]
 }
