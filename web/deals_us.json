@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-01T20:16:31+00:00",
+  "generated_at": "2026-09-01T20:31:10+00:00",
   "market": "us",
-  "count": 117,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0BJYSCX2M",
+      "title": "Social Justice Fallacies (eBook) by Thomas Sowell",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.99,
+      "price_old": 18.99,
+      "currency": "USD",
+      "discount_pct": 89.5,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21462684.thumb",
+      "url": "https://amazon.com/dp/B0BJYSCX2M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19955508",
+      "published_at": "2026-09-01T20:31:10+00:00",
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
+    },
+    {
+      "asin": "B0F1DGM1TM",
+      "title": "Insignia™ - 50\" Class F50 Series LED 4K UHD Smart Fire TV",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 159.99,
+      "price_old": 299.99,
+      "currency": "USD",
+      "discount_pct": 46.7,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/6/0/1/6/4/7/5/450x450/21441237.thumb",
+      "url": "https://amazon.com/dp/B0F1DGM1TM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19946928",
+      "published_at": "2026-09-01T20:31:10+00:00",
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
+    },
     {
       "asin": "B0GC7FWVJ5",
       "title": "5-Speed Lerat 3-in-1 4000mAh Handheld Portable Turbo Fan w/ LED Display & Flashlight",
@@ -80,11 +124,11 @@
       "price_old": 24.99,
       "currency": "USD",
       "discount_pct": 44.0,
-      "rating": null,
+      "rating": 4.2,
       "condition": "code",
       "code": "62I6RTFS",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21459312.thumb",
+      "image": "https://m.media-amazon.com/images/I/81d0B9XTElL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0B5SW6381/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19954266",
@@ -551,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19954845",
       "published_at": "2026-09-01T16:46:08+00:00",
-      "revalidated_at": "2026-09-01T18:30:59+00:00"
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
     },
     {
       "asin": "B0FJS3XHK4",
@@ -573,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19954494",
       "published_at": "2026-09-01T16:46:08+00:00",
-      "revalidated_at": "2026-09-01T18:30:59+00:00"
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
     },
     {
       "asin": "B07DD69QN3",
@@ -595,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19953189",
       "published_at": "2026-09-01T16:31:22+00:00",
-      "revalidated_at": "2026-09-01T18:30:59+00:00"
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
     },
     {
       "asin": "B0FJNYC6JW",
@@ -903,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19954359",
       "published_at": "2026-09-01T14:57:37+00:00",
-      "revalidated_at": "2026-09-01T18:30:59+00:00"
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
     },
     {
       "asin": "B088FWG6NB",
@@ -925,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946217",
       "published_at": "2026-09-01T14:45:59+00:00",
-      "revalidated_at": "2026-09-01T18:30:59+00:00"
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
     },
     {
       "asin": "B0DM5L2VVJ",
@@ -1211,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19952577",
       "published_at": "2026-09-01T13:01:01+00:00",
-      "revalidated_at": "2026-09-01T18:30:59+00:00"
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
     },
     {
       "asin": "B00N12YYL0",
@@ -1629,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19952835",
       "published_at": "2026-09-01T08:45:42+00:00",
-      "revalidated_at": "2026-09-01T18:30:59+00:00"
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
     },
     {
       "asin": "B01N52DUNK",
@@ -1937,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19935750",
       "published_at": "2026-09-01T03:16:38+00:00",
-      "revalidated_at": "2026-09-01T18:30:59+00:00"
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
     },
     {
       "asin": "B0GCB9Y8ZP",
@@ -1959,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19951953",
       "published_at": "2026-09-01T03:16:38+00:00",
-      "revalidated_at": "2026-09-01T18:30:59+00:00"
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
     },
     {
       "asin": "B0G2Y63G8R",
@@ -2113,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19931556",
       "published_at": "2026-09-01T01:01:28+00:00",
-      "revalidated_at": "2026-09-01T18:30:59+00:00"
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
     },
     {
       "asin": "B0GH37CPG9",
@@ -2223,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19949052",
       "published_at": "2026-09-01T00:30:53+00:00",
-      "revalidated_at": "2026-09-01T18:22:52+00:00"
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
     },
     {
       "asin": "B0GSJWPTYX",
@@ -2289,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19950783",
       "published_at": "2026-09-01T00:16:05+00:00",
-      "revalidated_at": "2026-09-01T18:22:52+00:00"
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
     },
     {
       "asin": "B0GVG8ZT6N",
@@ -2509,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19951155",
       "published_at": "2026-08-31T23:01:12+00:00",
-      "revalidated_at": "2026-09-01T18:22:52+00:00"
+      "revalidated_at": "2026-09-01T20:31:10+00:00"
     },
     {
       "asin": "B0GS9WB2D8",
