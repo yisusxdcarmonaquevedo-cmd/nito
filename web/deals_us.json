@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01T04:30:47+00:00",
+  "generated_at": "2026-09-01T04:45:42+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0H4MLK82J",
@@ -14,11 +14,11 @@
       "price_old": 199.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.1,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/3/5/9/0/4/8/7/3/450x450/21453429.thumb",
+      "image": "https://m.media-amazon.com/images/I/71Rbq8Cf2zL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H4MLK82J/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19952100",
@@ -155,29 +155,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19943928",
       "published_at": "2026-09-01T02:45:54+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
-    },
-    {
-      "asin": "B001B197II",
-      "title": "$3.24** | 1-gal Zep High Traffic Carpet Cleaner at Amazon",
-      "title_es": "Limpiador de Alfombras Zep para Tráfico Intenso, 1 galón",
-      "headline": null,
-      "post": "Este limpiador de alfombras Zep de alto rendimiento está diseñado para eliminar la suciedad más incrustada en zonas de mucho tránsito. Es ideal para mantener tus alfombras impecables y con un aspecto fresco en todo tu hogar.",
-      "post_en": "This high-performance Zep carpet cleaner is designed to remove tough dirt from high-traffic areas. It's ideal for keeping your carpets spotless and fresh-looking throughout your home.",
-      "price_new": 3.24,
-      "price_old": 17.57,
-      "currency": "USD",
-      "discount_pct": 81.6,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51XhV5o+KLL._AC_SL1001_.jpg",
-      "url": "https://amazon.com/dp/B001B197II/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19951995",
-      "published_at": "2026-09-01T02:45:54+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B0764BRLF2",
@@ -419,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19951383",
       "published_at": "2026-09-01T00:45:48+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B0DX19LC1T",
@@ -771,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19951146",
       "published_at": "2026-08-31T23:01:12+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B0D62BLNGL",
@@ -793,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19951155",
       "published_at": "2026-08-31T23:01:12+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B0GS9WB2D8",
@@ -815,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19951134",
       "published_at": "2026-08-31T23:01:12+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B00UJIYQ6W",
@@ -837,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946988",
       "published_at": "2026-08-31T23:01:12+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B0FDB4TXHD",
@@ -859,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19950156",
       "published_at": "2026-08-31T22:46:06+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B0FDG7QVZG",
@@ -881,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19949088",
       "published_at": "2026-08-31T22:46:06+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B0F3WQQHXV",
@@ -1123,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19950570",
       "published_at": "2026-08-31T21:01:22+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B08W8JCPBL",
@@ -1145,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19949031",
       "published_at": "2026-08-31T20:46:25+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B0GQSZFDWC",
@@ -1761,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19948125",
       "published_at": "2026-08-31T12:46:36+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B0DS24MTRM",
@@ -2201,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19944780",
       "published_at": "2026-08-31T06:31:10+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B0DW142P8W",
@@ -2245,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19945833",
       "published_at": "2026-08-31T04:30:39+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B0GVYZ1WK7",
@@ -2267,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19945773",
       "published_at": "2026-08-31T04:30:39+00:00",
-      "revalidated_at": "2026-09-01T02:45:54+00:00"
+      "revalidated_at": "2026-09-01T04:45:42+00:00"
     },
     {
       "asin": "B0F6LL4SNF",
