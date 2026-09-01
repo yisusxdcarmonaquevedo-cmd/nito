@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01T01:16:05+00:00",
+  "generated_at": "2026-09-01T01:30:39+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B00BQOFY0A",
@@ -124,11 +124,11 @@
       "price_old": 79.99,
       "currency": "USD",
       "discount_pct": 61.9,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "MYWDN25M",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/3/3/5/6/0/450x450/21452562.thumb",
+      "image": "https://m.media-amazon.com/images/I/71YMNwh4wcL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DPMRH7BB/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19951611",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19950927",
       "published_at": "2026-08-31T23:46:11+00:00",
-      "revalidated_at": "2026-08-31T23:46:11+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B0BVQX6875",
@@ -551,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19950153",
       "published_at": "2026-08-31T23:46:11+00:00",
-      "revalidated_at": "2026-08-31T23:46:11+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B0DCN4B3BR",
@@ -573,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19950786",
       "published_at": "2026-08-31T23:46:11+00:00",
-      "revalidated_at": "2026-08-31T23:46:11+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B0DSK2MB15",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946847",
       "published_at": "2026-08-31T21:46:27+00:00",
-      "revalidated_at": "2026-08-31T23:46:11+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B0CW3QCHCZ",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19950033",
       "published_at": "2026-08-31T19:31:27+00:00",
-      "revalidated_at": "2026-08-31T23:31:02+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B0GXB3MQ98",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19949595",
       "published_at": "2026-08-31T19:31:27+00:00",
-      "revalidated_at": "2026-08-31T23:31:02+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B0DBLMHFJ8",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19949577",
       "published_at": "2026-08-31T17:31:27+00:00",
-      "revalidated_at": "2026-08-31T23:31:02+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B0GKM9W7JJ",
@@ -1233,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19949862",
       "published_at": "2026-08-31T17:31:27+00:00",
-      "revalidated_at": "2026-08-31T23:31:02+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B0DSHY2T4Q",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19948884",
       "published_at": "2026-08-31T15:46:32+00:00",
-      "revalidated_at": "2026-08-31T23:46:11+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B0HFRLC811",
@@ -1761,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19945695",
       "published_at": "2026-08-31T11:31:29+00:00",
-      "revalidated_at": "2026-08-31T23:31:02+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B08WVBQ147",
@@ -1783,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19948071",
       "published_at": "2026-08-31T11:31:29+00:00",
-      "revalidated_at": "2026-08-31T23:31:02+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B003ES5M0I",
@@ -2179,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19945929",
       "published_at": "2026-08-31T03:30:35+00:00",
-      "revalidated_at": "2026-08-31T23:31:02+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B0DSCK52F1",
@@ -2204,28 +2204,6 @@
       "revalidated_at": "2026-08-31T23:46:11+00:00"
     },
     {
-      "asin": "B0G51GLQHD",
-      "title": "Walifrey Women's Wide Leg Sweatpants w/ Pockets (Various)",
-      "title_es": "Pantalones de chándal de pierna ancha Walifrey para mujer con bolsillos (varios)",
-      "headline": null,
-      "post": "Pantalones de chándal Walifrey de pierna ancha para mujer, ideales para un look cómodo y relajado en casa o para salir. Cuentan con prácticos bolsillos para guardar tus esenciales.",
-      "post_en": "Walifrey women's wide leg sweatpants, perfect for a comfortable and relaxed look at home or for casual outings. They feature practical pockets to keep your essentials.",
-      "price_new": 5.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 82.9,
-      "rating": null,
-      "condition": "code",
-      "code": "MZC9VBXR",
-      "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/21440154.thumb",
-      "url": "https://amazon.com/dp/B0G51GLQHD/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19946301",
-      "published_at": "2026-08-31T03:15:36+00:00",
-      "revalidated_at": "2026-08-31T23:31:02+00:00"
-    },
-    {
       "asin": "B0CXPWMSX6",
       "title": "$10 AMAZON: VELOMIX 2 Pack 28oz Protein Shaker Bottle for Protein Mixes, Black/Transparant + more",
       "title_es": "VELOMIX Pack de 2 botellas mezcladoras de proteínas de 28oz (Negro/Transparente + más)",
@@ -2245,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19937811",
       "published_at": "2026-08-31T03:15:36+00:00",
-      "revalidated_at": "2026-08-31T23:31:02+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B084D235JB",
@@ -2421,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19944048",
       "published_at": "2026-08-31T01:15:25+00:00",
-      "revalidated_at": "2026-08-31T23:31:02+00:00"
+      "revalidated_at": "2026-09-01T01:30:39+00:00"
     },
     {
       "asin": "B0BSP2WFB8",
