@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-01T22:30:58+00:00",
+  "generated_at": "2026-09-01T22:46:10+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B0CGJ3V6KD",
+      "title": "Amazon – LIVOWALNY 14800LM LED Work Light for Milwaukee M18 Batteries -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 18.0,
+      "price_old": 33.99,
+      "currency": "USD",
+      "discount_pct": 47.0,
+      "rating": 4.3,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71RoH1f81HL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CGJ3V6KD/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19954260",
+      "published_at": "2026-09-01T22:46:10+00:00",
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
+    },
+    {
+      "asin": "B0G4VQ1X5X",
+      "title": "360mm Thermalright Magic Qube 360 ARGB Liquid CPU Cooler w/ Digital Screen (Black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 42.63,
+      "price_old": 60.9,
+      "currency": "USD",
+      "discount_pct": 30.0,
+      "rating": 4.2,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61tbJF6QthL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0G4VQ1X5X/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19956702",
+      "published_at": "2026-09-01T22:46:10+00:00",
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
+    },
     {
       "asin": "B085NTJF7M",
       "title": "30L Idrybag Waterproof Dry Bag Backpack (Black)",
@@ -300,11 +344,11 @@
       "price_old": 11.99,
       "currency": "USD",
       "discount_pct": 83.4,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21464577.thumb",
+      "image": "https://m.media-amazon.com/images/I/81OvhgznaUS._SL1500_.jpg",
       "url": "https://amazon.com/dp/B07W5557Z7/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19956327",
@@ -353,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19955733",
       "published_at": "2026-09-01T20:46:15+00:00",
-      "revalidated_at": "2026-09-01T20:46:15+00:00"
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
     },
     {
       "asin": "B0BJYSCX2M",
@@ -366,11 +410,11 @@
       "price_old": 18.99,
       "currency": "USD",
       "discount_pct": 89.5,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21462684.thumb",
+      "image": "https://m.media-amazon.com/images/I/61PW1XLx4IL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BJYSCX2M/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19955508",
@@ -397,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946928",
       "published_at": "2026-09-01T20:31:10+00:00",
-      "revalidated_at": "2026-09-01T20:31:10+00:00"
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
     },
     {
       "asin": "B0GC7FWVJ5",
@@ -432,11 +476,11 @@
       "price_old": 12.99,
       "currency": "USD",
       "discount_pct": 84.7,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21462669.thumb",
+      "image": "https://m.media-amazon.com/images/I/9151d1T-zIL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B007ME5BUG/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19955499",
@@ -906,28 +950,6 @@
       "revalidated_at": "2026-09-01T21:00:59+00:00"
     },
     {
-      "asin": "B0F13QD8WY",
-      "title": "DCK 58V Cordless Chainsaw 16 Inch, Brushless Electric Chain Saw with 4.0Ah Battery & 5A Charger",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 55.99,
-      "price_old": 189.99,
-      "currency": "USD",
-      "discount_pct": 70.5,
-      "rating": null,
-      "condition": "code",
-      "code": "JYA4964X",
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/8/2/8/3/4/450x450/21461112.thumb",
-      "url": "https://amazon.com/dp/B0F13QD8WY/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19954845",
-      "published_at": "2026-09-01T16:46:08+00:00",
-      "revalidated_at": "2026-09-01T20:31:10+00:00"
-    },
-    {
       "asin": "B0FJS3XHK4",
       "title": "Dowinx Gaming Chair with Footrest, 2D Lift Linkage Armrest, Massage Lumbar, 330lbs Capacity",
       "title_es": null,
@@ -947,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19954494",
       "published_at": "2026-09-01T16:46:08+00:00",
-      "revalidated_at": "2026-09-01T20:31:10+00:00"
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
     },
     {
       "asin": "B07DD69QN3",
@@ -969,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19953189",
       "published_at": "2026-09-01T16:31:22+00:00",
-      "revalidated_at": "2026-09-01T20:31:10+00:00"
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
     },
     {
       "asin": "B0FJNYC6JW",
@@ -1277,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19954359",
       "published_at": "2026-09-01T14:57:37+00:00",
-      "revalidated_at": "2026-09-01T20:31:10+00:00"
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
     },
     {
       "asin": "B088FWG6NB",
@@ -1299,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946217",
       "published_at": "2026-09-01T14:45:59+00:00",
-      "revalidated_at": "2026-09-01T20:31:10+00:00"
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
     },
     {
       "asin": "B0DM5L2VVJ",
@@ -1585,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19952577",
       "published_at": "2026-09-01T13:01:01+00:00",
-      "revalidated_at": "2026-09-01T20:31:10+00:00"
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
     },
     {
       "asin": "B00N12YYL0",
@@ -2003,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19952835",
       "published_at": "2026-09-01T08:45:42+00:00",
-      "revalidated_at": "2026-09-01T20:31:10+00:00"
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
     },
     {
       "asin": "B01N52DUNK",
@@ -2311,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19935750",
       "published_at": "2026-09-01T03:16:38+00:00",
-      "revalidated_at": "2026-09-01T20:31:10+00:00"
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
     },
     {
       "asin": "B0GCB9Y8ZP",
@@ -2333,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19951953",
       "published_at": "2026-09-01T03:16:38+00:00",
-      "revalidated_at": "2026-09-01T20:31:10+00:00"
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
     },
     {
       "asin": "B0G2Y63G8R",
@@ -2487,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19931556",
       "published_at": "2026-09-01T01:01:28+00:00",
-      "revalidated_at": "2026-09-01T20:31:10+00:00"
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
     },
     {
       "asin": "B0GH37CPG9",
@@ -2597,29 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19949052",
       "published_at": "2026-09-01T00:30:53+00:00",
-      "revalidated_at": "2026-09-01T20:31:10+00:00"
-    },
-    {
-      "asin": "B0GSJWPTYX",
-      "title": "JOOAN 2K No-Drill Window Security Camera for Apartment Renter, 5G/2.4G WiFi",
-      "title_es": "Cámara de seguridad JOOAN 2K para ventana sin taladros para inquilinos",
-      "headline": null,
-      "post": "Esta cámara de seguridad JOOAN 2K se instala fácilmente en ventanas sin necesidad de taladros, ideal para inquilinos. Ofrece conectividad WiFi dual (5G/2.4G) para una vigilancia doméstica discreta y eficaz.",
-      "post_en": "This JOOAN 2K security camera easily installs on windows without drilling, perfect for apartment renters. It offers dual WiFi connectivity (5G/2.4G) for discreet and effective home surveillance.",
-      "price_new": 17.99,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "5Y43TPWJ",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81wXKOOOOBL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GSJWPTYX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19935810",
-      "published_at": "2026-09-01T00:16:05+00:00",
-      "revalidated_at": "2026-09-01T22:30:58+00:00"
+      "revalidated_at": "2026-09-01T22:46:10+00:00"
     }
   ]
 }
