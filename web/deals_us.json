@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-02T22:16:24+00:00",
+  "generated_at": "2026-09-02T22:31:18+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B09TGMK8G6",
+      "title": "Smart Brevity: The Power of Saying More with Less (Revised and Updated) (eBook) by Jim VandeHei, Mike Allen, Roy Schwartz",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.99,
+      "price_old": 13.99,
+      "currency": "USD",
+      "discount_pct": 85.8,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21470139.thumb",
+      "url": "https://amazon.com/dp/B09TGMK8G6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19959141",
+      "published_at": "2026-09-02T22:31:18+00:00",
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
+    },
     {
       "asin": "B0CVXCL2S2",
       "title": "[Prime] 224-Piece Beetles Tipex Instant Apex Soft Gel Clear Press-On Nail Kit w/ Mini UV Lamp, Glue Gel, & File (Medium Almond or Oval Almond)",
@@ -397,29 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19962051",
       "published_at": "2026-09-02T20:46:35+00:00",
-      "revalidated_at": "2026-09-02T20:46:35+00:00"
-    },
-    {
-      "asin": "B0DCTZZ9HG",
-      "title": "30-Oz Stanley Quencher H2.0 Stainless Steel Vacuum Insulated Tumbler (Goldenrod) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 17.5,
-      "price_old": 40.0,
-      "currency": "USD",
-      "discount_pct": 56.2,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51QRQQy7eeL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DCTZZ9HG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19962009",
-      "published_at": "2026-09-02T20:46:35+00:00",
-      "revalidated_at": "2026-09-02T20:46:35+00:00"
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
     },
     {
       "asin": "B073P4GBPD",
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19961661",
       "published_at": "2026-09-02T20:31:32+00:00",
-      "revalidated_at": "2026-09-02T20:31:32+00:00"
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
     },
     {
       "asin": "B0FNWM4NPX",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19961067",
       "published_at": "2026-09-02T18:46:36+00:00",
-      "revalidated_at": "2026-09-02T20:46:35+00:00"
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
     },
     {
       "asin": "B07WGBWBTC",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19956285",
       "published_at": "2026-09-02T18:46:36+00:00",
-      "revalidated_at": "2026-09-02T20:46:35+00:00"
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
     },
     {
       "asin": "B07S652B12",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19943514",
       "published_at": "2026-09-02T18:31:37+00:00",
-      "revalidated_at": "2026-09-02T20:31:32+00:00"
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
     },
     {
       "asin": "B0GTX5JD61",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19956303",
       "published_at": "2026-09-02T18:31:37+00:00",
-      "revalidated_at": "2026-09-02T20:31:32+00:00"
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
     },
     {
       "asin": "B0FDQF79B7",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19960926",
       "published_at": "2026-09-02T16:46:36+00:00",
-      "revalidated_at": "2026-09-02T20:46:35+00:00"
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
     },
     {
       "asin": "B0CSPF44PN",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19960368",
       "published_at": "2026-09-02T16:31:40+00:00",
-      "revalidated_at": "2026-09-02T20:31:32+00:00"
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
     },
     {
       "asin": "B01L2ZS882",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19960884",
       "published_at": "2026-09-02T16:31:40+00:00",
-      "revalidated_at": "2026-09-02T20:31:32+00:00"
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
     },
     {
       "asin": "B09JDHGWVK",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19958628",
       "published_at": "2026-09-02T14:31:47+00:00",
-      "revalidated_at": "2026-09-02T20:31:32+00:00"
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
     },
     {
       "asin": "B07YXP2SJT",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19956003",
       "published_at": "2026-09-02T12:16:43+00:00",
-      "revalidated_at": "2026-09-02T20:31:32+00:00"
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
     },
     {
       "asin": "B0FQCCCJGH",
@@ -1893,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19928835",
       "published_at": "2026-09-02T12:16:43+00:00",
-      "revalidated_at": "2026-09-02T20:31:32+00:00"
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
     },
     {
       "asin": "B0F3RJ4942",
@@ -2619,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19956318",
       "published_at": "2026-09-02T00:30:58+00:00",
-      "revalidated_at": "2026-09-02T20:31:32+00:00"
+      "revalidated_at": "2026-09-02T22:31:18+00:00"
     }
   ]
 }
