@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T04:01:31+00:00",
+  "generated_at": "2026-09-03T04:16:03+00:00",
   "market": "us",
-  "count": 116,
+  "count": 114,
   "deals": [
     {
       "asin": "B0HGXZ9228",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19959465",
       "published_at": "2026-09-03T00:31:18+00:00",
-      "revalidated_at": "2026-09-03T02:16:20+00:00"
+      "revalidated_at": "2026-09-03T04:16:03+00:00"
     },
     {
       "asin": "B0FMKB86X1",
@@ -595,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19959141",
       "published_at": "2026-09-02T22:31:18+00:00",
-      "revalidated_at": "2026-09-03T02:16:20+00:00"
+      "revalidated_at": "2026-09-03T04:16:03+00:00"
     },
     {
       "asin": "B0CVXCL2S2",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19962051",
       "published_at": "2026-09-02T20:46:35+00:00",
-      "revalidated_at": "2026-09-03T02:16:20+00:00"
+      "revalidated_at": "2026-09-03T04:16:03+00:00"
     },
     {
       "asin": "B073P4GBPD",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19961661",
       "published_at": "2026-09-02T20:31:32+00:00",
-      "revalidated_at": "2026-09-03T02:16:20+00:00"
+      "revalidated_at": "2026-09-03T04:16:03+00:00"
     },
     {
       "asin": "B0FNWM4NPX",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19961067",
       "published_at": "2026-09-02T18:46:36+00:00",
-      "revalidated_at": "2026-09-03T02:16:20+00:00"
+      "revalidated_at": "2026-09-03T04:16:03+00:00"
     },
     {
       "asin": "B07WGBWBTC",
@@ -1233,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19956285",
       "published_at": "2026-09-02T18:46:36+00:00",
-      "revalidated_at": "2026-09-03T02:16:20+00:00"
+      "revalidated_at": "2026-09-03T04:16:03+00:00"
     },
     {
       "asin": "B07S652B12",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19943514",
       "published_at": "2026-09-02T18:31:37+00:00",
-      "revalidated_at": "2026-09-03T02:16:20+00:00"
+      "revalidated_at": "2026-09-03T04:16:03+00:00"
     },
     {
       "asin": "B0GTX5JD61",
@@ -1915,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19960275",
       "published_at": "2026-09-02T14:31:47+00:00",
-      "revalidated_at": "2026-09-03T02:16:20+00:00"
+      "revalidated_at": "2026-09-03T04:16:03+00:00"
     },
     {
       "asin": "B0G1MMX8M6",
@@ -1937,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19958823",
       "published_at": "2026-09-02T14:31:47+00:00",
-      "revalidated_at": "2026-09-03T02:16:20+00:00"
+      "revalidated_at": "2026-09-03T04:16:03+00:00"
     },
     {
       "asin": "B0F5X2MS9D",
@@ -2082,11 +2082,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.7,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/0/4/6/9/4/2/0/450x450/21460458.thumb",
+      "image": "https://m.media-amazon.com/images/I/41jAtoT9VnL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CWKK9LBH/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19954719",
@@ -2126,11 +2126,11 @@
       "price_old": 45.0,
       "currency": "USD",
       "discount_pct": 47.7,
-      "rating": null,
+      "rating": 4.8,
       "condition": "prime",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21469626.thumb",
+      "image": "https://m.media-amazon.com/images/I/81wJ-47BjwL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B071VTPL1B/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19958943",
@@ -2148,11 +2148,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 57.2,
-      "rating": null,
+      "rating": 3.0,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21466974.thumb",
+      "image": "https://m.media-amazon.com/images/I/51gH49ojuFL._AC_SL1254_.jpg",
       "url": "https://amazon.com/dp/B0GZ989TGL/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19957743",
@@ -2192,11 +2192,11 @@
       "price_old": 16.48,
       "currency": "USD",
       "discount_pct": 50.5,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21471417.thumb",
+      "image": "https://m.media-amazon.com/images/I/51IH1xYb5oL._AC_SL1200_.jpg",
       "url": "https://amazon.com/dp/B01MG1VV2M/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19959705",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19956309",
       "published_at": "2026-09-02T12:16:43+00:00",
-      "revalidated_at": "2026-09-03T02:16:20+00:00"
+      "revalidated_at": "2026-09-03T04:16:03+00:00"
     },
     {
       "asin": "B0FNRPP1YP",
@@ -2336,28 +2336,6 @@
       "revalidated_at": "2026-09-03T02:31:23+00:00"
     },
     {
-      "asin": "B0F3RJ4942",
-      "title": "adidas Power Gym Bag – Lightweight Small Duffel at Amazon",
-      "title_es": "Bolsa de gimnasio adidas Power – Duffel pequeña y ligera",
-      "headline": null,
-      "post": "La bolsa de gimnasio adidas Power es la compañera perfecta para tus entrenamientos, siendo ligera y compacta para llevar lo esencial. Su diseño duffel pequeño la hace ideal para el gimnasio, deportes o escapadas cortas. 💪",
-      "post_en": "The adidas Power Gym Bag is the perfect companion for your workouts, being lightweight and compact for carrying essentials. Its small duffel design makes it ideal for the gym, sports, or short getaways. 💪",
-      "price_new": 14.27,
-      "price_old": 30.0,
-      "currency": "USD",
-      "discount_pct": 52.4,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21468936.thumb",
-      "url": "https://amazon.com/dp/B0F3RJ4942/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19958688",
-      "published_at": "2026-09-02T12:01:33+00:00",
-      "revalidated_at": "2026-09-03T02:16:20+00:00"
-    },
-    {
       "asin": "B0GY7K5NJK",
       "title": "8\"x8\" 60-Page Popotop Linen Hardcover DIY Scrapbook Photo Album w/ Display Window (Grey)",
       "title_es": "Álbum de fotos DIY Popotop de lino de 8\"x8\" y 60 páginas con ventana (Gris)",
@@ -2377,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19958709",
       "published_at": "2026-09-02T11:45:54+00:00",
-      "revalidated_at": "2026-09-03T02:01:13+00:00"
+      "revalidated_at": "2026-09-03T04:16:03+00:00"
     },
     {
       "asin": "B004S0PGN4",
@@ -2399,29 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19958682",
       "published_at": "2026-09-02T11:45:54+00:00",
-      "revalidated_at": "2026-09-03T02:16:20+00:00"
-    },
-    {
-      "asin": "B09X26ZHPV",
-      "title": "16\" EGO POWER+ 56V Cordless Chain Saw + 2.5Ah Battery & Charger at Amazon",
-      "title_es": "Motosierra inalámbrica EGO POWER+ 56V de 16\" + batería 2.5Ah y cargador",
-      "headline": null,
-      "post": "La motosierra inalámbrica EGO POWER+ 56V ofrece potencia y libertad de movimiento para tus tareas de poda. Incluye una batería de 2.5Ah y cargador, lista para usar en tu jardín o proyectos al aire libre. 🌳",
-      "post_en": "The EGO POWER+ 56V cordless chainsaw provides power and freedom of movement for your pruning tasks. It includes a 2.5Ah battery and charger, ready for use in your garden or outdoor projects. 🌳",
-      "price_new": 195.0,
-      "price_old": 279.99,
-      "currency": "USD",
-      "discount_pct": 30.4,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71WxFjcT4rL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09X26ZHPV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19959492",
-      "published_at": "2026-09-02T11:30:41+00:00",
-      "revalidated_at": "2026-09-03T02:01:13+00:00"
+      "revalidated_at": "2026-09-03T04:16:03+00:00"
     },
     {
       "asin": "B0BGCFW6H6",
@@ -2509,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19959156",
       "published_at": "2026-09-02T10:15:53+00:00",
-      "revalidated_at": "2026-09-03T02:16:20+00:00"
+      "revalidated_at": "2026-09-03T04:16:03+00:00"
     },
     {
       "asin": "B07VWSN95S",
