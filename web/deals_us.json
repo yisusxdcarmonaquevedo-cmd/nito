@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-04T18:18:07+00:00",
+  "generated_at": "2026-09-04T18:31:21+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B09XWJHXKJ",
@@ -58,11 +58,11 @@
       "price_old": 85.99,
       "currency": "USD",
       "discount_pct": 72.1,
-      "rating": null,
+      "rating": 4.1,
       "condition": "code",
       "code": "32KKRJ42",
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/3/8/8/1/8/1/450x450/21499440.thumb",
+      "image": "https://m.media-amazon.com/images/I/71Gi6+rU9NL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GBWQZP4T/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19970052",
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19969137",
       "published_at": "2026-09-04T16:46:42+00:00",
-      "revalidated_at": "2026-09-04T16:46:42+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B0GL1YLRW8",
@@ -265,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19970898",
       "published_at": "2026-09-04T16:46:42+00:00",
-      "revalidated_at": "2026-09-04T16:46:42+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B08L3NWBFN",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19969221",
       "published_at": "2026-09-04T16:46:42+00:00",
-      "revalidated_at": "2026-09-04T16:46:42+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B0F5LPQZPT",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19969080",
       "published_at": "2026-09-04T16:46:42+00:00",
-      "revalidated_at": "2026-09-04T16:46:42+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B0FK5QJD6K",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19970565",
       "published_at": "2026-09-04T14:31:25+00:00",
-      "revalidated_at": "2026-09-04T16:46:42+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B0F4DZKVGH",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19970112",
       "published_at": "2026-09-04T12:31:37+00:00",
-      "revalidated_at": "2026-09-04T16:46:42+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B0992ST3XB",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19969677",
       "published_at": "2026-09-04T10:46:01+00:00",
-      "revalidated_at": "2026-09-04T16:46:42+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B092RCLKHN",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19964961",
       "published_at": "2026-09-04T10:46:01+00:00",
-      "revalidated_at": "2026-09-04T16:46:42+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B00IT70ZV0",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19954179",
       "published_at": "2026-09-04T08:46:06+00:00",
-      "revalidated_at": "2026-09-04T16:46:42+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B0DJ74N59C",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19964328",
       "published_at": "2026-09-04T06:45:45+00:00",
-      "revalidated_at": "2026-09-04T16:46:42+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B00BGVLO1G",
@@ -1651,29 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19968066",
       "published_at": "2026-09-04T02:31:02+00:00",
-      "revalidated_at": "2026-09-04T16:31:55+00:00"
-    },
-    {
-      "asin": "B0D5Q7TNCG",
-      "title": "Boncare Large Display Digital Basal Body Thermometer with Fever Alarm",
-      "title_es": "Termómetro Digital de Temperatura Basal Boncare con Gran Pantalla y Alarma de Fiebre",
-      "headline": null,
-      "post": "Este termómetro digital de Boncare con gran pantalla está diseñado para medir la temperatura basal corporal con precisión. Incluye una alarma de fiebre, siendo una herramienta útil para el seguimiento de ciclos o la detección temprana de enfermedades.",
-      "post_en": "This Boncare digital thermometer with a large display is designed for accurate basal body temperature measurement. It includes a fever alarm, making it a useful tool for cycle tracking or early illness detection.",
-      "price_new": 2.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 91.5,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "FLE72NF4",
-      "category": "Salud",
-      "image": "https://m.media-amazon.com/images/I/616fqSnyHTL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D5Q7TNCG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19968018",
-      "published_at": "2026-09-04T02:31:02+00:00",
-      "revalidated_at": "2026-09-04T16:31:55+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B0DS6KHL3G",
@@ -1695,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19967889",
       "published_at": "2026-09-04T02:31:02+00:00",
-      "revalidated_at": "2026-09-04T16:31:55+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B0GGB3NQDS",
@@ -1717,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19966332",
       "published_at": "2026-09-04T02:31:02+00:00",
-      "revalidated_at": "2026-09-04T16:31:55+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B0DFH6TS4N",
@@ -2069,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946580",
       "published_at": "2026-09-03T22:31:07+00:00",
-      "revalidated_at": "2026-09-04T16:31:55+00:00"
+      "revalidated_at": "2026-09-04T18:31:21+00:00"
     },
     {
       "asin": "B017RQYKDC",
