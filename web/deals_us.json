@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-04T01:15:37+00:00",
+  "generated_at": "2026-09-04T01:30:50+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B0GY221K1Y",
+      "title": "MSI PRO 850W A850PL PCIE5 80+ Platinum Fully Modular Gaming Power Supply at Amazon",
+      "title_es": "Fuente de alimentación MSI PRO 850W A850PL PCIE5 80+ Platinum Fully Modular Gaming",
+      "headline": null,
+      "post": "Esta fuente de alimentación MSI PRO 850W A850PL PCIE5 es una opción robusta y eficiente para tu PC gaming. Con certificación 80+ Platinum y diseño totalmente modular, ofrece energía estable y gestión de cables sencilla para entusiastas del hardware.",
+      "post_en": "This MSI PRO 850W A850PL PCIE5 power supply is a robust and efficient option for your gaming PC. Featuring 80+ Platinum certification and a fully modular design, it provides stable power and easy cable management for hardware enthusiasts.",
+      "price_new": 99.99,
+      "price_old": 159.99,
+      "currency": "USD",
+      "discount_pct": 37.5,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/7144a6si6bL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GY221K1Y/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19967640",
+      "published_at": "2026-09-04T01:30:50+00:00",
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
+    },
     {
       "asin": "B0DJDLS8Q1",
       "title": "LEGO Horizon Adventures (Switch)",
@@ -136,28 +158,6 @@
       "revalidated_at": "2026-09-03T23:46:18+00:00"
     },
     {
-      "asin": "B0F7KB8QPJ",
-      "title": "24-Oz Stanley Everyday Camp Insulated Mug w/ Drink-Thru Lid (Cream Gloss) at Amazon",
-      "title_es": "Taza Stanley Everyday Camp Aislada de 24 Oz con Tapa para Beber (Cream Gloss)",
-      "headline": null,
-      "post": "La taza Stanley Everyday Camp de 24 oz mantiene tus bebidas a la temperatura ideal, caliente o fría. Su tapa con sistema para beber la hace ideal para aventuras al aire libre o el uso diario. 🏕️",
-      "post_en": "The 24-oz Stanley Everyday Camp mug keeps your drinks at the ideal temperature, hot or cold. Its drink-thru lid makes it perfect for outdoor adventures or daily use. 🏕️",
-      "price_new": 18.0,
-      "price_old": 30.0,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/51UNhZRGR8L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F7KB8QPJ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19967652",
-      "published_at": "2026-09-03T23:30:47+00:00",
-      "revalidated_at": "2026-09-03T23:30:47+00:00"
-    },
-    {
       "asin": "B0G1XKDCQ9",
       "title": "8-Pc Seesii Torque Wrench Set (1/4\" 3/8\" 1/2\" Drive)",
       "title_es": "Set de 8 Llaves Dinamométricas Seesii (1/4\", 3/8\", 1/2\" Drive)",
@@ -177,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19961568",
       "published_at": "2026-09-03T23:30:47+00:00",
-      "revalidated_at": "2026-09-03T23:30:47+00:00"
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
     },
     {
       "asin": "B0H28HFZ9Q",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19967226",
       "published_at": "2026-09-03T21:31:10+00:00",
-      "revalidated_at": "2026-09-03T23:30:47+00:00"
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
     },
     {
       "asin": "B0DZ36T7T2",
@@ -573,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19966521",
       "published_at": "2026-09-03T19:46:10+00:00",
-      "revalidated_at": "2026-09-03T23:30:47+00:00"
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
     },
     {
       "asin": "B094YDZQ1C",
@@ -595,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19961664",
       "published_at": "2026-09-03T19:46:10+00:00",
-      "revalidated_at": "2026-09-03T23:30:47+00:00"
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
     },
     {
       "asin": "B0CFYVKNQN",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19964691",
       "published_at": "2026-09-03T19:46:10+00:00",
-      "revalidated_at": "2026-09-03T23:30:47+00:00"
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
     },
     {
       "asin": "B0FNWCYLZN",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19966386",
       "published_at": "2026-09-03T18:00:58+00:00",
-      "revalidated_at": "2026-09-03T23:30:47+00:00"
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
     },
     {
       "asin": "B0GXKSHK2Q",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19965555",
       "published_at": "2026-09-03T16:01:01+00:00",
-      "revalidated_at": "2026-09-03T23:30:47+00:00"
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
     },
     {
       "asin": "B0DKNJKSDC",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19962357",
       "published_at": "2026-09-03T16:01:01+00:00",
-      "revalidated_at": "2026-09-03T23:30:47+00:00"
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
     },
     {
       "asin": "B0FZSZY7L3",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19965585",
       "published_at": "2026-09-03T16:01:01+00:00",
-      "revalidated_at": "2026-09-03T23:30:47+00:00"
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
     },
     {
       "asin": "B0FR7K693P",
@@ -2003,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19964049",
       "published_at": "2026-09-03T10:01:26+00:00",
-      "revalidated_at": "2026-09-03T23:16:13+00:00"
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
     },
     {
       "asin": "B00BWQW73E",
@@ -2025,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19959471",
       "published_at": "2026-09-03T09:46:11+00:00",
-      "revalidated_at": "2026-09-03T23:16:13+00:00"
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
     },
     {
       "asin": "B016H0QZ7I",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19961532",
       "published_at": "2026-09-03T03:17:20+00:00",
-      "revalidated_at": "2026-09-03T23:16:13+00:00"
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
     },
     {
       "asin": "B0DKXH6L9T",
@@ -2421,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19954536",
       "published_at": "2026-09-03T01:24:52+00:00",
-      "revalidated_at": "2026-09-03T23:16:13+00:00"
+      "revalidated_at": "2026-09-04T01:30:50+00:00"
     },
     {
       "asin": "B0CPD1JDKF",
