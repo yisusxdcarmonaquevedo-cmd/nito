@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-09-04T02:15:52+00:00",
+  "generated_at": "2026-09-04T02:31:02+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0GR5DYMCG",
+      "title": "GE 8-Electrode Smart Bluetooth Digital Weight Scale",
+      "title_es": "Báscula Digital Inteligente GE con Bluetooth y 8 Electrodos",
+      "headline": null,
+      "post": "Esta báscula digital inteligente de GE con 8 electrodos permite monitorizar tu peso y otros parámetros corporales con precisión. Con conectividad Bluetooth, es ideal para quienes buscan un seguimiento detallado de su salud y bienestar.",
+      "post_en": "This GE 8-electrode smart digital scale accurately monitors your weight and other body parameters. Featuring Bluetooth connectivity, it's perfect for those seeking detailed tracking of their health and well-being.",
+      "price_new": 59.99,
+      "price_old": 119.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": "code",
+      "code": "GE260902",
+      "category": "Salud",
+      "image": "https://slickdeals.net/attachment/1/1/3/3/5/6/0/450x450/21491490.thumb",
+      "url": "https://amazon.com/dp/B0GR5DYMCG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19968066",
+      "published_at": "2026-09-04T02:31:02+00:00",
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
+    },
+    {
+      "asin": "B0D5Q7TNCG",
+      "title": "Boncare Large Display Digital Basal Body Thermometer with Fever Alarm",
+      "title_es": "Termómetro Digital de Temperatura Basal Boncare con Gran Pantalla y Alarma de Fiebre",
+      "headline": null,
+      "post": "Este termómetro digital de Boncare con gran pantalla está diseñado para medir la temperatura basal corporal con precisión. Incluye una alarma de fiebre, siendo una herramienta útil para el seguimiento de ciclos o la detección temprana de enfermedades.",
+      "post_en": "This Boncare digital thermometer with a large display is designed for accurate basal body temperature measurement. It includes a fever alarm, making it a useful tool for cycle tracking or early illness detection.",
+      "price_new": 2.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 91.5,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "FLE72NF4",
+      "category": "Salud",
+      "image": "https://m.media-amazon.com/images/I/616fqSnyHTL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0D5Q7TNCG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19968018",
+      "published_at": "2026-09-04T02:31:02+00:00",
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
+    },
+    {
+      "asin": "B0DS6KHL3G",
+      "title": "What Do You Meme? Creature Crash Capybara Balancing Game",
+      "title_es": "Juego de Equilibrio What Do You Meme? Creature Crash Capybara",
+      "headline": null,
+      "post": "El juego de equilibrio \"Creature Crash Capybara\" de What Do You Meme? es un divertido desafío para todas las edades. Pon a prueba tu destreza apilando capibaras y otras criaturas sin que se caigan.",
+      "post_en": "The \"Creature Crash Capybara\" balancing game by What Do You Meme? offers a fun challenge for all ages. Test your dexterity by stacking capybaras and other creatures without letting them tumble.",
+      "price_new": 6.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 81.5,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/4/9/0/0/1/2/450x450/21491118.thumb",
+      "url": "https://amazon.com/dp/B0DS6KHL3G/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19967889",
+      "published_at": "2026-09-04T02:31:02+00:00",
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
+    },
+    {
+      "asin": "B0GGB3NQDS",
+      "title": "maamgic Men's 9\" Swim Trunks w/ Zipper Pockets & Liner (Various)",
+      "title_es": "Bañadores de Hombre maamgic de 9\" con Bolsillos con Cremallera y Forro (Varios)",
+      "headline": null,
+      "post": "Estos bañadores maamgic de 9 pulgadas para hombre combinan estilo y funcionalidad para tus días de playa o piscina. Cuentan con bolsillos con cremallera y forro interior para mayor comodidad y seguridad.",
+      "post_en": "These maamgic 9-inch men's swim trunks combine style and functionality for your beach or pool days. They feature zipper pockets and an inner liner for added comfort and security.",
+      "price_new": 12.0,
+      "price_old": 28.0,
+      "currency": "USD",
+      "discount_pct": 57.1,
+      "rating": 4.6,
+      "condition": "code",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/6145RRJH+zL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GGB3NQDS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19966332",
+      "published_at": "2026-09-04T02:31:02+00:00",
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
+    },
     {
       "asin": "B0DFH6TS4N",
       "title": "GRACE KARIN  Satin Blouses for Women",
@@ -397,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19946580",
       "published_at": "2026-09-03T22:31:07+00:00",
-      "revalidated_at": "2026-09-04T00:30:48+00:00"
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
     },
     {
       "asin": "B017RQYKDC",
@@ -573,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19966836",
       "published_at": "2026-09-03T20:46:05+00:00",
-      "revalidated_at": "2026-09-04T00:30:48+00:00"
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
     },
     {
       "asin": "B0HF4KS2C7",
@@ -1101,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19966242",
       "published_at": "2026-09-03T17:01:27+00:00",
-      "revalidated_at": "2026-09-04T00:30:48+00:00"
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
     },
     {
       "asin": "B0G3XN8152",
@@ -1123,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19960158",
       "published_at": "2026-09-03T17:01:27+00:00",
-      "revalidated_at": "2026-09-04T00:30:48+00:00"
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
     },
     {
       "asin": "B0BR3BK8K4",
@@ -1431,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19964994",
       "published_at": "2026-09-03T15:01:07+00:00",
-      "revalidated_at": "2026-09-04T00:30:48+00:00"
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
     },
     {
       "asin": "B0DM9C2P5H",
@@ -1453,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19965435",
       "published_at": "2026-09-03T15:01:07+00:00",
-      "revalidated_at": "2026-09-04T00:30:48+00:00"
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
     },
     {
       "asin": "B0F2HMQH3K",
@@ -1475,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19965135",
       "published_at": "2026-09-03T15:01:07+00:00",
-      "revalidated_at": "2026-09-04T00:30:48+00:00"
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
     },
     {
       "asin": "B097R1MCMX",
@@ -1827,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19964817",
       "published_at": "2026-09-03T12:46:08+00:00",
-      "revalidated_at": "2026-09-04T00:30:48+00:00"
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
     },
     {
       "asin": "B0FGCQPZ92",
@@ -1849,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19960497",
       "published_at": "2026-09-03T12:46:08+00:00",
-      "revalidated_at": "2026-09-04T00:30:48+00:00"
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
     },
     {
       "asin": "B08R3VDQTC",
@@ -2179,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19963452",
       "published_at": "2026-09-03T06:46:13+00:00",
-      "revalidated_at": "2026-09-04T00:15:57+00:00"
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
     },
     {
       "asin": "B0B7NVQL73",
@@ -2311,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19963635",
       "published_at": "2026-09-03T05:01:12+00:00",
-      "revalidated_at": "2026-09-04T00:15:57+00:00"
+      "revalidated_at": "2026-09-04T02:31:02+00:00"
     },
     {
       "asin": "B0GHY1YG7Z",
@@ -2554,72 +2642,6 @@
       "deal_key": "sd:19960272",
       "published_at": "2026-09-03T01:16:25+00:00",
       "revalidated_at": "2026-09-04T00:30:48+00:00"
-    },
-    {
-      "asin": "B00BD53HZ6",
-      "title": "Cold Steel All Purpose Tactical Machete with Sheath at Amazon",
-      "title_es": "Machete táctico Cold Steel All Purpose con funda",
-      "headline": null,
-      "post": "El machete táctico Cold Steel All Purpose es una herramienta versátil y robusta, ideal para actividades al aire libre o tareas exigentes. Incluye una funda para un transporte seguro y cómodo en tus aventuras.",
-      "post_en": "The Cold Steel All Purpose Tactical Machete is a versatile and robust tool, ideal for outdoor activities or demanding tasks. It includes a sheath for safe and convenient transport on your adventures.",
-      "price_new": 20.99,
-      "price_old": 39.99,
-      "currency": "USD",
-      "discount_pct": 47.5,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/61evbt9WY0L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00BD53HZ6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19962294",
-      "published_at": "2026-09-03T01:16:25+00:00",
-      "revalidated_at": "2026-09-04T00:45:58+00:00"
-    },
-    {
-      "asin": "B00TIJJ5Q4",
-      "title": "3-Pc OXO Good Grips Solid Beechwood Wooden Turners",
-      "title_es": "Set de 3 espátulas de madera de haya maciza OXO Good Grips",
-      "headline": null,
-      "post": "Este set de tres espátulas OXO Good Grips de madera de haya maciza es ideal para cocinar sin dañar tus sartenes antiadherentes. Son resistentes, cómodas de usar y perfectas para remover, voltear o servir todo tipo de alimentos en tu cocina. 🍳",
-      "post_en": "This 3-piece set of OXO Good Grips solid beechwood turners is perfect for cooking without scratching your non-stick pans. They are durable, comfortable to use, and ideal for stirring, flipping, or serving all types of food in your kitchen. 🍳",
-      "price_new": 10.2,
-      "price_old": 16.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71YoiJBQ+ML._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00TIJJ5Q4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19954647",
-      "published_at": "2026-09-03T01:01:06+00:00",
-      "revalidated_at": "2026-09-04T02:15:52+00:00"
-    },
-    {
-      "asin": "B0CN9VK1C6",
-      "title": "30L The North Face Recon Everyday Laptop Backpack (Timber Tan)",
-      "title_es": "Mochila para portátil de uso diario The North Face Recon de 30L (Timber Tan)",
-      "headline": null,
-      "post": "La mochila The North Face Recon de 30L está diseñada para el uso diario, ofreciendo un compartimento específico para portátil. Es ideal para estudiantes o profesionales que necesitan transportar sus dispositivos y pertenencias de forma cómoda y segura.",
-      "post_en": "The 30L The North Face Recon backpack is designed for everyday use, featuring a dedicated laptop compartment. It's ideal for students or professionals who need to transport their devices and belongings comfortably and securely.",
-      "price_new": 81.3,
-      "price_old": 125.0,
-      "currency": "USD",
-      "discount_pct": 35.0,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81rsOnT8ZoL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CN9VK1C6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19960212",
-      "published_at": "2026-09-03T00:46:25+00:00",
-      "revalidated_at": "2026-09-04T02:15:52+00:00"
     }
   ]
 }
