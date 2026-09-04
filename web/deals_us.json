@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-04T16:01:38+00:00",
+  "generated_at": "2026-09-04T16:17:05+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0DTNYGDWV",
+      "title": "Uselike Women’s Lightweight Quilted Puffer Tote Bag w/ Zipper, 8 Pockets & 15.6\" Laptop Compartment (Various Colors)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.84,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 57.6,
+      "rating": 4.7,
+      "condition": "code",
+      "code": "G2IYIEMF",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71UkM2hVjEL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DTNYGDWV/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19971228",
+      "published_at": "2026-09-04T16:17:05+00:00",
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
+    },
+    {
+      "asin": "B0B1JPPG2L",
+      "title": "(Used Like New) Breville BES450BSS Bambino Espresso Machine",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 204.0,
+      "price_old": 299.95,
+      "currency": "USD",
+      "discount_pct": 32.0,
+      "rating": 4.2,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61egYXcL9OL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0B1JPPG2L/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19938195",
+      "published_at": "2026-09-04T16:17:05+00:00",
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
+    },
     {
       "asin": "B00KXCU17C",
       "title": "Citizen Quartz Mens Watch, Stainless Steel, Classic at Amazon",
@@ -14,11 +58,11 @@
       "price_old": 170.0,
       "currency": "USD",
       "discount_pct": 37.1,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21497865.thumb",
+      "image": "https://m.media-amazon.com/images/I/61nnLz3ruoL._AC_SL1000_.jpg",
       "url": "https://amazon.com/dp/B00KXCU17C/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19971069",
@@ -36,11 +80,11 @@
       "price_old": 27.98,
       "currency": "USD",
       "discount_pct": 30.0,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21496281.thumb",
+      "image": "https://m.media-amazon.com/images/I/7155LcHlJTL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BJ966SV7/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19970376",
@@ -168,11 +212,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 77.2,
-      "rating": null,
+      "rating": 4.0,
       "condition": "code",
       "code": "T485MBJQ",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21489297.thumb",
+      "image": "https://m.media-amazon.com/images/I/81AOL6GhRpL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DR5TRW3D/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19967049",
@@ -190,11 +234,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 65.7,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "UXHU6DQY",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/8/3/9/2/450x450/21492735.thumb",
+      "image": "https://m.media-amazon.com/images/I/61Eob2HTKqL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GDWMGDFD/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19968669",
@@ -485,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19970190",
       "published_at": "2026-09-04T14:01:34+00:00",
-      "revalidated_at": "2026-09-04T14:01:34+00:00"
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
     },
     {
       "asin": "B0BQMNZCX6",
@@ -507,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19969449",
       "published_at": "2026-09-04T14:01:34+00:00",
-      "revalidated_at": "2026-09-04T14:01:34+00:00"
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
     },
     {
       "asin": "B09JKVJCQZ",
@@ -529,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19969521",
       "published_at": "2026-09-04T14:01:34+00:00",
-      "revalidated_at": "2026-09-04T14:01:34+00:00"
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
     },
     {
       "asin": "B0H1CY6PMZ",
@@ -683,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19968999",
       "published_at": "2026-09-04T12:01:10+00:00",
-      "revalidated_at": "2026-09-04T14:01:34+00:00"
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
     },
     {
       "asin": "B000GB1RAU",
@@ -815,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19969641",
       "published_at": "2026-09-04T10:16:05+00:00",
-      "revalidated_at": "2026-09-04T14:01:34+00:00"
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
     },
     {
       "asin": "B0FJFSC6BH",
@@ -969,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19968981",
       "published_at": "2026-09-04T08:15:50+00:00",
-      "revalidated_at": "2026-09-04T14:01:34+00:00"
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
     },
     {
       "asin": "B0D41NT5KL",
@@ -1167,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19965882",
       "published_at": "2026-09-04T06:15:44+00:00",
-      "revalidated_at": "2026-09-04T14:01:34+00:00"
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
     },
     {
       "asin": "B002LHRLO8",
@@ -1211,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19966437",
       "published_at": "2026-09-04T04:15:50+00:00",
-      "revalidated_at": "2026-09-04T14:01:34+00:00"
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
     },
     {
       "asin": "B0CM9WN61D",
@@ -1233,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19961958",
       "published_at": "2026-09-04T04:15:50+00:00",
-      "revalidated_at": "2026-09-04T14:01:34+00:00"
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
     },
     {
       "asin": "B0GR5DYMCG",
@@ -1343,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19965405",
       "published_at": "2026-09-04T02:15:52+00:00",
-      "revalidated_at": "2026-09-04T14:01:34+00:00"
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
     },
     {
       "asin": "B0DQXFS4MN",
@@ -1497,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19966818",
       "published_at": "2026-09-04T00:15:57+00:00",
-      "revalidated_at": "2026-09-04T14:01:34+00:00"
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
     },
     {
       "asin": "B001ET5X8U",
@@ -1519,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19967178",
       "published_at": "2026-09-04T00:15:57+00:00",
-      "revalidated_at": "2026-09-04T14:01:34+00:00"
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
     },
     {
       "asin": "B01HZFB3X0",
@@ -1695,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19959348",
       "published_at": "2026-09-03T22:16:07+00:00",
-      "revalidated_at": "2026-09-04T14:01:34+00:00"
+      "revalidated_at": "2026-09-04T16:17:05+00:00"
     },
     {
       "asin": "B0FTK29G5L",
@@ -2598,50 +2642,6 @@
       "deal_key": "sd:19965567",
       "published_at": "2026-09-03T15:45:52+00:00",
       "revalidated_at": "2026-09-04T15:31:39+00:00"
-    },
-    {
-      "asin": "B0GHQ36GQM",
-      "title": "Mens Smartwatch for Android/iOS/Samsung",
-      "title_es": "Smartwatch para hombre compatible con Android/iOS/Samsung",
-      "headline": null,
-      "post": "Un smartwatch versátil diseñado para hombres, compatible con dispositivos Android, iOS y Samsung. Ofrece funciones básicas de seguimiento de actividad y notificaciones inteligentes para el día a día.",
-      "post_en": "A versatile smartwatch designed for men, compatible with Android, iOS, and Samsung devices. It offers basic activity tracking and smart notification features for daily use.",
-      "price_new": 21.99,
-      "price_old": 59.99,
-      "currency": "USD",
-      "discount_pct": 63.3,
-      "rating": 3.8,
-      "condition": "code",
-      "code": "5OIPXZNA",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71U-yxYU-mL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GHQ36GQM/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19965213",
-      "published_at": "2026-09-03T15:30:55+00:00",
-      "revalidated_at": "2026-09-04T15:46:32+00:00"
-    },
-    {
-      "asin": "B0FRFW6VYR",
-      "title": "Onlyone Rechargeable Sonic Electric Toothbrush w/ 8 Brush Heads at Amazon",
-      "title_es": "Cepillo de dientes eléctrico sónico recargable Onlyone con 8 cabezales",
-      "headline": null,
-      "post": "Este cepillo de dientes eléctrico sónico Onlyone ofrece una limpieza profunda y eficaz para tu higiene bucal diaria. Incluye 8 cabezales de repuesto para un uso prolongado y cómodo.",
-      "post_en": "This Onlyone rechargeable sonic electric toothbrush provides a deep and effective clean for your daily oral hygiene. It includes 8 replacement brush heads for extended and convenient use.",
-      "price_new": 8.98,
-      "price_old": 17.99,
-      "currency": "USD",
-      "discount_pct": 50.1,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/61IV5EMfZSL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FRFW6VYR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19964577",
-      "published_at": "2026-09-03T15:14:54+00:00",
-      "revalidated_at": "2026-09-04T15:46:32+00:00"
     }
   ]
 }
