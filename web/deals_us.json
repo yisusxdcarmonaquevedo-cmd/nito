@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-09-05T02:01:03+00:00",
+  "generated_at": "2026-09-05T02:16:15+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0C77PTXNL",
+      "title": "Auceli Headrest Car Seat Organizer w/ Cup Holders, Tissue Box & Phone Holder (Black)",
+      "title_es": "Organizador de asiento de coche Auceli con portavasos y soporte para teléfono (Negro)",
+      "headline": null,
+      "post": "Mantén tu coche ordenado con este organizador de asiento que incluye portavasos, dispensador de pañuelos y soporte para teléfono. Es ideal para viajes largos o para quienes buscan una solución práctica para el almacenamiento en el vehículo.",
+      "post_en": "Keep your car tidy with this seat organizer, featuring cup holders, a tissue dispenser, and a phone holder. It's perfect for long trips or anyone looking for a practical in-car storage solution.",
+      "price_new": 7.79,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 77.7,
+      "rating": 4.0,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61XcAvUZX+L._AC_SL1200_.jpg",
+      "url": "https://amazon.com/dp/B0C77PTXNL/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19972485",
+      "published_at": "2026-09-05T02:16:15+00:00",
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
+    },
+    {
+      "asin": "B0DSZQXK3J",
+      "title": "3-Pack ZITY Men's Long Sleeve Button Down Plaid Flannel Hoodie Shirts (Various)",
+      "title_es": "Pack de 3 camisas de franela a cuadros con capucha de manga larga ZITY para hombre",
+      "headline": null,
+      "post": "Este pack incluye tres camisas de franela a cuadros con capucha, perfectas para un estilo casual y cómodo. Son ideales para el día a día o para añadir un toque informal a tu armario.",
+      "post_en": "This pack includes three long-sleeve plaid flannel hoodie shirts, perfect for a casual and comfortable style. They are ideal for everyday wear or to add an informal touch to your wardrobe.",
+      "price_new": 19.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 42.9,
+      "rating": 4.4,
+      "condition": "code",
+      "code": "XKVDDB8X",
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/71F1InZSqxL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DSZQXK3J/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19973469",
+      "published_at": "2026-09-05T02:16:15+00:00",
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
+    },
+    {
+      "asin": "B0DS1PPP81",
+      "title": "36-Pack HOTU Brush Tip Acrylic Paint Markers",
+      "title_es": "Pack de 36 rotuladores de pintura acrílica con punta de pincel HOTU",
+      "headline": null,
+      "post": "Descubre este set de 36 rotuladores de pintura acrílica con punta de pincel, ideales para artistas y aficionados al arte. Permiten crear con precisión en diversas superficies, desde papel hasta tela o piedra.",
+      "post_en": "Discover this set of 36 acrylic paint markers with brush tips, perfect for artists and art enthusiasts. They allow for precise creation on various surfaces, from paper to fabric or stone.",
+      "price_new": 11.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 67.2,
+      "rating": 4.6,
+      "condition": "code",
+      "code": "U71BXCAA",
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/71Bj4+R7d6L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DS1PPP81/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19971987",
+      "published_at": "2026-09-05T02:16:15+00:00",
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
+    },
+    {
+      "asin": "B0CN86C734",
+      "title": "Carhartt Men's Firm Duck Apron, Black, One Size.$39.99 + Free Shipping",
+      "title_es": "Delantal de lona resistente Carhartt para hombre, negro, talla única",
+      "headline": null,
+      "post": "Protege tu ropa mientras trabajas con este delantal de lona resistente Carhartt, diseñado para durabilidad y comodidad. Es ideal para bricolaje, jardinería o cualquier actividad que requiera protección adicional.",
+      "post_en": "Protect your clothes while you work with this durable Carhartt Firm Duck Apron, designed for resilience and comfort. It's ideal for DIY projects, gardening, or any activity requiring extra protection.",
+      "price_new": 39.99,
+      "price_old": 59.99,
+      "currency": "USD",
+      "discount_pct": 33.3,
+      "rating": 4.8,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/51q2+Qa5j6L._AC_SL1000_.jpg",
+      "url": "https://amazon.com/dp/B0CN86C734/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19973550",
+      "published_at": "2026-09-05T02:16:15+00:00",
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
+    },
     {
       "asin": "B0D5F1HFY4",
       "title": "GLOMAX Premium Ceramic Coating for Cars with UV Protection (16 oz) @ Amazon",
@@ -265,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19973127",
       "published_at": "2026-09-05T00:21:28+00:00",
-      "revalidated_at": "2026-09-05T00:21:28+00:00"
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
     },
     {
       "asin": "B0F6CYHVKX",
@@ -287,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19972416",
       "published_at": "2026-09-05T00:21:28+00:00",
-      "revalidated_at": "2026-09-05T00:21:28+00:00"
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
     },
     {
       "asin": "B09YMRKF8W",
@@ -771,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19972218",
       "published_at": "2026-09-04T20:51:16+00:00",
-      "revalidated_at": "2026-09-05T00:21:28+00:00"
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
     },
     {
       "asin": "B0G3V9K242",
@@ -793,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19971429",
       "published_at": "2026-09-04T20:51:16+00:00",
-      "revalidated_at": "2026-09-05T00:21:28+00:00"
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
     },
     {
       "asin": "B0DDWH285K",
@@ -815,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19971924",
       "published_at": "2026-09-04T20:51:16+00:00",
-      "revalidated_at": "2026-09-05T00:21:28+00:00"
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
     },
     {
       "asin": "B0H1GRRWHP",
@@ -2025,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19970112",
       "published_at": "2026-09-04T12:31:37+00:00",
-      "revalidated_at": "2026-09-05T00:16:18+00:00"
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
     },
     {
       "asin": "B0992ST3XB",
@@ -2113,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19969677",
       "published_at": "2026-09-04T10:46:01+00:00",
-      "revalidated_at": "2026-09-05T00:16:18+00:00"
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
     },
     {
       "asin": "B092RCLKHN",
@@ -2135,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19964961",
       "published_at": "2026-09-04T10:46:01+00:00",
-      "revalidated_at": "2026-09-05T00:16:18+00:00"
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
     },
     {
       "asin": "B00IT70ZV0",
@@ -2487,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19961145",
       "published_at": "2026-09-04T06:30:43+00:00",
-      "revalidated_at": "2026-09-05T00:16:18+00:00"
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
     },
     {
       "asin": "B002LHRLO8",
@@ -2531,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19966437",
       "published_at": "2026-09-04T04:15:50+00:00",
-      "revalidated_at": "2026-09-05T00:16:18+00:00"
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
     },
     {
       "asin": "B0CM9WN61D",
@@ -2553,73 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19961958",
       "published_at": "2026-09-04T04:15:50+00:00",
-      "revalidated_at": "2026-09-05T00:16:18+00:00"
-    },
-    {
-      "asin": "B0GR5DYMCG",
-      "title": "GE 8-Electrode Smart Bluetooth Digital Weight Scale",
-      "title_es": "Báscula Digital Inteligente GE con Bluetooth y 8 Electrodos",
-      "headline": null,
-      "post": "Esta báscula digital inteligente de GE con 8 electrodos permite monitorizar tu peso y otros parámetros corporales con precisión. Con conectividad Bluetooth, es ideal para quienes buscan un seguimiento detallado de su salud y bienestar.",
-      "post_en": "This GE 8-electrode smart digital scale accurately monitors your weight and other body parameters. Featuring Bluetooth connectivity, it's perfect for those seeking detailed tracking of their health and well-being.",
-      "price_new": 59.99,
-      "price_old": 119.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "GE260902",
-      "category": "Salud",
-      "image": "https://m.media-amazon.com/images/I/71ywyxh98cL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GR5DYMCG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19968066",
-      "published_at": "2026-09-04T02:31:02+00:00",
-      "revalidated_at": "2026-09-05T00:30:44+00:00"
-    },
-    {
-      "asin": "B0DS6KHL3G",
-      "title": "What Do You Meme? Creature Crash Capybara Balancing Game",
-      "title_es": "Juego de Equilibrio What Do You Meme? Creature Crash Capybara",
-      "headline": null,
-      "post": "El juego de equilibrio \"Creature Crash Capybara\" de What Do You Meme? es un divertido desafío para todas las edades. Pon a prueba tu destreza apilando capibaras y otras criaturas sin que se caigan.",
-      "post_en": "The \"Creature Crash Capybara\" balancing game by What Do You Meme? offers a fun challenge for all ages. Test your dexterity by stacking capybaras and other creatures without letting them tumble.",
-      "price_new": 6.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 81.5,
-      "rating": 4.5,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71IdDeDD+eL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DS6KHL3G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19967889",
-      "published_at": "2026-09-04T02:31:02+00:00",
-      "revalidated_at": "2026-09-05T00:30:44+00:00"
-    },
-    {
-      "asin": "B0GGB3NQDS",
-      "title": "maamgic Men's 9\" Swim Trunks w/ Zipper Pockets & Liner (Various)",
-      "title_es": "Bañadores de Hombre maamgic de 9\" con Bolsillos con Cremallera y Forro (Varios)",
-      "headline": null,
-      "post": "Estos bañadores maamgic de 9 pulgadas para hombre combinan estilo y funcionalidad para tus días de playa o piscina. Cuentan con bolsillos con cremallera y forro interior para mayor comodidad y seguridad.",
-      "post_en": "These maamgic 9-inch men's swim trunks combine style and functionality for your beach or pool days. They feature zipper pockets and an inner liner for added comfort and security.",
-      "price_new": 12.0,
-      "price_old": 28.0,
-      "currency": "USD",
-      "discount_pct": 57.1,
-      "rating": 4.6,
-      "condition": "code",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/6145RRJH+zL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GGB3NQDS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19966332",
-      "published_at": "2026-09-04T02:31:02+00:00",
-      "revalidated_at": "2026-09-05T00:30:44+00:00"
+      "revalidated_at": "2026-09-05T02:16:15+00:00"
     }
   ]
 }
