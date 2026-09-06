@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-06T00:01:53+00:00",
+  "generated_at": "2026-09-06T00:16:17+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0CY3VP6GW",
+      "title": "DEGLASERS Self Leveling Green Cross Line Laser Level w/ Tripod",
+      "title_es": "Nivel Láser Autonivelante de Línea Cruzada Verde DEGLASERS con Trípode",
+      "headline": null,
+      "post": "Este nivel láser autonivelante con línea cruzada verde y trípode es ideal para proyectos de bricolaje y tareas de mejora del hogar. Permite mediciones precisas y facilita la instalación de cuadros, estantes o azulejos con gran facilidad.",
+      "post_en": "This self-leveling green cross line laser level with tripod is ideal for DIY projects and home improvement tasks. It allows for precise measurements, making it easy to install pictures, shelves, or tiles with great ease.",
+      "price_new": 20.0,
+      "price_old": 39.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "T8YWRP63",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/616j90H-yuL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CY3VP6GW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19975416",
+      "published_at": "2026-09-06T00:16:17+00:00",
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
+    },
     {
       "asin": "B001AMBWTK",
       "title": "PowerBlock Small Compact Stand, Dumbbell Rack & Weight Rack at Amazon",
@@ -378,28 +400,6 @@
       "revalidated_at": "2026-09-05T23:01:21+00:00"
     },
     {
-      "asin": "B0F8G7CXBC",
-      "title": "The Precinct (PlayStation 5) at Amazon",
-      "title_es": "The Precinct (PlayStation 5)",
-      "headline": null,
-      "post": "The Precinct es un emocionante juego de acción y estrategia para PlayStation 5 que te sumerge en el mundo de la policía. Ideal para los amantes de los thrillers criminales y la resolución de casos.",
-      "post_en": "The Precinct is an exciting action and strategy game for PlayStation 5 that immerses you in the world of law enforcement. Ideal for fans of crime thrillers and case-solving.",
-      "price_new": 15.99,
-      "price_old": 39.99,
-      "currency": "USD",
-      "discount_pct": 60.0,
-      "rating": 4.0,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81Iad7Vq2RL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F8G7CXBC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19975809",
-      "published_at": "2026-09-05T19:01:11+00:00",
-      "revalidated_at": "2026-09-05T22:31:26+00:00"
-    },
-    {
       "asin": "B0H3KNS5PM",
       "title": "6-Count of 18oz vancasso KRVI Bohemian Coffee / Hot Chocolate Mugs",
       "title_es": "Set de 6 Tazas de Café / Chocolate Caliente vancasso KRVI Bohemian de 18oz",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19975410",
       "published_at": "2026-09-05T19:01:11+00:00",
-      "revalidated_at": "2026-09-05T22:31:26+00:00"
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
     },
     {
       "asin": "B0BTVM98QY",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19975767",
       "published_at": "2026-09-05T19:01:11+00:00",
-      "revalidated_at": "2026-09-05T22:31:26+00:00"
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
     },
     {
       "asin": "B08DK6HYG2",
@@ -595,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19975575",
       "published_at": "2026-09-05T17:15:59+00:00",
-      "revalidated_at": "2026-09-05T22:31:26+00:00"
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
     },
     {
       "asin": "B0GWCNZWJT",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19973364",
       "published_at": "2026-09-05T17:15:59+00:00",
-      "revalidated_at": "2026-09-05T22:31:26+00:00"
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
     },
     {
       "asin": "B0GVY6DYWZ",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19973196",
       "published_at": "2026-09-05T17:15:59+00:00",
-      "revalidated_at": "2026-09-05T22:31:26+00:00"
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
     },
     {
       "asin": "B0D78XXWH4",
@@ -776,10 +776,10 @@
     {
       "asin": "B073FY1DKY",
       "title": "Orbit T-Post Fence Sprinkler, Adjustable Coverage - 27793 at Amazon",
-      "title_es": null,
+      "title_es": "Rociador Orbit T-Post 27793 para Cercas, Cobertura Ajustable",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este rociador Orbit T-Post 27793 se acopla fácilmente a cercas y postes, ofreciendo una cobertura de riego ajustable para tu jardín. Es ideal para mantener tus plantas hidratadas de forma eficiente y sin esfuerzo.💧",
+      "post_en": "This Orbit T-Post Sprinkler 27793 easily attaches to fences and posts, offering adjustable watering coverage for your garden. It's ideal for keeping your plants hydrated efficiently and effortlessly.💧",
       "price_new": 9.59,
       "price_old": 15.99,
       "currency": "USD",
@@ -798,10 +798,10 @@
     {
       "asin": "B0GXB7K8TC",
       "title": "Amazon – YOUDENOVA 3-Tier Coffee Syrup Organizer Rack -",
-      "title_es": null,
+      "title_es": "Organizador YOUDENOVA de 3 Niveles para Jarabes de Café",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El organizador YOUDENOVA de 3 niveles es perfecto para mantener tus jarabes de café y condimentos ordenados. Su diseño escalonado permite un fácil acceso y visualización, ideal para cocinas o barras de café.",
+      "post_en": "The YOUDENOVA 3-Tier Organizer is perfect for keeping your coffee syrups and condiments tidy. Its tiered design allows for easy access and viewing, ideal for kitchens or coffee bars.",
       "price_new": 15.99,
       "price_old": 31.98,
       "currency": "USD",
@@ -820,10 +820,10 @@
     {
       "asin": "B01AGS5Y92",
       "title": "Smith & Wesson SWBG10S 3.5\" Tanto Folding Pocket Knife w/ G10 Handle (Black/Gray)",
-      "title_es": null,
+      "title_es": "Navaja Plegable Smith & Wesson SWBG10S Tanto de 3.5\" con Mango G10 (Negro/Gris)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta navaja plegable Smith & Wesson SWBG10S de 3.5\" cuenta con una hoja tanto y un robusto mango G10. Es una herramienta versátil y duradera, perfecta para uso diario o actividades al aire libre.",
+      "post_en": "This Smith & Wesson SWBG10S 3.5\" folding pocket knife features a tanto blade and a robust G10 handle. It's a versatile and durable tool, perfect for everyday use or outdoor activities.",
       "price_new": 16.45,
       "price_old": 35.0,
       "currency": "USD",
@@ -842,10 +842,10 @@
     {
       "asin": "B0DP2J3M9K",
       "title": "Amazon – Fabspace 4-Pack 93L Heavy-Duty Moving Storage Bags -",
-      "title_es": null,
+      "title_es": "Pack de 4 Bolsas de Almacenamiento Resistentes Fabspace de 93L para Mudanzas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 4 bolsas Fabspace de 93L son ideales para mudanzas y almacenamiento de gran capacidad. Su diseño resistente permite transportar ropa de cama, ropa y otros artículos de forma segura y organizada.",
+      "post_en": "This 4-pack of Fabspace 93L bags are ideal for moving and large-capacity storage. Their heavy-duty design allows you to transport bedding, clothes, and other items safely and organized.",
       "price_new": 12.71,
       "price_old": 22.99,
       "currency": "USD",
@@ -864,10 +864,10 @@
     {
       "asin": "B0BRC25B8K",
       "title": "31-Gallon Greesum Outdoor Resin Storage Box (Dark Black) at Amazon",
-      "title_es": null,
+      "title_es": "Caja de Almacenamiento Exterior de Resina Greesum de 31 Galones (Negro Oscuro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La caja de almacenamiento exterior Greesum de 31 galones es perfecta para guardar cojines, herramientas de jardín o juguetes. Su construcción de resina en color negro oscuro es duradera y resistente a la intemperie.",
+      "post_en": "The Greesum 31-Gallon Outdoor Resin Storage Box is perfect for storing cushions, garden tools, or toys. Its dark black resin construction is durable and weather-resistant.",
       "price_new": 22.49,
       "price_old": 39.99,
       "currency": "USD",
@@ -886,10 +886,10 @@
     {
       "asin": "B0FYNLTW3Y",
       "title": "COSLUS Facial Cleansing Brush Face Scrubber (Navy Blue)",
-      "title_es": null,
+      "title_es": "Cepillo Limpiador Facial COSLUS (Azul Marino)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El cepillo limpiador facial COSLUS ofrece una limpieza profunda y suave para tu piel. Su diseño ergonómico y material de silicona lo hacen ideal para una rutina de cuidado facial efectiva y relajante.",
+      "post_en": "The COSLUS Facial Cleansing Brush offers a deep yet gentle cleanse for your skin. Its ergonomic design and silicone material make it ideal for an effective and relaxing facial care routine.",
       "price_new": 5.0,
       "price_old": 12.99,
       "currency": "USD",
@@ -903,15 +903,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19972908",
       "published_at": "2026-09-05T15:16:03+00:00",
-      "revalidated_at": "2026-09-05T22:31:26+00:00"
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
     },
     {
       "asin": "B0FM77P2TN",
       "title": "417-Piece Digoako Beginners' Tackle Set w/ 3-Layer Tackle Box and Bonus Small 2-Sided Organizer Box",
-      "title_es": null,
+      "title_es": "Set de Pesca para Principiantes Digoako de 417 Piezas con Caja de 3 Capas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este completo set de pesca Digoako de 417 piezas es perfecto para principiantes, incluyendo una caja de aparejos de 3 capas. Contiene todo lo necesario para empezar a pescar, desde señuelos hasta anzuelos, con un organizador adicional.🎣",
+      "post_en": "This comprehensive Digoako 417-piece tackle set is perfect for beginners, including a 3-layer tackle box. It contains everything needed to start fishing, from lures to hooks, with an additional organizer.🎣",
       "price_new": 22.79,
       "price_old": 35.0,
       "currency": "USD",
@@ -925,15 +925,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19949004",
       "published_at": "2026-09-05T15:16:03+00:00",
-      "revalidated_at": "2026-09-05T22:31:26+00:00"
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
     },
     {
       "asin": "B0CBL8TGXQ",
       "title": "[S&S] Finish Ultimate Quantum Dishwasher Pods, Infinity Shine, Fresh Scent, 62ct",
-      "title_es": null,
+      "title_es": "Pastillas para Lavavajillas Finish Ultimate Quantum, Brillo Infinito, Aroma Fresco, 62 unidades",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Las pastillas Finish Ultimate Quantum ofrecen una limpieza superior y un brillo infinito para tu vajilla. Con un aroma fresco y 62 unidades, son ideales para mantener tu lavavajillas y platos impecables.",
+      "post_en": "Finish Ultimate Quantum Dishwasher Pods offer superior cleaning and an infinity shine for your dishes. With a fresh scent and 62 counts, they are ideal for keeping your dishwasher and plates spotless.",
       "price_new": 13.46,
       "price_old": 19.94,
       "currency": "USD",
@@ -947,15 +947,15 @@
       "source": "slickdeals",
       "deal_key": "sd:19974996",
       "published_at": "2026-09-05T15:16:03+00:00",
-      "revalidated_at": "2026-09-05T22:31:26+00:00"
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
     },
     {
       "asin": "B0F2DPXS1L",
       "title": "SHOKZ OpenRun Pro 2 - RENEWED",
-      "title_es": null,
+      "title_es": "Auriculares SHOKZ OpenRun Pro 2 – RENOVADOS",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Los auriculares SHOKZ OpenRun Pro 2 renovados ofrecen tecnología de conducción ósea para una experiencia auditiva cómoda y segura. Son ideales para atletas y personas activas que quieren escuchar música y su entorno.",
+      "post_en": "The renewed SHOKZ OpenRun Pro 2 headphones feature bone conduction technology for a comfortable and safe listening experience. They are ideal for athletes and active individuals who want to listen to music and their surroundings.",
       "price_new": 95.0,
       "price_old": 179.95,
       "currency": "USD",
@@ -974,10 +974,10 @@
     {
       "asin": "B0CYDS8MSL",
       "title": "Philips Hue Being Ceiling Light, White at Amazon",
-      "title_es": null,
+      "title_es": "Lámpara de Techo Philips Hue Being, Blanca",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La lámpara de techo Philips Hue Being en color blanco ofrece iluminación inteligente y personalizable para cualquier habitación. Es perfecta para crear ambientes específicos y controlar la luz desde tu smartphone.💡",
+      "post_en": "The Philips Hue Being Ceiling Light in white offers smart and customizable lighting for any room. It's perfect for creating specific ambiances and controlling the light from your smartphone.💡",
       "price_new": 101.99,
       "price_old": 160.98,
       "currency": "USD",
@@ -996,10 +996,10 @@
     {
       "asin": "B0HDCW5L2T",
       "title": "PINSPARK Long Sleeve Shirts for Women Ultra Soft V Neck Workout Tops UPF 50+ Sun Shirt Athletic Running Hiking Top",
-      "title_es": null,
+      "title_es": "Camisetas de manga larga PINSPARK para mujer, cuello V, ultra suaves, UPF 50+, para deporte y senderismo.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estas camisetas de manga larga PINSPARK son ideales para tus entrenamientos o actividades al aire libre, ofreciendo protección solar UPF 50+. Su tejido ultra suave y cuello en V las hace cómodas para correr, hacer senderismo o simplemente para el día a día.",
+      "post_en": "These PINSPARK long-sleeve shirts are perfect for your workouts or outdoor activities, offering UPF 50+ sun protection. Their ultra-soft fabric and V-neck make them comfortable for running, hiking, or everyday wear.",
       "price_new": 4.99,
       "price_old": 14.99,
       "currency": "USD",
@@ -1018,10 +1018,10 @@
     {
       "asin": "B092QP7BZP",
       "title": "Deyeek Men's Sweatpants Open Bottom Baggy Sweat Pants for Men with Pockets",
-      "title_es": null,
+      "title_es": "Pantalones de chándal Deyeek para hombre, holgados, con bolsillos y bajo abierto.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Descubre estos pantalones de chándal Deyeek para hombre, diseñados para ofrecer comodidad y un estilo relajado. Con un corte holgado, bajo abierto y prácticos bolsillos, son perfectos para el ocio en casa o actividades casuales.",
+      "post_en": "Discover these Deyeek men's sweatpants, designed for comfort and a relaxed style. Featuring a baggy fit, open bottom, and practical pockets, they are perfect for lounging at home or casual activities.",
       "price_new": 11.99,
       "price_old": 25.96,
       "currency": "USD",
@@ -1040,10 +1040,10 @@
     {
       "asin": "B004AJB2UO",
       "title": "DEWALT Router Edge Guide for Fixed Base Compact Router (DNP618) at Amazon",
-      "title_es": null,
+      "title_es": "Guía de borde DEWALT DNP618 para fresadora compacta de base fija.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta guía de borde DEWALT DNP618 es un accesorio esencial para tu fresadora compacta de base fija, permitiendo cortes rectos y precisos. Es ideal para carpinteros y aficionados al bricolaje que buscan mejorar la exactitud en sus proyectos.",
+      "post_en": "This DEWALT DNP618 router edge guide is an essential accessory for your fixed base compact router, enabling straight and precise cuts. It's ideal for carpenters and DIY enthusiasts looking to improve accuracy in their projects.",
       "price_new": 17.99,
       "price_old": 26.72,
       "currency": "USD",
@@ -1062,10 +1062,10 @@
     {
       "asin": "B0GF7MG579",
       "title": "[Prime] M MAELREG Mens Lightweight Stretch Solid Short Sleeve Polo Shirts w/ Contrast Collar & Cuffs (Various)",
-      "title_es": null,
+      "title_es": "Polos de manga corta M MAELREG para hombre, ligeros, elásticos, con cuello y puños en contraste.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Renueva tu armario con estos polos M MAELREG de manga corta, ligeros y elásticos, perfectos para el día a día. Su diseño con cuello y puños en contraste añade un toque de estilo casual, ideal para cualquier ocasión informal.",
+      "post_en": "Update your wardrobe with these M MAELREG lightweight, stretchy short-sleeve polo shirts, perfect for everyday wear. Their design with contrast collar and cuffs adds a touch of casual style, ideal for any informal occasion.",
       "price_new": 12.47,
       "price_old": 37.95,
       "currency": "USD",
@@ -1084,10 +1084,10 @@
     {
       "asin": "B002I7K152",
       "title": "Carhartt Men's C003 Arctic Traditional Coat - Quilt Lined (Medium) at Amazon",
-      "title_es": null,
+      "title_es": "Abrigo tradicional Carhartt C003 Arctic para hombre, con forro acolchado.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El abrigo Carhartt C003 Arctic es una prenda robusta y cálida, diseñada para soportar las condiciones más frías gracias a su forro acolchado. Es perfecto para trabajadores al aire libre o cualquiera que necesite protección duradera contra el frío.",
+      "post_en": "The Carhartt C003 Arctic Traditional Coat is a robust and warm garment, designed to withstand the coldest conditions thanks to its quilt lining. It's perfect for outdoor workers or anyone needing durable protection against the cold.",
       "price_new": 73.81,
       "price_old": 129.99,
       "currency": "USD",
@@ -1106,10 +1106,10 @@
     {
       "asin": "B083NHRGP3",
       "title": "[Prime] 4-Pack Kooper 7-Color Changing Solar Lily Flower Garden Lights (IP65)",
-      "title_es": null,
+      "title_es": "Pack de 4 luces solares Kooper para jardín con forma de lirio, IP65, 7 colores.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Ilumina tu jardín con este pack de 4 luces solares Kooper en forma de lirio, que cambian a 7 colores diferentes y son resistentes al agua (IP65). Son perfectas para añadir un toque decorativo y ambiental a tus espacios exteriores sin consumo eléctrico. 🌸",
+      "post_en": "Brighten up your garden with this 4-pack of Kooper solar lily flower lights, featuring 7 color-changing options and IP65 water resistance. They are perfect for adding a decorative and ambient touch to your outdoor spaces without electricity consumption. 🌸",
       "price_new": 13.19,
       "price_old": 29.99,
       "currency": "USD",
@@ -1128,10 +1128,10 @@
     {
       "asin": "B0GZJVRWCT",
       "title": "Zeagoo Flannel Jacket Women Plaid Button Down Shackets Long Sleeve",
-      "title_es": null,
+      "title_es": "Chaqueta de franela Zeagoo para mujer, tipo shacket, a cuadros, con botones.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta chaqueta de franela Zeagoo tipo shacket combina la comodidad de una camisa con la calidez de una chaqueta, ideal para el entretiempo. Su diseño a cuadros y cierre de botones la hacen una prenda versátil para un look casual y moderno.",
+      "post_en": "This Zeagoo flannel shacket combines the comfort of a shirt with the warmth of a jacket, ideal for transitional weather. Its plaid design and button closure make it a versatile garment for a casual and modern look.",
       "price_new": 16.99,
       "price_old": 39.99,
       "currency": "USD",
@@ -1150,10 +1150,10 @@
     {
       "asin": "B09TT5ZMPR",
       "title": "Husqvarna 150BT Gas Backpack Leaf Blower, 51-cc 2.16-HP 2-Cycle + 10% Back w/ Prime Visa Card at Amazon",
-      "title_es": null,
+      "title_es": "Sopladora de hojas de mochila Husqvarna 150BT a gasolina, 51-cc 2.16-HP 2 tiempos.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La sopladora de hojas de mochila Husqvarna 150BT ofrece una potente solución para mantener tu jardín impecable, con un motor de 51-cc y 2.16-HP. Su diseño de mochila facilita el trabajo en grandes áreas, ideal para jardineros profesionales o propietarios con grandes terrenos.",
+      "post_en": "The Husqvarna 150BT Gas Backpack Leaf Blower offers a powerful solution to keep your garden spotless, featuring a 51-cc, 2.16-HP engine. Its backpack design makes it easy to work on large areas, ideal for professional landscapers or homeowners with extensive properties.",
       "price_new": 272.05,
       "price_old": 399.99,
       "currency": "USD",
@@ -1172,10 +1172,10 @@
     {
       "asin": "B0BP6L1S8S",
       "title": "Grand patio 7-Piece Wicker Patio Furniture Set, Outdoor Sectional Sofa",
-      "title_es": null,
+      "title_es": "Conjunto de muebles de patio Grand patio de 7 piezas, sofá seccional de mimbre para exterior.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Transforma tu espacio exterior con este elegante conjunto de muebles Grand patio de 7 piezas, un sofá seccional de mimbre ideal para relajarse. Es perfecto para crear un ambiente acogedor en tu patio o jardín, invitando a disfrutar del aire libre con estilo.",
+      "post_en": "Transform your outdoor space with this elegant Grand patio 7-piece wicker sectional sofa set, ideal for relaxing. It's perfect for creating a cozy atmosphere in your patio or garden, inviting you to enjoy the outdoors in style.",
       "price_new": 300.0,
       "price_old": 599.99,
       "currency": "USD",
@@ -1194,10 +1194,10 @@
     {
       "asin": "B0F53S1B9N",
       "title": "[Prime] 3.5\" High Carbon Stainless Steel Paring Knife w/ Pakkawood Handle",
-      "title_es": null,
+      "title_es": "Cuchillo pelador de acero inoxidable de alto carbono de 3.5\" con mango de Pakkawood.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este cuchillo pelador de 3.5\" cuenta con una hoja de acero inoxidable de alto carbono para una precisión excepcional y un mango de Pakkawood que ofrece un agarre cómodo y duradero. Es una herramienta esencial en cualquier cocina para tareas de corte y pelado detalladas.",
+      "post_en": "This 3.5\" paring knife features a high carbon stainless steel blade for exceptional precision and a Pakkawood handle that offers a comfortable and durable grip. It's an essential tool in any kitchen for detailed cutting and peeling tasks.",
       "price_new": 11.99,
       "price_old": 31.99,
       "currency": "USD",
@@ -1216,10 +1216,10 @@
     {
       "asin": "B0053HBJBE",
       "title": "42mm Casio Men's Digital Illuminator Sport Watch (Black Resin) & More at Amazon",
-      "title_es": null,
+      "title_es": "Reloj deportivo digital Casio Illuminator de 42mm para hombre (Resina negra)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este reloj deportivo Casio Illuminator es ideal para el uso diario gracias a su resistencia y funciones digitales. Su diseño en resina negra lo hace duradero y perfecto para quienes buscan fiabilidad y estilo práctico.",
+      "post_en": "This Casio Illuminator sport watch is perfect for daily wear thanks to its durability and digital functions. Its black resin design makes it robust and ideal for those seeking reliability and practical style.",
       "price_new": 17.97,
       "price_old": 29.95,
       "currency": "USD",
@@ -1238,10 +1238,10 @@
     {
       "asin": "B087WVMVGK",
       "title": "Fashion, New Edition: The Definitive Visual Guide (DK Definitive Cultural Histories) (eBook) by DK",
-      "title_es": null,
+      "title_es": "Fashion, New Edition: The Definitive Visual Guide (eBook) de DK",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Una guía visual definitiva que explora la historia de la moda a través de sus épocas y estilos más influyentes. Ideal para entusiastas de la moda, estudiantes o cualquier persona interesada en la cultura visual y el diseño.",
+      "post_en": "A definitive visual guide exploring the history of fashion through its most influential eras and styles. Perfect for fashion enthusiasts, students, or anyone interested in visual culture and design.",
       "price_new": 2.99,
       "price_old": 19.99,
       "currency": "USD",
@@ -1260,10 +1260,10 @@
     {
       "asin": "B0D1CDF2VG",
       "title": "Viverte Dual-Pouch Zip-Around Keychain Wristlet Wallet (Various Colors) from",
-      "title_es": null,
+      "title_es": "Cartera de pulsera Viverte Dual-Pouch Zip-Around con llavero (Varios colores)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta cartera de pulsera Viverte ofrece doble compartimento con cremallera y un llavero integrado, ideal para organizar tus esenciales. Su diseño compacto y disponible en varios colores la hace práctica para llevar lo justo con estilo.",
+      "post_en": "This Viverte wristlet wallet features a dual-pouch zip-around design and an integrated keychain, perfect for organizing your essentials. Its compact design, available in various colors, makes it practical for carrying just what you need with style.",
       "price_new": 6.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -1282,10 +1282,10 @@
     {
       "asin": "B09TXCJJ2C",
       "title": "Amazon Made for Amazon Active Noise Cancelling Bluetooth Headphones w/ Built-in Microphone (Blue)",
-      "title_es": null,
+      "title_es": "Auriculares Bluetooth Amazon con cancelación activa de ruido y micrófono (Azul)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de tu música sin interrupciones con estos auriculares Bluetooth Amazon con cancelación activa de ruido. Incluyen un micrófono integrado, siendo ideales para llamadas y escuchar audio con claridad en cualquier lugar.",
+      "post_en": "Enjoy your music without interruptions with these Amazon Bluetooth headphones featuring active noise cancelling. They include a built-in microphone, making them ideal for calls and clear audio listening anywhere.",
       "price_new": 19.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1304,10 +1304,10 @@
     {
       "asin": "B0CQKBNFG7",
       "title": "A Brief History of Everyone Who Ever Lived by Adam Rutherford (eBook)",
-      "title_es": null,
+      "title_es": "A Brief History of Everyone Who Ever Lived de Adam Rutherford (eBook)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este eBook de Adam Rutherford explora la fascinante historia de la humanidad a través de la genética, revelando cómo estamos conectados con nuestros antepasados. Es una lectura cautivadora para curiosos de la ciencia y la historia.",
+      "post_en": "This eBook by Adam Rutherford explores the fascinating history of humanity through genetics, revealing how we are connected to our ancestors. It's a captivating read for science and history enthusiasts.",
       "price_new": 2.0,
       "price_old": 19.99,
       "currency": "USD",
@@ -1326,10 +1326,10 @@
     {
       "asin": "1338193090",
       "title": "Pokémon Classic Chapter Book Collection",
-      "title_es": null,
+      "title_es": "Colección de libros de capítulos clásicos de Pokémon",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en el universo Pokémon con esta colección de libros de capítulos, perfecta para jóvenes lectores y fans de la saga. Revive las aventuras originales de Ash, Pikachu y sus amigos en Kanto. 📖",
+      "post_en": "Dive into the Pokémon universe with this classic chapter book collection, perfect for young readers and fans of the saga. Relive the original adventures of Ash, Pikachu, and their friends in Kanto. 📖",
       "price_new": 19.76,
       "price_old": 35.0,
       "currency": "USD",
@@ -1348,10 +1348,10 @@
     {
       "asin": "B0GX977KZ1",
       "title": "ACEBEAM UC3A Rechargeable / AAA 900 Lumen EDC Mini Flashlight at Amazon",
-      "title_es": null,
+      "title_es": "Mini linterna EDC ACEBEAM UC3A recargable / AAA de 900 lúmenes",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La linterna ACEBEAM UC3A es una potente mini linterna EDC de 900 lúmenes, versátil al ser recargable o usar pilas AAA. Es perfecta para quienes necesitan una fuente de luz fiable y compacta para el día a día o emergencias.",
+      "post_en": "The ACEBEAM UC3A is a powerful 900 lumen EDC mini flashlight, versatile as it's rechargeable or uses AAA batteries. It's perfect for those needing a reliable and compact light source for daily use or emergencies.",
       "price_new": 19.99,
       "price_old": 39.99,
       "currency": "USD",
@@ -1370,10 +1370,10 @@
     {
       "asin": "B0DNQB9YL1",
       "title": "Amazon – iMATCHME Triple Magnesium Complex, 120 Capsules -",
-      "title_es": null,
+      "title_es": "iMATCHME Triple Magnesium Complex, 120 cápsulas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este suplemento iMATCHME Triple Magnesium Complex proporciona una combinación de tres formas de magnesio para apoyar diversas funciones corporales. Ideal para quienes buscan mejorar su bienestar general y apoyo muscular.",
+      "post_en": "This iMATCHME Triple Magnesium Complex supplement provides a combination of three forms of magnesium to support various bodily functions. Ideal for those looking to enhance their overall well-being and muscle support.",
       "price_new": 8.74,
       "price_old": 24.98,
       "currency": "USD",
@@ -1392,10 +1392,10 @@
     {
       "asin": "B0DKY6LGKH",
       "title": "Frank's RedHot Dipping Sauce, Secret Chicken, Creamy, Tangy, Smoky Flavor 12 fl oz~$3.57 With S&S @ Amazon",
-      "title_es": null,
+      "title_es": "Salsa para mojar Frank's RedHot Secret Chicken, cremosa, ácida y ahumada, 12 fl oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta del sabor único de la salsa para mojar Frank's RedHot Secret Chicken, con un perfil cremoso, ácido y ahumado. Es el acompañamiento perfecto para alitas, nuggets o cualquier plato que quieras realzar. 🌶️",
+      "post_en": "Enjoy the unique flavor of Frank's RedHot Secret Chicken dipping sauce, featuring a creamy, tangy, and smoky profile. It's the perfect accompaniment for wings, nuggets, or any dish you want to enhance. 🌶️",
       "price_new": 3.57,
       "price_old": 60.0,
       "currency": "USD",
@@ -1414,10 +1414,10 @@
     {
       "asin": "B0FQFT6WPC",
       "title": "Apple iPhone Air Bumper - Tan ​​​​​​​ at Amazon",
-      "title_es": null,
+      "title_es": "Bumper Apple iPhone Air - Tan",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Protege tu iPhone con este bumper Apple iPhone Air en color Tan, diseñado para ofrecer una defensa ligera y elegante. Es ideal para quienes buscan mantener la estética de su dispositivo mientras lo resguardan de golpes.",
+      "post_en": "Protect your iPhone with this Apple iPhone Air bumper in Tan, designed to offer lightweight and stylish defense. It's ideal for those looking to maintain their device's aesthetic while safeguarding it from impacts.",
       "price_new": 12.6,
       "price_old": 39.0,
       "currency": "USD",
@@ -1783,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19971927",
       "published_at": "2026-09-05T01:45:56+00:00",
-      "revalidated_at": "2026-09-05T22:16:36+00:00"
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
     },
     {
       "asin": "B0DJR74SBG",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19972677",
       "published_at": "2026-09-05T01:31:09+00:00",
-      "revalidated_at": "2026-09-05T22:16:36+00:00"
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
     },
     {
       "asin": "B07RM68N5W",
@@ -2069,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19970952",
       "published_at": "2026-09-04T23:46:01+00:00",
-      "revalidated_at": "2026-09-05T22:16:36+00:00"
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
     },
     {
       "asin": "B0CMYYKJFN",
@@ -2091,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19973148",
       "published_at": "2026-09-04T23:46:01+00:00",
-      "revalidated_at": "2026-09-05T22:16:36+00:00"
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
     },
     {
       "asin": "B0FQF5NZCG",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19968735",
       "published_at": "2026-09-04T21:31:05+00:00",
-      "revalidated_at": "2026-09-05T22:16:36+00:00"
+      "revalidated_at": "2026-09-06T00:16:17+00:00"
     },
     {
       "asin": "B07ZQWNVCZ",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19971807",
       "published_at": "2026-09-04T19:16:34+00:00",
       "revalidated_at": "2026-09-05T23:46:19+00:00"
-    },
-    {
-      "asin": "B089XDY3Z2",
-      "title": "Flame King Propane Tank Y Splitter Adapter",
-      "title_es": "Adaptador divisor en Y para tanque de propano Flame King",
-      "headline": null,
-      "post": "Este adaptador Flame King permite conectar dos aparatos a un solo tanque de propano. Es una solución práctica para barbacoas o campamentos, ampliando tus opciones de uso.",
-      "post_en": "This Flame King adapter allows you to connect two appliances to a single propane tank. It's a practical solution for barbecues or camping, expanding your usage options.",
-      "price_new": 15.0,
-      "price_old": 24.95,
-      "currency": "USD",
-      "discount_pct": 39.9,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61xxXwYZU3L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B089XDY3Z2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19964868",
-      "published_at": "2026-09-04T19:16:34+00:00",
-      "revalidated_at": "2026-09-06T00:01:53+00:00"
     }
   ]
 }
