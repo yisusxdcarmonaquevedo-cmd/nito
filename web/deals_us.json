@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-07T20:01:31+00:00",
+  "generated_at": "2026-09-07T20:16:31+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0CD9QGXJD",
+      "title": "Amazon – UISLII Women's Fleece-Lined Thermal Tights -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.24,
+      "price_old": 18.49,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": "code",
+      "code": "6D3256IN",
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21523665.thumb",
+      "url": "https://amazon.com/dp/B0CD9QGXJD/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19983060",
+      "published_at": "2026-09-07T20:16:31+00:00",
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
+    },
     {
       "asin": "B082H2JJG3",
       "title": "The Basic Laws of Human Stupidity (eBook) by Carlo M. Cipolla",
@@ -80,11 +102,11 @@
       "price_old": 16.99,
       "currency": "USD",
       "discount_pct": 53.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21522033.thumb",
+      "image": "https://m.media-amazon.com/images/I/919vCFvbskL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H2134SP6/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19982442",
@@ -102,11 +124,11 @@
       "price_old": 59.99,
       "currency": "USD",
       "discount_pct": 33.6,
-      "rating": null,
+      "rating": 4.2,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/8/8/1/8/1/450x450/21525507.thumb",
+      "image": "https://m.media-amazon.com/images/I/61I0xqgJSXL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CW3VJFPN/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19981782",
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19982598",
       "published_at": "2026-09-07T18:31:28+00:00",
-      "revalidated_at": "2026-09-07T18:31:28+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B06Y5ZCFHX",
@@ -375,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19981641",
       "published_at": "2026-09-07T18:31:28+00:00",
-      "revalidated_at": "2026-09-07T18:31:28+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B0H6XYHLZ9",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19981323",
       "published_at": "2026-09-07T16:31:49+00:00",
-      "revalidated_at": "2026-09-07T18:31:28+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B07NDKVWZW",
@@ -683,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19982469",
       "published_at": "2026-09-07T16:31:49+00:00",
-      "revalidated_at": "2026-09-07T18:31:28+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B0B87L8JGG",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19967346",
       "published_at": "2026-09-07T16:31:49+00:00",
-      "revalidated_at": "2026-09-07T18:31:28+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B08DLBNDH8",
@@ -969,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19981089",
       "published_at": "2026-09-07T14:46:39+00:00",
-      "revalidated_at": "2026-09-07T18:31:28+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B0D793KDCR",
@@ -1255,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19980381",
       "published_at": "2026-09-07T12:31:16+00:00",
-      "revalidated_at": "2026-09-07T18:16:22+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B000JMKVCG",
@@ -1299,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19981101",
       "published_at": "2026-09-07T12:16:24+00:00",
-      "revalidated_at": "2026-09-07T18:16:22+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B0BXLK4566",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19980975",
       "published_at": "2026-09-07T10:31:13+00:00",
-      "revalidated_at": "2026-09-07T18:16:22+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B0G4CVKS9Y",
@@ -1563,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19980930",
       "published_at": "2026-09-07T08:46:16+00:00",
-      "revalidated_at": "2026-09-07T18:16:22+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B0FXG4771W",
@@ -1585,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19981008",
       "published_at": "2026-09-07T08:31:23+00:00",
-      "revalidated_at": "2026-09-07T18:16:22+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B0DM6BPVFF",
@@ -1783,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19979235",
       "published_at": "2026-09-07T04:31:14+00:00",
-      "revalidated_at": "2026-09-07T18:16:22+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B00ICMWZH4",
@@ -1915,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19978893",
       "published_at": "2026-09-07T02:31:08+00:00",
-      "revalidated_at": "2026-09-07T18:16:22+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B0DT5XMGR7",
@@ -1937,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19954275",
       "published_at": "2026-09-07T02:31:08+00:00",
-      "revalidated_at": "2026-09-07T18:16:22+00:00"
+      "revalidated_at": "2026-09-07T20:16:31+00:00"
     },
     {
       "asin": "B00CICPU4O",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:19978257",
       "published_at": "2026-09-06T16:28:50+00:00",
       "revalidated_at": "2026-09-07T19:51:46+00:00"
-    },
-    {
-      "asin": "B086JWVLTB",
-      "title": "Bottle of Lies: The Inside Story of the Generic Drug Boom (eBook) by Katherine Eban",
-      "title_es": "eBook \"Bottle of Lies\" de Katherine Eban",
-      "headline": null,
-      "post": "\"Bottle of Lies\" de Katherine Eban revela la impactante historia detrás del auge de los medicamentos genéricos. Una lectura obligada para quienes buscan entender la complejidad de la industria farmacéutica global.",
-      "post_en": "\"Bottle of Lies\" by Katherine Eban uncovers the shocking story behind the generic drug boom. A must-read for those looking to understand the complexities of the global pharmaceutical industry.",
-      "price_new": 1.99,
-      "price_old": 10.99,
-      "currency": "USD",
-      "discount_pct": 81.9,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71xiPeD3-ZL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B086JWVLTB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19977756",
-      "published_at": "2026-09-06T16:16:25+00:00",
-      "revalidated_at": "2026-09-07T19:46:39+00:00"
     }
   ]
 }
