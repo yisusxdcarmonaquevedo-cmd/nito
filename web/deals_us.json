@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-07T13:01:53+00:00",
+  "generated_at": "2026-09-07T13:16:26+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B0G64K1H7N",
+      "title": "UGREEN Nexode Air 45W USB C Charger Block w/ Foldable Plug (Grey or White)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 15.99,
+      "price_old": 24.99,
+      "currency": "USD",
+      "discount_pct": 36.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/21518673.thumb",
+      "url": "https://amazon.com/dp/B0G64K1H7N/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19980990",
+      "published_at": "2026-09-07T13:16:26+00:00",
+      "revalidated_at": "2026-09-07T13:16:26+00:00"
+    },
     {
       "asin": "B07MVM6W5G",
       "title": "22\" WORX Electric Hedge Trimmer w/ Dual-Action Blades (Tool Only) at Amazon",
@@ -178,28 +200,6 @@
       "deal_key": "sd:19981404",
       "published_at": "2026-09-07T11:46:12+00:00",
       "revalidated_at": "2026-09-07T11:46:12+00:00"
-    },
-    {
-      "asin": "B016R90WIW",
-      "title": "43mm Citizen Men's Eco-Drive Weekender Garrison Field Watch at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 147.0,
-      "price_old": 325.0,
-      "currency": "USD",
-      "discount_pct": 54.8,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71+prjqnZiL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B016R90WIW/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19980729",
-      "published_at": "2026-09-07T11:16:06+00:00",
-      "revalidated_at": "2026-09-07T11:16:06+00:00"
     },
     {
       "asin": "B076JH2C4H",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19979655",
       "published_at": "2026-09-07T03:45:45+00:00",
-      "revalidated_at": "2026-09-07T11:16:06+00:00"
+      "revalidated_at": "2026-09-07T13:16:26+00:00"
     },
     {
       "asin": "B000V0F5E0",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19977687",
       "published_at": "2026-09-06T21:46:15+00:00",
-      "revalidated_at": "2026-09-07T11:01:15+00:00"
+      "revalidated_at": "2026-09-07T13:16:26+00:00"
     },
     {
       "asin": "B01EB4JD30",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19978887",
       "published_at": "2026-09-06T21:46:15+00:00",
-      "revalidated_at": "2026-09-07T11:01:15+00:00"
+      "revalidated_at": "2026-09-07T13:16:26+00:00"
     },
     {
       "asin": "B0DCSSJ55R",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19970088",
       "published_at": "2026-09-06T21:46:15+00:00",
-      "revalidated_at": "2026-09-07T11:01:15+00:00"
+      "revalidated_at": "2026-09-07T13:16:26+00:00"
     },
     {
       "asin": "B0DB6HYYHP",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19978980",
       "published_at": "2026-09-06T20:01:17+00:00",
-      "revalidated_at": "2026-09-07T11:16:06+00:00"
+      "revalidated_at": "2026-09-07T13:16:26+00:00"
     },
     {
       "asin": "B0000TZZVA",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19978962",
       "published_at": "2026-09-06T20:01:17+00:00",
-      "revalidated_at": "2026-09-07T11:16:06+00:00"
+      "revalidated_at": "2026-09-07T13:16:26+00:00"
     },
     {
       "asin": "B0066IM5RQ",
@@ -1233,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19977651",
       "published_at": "2026-09-06T19:45:58+00:00",
-      "revalidated_at": "2026-09-07T11:01:15+00:00"
+      "revalidated_at": "2026-09-07T13:16:26+00:00"
     },
     {
       "asin": "B0DZFKZSX9",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19977327",
       "published_at": "2026-09-06T19:45:58+00:00",
-      "revalidated_at": "2026-09-07T11:16:06+00:00"
+      "revalidated_at": "2026-09-07T13:16:26+00:00"
     },
     {
       "asin": "B0869G5RSG",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19978575",
       "published_at": "2026-09-06T18:16:06+00:00",
-      "revalidated_at": "2026-09-07T11:16:06+00:00"
+      "revalidated_at": "2026-09-07T13:16:26+00:00"
     },
     {
       "asin": "B0GD8LN3NG",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19977756",
       "published_at": "2026-09-06T16:16:25+00:00",
-      "revalidated_at": "2026-09-07T11:16:06+00:00"
+      "revalidated_at": "2026-09-07T13:16:26+00:00"
     },
     {
       "asin": "B00GNFIP08",
@@ -1629,29 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19977564",
       "published_at": "2026-09-06T16:16:25+00:00",
-      "revalidated_at": "2026-09-07T11:16:06+00:00"
-    },
-    {
-      "asin": "B09TJZH7KY",
-      "title": "24-Count 2-Oz MALACASA Mini Ceramic Cups",
-      "title_es": "Tazas de cerámica MALACASA Mini de 2 Oz (24 unidades)",
-      "headline": null,
-      "post": "Este set de 24 mini tazas de cerámica MALACASA de 2 onzas es perfecto para servir espresso, salsas o pequeñas porciones. Su diseño compacto y duradero las hace ideales para cualquier cocina o evento.",
-      "post_en": "This set of 24 2-ounce MALACASA mini ceramic cups is perfect for serving espresso, sauces, or small portions. Their compact and durable design makes them ideal for any kitchen or event.",
-      "price_new": 14.94,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 57.3,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "5BM2P9R1",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51iWpaacvyL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09TJZH7KY/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19976964",
-      "published_at": "2026-09-06T16:16:25+00:00",
-      "revalidated_at": "2026-09-07T11:16:06+00:00"
+      "revalidated_at": "2026-09-07T13:16:26+00:00"
     },
     {
       "asin": "B07F8ZJ83G",
@@ -1673,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19978599",
       "published_at": "2026-09-06T16:16:25+00:00",
-      "revalidated_at": "2026-09-07T11:16:06+00:00"
+      "revalidated_at": "2026-09-07T13:16:26+00:00"
     },
     {
       "asin": "B0DHB9J53M",
@@ -2620,28 +2598,6 @@
       "deal_key": "sd:19972740",
       "published_at": "2026-09-06T02:16:32+00:00",
       "revalidated_at": "2026-09-07T13:01:53+00:00"
-    },
-    {
-      "asin": "B0DTHPL6YV",
-      "title": "CIFOYA Kids Swim Goggles, 3 Pack Swimming Goggles for Kids 4-16, Anti-Fog UV Protection Pool Glasses for Boys Girls",
-      "title_es": "Gafas de Natación CIFOYA para Niños (Pack de 3)",
-      "headline": null,
-      "post": "Gafas de natación CIFOYA para niños, en un pack de tres, diseñadas para proteger sus ojos con lentes antivaho y protección UV. Son ideales para que los pequeños nadadores de 4 a 16 años disfruten cómodamente en la piscina o el mar.",
-      "post_en": "CIFOYA Kids Swim Goggles, a three-pack designed to protect children's eyes with anti-fog lenses and UV protection. They are ideal for young swimmers aged 4 to 16 to comfortably enjoy the pool or the sea.",
-      "price_new": 11.49,
-      "price_old": 22.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.4,
-      "condition": "code",
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/7100fkNkWUL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DTHPL6YV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19973292",
-      "published_at": "2026-09-06T02:01:50+00:00",
-      "revalidated_at": "2026-09-07T11:01:15+00:00"
     }
   ]
 }
