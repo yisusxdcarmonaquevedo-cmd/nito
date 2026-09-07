@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-07T08:31:23+00:00",
+  "generated_at": "2026-09-07T08:46:16+00:00",
   "market": "us",
-  "count": 119,
+  "count": 116,
   "deals": [
+    {
+      "asin": "B0052FF7YM",
+      "title": "The Righteous Mind: Why Good People Are Divided by Politics and Religion (eBook) by Jonathan Haidt",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.99,
+      "price_old": 11.99,
+      "currency": "USD",
+      "discount_pct": 83.4,
+      "rating": 4.6,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/61zqTYXcICL._SL1000_.jpg",
+      "url": "https://amazon.com/dp/B0052FF7YM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19980930",
+      "published_at": "2026-09-07T08:46:16+00:00",
+      "revalidated_at": "2026-09-07T08:46:16+00:00"
+    },
     {
       "asin": "B0FXG4771W",
       "title": "TOOLEAGUE Magnetic Tool Mat w/ Telescoping Magnetic Pickup Pen at Amazon",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19976832",
       "published_at": "2026-09-06T23:00:57+00:00",
-      "revalidated_at": "2026-09-07T06:45:50+00:00"
+      "revalidated_at": "2026-09-07T08:46:16+00:00"
     },
     {
       "asin": "B0989JLFGW",
@@ -662,28 +684,6 @@
       "deal_key": "sd:19970088",
       "published_at": "2026-09-06T21:46:15+00:00",
       "revalidated_at": "2026-09-07T07:16:01+00:00"
-    },
-    {
-      "asin": "B07P8BBTDZ",
-      "title": "12-Pk 1.69-Oz Luna Protein Snack Bars (Lemon Zest)",
-      "title_es": "Pack de 12 barritas de proteína Luna Protein Snack (1.69 oz, Sabor Limón)",
-      "headline": null,
-      "post": "Recarga energías de forma saludable con este pack de 12 barritas de proteína Luna Protein Snack sabor Limón, ideales como tentempié nutritivo en cualquier momento del día. Son perfectas para deportistas o para quienes buscan un snack con buen aporte proteico.",
-      "post_en": "Recharge healthily with this 12-pack of Luna Protein Snack Bars in Lemon Zest flavor, ideal as a nutritious snack at any time of day. They are perfect for athletes or anyone looking for a snack with a good protein boost.",
-      "price_new": 6.4,
-      "price_old": 13.49,
-      "currency": "USD",
-      "discount_pct": 52.6,
-      "rating": 4.6,
-      "condition": "coupon",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81YwCTOV+nL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07P8BBTDZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19979160",
-      "published_at": "2026-09-06T21:16:08+00:00",
-      "revalidated_at": "2026-09-07T06:45:50+00:00"
     },
     {
       "asin": "B0DB6HYYHP",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19979034",
       "published_at": "2026-09-06T19:16:20+00:00",
-      "revalidated_at": "2026-09-07T06:45:50+00:00"
+      "revalidated_at": "2026-09-07T08:46:16+00:00"
     },
     {
       "asin": "B007QV5EGQ",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19978602",
       "published_at": "2026-09-06T19:16:20+00:00",
-      "revalidated_at": "2026-09-07T06:45:50+00:00"
+      "revalidated_at": "2026-09-07T08:46:16+00:00"
     },
     {
       "asin": "B0FP2Y697Z",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19977927",
       "published_at": "2026-09-06T19:16:20+00:00",
-      "revalidated_at": "2026-09-07T06:45:50+00:00"
+      "revalidated_at": "2026-09-07T08:46:16+00:00"
     },
     {
       "asin": "B00CVZ3NJ2",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19977828",
       "published_at": "2026-09-06T17:30:53+00:00",
-      "revalidated_at": "2026-09-07T06:45:50+00:00"
+      "revalidated_at": "2026-09-07T08:46:16+00:00"
     },
     {
       "asin": "B01LQIH232",
@@ -1764,28 +1764,6 @@
       "revalidated_at": "2026-09-07T07:30:57+00:00"
     },
     {
-      "asin": "B0CMXCYMCY",
-      "title": "NuPhy Air75 V2 Portable 75% low profile Mechanical Keyboard",
-      "title_es": "Teclado mecánico de perfil bajo NuPhy Air75 V2 portátil 75%",
-      "headline": null,
-      "post": "El teclado mecánico NuPhy Air75 V2 es un modelo portátil de perfil bajo con un diseño del 75%, ideal para escribir cómodamente en cualquier lugar. Su construcción compacta lo hace perfecto para gamers y profesionales que valoran la portabilidad y la calidad.",
-      "post_en": "The NuPhy Air75 V2 mechanical keyboard is a portable, low-profile 75% design, ideal for comfortable typing anywhere. Its compact build makes it perfect for gamers and professionals who value portability and quality.",
-      "price_new": 63.74,
-      "price_old": 130.0,
-      "currency": "USD",
-      "discount_pct": 51.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61uq8oNG4xL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CMXCYMCY/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19976988",
-      "published_at": "2026-09-06T12:01:05+00:00",
-      "revalidated_at": "2026-09-07T06:45:50+00:00"
-    },
-    {
       "asin": "B0H9KHWLY8",
       "title": "Amazon – BRXL Women's Seamless Full-Zip Workout Jacket -",
       "title_es": "Chaqueta deportiva sin costuras BRXL para mujer con cremallera completa",
@@ -1805,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19972347",
       "published_at": "2026-09-06T12:01:05+00:00",
-      "revalidated_at": "2026-09-07T06:45:50+00:00"
+      "revalidated_at": "2026-09-07T08:46:16+00:00"
     },
     {
       "asin": "B0FF4MR97N",
@@ -1849,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19977891",
       "published_at": "2026-09-06T11:31:02+00:00",
-      "revalidated_at": "2026-09-07T06:45:50+00:00"
+      "revalidated_at": "2026-09-07T08:46:16+00:00"
     },
     {
       "asin": "B011Q0F17O",
@@ -1959,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19968147",
       "published_at": "2026-09-06T10:00:47+00:00",
-      "revalidated_at": "2026-09-07T06:45:50+00:00"
+      "revalidated_at": "2026-09-07T08:46:16+00:00"
     },
     {
       "asin": "B078JCKM48",
@@ -2028,28 +2006,6 @@
       "revalidated_at": "2026-09-07T08:01:06+00:00"
     },
     {
-      "asin": "B01J9LNT8A",
-      "title": "14-Pc Bosch BL14 Black Oxide HSS Jobber Metal Twist Drill Bit Set at Amazon",
-      "title_es": "Set de 14 brocas Bosch BL14 Black Oxide HSS Jobber para metal",
-      "headline": null,
-      "post": "Este set de brocas Bosch BL14 de 14 piezas es ideal para trabajos en metal, ofreciendo durabilidad y precisión. Perfecto para aficionados al bricolaje y profesionales que buscan herramientas fiables para el hogar.",
-      "post_en": "This 14-piece Bosch BL14 drill bit set is perfect for metalworking, offering durability and precision. Ideal for DIY enthusiasts and professionals seeking reliable tools for home projects.",
-      "price_new": 12.99,
-      "price_old": 49.19,
-      "currency": "USD",
-      "discount_pct": 73.6,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81kkvl0o+7L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B01J9LNT8A/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19977210",
-      "published_at": "2026-09-06T07:45:44+00:00",
-      "revalidated_at": "2026-09-07T06:45:50+00:00"
-    },
-    {
       "asin": "B088BBLMGS",
       "title": "The Silo Series: Wool, Shift, Dust, and Silo Stories by Hugh Howey (Kindle Edition)",
       "title_es": "The Silo Series: Wool, Shift, Dust, and Silo Stories de Hugh Howey (Edición Kindle)",
@@ -2114,28 +2070,6 @@
       "deal_key": "sd:19975803",
       "published_at": "2026-09-06T04:46:15+00:00",
       "revalidated_at": "2026-09-07T07:46:05+00:00"
-    },
-    {
-      "asin": "B0FD1Y3YS8",
-      "title": "Spigen Thin Fit MagFit for iPhone 17 Pro Max Case, Metal Slate",
-      "title_es": "Funda Spigen Thin Fit MagFit para iPhone 17 Pro Max, Metal Slate",
-      "headline": null,
-      "post": "Protege tu iPhone 17 Pro Max con esta funda Spigen Thin Fit MagFit, diseñada para ser delgada y compatible con accesorios magnéticos. Es ideal para quienes buscan una protección discreta y funcional sin sacrificar el estilo.",
-      "post_en": "Protect your iPhone 17 Pro Max with this Spigen Thin Fit MagFit case, designed to be slim and compatible with magnetic accessories. It's perfect for users seeking discreet, functional protection without sacrificing style.",
-      "price_new": 7.99,
-      "price_old": 23.99,
-      "currency": "USD",
-      "discount_pct": 66.7,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/610w8m3+5iL._AC_SL1200_.jpg",
-      "url": "https://amazon.com/dp/B0FD1Y3YS8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19976754",
-      "published_at": "2026-09-06T04:16:20+00:00",
-      "revalidated_at": "2026-09-07T06:45:50+00:00"
     },
     {
       "asin": "B0DLCV9C4M",
@@ -2289,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19976310",
       "published_at": "2026-09-06T02:46:43+00:00",
-      "revalidated_at": "2026-09-07T06:31:16+00:00"
+      "revalidated_at": "2026-09-07T08:46:16+00:00"
     },
     {
       "asin": "B0FP1YNBB6",
@@ -2597,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19974912",
       "published_at": "2026-09-06T01:31:24+00:00",
-      "revalidated_at": "2026-09-07T06:31:16+00:00"
+      "revalidated_at": "2026-09-07T08:46:16+00:00"
     },
     {
       "asin": "B0FQC3XZKX",
