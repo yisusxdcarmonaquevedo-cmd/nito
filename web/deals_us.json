@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-08T13:01:20+00:00",
+  "generated_at": "2026-09-08T13:16:14+00:00",
   "market": "us",
   "count": 118,
   "deals": [
+    {
+      "asin": "B0GSCFY5TX",
+      "title": "6-Pack Bounty Mega Paper Towels",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 18.96,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 45.8,
+      "rating": 4.8,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/7104ZSslSNL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GSCFY5TX/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19984002",
+      "published_at": "2026-09-08T13:16:14+00:00",
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
+    },
     {
       "asin": "B0FMF9BZQQ",
       "title": "3rd Hill Men's Loose Fit Cotton Polyester Blend 5 Pocket Open Bottom Joggers w/ Waist & Leg Cuff Drawstrings (Various)",
@@ -14,11 +36,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 65.7,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/21530838.thumb",
+      "image": "https://m.media-amazon.com/images/I/71+j-H518JL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FMF9BZQQ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19986510",
@@ -221,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19986375",
       "published_at": "2026-09-08T11:16:28+00:00",
-      "revalidated_at": "2026-09-08T11:16:28+00:00"
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
     },
     {
       "asin": "B073G3ZLDJ",
@@ -243,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19985538",
       "published_at": "2026-09-08T11:16:28+00:00",
-      "revalidated_at": "2026-09-08T11:16:28+00:00"
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
     },
     {
       "asin": "B0BLSCY6PR",
@@ -398,28 +420,6 @@
       "deal_key": "sd:19986102",
       "published_at": "2026-09-08T09:46:23+00:00",
       "revalidated_at": "2026-09-08T11:31:21+00:00"
-    },
-    {
-      "asin": "B0G413G1GP",
-      "title": "48-Count Metflavor Dual-Sided Non-Scratch Kitchen Scrub Sponges",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 72.9,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/816JUelhdmL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G413G1GP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19986219",
-      "published_at": "2026-09-08T09:31:15+00:00",
-      "revalidated_at": "2026-09-08T11:16:28+00:00"
     },
     {
       "asin": "B004O0UTVM",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19981455",
       "published_at": "2026-09-08T01:46:32+00:00",
-      "revalidated_at": "2026-09-08T11:16:28+00:00"
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
     },
     {
       "asin": "B01LTHO3QY",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19983873",
       "published_at": "2026-09-08T01:46:32+00:00",
-      "revalidated_at": "2026-09-08T11:16:28+00:00"
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
     },
     {
       "asin": "B0HCTPZ6V1",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19982925",
       "published_at": "2026-09-08T01:46:32+00:00",
-      "revalidated_at": "2026-09-08T11:16:28+00:00"
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
     },
     {
       "asin": "B0CC9FYHN8",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19983825",
       "published_at": "2026-09-08T00:02:17+00:00",
-      "revalidated_at": "2026-09-08T11:16:28+00:00"
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
     },
     {
       "asin": "B0G111H64D",
@@ -1475,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19984650",
       "published_at": "2026-09-08T00:02:17+00:00",
-      "revalidated_at": "2026-09-08T11:16:28+00:00"
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
     },
     {
       "asin": "B0CFVPWY5K",
@@ -1651,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19984635",
       "published_at": "2026-09-07T23:46:40+00:00",
-      "revalidated_at": "2026-09-08T11:16:28+00:00"
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
     },
     {
       "asin": "B0F6T8G2GW",
@@ -1893,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19983060",
       "published_at": "2026-09-07T20:16:31+00:00",
-      "revalidated_at": "2026-09-08T11:16:28+00:00"
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
     },
     {
       "asin": "B082H2JJG3",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19980792",
       "published_at": "2026-09-07T17:31:33+00:00",
-      "revalidated_at": "2026-09-08T11:01:32+00:00"
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
     },
     {
       "asin": "B0FDBM4NKJ",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19982019",
       "published_at": "2026-09-07T17:31:33+00:00",
-      "revalidated_at": "2026-09-08T11:01:32+00:00"
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
     },
     {
       "asin": "B0H1GTLM65",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19982412",
       "published_at": "2026-09-07T17:16:32+00:00",
-      "revalidated_at": "2026-09-08T11:01:32+00:00"
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
     },
     {
       "asin": "B0B2ZYS87G",
@@ -2597,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19981995",
       "published_at": "2026-09-07T16:01:30+00:00",
-      "revalidated_at": "2026-09-08T11:01:32+00:00"
+      "revalidated_at": "2026-09-08T13:16:14+00:00"
     }
   ]
 }
