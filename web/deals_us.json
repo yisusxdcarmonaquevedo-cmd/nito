@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T22:46:27+00:00",
+  "generated_at": "2026-09-08T23:01:31+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0FJ82GG9M",
@@ -190,11 +190,11 @@
       "price_old": 16.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.2,
       "condition": "code",
       "code": "BJ7FEWWQ",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21535920.thumb",
+      "image": "https://m.media-amazon.com/images/I/81u16oCCRPL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H1W512VB/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19988433",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987800",
       "published_at": "2026-09-08T20:01:28+00:00",
-      "revalidated_at": "2026-09-08T20:01:28+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B0F98W66B7",
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987821",
       "published_at": "2026-09-08T20:01:28+00:00",
-      "revalidated_at": "2026-09-08T20:01:28+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B0DQQNRKBP",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19988367",
       "published_at": "2026-09-08T20:01:28+00:00",
-      "revalidated_at": "2026-09-08T20:01:28+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B0GS9SFM7T",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19988457",
       "published_at": "2026-09-08T19:46:05+00:00",
-      "revalidated_at": "2026-09-08T19:46:05+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B0H1WZJX6S",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19986945",
       "published_at": "2026-09-08T19:46:05+00:00",
-      "revalidated_at": "2026-09-08T19:46:05+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B0GJ5WW5VL",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987431",
       "published_at": "2026-09-08T16:01:24+00:00",
-      "revalidated_at": "2026-09-08T19:46:05+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B0B466YTT3",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19983036",
       "published_at": "2026-09-08T16:01:24+00:00",
-      "revalidated_at": "2026-09-08T19:46:05+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B07WRQ2K9B",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19986459",
       "published_at": "2026-09-08T12:16:14+00:00",
-      "revalidated_at": "2026-09-08T19:46:05+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B00KWRM78E",
@@ -2025,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19985256",
       "published_at": "2026-09-08T08:31:15+00:00",
-      "revalidated_at": "2026-09-08T19:46:05+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B00C4TJADS",
@@ -2267,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19984128",
       "published_at": "2026-09-08T06:16:02+00:00",
-      "revalidated_at": "2026-09-08T19:46:05+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B00T3DR56C",
@@ -2292,28 +2292,6 @@
       "revalidated_at": "2026-09-08T20:01:28+00:00"
     },
     {
-      "asin": "B0GNN8NC5B",
-      "title": "Daron UPS Pullback Package Car Delivery Truck Toy at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.99,
-      "price_old": 14.72,
-      "currency": "USD",
-      "discount_pct": 32.1,
-      "rating": 5.0,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71YBQlg2RUL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GNN8NC5B/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19985496",
-      "published_at": "2026-09-08T05:46:17+00:00",
-      "revalidated_at": "2026-09-08T19:46:05+00:00"
-    },
-    {
       "asin": "B0G6YZF8Q1",
       "title": "SANSI 120W Dual-Wavelength Red Light Therapy Panel w/ 660nm & 850nm LEDs",
       "title_es": null,
@@ -2333,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19981923",
       "published_at": "2026-09-08T05:46:17+00:00",
-      "revalidated_at": "2026-09-08T19:46:05+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B0FKB289VY",
@@ -2575,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19983543",
       "published_at": "2026-09-08T02:01:48+00:00",
-      "revalidated_at": "2026-09-08T19:46:05+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B091MDF73Z",
@@ -2597,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19983531",
       "published_at": "2026-09-08T02:01:48+00:00",
-      "revalidated_at": "2026-09-08T19:46:05+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B07C8CBXNX",
@@ -2619,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19958814",
       "published_at": "2026-09-08T02:01:48+00:00",
-      "revalidated_at": "2026-09-08T19:46:05+00:00"
+      "revalidated_at": "2026-09-08T23:01:31+00:00"
     },
     {
       "asin": "B0C5BZYWFN",
