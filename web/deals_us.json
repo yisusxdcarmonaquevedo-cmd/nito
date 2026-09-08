@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T16:01:24+00:00",
+  "generated_at": "2026-09-08T16:16:31+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
     {
       "asin": "B0F99JCCG6",
@@ -80,7 +80,7 @@
       "price_old": 57.0,
       "currency": "USD",
       "discount_pct": 83.0,
-      "rating": null,
+      "rating": 4.1,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19986333",
       "published_at": "2026-09-08T14:16:23+00:00",
-      "revalidated_at": "2026-09-08T14:16:23+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B01DDA81TK",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19986579",
       "published_at": "2026-09-08T14:16:23+00:00",
-      "revalidated_at": "2026-09-08T14:16:23+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B0CN9RF531",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19986648",
       "published_at": "2026-09-08T14:16:23+00:00",
-      "revalidated_at": "2026-09-08T14:16:23+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B0GC5MCH2M",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19985031",
       "published_at": "2026-09-08T10:31:18+00:00",
-      "revalidated_at": "2026-09-08T14:16:23+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B0DTLF1T49",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19954545",
       "published_at": "2026-09-08T06:45:59+00:00",
-      "revalidated_at": "2026-09-08T14:16:23+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B0BCW4YMR8",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19984944",
       "published_at": "2026-09-08T02:46:51+00:00",
-      "revalidated_at": "2026-09-08T14:01:33+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B0DB6HYYHP",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19981449",
       "published_at": "2026-09-08T02:46:51+00:00",
-      "revalidated_at": "2026-09-08T14:01:33+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B0GXB1L9M1",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19982244",
       "published_at": "2026-09-08T02:46:51+00:00",
-      "revalidated_at": "2026-09-08T14:01:33+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B00J2L5TOK",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19984362",
       "published_at": "2026-09-08T02:46:51+00:00",
-      "revalidated_at": "2026-09-08T14:16:23+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B0GJ4QRRRF",
@@ -1343,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19983294",
       "published_at": "2026-09-08T02:46:51+00:00",
-      "revalidated_at": "2026-09-08T14:16:23+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B0GXJKK21H",
@@ -1365,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19983933",
       "published_at": "2026-09-08T02:46:51+00:00",
-      "revalidated_at": "2026-09-08T14:16:23+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B0FD583W6N",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19985145",
       "published_at": "2026-09-08T02:46:51+00:00",
-      "revalidated_at": "2026-09-08T14:16:23+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B0HGG8M54W",
@@ -2204,28 +2204,6 @@
       "revalidated_at": "2026-09-08T14:46:25+00:00"
     },
     {
-      "asin": "B0H3PFMWLZ",
-      "title": "70W Wegear GaN III 3-Port USB-C Wall Charger w/ Smart Display & Touch Control",
-      "title_es": "Cargador de pared USB-C de 3 puertos Wegear GaN III de 70W con pantalla inteligente y control táctil",
-      "headline": null,
-      "post": "Carga tus dispositivos rápidamente con este cargador de pared Wegear GaN III de 70W, que cuenta con 3 puertos USB-C, pantalla inteligente y control táctil. Ideal para quienes necesitan una solución de carga eficiente y versátil para múltiples gadgets. ⚡",
-      "post_en": "Charge your devices quickly with this 70W Wegear GaN III wall charger, featuring 3 USB-C ports, a smart display, and touch control. Ideal for those needing an efficient and versatile charging solution for multiple gadgets. ⚡",
-      "price_new": 22.5,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 35.7,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "WEKAR3Q2",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61897dFRGsL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H3PFMWLZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19984437",
-      "published_at": "2026-09-07T22:46:12+00:00",
-      "revalidated_at": "2026-09-08T14:01:33+00:00"
-    },
-    {
       "asin": "B0FK3826VH",
       "title": "Thermaltake Toughpower GT 1000W ATX 3.1 Native PCIe 5.1 12V-2x6 Full Modular PSU",
       "title_es": "Fuente de alimentación Thermaltake Toughpower GT 1000W ATX 3.1 Native PCIe 5.1 12V-2x6 Full Modular PSU",
@@ -2245,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19981332",
       "published_at": "2026-09-07T22:46:12+00:00",
-      "revalidated_at": "2026-09-08T14:01:33+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B00OPF9HQO",
@@ -2267,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19980795",
       "published_at": "2026-09-07T22:31:58+00:00",
-      "revalidated_at": "2026-09-08T14:01:33+00:00"
+      "revalidated_at": "2026-09-08T16:16:31+00:00"
     },
     {
       "asin": "B0DYDBCVVL",
