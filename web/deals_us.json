@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-08T19:01:33+00:00",
+  "generated_at": "2026-09-08T19:16:06+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B00C5R7FP4",
+      "title": "George Washington's Secret Six: The Spy Ring That Saved the American Revolution (eBook) by Brian Kilmeade, Don Yaeger",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.99,
+      "price_old": 8.99,
+      "currency": "USD",
+      "discount_pct": 77.9,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21531189.thumb",
+      "url": "https://amazon.com/dp/B00C5R7FP4/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19986675",
+      "published_at": "2026-09-08T19:16:06+00:00",
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
+    },
     {
       "asin": "B008B1BL4E",
       "title": "The Sleepwalkers: How Europe Went to War in 1914 (eBook) by Christopher Clark",
@@ -146,11 +168,11 @@
       "price_old": 39.99,
       "currency": "USD",
       "discount_pct": 40.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "OPPMDLU9",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/5/3/4/7/0/450x450/21532545.thumb",
+      "image": "https://m.media-amazon.com/images/I/71kpOx4isTL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H29LQLF6/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19987194",
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19986681",
       "published_at": "2026-09-08T17:31:30+00:00",
-      "revalidated_at": "2026-09-08T17:31:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     },
     {
       "asin": "B0DN5BRKDM",
@@ -375,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987233",
       "published_at": "2026-09-08T17:31:30+00:00",
-      "revalidated_at": "2026-09-08T17:31:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     },
     {
       "asin": "B0D83MYW7N",
@@ -683,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19985910",
       "published_at": "2026-09-08T15:31:45+00:00",
-      "revalidated_at": "2026-09-08T17:31:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     },
     {
       "asin": "B0BXMSS8Z7",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19986702",
       "published_at": "2026-09-08T15:31:45+00:00",
-      "revalidated_at": "2026-09-08T17:31:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     },
     {
       "asin": "B0CNFQSHF7",
@@ -1255,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19985529",
       "published_at": "2026-09-08T11:46:18+00:00",
-      "revalidated_at": "2026-09-08T17:31:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     },
     {
       "asin": "B0FJRM9GKQ",
@@ -1387,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19984269",
       "published_at": "2026-09-08T09:50:59+00:00",
-      "revalidated_at": "2026-09-08T17:31:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     },
     {
       "asin": "B0DXWZMVFZ",
@@ -1409,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19985934",
       "published_at": "2026-09-08T09:46:23+00:00",
-      "revalidated_at": "2026-09-08T17:16:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     },
     {
       "asin": "B0D3PGHSM3",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19985943",
       "published_at": "2026-09-08T09:46:23+00:00",
-      "revalidated_at": "2026-09-08T17:16:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     },
     {
       "asin": "B00AW72V4O",
@@ -1453,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19986102",
       "published_at": "2026-09-08T09:46:23+00:00",
-      "revalidated_at": "2026-09-08T17:16:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     },
     {
       "asin": "B004O0UTVM",
@@ -1607,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19983498",
       "published_at": "2026-09-08T07:46:07+00:00",
-      "revalidated_at": "2026-09-08T17:16:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     },
     {
       "asin": "B0CC4T6WLT",
@@ -1673,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19976463",
       "published_at": "2026-09-08T07:16:14+00:00",
-      "revalidated_at": "2026-09-08T17:16:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     },
     {
       "asin": "B0DRVWK3V3",
@@ -2157,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19981455",
       "published_at": "2026-09-08T01:46:32+00:00",
-      "revalidated_at": "2026-09-08T17:16:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     },
     {
       "asin": "B01LTHO3QY",
@@ -2223,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19984074",
       "published_at": "2026-09-08T01:31:27+00:00",
-      "revalidated_at": "2026-09-08T17:16:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     },
     {
       "asin": "B0G7GL3YTP",
@@ -2619,29 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19983798",
       "published_at": "2026-09-07T23:46:40+00:00",
-      "revalidated_at": "2026-09-08T17:16:30+00:00"
-    },
-    {
-      "asin": "B0FHH7HQ48",
-      "title": "2-Piece Ekouaer Women's Satin Button-Down Long Sleeve Pajama Set (Various)",
-      "title_es": "Conjunto de pijama de satén de 2 piezas Ekouaer para mujer (varios)",
-      "headline": null,
-      "post": "Este elegante conjunto de pijama de satén Ekouaer ofrece comodidad y estilo para tus noches de descanso. Con camisa de botones y manga larga, es perfecto para quienes buscan ropa de dormir lujosa. ✨",
-      "post_en": "This elegant Ekouaer satin pajama set offers comfort and style for your restful nights. Featuring a button-down, long-sleeve shirt, it's perfect for those seeking luxurious sleepwear. ✨",
-      "price_new": 11.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 65.7,
-      "rating": null,
-      "condition": "code",
-      "code": "EDAXGQFN",
-      "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21526413.thumb",
-      "url": "https://amazon.com/dp/B0FHH7HQ48/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19984323",
-      "published_at": "2026-09-07T23:46:40+00:00",
-      "revalidated_at": "2026-09-08T17:16:30+00:00"
+      "revalidated_at": "2026-09-08T19:16:06+00:00"
     }
   ]
 }
