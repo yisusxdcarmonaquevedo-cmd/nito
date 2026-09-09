@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-09T23:31:44+00:00",
+  "generated_at": "2026-09-09T23:46:27+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0H3MXTPDR",
+      "title": "5\" Nazano 10X/25X/45X Handheld Magnifying Glass w/ LED & UV Black Light",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.39,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 67.5,
+      "rating": null,
+      "condition": "code",
+      "code": "SY625HUO",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/21543933.thumb",
+      "url": "https://amazon.com/dp/B0H3MXTPDR/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19992075",
+      "published_at": "2026-09-09T23:46:27+00:00",
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
+    },
     {
       "asin": "B0F1Y14ZQK",
       "title": "KISFLY Dog Life Jacket w/ Rescue Handle (Various Sizes) from",
@@ -36,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 71.5,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "LKLY1Z27",
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/21547059.thumb",
+      "image": "https://m.media-amazon.com/images/I/81dEqXc9hjL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B07SZKSGBY/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19993200",
@@ -243,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993656",
       "published_at": "2026-09-09T22:01:05+00:00",
-      "revalidated_at": "2026-09-09T22:01:05+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "B0D9CMW6NJ",
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993440",
       "published_at": "2026-09-09T22:01:05+00:00",
-      "revalidated_at": "2026-09-09T22:01:05+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "1339028018",
@@ -551,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993032",
       "published_at": "2026-09-09T20:01:33+00:00",
-      "revalidated_at": "2026-09-09T22:01:05+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "B0GGBJC6BR",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991982",
       "published_at": "2026-09-09T20:01:33+00:00",
-      "revalidated_at": "2026-09-09T22:01:05+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "B0FMRV78S5",
@@ -595,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992405",
       "published_at": "2026-09-09T20:01:33+00:00",
-      "revalidated_at": "2026-09-09T22:01:05+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "B0GS1Q662K",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992717",
       "published_at": "2026-09-09T18:16:26+00:00",
-      "revalidated_at": "2026-09-09T22:01:05+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "B08C2CFNT2",
@@ -1167,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991910",
       "published_at": "2026-09-09T16:01:40+00:00",
-      "revalidated_at": "2026-09-09T21:45:55+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "B0F9FLVD1P",
@@ -1189,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19986942",
       "published_at": "2026-09-09T16:01:40+00:00",
-      "revalidated_at": "2026-09-09T22:01:05+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "B0DWDX352W",
@@ -1211,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987371",
       "published_at": "2026-09-09T15:46:29+00:00",
-      "revalidated_at": "2026-09-09T21:45:55+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "B0FSJPZB4V",
@@ -1409,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991742",
       "published_at": "2026-09-09T14:16:30+00:00",
-      "revalidated_at": "2026-09-09T22:01:05+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "B0BMXQJFKQ",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991709",
       "published_at": "2026-09-09T14:01:35+00:00",
-      "revalidated_at": "2026-09-09T21:45:55+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "B0F5LPQZPT",
@@ -1453,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19990593",
       "published_at": "2026-09-09T14:01:35+00:00",
-      "revalidated_at": "2026-09-09T22:01:05+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "B0HGM2M3LH",
@@ -1629,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991361",
       "published_at": "2026-09-09T12:16:39+00:00",
-      "revalidated_at": "2026-09-09T22:01:05+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "B0D14W6HLL",
@@ -2377,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19989783",
       "published_at": "2026-09-09T03:31:14+00:00",
-      "revalidated_at": "2026-09-09T21:45:55+00:00"
+      "revalidated_at": "2026-09-09T23:46:27+00:00"
     },
     {
       "asin": "B0GBXBYNVP",
@@ -2618,28 +2640,6 @@
       "url": "https://amazon.com/dp/B0GQT5XW6N/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19988499",
-      "published_at": "2026-09-09T02:16:41+00:00",
-      "revalidated_at": "2026-09-09T22:31:00+00:00"
-    },
-    {
-      "asin": "B0GQMQPTS4",
-      "title": "20 Head Deep Tissue Muscle Massager with 3 Modes & 30 Intensity Levels",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 32.99,
-      "price_old": 65.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": null,
-      "condition": "code",
-      "code": "2J58N0NL",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/4/4/3/2/8/1/4/450x450/21538134.thumb",
-      "url": "https://amazon.com/dp/B0GQMQPTS4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19989531",
       "published_at": "2026-09-09T02:16:41+00:00",
       "revalidated_at": "2026-09-09T22:31:00+00:00"
     }
