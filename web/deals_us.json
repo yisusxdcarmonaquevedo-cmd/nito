@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-09T03:31:15+00:00",
+  "generated_at": "2026-09-09T03:46:04+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0GC7FWVJ5",
+      "title": "$5.99 AMAZON AC Lerat Portable Handheld Turbo Fan, 5 High-Speed Wind, Battery Operated, Up to 12H Runtime, 3 IN 1 Hand Fan with LED Display & Flashlight",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.99,
+      "price_old": 57.0,
+      "currency": "USD",
+      "discount_pct": 89.5,
+      "rating": 4.5,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61kpJhVvjPL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GC7FWVJ5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19989792",
+      "published_at": "2026-09-09T03:46:04+00:00",
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
+    },
+    {
+      "asin": "B0FCLRF124",
+      "title": "Ultrean 110lb Digital Luggage Scale w/ Backlit LCD at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 6.99,
+      "price_old": 13.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/61Bh+A4tYIL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FCLRF124/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19988532",
+      "published_at": "2026-09-09T03:46:04+00:00",
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
+    },
+    {
+      "asin": "B0HFR4C6JS",
+      "title": "MERACH T12 Series Incline Treadmill (up to 300-Lbs, 16.5\" x 42.5\" Pad)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 200.0,
+      "price_old": 329.99,
+      "currency": "USD",
+      "discount_pct": 39.4,
+      "rating": 4.4,
+      "condition": "coupon",
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://m.media-amazon.com/images/I/71HScmH4KdL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0HFR4C6JS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19986885",
+      "published_at": "2026-09-09T03:46:04+00:00",
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
+    },
     {
       "asin": "B0GGM4DR1B",
       "title": "12-Pack APONUO 3CCT Solar Pathway Outdoor Lights w/ Spot Lens",
@@ -749,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987533",
       "published_at": "2026-09-08T22:02:03+00:00",
-      "revalidated_at": "2026-09-09T01:46:19+00:00"
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
     },
     {
       "asin": "B0H1W512VB",
@@ -771,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19988433",
       "published_at": "2026-09-08T22:02:03+00:00",
-      "revalidated_at": "2026-09-09T01:46:19+00:00"
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
     },
     {
       "asin": "B0CZRH35CY",
@@ -793,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19971039",
       "published_at": "2026-09-08T22:02:03+00:00",
-      "revalidated_at": "2026-09-09T01:46:19+00:00"
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
     },
     {
       "asin": "B0FD3R7C1D",
@@ -815,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19988586",
       "published_at": "2026-09-08T22:02:03+00:00",
-      "revalidated_at": "2026-09-09T01:46:19+00:00"
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
     },
     {
       "asin": "B071Z8X7V3",
@@ -837,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19988811",
       "published_at": "2026-09-08T22:02:03+00:00",
-      "revalidated_at": "2026-09-09T01:46:19+00:00"
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
     },
     {
       "asin": "B0B1231R8S",
@@ -1167,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19988334",
       "published_at": "2026-09-08T19:01:33+00:00",
-      "revalidated_at": "2026-09-09T01:31:39+00:00"
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
     },
     {
       "asin": "B0H6B3DJ69",
@@ -1189,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987062",
       "published_at": "2026-09-08T19:01:33+00:00",
-      "revalidated_at": "2026-09-09T01:31:39+00:00"
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
     },
     {
       "asin": "B0FM32F9W4",
@@ -1211,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19982355",
       "published_at": "2026-09-08T19:01:33+00:00",
-      "revalidated_at": "2026-09-09T01:31:39+00:00"
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
     },
     {
       "asin": "B0B5JSZ57V",
@@ -1497,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987563",
       "published_at": "2026-09-08T17:16:30+00:00",
-      "revalidated_at": "2026-09-09T01:31:39+00:00"
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
     },
     {
       "asin": "B0BM81ZMF7",
@@ -1519,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987032",
       "published_at": "2026-09-08T17:16:30+00:00",
-      "revalidated_at": "2026-09-09T01:46:19+00:00"
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
     },
     {
       "asin": "B0CY2NNX7H",
@@ -1563,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987479",
       "published_at": "2026-09-08T17:01:18+00:00",
-      "revalidated_at": "2026-09-09T01:31:39+00:00"
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
     },
     {
       "asin": "B0FHJZ2WJ8",
@@ -1585,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19986948",
       "published_at": "2026-09-08T17:01:18+00:00",
-      "revalidated_at": "2026-09-09T01:31:39+00:00"
+      "revalidated_at": "2026-09-09T03:46:04+00:00"
     },
     {
       "asin": "B0F87VDRZ3",
@@ -2576,50 +2642,6 @@
       "deal_key": "sd:19983021",
       "published_at": "2026-09-08T08:01:19+00:00",
       "revalidated_at": "2026-09-09T02:45:57+00:00"
-    },
-    {
-      "asin": "B07CR1L3ZN",
-      "title": "Dreyer's English: An Utterly Correct Guide to Clarity and Style (eBook) by Benjamin Dreyer",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 1.99,
-      "price_old": 9.99,
-      "currency": "USD",
-      "discount_pct": 80.1,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71ujv3B7hoL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07CR1L3ZN/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19983498",
-      "published_at": "2026-09-08T07:46:07+00:00",
-      "revalidated_at": "2026-09-09T02:45:57+00:00"
-    },
-    {
-      "asin": "B0CC4T6WLT",
-      "title": "16\" PESUTEN Wireless Battery-Operated Picture Light w/ Remote",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 13.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 61.5,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "57D3ZUQA",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/610snTIFCBL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CC4T6WLT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19984722",
-      "published_at": "2026-09-08T07:16:14+00:00",
-      "revalidated_at": "2026-09-09T02:01:40+00:00"
     }
   ]
 }
