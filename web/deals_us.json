@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-10T06:46:22+00:00",
+  "generated_at": "2026-09-10T07:01:29+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0DRN7VBPM",
+      "title": "V VALANCH Mens Texture Polo Shirts Short Sleeve Lightweight Cool Dry Business Casual Golf Polo Collared Shirt",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 10.0,
+      "price_old": 35.99,
+      "currency": "USD",
+      "discount_pct": 72.2,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/6/7/9/8/5/450x450/21549015.thumb",
+      "url": "https://amazon.com/dp/B0DRN7VBPM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19994232",
+      "published_at": "2026-09-10T07:01:29+00:00",
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
+    },
+    {
+      "asin": "B0F2YW1TLQ",
+      "title": "65W ORICO 7-in-1 GaN USB Travel Power Strip Charging Station (4 Colors)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.79,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 34.0,
+      "rating": null,
+      "condition": "code",
+      "code": "WOG2JAGY",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/0/4/4/1/0/9/7/450x450/21550260.thumb",
+      "url": "https://amazon.com/dp/B0F2YW1TLQ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19994721",
+      "published_at": "2026-09-10T07:01:29+00:00",
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
+    },
     {
       "asin": "B0F6TM5LJR",
       "title": "$3.99 ac PRIME FS KYEHD USB C to USB C Cable 10ft 3 Pack 60W Fast Charging Long Charger Cord",
@@ -36,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 42.9,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "Z2YNB74J",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/1/1/9/6/7/1/6/450x450/21546135.thumb",
+      "image": "https://m.media-amazon.com/images/I/811BfKSdlDL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FHH634H4/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19992861",
@@ -463,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993200",
       "published_at": "2026-09-09T23:31:44+00:00",
-      "revalidated_at": "2026-09-10T05:16:18+00:00"
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
     },
     {
       "asin": "B0FHBVS6GC",
@@ -485,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992669",
       "published_at": "2026-09-09T23:31:44+00:00",
-      "revalidated_at": "2026-09-10T05:16:18+00:00"
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
     },
     {
       "asin": "B0G2RFWPH9",
@@ -705,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19989660",
       "published_at": "2026-09-09T21:45:55+00:00",
-      "revalidated_at": "2026-09-10T05:16:18+00:00"
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
     },
     {
       "asin": "B0D3DWX7SV",
@@ -1013,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991397",
       "published_at": "2026-09-09T19:46:20+00:00",
-      "revalidated_at": "2026-09-10T05:16:18+00:00"
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
     },
     {
       "asin": "B0GQT28SHG",
@@ -1035,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992630",
       "published_at": "2026-09-09T19:46:20+00:00",
-      "revalidated_at": "2026-09-10T05:16:18+00:00"
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
     },
     {
       "asin": "B00NJ2M33I",
@@ -1123,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19988040",
       "published_at": "2026-09-09T19:31:33+00:00",
-      "revalidated_at": "2026-09-10T05:16:18+00:00"
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
     },
     {
       "asin": "B0C1713XDC",
@@ -1321,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987002",
       "published_at": "2026-09-09T18:01:32+00:00",
-      "revalidated_at": "2026-09-10T05:16:18+00:00"
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
     },
     {
       "asin": "B083QRBZSY",
@@ -1343,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19990044",
       "published_at": "2026-09-09T17:46:32+00:00",
-      "revalidated_at": "2026-09-10T05:16:18+00:00"
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
     },
     {
       "asin": "B0GQLVJMST",
@@ -1365,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991895",
       "published_at": "2026-09-09T17:46:32+00:00",
-      "revalidated_at": "2026-09-10T05:16:18+00:00"
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
     },
     {
       "asin": "B0FMS68R65",
@@ -2201,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19990392",
       "published_at": "2026-09-09T09:16:26+00:00",
-      "revalidated_at": "2026-09-10T05:16:18+00:00"
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
     },
     {
       "asin": "B0G1SYWB7M",
@@ -2223,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19990227",
       "published_at": "2026-09-09T09:16:26+00:00",
-      "revalidated_at": "2026-09-10T05:16:18+00:00"
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
     },
     {
       "asin": "B0D5JKKPQ1",
@@ -2487,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19989018",
       "published_at": "2026-09-09T05:16:39+00:00",
-      "revalidated_at": "2026-09-10T05:01:16+00:00"
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
     },
     {
       "asin": "B0FP2C255J",
@@ -2553,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19990110",
       "published_at": "2026-09-09T05:01:48+00:00",
-      "revalidated_at": "2026-09-10T05:01:16+00:00"
+      "revalidated_at": "2026-09-10T07:01:29+00:00"
     },
     {
       "asin": "B082PKZLW3",
@@ -2598,50 +2642,6 @@
       "deal_key": "sd:19984989",
       "published_at": "2026-09-09T05:01:48+00:00",
       "revalidated_at": "2026-09-10T05:31:31+00:00"
-    },
-    {
-      "asin": "B0H1X3CZH2",
-      "title": "PINSPARK Women's UPF 50+ Long Sleeve Workout Top (Various)",
-      "title_es": "Top de manga larga PINSPARK UPF 50+ para mujer (varios modelos)",
-      "headline": null,
-      "post": "Este top de manga larga PINSPARK ofrece protección UPF 50+ y es ideal para tus entrenamientos al aire libre o actividades deportivas. Su diseño cómodo y transpirable lo hace perfecto para mujeres activas que buscan estilo y funcionalidad.",
-      "post_en": "This PINSPARK long-sleeve top offers UPF 50+ protection and is ideal for your outdoor workouts or sports activities. Its comfortable and breathable design makes it perfect for active women seeking style and functionality.",
-      "price_new": 5.0,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 85.7,
-      "rating": null,
-      "condition": "code",
-      "code": "1WUHOXSP",
-      "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/3/0/6/6/3/5/5/9/450x450/21536463.thumb",
-      "url": "https://amazon.com/dp/B0H1X3CZH2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19988679",
-      "published_at": "2026-09-09T04:31:36+00:00",
-      "revalidated_at": "2026-09-10T06:03:35+00:00"
-    },
-    {
-      "asin": "B0GYWJ6CY9",
-      "title": "Amazon - A-Pce Cervical Neck Pillow, Memory Foam Pillow, Contour Dual Height Blue -",
-      "title_es": "Almohada cervical A-Pce de Amazon de espuma viscoelástica (altura dual, azul)",
-      "headline": null,
-      "post": "La almohada cervical A-Pce de Amazon está diseñada con espuma viscoelástica y contorno de doble altura para ofrecer un soporte óptimo al cuello. Es ideal para quienes buscan mejorar la calidad del sueño y aliviar molestias cervicales.",
-      "post_en": "The Amazon A-Pce cervical neck pillow is designed with memory foam and a dual-height contour to provide optimal neck support. It is ideal for those looking to improve sleep quality and relieve neck discomfort.",
-      "price_new": 14.99,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/8/9/8/9/5/2/450x450/21538515.thumb",
-      "url": "https://amazon.com/dp/B0GYWJ6CY9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19989702",
-      "published_at": "2026-09-09T04:31:36+00:00",
-      "revalidated_at": "2026-09-10T06:03:35+00:00"
     }
   ]
 }
