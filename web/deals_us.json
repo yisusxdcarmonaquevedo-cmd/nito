@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-10T20:16:23+00:00",
+  "generated_at": "2026-09-10T20:31:18+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0GXTVX9S1",
+      "title": "18\" Lovevook Backpack w/ Laptop Sleeve & 40-Oz Tumbler Pocket (Mint Green-Beige-Light Blue)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 74.3,
+      "rating": null,
+      "condition": "code",
+      "code": "LOVE9MHL",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/21558339.thumb",
+      "url": "https://amazon.com/dp/B0GXTVX9S1/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19998138",
+      "published_at": "2026-09-10T20:31:18+00:00",
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
+    },
     {
       "asin": "B0CZ6WCHGF",
       "title": "NIIMBOT D110 Bluetooth Label Printer Machine (White)",
@@ -36,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 63.9,
-      "rating": null,
+      "rating": 4.6,
       "condition": "coupon",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/21525657.thumb",
+      "image": "https://m.media-amazon.com/images/I/71xWOiZZxGL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FXBJNFX9/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19983951",
@@ -309,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993704",
       "published_at": "2026-09-10T18:31:21+00:00",
-      "revalidated_at": "2026-09-10T18:31:21+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B0BTYQ8BGB",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19997502",
       "published_at": "2026-09-10T18:31:21+00:00",
-      "revalidated_at": "2026-09-10T18:31:21+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B07ZYK3WDD",
@@ -837,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19994973",
       "published_at": "2026-09-10T14:46:28+00:00",
-      "revalidated_at": "2026-09-10T18:31:21+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B002HUU0G0",
@@ -1079,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19995585",
       "published_at": "2026-09-10T12:46:26+00:00",
-      "revalidated_at": "2026-09-10T18:31:21+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B0CR1HQRDX",
@@ -1651,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993287",
       "published_at": "2026-09-10T06:31:22+00:00",
-      "revalidated_at": "2026-09-10T18:19:31+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B0FHH634H4",
@@ -1849,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19994643",
       "published_at": "2026-09-10T02:46:23+00:00",
-      "revalidated_at": "2026-09-10T18:19:31+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B0DKW2H52M",
@@ -1871,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993668",
       "published_at": "2026-09-10T02:46:23+00:00",
-      "revalidated_at": "2026-09-10T18:19:31+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B0BJTVLVX4",
@@ -1981,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19994226",
       "published_at": "2026-09-10T00:46:45+00:00",
-      "revalidated_at": "2026-09-10T18:19:31+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B00261ZYB6",
@@ -2003,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993998",
       "published_at": "2026-09-10T00:46:45+00:00",
-      "revalidated_at": "2026-09-10T18:19:31+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B0GZT2LC2Q",
@@ -2025,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991832",
       "published_at": "2026-09-10T00:31:32+00:00",
-      "revalidated_at": "2026-09-10T18:19:31+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B0D3HG19D9",
@@ -2047,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991826",
       "published_at": "2026-09-10T00:31:32+00:00",
-      "revalidated_at": "2026-09-10T18:19:31+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B0H3MXTPDR",
@@ -2135,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19988697",
       "published_at": "2026-09-09T23:16:50+00:00",
-      "revalidated_at": "2026-09-10T18:19:31+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B09LD8VXLX",
@@ -2157,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993764",
       "published_at": "2026-09-09T23:16:50+00:00",
-      "revalidated_at": "2026-09-10T18:19:31+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B07QBC8QTP",
@@ -2421,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993296",
       "published_at": "2026-09-09T20:46:37+00:00",
-      "revalidated_at": "2026-09-10T18:19:31+00:00"
+      "revalidated_at": "2026-09-10T20:31:18+00:00"
     },
     {
       "asin": "B000022456",
@@ -2618,28 +2640,6 @@
       "url": "https://amazon.com/dp/B0GS1Q662K/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19991397",
-      "published_at": "2026-09-09T19:46:20+00:00",
-      "revalidated_at": "2026-09-10T19:31:36+00:00"
-    },
-    {
-      "asin": "B0GQT28SHG",
-      "title": "VSTM DC 6-42V Automotive Wire Tracer & Open/Short Circuit Finder",
-      "title_es": "Rastreador de Cables Automotriz VSTM DC 6-42V y Buscador de Circuitos Abiertos/Cortos",
-      "headline": null,
-      "post": "Este rastreador de cables automotriz VSTM es una herramienta esencial para electricistas y entusiastas del automóvil. Permite localizar rápidamente cables, identificar circuitos abiertos o cortos en sistemas de 6-42V.",
-      "post_en": "This VSTM DC 6-42V automotive wire tracer is an essential tool for electricians and car enthusiasts. It quickly locates wires and identifies open or short circuits in 6-42V systems.",
-      "price_new": 20.89,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 40.3,
-      "rating": 4.2,
-      "condition": "code",
-      "code": "UC6C7PWQ",
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71Lf3aFYN6L._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GQT28SHG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19992630",
       "published_at": "2026-09-09T19:46:20+00:00",
       "revalidated_at": "2026-09-10T19:31:36+00:00"
     }
