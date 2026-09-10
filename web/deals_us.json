@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-10T08:16:36+00:00",
+  "generated_at": "2026-09-10T08:31:43+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0CX6GS3VS",
+      "title": "Kung Fu Panda: 4-Movie Collection (Blu-ray + Digital HD) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 22.99,
+      "price_old": 57.99,
+      "currency": "USD",
+      "discount_pct": 60.4,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21551250.thumb",
+      "url": "https://amazon.com/dp/B0CX6GS3VS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19995126",
+      "published_at": "2026-09-10T08:31:43+00:00",
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
+    },
     {
       "asin": "B0DRN7VBPM",
       "title": "V VALANCH Mens Texture Polo Shirts Short Sleeve Lightweight Cool Dry Business Casual Golf Polo Collared Shirt",
@@ -36,11 +58,11 @@
       "price_old": 29.99,
       "currency": "USD",
       "discount_pct": 34.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "WOG2JAGY",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/0/4/4/1/0/9/7/450x450/21550260.thumb",
+      "image": "https://m.media-amazon.com/images/I/61EJUu-t4fL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F2YW1TLQ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19994721",
@@ -67,7 +89,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993287",
       "published_at": "2026-09-10T06:31:22+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B0FHH634H4",
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19994643",
       "published_at": "2026-09-10T02:46:23+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B0DKW2H52M",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993668",
       "published_at": "2026-09-10T02:46:23+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B0BJTVLVX4",
@@ -551,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19988697",
       "published_at": "2026-09-09T23:16:50+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B09LD8VXLX",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993764",
       "published_at": "2026-09-09T23:16:50+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B07QBC8QTP",
@@ -815,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992435",
       "published_at": "2026-09-09T21:00:58+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B0GWLYV2GZ",
@@ -1189,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992639",
       "published_at": "2026-09-09T19:16:39+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B0916MW7CG",
@@ -1211,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993026",
       "published_at": "2026-09-09T19:16:39+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B0BTYCRJSS",
@@ -1277,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992615",
       "published_at": "2026-09-09T19:01:40+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B0C2JL516N",
@@ -1299,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992786",
       "published_at": "2026-09-09T19:01:40+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B0DRW5M4S8",
@@ -1475,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987485",
       "published_at": "2026-09-09T17:01:35+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B0BQQMNGW8",
@@ -1497,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992267",
       "published_at": "2026-09-09T17:01:35+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B0F8H5X4L8",
@@ -1893,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991598",
       "published_at": "2026-09-09T13:31:50+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B0CLYN2NWP",
@@ -1915,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991142",
       "published_at": "2026-09-09T13:16:37+00:00",
-      "revalidated_at": "2026-09-10T06:31:22+00:00"
+      "revalidated_at": "2026-09-10T08:31:43+00:00"
     },
     {
       "asin": "B0CYKT7G7X",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:19982193",
       "published_at": "2026-09-09T05:01:48+00:00",
       "revalidated_at": "2026-09-10T07:16:28+00:00"
-    },
-    {
-      "asin": "B0G7NKPKCZ",
-      "title": "ARTISTRO 36 Dual-Tip Acrylic Paint Marker Pens for Drawing",
-      "title_es": "Rotuladores acrílicos ARTISTRO de doble punta (36 unidades)",
-      "headline": null,
-      "post": "Descubre este set de 36 rotuladores acrílicos ARTISTRO con doble punta, ideales para dar rienda suelta a tu creatividad en diversas superficies. Son perfectos para artistas, aficionados y estudiantes que disfrutan del dibujo y la pintura. 🎨",
-      "post_en": "Discover this set of 36 ARTISTRO dual-tip acrylic marker pens, ideal for unleashing your creativity on various surfaces. They are perfect for artists, hobbyists, and students who enjoy drawing and painting. 🎨",
-      "price_new": 9.95,
-      "price_old": 14.99,
-      "currency": "USD",
-      "discount_pct": 33.6,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/7/9/3/8/8/9/1/450x450/21527748.thumb",
-      "url": "https://amazon.com/dp/B0G7NKPKCZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19984989",
-      "published_at": "2026-09-09T05:01:48+00:00",
-      "revalidated_at": "2026-09-10T07:31:31+00:00"
     }
   ]
 }
