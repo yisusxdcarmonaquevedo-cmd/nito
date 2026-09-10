@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-10T15:31:38+00:00",
+  "generated_at": "2026-09-10T15:46:33+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0CR42V438",
+      "title": "15-oz GloTika Stainless Steel Potato Masher Ricer (black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.5,
+      "price_old": 26.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.5,
+      "condition": "code",
+      "code": "RFE7T9ZI",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71OFYhUs0mL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CR42V438/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19991904",
+      "published_at": "2026-09-10T15:46:33+00:00",
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
+    },
     {
       "asin": "B0H3Z86PT7",
       "title": "2-Pack 45W Wegear Nano Foldable USB-C Wall Charger (Black or White)",
@@ -36,11 +58,11 @@
       "price_old": 139.99,
       "currency": "USD",
       "discount_pct": 60.7,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/21554802.thumb",
+      "image": "https://m.media-amazon.com/images/I/715iUtFrm9L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H28MQHY7/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19996653",
@@ -177,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19995918",
       "published_at": "2026-09-10T13:46:08+00:00",
-      "revalidated_at": "2026-09-10T13:46:08+00:00"
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
     },
     {
       "asin": "B0F4Y39JKH",
@@ -199,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19995456",
       "published_at": "2026-09-10T13:46:08+00:00",
-      "revalidated_at": "2026-09-10T13:46:08+00:00"
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
     },
     {
       "asin": "B0GXYR4JJM",
@@ -463,29 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993290",
       "published_at": "2026-09-10T11:46:46+00:00",
-      "revalidated_at": "2026-09-10T13:46:08+00:00"
-    },
-    {
-      "asin": "B00004Z49P",
-      "title": "Scotch General Purpose Contractor Grade Masking Tape (1.41'' x 60.1 Yd.) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 2.98,
-      "price_old": 7.01,
-      "currency": "USD",
-      "discount_pct": 57.5,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81WE7oOCCZL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00004Z49P/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19995690",
-      "published_at": "2026-09-10T11:46:46+00:00",
-      "revalidated_at": "2026-09-10T13:46:08+00:00"
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
     },
     {
       "asin": "B0GT4MFVFQ",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19995783",
       "published_at": "2026-09-10T11:46:46+00:00",
-      "revalidated_at": "2026-09-10T13:46:08+00:00"
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
     },
     {
       "asin": "B0BL75738K",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993608",
       "published_at": "2026-09-10T10:01:37+00:00",
-      "revalidated_at": "2026-09-10T13:46:08+00:00"
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
     },
     {
       "asin": "B0G6352TK4",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991979",
       "published_at": "2026-09-10T10:01:37+00:00",
-      "revalidated_at": "2026-09-10T13:46:08+00:00"
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
     },
     {
       "asin": "B0D7745M83",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19994430",
       "published_at": "2026-09-10T04:16:28+00:00",
-      "revalidated_at": "2026-09-10T13:46:08+00:00"
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
     },
     {
       "asin": "B0H6FS2H1F",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992750",
       "published_at": "2026-09-10T04:16:28+00:00",
-      "revalidated_at": "2026-09-10T13:46:08+00:00"
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
     },
     {
       "asin": "B0CHCJGPLZ",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19986942",
       "published_at": "2026-09-09T16:01:40+00:00",
-      "revalidated_at": "2026-09-10T13:31:31+00:00"
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
     },
     {
       "asin": "B0DWDX352W",
@@ -2421,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987371",
       "published_at": "2026-09-09T15:46:29+00:00",
-      "revalidated_at": "2026-09-10T13:31:31+00:00"
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
     },
     {
       "asin": "B0FSJPZB4V",
@@ -2465,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991502",
       "published_at": "2026-09-09T14:46:27+00:00",
-      "revalidated_at": "2026-09-10T13:46:08+00:00"
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
     },
     {
       "asin": "B06XPGNLKT",
@@ -2487,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991790",
       "published_at": "2026-09-09T14:46:27+00:00",
-      "revalidated_at": "2026-09-10T13:46:08+00:00"
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
     },
     {
       "asin": "B0993K4VB7",
@@ -2509,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991802",
       "published_at": "2026-09-09T14:46:27+00:00",
-      "revalidated_at": "2026-09-10T13:46:08+00:00"
+      "revalidated_at": "2026-09-10T15:46:33+00:00"
     },
     {
       "asin": "B0DX3ZYFPB",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19990593",
       "published_at": "2026-09-09T14:01:35+00:00",
       "revalidated_at": "2026-09-10T14:01:32+00:00"
-    },
-    {
-      "asin": "B0HGM2M3LH",
-      "title": "Amazon – ANCOBER 20W Portable Bluetooth Speaker -",
-      "title_es": "Altavoz Bluetooth Portátil ANCOBER de 20W",
-      "headline": null,
-      "post": "Este altavoz Bluetooth portátil ANCOBER de 20W ofrece un sonido potente en un formato compacto. Es perfecto para llevar tu música a cualquier lugar, ya sea en casa o al aire libre. 🎶",
-      "post_en": "This ANCOBER 20W portable Bluetooth speaker delivers powerful sound in a compact form factor. It's perfect for taking your music anywhere, whether at home or outdoors. 🎶",
-      "price_new": 19.4,
-      "price_old": 49.99,
-      "currency": "USD",
-      "discount_pct": 61.2,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "KZ47WCJD",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71u3S+psxbL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0HGM2M3LH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19991598",
-      "published_at": "2026-09-09T13:31:50+00:00",
-      "revalidated_at": "2026-09-10T15:01:25+00:00"
     }
   ]
 }
