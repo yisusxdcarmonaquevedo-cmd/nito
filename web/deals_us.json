@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-10T22:16:07+00:00",
+  "generated_at": "2026-09-10T22:31:08+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0CCWDTSKW",
+      "title": "AIGLUN LED Halloween Mask",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.19,
+      "price_old": 31.99,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": 4.4,
+      "condition": "coupon",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81VuJLLekkL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CCWDTSKW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19981629",
+      "published_at": "2026-09-10T22:31:08+00:00",
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
+    },
     {
       "asin": "B0DZ36T7T2",
       "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 (PlayStation 5) at Amazon",
@@ -243,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19997613",
       "published_at": "2026-09-10T20:46:10+00:00",
-      "revalidated_at": "2026-09-10T20:46:10+00:00"
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
     },
     {
       "asin": "B0GXTVX9S1",
@@ -532,28 +554,6 @@
       "revalidated_at": "2026-09-10T20:58:17+00:00"
     },
     {
-      "asin": "B0FR94B96M",
-      "title": "2-Pack Spriak Rechargeable EDC Pocket Flashlight w/ Clip & USB-C Port",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 7.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 78.6,
-      "rating": 4.0,
-      "condition": "code",
-      "code": "EQEIRZOY",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/7118ail3x5L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FR94B96M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19997652",
-      "published_at": "2026-09-10T18:46:23+00:00",
-      "revalidated_at": "2026-09-10T20:46:10+00:00"
-    },
-    {
       "asin": "B0H14414RZ",
       "title": "Alaroo Women's Quarter-Zip Long Sleeve Fishing Workout Top (Various)",
       "title_es": null,
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991214",
       "published_at": "2026-09-10T17:01:30+00:00",
-      "revalidated_at": "2026-09-10T20:46:10+00:00"
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
     },
     {
       "asin": "B001P0MWY6",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19995639",
       "published_at": "2026-09-10T17:01:30+00:00",
-      "revalidated_at": "2026-09-10T20:46:10+00:00"
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
     },
     {
       "asin": "B0CLLSC4BF",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19996944",
       "published_at": "2026-09-10T17:01:30+00:00",
-      "revalidated_at": "2026-09-10T20:46:10+00:00"
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
     },
     {
       "asin": "B0DRW76BVK",
@@ -960,11 +960,11 @@
       "price_old": 69.99,
       "currency": "USD",
       "discount_pct": 64.1,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/6/7/9/8/1/2/450x450/21556563.thumb",
+      "image": "https://m.media-amazon.com/images/I/71jvxQ6NoqL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BXBC26X8/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19995972",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19995564",
       "published_at": "2026-09-10T11:02:09+00:00",
-      "revalidated_at": "2026-09-10T20:46:10+00:00"
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
     },
     {
       "asin": "B08FQZG8GK",
@@ -1585,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993845",
       "published_at": "2026-09-10T11:02:09+00:00",
-      "revalidated_at": "2026-09-10T20:46:10+00:00"
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
     },
     {
       "asin": "B0DF1D5M62",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992963",
       "published_at": "2026-09-10T11:02:09+00:00",
-      "revalidated_at": "2026-09-10T20:46:10+00:00"
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
     },
     {
       "asin": "B00JUM36R8",
@@ -1827,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19975590",
       "published_at": "2026-09-10T09:01:43+00:00",
-      "revalidated_at": "2026-09-10T20:46:10+00:00"
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
     },
     {
       "asin": "B0CX6GS3VS",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19994232",
       "published_at": "2026-09-10T07:01:29+00:00",
-      "revalidated_at": "2026-09-10T20:46:10+00:00"
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
     },
     {
       "asin": "B0F2YW1TLQ",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991832",
       "published_at": "2026-09-10T00:31:32+00:00",
-      "revalidated_at": "2026-09-10T20:31:18+00:00"
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
     },
     {
       "asin": "B0D3HG19D9",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991826",
       "published_at": "2026-09-10T00:31:32+00:00",
-      "revalidated_at": "2026-09-10T20:31:18+00:00"
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
     },
     {
       "asin": "B0H3MXTPDR",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19988697",
       "published_at": "2026-09-09T23:16:50+00:00",
-      "revalidated_at": "2026-09-10T20:31:18+00:00"
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
     },
     {
       "asin": "B09LD8VXLX",
@@ -2421,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993764",
       "published_at": "2026-09-09T23:16:50+00:00",
-      "revalidated_at": "2026-09-10T20:31:18+00:00"
+      "revalidated_at": "2026-09-10T22:31:08+00:00"
     },
     {
       "asin": "B07QBC8QTP",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19992294",
       "published_at": "2026-09-09T21:30:57+00:00",
       "revalidated_at": "2026-09-10T20:46:10+00:00"
-    },
-    {
-      "asin": "B0GC4RLGVJ",
-      "title": "PINSPARK Men's UPF 50+ Long Sleeve Fishing Hoodie Rash Guard Tee (Various)",
-      "title_es": "Camiseta con capucha de manga larga PINSPARK UPF 50+ para pesca (varios)",
-      "headline": null,
-      "post": "Protege tu piel del sol con esta camiseta PINSPARK UPF 50+ de manga larga y capucha, ideal para la pesca. Su tejido rash guard te mantendrá cómodo y protegido durante tus actividades al aire libre.",
-      "post_en": "Protect your skin from the sun with this PINSPARK UPF 50+ long-sleeve fishing hoodie rash guard tee. Its rash guard fabric will keep you comfortable and protected during your outdoor activities.",
-      "price_new": 7.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 78.6,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "JWJ4DMCE",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71a4qtMX7FL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GC4RLGVJ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19992945",
-      "published_at": "2026-09-09T21:00:58+00:00",
-      "revalidated_at": "2026-09-10T20:58:17+00:00"
     }
   ]
 }
