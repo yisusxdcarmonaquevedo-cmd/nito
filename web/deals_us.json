@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-10T11:16:29+00:00",
+  "generated_at": "2026-09-10T11:31:47+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0BL75738K",
+      "title": "15-Pack 16-Oz Monster Energy Lo-Carb Energy Drinks",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.84,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 57.6,
+      "rating": 4.6,
+      "condition": "coupon",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/617XoiJXjQL._SL1200_.jpg",
+      "url": "https://amazon.com/dp/B0BL75738K/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19995633",
+      "published_at": "2026-09-10T11:31:47+00:00",
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
+    },
     {
       "asin": "B08DRRJBC6",
       "title": "PowerA Enhanced Nintendo Switch Wireless Controller w/ Motion (Black) at Amazon",
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19988982",
       "published_at": "2026-09-10T09:46:41+00:00",
-      "revalidated_at": "2026-09-10T09:46:41+00:00"
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
     },
     {
       "asin": "B0C26LKP9D",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19995246",
       "published_at": "2026-09-10T09:46:41+00:00",
-      "revalidated_at": "2026-09-10T09:46:41+00:00"
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
     },
     {
       "asin": "B0DCVB4LDP",
@@ -991,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992816",
       "published_at": "2026-09-09T22:31:00+00:00",
-      "revalidated_at": "2026-09-10T09:46:41+00:00"
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
     },
     {
       "asin": "B07QF2GG7G",
@@ -1211,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992120",
       "published_at": "2026-09-09T20:31:29+00:00",
-      "revalidated_at": "2026-09-10T09:46:41+00:00"
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
     },
     {
       "asin": "B0D3DV7MDM",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993179",
       "published_at": "2026-09-09T20:31:29+00:00",
-      "revalidated_at": "2026-09-10T09:46:41+00:00"
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
     },
     {
       "asin": "B0CN9RT5T4",
@@ -1827,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992390",
       "published_at": "2026-09-09T16:31:38+00:00",
-      "revalidated_at": "2026-09-10T09:46:41+00:00"
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
     },
     {
       "asin": "B00O29DIVI",
@@ -1849,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992456",
       "published_at": "2026-09-09T16:31:38+00:00",
-      "revalidated_at": "2026-09-10T09:46:41+00:00"
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
     },
     {
       "asin": "B0G4XNNC4T",
@@ -1981,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991502",
       "published_at": "2026-09-09T14:46:27+00:00",
-      "revalidated_at": "2026-09-10T09:46:41+00:00"
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
     },
     {
       "asin": "B06XPGNLKT",
@@ -2003,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991790",
       "published_at": "2026-09-09T14:46:27+00:00",
-      "revalidated_at": "2026-09-10T09:46:41+00:00"
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
     },
     {
       "asin": "B0993K4VB7",
@@ -2025,29 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991802",
       "published_at": "2026-09-09T14:46:27+00:00",
-      "revalidated_at": "2026-09-10T09:46:41+00:00"
-    },
-    {
-      "asin": "B09LYQQ6PD",
-      "title": "WAVLINK USB C + USB A to 2.5G Ethernet Adapter",
-      "title_es": "Adaptador Ethernet WAVLINK USB C + USB A a 2.5G",
-      "headline": null,
-      "post": "Este adaptador te permite conectar tu dispositivo a una red Ethernet de 2.5G para una conexión a internet ultrarrápida. Es ideal para usuarios que necesitan estabilidad y velocidad superior a la del Wi-Fi, compatible con puertos USB-C y USB-A. 🚀",
-      "post_en": "This adapter allows you to connect your device to a 2.5G Ethernet network for ultra-fast internet. It's ideal for users needing superior stability and speed over Wi-Fi, compatible with both USB-C and USB-A ports. 🚀",
-      "price_new": 12.0,
-      "price_old": 24.0,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.5,
-      "condition": "code",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71Rv+KTjblL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09LYQQ6PD/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19991988",
-      "published_at": "2026-09-09T14:46:27+00:00",
-      "revalidated_at": "2026-09-10T09:46:41+00:00"
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
     },
     {
       "asin": "B0DX3ZYFPB",
@@ -2091,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991868",
       "published_at": "2026-09-09T14:31:29+00:00",
-      "revalidated_at": "2026-09-10T09:31:31+00:00"
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
     },
     {
       "asin": "B000Y52D5G",
@@ -2113,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991817",
       "published_at": "2026-09-09T14:31:29+00:00",
-      "revalidated_at": "2026-09-10T09:31:31+00:00"
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
     },
     {
       "asin": "B0CGWGVPTG",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991742",
       "published_at": "2026-09-09T14:16:30+00:00",
-      "revalidated_at": "2026-09-10T09:31:31+00:00"
+      "revalidated_at": "2026-09-10T11:31:47+00:00"
     },
     {
       "asin": "B0F5LPQZPT",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:19971204",
       "published_at": "2026-09-09T07:46:28+00:00",
       "revalidated_at": "2026-09-10T10:01:37+00:00"
-    },
-    {
-      "asin": "B08JMD5Z6K",
-      "title": "All-Clad Stainless Steel Waffle Maker 4 Section, Thick Belgium Waffle Makers, Upright Storage 1600 Watts, Nonstick, 6 Browning Levels, Dishwasher Safe",
-      "title_es": "Gofrera All-Clad de Acero Inoxidable de 4 Secciones para Gofres Belgas Gruesos, 1600W, Antiadherente, 6 Niveles de Tostado, Apta para Lavavajillas",
-      "headline": null,
-      "post": "Esta gofrera All-Clad de acero inoxidable prepara 4 gofres belgas gruesos con 6 niveles de tostado y es antiadherente. Su diseño permite almacenamiento vertical y es apta para lavavajillas, ideal para amantes de los gofres.",
-      "post_en": "This All-Clad stainless steel waffle maker prepares 4 thick Belgian waffles with 6 browning levels and is nonstick. Its design allows for upright storage and it's dishwasher safe, ideal for waffle lovers.",
-      "price_new": 179.96,
-      "price_old": 269.99,
-      "currency": "USD",
-      "discount_pct": 33.3,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/21472200.thumb",
-      "url": "https://amazon.com/dp/B08JMD5Z6K/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19960155",
-      "published_at": "2026-09-09T07:31:30+00:00",
-      "revalidated_at": "2026-09-10T11:16:29+00:00"
     }
   ]
 }
