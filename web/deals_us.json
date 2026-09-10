@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T09:01:43+00:00",
+  "generated_at": "2026-09-10T09:16:40+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0DCVB4LDP",
@@ -102,11 +102,11 @@
       "price_old": 56.0,
       "currency": "USD",
       "discount_pct": 92.9,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "H9KNWWNQ",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/21547233.thumb",
+      "image": "https://m.media-amazon.com/images/I/81Ih3NzDhpL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F6TM5LJR/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19993287",
@@ -155,7 +155,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19988874",
       "published_at": "2026-09-10T05:31:31+00:00",
-      "revalidated_at": "2026-09-10T07:16:28+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     },
     {
       "asin": "B0FFSXX1RM",
@@ -265,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19994604",
       "published_at": "2026-09-10T03:31:50+00:00",
-      "revalidated_at": "2026-09-10T07:16:28+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     },
     {
       "asin": "B0DBL338S5",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19990578",
       "published_at": "2026-09-10T03:31:50+00:00",
-      "revalidated_at": "2026-09-10T07:16:28+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     },
     {
       "asin": "B00555EWJU",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992075",
       "published_at": "2026-09-09T23:46:27+00:00",
-      "revalidated_at": "2026-09-10T07:16:28+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     },
     {
       "asin": "B07SZKSGBY",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993656",
       "published_at": "2026-09-09T22:01:05+00:00",
-      "revalidated_at": "2026-09-10T07:16:28+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     },
     {
       "asin": "B0D9CMW6NJ",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993440",
       "published_at": "2026-09-09T22:01:05+00:00",
-      "revalidated_at": "2026-09-10T07:16:28+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     },
     {
       "asin": "1339028018",
@@ -872,11 +872,11 @@
       "price_old": 119.99,
       "currency": "USD",
       "discount_pct": 58.5,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "HGGQOPCF",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21547239.thumb",
+      "image": "https://m.media-amazon.com/images/I/71xkdHaJXHL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GWLYV2GZ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19993296",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993032",
       "published_at": "2026-09-09T20:01:33+00:00",
-      "revalidated_at": "2026-09-10T07:16:28+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     },
     {
       "asin": "B0GGBJC6BR",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991982",
       "published_at": "2026-09-09T20:01:33+00:00",
-      "revalidated_at": "2026-09-10T07:16:28+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     },
     {
       "asin": "B0FMRV78S5",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992405",
       "published_at": "2026-09-09T20:01:33+00:00",
-      "revalidated_at": "2026-09-10T07:16:28+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     },
     {
       "asin": "B0GS1Q662K",
@@ -1368,28 +1368,6 @@
       "revalidated_at": "2026-09-10T08:01:32+00:00"
     },
     {
-      "asin": "B0C8RQJ4L2",
-      "title": "PowerA Solo Charging Stand (Xbox Series X|S) at Amazon",
-      "title_es": "Base de Carga Individual PowerA para Xbox Series X|S",
-      "headline": null,
-      "post": "Mantén tu mando de Xbox Series X|S siempre listo con esta base de carga individual PowerA. Ofrece una solución elegante y cómoda para cargar tu mando sin cables.",
-      "post_en": "Keep your Xbox Series X|S controller always ready with this PowerA Solo Charging Stand. It offers a sleek and convenient solution for charging your controller wirelessly.",
-      "price_new": 10.03,
-      "price_old": 22.99,
-      "currency": "USD",
-      "discount_pct": 56.4,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61hr92++vkL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0C8RQJ4L2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19992717",
-      "published_at": "2026-09-09T18:16:26+00:00",
-      "revalidated_at": "2026-09-10T07:16:28+00:00"
-    },
-    {
       "asin": "B08C2CFNT2",
       "title": "TOPSKY Dual Motor Electric Adjustable Standing Desk Frame (Various Colors)",
       "title_es": "Estructura de Escritorio de Pie Ajustable Eléctrico TOPSKY de Doble Motor",
@@ -1651,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19991910",
       "published_at": "2026-09-09T16:01:40+00:00",
-      "revalidated_at": "2026-09-10T07:16:28+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     },
     {
       "asin": "B0F9FLVD1P",
@@ -2399,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19960155",
       "published_at": "2026-09-09T07:31:30+00:00",
-      "revalidated_at": "2026-09-10T07:16:28+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     },
     {
       "asin": "B0GPWDL1RT",
@@ -2421,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19985937",
       "published_at": "2026-09-09T07:16:30+00:00",
-      "revalidated_at": "2026-09-10T07:16:28+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     },
     {
       "asin": "B01N52DUNK",
@@ -2575,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19989018",
       "published_at": "2026-09-09T05:16:39+00:00",
-      "revalidated_at": "2026-09-10T07:01:29+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     },
     {
       "asin": "B0FP2C255J",
@@ -2641,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19990110",
       "published_at": "2026-09-09T05:01:48+00:00",
-      "revalidated_at": "2026-09-10T07:01:29+00:00"
+      "revalidated_at": "2026-09-10T09:16:40+00:00"
     }
   ]
 }
