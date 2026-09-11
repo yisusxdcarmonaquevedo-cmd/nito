@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-11T18:15:52+00:00",
+  "generated_at": "2026-09-11T18:30:57+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B0F99Q5RDS",
+      "title": "[Prime] Wegear Wireless Keyboard & Mouse Combo",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.49,
+      "price_old": 22.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "BQE3A8BR",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71Ql0OFBxZL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0F99Q5RDS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20002104",
+      "published_at": "2026-09-11T18:30:57+00:00",
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
+    },
     {
       "asin": "B08TB8Z5HF",
       "title": "(Used-Like New) 4-Pack 800-Lumen Kasa Full-Color Smart Light Bulbs",
@@ -14,11 +36,11 @@
       "price_old": 34.99,
       "currency": "USD",
       "discount_pct": 61.1,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21565254.thumb",
+      "image": "https://m.media-amazon.com/images/I/6109naeAfLL._AC_SL1469_.jpg",
       "url": "https://amazon.com/dp/B08TB8Z5HF/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20000826",
@@ -507,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20000328",
       "published_at": "2026-09-11T13:00:59+00:00",
-      "revalidated_at": "2026-09-11T16:46:03+00:00"
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
     },
     {
       "asin": "B0FMNN3T5L",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20000802",
       "published_at": "2026-09-11T11:01:22+00:00",
-      "revalidated_at": "2026-09-11T16:46:03+00:00"
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
     },
     {
       "asin": "B0H5CD5NV9",
@@ -727,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19996758",
       "published_at": "2026-09-11T11:01:22+00:00",
-      "revalidated_at": "2026-09-11T16:46:03+00:00"
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
     },
     {
       "asin": "B0DJ19VGDD",
@@ -815,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20000325",
       "published_at": "2026-09-11T09:01:16+00:00",
-      "revalidated_at": "2026-09-11T16:46:03+00:00"
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
     },
     {
       "asin": "B086YHKSJX",
@@ -947,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19997373",
       "published_at": "2026-09-11T07:01:07+00:00",
-      "revalidated_at": "2026-09-11T16:46:03+00:00"
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
     },
     {
       "asin": "B0H7C3R9GZ",
@@ -1189,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19997829",
       "published_at": "2026-09-11T03:15:44+00:00",
-      "revalidated_at": "2026-09-11T16:46:03+00:00"
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
     },
     {
       "asin": "B0B9H8W8HP",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19994007",
       "published_at": "2026-09-11T02:45:50+00:00",
-      "revalidated_at": "2026-09-11T16:30:54+00:00"
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
     },
     {
       "asin": "B0GT9K3BKY",
@@ -1673,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19994820",
       "published_at": "2026-09-11T00:45:53+00:00",
-      "revalidated_at": "2026-09-11T16:30:54+00:00"
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
     },
     {
       "asin": "B0FCY6C8LP",
@@ -1893,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19998279",
       "published_at": "2026-09-10T23:16:04+00:00",
-      "revalidated_at": "2026-09-11T16:46:03+00:00"
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
     },
     {
       "asin": "B0HBCM7P6H",
@@ -1918,28 +1940,6 @@
       "revalidated_at": "2026-09-11T17:01:08+00:00"
     },
     {
-      "asin": "B0H289FGRR",
-      "title": "2-Pack 5' Minetom Light-Up Halloween Ghosts w/ Tripods & Remote (Veil-Witch Hat)",
-      "title_es": "Pack de 2 Fantasmas Halloween Minetom Iluminados de 5' con Trípodes y Mando (Velo-Sombrero de Bruja)",
-      "headline": null,
-      "post": "Decora tu hogar para Halloween con este pack de 2 fantasmas Minetom iluminados de 5 pies, que incluyen trípodes y mando a distancia. Son ideales para crear una atmósfera espeluznante y divertida en tu jardín o entrada. 👻",
-      "post_en": "Decorate your home for Halloween with this 2-pack of 5-foot Minetom light-up ghosts, including tripods and a remote control. They are ideal for creating a spooky and fun atmosphere in your yard or entryway. 👻",
-      "price_new": 17.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 48.6,
-      "rating": 4.8,
-      "condition": "code",
-      "code": "UPQF4YEA",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61pJC0YFe8L._AC_SL1024_.jpg",
-      "url": "https://amazon.com/dp/B0H289FGRR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19998852",
-      "published_at": "2026-09-10T23:05:05+00:00",
-      "revalidated_at": "2026-09-11T16:30:54+00:00"
-    },
-    {
       "asin": "B0G19XP9MX",
       "title": "FIT KING Cordless Air Compression Boots Recovery System Leg Massager Medium",
       "title_es": "Botas de compresión de aire inalámbricas FIT KING Medium",
@@ -1959,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987260",
       "published_at": "2026-09-10T23:01:14+00:00",
-      "revalidated_at": "2026-09-11T16:30:54+00:00"
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
     },
     {
       "asin": "B0CCWDTSKW",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19996791",
       "published_at": "2026-09-10T19:16:38+00:00",
-      "revalidated_at": "2026-09-11T16:30:54+00:00"
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
     },
     {
       "asin": "B0C756SPQY",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19996890",
       "published_at": "2026-09-10T19:16:38+00:00",
-      "revalidated_at": "2026-09-11T16:30:54+00:00"
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
     },
     {
       "asin": "B0G5175FYG",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19995297",
       "published_at": "2026-09-10T19:01:27+00:00",
-      "revalidated_at": "2026-09-11T16:30:54+00:00"
+      "revalidated_at": "2026-09-11T18:30:57+00:00"
     },
     {
       "asin": "B09FTK9SLN",
