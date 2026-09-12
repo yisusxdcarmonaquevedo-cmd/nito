@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-12T02:00:30+00:00",
+  "generated_at": "2026-09-12T02:15:36+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0DHB9J53M",
+      "title": "52-Port TP-Link Festa FS352G Gigabit Smart Managed Switch",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 199.99,
+      "price_old": 419.99,
+      "currency": "USD",
+      "discount_pct": 52.4,
+      "rating": 4.3,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/41xAV5COcWL._AC_SL1000_.jpg",
+      "url": "https://amazon.com/dp/B0DHB9J53M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19998870",
+      "published_at": "2026-09-12T02:15:35+00:00",
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
+    },
     {
       "asin": "B016R90WIW",
       "title": "43mm Citizen Men's Eco-Drive Weekender Garrison Field Watch at Amazon",
@@ -177,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20003343",
       "published_at": "2026-09-12T00:31:13+00:00",
-      "revalidated_at": "2026-09-12T00:31:13+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "B0G34BFNWN",
@@ -199,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20001993",
       "published_at": "2026-09-12T00:31:13+00:00",
-      "revalidated_at": "2026-09-12T00:31:13+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "B0DZ5NXXZY",
@@ -221,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20002170",
       "published_at": "2026-09-12T00:31:13+00:00",
-      "revalidated_at": "2026-09-12T00:31:13+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "B0GWZDK54X",
@@ -243,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20001951",
       "published_at": "2026-09-12T00:31:13+00:00",
-      "revalidated_at": "2026-09-12T00:31:13+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "B0FD39P134",
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20000595",
       "published_at": "2026-09-12T00:31:13+00:00",
-      "revalidated_at": "2026-09-12T00:31:13+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "B0FF9JH88H",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20002374",
       "published_at": "2026-09-12T00:31:13+00:00",
-      "revalidated_at": "2026-09-12T00:31:13+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "B0FSR8NWHN",
@@ -410,11 +432,11 @@
       "price_old": 64.99,
       "currency": "USD",
       "discount_pct": 53.9,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21571398.thumb",
+      "image": "https://m.media-amazon.com/images/I/51ZUr-Zvc3L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B09RTF61QF/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20003163",
@@ -485,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20002851",
       "published_at": "2026-09-11T22:31:03+00:00",
-      "revalidated_at": "2026-09-12T00:31:13+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "B000GUTJRY",
@@ -507,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20001186",
       "published_at": "2026-09-11T22:31:03+00:00",
-      "revalidated_at": "2026-09-12T00:31:13+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "B085DTYYG2",
@@ -529,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20000400",
       "published_at": "2026-09-11T22:31:03+00:00",
-      "revalidated_at": "2026-09-12T00:31:13+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "B0DQNMB982",
@@ -762,11 +784,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 72.6,
-      "rating": null,
+      "rating": 4.7,
       "condition": "code",
       "code": "Z0DUSYS6",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/21569268.thumb",
+      "image": "https://m.media-amazon.com/images/I/81srfY7oaEL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F8YNHPQM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20002404",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20002731",
       "published_at": "2026-09-11T20:30:49+00:00",
-      "revalidated_at": "2026-09-12T00:31:13+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "B0DSZ9P85N",
@@ -1805,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987113",
       "published_at": "2026-09-11T08:46:08+00:00",
-      "revalidated_at": "2026-09-12T00:15:56+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "B0H281CRHT",
@@ -1827,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19999599",
       "published_at": "2026-09-11T08:31:03+00:00",
-      "revalidated_at": "2026-09-12T00:15:56+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "B0GRK5D3RW",
@@ -1937,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19998627",
       "published_at": "2026-09-11T06:31:05+00:00",
-      "revalidated_at": "2026-09-12T00:15:56+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "1984858475",
@@ -2091,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987059",
       "published_at": "2026-09-11T04:45:43+00:00",
-      "revalidated_at": "2026-09-12T00:31:13+00:00"
+      "revalidated_at": "2026-09-12T02:15:36+00:00"
     },
     {
       "asin": "B0BJQ6BPB6",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:19996695",
       "published_at": "2026-09-11T01:31:27+00:00",
       "revalidated_at": "2026-09-12T01:00:32+00:00"
-    },
-    {
-      "asin": "B0CX1W5W41",
-      "title": "LISEN 3-Port (140W+30W+30W) USB-C GaN Car Charger w/ 240W 3.3' USB-C Cable",
-      "title_es": "Cargador de coche LISEN GaN de 3 puertos USB-C (140W+30W+30W) con cable USB-C de 240W y 1 metro",
-      "headline": null,
-      "post": "Este cargador de coche LISEN GaN cuenta con tres puertos USB-C de alta potencia (hasta 140W) para cargar rápidamente múltiples dispositivos. Incluye un cable USB-C de 240W y 1 metro, ideal para mantener tus gadgets a tope en cualquier viaje. ⚡",
-      "post_en": "This LISEN GaN car charger features three high-power USB-C ports (up to 140W) to quickly charge multiple devices on the go. It includes a 240W 3.3ft USB-C cable, perfect for keeping your gadgets fully charged during any trip. ⚡",
-      "price_new": 18.0,
-      "price_old": 29.69,
-      "currency": "USD",
-      "discount_pct": 39.4,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "WGD36VTM",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71BUzSq3WgL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CX1W5W41/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19994820",
-      "published_at": "2026-09-11T00:45:53+00:00",
-      "revalidated_at": "2026-09-12T00:35:24+00:00"
     }
   ]
 }
