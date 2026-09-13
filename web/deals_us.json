@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-13T12:30:31+00:00",
+  "generated_at": "2026-09-13T12:45:30+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B08T7RSGDL",
+      "title": "12-Pack 13.7-Oz Starbucks Frappuccino Coffee Drink (Mocha)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 17.48,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 50.1,
+      "rating": 4.6,
+      "condition": "coupon",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81InRWiXnwL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B08T7RSGDL/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20007603",
+      "published_at": "2026-09-13T12:45:30+00:00",
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
+    },
     {
       "asin": "B08BXX69K4",
       "title": "Ninja Foodi XL Pro 10-in-1 Air Fryer & Toaster Oven Combo at Amazon",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20007435",
       "published_at": "2026-09-13T08:16:23+00:00",
-      "revalidated_at": "2026-09-13T10:46:26+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B00NGV4506",
@@ -727,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20007051",
       "published_at": "2026-09-13T02:30:50+00:00",
-      "revalidated_at": "2026-09-13T10:46:26+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B004F9QBDM",
@@ -925,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19996614",
       "published_at": "2026-09-13T00:45:48+00:00",
-      "revalidated_at": "2026-09-13T10:46:26+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B0FSJXVTQT",
@@ -947,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20006673",
       "published_at": "2026-09-13T00:45:48+00:00",
-      "revalidated_at": "2026-09-13T10:46:26+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B0H1QPD7BF",
@@ -1277,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20005650",
       "published_at": "2026-09-12T22:45:31+00:00",
-      "revalidated_at": "2026-09-13T10:34:01+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B0GD76VNW2",
@@ -1607,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19997928",
       "published_at": "2026-09-12T19:01:11+00:00",
-      "revalidated_at": "2026-09-13T10:34:01+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B0GZ24K9GX",
@@ -1629,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992039",
       "published_at": "2026-09-12T19:01:11+00:00",
-      "revalidated_at": "2026-09-13T10:34:01+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B0GWPCYKJ2",
@@ -1651,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20004234",
       "published_at": "2026-09-12T19:01:11+00:00",
-      "revalidated_at": "2026-09-13T10:46:26+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B003TTH5OI",
@@ -1849,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20005632",
       "published_at": "2026-09-12T17:30:34+00:00",
-      "revalidated_at": "2026-09-13T10:46:26+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B0DVXWMPB3",
@@ -1871,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20004606",
       "published_at": "2026-09-12T17:15:46+00:00",
-      "revalidated_at": "2026-09-13T10:46:26+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B0GKV9LKSM",
@@ -2069,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20004453",
       "published_at": "2026-09-12T15:45:57+00:00",
-      "revalidated_at": "2026-09-13T10:46:26+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B07GV57JYJ",
@@ -2091,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987419",
       "published_at": "2026-09-12T15:16:04+00:00",
-      "revalidated_at": "2026-09-13T10:34:01+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B00I8MEVHK",
@@ -2113,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20005383",
       "published_at": "2026-09-12T15:00:47+00:00",
-      "revalidated_at": "2026-09-13T10:46:26+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B08WVBQ147",
@@ -2487,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20004612",
       "published_at": "2026-09-12T10:45:36+00:00",
-      "revalidated_at": "2026-09-13T10:34:01+00:00"
+      "revalidated_at": "2026-09-13T12:45:30+00:00"
     },
     {
       "asin": "B0CNSQPLQ7",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:19984092",
       "published_at": "2026-09-12T09:11:59+00:00",
       "revalidated_at": "2026-09-13T11:16:35+00:00"
-    },
-    {
-      "asin": "B0048WQDIE",
-      "title": "Catch-22: 50th Anniversary Edition (eBook)",
-      "title_es": "Catch-22: Edición 50 Aniversario (eBook)",
-      "headline": null,
-      "post": "\"Catch-22\" en su edición 50 Aniversario es un eBook clásico de la literatura moderna, conocido por su ingenio satírico. Es una lectura imprescindible para amantes de las novelas bélicas y la crítica social. 📚",
-      "post_en": "\"Catch-22\" in its 50th Anniversary Edition is a classic eBook of modern literature, known for its satirical wit. It's a must-read for fans of war novels and social criticism. 📚",
-      "price_new": 3.0,
-      "price_old": 12.99,
-      "currency": "USD",
-      "discount_pct": 76.9,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71F0zTGFHAL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0048WQDIE/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19997367",
-      "published_at": "2026-09-12T08:30:45+00:00",
-      "revalidated_at": "2026-09-13T11:46:27+00:00"
     }
   ]
 }
