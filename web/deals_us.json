@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-13T11:46:27+00:00",
+  "generated_at": "2026-09-13T12:02:00+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B00RVJ1UIO",
+      "title": "Nature Made Super B Complex with Vitamin C & Folic Acid, 360 Tablets",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.82,
+      "price_old": 34.59,
+      "currency": "USD",
+      "discount_pct": 77.4,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71JZwXt9NpL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B00RVJ1UIO/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19990566",
+      "published_at": "2026-09-13T12:02:00+00:00",
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
+    },
     {
       "asin": "B0DC83B4GP",
       "title": "Citizen Men's Eco-Drive Weekender Avion Field Watch at Amazon",
@@ -92,28 +114,6 @@
       "revalidated_at": "2026-09-13T11:01:49+00:00"
     },
     {
-      "asin": "B01M5JGO4P",
-      "title": "32-Oz Sawyer SP565 Picaridin Insect Repellent",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 21.4,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 38.9,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/6171OHyNRYL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B01M5JGO4P/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20007621",
-      "published_at": "2026-09-13T10:16:24+00:00",
-      "revalidated_at": "2026-09-13T10:16:24+00:00"
-    },
-    {
       "asin": "B09YRYPVRF",
       "title": "21-L Thule EnRoute Laptop Backpack + 10% Back w/ Prime Visa Card at Amazon",
       "title_es": null,
@@ -133,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20007639",
       "published_at": "2026-09-13T10:16:24+00:00",
-      "revalidated_at": "2026-09-13T10:16:24+00:00"
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
     },
     {
       "asin": "B00IYUYF4A",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20004495",
       "published_at": "2026-09-13T01:45:40+00:00",
-      "revalidated_at": "2026-09-13T10:16:24+00:00"
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
     },
     {
       "asin": "B07F67B9P4",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19997559",
       "published_at": "2026-09-13T00:01:11+00:00",
-      "revalidated_at": "2026-09-13T10:16:24+00:00"
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
     },
     {
       "asin": "B0GH67MXS9",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20002326",
       "published_at": "2026-09-13T00:01:11+00:00",
-      "revalidated_at": "2026-09-13T10:16:24+00:00"
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
     },
     {
       "asin": "B0BCJNZ8PP",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20005608",
       "published_at": "2026-09-13T00:01:11+00:00",
-      "revalidated_at": "2026-09-13T10:16:24+00:00"
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
     },
     {
       "asin": "B0CNCJSXX8",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20001270",
       "published_at": "2026-09-13T00:01:11+00:00",
-      "revalidated_at": "2026-09-13T10:16:24+00:00"
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
     },
     {
       "asin": "B0CFF83CWW",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20005296",
       "published_at": "2026-09-13T00:01:11+00:00",
-      "revalidated_at": "2026-09-13T10:16:24+00:00"
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
     },
     {
       "asin": "B0FYJXVWTH",
@@ -1233,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20006505",
       "published_at": "2026-09-12T22:15:39+00:00",
-      "revalidated_at": "2026-09-13T10:16:24+00:00"
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
     },
     {
       "asin": "B0DQSJ4S89",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20005635",
       "published_at": "2026-09-12T22:15:39+00:00",
-      "revalidated_at": "2026-09-13T10:16:24+00:00"
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
     },
     {
       "asin": "B0B8NK7G43",
@@ -1651,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19987947",
       "published_at": "2026-09-12T18:28:30+00:00",
-      "revalidated_at": "2026-09-13T10:16:24+00:00"
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
     },
     {
       "asin": "B0F5GWV39J",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19994217",
       "published_at": "2026-09-12T18:28:30+00:00",
-      "revalidated_at": "2026-09-13T10:16:24+00:00"
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
     },
     {
       "asin": "B0CZR11YCK",
@@ -2245,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19985874",
       "published_at": "2026-09-12T12:31:03+00:00",
-      "revalidated_at": "2026-09-13T10:01:41+00:00"
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
     },
     {
       "asin": "B076736W8H",
@@ -2421,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20003394",
       "published_at": "2026-09-12T10:30:33+00:00",
-      "revalidated_at": "2026-09-13T10:01:41+00:00"
+      "revalidated_at": "2026-09-13T12:02:00+00:00"
     },
     {
       "asin": "B0F9YSPMR5",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20004180",
       "published_at": "2026-09-12T05:45:25+00:00",
       "revalidated_at": "2026-09-13T11:16:35+00:00"
-    },
-    {
-      "asin": "B0D9QLWFWX",
-      "title": "12-Pack Riccioofy Christmas Gift Bags (8.2\" x 5.8\" x 3.1\", 6 Designs)",
-      "title_es": "Paquete de 12 bolsas de regalo Riccioofy de Navidad (8.2\" x 5.8\" x 3.1\", 6 diseños)",
-      "headline": null,
-      "post": "Este paquete de 12 bolsas de regalo Riccioofy de Navidad presenta 6 diseños festivos, ideales para envolver tus presentes con estilo. Son perfectas para la temporada navideña, facilitando la presentación de tus regalos. 🎁",
-      "post_en": "This 12-pack of Riccioofy Christmas Gift Bags features 6 festive designs, ideal for wrapping your presents with style. They are perfect for the holiday season, making your gift presentation easy. 🎁",
-      "price_new": 4.79,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 86.3,
-      "rating": 4.6,
-      "condition": "coupon",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/81QDF5aAm3L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D9QLWFWX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20003196",
-      "published_at": "2026-09-12T05:15:41+00:00",
-      "revalidated_at": "2026-09-13T10:31:27+00:00"
     }
   ]
 }
