@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-14T12:01:24+00:00",
+  "generated_at": "2026-09-14T12:16:15+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B092MXJFNS",
+      "title": "24-Oz Contigo Cortland Chill 2.0 Stainless Steel Vacuum-Insulated Water Bottle at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.99,
+      "price_old": 28.49,
+      "currency": "USD",
+      "discount_pct": 54.4,
+      "rating": 4.6,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/41l8nPMuY+L._AC_SL1200_.jpg",
+      "url": "https://amazon.com/dp/B092MXJFNS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20011485",
+      "published_at": "2026-09-14T12:16:15+00:00",
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
+    },
+    {
+      "asin": "B0FHJ42YKD",
+      "title": "Byliable Portable Folding Camping Chair w/ Drink Holder and Cooler Pouch (Gray)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 44.3,
+      "rating": 4.5,
+      "condition": "code",
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://m.media-amazon.com/images/I/61VP4Na0UFL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FHJ42YKD/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20012118",
+      "published_at": "2026-09-14T12:16:15+00:00",
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
+    },
     {
       "asin": "B07FLP3XNP",
       "title": "The Neverending Story (eBook) by Michael Ende",
@@ -14,11 +58,11 @@
       "price_old": 6.99,
       "currency": "USD",
       "discount_pct": 71.5,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21587181.thumb",
+      "image": "https://m.media-amazon.com/images/I/91tkLYtijhL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B07FLP3XNP/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20011596",
@@ -36,11 +80,11 @@
       "price_old": 6.99,
       "currency": "USD",
       "discount_pct": 40.1,
-      "rating": null,
+      "rating": 4.9,
       "condition": "code",
       "code": "LKLV6KED",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21535395.thumb",
+      "image": "https://m.media-amazon.com/images/I/81UsFuV-jDL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H4SY4D9K/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:19988283",
@@ -102,11 +146,11 @@
       "price_old": 95.0,
       "currency": "USD",
       "discount_pct": 36.6,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21579960.thumb",
+      "image": "https://m.media-amazon.com/images/I/71nEGgvtLHL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FJMQJZM3/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20007771",
@@ -124,11 +168,11 @@
       "price_old": 14.99,
       "currency": "USD",
       "discount_pct": 86.7,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21588000.thumb",
+      "image": "https://m.media-amazon.com/images/I/81LWDATdQHL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B007679QTG/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20011890",
@@ -353,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20010588",
       "published_at": "2026-09-14T08:31:39+00:00",
-      "revalidated_at": "2026-09-14T10:31:43+00:00"
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
     },
     {
       "asin": "B0H3TJPLCT",
@@ -573,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009568",
       "published_at": "2026-09-14T04:47:09+00:00",
-      "revalidated_at": "2026-09-14T10:31:43+00:00"
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
     },
     {
       "asin": "B01K788W36",
@@ -595,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20010771",
       "published_at": "2026-09-14T04:47:09+00:00",
-      "revalidated_at": "2026-09-14T10:31:43+00:00"
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
     },
     {
       "asin": "B0FGXMYZHF",
@@ -617,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009481",
       "published_at": "2026-09-14T04:47:09+00:00",
-      "revalidated_at": "2026-09-14T10:31:43+00:00"
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
     },
     {
       "asin": "1668065290",
@@ -639,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20010036",
       "published_at": "2026-09-14T04:47:09+00:00",
-      "revalidated_at": "2026-09-14T10:31:43+00:00"
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
     },
     {
       "asin": "B0DFPYC2YS",
@@ -859,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20010168",
       "published_at": "2026-09-14T00:46:27+00:00",
-      "revalidated_at": "2026-09-14T10:31:43+00:00"
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
     },
     {
       "asin": "B09NZKKHJM",
@@ -881,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009166",
       "published_at": "2026-09-14T00:46:27+00:00",
-      "revalidated_at": "2026-09-14T10:31:43+00:00"
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
     },
     {
       "asin": "B0CQF1R8BN",
@@ -1233,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009241",
       "published_at": "2026-09-13T22:46:22+00:00",
-      "revalidated_at": "2026-09-14T10:31:43+00:00"
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
     },
     {
       "asin": "B06XBYZXHW",
@@ -1453,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009547",
       "published_at": "2026-09-13T19:15:54+00:00",
-      "revalidated_at": "2026-09-14T10:31:43+00:00"
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
     },
     {
       "asin": "B006HFJA12",
@@ -1871,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19994565",
       "published_at": "2026-09-13T15:00:52+00:00",
-      "revalidated_at": "2026-09-14T10:16:41+00:00"
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
     },
     {
       "asin": "B0000302YN",
@@ -1893,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19992492",
       "published_at": "2026-09-13T15:00:52+00:00",
-      "revalidated_at": "2026-09-14T10:16:41+00:00"
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
     },
     {
       "asin": "B0FWQQYN4M",
@@ -2531,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20007603",
       "published_at": "2026-09-13T12:45:30+00:00",
-      "revalidated_at": "2026-09-14T10:16:41+00:00"
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
     },
     {
       "asin": "B08BXX69K4",
@@ -2553,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20007807",
       "published_at": "2026-09-13T12:30:31+00:00",
-      "revalidated_at": "2026-09-14T10:16:41+00:00"
+      "revalidated_at": "2026-09-14T12:16:15+00:00"
     },
     {
       "asin": "B0013FMNCE",
@@ -2598,50 +2642,6 @@
       "deal_key": "sd:20006016",
       "published_at": "2026-09-13T12:15:47+00:00",
       "revalidated_at": "2026-09-14T12:01:24+00:00"
-    },
-    {
-      "asin": "B00RVJ1UIO",
-      "title": "Nature Made Super B Complex with Vitamin C & Folic Acid, 360 Tablets",
-      "title_es": "Nature Made Super B Complex con Vitamina C y Ácido Fólico, 360 Comprimidos",
-      "headline": null,
-      "post": "Nature Made Super B Complex combina vitaminas B esenciales, vitamina C y ácido fólico para apoyar tu energía y bienestar general. Es un suplemento diario ideal para quienes buscan mantener un estilo de vida activo y saludable.",
-      "post_en": "Nature Made Super B Complex combines essential B vitamins, Vitamin C, and Folic Acid to support your energy and overall well-being. It's an ideal daily supplement for those looking to maintain an active and healthy lifestyle.",
-      "price_new": 7.82,
-      "price_old": 34.59,
-      "currency": "USD",
-      "discount_pct": 77.4,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71JZwXt9NpL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00RVJ1UIO/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19990566",
-      "published_at": "2026-09-13T12:02:00+00:00",
-      "revalidated_at": "2026-09-14T10:16:41+00:00"
-    },
-    {
-      "asin": "B0DC83B4GP",
-      "title": "Citizen Men's Eco-Drive Weekender Avion Field Watch at Amazon",
-      "title_es": "Reloj de Campo Citizen Eco-Drive Weekender Avion para Hombre",
-      "headline": null,
-      "post": "El reloj Citizen Eco-Drive Weekender Avion para hombre destaca por su diseño de campo y tecnología Eco-Drive, que se carga con cualquier fuente de luz. Es perfecto para aventureros o para quienes buscan un accesorio robusto y ecológico.",
-      "post_en": "The Citizen Men's Eco-Drive Weekender Avion Field Watch stands out with its field design and Eco-Drive technology, which charges with any light source. It's perfect for adventurers or those seeking a robust and eco-friendly accessory.",
-      "price_new": 174.0,
-      "price_old": 375.0,
-      "currency": "USD",
-      "discount_pct": 53.6,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/81i2JXiWwgL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DC83B4GP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20008011",
-      "published_at": "2026-09-13T11:31:28+00:00",
-      "revalidated_at": "2026-09-14T11:02:01+00:00"
     }
   ]
 }
