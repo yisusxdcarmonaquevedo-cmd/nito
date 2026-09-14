@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-14T22:30:51+00:00",
+  "generated_at": "2026-09-14T22:45:55+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B01G0GD0PE",
+      "title": "The Automatic Millionaire, 20th Anniversary Edition: A Powerful One-Step Plan to Live and Finish Rich (eBook) by David Bach",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.99,
+      "price_old": 14.99,
+      "currency": "USD",
+      "discount_pct": 80.1,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21591366.thumb",
+      "url": "https://amazon.com/dp/B01G0GD0PE/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20013033",
+      "published_at": "2026-09-14T22:45:55+00:00",
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
+    },
     {
       "asin": "B0CP1MD9LW",
       "title": "2-Pack Wangmai 60W USB-C to USB-C Fast Charging Braided Cable (6', White)",
@@ -80,11 +102,11 @@
       "price_old": 14.99,
       "currency": "USD",
       "discount_pct": 33.4,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21586662.thumb",
+      "image": "https://m.media-amazon.com/images/I/71jQXEeOZdL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GYMZZNZX/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20011407",
@@ -221,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20014428",
       "published_at": "2026-09-14T20:45:56+00:00",
-      "revalidated_at": "2026-09-14T20:45:56+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "B0H5QHGZ1W",
@@ -991,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20012712",
       "published_at": "2026-09-14T15:01:10+00:00",
-      "revalidated_at": "2026-09-14T20:45:56+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "B0F28WR2D4",
@@ -1321,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20011821",
       "published_at": "2026-09-14T13:01:27+00:00",
-      "revalidated_at": "2026-09-14T20:45:56+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "B0DSPVP337",
@@ -1343,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20011584",
       "published_at": "2026-09-14T13:01:27+00:00",
-      "revalidated_at": "2026-09-14T20:45:56+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "B00X52TZYM",
@@ -1739,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20011590",
       "published_at": "2026-09-14T08:46:36+00:00",
-      "revalidated_at": "2026-09-14T20:45:56+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "B0FSGGYHFL",
@@ -1761,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20011461",
       "published_at": "2026-09-14T08:46:36+00:00",
-      "revalidated_at": "2026-09-14T20:45:56+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "B09F6WCH5K",
@@ -1937,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20006883",
       "published_at": "2026-09-14T05:05:37+00:00",
-      "revalidated_at": "2026-09-14T20:45:56+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "B0GVHBBGQC",
@@ -1959,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009568",
       "published_at": "2026-09-14T04:47:09+00:00",
-      "revalidated_at": "2026-09-14T20:30:57+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "B01K788W36",
@@ -1981,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20010771",
       "published_at": "2026-09-14T04:47:09+00:00",
-      "revalidated_at": "2026-09-14T20:45:56+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "B0FGXMYZHF",
@@ -2003,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009481",
       "published_at": "2026-09-14T04:47:09+00:00",
-      "revalidated_at": "2026-09-14T20:45:56+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "1668065290",
@@ -2025,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20010036",
       "published_at": "2026-09-14T04:47:09+00:00",
-      "revalidated_at": "2026-09-14T20:45:56+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "B0DFPYC2YS",
@@ -2135,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20002059",
       "published_at": "2026-09-14T02:31:44+00:00",
-      "revalidated_at": "2026-09-14T20:30:57+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "B0CBS423LL",
@@ -2157,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20002986",
       "published_at": "2026-09-14T02:31:44+00:00",
-      "revalidated_at": "2026-09-14T20:30:57+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "B000EBBJ6Y",
@@ -2267,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009187",
       "published_at": "2026-09-14T00:31:20+00:00",
-      "revalidated_at": "2026-09-14T20:30:57+00:00"
+      "revalidated_at": "2026-09-14T22:45:55+00:00"
     },
     {
       "asin": "B0DFW43B44",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:20010120",
       "published_at": "2026-09-13T21:31:48+00:00",
       "revalidated_at": "2026-09-14T22:00:38+00:00"
-    },
-    {
-      "asin": "B01EB4JD30",
-      "title": "24-Ct Paper Mate InkJoy 300RT Retractable Ballpoint Pens (1.0mm Medium, Black) at Amazon",
-      "title_es": "Bolígrafos Retráctiles Paper Mate InkJoy 300RT (1.0mm Medio, Negro), 24 unidades",
-      "headline": null,
-      "post": "Este paquete de 24 bolígrafos Paper Mate InkJoy 300RT ofrece una escritura suave y confiable con tinta negra de 1.0mm. Perfectos para uso diario en la oficina, escuela o para tomar notas.",
-      "post_en": "This pack of 24 Paper Mate InkJoy 300RT pens offers smooth, reliable writing with 1.0mm black ink. They are perfect for daily use in the office, school, or for taking notes.",
-      "price_new": 6.52,
-      "price_old": 16.77,
-      "currency": "USD",
-      "discount_pct": 61.1,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/81hjZ3kZcRL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B01EB4JD30/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20009370",
-      "published_at": "2026-09-13T21:16:29+00:00",
-      "revalidated_at": "2026-09-14T21:15:46+00:00"
     }
   ]
 }
