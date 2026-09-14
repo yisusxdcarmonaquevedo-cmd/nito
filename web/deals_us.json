@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-14T17:31:10+00:00",
+  "generated_at": "2026-09-14T17:45:56+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0H6HRBQBD",
+      "title": "12-Pack Ahaorigin Solar Halloween Pumpkin Pathway Stake Lights",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.33,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 96.2,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "WZ8WEVIS",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81knCOu3U+L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0H6HRBQBD/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20013777",
+      "published_at": "2026-09-14T17:45:56+00:00",
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
+    },
+    {
+      "asin": "B0GL1RTJSP",
+      "title": "Lefant M330 Pro Robot Vacuum & Mop w/ dToF Smart Mapping & Obstacle Avoidance",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 90.0,
+      "price_old": 299.99,
+      "currency": "USD",
+      "discount_pct": 70.0,
+      "rating": 4.5,
+      "condition": "code",
+      "code": "M505JZ2F",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71ArYne+JuL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GL1RTJSP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:19997196",
+      "published_at": "2026-09-14T17:45:56+00:00",
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
+    },
     {
       "asin": "B08YJLMQGD",
       "title": "65W Tecknet 3-Port USB-C GaN Wall Charger (Black)",
@@ -102,11 +146,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 85.8,
-      "rating": null,
+      "rating": 4.3,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21586707.thumb",
+      "image": "https://m.media-amazon.com/images/I/71FkSiGGVdL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G5X338SH/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20011428",
@@ -212,11 +256,11 @@
       "price_old": 129.99,
       "currency": "USD",
       "discount_pct": 72.9,
-      "rating": null,
+      "rating": 3.8,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21588054.thumb",
+      "image": "https://m.media-amazon.com/images/I/41ddgVnd7oL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D7KQSGBM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20011911",
@@ -287,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20010483",
       "published_at": "2026-09-14T15:45:56+00:00",
-      "revalidated_at": "2026-09-14T15:45:56+00:00"
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
     },
     {
       "asin": "B0FMS87VKQ",
@@ -309,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20011785",
       "published_at": "2026-09-14T15:45:56+00:00",
-      "revalidated_at": "2026-09-14T15:45:56+00:00"
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
     },
     {
       "asin": "B0BRNQHRXP",
@@ -595,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20012133",
       "published_at": "2026-09-14T13:45:53+00:00",
-      "revalidated_at": "2026-09-14T15:45:56+00:00"
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
     },
     {
       "asin": "B0D7Q23VRQ",
@@ -617,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20012484",
       "published_at": "2026-09-14T13:45:53+00:00",
-      "revalidated_at": "2026-09-14T15:45:56+00:00"
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
     },
     {
       "asin": "B00NGV4E1G",
@@ -639,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20011638",
       "published_at": "2026-09-14T13:45:53+00:00",
-      "revalidated_at": "2026-09-14T15:45:56+00:00"
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
     },
     {
       "asin": "B084V8B76X",
@@ -991,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20007771",
       "published_at": "2026-09-14T11:46:49+00:00",
-      "revalidated_at": "2026-09-14T15:45:56+00:00"
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
     },
     {
       "asin": "B007679QTG",
@@ -1079,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20006370",
       "published_at": "2026-09-14T09:46:43+00:00",
-      "revalidated_at": "2026-09-14T15:31:09+00:00"
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
     },
     {
       "asin": "B0FWKYJZ8Q",
@@ -1214,28 +1258,6 @@
       "revalidated_at": "2026-09-14T16:30:36+00:00"
     },
     {
-      "asin": "B0H3TJPLCT",
-      "title": "2-Pack TIVMIK 11.81''-22.85'' Expandable Pots and Pans Organizer Rack (White or Black)",
-      "title_es": "Organizador de Sartenes y Ollas Expandible TIVMIK (Paquete de 2)",
-      "headline": null,
-      "post": "Este organizador expandible es perfecto para mantener tus sartenes y ollas ordenadas en la cocina, adaptándose a diferentes tamaños de armarios. Ayuda a maximizar el espacio y facilita el acceso a tus utensilios de cocina.",
-      "post_en": "This expandable organizer is perfect for keeping your pots and pans tidy in the kitchen, adapting to different cabinet sizes. It helps maximize space and makes accessing your cookware easier.",
-      "price_new": 21.99,
-      "price_old": 42.99,
-      "currency": "USD",
-      "discount_pct": 48.8,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "LDC9VK9R",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71Zl03b1SNL._AC_SL1254_.jpg",
-      "url": "https://amazon.com/dp/B0H3TJPLCT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20009901",
-      "published_at": "2026-09-14T07:46:39+00:00",
-      "revalidated_at": "2026-09-14T15:31:09+00:00"
-    },
-    {
       "asin": "B007NBEK7S",
       "title": "Costa Del Mar Trucker Mesh Hat (Blackout or Deck Gray Heather)",
       "title_es": "Gorra Trucker de Malla Costa Del Mar",
@@ -1255,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20001789",
       "published_at": "2026-09-14T07:46:39+00:00",
-      "revalidated_at": "2026-09-14T15:31:09+00:00"
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
     },
     {
       "asin": "B0FKT34H9W",
@@ -1519,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20010684",
       "published_at": "2026-09-14T04:16:21+00:00",
-      "revalidated_at": "2026-09-14T15:45:56+00:00"
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
     },
     {
       "asin": "B091G6R7D3",
@@ -1827,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009541",
       "published_at": "2026-09-14T00:02:25+00:00",
-      "revalidated_at": "2026-09-14T15:31:09+00:00"
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
     },
     {
       "asin": "B0DJ1C6VP4",
@@ -2113,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20010120",
       "published_at": "2026-09-13T21:31:48+00:00",
-      "revalidated_at": "2026-09-14T15:31:09+00:00"
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
     },
     {
       "asin": "B01EB4JD30",
@@ -2421,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20008935",
       "published_at": "2026-09-13T18:00:41+00:00",
-      "revalidated_at": "2026-09-14T15:31:09+00:00"
+      "revalidated_at": "2026-09-14T17:45:56+00:00"
     },
     {
       "asin": "B0FLK81WZ5",
@@ -2596,50 +2618,6 @@
       "url": "https://amazon.com/dp/B0013OJUY4/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20007513",
-      "published_at": "2026-09-13T15:00:52+00:00",
-      "revalidated_at": "2026-09-14T16:16:15+00:00"
-    },
-    {
-      "asin": "B0FD7PD58L",
-      "title": "5 Pack ASHGOOB 2 Inch Low Profile Office Chair Casters 650 lbs(Grey)",
-      "title_es": "Pack de 5 Ruedas ASHGOOB de Perfil Bajo para Silla de Oficina (2 Pulgadas, Gris)",
-      "headline": null,
-      "post": "Este pack de 5 ruedas ASHGOOB de 2 pulgadas y perfil bajo está diseñado para sillas de oficina, soportando hasta 650 lbs. Son perfectas para reemplazar ruedas desgastadas y mejorar la movilidad de tu silla sin dañar el suelo.",
-      "post_en": "This 5-pack of ASHGOOB 2-inch low-profile office chair casters is designed for office chairs, supporting up to 650 lbs. They are perfect for replacing worn-out wheels and improving your chair's mobility without damaging floors.",
-      "price_new": 9.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.5,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/611TG8E27SL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FD7PD58L/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20008701",
-      "published_at": "2026-09-13T15:00:52+00:00",
-      "revalidated_at": "2026-09-14T16:16:15+00:00"
-    },
-    {
-      "asin": "B0CVSH5TFV",
-      "title": "Carhartt Crossbody Zip Bag (2 colors)",
-      "title_es": "Bandolera con Cremallera Carhartt (2 colores)",
-      "headline": null,
-      "post": "La bandolera Carhartt con cremallera es un accesorio duradero y práctico para llevar tus esenciales. Disponible en dos colores, es ideal para el uso diario o viajes cortos, manteniendo tus pertenencias seguras y accesibles.",
-      "post_en": "The Carhartt Crossbody Zip Bag is a durable and practical accessory for carrying your essentials. Available in two colors, it's ideal for daily use or short trips, keeping your belongings secure and accessible.",
-      "price_new": 19.8,
-      "price_old": 32.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/91OqIQQ77aL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CVSH5TFV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:19996605",
       "published_at": "2026-09-13T15:00:52+00:00",
       "revalidated_at": "2026-09-14T16:16:15+00:00"
     }
