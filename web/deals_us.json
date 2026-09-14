@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-14T14:01:12+00:00",
+  "generated_at": "2026-09-14T14:16:02+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B011Q0F17O",
+      "title": "Back to the Future: The Complete Animated Series (DVD) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.98,
+      "price_old": 57.0,
+      "currency": "USD",
+      "discount_pct": 82.5,
+      "rating": 4.8,
+      "condition": null,
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://m.media-amazon.com/images/I/91apu50N0XL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B011Q0F17O/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20010960",
+      "published_at": "2026-09-14T14:16:02+00:00",
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
+    },
+    {
+      "asin": "B00NAJOPMC",
+      "title": "Percy Jackson and the Olympians: Books I-III (eBook) by Rick Riordan",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.99,
+      "price_old": 19.99,
+      "currency": "USD",
+      "discount_pct": 90.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21587031.thumb",
+      "url": "https://amazon.com/dp/B00NAJOPMC/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20011539",
+      "published_at": "2026-09-14T14:16:02+00:00",
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
+    },
+    {
+      "asin": "B0D534FPTX",
+      "title": "8-Count HFHO Aromatherapy Shower Steamers w/ Natural Essential Oils (Tranquil Floral)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 88.6,
+      "rating": null,
+      "condition": "code",
+      "code": "VVZ4DXMR",
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/21589416.thumb",
+      "url": "https://amazon.com/dp/B0D534FPTX/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20012487",
+      "published_at": "2026-09-14T14:16:02+00:00",
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
+    },
     {
       "asin": "B0D9CMW6NJ",
       "title": "BTFBM Women's Chunky Cable Knit Crewneck Pullover Sweater (S-XL, Various Colors) from",
@@ -331,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20011485",
       "published_at": "2026-09-14T12:16:15+00:00",
-      "revalidated_at": "2026-09-14T12:16:15+00:00"
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
     },
     {
       "asin": "B0FHJ42YKD",
@@ -353,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20012118",
       "published_at": "2026-09-14T12:16:15+00:00",
-      "revalidated_at": "2026-09-14T12:16:15+00:00"
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
     },
     {
       "asin": "B07FLP3XNP",
@@ -683,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20010588",
       "published_at": "2026-09-14T08:31:39+00:00",
-      "revalidated_at": "2026-09-14T12:16:15+00:00"
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
     },
     {
       "asin": "B0H3TJPLCT",
@@ -903,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009568",
       "published_at": "2026-09-14T04:47:09+00:00",
-      "revalidated_at": "2026-09-14T12:16:15+00:00"
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
     },
     {
       "asin": "B01K788W36",
@@ -1079,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20002059",
       "published_at": "2026-09-14T02:31:44+00:00",
-      "revalidated_at": "2026-09-14T12:01:24+00:00"
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
     },
     {
       "asin": "B0CBS423LL",
@@ -1101,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20002986",
       "published_at": "2026-09-14T02:31:44+00:00",
-      "revalidated_at": "2026-09-14T12:01:24+00:00"
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
     },
     {
       "asin": "B000EBBJ6Y",
@@ -1233,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009187",
       "published_at": "2026-09-14T00:31:20+00:00",
-      "revalidated_at": "2026-09-14T12:01:24+00:00"
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
     },
     {
       "asin": "B0D79ND3N7",
@@ -1255,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20008023",
       "published_at": "2026-09-14T00:31:20+00:00",
-      "revalidated_at": "2026-09-14T12:01:24+00:00"
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
     },
     {
       "asin": "B0DFW43B44",
@@ -1277,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:19993164",
       "published_at": "2026-09-14T00:31:20+00:00",
-      "revalidated_at": "2026-09-14T12:01:24+00:00"
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
     },
     {
       "asin": "B0FB2VCVJF",
@@ -1673,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20007855",
       "published_at": "2026-09-13T20:45:43+00:00",
-      "revalidated_at": "2026-09-14T12:01:24+00:00"
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
     },
     {
       "asin": "B0HJ1X7KD6",
@@ -1805,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009373",
       "published_at": "2026-09-13T19:00:52+00:00",
-      "revalidated_at": "2026-09-14T12:01:24+00:00"
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
     },
     {
       "asin": "B0D1BZJSX4",
@@ -1827,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009529",
       "published_at": "2026-09-13T19:00:52+00:00",
-      "revalidated_at": "2026-09-14T12:01:24+00:00"
+      "revalidated_at": "2026-09-14T14:16:02+00:00"
     },
     {
       "asin": "B07T8J9TPV",
@@ -2576,50 +2642,6 @@
       "deal_key": "sd:20007195",
       "published_at": "2026-09-13T13:45:53+00:00",
       "revalidated_at": "2026-09-14T12:30:48+00:00"
-    },
-    {
-      "asin": "B07N1HDXDF",
-      "title": "Garmin Approach G80 Handheld Golf GPS & Launch Monitor at Amazon",
-      "title_es": "GPS de golf de mano y monitor de lanzamiento Garmin Approach G80",
-      "headline": null,
-      "post": "Mejora tu juego con el Garmin Approach G80, un GPS de golf de mano que también funciona como monitor de lanzamiento. Es una herramienta esencial para golfistas que desean analizar su swing y optimizar su rendimiento en el campo. ⛳",
-      "post_en": "Improve your game with the Garmin Approach G80, a handheld golf GPS that also functions as a launch monitor. It's an essential tool for golfers who want to analyze their swing and optimize their performance on the course. ⛳",
-      "price_new": 299.99,
-      "price_old": 499.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51ydzAUpkRL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07N1HDXDF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20007780",
-      "published_at": "2026-09-13T13:45:53+00:00",
-      "revalidated_at": "2026-09-14T12:30:48+00:00"
-    },
-    {
-      "asin": "B0D3631X1B",
-      "title": "JBL Live Buds 3 - Cancelling Bud-Type Earbuds - Silver at Amazon",
-      "title_es": "Auriculares JBL Live Buds 3 con cancelación de ruido (plata)",
-      "headline": null,
-      "post": "Disfruta de un sonido inmersivo y sin distracciones con los auriculares JBL Live Buds 3 en color plata, equipados con cancelación de ruido. Son ideales para usuarios que buscan una experiencia auditiva premium y comodidad en cualquier lugar.",
-      "post_en": "Enjoy immersive, distraction-free sound with the silver JBL Live Buds 3 earbuds, featuring noise cancellation. They are ideal for users seeking a premium audio experience and comfort anywhere.",
-      "price_new": 129.95,
-      "price_old": 199.95,
-      "currency": "USD",
-      "discount_pct": 35.0,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61m12ENe05L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D3631X1B/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20007690",
-      "published_at": "2026-09-13T13:45:53+00:00",
-      "revalidated_at": "2026-09-14T12:46:01+00:00"
     }
   ]
 }
