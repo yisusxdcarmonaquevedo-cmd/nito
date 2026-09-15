@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T00:30:18+00:00",
+  "generated_at": "2026-09-15T00:45:29+00:00",
   "market": "us",
   "count": 118,
   "deals": [
@@ -199,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20002722",
       "published_at": "2026-09-14T23:00:50+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B0FFLTC8B4",
@@ -221,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20011683",
       "published_at": "2026-09-14T23:00:50+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B08JP39RLP",
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20011455",
       "published_at": "2026-09-14T23:00:50+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B0BQ9ZGRNY",
@@ -265,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20011494",
       "published_at": "2026-09-14T23:00:50+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B01G0GD0PE",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20014422",
       "published_at": "2026-09-14T21:00:49+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B0GD76VNW2",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20014029",
       "published_at": "2026-09-14T21:00:49+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B07H4ZBVPR",
@@ -661,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20013186",
       "published_at": "2026-09-14T19:16:03+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B09JV9NXXW",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20011593",
       "published_at": "2026-09-14T19:16:03+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B0F5X2MS9D",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20013798",
       "published_at": "2026-09-14T19:16:03+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B0BB3FQGHC",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20012919",
       "published_at": "2026-09-14T17:16:11+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B089XBB96Y",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20013486",
       "published_at": "2026-09-14T17:16:11+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B0DJ19581W",
@@ -1348,10 +1348,10 @@
     {
       "asin": "B00NAJOPMC",
       "title": "Percy Jackson and the Olympians: Books I-III (eBook) by Rick Riordan",
-      "title_es": null,
+      "title_es": "Percy Jackson y los Olimpianos: Libros I-III (eBook) de Rick Riordan",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en las primeras tres aventuras de Percy Jackson, el semidiós moderno que descubre su herencia divina. Ideal para jóvenes lectores y amantes de la mitología griega con un toque contemporáneo.",
+      "post_en": "Dive into the first three adventures of Percy Jackson, the modern demigod discovering his divine heritage. Ideal for young readers and fans of Greek mythology with a contemporary twist.",
       "price_new": 1.99,
       "price_old": 19.99,
       "currency": "USD",
@@ -1370,10 +1370,10 @@
     {
       "asin": "B0D534FPTX",
       "title": "8-Count HFHO Aromatherapy Shower Steamers w/ Natural Essential Oils (Tranquil Floral)",
-      "title_es": null,
+      "title_es": "8 Pastillas de Ducha Aromáticas HFHO con Aceites Esenciales Naturales (Tranquil Floral)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Transforma tu ducha en un spa relajante con estas pastillas aromáticas HFHO de \"Tranquil Floral\". Perfectas para quienes buscan un momento de calma y bienestar en su rutina diaria.",
+      "post_en": "Transform your shower into a relaxing spa with these HFHO \"Tranquil Floral\" aromatherapy shower steamers. Perfect for those seeking a moment of calm and wellness in their daily routine.",
       "price_new": 3.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1392,10 +1392,10 @@
     {
       "asin": "B0D9CMW6NJ",
       "title": "BTFBM Women's Chunky Cable Knit Crewneck Pullover Sweater (S-XL, Various Colors) from",
-      "title_es": null,
+      "title_es": "Suéter BTFBM de Punto Trenzado Grueso con Cuello Redondo para Mujer (S-XL, Varios Colores)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este suéter BTFBM de punto trenzado ofrece calidez y estilo con su diseño de cuello redondo. Una prenda versátil y cómoda para cualquier guardarropa de invierno, disponible en varias tallas y colores.",
+      "post_en": "This BTFBM chunky cable knit sweater offers warmth and style with its crewneck design. A versatile and comfortable garment for any winter wardrobe, available in various sizes and colors.",
       "price_new": 12.39,
       "price_old": 35.0,
       "currency": "USD",
@@ -1414,10 +1414,10 @@
     {
       "asin": "B0D7Q23VRQ",
       "title": "LC-dolida Bluetooth 5.4 Sleep Headphones",
-      "title_es": null,
+      "title_es": "Auriculares LC-dolida Bluetooth 5.4 para Dormir",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de música o podcasts cómodamente mientras duermes con estos auriculares LC-dolida Bluetooth 5.4. Su diseño suave y ergonómico es ideal para relajarse sin molestias.",
+      "post_en": "Enjoy music or podcasts comfortably while you sleep with these LC-dolida Bluetooth 5.4 headphones. Their soft, ergonomic design is ideal for relaxing without discomfort.",
       "price_new": 7.99,
       "price_old": 19.99,
       "currency": "USD",
@@ -1436,10 +1436,10 @@
     {
       "asin": "B00NGV4E1G",
       "title": "Ninja Nutri Personal & Countertop Blender, 1200W Auto-iQ, Black, BL642 at Amazon",
-      "title_es": null,
+      "title_es": "Batidora Personal y de Vaso Ninja Nutri, 1200W Auto-iQ, Negra, BL642",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La batidora Ninja Nutri BL642, con 1200W y tecnología Auto-iQ, es perfecta para preparar batidos, salsas y más en segundos. Ideal para cocinas modernas que buscan eficiencia y versatilidad.",
+      "post_en": "The Ninja Nutri BL642 blender, with 1200W and Auto-iQ technology, is perfect for preparing smoothies, sauces, and more in seconds. Ideal for modern kitchens seeking efficiency and versatility.",
       "price_new": 119.99,
       "price_old": 199.0,
       "currency": "USD",
@@ -1458,10 +1458,10 @@
     {
       "asin": "B084V8B76X",
       "title": "Rules of Estrangement: Why Adult Children Cut Ties and How to Heal the Conflict (eBook) by Joshua Coleman Ph D.",
-      "title_es": null,
+      "title_es": "Rules of Estrangement: Por Qué los Hijos Adultos Cortan Lazos y Cómo Sanar el Conflicto (eBook) de Joshua Coleman Ph D.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este eBook de Joshua Coleman Ph D. explora las razones detrás del distanciamiento familiar y ofrece guía para sanar estas complejas relaciones. Es una lectura esencial para padres e hijos que buscan entender y mejorar sus lazos.",
+      "post_en": "This eBook by Joshua Coleman Ph D. explores the reasons behind family estrangement and offers guidance to heal these complex relationships. It's essential reading for parents and adult children seeking to understand and improve their bonds.",
       "price_new": 1.99,
       "price_old": 10.99,
       "currency": "USD",
@@ -1480,10 +1480,10 @@
     {
       "asin": "B0DC85HZKQ",
       "title": "Twilight of the Warriors: Walled In (Blu-ray)",
-      "title_es": null,
+      "title_es": "Twilight of the Warriors: Walled In (Blu-ray)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de la acción y el drama de \"Twilight of the Warriors: Walled In\" en formato Blu-ray, con una calidad de imagen y sonido superior. Una película imprescindible para los aficionados al cine de artes marciales y thrillers intensos.",
+      "post_en": "Enjoy the action and drama of \"Twilight of the Warriors: Walled In\" in Blu-ray format, with superior image and sound quality. A must-see film for fans of martial arts cinema and intense thrillers.",
       "price_new": 12.3,
       "price_old": 35.0,
       "currency": "USD",
@@ -1502,10 +1502,10 @@
     {
       "asin": "B0F3DC2VGC",
       "title": "Nexpow 180PSI 15000mAh Cordless Air Compressor w/ Digital Tire Pressure Gauge at Amazon",
-      "title_es": null,
+      "title_es": "Compresor de Aire Inalámbrico Nexpow 180PSI 15000mAh con Medidor Digital de Presión de Neumáticos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este compresor de aire Nexpow portátil y potente es ideal para inflar neumáticos de coche, bicicleta u otros objetos con facilidad. Incluye un medidor digital de presión para un control preciso, perfecto para emergencias o mantenimiento regular. 🚗",
+      "post_en": "This portable and powerful Nexpow air compressor is ideal for easily inflating car tires, bicycle tires, or other items. It includes a digital tire pressure gauge for precise control, perfect for emergencies or regular maintenance. 🚗",
       "price_new": 13.99,
       "price_old": 35.09,
       "currency": "USD",
@@ -1524,10 +1524,10 @@
     {
       "asin": "B0CGY3FHDR",
       "title": "261-Pc LEGO Creator 3 in 1 Retro Camera Building Set",
-      "title_es": null,
+      "title_es": "Set de Construcción LEGO Creator 3 en 1 Cámara Retro de 261 Piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Construye una cámara retro, una videocámara o un televisor vintage con este versátil set LEGO Creator 3 en 1 de 261 piezas. Perfecto para amantes de LEGO y la fotografía que disfrutan de desafíos creativos.",
+      "post_en": "Build a retro camera, a camcorder, or a vintage television with this versatile 261-piece LEGO Creator 3 in 1 set. Perfect for LEGO and photography enthusiasts who enjoy creative challenges.",
       "price_new": 15.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1546,10 +1546,10 @@
     {
       "asin": "B0DSPVP337",
       "title": "145W UGREEN Nexode 20000mAh Power Bank w/ Built-in USB-C Cable",
-      "title_es": null,
+      "title_es": "Power Bank UGREEN Nexode 20000mAh de 145W con Cable USB-C Incorporado",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El power bank UGREEN Nexode de 20000mAh y 145W ofrece carga rápida y eficiente para tus dispositivos, incluyendo un cable USB-C integrado. Es el compañero ideal para viajeros y usuarios con múltiples gadgets que necesitan energía en movimiento.",
+      "post_en": "The UGREEN Nexode 20000mAh 145W power bank provides fast and efficient charging for your devices, including a built-in USB-C cable. It's the ideal companion for travelers and multi-gadget users who need power on the go.",
       "price_new": 45.5,
       "price_old": 89.99,
       "currency": "USD",
@@ -1568,10 +1568,10 @@
     {
       "asin": "B00X52TZYM",
       "title": "DEWALT 20V MAX* 7-1/4-Inch Miter Saw, Cordless (DCS361M1) at Amazon",
-      "title_es": null,
+      "title_es": "Sierra de inglete inalámbrica DEWALT 20V MAX* 7-1/4-pulgadas (DCS361M1)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta sierra de inglete inalámbrica DEWALT ofrece portabilidad y potencia para cortes precisos en cualquier lugar. Es ideal para profesionales y entusiastas del bricolaje que necesitan versatilidad sin depender de un enchufe.",
+      "post_en": "This DEWALT cordless miter saw offers portability and power for precise cuts anywhere. It's ideal for professionals and DIY enthusiasts who need versatility without relying on an outlet.",
       "price_new": 329.0,
       "price_old": 519.0,
       "currency": "USD",
@@ -1590,10 +1590,10 @@
     {
       "asin": "B0FBWYQYT6",
       "title": "BTFBM Women's Fall Fashion Faux Suede Jacket (Various) from",
-      "title_es": null,
+      "title_es": "Chaqueta de ante sintético de moda para mujer BTFBM (varios)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Una elegante chaqueta de ante sintético BTFBM perfecta para añadir un toque chic a tus atuendos de otoño. Su diseño versátil la convierte en una prenda esencial para cualquier armario.",
+      "post_en": "A stylish BTFBM faux suede jacket perfect for adding a chic touch to your fall outfits. Its versatile design makes it an essential piece for any wardrobe.",
       "price_new": 16.23,
       "price_old": 35.0,
       "currency": "USD",
@@ -1612,10 +1612,10 @@
     {
       "asin": "B00007L64F",
       "title": "24-Ct Advil Ibuprofen Tablets (200mg)",
-      "title_es": null,
+      "title_es": "Tabletas de ibuprofeno Advil (200mg), 24 unidades",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Advil Ibuprofeno 200mg proporciona alivio rápido y efectivo para dolores leves a moderados, fiebre y molestias. Es un básico en cualquier botiquín para el alivio sintomático ocasional.",
+      "post_en": "Advil Ibuprofen 200mg offers fast and effective relief for mild to moderate pain, fever, and discomfort. It's a staple for any medicine cabinet for occasional symptomatic relief.",
       "price_new": 0.75,
       "price_old": 5.49,
       "currency": "USD",
@@ -1634,10 +1634,10 @@
     {
       "asin": "B092MXJFNS",
       "title": "24-Oz Contigo Cortland Chill 2.0 Stainless Steel Vacuum-Insulated Water Bottle at Amazon",
-      "title_es": null,
+      "title_es": "Botella de agua Contigo Cortland Chill 2.0 de acero inoxidable con aislamiento al vacío, 24-Oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mantén tus bebidas frías durante horas con esta botella Contigo Cortland Chill 2.0 de acero inoxidable con aislamiento al vacío. Su diseño a prueba de derrames la hace perfecta para el gimnasio, la oficina o cualquier aventura. 💧",
+      "post_en": "Keep your drinks cold for hours with this Contigo Cortland Chill 2.0 stainless steel vacuum-insulated water bottle. Its spill-proof design makes it perfect for the gym, office, or any adventure. 💧",
       "price_new": 12.99,
       "price_old": 28.49,
       "currency": "USD",
@@ -1656,10 +1656,10 @@
     {
       "asin": "B0FHJ42YKD",
       "title": "Byliable Portable Folding Camping Chair w/ Drink Holder and Cooler Pouch (Gray)",
-      "title_es": null,
+      "title_es": "Silla de camping plegable portátil Byliable con portavasos y bolsa térmica (gris)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de la comodidad al aire libre con esta silla de camping plegable Byliable, equipada con portavasos y una práctica bolsa térmica. Es ideal para picnics, camping o eventos deportivos.",
+      "post_en": "Enjoy outdoor comfort with this Byliable portable folding camping chair, equipped with a drink holder and a convenient cooler pouch. It's ideal for picnics, camping, or sporting events.",
       "price_new": 19.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -1678,10 +1678,10 @@
     {
       "asin": "B07FLP3XNP",
       "title": "The Neverending Story (eBook) by Michael Ende",
-      "title_es": null,
+      "title_es": "La historia interminable (eBook) de Michael Ende",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en el clásico atemporal \"La historia interminable\" de Michael Ende, una aventura fantástica que cautiva a lectores de todas las edades. Este eBook es perfecto para disfrutar de la magia de Fantasía en cualquier dispositivo.",
+      "post_en": "Dive into the timeless classic \"The Neverending Story\" by Michael Ende, a fantastic adventure that captivates readers of all ages. This eBook is perfect for enjoying the magic of Fantastica on any device.",
       "price_new": 1.99,
       "price_old": 6.99,
       "currency": "USD",
@@ -1700,10 +1700,10 @@
     {
       "asin": "B0H4SY4D9K",
       "title": "Amazon – Halloween Treat Bags -",
-      "title_es": null,
+      "title_es": "Bolsas de dulces de Halloween de Amazon",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Prepara tus golosinas de Halloween con estas divertidas y prácticas bolsas de Amazon. Son perfectas para el \"truco o trato\" y para repartir dulces en tu fiesta.",
+      "post_en": "Get your Halloween treats ready with these fun and practical Amazon treat bags. They are perfect for \"trick-or-treating\" and for handing out candy at your party.",
       "price_new": 4.19,
       "price_old": 6.99,
       "currency": "USD",
@@ -1722,10 +1722,10 @@
     {
       "asin": "B0FMS8NDYY",
       "title": "1107-Piece LEGO Dreamzzz: Season 4 - Crocodile Submarine (71512, 2026)",
-      "title_es": null,
+      "title_es": "LEGO Dreamzzz: Temporada 4 - Submarino Cocodrilo (71512, 2026), 1107 piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Construye el impresionante Submarino Cocodrilo de LEGO Dreamzzz con este set de 1107 piezas, inspirado en la Temporada 4. Ideal para jóvenes constructores y fans de la serie que buscan aventuras creativas.",
+      "post_en": "Build the impressive LEGO Dreamzzz Crocodile Submarine with this 1107-piece set, inspired by Season 4. Ideal for young builders and fans of the series looking for creative adventures.",
       "price_new": 48.99,
       "price_old": 69.99,
       "currency": "USD",
@@ -1744,10 +1744,10 @@
     {
       "asin": "B0FYFDD1WW",
       "title": "UGREEN Nexode Pro 160W Charger w/ Smart Display at Amazon",
-      "title_es": null,
+      "title_es": "Cargador UGREEN Nexode Pro 160W con pantalla inteligente",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Carga múltiples dispositivos rápidamente con el cargador UGREEN Nexode Pro 160W, que incorpora una pantalla inteligente para monitorizar la potencia. Es la solución ideal para quienes necesitan una carga eficiente y potente en casa o de viaje.",
+      "post_en": "Charge multiple devices rapidly with the UGREEN Nexode Pro 160W charger, featuring a smart display to monitor power output. It's the ideal solution for those who need efficient and powerful charging at home or on the go.",
       "price_new": 59.99,
       "price_old": 89.99,
       "currency": "USD",
@@ -1766,10 +1766,10 @@
     {
       "asin": "B0FJMQJZM3",
       "title": "Timex Unisex Weekender 38mm Watch at Amazon",
-      "title_es": null,
+      "title_es": "Reloj Timex Unisex Weekender 38mm",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El reloj Timex Unisex Weekender de 38mm es un clásico versátil, perfecto para el uso diario con su diseño atemporal. Es un accesorio funcional y elegante para cualquier muñeca.",
+      "post_en": "The Timex Unisex Weekender 38mm watch is a versatile classic, perfect for daily wear with its timeless design. It's a functional and stylish accessory for any wrist.",
       "price_new": 60.26,
       "price_old": 95.0,
       "currency": "USD",
@@ -1788,10 +1788,10 @@
     {
       "asin": "B007679QTG",
       "title": "Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships (eBook) by Christopher Ryan, Cacilda Jetha",
-      "title_es": null,
+      "title_es": "Sex at Dawn: Cómo nos apareamos, por qué somos infieles y qué significa para las relaciones modernas (eBook) de Christopher Ryan, Cacilda Jetha",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este eBook explora la evolución de la sexualidad humana y las relaciones modernas, desafiando ideas preconcebidas. Ideal para quienes buscan una perspectiva antropológica y psicológica sobre el amor y el compromiso. 📚",
+      "post_en": "This eBook explores the evolution of human sexuality and modern relationships, challenging preconceived notions. Ideal for those seeking an anthropological and psychological perspective on love and commitment. 📚",
       "price_new": 1.99,
       "price_old": 14.99,
       "currency": "USD",
@@ -1810,10 +1810,10 @@
     {
       "asin": "B0FQFT6WPC",
       "title": "Apple iPhone Air Bumper (Tan) ​​​​​​​ at Amazon",
-      "title_es": null,
+      "title_es": "Bumper Apple iPhone Air (Tan)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Protege tu Apple iPhone Air con este bumper resistente en color Tan. Ofrece una defensa discreta contra golpes y arañazos sin añadir volumen excesivo.",
+      "post_en": "Protect your Apple iPhone Air with this durable bumper in Tan. It offers discreet defense against bumps and scratches without adding excessive bulk.",
       "price_new": 12.6,
       "price_old": 39.0,
       "currency": "USD",
@@ -1832,10 +1832,10 @@
     {
       "asin": "B07P1Z6S39",
       "title": "24-Ct Happy Belly Dark Roast Keurig Coffee Pods (Dark Roast)",
-      "title_es": null,
+      "title_es": "24 Cápsulas de Café Keurig Happy Belly Dark Roast",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de un café intenso con estas 24 cápsulas Keurig Happy Belly Dark Roast. Perfectas para amantes del café oscuro que buscan comodidad y sabor. ☕",
+      "post_en": "Enjoy an intense coffee with these 24 Happy Belly Dark Roast Keurig coffee pods. Perfect for dark coffee lovers seeking convenience and rich flavor. ☕",
       "price_new": 5.2,
       "price_old": 9.03,
       "currency": "USD",
@@ -1854,10 +1854,10 @@
     {
       "asin": "B0FY1KHW86",
       "title": "Checkered Crossbody Bag Bum Bag",
-      "title_es": null,
+      "title_es": "Riñonera Bandolera Cuadros",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta versátil riñonera bandolera con diseño de cuadros es ideal para llevar tus esenciales con estilo. Perfecta para el día a día o viajes, ofreciendo comodidad y un toque moderno.",
+      "post_en": "This versatile checkered crossbody bag is ideal for carrying your essentials in style. Perfect for daily use or travel, offering comfort and a modern touch.",
       "price_new": 8.47,
       "price_old": 35.0,
       "currency": "USD",
@@ -1876,10 +1876,10 @@
     {
       "asin": "B0FWKYJZ8Q",
       "title": "9.4-Oz Seventh Generation Ultra Deep Probiotic Multi-Surface Cleaner Spray (Grapefruit & Orange or Fresh Breeze)",
-      "title_es": null,
+      "title_es": "Spray Limpiador Multisuperficies con Probióticos Seventh Generation Ultra Deep (Pomelo & Naranja o Brisa Fresca)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Limpiador multisuperficies Seventh Generation con probióticos para una limpieza profunda y natural. Disponible en aromas refrescantes de pomelo y naranja o brisa fresca, ideal para un hogar limpio y consciente. ✨",
+      "post_en": "Seventh Generation multi-surface cleaner with probiotics for a deep and natural clean. Available in refreshing Grapefruit & Orange or Fresh Breeze scents, ideal for a clean and conscious home. ✨",
       "price_new": 2.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1898,10 +1898,10 @@
     {
       "asin": "B091BGMKYS",
       "title": "UGREEN USB Charging Accessories: 3-Port UGREEN 65W Nexode USB-C GaN Wall Block at Amazon",
-      "title_es": null,
+      "title_es": "Cargador de Pared UGREEN 65W Nexode USB-C GaN de 3 Puertos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este cargador de pared UGREEN Nexode de 65W con tecnología GaN ofrece carga rápida para múltiples dispositivos USB-C. Ideal para usuarios con varios gadgets que buscan eficiencia y portabilidad.",
+      "post_en": "This UGREEN Nexode 65W GaN wall charger provides fast charging for multiple USB-C devices. Ideal for users with several gadgets looking for efficiency and portability.",
       "price_new": 23.99,
       "price_old": 39.99,
       "currency": "USD",
@@ -1920,10 +1920,10 @@
     {
       "asin": "B0CMX2KLVF",
       "title": "PowerA Protection Case for Nintendo Switch (Champions of Hyrule)",
-      "title_es": null,
+      "title_es": "Funda Protectora PowerA para Nintendo Switch (Champions of Hyrule)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Protege tu Nintendo Switch con esta funda PowerA con diseño de Champions of Hyrule. Ofrece un transporte seguro y organizado para tu consola y accesorios. 🎮",
+      "post_en": "Protect your Nintendo Switch with this PowerA case featuring a Champions of Hyrule design. It offers safe and organized transport for your console and accessories. 🎮",
       "price_new": 12.97,
       "price_old": 35.0,
       "currency": "USD",
@@ -1942,10 +1942,10 @@
     {
       "asin": "B096XGJMRF",
       "title": "The Day of the Triffids (eBook) by John Wyndham",
-      "title_es": null,
+      "title_es": "El Día de los Trífidos (eBook) de John Wyndham",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en este clásico de la ciencia ficción post-apocalíptica de John Wyndham. Una lectura esencial para amantes de las historias de supervivencia y mundos distópicos.",
+      "post_en": "Immerse yourself in this classic post-apocalyptic science fiction novel by John Wyndham. An essential read for fans of survival stories and dystopian worlds.",
       "price_new": 1.99,
       "price_old": 7.99,
       "currency": "USD",
@@ -1964,10 +1964,10 @@
     {
       "asin": "B0FSGGYHFL",
       "title": "Yakuza Kiwami 3 & Dark Ties (PlayStation 5) at Amazon",
-      "title_es": null,
+      "title_es": "Yakuza Kiwami 3 & Dark Ties (PlayStation 5)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de la acción y la intriga de Yakuza Kiwami 3 & Dark Ties para PlayStation 5. Este título ofrece una experiencia de juego inmersiva para los fans de la saga.",
+      "post_en": "Enjoy the action and intrigue of Yakuza Kiwami 3 & Dark Ties for PlayStation 5. This title offers an immersive gaming experience for fans of the series.",
       "price_new": 29.99,
       "price_old": 59.99,
       "currency": "USD",
@@ -1986,10 +1986,10 @@
     {
       "asin": "B09F6WCH5K",
       "title": "35-Count Seventh Generation Multi-Surface Cleaning Wipes (Garden Mint)",
-      "title_es": null,
+      "title_es": "35 Toallitas Limpiadoras Multisuperficies Seventh Generation (Menta de Jardín)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estas toallitas limpiadoras Seventh Generation con aroma a menta de jardín son ideales para una limpieza rápida y efectiva. Perfectas para mantener cualquier superficie impecable con ingredientes de origen vegetal. 🌱",
+      "post_en": "These Seventh Generation cleaning wipes with a garden mint scent are ideal for quick and effective cleaning. Perfect for keeping any surface spotless with plant-based ingredients. 🌱",
       "price_new": 3.03,
       "price_old": 35.0,
       "currency": "USD",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009451",
       "published_at": "2026-09-14T03:01:49+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B0CCRZPKR1",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20010168",
       "published_at": "2026-09-14T00:46:27+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B09NZKKHJM",
@@ -2465,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009166",
       "published_at": "2026-09-14T00:46:27+00:00",
-      "revalidated_at": "2026-09-14T23:00:50+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B0CQF1R8BN",
@@ -2487,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009187",
       "published_at": "2026-09-14T00:31:20+00:00",
-      "revalidated_at": "2026-09-14T22:45:55+00:00"
+      "revalidated_at": "2026-09-15T00:45:29+00:00"
     },
     {
       "asin": "B0DFW43B44",
