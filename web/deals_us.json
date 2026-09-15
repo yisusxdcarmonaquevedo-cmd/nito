@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-15T19:01:18+00:00",
+  "generated_at": "2026-09-15T19:16:13+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B0FW53XKZS",
+      "title": "VOLLYC 150PSI Portable Air Compressor w/ Digital Pressure Gauge",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 10.5,
+      "price_old": 39.99,
+      "currency": "USD",
+      "discount_pct": 73.7,
+      "rating": 4.6,
+      "condition": "coupon",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/61ob96Va4qL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FW53XKZS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20018112",
+      "published_at": "2026-09-15T19:16:13+00:00",
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
+    },
     {
       "asin": "B0DM1STHCN",
       "title": "2-Pk INIU 30W GaN Mini USB-C/A Wall Chargers w/ 2x 5' USB-C Cables (Black)",
@@ -14,11 +36,11 @@
       "price_old": 17.99,
       "currency": "USD",
       "discount_pct": 54.1,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/4/8/2/3/7/7/450x450/21608283.thumb",
+      "image": "https://m.media-amazon.com/images/I/81tEzBPWlNL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DM1STHCN/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20019285",
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20018619",
       "published_at": "2026-09-15T17:16:21+00:00",
-      "revalidated_at": "2026-09-15T17:16:21+00:00"
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
     },
     {
       "asin": "B0DJ6QQCNB",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20018601",
       "published_at": "2026-09-15T17:16:21+00:00",
-      "revalidated_at": "2026-09-15T17:16:21+00:00"
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
     },
     {
       "asin": "B0GV7MDHT6",
@@ -442,28 +464,6 @@
       "deal_key": "sd:20018031",
       "published_at": "2026-09-15T16:01:23+00:00",
       "revalidated_at": "2026-09-15T17:46:09+00:00"
-    },
-    {
-      "asin": "B07X3JRSF2",
-      "title": "EGO Power+ ST1502LB 15\" String Trimmer & 530CFM Blower Combo Kit w/ 2.5Ah Battery at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 199.99,
-      "price_old": 329.99,
-      "currency": "USD",
-      "discount_pct": 39.4,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/613miSXwFAL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07X3JRSF2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20017932",
-      "published_at": "2026-09-15T15:31:10+00:00",
-      "revalidated_at": "2026-09-15T17:16:21+00:00"
     },
     {
       "asin": "B07K8CRZFM",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20015115",
       "published_at": "2026-09-15T13:31:03+00:00",
-      "revalidated_at": "2026-09-15T17:16:21+00:00"
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
     },
     {
       "asin": "B0HB86FWZ4",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20017245",
       "published_at": "2026-09-15T11:46:23+00:00",
-      "revalidated_at": "2026-09-15T17:16:21+00:00"
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
     },
     {
       "asin": "B0CNY1F31S",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20015841",
       "published_at": "2026-09-15T06:01:12+00:00",
-      "revalidated_at": "2026-09-15T17:16:21+00:00"
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
     },
     {
       "asin": "B0FR2SFQ68",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20006502",
       "published_at": "2026-09-15T03:45:53+00:00",
-      "revalidated_at": "2026-09-15T17:06:38+00:00"
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
     },
     {
       "asin": "B01EYDEY9G",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20005185",
       "published_at": "2026-09-15T03:45:53+00:00",
-      "revalidated_at": "2026-09-15T17:06:38+00:00"
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
     },
     {
       "asin": "B0G4TPDYW8",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20015949",
       "published_at": "2026-09-15T03:45:53+00:00",
-      "revalidated_at": "2026-09-15T17:06:38+00:00"
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
     },
     {
       "asin": "B0GK61T77F",
@@ -1343,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20013906",
       "published_at": "2026-09-15T03:45:53+00:00",
-      "revalidated_at": "2026-09-15T17:06:38+00:00"
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
     },
     {
       "asin": "B0CR19LDZQ",
@@ -1585,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20014362",
       "published_at": "2026-09-15T00:15:36+00:00",
-      "revalidated_at": "2026-09-15T17:16:21+00:00"
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
     },
     {
       "asin": "B0GNTCJNTT",
@@ -2069,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20014353",
       "published_at": "2026-09-14T20:15:59+00:00",
-      "revalidated_at": "2026-09-15T17:06:38+00:00"
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
     },
     {
       "asin": "B0GVYMQVVB",
@@ -2091,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20014227",
       "published_at": "2026-09-14T20:01:16+00:00",
-      "revalidated_at": "2026-09-15T17:06:38+00:00"
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
     },
     {
       "asin": "B0DYV5MPLF",
@@ -2113,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20011395",
       "published_at": "2026-09-14T20:01:16+00:00",
-      "revalidated_at": "2026-09-15T17:06:38+00:00"
+      "revalidated_at": "2026-09-15T19:16:13+00:00"
     },
     {
       "asin": "B0051ANRMW",
