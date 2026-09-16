@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-16T19:46:15+00:00",
+  "generated_at": "2026-09-16T20:01:28+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B09LZ766JN",
+      "title": "The 7 Habits of Highly Effective People: The Infographics Edition (eBook) by Stephen R. Covey",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.99,
+      "price_old": 9.99,
+      "currency": "USD",
+      "discount_pct": 80.1,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21619467.thumb",
+      "url": "https://amazon.com/dp/B09LZ766JN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20023923",
+      "published_at": "2026-09-16T20:01:28+00:00",
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
+    },
     {
       "asin": "B0D9PDW3VM",
       "title": "1.7-Oz L'Oreal Paris Collagen Moisture Filler Face Moisturizer (Fragrance-Free)",
@@ -58,11 +80,11 @@
       "price_old": 102.84,
       "currency": "USD",
       "discount_pct": 41.7,
-      "rating": null,
+      "rating": 4.3,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/21616062.thumb",
+      "image": "https://m.media-amazon.com/images/I/717zvazPNkL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GL3LSRGQ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20022924",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20021649",
       "published_at": "2026-09-16T16:15:46+00:00",
-      "revalidated_at": "2026-09-16T18:16:16+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     },
     {
       "asin": "B0GSCFY5TX",
@@ -881,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20022510",
       "published_at": "2026-09-16T14:30:44+00:00",
-      "revalidated_at": "2026-09-16T18:16:16+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     },
     {
       "asin": "B0FM48K7T9",
@@ -1101,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20022030",
       "published_at": "2026-09-16T12:15:41+00:00",
-      "revalidated_at": "2026-09-16T18:16:16+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     },
     {
       "asin": "B0H1WC82GP",
@@ -1277,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20021922",
       "published_at": "2026-09-16T10:31:42+00:00",
-      "revalidated_at": "2026-09-16T18:16:16+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     },
     {
       "asin": "B0FD2TMKTN",
@@ -1519,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20016456",
       "published_at": "2026-09-16T04:46:30+00:00",
-      "revalidated_at": "2026-09-16T18:16:16+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     },
     {
       "asin": "B0D9GT81S9",
@@ -1585,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20020584",
       "published_at": "2026-09-16T02:31:49+00:00",
-      "revalidated_at": "2026-09-16T18:16:16+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     },
     {
       "asin": "B0F5NDNHF6",
@@ -1805,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20018151",
       "published_at": "2026-09-16T01:47:23+00:00",
-      "revalidated_at": "2026-09-16T18:01:31+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     },
     {
       "asin": "B0F9B3ZV61",
@@ -1827,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20017971",
       "published_at": "2026-09-16T01:47:23+00:00",
-      "revalidated_at": "2026-09-16T18:01:31+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     },
     {
       "asin": "B0FK4ZYFBQ",
@@ -1849,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20018604",
       "published_at": "2026-09-16T01:47:23+00:00",
-      "revalidated_at": "2026-09-16T18:01:31+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     },
     {
       "asin": "B0H29GYQFK",
@@ -1871,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20018109",
       "published_at": "2026-09-16T01:47:23+00:00",
-      "revalidated_at": "2026-09-16T18:01:31+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     },
     {
       "asin": "B0HGQ2DYLP",
@@ -1981,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20018427",
       "published_at": "2026-09-16T00:46:31+00:00",
-      "revalidated_at": "2026-09-16T18:16:16+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     },
     {
       "asin": "B0DP5FW9QQ",
@@ -2025,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20020398",
       "published_at": "2026-09-16T00:32:03+00:00",
-      "revalidated_at": "2026-09-16T18:01:31+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     },
     {
       "asin": "B0GD73Y85Z",
@@ -2047,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20020017",
       "published_at": "2026-09-16T00:32:03+00:00",
-      "revalidated_at": "2026-09-16T18:01:31+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     },
     {
       "asin": "B09X19HQHV",
@@ -2619,7 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20018559",
       "published_at": "2026-09-15T18:31:20+00:00",
-      "revalidated_at": "2026-09-16T18:01:31+00:00"
+      "revalidated_at": "2026-09-16T20:01:28+00:00"
     }
   ]
 }
