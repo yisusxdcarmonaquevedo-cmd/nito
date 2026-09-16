@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T08:31:26+00:00",
+  "generated_at": "2026-09-16T08:46:16+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
     {
       "asin": "059383612X",
@@ -256,11 +256,11 @@
       "price_old": 149.95,
       "currency": "USD",
       "discount_pct": 33.3,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21599604.thumb",
+      "image": "https://m.media-amazon.com/images/I/81tsC2pCiIL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B09NMNLMZC/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20016270",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20019456",
       "published_at": "2026-09-16T01:16:40+00:00",
-      "revalidated_at": "2026-09-16T06:46:09+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B0F7RCJ7GS",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20019528",
       "published_at": "2026-09-16T01:16:40+00:00",
-      "revalidated_at": "2026-09-16T06:46:09+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B0C1716NR3",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20010987",
       "published_at": "2026-09-15T23:16:48+00:00",
-      "revalidated_at": "2026-09-16T06:46:09+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B0872Y3HJC",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20019858",
       "published_at": "2026-09-15T21:32:06+00:00",
-      "revalidated_at": "2026-09-16T06:46:09+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B0D3ZCWFZG",
@@ -1082,28 +1082,6 @@
       "revalidated_at": "2026-09-16T07:01:11+00:00"
     },
     {
-      "asin": "B08FDB3LVR",
-      "title": "[Lightning Deal]",
-      "title_es": "Oferta Flash",
-      "headline": null,
-      "post": "Aprovecha esta oferta flash para un producto de hogar y cocina. Es una oportunidad para adquirir un artículo práctico a un precio excepcional.",
-      "post_en": "Take advantage of this lightning deal for a home and kitchen product. It's an opportunity to acquire a practical item at an exceptional price.",
-      "price_new": 9.99,
-      "price_old": 39.0,
-      "currency": "USD",
-      "discount_pct": 74.4,
-      "rating": 4.1,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51eDQgVrBpL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B08FDB3LVR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20019444",
-      "published_at": "2026-09-15T19:46:10+00:00",
-      "revalidated_at": "2026-09-16T06:46:09+00:00"
-    },
-    {
       "asin": "B0FZK9Y9FK",
       "title": "Dreamon 3-Pack Collapsible Sand Buckets w/ Shovels, Rakes & Mesh Bag",
       "title_es": "Set de 3 cubos de arena plegables Dreamon con palas, rastrillos y bolsa de malla",
@@ -1123,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20015040",
       "published_at": "2026-09-15T19:46:10+00:00",
-      "revalidated_at": "2026-09-16T06:46:09+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B0FNCXZ7Z4",
@@ -1959,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20016498",
       "published_at": "2026-09-15T12:01:12+00:00",
-      "revalidated_at": "2026-09-16T06:46:09+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B0DJ19R8H7",
@@ -2069,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20014689",
       "published_at": "2026-09-15T08:01:08+00:00",
-      "revalidated_at": "2026-09-16T06:46:09+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B0GVV9MBFC",
@@ -2157,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20015841",
       "published_at": "2026-09-15T06:01:12+00:00",
-      "revalidated_at": "2026-09-16T06:46:09+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B0FR2SFQ68",
@@ -2289,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20014377",
       "published_at": "2026-09-15T03:45:53+00:00",
-      "revalidated_at": "2026-09-16T06:31:08+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B09VXJBFKY",
@@ -2311,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20013396",
       "published_at": "2026-09-15T03:45:53+00:00",
-      "revalidated_at": "2026-09-16T06:31:08+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B0DG2LMRBL",
@@ -2333,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20006502",
       "published_at": "2026-09-15T03:45:53+00:00",
-      "revalidated_at": "2026-09-16T06:46:09+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B01EYDEY9G",
@@ -2421,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20014236",
       "published_at": "2026-09-15T03:15:33+00:00",
-      "revalidated_at": "2026-09-16T06:46:09+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B002LLRDS8",
@@ -2487,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20015205",
       "published_at": "2026-09-15T01:46:00+00:00",
-      "revalidated_at": "2026-09-16T06:46:09+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B0GHCJLQNG",
@@ -2509,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20013057",
       "published_at": "2026-09-15T01:46:00+00:00",
-      "revalidated_at": "2026-09-16T06:46:09+00:00"
+      "revalidated_at": "2026-09-16T08:46:16+00:00"
     },
     {
       "asin": "B0HHDZYXHS",
