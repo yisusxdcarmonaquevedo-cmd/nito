@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-16T03:01:53+00:00",
+  "generated_at": "2026-09-16T03:16:30+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0GZN32CQX",
+      "title": "Magnesium Complex Supplement 1000mg",
+      "title_es": "Suplemento de Complejo de Magnesio 1000mg",
+      "headline": null,
+      "post": "Este suplemento de Complejo de Magnesio de 1000mg está diseñado para apoyar diversas funciones corporales esenciales, como la salud muscular y nerviosa. Es ideal para quienes buscan mantener un equilibrio mineral óptimo y mejorar su bienestar general.",
+      "post_en": "This 1000mg Magnesium Complex Supplement is formulated to support various essential bodily functions, including muscle and nerve health. It's ideal for those looking to maintain optimal mineral balance and enhance their overall well-being.",
+      "price_new": 9.0,
+      "price_old": 29.97,
+      "currency": "USD",
+      "discount_pct": 70.0,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/6/7/9/8/5/450x450/21610851.thumb",
+      "url": "https://amazon.com/dp/B0GZN32CQX/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20020599",
+      "published_at": "2026-09-16T03:16:30+00:00",
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
+    },
     {
       "asin": "B08WP8DSXQ",
       "title": "Tank Blu Ray",
@@ -14,11 +36,11 @@
       "price_old": 57.0,
       "currency": "USD",
       "discount_pct": 78.1,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/8/2/8/3/4/450x450/21571236.thumb",
+      "image": "https://m.media-amazon.com/images/I/817IoSaPYQL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B08WP8DSXQ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20003124",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20018226",
       "published_at": "2026-09-15T23:31:55+00:00",
-      "revalidated_at": "2026-09-16T01:18:58+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "B07NZTX69L",
@@ -815,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20016726",
       "published_at": "2026-09-15T21:46:49+00:00",
-      "revalidated_at": "2026-09-16T01:18:58+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "B0F9PJGCJP",
@@ -969,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20018301",
       "published_at": "2026-09-15T20:01:08+00:00",
-      "revalidated_at": "2026-09-16T01:18:58+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "B08FDB3LVR",
@@ -1035,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20019132",
       "published_at": "2026-09-15T19:46:10+00:00",
-      "revalidated_at": "2026-09-16T01:18:58+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "B0C89T698J",
@@ -1057,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20018997",
       "published_at": "2026-09-15T19:46:10+00:00",
-      "revalidated_at": "2026-09-16T01:18:58+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "B0FW53XKZS",
@@ -1211,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20018817",
       "published_at": "2026-09-15T18:01:25+00:00",
-      "revalidated_at": "2026-09-16T01:18:58+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "B0CWNQ5PYJ",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20018070",
       "published_at": "2026-09-15T18:01:25+00:00",
-      "revalidated_at": "2026-09-16T01:18:58+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "0063280779",
@@ -1409,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20007576",
       "published_at": "2026-09-15T16:01:23+00:00",
-      "revalidated_at": "2026-09-16T01:18:58+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "B00KWRM78E",
@@ -2047,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20000280",
       "published_at": "2026-09-15T06:16:15+00:00",
-      "revalidated_at": "2026-09-16T01:16:40+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "B08BX64NFK",
@@ -2179,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20009496",
       "published_at": "2026-09-15T04:15:28+00:00",
-      "revalidated_at": "2026-09-16T01:16:40+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "B005JWUG6C",
@@ -2267,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20005185",
       "published_at": "2026-09-15T03:45:53+00:00",
-      "revalidated_at": "2026-09-16T01:16:40+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "B0G4TPDYW8",
@@ -2289,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20015949",
       "published_at": "2026-09-15T03:45:53+00:00",
-      "revalidated_at": "2026-09-16T01:16:40+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "B0GK61T77F",
@@ -2311,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20013906",
       "published_at": "2026-09-15T03:45:53+00:00",
-      "revalidated_at": "2026-09-16T01:16:40+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "B0CR19LDZQ",
@@ -2553,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20014362",
       "published_at": "2026-09-15T00:15:36+00:00",
-      "revalidated_at": "2026-09-16T01:16:40+00:00"
+      "revalidated_at": "2026-09-16T03:16:30+00:00"
     },
     {
       "asin": "B0GNTCJNTT",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:20014770",
       "published_at": "2026-09-14T23:15:53+00:00",
       "revalidated_at": "2026-09-16T01:33:02+00:00"
-    },
-    {
-      "asin": "B07NYQNBLH",
-      "title": "24-Ct Happy Belly Medium Roast Colombian Coffee Pods for Keurig K-Cup Brewers",
-      "title_es": "24 Cápsulas de Café Colombiano Tostado Medio Happy Belly para Keurig",
-      "headline": null,
-      "post": "Empieza el día con el delicioso café colombiano de tostado medio Happy Belly, compatible con cafeteras Keurig K-Cup. Este pack de 24 cápsulas es ideal para disfrutar de una taza rápida y sabrosa. ☕",
-      "post_en": "Start your day with delicious Happy Belly medium roast Colombian coffee, compatible with Keurig K-Cup brewers. This 24-count pack is ideal for enjoying a quick and flavorful cup. ☕",
-      "price_new": 3.8,
-      "price_old": 9.03,
-      "currency": "USD",
-      "discount_pct": 57.9,
-      "rating": 4.2,
-      "condition": "sns",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81Mc9hSEBCL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07NYQNBLH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20010981",
-      "published_at": "2026-09-14T23:15:53+00:00",
-      "revalidated_at": "2026-09-16T02:02:35+00:00"
     }
   ]
 }
