@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-17T13:01:23+00:00",
+  "generated_at": "2026-09-17T13:16:39+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B00VB1Y3UA",
+      "title": "8-Oz Jack Link's Teriyaki Beef Jerky Half Pounder",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 6.9,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 80.3,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/21627792.thumb",
+      "url": "https://amazon.com/dp/B00VB1Y3UA/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20027460",
+      "published_at": "2026-09-17T13:16:39+00:00",
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
+    },
+    {
+      "asin": "0241769922",
+      "title": "24-Piece Bluey: The Most Amazing Advent Calendar Book Bundle",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.96,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 63.0,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/9/1/2/6/8/2/450x450/21627732.thumb",
+      "url": "https://amazon.com/dp/0241769922/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20027436",
+      "published_at": "2026-09-17T13:16:39+00:00",
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
+    },
+    {
+      "asin": "B0GJ8X24F9",
+      "title": "3-Pack Solar Sunflower Garden Stake Lights w/ 18 Flower Heads & 54 LEDs",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 57.2,
+      "rating": null,
+      "condition": "code",
+      "code": "3P8FI4NR",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/3/1/1/9/6/7/1/6/450x450/21621015.thumb",
+      "url": "https://amazon.com/dp/B0GJ8X24F9/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20024430",
+      "published_at": "2026-09-17T13:16:39+00:00",
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
+    },
     {
       "asin": "B01COSEDKS",
       "title": "VTech Drill and Learn Toolbox at Amazon",
@@ -58,11 +124,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 78.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/4/1/3/2/6/0/450x450/21626097.thumb",
+      "image": "https://m.media-amazon.com/images/I/91EwxnRkDUL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FLB3772K/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20026650",
@@ -265,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20026836",
       "published_at": "2026-09-17T11:16:37+00:00",
-      "revalidated_at": "2026-09-17T11:16:37+00:00"
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
     },
     {
       "asin": "B08F2NJYRQ",
@@ -287,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20026269",
       "published_at": "2026-09-17T11:16:37+00:00",
-      "revalidated_at": "2026-09-17T11:16:37+00:00"
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
     },
     {
       "asin": "B0H3XZ6L81",
@@ -309,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20026680",
       "published_at": "2026-09-17T11:16:37+00:00",
-      "revalidated_at": "2026-09-17T11:16:37+00:00"
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
     },
     {
       "asin": "B0CMJSXKWG",
@@ -331,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20026062",
       "published_at": "2026-09-17T11:16:37+00:00",
-      "revalidated_at": "2026-09-17T11:16:37+00:00"
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
     },
     {
       "asin": "B0C2Z4L3S6",
@@ -441,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20026317",
       "published_at": "2026-09-17T09:31:38+00:00",
-      "revalidated_at": "2026-09-17T11:16:37+00:00"
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
     },
     {
       "asin": "B0GYDMTMJV",
@@ -463,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20012964",
       "published_at": "2026-09-17T09:31:38+00:00",
-      "revalidated_at": "2026-09-17T11:16:37+00:00"
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
     },
     {
       "asin": "B0BR78SSSV",
@@ -2003,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20023200",
       "published_at": "2026-09-16T21:46:46+00:00",
-      "revalidated_at": "2026-09-17T11:02:04+00:00"
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
     },
     {
       "asin": "B0D1CBDFP3",
@@ -2025,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20022540",
       "published_at": "2026-09-16T21:46:46+00:00",
-      "revalidated_at": "2026-09-17T11:02:04+00:00"
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
     },
     {
       "asin": "B0DZT5ZJVF",
@@ -2047,29 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20024256",
       "published_at": "2026-09-16T21:32:26+00:00",
-      "revalidated_at": "2026-09-17T11:02:04+00:00"
-    },
-    {
-      "asin": "B0BS3KBQLZ",
-      "title": "VTech Race & Discover Driver Interactive Learning Kids' Toy at Amazon",
-      "title_es": "Juguete Interactivo de Aprendizaje VTech Race & Discover Driver para Niños",
-      "headline": null,
-      "post": "El VTech Race & Discover Driver es un juguete interactivo que simula la conducción, ideal para que los más pequeños aprendan y se diviertan. Incluye sonidos, frases y actividades que estimulan el desarrollo temprano.",
-      "post_en": "The VTech Race & Discover Driver is an interactive toy that simulates driving, perfect for little ones to learn and have fun. It includes sounds, phrases, and activities that stimulate early development.",
-      "price_new": 15.99,
-      "price_old": 47.99,
-      "currency": "USD",
-      "discount_pct": 66.7,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71yM2ABHYgL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0BS3KBQLZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20023971",
-      "published_at": "2026-09-16T21:32:26+00:00",
-      "revalidated_at": "2026-09-17T11:02:04+00:00"
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
     },
     {
       "asin": "B086X69K8Y",
@@ -2091,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20024286",
       "published_at": "2026-09-16T21:32:26+00:00",
-      "revalidated_at": "2026-09-17T11:02:04+00:00"
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
     },
     {
       "asin": "B0CPNBBY6T",
@@ -2421,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20023716",
       "published_at": "2026-09-16T19:31:25+00:00",
-      "revalidated_at": "2026-09-17T11:02:04+00:00"
+      "revalidated_at": "2026-09-17T13:16:39+00:00"
     },
     {
       "asin": "B0GL3LSRGQ",
@@ -2576,72 +2620,6 @@
       "deal_key": "sd:20023848",
       "published_at": "2026-09-16T18:46:30+00:00",
       "revalidated_at": "2026-09-17T12:16:17+00:00"
-    },
-    {
-      "asin": "B00EI7DPI0",
-      "title": "(Used/Like New) Hamilton Beach Power Elite Wave Action Blender w/ 40-Oz Glass Jar",
-      "title_es": "(Usado/Como Nuevo) Batidora Hamilton Beach Power Elite Wave Action con Jarra de Cristal de 40 Oz",
-      "headline": null,
-      "post": "Esta batidora Hamilton Beach Power Elite Wave Action, en estado \"como nuevo\", cuenta con una jarra de cristal de 40 oz y un sistema de mezcla eficiente. Es perfecta para preparar batidos, salsas y otras recetas con facilidad.",
-      "post_en": "This Hamilton Beach Power Elite Wave Action blender, in \"like new\" condition, features a 40-oz glass jar and an efficient blending system. It's perfect for easily preparing smoothies, sauces, and other recipes.",
-      "price_new": 20.0,
-      "price_old": 39.95,
-      "currency": "USD",
-      "discount_pct": 49.9,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21602757.thumb",
-      "url": "https://amazon.com/dp/B00EI7DPI0/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20017722",
-      "published_at": "2026-09-16T18:46:30+00:00",
-      "revalidated_at": "2026-09-17T12:31:27+00:00"
-    },
-    {
-      "asin": "B0D48W2214",
-      "title": "CINCOM Corded 6-Zone Leg Compression Massager Boots w/ 11 Intensity Levels & 3 Modes (S-L)",
-      "title_es": "Botas de Masaje de Compresión para Piernas CINCOM con Cable, 6 Zonas, 11 Niveles y 3 Modos (S-L)",
-      "headline": null,
-      "post": "Estas botas de masaje CINCOM ofrecen compresión de 6 zonas para aliviar la fatiga y mejorar la circulación en tus piernas. Con 11 niveles de intensidad y 3 modos, son ideales para relajarse después de un largo día o recuperar tus músculos.",
-      "post_en": "These CINCOM massage boots offer 6-zone compression to relieve fatigue and improve circulation in your legs. With 11 intensity levels and 3 modes, they are ideal for relaxing after a long day or recovering your muscles.",
-      "price_new": 136.9,
-      "price_old": 499.99,
-      "currency": "USD",
-      "discount_pct": 72.6,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "TDSISHD4",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/91bNG3VLBHL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D48W2214/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20019030",
-      "published_at": "2026-09-16T18:31:30+00:00",
-      "revalidated_at": "2026-09-17T12:31:27+00:00"
-    },
-    {
-      "asin": "B0FY977XBD",
-      "title": "Cooler Master V4 Alpha 3DHP CPU Air Cooler at Amazon",
-      "title_es": "Disipador de Aire para CPU Cooler Master V4 Alpha 3DHP",
-      "headline": null,
-      "post": "El Cooler Master V4 Alpha 3DHP es un eficiente disipador de aire para CPU diseñado para mantener tu procesador a temperaturas óptimas. Es una excelente opción para entusiastas que buscan mejorar el rendimiento y la estabilidad de su sistema.",
-      "post_en": "The Cooler Master V4 Alpha 3DHP is an efficient CPU air cooler designed to keep your processor at optimal temperatures. It's an excellent option for enthusiasts looking to improve their system's performance and stability.",
-      "price_new": 24.98,
-      "price_old": 49.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71kYNaVB9wL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FY977XBD/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20020290",
-      "published_at": "2026-09-16T18:31:30+00:00",
-      "revalidated_at": "2026-09-17T12:31:27+00:00"
     }
   ]
 }
