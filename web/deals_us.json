@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-18T08:01:47+00:00",
+  "generated_at": "2026-09-18T08:16:38+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0F4DKGRDN",
+      "title": "Amazon - ILIFE V2 Robot Vacuum Cleaner -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 69.0,
+      "price_old": 99.0,
+      "currency": "USD",
+      "discount_pct": 30.3,
+      "rating": 4.5,
+      "condition": "code",
+      "code": "KOFNP54D",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61Fss4uOG+L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0F4DKGRDN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20028183",
+      "published_at": "2026-09-18T08:16:38+00:00",
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
+    },
     {
       "asin": "B071CNQ3TG",
       "title": "8-Ct Energizer Ultimate Lithium AAA Batteries",
@@ -67,29 +89,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20029977",
       "published_at": "2026-09-18T06:16:28+00:00",
-      "revalidated_at": "2026-09-18T06:16:28+00:00"
-    },
-    {
-      "asin": "B0GLGNXJSF",
-      "title": "[Prime] 20\" AKOFUN IP65 Waterproof Outdoor Caged Ceiling Fan w/ Light, Remote & DC Motor (Black)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 64.99,
-      "price_old": 99.99,
-      "currency": "USD",
-      "discount_pct": 35.0,
-      "rating": 4.2,
-      "condition": "code",
-      "code": "8YBVGK5R",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81Oweq+DDRL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GLGNXJSF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20029857",
-      "published_at": "2026-09-18T06:16:28+00:00",
-      "revalidated_at": "2026-09-18T06:16:28+00:00"
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
     },
     {
       "asin": "B0GFGJ26TV",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20027538",
       "published_at": "2026-09-18T02:32:15+00:00",
-      "revalidated_at": "2026-09-18T06:16:28+00:00"
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
     },
     {
       "asin": "B0G6JHVHRC",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20028900",
       "published_at": "2026-09-18T02:32:15+00:00",
-      "revalidated_at": "2026-09-18T06:16:28+00:00"
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
     },
     {
       "asin": "B0HDD7KM4J",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20030535",
       "published_at": "2026-09-18T02:32:15+00:00",
-      "revalidated_at": "2026-09-18T06:16:28+00:00"
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
     },
     {
       "asin": "B0HFSHSSKH",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20030652",
       "published_at": "2026-09-18T02:32:15+00:00",
-      "revalidated_at": "2026-09-18T06:16:28+00:00"
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
     },
     {
       "asin": "B09TVLJ7TY",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20030484",
       "published_at": "2026-09-18T02:32:15+00:00",
-      "revalidated_at": "2026-09-18T06:16:28+00:00"
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
     },
     {
       "asin": "B0GK7Y184F",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20030208",
       "published_at": "2026-09-18T00:31:54+00:00",
-      "revalidated_at": "2026-09-18T06:16:28+00:00"
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
     },
     {
       "asin": "B0CWH7VGD9",
@@ -661,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20020857",
       "published_at": "2026-09-18T00:31:54+00:00",
-      "revalidated_at": "2026-09-18T06:16:28+00:00"
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
     },
     {
       "asin": "B0CB7RBHKJ",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20028558",
       "published_at": "2026-09-18T00:31:54+00:00",
-      "revalidated_at": "2026-09-18T06:16:28+00:00"
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
     },
     {
       "asin": "B0FCLQH55F",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20029695",
       "published_at": "2026-09-18T00:31:54+00:00",
-      "revalidated_at": "2026-09-18T06:16:28+00:00"
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
     },
     {
       "asin": "0241699819",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20028936",
       "published_at": "2026-09-17T22:46:32+00:00",
-      "revalidated_at": "2026-09-18T06:16:28+00:00"
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
     },
     {
       "asin": "B0B2PV58YC",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20026971",
       "published_at": "2026-09-17T12:31:27+00:00",
-      "revalidated_at": "2026-09-18T06:01:31+00:00"
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
     },
     {
       "asin": "B0FLB3772K",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20027064",
       "published_at": "2026-09-17T12:16:17+00:00",
-      "revalidated_at": "2026-09-18T06:01:31+00:00"
+      "revalidated_at": "2026-09-18T08:16:38+00:00"
     },
     {
       "asin": "B0F9HX393Y",
@@ -2618,28 +2618,6 @@
       "url": "https://amazon.com/dp/B0BR78SSSV/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20026581",
-      "published_at": "2026-09-17T09:01:46+00:00",
-      "revalidated_at": "2026-09-18T06:31:30+00:00"
-    },
-    {
-      "asin": "B08HV3MPFD",
-      "title": "Phomemo D30 Bluetooth Mini Thermal Label Maker Printer (Green, Pink or White)",
-      "title_es": "Impresora de Etiquetas Térmica Mini Phomemo D30 Bluetooth",
-      "headline": null,
-      "post": "La Phomemo D30 es una mini impresora térmica de etiquetas compacta y portátil con conectividad Bluetooth. Perfecta para organizar tu hogar u oficina de forma rápida y sencilla.",
-      "post_en": "The Phomemo D30 is a compact and portable mini thermal label printer with Bluetooth connectivity. It's perfect for quickly and easily organizing your home or office.",
-      "price_new": 9.78,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 72.1,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "KXFMFH8X",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51xCw9RKssL._AC_SL1002_.jpg",
-      "url": "https://amazon.com/dp/B08HV3MPFD/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20023125",
       "published_at": "2026-09-17T09:01:46+00:00",
       "revalidated_at": "2026-09-18T06:31:30+00:00"
     }
