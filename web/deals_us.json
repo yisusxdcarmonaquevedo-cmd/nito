@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T00:10:27+00:00",
+  "generated_at": "2026-09-18T00:16:42+00:00",
   "market": "us",
   "count": 119,
   "deals": [
@@ -133,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20028930",
       "published_at": "2026-09-17T22:32:05+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B08GQVR9B6",
@@ -155,7 +155,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20012511",
       "published_at": "2026-09-17T22:32:05+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B0GHN8TXLK",
@@ -177,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20024304",
       "published_at": "2026-09-17T22:32:05+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B01KUXQELA",
@@ -256,11 +256,11 @@
       "price_old": 69.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "KAWAD63K",
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21629793.thumb",
+      "image": "https://m.media-amazon.com/images/I/61dh-mvoLpL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0HB3BC4M3/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20028168",
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20029536",
       "published_at": "2026-09-17T20:46:48+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B0GJZBXSMZ",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20029305",
       "published_at": "2026-09-17T20:46:48+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B0FBGB9GR3",
@@ -666,10 +666,10 @@
     {
       "asin": "B0GGGLJYTM",
       "title": "4-Pack Jodno Rechargeable Mini Handheld Personal Fans (Black, Pink, Blue and Purple)",
-      "title_es": null,
+      "title_es": "Pack de 4 mini ventiladores portátiles recargables Jodno (Negro, Rosa, Azul y Morado)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estos mini ventiladores Jodno recargables son perfectos para refrescarte en cualquier lugar. Su diseño compacto y la variedad de colores los hacen ideales para llevar contigo o compartir. 🌬️",
+      "post_en": "These Jodno rechargeable mini fans are perfect for cooling down anywhere. Their compact design and variety of colors make them ideal to carry with you or share. 🌬️",
       "price_new": 11.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -688,10 +688,10 @@
     {
       "asin": "B0H1H7Z41G",
       "title": "2-Pack JOYROOM (up to 125W) Dual Port Car Charger (65W USB-C + 60W USB-A)",
-      "title_es": null,
+      "title_es": "Pack de 2 cargadores de coche JOYROOM de doble puerto (hasta 125W)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Carga tus dispositivos rápidamente en el coche con este pack de 2 cargadores JOYROOM de doble puerto. Ofrecen una potencia combinada de hasta 125W con salidas USB-C de 65W y USB-A de 60W, ideal para viajes largos.",
+      "post_en": "Charge your devices quickly in the car with this 2-pack of JOYROOM dual port car chargers. They offer a combined power of up to 125W with 65W USB-C and 60W USB-A outputs, ideal for long trips.",
       "price_new": 10.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -710,10 +710,10 @@
     {
       "asin": "B00Y1VZ00E",
       "title": "4.9\" efluky Mini Portable Desk Fan w/ 3 Speeds, LED Light & Rechargeable Battery (Various)",
-      "title_es": null,
+      "title_es": "Mini ventilador de escritorio portátil efluky de 4.9\" con 3 velocidades, luz LED y batería recargable",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este mini ventilador de escritorio efluky es ideal para mantener la frescura en tu espacio de trabajo o estudio. Cuenta con 3 velocidades, luz LED y batería recargable para máxima comodidad.",
+      "post_en": "This efluky mini portable desk fan is ideal for keeping your workspace or study cool. It features 3 speeds, an LED light, and a rechargeable battery for maximum convenience.",
       "price_new": 6.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -732,10 +732,10 @@
     {
       "asin": "B0GZS5CR49",
       "title": "THINKWORK All-Metal Retractable Utility Knife Box Cutter w/ Blade Storage & Glass Breaker",
-      "title_es": null,
+      "title_es": "Cúter retráctil THINKWORK de metal con almacenamiento de cuchillas y rompe cristales",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Descubre el cúter retráctil THINKWORK, una herramienta robusta y versátil para el hogar o el taller. Fabricado íntegramente en metal, incluye almacenamiento de cuchillas y un práctico rompe cristales.",
+      "post_en": "Discover the THINKWORK retractable utility knife, a robust and versatile tool for home or workshop. Made entirely of metal, it includes blade storage and a practical glass breaker.",
       "price_new": 4.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -754,10 +754,10 @@
     {
       "asin": "B09N72CTKW",
       "title": "9.8\" Conwithna Sweet Home Metal Key Holder Hooks Organizer",
-      "title_es": null,
+      "title_es": "Organizador de llaves Conwithna Sweet Home de metal de 9.8\" con ganchos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mantén tus llaves organizadas y a mano con este elegante colgador de llaves Conwithna Sweet Home. Su diseño de metal es decorativo y funcional para cualquier entrada. 🔑",
+      "post_en": "Keep your keys organized and handy with this elegant Conwithna Sweet Home metal key holder. Its metal design is both decorative and functional for any entryway. 🔑",
       "price_new": 3.84,
       "price_old": 35.0,
       "currency": "USD",
@@ -776,10 +776,10 @@
     {
       "asin": "B0GXYF49GX",
       "title": "3.3' 240W TALIX USB-C to USB-C Flat Braided Cable",
-      "title_es": null,
+      "title_es": "Cable TALIX USB-C a USB-C plano trenzado de 3.3' y 240W",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Carga y transfiere datos a alta velocidad con este cable TALIX USB-C a USB-C de 240W. Su diseño plano trenzado lo hace duradero y resistente a enredos, ideal para todos tus dispositivos modernos.",
+      "post_en": "Charge and transfer data at high speed with this 240W TALIX USB-C to USB-C flat braided cable. Its flat braided design makes it durable and tangle-resistant, ideal for all your modern devices.",
       "price_new": 6.5,
       "price_old": 15.99,
       "currency": "USD",
@@ -798,10 +798,10 @@
     {
       "asin": "B0GWJ5LQL5",
       "title": "SUPERONE Open-Ear Clip-On Bluetooth Earbuds w/ Air Cushion & LED Display",
-      "title_es": null,
+      "title_es": "Auriculares Bluetooth de clip SUPERONE Open-Ear con almohadilla de aire y pantalla LED",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Experimenta la comodidad con los auriculares SUPERONE Open-Ear, diseñados para escuchar sin obstruir tus oídos. Cuentan con almohadilla de aire y pantalla LED, perfectos para deporte o uso diario.",
+      "post_en": "Experience comfort with SUPERONE Open-Ear clip-on earbuds, designed for listening without obstructing your ears. They feature an air cushion and LED display, perfect for sports or daily use.",
       "price_new": 14.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -820,10 +820,10 @@
     {
       "asin": "B0CS31PCQX",
       "title": "eSUN PLA Basic 1.75mm High Speed 3D Printer Filament 1KG Spool (Cold White)",
-      "title_es": null,
+      "title_es": "Filamento eSUN PLA Basic 1.75mm de alta velocidad para impresora 3D, bobina de 1KG (Blanco Frío)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este filamento eSUN PLA Basic de 1.75mm es ideal para tus proyectos de impresión 3D que requieren alta velocidad. Su bobina de 1KG en blanco frío ofrece un acabado limpio y consistente.",
+      "post_en": "This eSUN PLA Basic 1.75mm filament is ideal for your high-speed 3D printing projects. Its 1KG spool in cold white offers a clean and consistent finish.",
       "price_new": 9.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -842,10 +842,10 @@
     {
       "asin": "B0H2XLJN3J",
       "title": "12-Pk GIGALUMI Outdoor Solar-Powered Path Lights w/ Purple LED Bulbs",
-      "title_es": null,
+      "title_es": "Pack de 12 luces solares GIGALUMI para camino con bombillas LED moradas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Ilumina tus caminos y jardín con este pack de 12 luces solares GIGALUMI, fáciles de instalar y ecológicas. Sus bombillas LED moradas añadirán un toque único y decorativo a tu exterior. 💜",
+      "post_en": "Illuminate your paths and garden with this 12-pack of GIGALUMI solar-powered lights, easy to install and eco-friendly. Their purple LED bulbs will add a unique and decorative touch to your outdoor space. 💜",
       "price_new": 12.5,
       "price_old": 29.99,
       "currency": "USD",
@@ -864,10 +864,10 @@
     {
       "asin": "B0FZGD5NM9",
       "title": "24000 DPI Tri-Mode Wireless Vertical Ergonomic Mouse",
-      "title_es": null,
+      "title_es": "Ratón ergonómico vertical inalámbrico Tri-Mode de 24000 DPI",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mejora tu comodidad y productividad con este ratón ergonómico vertical inalámbrico de 24000 DPI. Su diseño Tri-Mode y vertical reduce la tensión en la muñeca, ideal para largas jornadas de uso.",
+      "post_en": "Enhance your comfort and productivity with this 24000 DPI Tri-Mode wireless vertical ergonomic mouse. Its vertical and Tri-Mode design reduces wrist strain, ideal for long hours of use.",
       "price_new": 9.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -881,15 +881,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20026860",
       "published_at": "2026-09-17T18:57:10+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B0GKM7RB1Q",
       "title": "11' x 33\" FEATH-R-LITE Inflatable Stand-Up Paddle Board w/ Paddle, Pump, Backpack & Accessories (Brown/Bald Eagle)",
-      "title_es": null,
+      "title_es": "Tabla de Paddle Surf Hinchable FEATH-R-LITE 11' x 33\" con Accesorios",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta del agua con esta tabla de paddle surf hinchable FEATH-R-LITE, ideal para principiantes y expertos. Incluye remo, bomba, mochila y accesorios para una experiencia completa y fácil de transportar. 🏄",
+      "post_en": "Enjoy the water with this FEATH-R-LITE inflatable stand-up paddle board, perfect for both beginners and experienced paddlers. It comes with a paddle, pump, backpack, and accessories for a complete, easy-to-transport experience. 🏄",
       "price_new": 84.99,
       "price_old": 179.99,
       "currency": "USD",
@@ -908,10 +908,10 @@
     {
       "asin": "B0F4W8RGDR",
       "title": "Amazon – ZITY Men's Sherpa-Lined Plaid Flannel Hoodie -",
-      "title_es": null,
+      "title_es": "Sudadera con Capucha de Franela a Cuadros ZITY para Hombre con Forro Sherpa",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mantente abrigado y con estilo con esta sudadera ZITY de franela a cuadros, forrada con suave sherpa. Es perfecta para el frío, ofreciendo comodidad y un look casual para el día a día.",
+      "post_en": "Stay warm and stylish with this ZITY men's plaid flannel hoodie, lined with soft sherpa. It's perfect for cold weather, offering comfort and a casual look for everyday wear.",
       "price_new": 14.99,
       "price_old": 22.49,
       "currency": "USD",
@@ -930,10 +930,10 @@
     {
       "asin": "B0GVDYYTMK",
       "title": "Amazon - Cionum 2-Pack 60W USB-C Chargers w/ 6' Cables -",
-      "title_es": null,
+      "title_es": "Pack de 2 Cargadores USB-C Cionum de 60W con Cables de 6 pies",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Consigue este pack dual de cargadores USB-C Cionum de 60W, ideal para cargar rápidamente tus dispositivos compatibles. Incluye dos cables de 6 pies para mayor comodidad y alcance en casa o la oficina.",
+      "post_en": "Get this dual pack of Cionum 60W USB-C chargers, perfect for fast-charging your compatible devices. It includes two 6-foot cables for added convenience and reach at home or the office.",
       "price_new": 13.49,
       "price_old": 26.99,
       "currency": "USD",
@@ -952,10 +952,10 @@
     {
       "asin": "B0DT4QTRWB",
       "title": "BOSCH PROFACTOR 18V 7-1/4\" Rear Handle Circular Saw (Bare Tool) at Amazon",
-      "title_es": null,
+      "title_es": "Sierra Circular de Mango Trasero BOSCH PROFACTOR 18V 7-1/4\" (Solo Herramienta)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta sierra circular BOSCH PROFACTOR de 18V es una herramienta potente y precisa para profesionales y entusiastas del bricolaje. Se vende como \"bare tool\", ideal si ya tienes baterías BOSCH PROFACTOR.",
+      "post_en": "This BOSCH PROFACTOR 18V circular saw is a powerful and precise tool for professionals and DIY enthusiasts. Sold as a \"bare tool,\" it's ideal if you already own BOSCH PROFACTOR batteries.",
       "price_new": 189.99,
       "price_old": 295.0,
       "currency": "USD",
@@ -969,15 +969,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20026932",
       "published_at": "2026-09-17T18:46:17+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B0F995J8FR",
       "title": "Amazon - DJI Mic 3 Wireless Microphone Kit (2 TX + 1 RX + Charging Case) -",
-      "title_es": null,
+      "title_es": "Kit de Micrófono Inalámbrico DJI Mic 3 (2 TX + 1 RX + Estuche de Carga)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Captura audio de alta calidad con el kit de micrófono inalámbrico DJI Mic 3, perfecto para creadores de contenido y videógrafos. Incluye dos transmisores, un receptor y un estuche de carga para una producción profesional y sin complicaciones.",
+      "post_en": "Capture high-quality audio with the DJI Mic 3 wireless microphone kit, perfect for content creators and videographers. It includes two transmitters, one receiver, and a charging case for professional, hassle-free production.",
       "price_new": 219.0,
       "price_old": 329.0,
       "currency": "USD",
@@ -996,10 +996,10 @@
     {
       "asin": "B0H4VB2VHW",
       "title": "SINCEHOLY MagSafe N52 Magnetic Phone Ring Grip & Kickstand (Black)",
-      "title_es": null,
+      "title_es": "Anillo Magnético SINCEHOLY MagSafe N52 para Teléfono con Soporte (Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mejora el agarre de tu teléfono con este anillo magnético SINCEHOLY MagSafe N52, que también funciona como soporte. Es compatible con MagSafe, ofreciendo seguridad y comodidad para ver contenido o videollamadas.",
+      "post_en": "Enhance your phone's grip with this SINCEHOLY MagSafe N52 magnetic ring, which also doubles as a kickstand. It's MagSafe compatible, offering security and convenience for viewing content or video calls.",
       "price_new": 6.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1018,10 +1018,10 @@
     {
       "asin": "B0C332SMK8",
       "title": "Amazon Basics Smart BR30 LED Light Bulbs Dimmable Soft White (2700K), 9W (60W Equivalent), 800LM, Voice Control, Works with Alexa Only, 2.4 GHz Wi-Fi 4-Pack",
-      "title_es": null,
+      "title_es": "Pack de 4 Bombillas LED Inteligentes Amazon Basics BR30 Regulables (2700K)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Ilumina tu hogar de forma inteligente con este pack de 4 bombillas LED Amazon Basics BR30, que ofrecen luz blanca suave y son regulables. Funcionan con Alexa y Wi-Fi de 2.4 GHz, permitiendo control por voz para una comodidad moderna.",
+      "post_en": "Smartly illuminate your home with this 4-pack of Amazon Basics BR30 smart LED bulbs, offering dimmable soft white light. They work with Alexa and 2.4 GHz Wi-Fi, allowing voice control for modern convenience.",
       "price_new": 12.48,
       "price_old": 32.97,
       "currency": "USD",
@@ -1040,10 +1040,10 @@
     {
       "asin": "B0H8N51GD2",
       "title": "[Prime] wegear 100W GaN 3-Port Slim Foldable USB-C Wall Charger",
-      "title_es": null,
+      "title_es": "Cargador de Pared USB-C Plegable wegear 100W GaN de 3 Puertos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Carga múltiples dispositivos rápidamente con este cargador de pared wegear 100W GaN, compacto y con 3 puertos USB-C. Su diseño plegable lo hace ideal para viajes y para mantener tu espacio ordenado.",
+      "post_en": "Quickly charge multiple devices with this compact wegear 100W GaN wall charger, featuring 3 USB-C ports. Its foldable design makes it ideal for travel and keeping your space tidy.",
       "price_new": 19.99,
       "price_old": 49.99,
       "currency": "USD",
@@ -1062,10 +1062,10 @@
     {
       "asin": "B0B466YTT3",
       "title": "Anker 622 Portable 5,000mAh MagSafe Foldable Power Bank w/ Stand & Side USB-C at Amazon",
-      "title_es": null,
+      "title_es": "Power Bank Portátil Anker 622 de 5.000mAh MagSafe con Soporte y USB-C",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mantén tus dispositivos cargados en cualquier lugar con el power bank portátil Anker 622, compatible con MagSafe y con una capacidad de 5.000mAh. Incluye un práctico soporte plegable y puerto USB-C para mayor versatilidad.",
+      "post_en": "Keep your devices charged anywhere with the Anker 622 portable power bank, MagSafe compatible and with a 5,000mAh capacity. It includes a convenient foldable kickstand and a side USB-C port for added versatility.",
       "price_new": 25.99,
       "price_old": 47.99,
       "currency": "USD",
@@ -1084,10 +1084,10 @@
     {
       "asin": "B000QYF2BW",
       "title": "Snyder's of Hanover Snaps Pretzels, 16 Oz Bag~$2.52 After Coupon @ Amazon",
-      "title_es": null,
+      "title_es": "Pretzels Snyder's of Hanover Snaps, Bolsa de 16 Oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta del crujiente sabor clásico de los pretzels Snyder's of Hanover Snaps, perfectos para un snack en cualquier momento. Su tamaño de bolsa de 16 oz es ideal para compartir o para tener siempre a mano. 🥨",
+      "post_en": "Enjoy the classic crunchy taste of Snyder's of Hanover Snaps Pretzels, perfect for a snack anytime. The 16 oz bag size is ideal for sharing or keeping on hand. 🥨",
       "price_new": 2.52,
       "price_old": 59.0,
       "currency": "USD",
@@ -1106,10 +1106,10 @@
     {
       "asin": "B0GXGLPPTX",
       "title": "JanSport Main Campus Backpack - Travel or Work backpack w 15-Inch Laptop Sleeve and Dual Water Bottle Pockets",
-      "title_es": null,
+      "title_es": "Mochila JanSport Main Campus - Para Viajes o Trabajo con Funda para Portátil de 15\" y Bolsillos Dobles para Botellas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta mochila JanSport Main Campus es ideal para estudiantes o profesionales que necesitan espacio y organización. Incluye una funda para portátil de 15 pulgadas y bolsillos dobles para botellas de agua, perfecta para el día a día o viajes cortos.",
+      "post_en": "This JanSport Main Campus backpack is ideal for students or professionals needing space and organization. It includes a 15-inch laptop sleeve and dual water bottle pockets, perfect for daily use or short trips.",
       "price_new": 19.99,
       "price_old": 60.0,
       "currency": "USD",
@@ -1128,10 +1128,10 @@
     {
       "asin": "B0895K2B7P",
       "title": "Universe (DK Definitive Visual Encyclopedias) (eBook) by DK",
-      "title_es": null,
+      "title_es": "Universe (DK Definitive Visual Encyclopedias) (eBook) de DK",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en el cosmos con este eBook de DK, una enciclopedia visual definitiva sobre el universo. Explora fascinantes imágenes y datos sobre galaxias, planetas y fenómenos celestes, ideal para aficionados a la astronomía.",
+      "post_en": "Dive into the cosmos with this DK eBook, a definitive visual encyclopedia about the universe. Explore fascinating images and facts about galaxies, planets, and celestial phenomena, perfect for astronomy enthusiasts.",
       "price_new": 2.99,
       "price_old": 19.99,
       "currency": "USD",
@@ -1150,10 +1150,10 @@
     {
       "asin": "B01GKRH49G",
       "title": "Milwaukee Electric Tool 48-32-4408 Shockwave Drive & Fasten Bit Set at Amazon",
-      "title_es": null,
+      "title_es": "Set de Puntas Milwaukee Electric Tool 48-32-4408 Shockwave Drive & Fasten",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set de puntas Milwaukee Shockwave está diseñado para ofrecer durabilidad y rendimiento en trabajos de atornillado y fijación. Es un complemento esencial para cualquier caja de herramientas, ideal para profesionales y entusiastas del bricolaje.",
+      "post_en": "This Milwaukee Shockwave bit set is designed to offer durability and performance for driving and fastening tasks. It's an essential addition to any toolbox, ideal for professionals and DIY enthusiasts.",
       "price_new": 21.88,
       "price_old": 38.21,
       "currency": "USD",
@@ -1172,10 +1172,10 @@
     {
       "asin": "B0GZTQ8H76",
       "title": "3.8L MateeyLife Anti-Splash Dog Water Non-Slip Dispenser",
-      "title_es": null,
+      "title_es": "Dispensador de Agua Antisalpicaduras y Antideslizante MateeyLife de 3.8L para Perros",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mantén a tu mascota hidratada y tu suelo limpio con este dispensador de agua MateeyLife de 3.8L. Su diseño antisalpicaduras y antideslizante lo hace perfecto para hogares con perros activos o grandes.",
+      "post_en": "Keep your pet hydrated and your floor clean with this 3.8L MateeyLife anti-splash water dispenser. Its non-slip and anti-splash design makes it perfect for households with active or large dogs.",
       "price_new": 11.19,
       "price_old": 35.0,
       "currency": "USD",
@@ -1194,10 +1194,10 @@
     {
       "asin": "B0DM3FNPMB",
       "title": "Brooks Men’s Cascadia 19 GTX Waterproof Mountain Trail Running Shoe",
-      "title_es": null,
+      "title_es": "Zapatillas de Trail Running Impermeables Brooks Cascadia 19 GTX para Hombre",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Las zapatillas Brooks Cascadia 19 GTX ofrecen tracción y protección impermeables para tus aventuras en la montaña. Son perfectas para corredores de trail que buscan rendimiento y comodidad en terrenos difíciles y húmedos.",
+      "post_en": "The Brooks Cascadia 19 GTX shoes offer traction and waterproof protection for your mountain adventures. They are perfect for trail runners seeking performance and comfort on challenging and wet terrains.",
       "price_new": 109.95,
       "price_old": 179.95,
       "currency": "USD",
@@ -1216,10 +1216,10 @@
     {
       "asin": "B0D1XXK31V",
       "title": "Circle Joy Rechargeable Electric Salt & Pepper Grinder Set w/ LED Light & Storage Base (Black & White)",
-      "title_es": null,
+      "title_es": "Set de Molinillos Eléctricos Recargables Circle Joy para Sal y Pimienta con Luz LED y Base (Negro y Blanco)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este elegante set de molinillos eléctricos Circle Joy añade un toque moderno a tu cocina, facilitando sazonar tus platos con sal y pimienta recién molida. Con luz LED y base de carga, es práctico y estético para cualquier chef casero. ✨",
+      "post_en": "This elegant Circle Joy electric grinder set adds a modern touch to your kitchen, making it easy to season your dishes with freshly ground salt and pepper. Featuring an LED light and charging base, it's practical and aesthetic for any home chef. ✨",
       "price_new": 9.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1233,15 +1233,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20028036",
       "published_at": "2026-09-17T16:46:35+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B0DC3SQ71H",
       "title": "Modern Bubble Women's Lightweight Rhinestone Studded Puffer Jacket w/ Removable Hood (Pink, Black, White)",
-      "title_es": null,
+      "title_es": "Chaqueta Acolchada Ligera Modern Bubble para Mujer con Pedrería y Capucha Desmontable",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta chaqueta acolchada Modern Bubble combina estilo y ligereza, ideal para mantenerte abrigada con un toque de brillo gracias a su pedrería. Disponible en varios colores y con capucha desmontable, es perfecta para un look casual y chic.",
+      "post_en": "This Modern Bubble puffer jacket combines style and lightness, ideal for keeping you warm with a touch of sparkle thanks to its rhinestones. Available in various colors and with a removable hood, it's perfect for a casual and chic look.",
       "price_new": 19.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1255,15 +1255,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20027214",
       "published_at": "2026-09-17T16:46:35+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B0FZ8J32LF",
       "title": "4-Piece TABOUNTS Headlight Restoration Kit w/ Cleaning Spray, Ceramic Coating, Sponge & Towel",
-      "title_es": null,
+      "title_es": "Kit de Restauración de Faros TABOUNTS de 4 Piezas con Spray Limpiador, Recubrimiento Cerámico, Esponja y Toalla",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Renueva la claridad de los faros de tu coche con este kit de restauración TABOUNTS de 4 piezas. Incluye todo lo necesario para mejorar la visibilidad y la estética de tu vehículo, ideal para cualquier conductor.",
+      "post_en": "Restore the clarity of your car's headlights with this 4-piece TABOUNTS restoration kit. It includes everything needed to improve your vehicle's visibility and aesthetics, ideal for any driver.",
       "price_new": 9.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1282,10 +1282,10 @@
     {
       "asin": "B0DYJY2MKS",
       "title": "Baseus Picogo 5000mAh MagSafe 0.3\" Portable Power Bank w/ Braided USB-C Cable",
-      "title_es": null,
+      "title_es": "Power Bank Portátil Baseus Picogo 5000mAh MagSafe de 0.3\" con Cable USB-C Trenzado",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Carga tus dispositivos de forma inalámbrica y magnética con este power bank Baseus Picogo MagSafe de 5000mAh. Su diseño compacto y el cable USB-C trenzado lo hacen perfecto para usuarios de iPhone y otros dispositivos compatibles que buscan una solución de carga práctica.",
+      "post_en": "Wirelessly and magnetically charge your devices with this Baseus Picogo 5000mAh MagSafe power bank. Its compact design and braided USB-C cable make it perfect for iPhone users and other compatible devices looking for a practical charging solution.",
       "price_new": 13.3,
       "price_old": 35.0,
       "currency": "USD",
@@ -1304,10 +1304,10 @@
     {
       "asin": "B01N1YU6FD",
       "title": "VTech Drill & Learn Toolbox (2 Colors)",
-      "title_es": null,
+      "title_es": "Caja de Herramientas de Aprendizaje VTech Drill & Learn (2 Colores)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La caja de herramientas VTech Drill & Learn es un juguete interactivo que introduce a los niños pequeños en el mundo de las herramientas y la resolución de problemas. Con actividades de aprendizaje y sonidos divertidos, es ideal para fomentar la motricidad y la curiosidad.",
+      "post_en": "The VTech Drill & Learn Toolbox is an interactive toy that introduces young children to the world of tools and problem-solving. With learning activities and fun sounds, it's ideal for fostering motor skills and curiosity.",
       "price_new": 16.79,
       "price_old": 35.0,
       "currency": "USD",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20026728",
       "published_at": "2026-09-17T11:02:04+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B0D6RQGFGG",
@@ -1915,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20021052",
       "published_at": "2026-09-17T10:31:42+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B0G4CP9VCQ",
@@ -2003,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20026581",
       "published_at": "2026-09-17T09:01:46+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B08HV3MPFD",
@@ -2025,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20023125",
       "published_at": "2026-09-17T09:01:46+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B0DL65BTVR",
@@ -2047,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20025522",
       "published_at": "2026-09-17T08:46:33+00:00",
-      "revalidated_at": "2026-09-17T22:32:05+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B0D7QGW67Y",
@@ -2553,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20023599",
       "published_at": "2026-09-17T02:46:21+00:00",
-      "revalidated_at": "2026-09-17T22:16:50+00:00"
+      "revalidated_at": "2026-09-18T00:16:42+00:00"
     },
     {
       "asin": "B0FCLRF124",
