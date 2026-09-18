@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-18T23:17:05+00:00",
+  "generated_at": "2026-09-18T23:32:24+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B0FY3Q2F2M",
+      "title": "6-Oz First Aid Beauty Ultra Repair Intense Hydration Cream",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 16.8,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 52.0,
+      "rating": 4.6,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/610P0q3xiSL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FY3Q2F2M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20034615",
+      "published_at": "2026-09-18T23:32:24+00:00",
+      "revalidated_at": "2026-09-18T23:32:24+00:00"
+    },
     {
       "asin": "B0DCZHPM7K",
       "title": "65W Amazon Basics 1-Port GaN USB-C Wall Charger w/ PD 3.1 (Black)",
@@ -168,11 +190,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 75.7,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "UDVNVT6E",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/21644892.thumb",
+      "image": "https://m.media-amazon.com/images/I/71X+LFkqQXL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H8S3HBPR/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20034639",
@@ -202,28 +224,6 @@
       "revalidated_at": "2026-09-18T22:02:19+00:00"
     },
     {
-      "asin": "B0CDP5YJH2",
-      "title": "Amazon – Rammus Women's Yoga Dress Pants w/ Pockets -",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 17.84,
-      "price_old": 37.99,
-      "currency": "USD",
-      "discount_pct": 53.0,
-      "rating": null,
-      "condition": "code",
-      "code": "HQ8BOZLN",
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21590592.thumb",
-      "url": "https://amazon.com/dp/B0CDP5YJH2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20012859",
-      "published_at": "2026-09-18T21:47:04+00:00",
-      "revalidated_at": "2026-09-18T21:47:04+00:00"
-    },
-    {
       "asin": "B09VXJBFKY",
       "title": "20,000mAh BooKoo A9 4000A Car Battery Jumper w/ QC 3.0, PD 18W",
       "title_es": null,
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20033463",
       "published_at": "2026-09-18T21:47:04+00:00",
-      "revalidated_at": "2026-09-18T21:47:04+00:00"
+      "revalidated_at": "2026-09-18T23:32:24+00:00"
     },
     {
       "asin": "B0FZTYDQLF",
@@ -265,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20030313",
       "published_at": "2026-09-18T21:47:04+00:00",
-      "revalidated_at": "2026-09-18T21:47:04+00:00"
+      "revalidated_at": "2026-09-18T23:32:24+00:00"
     },
     {
       "asin": "B0D17ZLGKZ",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20033301",
       "published_at": "2026-09-18T19:45:46+00:00",
-      "revalidated_at": "2026-09-18T21:47:04+00:00"
+      "revalidated_at": "2026-09-18T23:32:24+00:00"
     },
     {
       "asin": "B0GGQV8QK9",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20032698",
       "published_at": "2026-09-18T19:45:46+00:00",
-      "revalidated_at": "2026-09-18T21:47:04+00:00"
+      "revalidated_at": "2026-09-18T23:32:24+00:00"
     },
     {
       "asin": "B000Y52D5G",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20032950",
       "published_at": "2026-09-18T17:45:59+00:00",
-      "revalidated_at": "2026-09-18T21:47:04+00:00"
+      "revalidated_at": "2026-09-18T23:32:24+00:00"
     },
     {
       "asin": "B0DSCJ9161",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20032236",
       "published_at": "2026-09-18T16:01:05+00:00",
-      "revalidated_at": "2026-09-18T21:47:04+00:00"
+      "revalidated_at": "2026-09-18T23:32:24+00:00"
     },
     {
       "asin": "B0FH8XT5C9",
@@ -1827,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20019600",
       "published_at": "2026-09-18T06:01:31+00:00",
-      "revalidated_at": "2026-09-18T21:32:29+00:00"
+      "revalidated_at": "2026-09-18T23:32:24+00:00"
     },
     {
       "asin": "B0H2RYV8QG",
@@ -1893,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20028378",
       "published_at": "2026-09-18T05:31:53+00:00",
-      "revalidated_at": "2026-09-18T21:32:29+00:00"
+      "revalidated_at": "2026-09-18T23:32:24+00:00"
     },
     {
       "asin": "B0CN9T685Q",
@@ -1915,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20027241",
       "published_at": "2026-09-18T05:31:53+00:00",
-      "revalidated_at": "2026-09-18T21:32:29+00:00"
+      "revalidated_at": "2026-09-18T23:32:24+00:00"
     },
     {
       "asin": "B0FKMRHCLP",
@@ -1959,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20026338",
       "published_at": "2026-09-18T03:46:38+00:00",
-      "revalidated_at": "2026-09-18T21:32:29+00:00"
+      "revalidated_at": "2026-09-18T23:32:24+00:00"
     },
     {
       "asin": "B0G3PT4FSP",
@@ -2003,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20027538",
       "published_at": "2026-09-18T02:32:15+00:00",
-      "revalidated_at": "2026-09-18T21:47:04+00:00"
+      "revalidated_at": "2026-09-18T23:32:24+00:00"
     },
     {
       "asin": "B0G6JHVHRC",
@@ -2091,29 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20029881",
       "published_at": "2026-09-18T01:46:43+00:00",
-      "revalidated_at": "2026-09-18T21:32:29+00:00"
-    },
-    {
-      "asin": "B0BY31J6YB",
-      "title": "Guardians Of The Galaxy Vol. 3: Awesome Mix Vol. 3 (Double Vinyl LP) at Amazon",
-      "title_es": "Guardians Of The Galaxy Vol. 3: Awesome Mix Vol. 3 (Doble LP de Vinilo)",
-      "headline": null,
-      "post": "Disfruta de la banda sonora de Guardians Of The Galaxy Vol. 3 con este doble LP de vinilo, perfecto para coleccionistas y fans. Sumérgete en las melodías icónicas de la película con la calidad de audio que solo el vinilo puede ofrecer.",
-      "post_en": "Enjoy the Guardians Of The Galaxy Vol. 3 soundtrack with this double vinyl LP, perfect for collectors and fans. Immerse yourself in the film's iconic melodies with the audio quality only vinyl can offer.",
-      "price_new": 14.99,
-      "price_old": 34.98,
-      "currency": "USD",
-      "discount_pct": 57.1,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21634995.thumb",
-      "url": "https://amazon.com/dp/B0BY31J6YB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20030574",
-      "published_at": "2026-09-18T01:46:43+00:00",
-      "revalidated_at": "2026-09-18T21:47:04+00:00"
+      "revalidated_at": "2026-09-18T23:32:24+00:00"
     },
     {
       "asin": "B0FN3VW93N",
@@ -2619,28 +2597,6 @@
       "source": "slickdeals",
       "deal_key": "sd:20029146",
       "published_at": "2026-09-17T22:02:03+00:00",
-      "revalidated_at": "2026-09-18T23:17:05+00:00"
-    },
-    {
-      "asin": "B0FMS7Q3RS",
-      "title": "124-Piece LEGO Harry Potter Hogwarts Castle: Sorting Hat Ceremony 76460",
-      "title_es": "LEGO Harry Potter Castillo de Hogwarts: Ceremonia del Sombrero Seleccionador 76460",
-      "headline": null,
-      "post": "Recrea la icónica Ceremonia del Sombrero Seleccionador con este set LEGO Harry Potter del Castillo de Hogwarts. Es un regalo mágico para fans de Harry Potter y entusiastas de LEGO de todas las edades. 🧙‍♂️",
-      "post_en": "Recreate the iconic Sorting Hat Ceremony with this LEGO Harry Potter Hogwarts Castle set. It's a magical gift for Harry Potter fans and LEGO enthusiasts of all ages. 🧙‍♂️",
-      "price_new": 11.89,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 66.0,
-      "rating": 4.9,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81QDc1K9O+L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FMS7Q3RS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20028024",
-      "published_at": "2026-09-17T21:46:38+00:00",
       "revalidated_at": "2026-09-18T23:17:05+00:00"
     }
   ]
