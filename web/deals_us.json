@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T01:31:48+00:00",
+  "generated_at": "2026-09-19T01:46:39+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0FN7NJ87L",
@@ -80,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 71.4,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "GJS4G5IY",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/1/1/9/6/7/1/6/450x450/21644415.thumb",
+      "image": "https://m.media-amazon.com/images/I/71SOT8qOOSL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H6MYGHG9/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20034516",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20034507",
       "published_at": "2026-09-18T23:47:02+00:00",
-      "revalidated_at": "2026-09-18T23:47:02+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B0FY3Q2F2M",
@@ -551,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20034588",
       "published_at": "2026-09-18T22:02:19+00:00",
-      "revalidated_at": "2026-09-18T23:47:02+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B0H8S3HBPR",
@@ -573,29 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20034639",
       "published_at": "2026-09-18T22:02:19+00:00",
-      "revalidated_at": "2026-09-18T23:47:02+00:00"
-    },
-    {
-      "asin": "B0CD9WM6NR",
-      "title": "37.4L Lovevook Backpack w/ USB Charging Port & 18\" Laptop Compartment (Black)",
-      "title_es": "Mochila Lovevook 37.4L con puerto USB y compartimento para portátil de 18\" (Negra)",
-      "headline": null,
-      "post": "Esta mochila Lovevook de 37.4L es ideal para estudiantes o profesionales que necesitan espacio y funcionalidad. Incluye un puerto de carga USB y un compartimento acolchado para portátiles de hasta 18 pulgadas, perfecta para el día a día o viajes cortos. 🎒",
-      "post_en": "This 37.4L Lovevook backpack is ideal for students or professionals who need space and functionality. It includes a USB charging port and a padded compartment for laptops up to 18 inches, perfect for daily use or short trips. 🎒",
-      "price_new": 12.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 62.9,
-      "rating": 4.9,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61316FoykDL._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B0CD9WM6NR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20034666",
-      "published_at": "2026-09-18T22:02:19+00:00",
-      "revalidated_at": "2026-09-18T23:47:02+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B09VXJBFKY",
@@ -793,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20032698",
       "published_at": "2026-09-18T19:45:46+00:00",
-      "revalidated_at": "2026-09-18T23:32:24+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B000Y52D5G",
@@ -1101,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20032986",
       "published_at": "2026-09-18T18:00:52+00:00",
-      "revalidated_at": "2026-09-18T23:47:02+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B0BXGWCTTS",
@@ -1123,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20032950",
       "published_at": "2026-09-18T17:45:59+00:00",
-      "revalidated_at": "2026-09-18T23:32:24+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B0DSCJ9161",
@@ -1343,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20033004",
       "published_at": "2026-09-18T16:15:58+00:00",
-      "revalidated_at": "2026-09-18T23:47:02+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B0CGV7Z4XG",
@@ -1365,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20032236",
       "published_at": "2026-09-18T16:01:05+00:00",
-      "revalidated_at": "2026-09-18T23:32:24+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B0FH8XT5C9",
@@ -2201,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20019600",
       "published_at": "2026-09-18T06:01:31+00:00",
-      "revalidated_at": "2026-09-18T23:32:24+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B0H2RYV8QG",
@@ -2267,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20028378",
       "published_at": "2026-09-18T05:31:53+00:00",
-      "revalidated_at": "2026-09-18T23:32:24+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B0CN9T685Q",
@@ -2289,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20027241",
       "published_at": "2026-09-18T05:31:53+00:00",
-      "revalidated_at": "2026-09-18T23:32:24+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B0FKMRHCLP",
@@ -2333,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20026338",
       "published_at": "2026-09-18T03:46:38+00:00",
-      "revalidated_at": "2026-09-18T23:32:24+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B0G3PT4FSP",
@@ -2377,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20027538",
       "published_at": "2026-09-18T02:32:15+00:00",
-      "revalidated_at": "2026-09-18T23:32:24+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B0G6JHVHRC",
@@ -2465,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20029881",
       "published_at": "2026-09-18T01:46:43+00:00",
-      "revalidated_at": "2026-09-18T23:32:24+00:00"
+      "revalidated_at": "2026-09-19T01:46:39+00:00"
     },
     {
       "asin": "B0FN3VW93N",
