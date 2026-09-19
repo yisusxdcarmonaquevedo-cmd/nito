@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T01:16:46+00:00",
+  "generated_at": "2026-09-19T01:31:48+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20034615",
       "published_at": "2026-09-18T23:32:24+00:00",
-      "revalidated_at": "2026-09-18T23:32:24+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B0DCZHPM7K",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20033463",
       "published_at": "2026-09-18T21:47:04+00:00",
-      "revalidated_at": "2026-09-18T23:32:24+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B0FZTYDQLF",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20030313",
       "published_at": "2026-09-18T21:47:04+00:00",
-      "revalidated_at": "2026-09-18T23:32:24+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B0D17ZLGKZ",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20033301",
       "published_at": "2026-09-18T19:45:46+00:00",
-      "revalidated_at": "2026-09-18T23:32:24+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B0GGQV8QK9",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20032581",
       "published_at": "2026-09-18T17:38:40+00:00",
-      "revalidated_at": "2026-09-18T23:17:05+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B01N8S7YKZ",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20031132",
       "published_at": "2026-09-18T17:31:30+00:00",
-      "revalidated_at": "2026-09-18T23:17:05+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B0DKF6Q4XY",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20032587",
       "published_at": "2026-09-18T15:45:57+00:00",
-      "revalidated_at": "2026-09-18T23:17:05+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B0GXK7GMKQ",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20027604",
       "published_at": "2026-09-18T15:30:54+00:00",
-      "revalidated_at": "2026-09-18T23:17:05+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B01KQLUU7U",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20032341",
       "published_at": "2026-09-18T13:45:48+00:00",
-      "revalidated_at": "2026-09-18T23:17:05+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B0HCZJS8X7",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20031645",
       "published_at": "2026-09-18T12:02:13+00:00",
-      "revalidated_at": "2026-09-18T23:17:05+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B0GXS2DMTF",
@@ -2113,15 +2113,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20028183",
       "published_at": "2026-09-18T08:16:38+00:00",
-      "revalidated_at": "2026-09-18T23:17:05+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B071CNQ3TG",
       "title": "8-Ct Energizer Ultimate Lithium AAA Batteries",
-      "title_es": null,
+      "title_es": "Pilas Energizer Ultimate Lithium AAA, paquete de 8",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estas pilas AAA de litio Energizer ofrecen un rendimiento duradero y fiable para tus dispositivos de alto consumo. Ideales para equipos electrónicos, juguetes o herramientas que requieren energía constante.",
+      "post_en": "These Energizer Ultimate Lithium AAA batteries provide long-lasting, reliable performance for your high-drain devices. Perfect for electronics, toys, or tools that require consistent power.",
       "price_new": 11.4,
       "price_old": 23.88,
       "currency": "USD",
@@ -2140,10 +2140,10 @@
     {
       "asin": "B09JL8D41T",
       "title": "7.8-Oz Cetaphil 2-in-1 Baby Shampoo & Body Wash w/ Calendula",
-      "title_es": null,
+      "title_es": "Champú y Gel de Baño 2 en 1 para Bebés Cetaphil con Caléndula, 7.8 oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este champú y gel de baño Cetaphil 2 en 1 está formulado con caléndula para limpiar suavemente la delicada piel y cabello del bebé. Es perfecto para padres que buscan un producto hipoalergénico y sin lágrimas para el cuidado diario de sus pequeños. 👶",
+      "post_en": "This Cetaphil 2-in-1 Baby Shampoo & Body Wash is formulated with calendula to gently cleanse delicate baby skin and hair. It's perfect for parents seeking a hypoallergenic and tear-free product for their little ones' daily care. 👶",
       "price_new": 2.41,
       "price_old": 35.0,
       "currency": "USD",
@@ -2162,10 +2162,10 @@
     {
       "asin": "B0D4QF28D7",
       "title": "2-Pack 120 LED Yaafen Solar Firework Starburst Garden Lights (Multicolor)",
-      "title_es": null,
+      "title_es": "Pack de 2 Luces Solares LED Yaafen tipo Fuegos Artificiales para Jardín, 120 LED (Multicolor)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Ilumina tu jardín con este pack de 2 luces solares Yaafen con efecto de fuegos artificiales, equipadas con 120 LED multicolor. Son ideales para crear un ambiente festivo y decorativo en exteriores sin necesidad de cables.",
+      "post_en": "Brighten your garden with this 2-pack of Yaafen Solar Firework Starburst Garden Lights, featuring 120 multicolor LEDs. They are ideal for creating a festive and decorative outdoor ambiance without the need for wires.",
       "price_new": 8.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -2179,15 +2179,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20029977",
       "published_at": "2026-09-18T06:16:28+00:00",
-      "revalidated_at": "2026-09-18T23:17:05+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B0GFGJ26TV",
       "title": "WoofBite 4\" Natural Rubber Ring Ball Dog Chew Toy for Medium & Large Dogs",
-      "title_es": null,
+      "title_es": "Juguete Masticable para Perros WoofBite de Goma Natural en Anillo, 4\" (Perros Medianos y Grandes)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este juguete masticable WoofBite de goma natural en forma de anillo, de 4 pulgadas, está diseñado para satisfacer la necesidad de morder de perros medianos y grandes. Es una opción duradera para mantener a tu mascota entretenida y ejercitada.",
+      "post_en": "This 4-inch WoofBite natural rubber ring ball dog chew toy is designed to satisfy the chewing needs of medium and large dogs. It's a durable option to keep your pet entertained and exercised.",
       "price_new": 7.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -2206,10 +2206,10 @@
     {
       "asin": "B0H2RYV8QG",
       "title": "10000mAh Magnetic Fan w/ LED Display & Foldable Hook",
-      "title_es": null,
+      "title_es": "Ventilador Magnético de 10000mAh con Pantalla LED y Gancho Plegable",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este ventilador magnético portátil de 10000mAh ofrece un flujo de aire refrescante con la comodidad de una pantalla LED y un gancho plegable. Es perfecto para usar en cualquier lugar, desde tu escritorio hasta actividades al aire libre.",
+      "post_en": "This 10000mAh magnetic portable fan provides a refreshing airflow with the convenience of an LED display and a foldable hook. It's perfect for use anywhere, from your desk to outdoor activities.",
       "price_new": 18.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -2223,15 +2223,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20030754",
       "published_at": "2026-09-18T05:46:32+00:00",
-      "revalidated_at": "2026-09-18T23:17:05+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B0G6KZYJ1Y",
       "title": "45\"x35\" Bedsure Orthopedic XL Dog Bed w/ 4-Sided Bolster & Removable Washable Cover (Grey)",
-      "title_es": null,
+      "title_es": "Cama Ortopédica para Perros XL Bedsure de 45\"x35\" con Borde Acolchado y Funda Lavable (Gris)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta cama ortopédica XL Bedsure de 45\"x35\" ofrece un soporte cómodo para perros grandes, con un borde acolchado en los cuatro lados para mayor seguridad. Su funda extraíble y lavable facilita el mantenimiento de la higiene para tu mascota.",
+      "post_en": "This 45\"x35\" Bedsure Orthopedic XL Dog Bed provides comfortable support for large dogs, featuring a 4-sided bolster for added security. Its removable and washable cover makes hygiene maintenance easy for your pet.",
       "price_new": 40.14,
       "price_old": 72.99,
       "currency": "USD",
@@ -2245,15 +2245,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20018856",
       "published_at": "2026-09-18T05:46:32+00:00",
-      "revalidated_at": "2026-09-18T23:17:05+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B0GBXCLYSY",
       "title": "Amazon - Stouchi Find My Trackable RFID-Blocking Wallet -",
-      "title_es": null,
+      "title_es": "Cartera Stouchi con Localizador \"Find My\" y Bloqueo RFID",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La cartera Stouchi combina seguridad y tecnología con su localizador \"Find My\" y protección RFID para tus tarjetas. Es ideal para quienes buscan mantener sus objetos de valor seguros y localizables en todo momento.",
+      "post_en": "The Stouchi wallet combines security and technology with its \"Find My\" trackable feature and RFID blocking for your cards. It's ideal for those looking to keep their valuables safe and locatable at all times.",
       "price_new": 10.99,
       "price_old": 21.99,
       "currency": "USD",
@@ -2272,10 +2272,10 @@
     {
       "asin": "B0CN9T685Q",
       "title": "The North Face Jester Everyday Laptop Backpack (Leather Brown/Black)",
-      "title_es": null,
+      "title_es": "Mochila para Portátil The North Face Jester (Marrón Cuero/Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La mochila The North Face Jester es un compañero versátil para el día a día, diseñada para llevar tu portátil de forma segura y cómoda. Perfecta para estudiantes, profesionales o aventureros urbanos que necesitan organización y durabilidad.",
+      "post_en": "The North Face Jester backpack is a versatile everyday companion, designed to carry your laptop securely and comfortably. Perfect for students, professionals, or urban adventurers who need organization and durability.",
       "price_new": 49.85,
       "price_old": 90.0,
       "currency": "USD",
@@ -2531,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20022075",
       "published_at": "2026-09-18T01:31:48+00:00",
-      "revalidated_at": "2026-09-18T23:17:05+00:00"
+      "revalidated_at": "2026-09-19T01:31:48+00:00"
     },
     {
       "asin": "B0D9JVMLV2",
