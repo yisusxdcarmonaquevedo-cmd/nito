@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T01:16:43+00:00",
+  "generated_at": "2026-09-20T01:31:36+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0DFW4PYK8",
@@ -212,11 +212,11 @@
       "price_old": 5.77,
       "currency": "USD",
       "discount_pct": 67.9,
-      "rating": null,
+      "rating": 4.8,
       "condition": "coupon",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/4/8/2/3/7/7/450x450/21652290.thumb",
+      "image": "https://m.media-amazon.com/images/I/518RRcMujVL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B00OKJGP74/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20037831",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20037201",
       "published_at": "2026-09-19T18:15:46+00:00",
-      "revalidated_at": "2026-09-19T23:31:18+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B0FDZY49Y1",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20034648",
       "published_at": "2026-09-19T14:30:59+00:00",
-      "revalidated_at": "2026-09-19T23:31:18+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B0F1W25CX9",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20036790",
       "published_at": "2026-09-19T14:30:59+00:00",
-      "revalidated_at": "2026-09-19T23:31:18+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B0D1774B6V",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20019696",
       "published_at": "2026-09-19T12:46:03+00:00",
-      "revalidated_at": "2026-09-19T23:31:18+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B0FGJF2R9Y",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20027565",
       "published_at": "2026-09-19T07:30:39+00:00",
-      "revalidated_at": "2026-09-19T23:31:18+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B0GK6DT5SF",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20034633",
       "published_at": "2026-09-19T03:16:56+00:00",
-      "revalidated_at": "2026-09-19T23:31:18+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B0GKFTQC7W",
@@ -1519,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20034447",
       "published_at": "2026-09-19T03:16:56+00:00",
-      "revalidated_at": "2026-09-19T23:31:18+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B0F7R2ZK5M",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20033907",
       "published_at": "2026-09-18T22:17:03+00:00",
-      "revalidated_at": "2026-09-19T23:16:24+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B0DRW5T4GQ",
@@ -2003,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20033982",
       "published_at": "2026-09-18T22:17:03+00:00",
-      "revalidated_at": "2026-09-19T23:16:24+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B07TTH9FWG",
@@ -2025,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20033106",
       "published_at": "2026-09-18T22:17:03+00:00",
-      "revalidated_at": "2026-09-19T23:16:24+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B0FFGCV542",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20033019",
       "published_at": "2026-09-18T21:17:00+00:00",
-      "revalidated_at": "2026-09-19T23:16:24+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B0FX3BBXYR",
@@ -2157,29 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20031411",
       "published_at": "2026-09-18T21:02:53+00:00",
-      "revalidated_at": "2026-09-19T23:16:24+00:00"
-    },
-    {
-      "asin": "B0GZK66KJL",
-      "title": "Amazon – FLYTOCCA 15.6\" Laptop Screen Extender -",
-      "title_es": "Extensor de pantalla para portátil FLYTOCCA de 15.6\"",
-      "headline": null,
-      "post": "Mejora tu productividad con el extensor de pantalla FLYTOCCA de 15.6\" para portátil. Añade una segunda pantalla a tu setup, ideal para multitarea o para aquellos que trabajan en movimiento. 💻",
-      "post_en": "Enhance your productivity with the FLYTOCCA 15.6\" laptop screen extender. Add a second screen to your setup, ideal for multitasking or for those who work on the go. 💻",
-      "price_new": 65.99,
-      "price_old": 119.99,
-      "currency": "USD",
-      "discount_pct": 45.0,
-      "rating": null,
-      "condition": "code",
-      "code": "6OL8DID3",
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21643362.thumb",
-      "url": "https://amazon.com/dp/B0GZK66KJL/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20034240",
-      "published_at": "2026-09-18T21:02:53+00:00",
-      "revalidated_at": "2026-09-19T23:16:24+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B0DBH79JPS",
@@ -2201,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20032785",
       "published_at": "2026-09-18T20:30:50+00:00",
-      "revalidated_at": "2026-09-19T23:31:18+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B08QMQDW2N",
@@ -2289,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20028735",
       "published_at": "2026-09-18T19:15:48+00:00",
-      "revalidated_at": "2026-09-19T23:31:18+00:00"
+      "revalidated_at": "2026-09-20T01:31:36+00:00"
     },
     {
       "asin": "B0DBYF2ZY9",
