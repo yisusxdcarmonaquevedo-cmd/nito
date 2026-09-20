@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-20T17:16:03+00:00",
+  "generated_at": "2026-09-20T17:31:09+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B07D4GYYBJ",
+      "title": "RovyVon A3 Gen 4 Super Bright 650 Lumen USB-C Keychain Flashlight (Grey)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 15.94,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 54.5,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/51V9eZ3YOsL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07D4GYYBJ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20039700",
+      "published_at": "2026-09-20T17:31:09+00:00",
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
+    },
+    {
+      "asin": "B0HFHZBKM9",
+      "title": "Amazon – JDBMAOYE LED Mask & Magic Wand Set -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.99,
+      "price_old": 39.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.6,
+      "condition": "code",
+      "code": "WE3MVW8W",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81iq7zn5pqL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0HFHZBKM9/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20023527",
+      "published_at": "2026-09-20T17:31:09+00:00",
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
+    },
     {
       "asin": "B0746XNZH3",
       "title": "Batman vs. Two-Face (Blu-ray/DVD/Digital)",
@@ -89,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20039181",
       "published_at": "2026-09-20T15:31:04+00:00",
-      "revalidated_at": "2026-09-20T15:31:04+00:00"
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
     },
     {
       "asin": "B0722XGM2M",
@@ -309,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20039031",
       "published_at": "2026-09-20T13:46:15+00:00",
-      "revalidated_at": "2026-09-20T15:31:04+00:00"
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
     },
     {
       "asin": "B0FMS68R65",
@@ -419,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20038332",
       "published_at": "2026-09-20T11:45:51+00:00",
-      "revalidated_at": "2026-09-20T15:31:04+00:00"
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
     },
     {
       "asin": "B000HD4LNC",
@@ -991,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20035527",
       "published_at": "2026-09-20T01:46:19+00:00",
-      "revalidated_at": "2026-09-20T15:31:04+00:00"
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
     },
     {
       "asin": "B08HSCRJ46",
@@ -1013,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20036358",
       "published_at": "2026-09-20T01:46:19+00:00",
-      "revalidated_at": "2026-09-20T15:31:04+00:00"
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
     },
     {
       "asin": "B0DFW4PYK8",
@@ -1123,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20037930",
       "published_at": "2026-09-20T00:01:27+00:00",
-      "revalidated_at": "2026-09-20T15:31:04+00:00"
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
     },
     {
       "asin": "B07FBB3SDG",
@@ -1145,29 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20037039",
       "published_at": "2026-09-20T00:01:27+00:00",
-      "revalidated_at": "2026-09-20T15:31:04+00:00"
-    },
-    {
-      "asin": "B0CC2HX2W8",
-      "title": "Amazon – GOTOUR All-in-One Fishing Tackle Kit -",
-      "title_es": "Amazon – Kit de Aparejos de Pesca Todo en Uno GOTOUR",
-      "headline": null,
-      "post": "El kit de aparejos de pesca todo en uno GOTOUR es perfecto para principiantes o para quienes buscan una solución compacta y completa. Incluye lo esencial para varias situaciones de pesca, facilitando una experiencia al aire libre sin complicaciones.",
-      "post_en": "The GOTOUR All-in-One Fishing Tackle Kit is perfect for beginners or those seeking a compact and complete solution. It includes essentials for various fishing situations, ensuring a hassle-free outdoor experience.",
-      "price_new": 14.5,
-      "price_old": 28.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/81LrBj1GD-L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CC2HX2W8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20037630",
-      "published_at": "2026-09-20T00:01:27+00:00",
-      "revalidated_at": "2026-09-20T15:31:04+00:00"
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
     },
     {
       "asin": "B00EAKP8S0",
@@ -1365,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20037492",
       "published_at": "2026-09-19T20:30:55+00:00",
-      "revalidated_at": "2026-09-20T15:31:04+00:00"
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
     },
     {
       "asin": "B0DSLVS2N6",
@@ -1387,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20016834",
       "published_at": "2026-09-19T20:15:51+00:00",
-      "revalidated_at": "2026-09-20T15:31:04+00:00"
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
     },
     {
       "asin": "B0FMK73HTK",
@@ -1475,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20037333",
       "published_at": "2026-09-19T18:45:46+00:00",
-      "revalidated_at": "2026-09-20T15:31:04+00:00"
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
     },
     {
       "asin": "B0GSFJD59K",
@@ -1497,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20034804",
       "published_at": "2026-09-19T18:30:38+00:00",
-      "revalidated_at": "2026-09-20T15:31:04+00:00"
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
     },
     {
       "asin": "B071CWXLY5",
@@ -2597,51 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20034735",
       "published_at": "2026-09-19T00:46:44+00:00",
-      "revalidated_at": "2026-09-20T15:16:10+00:00"
-    },
-    {
-      "asin": "B0FK1KWPZG",
-      "title": "$18: Baby/Kids Toys @ Amazon (Fisher-Price, LeapFrog, Melissa & Doug, & VTech)",
-      "title_es": "Juguetes para bebés y niños en Amazon (Fisher-Price, LeapFrog, Melissa & Doug, VTech)",
-      "headline": null,
-      "post": "Descubre una selección de juguetes educativos y divertidos para bebés y niños de marcas populares como Fisher-Price y LeapFrog. Son ideales para estimular el desarrollo y la creatividad de los más pequeños en casa.",
-      "post_en": "Explore a selection of educational and fun toys for babies and kids from popular brands like Fisher-Price and LeapFrog. They are ideal for stimulating the development and creativity of little ones at home.",
-      "price_new": 11.0,
-      "price_old": 18.0,
-      "currency": "USD",
-      "discount_pct": 38.9,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/7180zIuEWHL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FK1KWPZG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20025369",
-      "published_at": "2026-09-19T00:31:58+00:00",
-      "revalidated_at": "2026-09-20T17:16:03+00:00"
-    },
-    {
-      "asin": "B0GR9BLB11",
-      "title": "[Prime] 4-Pack TuyLuxe Metal Hanging Solar Lanterns (Warm Filament)",
-      "title_es": "Pack de 4 farolillos solares colgantes de metal TuyLuxe (filamento cálido)",
-      "headline": null,
-      "post": "Ilumina tu jardín o patio con este set de cuatro farolillos solares colgantes, que ofrecen una cálida luz de filamento. Son perfectos para crear un ambiente acogedor en tus espacios exteriores sin necesidad de cables.",
-      "post_en": "Brighten your garden or patio with this set of four hanging solar lanterns, offering a warm filament light. They are perfect for creating a cozy ambiance in your outdoor spaces without the need for wires.",
-      "price_new": 5.85,
-      "price_old": 23.39,
-      "currency": "USD",
-      "discount_pct": 75.0,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "SDO0VPUP",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81TLHfLCjKL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GR9BLB11/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20034837",
-      "published_at": "2026-09-19T00:02:55+00:00",
-      "revalidated_at": "2026-09-20T15:16:10+00:00"
+      "revalidated_at": "2026-09-20T17:31:09+00:00"
     }
   ]
 }
