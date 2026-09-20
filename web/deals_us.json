@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-20T19:01:20+00:00",
+  "generated_at": "2026-09-20T19:16:25+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B09L2KPRGR",
+      "title": "256GB PNY Elite-X USB 3.2 Flash Drive at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 30.99,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 48.4,
+      "rating": 4.2,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/4177U4oSBxL._AC_SL1000_.jpg",
+      "url": "https://amazon.com/dp/B09L2KPRGR/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20040633",
+      "published_at": "2026-09-20T19:16:25+00:00",
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
+    },
     {
       "asin": "B0B1L3Z9LM",
       "title": "2-Pack DEWALT 1/16\" Titanium Nitride Pilot Point Drill Bit (DD5104)",
@@ -89,7 +111,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20039700",
       "published_at": "2026-09-20T17:31:09+00:00",
-      "revalidated_at": "2026-09-20T17:31:09+00:00"
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
     },
     {
       "asin": "B0HFHZBKM9",
@@ -111,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20023527",
       "published_at": "2026-09-20T17:31:09+00:00",
-      "revalidated_at": "2026-09-20T17:31:09+00:00"
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
     },
     {
       "asin": "B0746XNZH3",
@@ -178,28 +200,6 @@
       "deal_key": "sd:20039178",
       "published_at": "2026-09-20T15:46:15+00:00",
       "revalidated_at": "2026-09-20T17:46:00+00:00"
-    },
-    {
-      "asin": "B01LZTBKBG",
-      "title": "Used - Like New: Logitech K780 Multi-Device Wireless Keyboard",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 30.55,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 56.4,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71g7kZDtsZL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B01LZTBKBG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20039181",
-      "published_at": "2026-09-20T15:31:04+00:00",
-      "revalidated_at": "2026-09-20T17:31:09+00:00"
     },
     {
       "asin": "B0722XGM2M",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20039031",
       "published_at": "2026-09-20T13:46:15+00:00",
-      "revalidated_at": "2026-09-20T17:31:09+00:00"
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
     },
     {
       "asin": "B0FMS68R65",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20038332",
       "published_at": "2026-09-20T11:45:51+00:00",
-      "revalidated_at": "2026-09-20T17:31:09+00:00"
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
     },
     {
       "asin": "B000HD4LNC",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20035527",
       "published_at": "2026-09-20T01:46:19+00:00",
-      "revalidated_at": "2026-09-20T17:31:09+00:00"
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
     },
     {
       "asin": "B08HSCRJ46",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20036358",
       "published_at": "2026-09-20T01:46:19+00:00",
-      "revalidated_at": "2026-09-20T17:31:09+00:00"
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
     },
     {
       "asin": "B0DFW4PYK8",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20037930",
       "published_at": "2026-09-20T00:01:27+00:00",
-      "revalidated_at": "2026-09-20T17:31:09+00:00"
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
     },
     {
       "asin": "B07FBB3SDG",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20037039",
       "published_at": "2026-09-20T00:01:27+00:00",
-      "revalidated_at": "2026-09-20T17:31:09+00:00"
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
     },
     {
       "asin": "B00EAKP8S0",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20037492",
       "published_at": "2026-09-19T20:30:55+00:00",
-      "revalidated_at": "2026-09-20T17:31:09+00:00"
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
     },
     {
       "asin": "B0DSLVS2N6",
@@ -1431,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20016834",
       "published_at": "2026-09-19T20:15:51+00:00",
-      "revalidated_at": "2026-09-20T17:31:09+00:00"
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
     },
     {
       "asin": "B0FMK73HTK",
@@ -2531,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20033277",
       "published_at": "2026-09-19T02:03:04+00:00",
-      "revalidated_at": "2026-09-20T17:16:03+00:00"
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
     },
     {
       "asin": "B0FN7NJ87L",
@@ -2597,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20034516",
       "published_at": "2026-09-19T01:02:17+00:00",
-      "revalidated_at": "2026-09-20T17:16:03+00:00"
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
     },
     {
       "asin": "B0H6YCTJ51",
@@ -2619,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20031516",
       "published_at": "2026-09-19T01:02:17+00:00",
-      "revalidated_at": "2026-09-20T17:16:03+00:00"
+      "revalidated_at": "2026-09-20T19:16:25+00:00"
     }
   ]
 }
