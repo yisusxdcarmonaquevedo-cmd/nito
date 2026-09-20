@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-20T14:16:09+00:00",
+  "generated_at": "2026-09-20T14:31:12+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B09JKVJCQZ",
+      "title": "LEGO Classic White Baseplate (11026, 32x32 Studs)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 85.7,
+      "rating": 4.8,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/7142AOdziJL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09JKVJCQZ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20039379",
+      "published_at": "2026-09-20T14:31:12+00:00",
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
+    },
+    {
+      "asin": "B09DJ9HN82",
+      "title": "DEWALT DWE315SK Oscillating Multi-Tool Kit",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 99.0,
+      "price_old": 179.0,
+      "currency": "USD",
+      "discount_pct": 44.7,
+      "rating": 4.3,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81SMRttyNVL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09DJ9HN82/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20038719",
+      "published_at": "2026-09-20T14:31:12+00:00",
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
+    },
+    {
+      "asin": "B0CGYH4VG8",
+      "title": "654-Piece LEGO Star Wars: A New Hope Tantive IV (75376)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 55.99,
+      "price_old": 79.99,
+      "currency": "USD",
+      "discount_pct": 30.0,
+      "rating": 4.9,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/71wilPGyaAL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CGYH4VG8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20039370",
+      "published_at": "2026-09-20T14:31:12+00:00",
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
+    },
     {
       "asin": "B0FQVFXP3Z",
       "title": "Amazon – Little Beauty Women’s Fleece-Lined Zip Hoodie -",
@@ -155,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20039211",
       "published_at": "2026-09-20T12:31:20+00:00",
-      "revalidated_at": "2026-09-20T12:31:20+00:00"
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
     },
     {
       "asin": "B0CW8MF8VV",
@@ -190,11 +256,11 @@
       "price_old": 57.0,
       "currency": "USD",
       "discount_pct": 97.2,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/21652743.thumb",
+      "image": "https://m.media-amazon.com/images/I/81nLXSMDJDL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B07THWDMTP/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20038332",
@@ -287,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20037984",
       "published_at": "2026-09-20T10:31:09+00:00",
-      "revalidated_at": "2026-09-20T12:31:20+00:00"
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
     },
     {
       "asin": "B0D693WKP8",
@@ -705,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20038461",
       "published_at": "2026-09-20T02:46:12+00:00",
-      "revalidated_at": "2026-09-20T12:31:20+00:00"
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
     },
     {
       "asin": "B0GJS5QLJL",
@@ -1038,28 +1104,6 @@
       "revalidated_at": "2026-09-20T12:46:09+00:00"
     },
     {
-      "asin": "B0C27PZ59C",
-      "title": "Amazon – HomeHacks 100L Moving Bags, 10-Pack (Blue) -",
-      "title_es": "Bolsas de mudanza HomeHacks 100L (Paquete de 10, Azul)",
-      "headline": null,
-      "post": "Estas bolsas de mudanza HomeHacks de 100L, en un paquete de 10, son robustas y reutilizables para transportar ropa, ropa de cama y otros artículos voluminosos. Son perfectas para organizar y facilitar tus traslados o guardar objetos de temporada.📦",
-      "post_en": "These HomeHacks 100L Moving Bags, in a 10-pack, are robust and reusable for transporting clothes, bedding, and other bulky items. They are perfect for organizing and facilitating your moves or storing seasonal belongings.📦",
-      "price_new": 21.59,
-      "price_old": 35.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": null,
-      "condition": "code",
-      "code": "79HDSV6X",
-      "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21651675.thumb",
-      "url": "https://amazon.com/dp/B0C27PZ59C/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20037768",
-      "published_at": "2026-09-19T23:01:25+00:00",
-      "revalidated_at": "2026-09-20T12:31:20+00:00"
-    },
-    {
       "asin": "B0HFRNX729",
       "title": "Amazon – CONODO 32GB Bluetooth 5.3 MP3 Player -",
       "title_es": "Reproductor MP3 CONODO 32GB Bluetooth 5.3",
@@ -1277,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20023959",
       "published_at": "2026-09-19T19:15:35+00:00",
-      "revalidated_at": "2026-09-20T12:31:20+00:00"
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
     },
     {
       "asin": "0744084679",
@@ -1541,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20033841",
       "published_at": "2026-09-19T15:45:46+00:00",
-      "revalidated_at": "2026-09-20T12:31:20+00:00"
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
     },
     {
       "asin": "B0DKS89T75",
@@ -1585,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20036694",
       "published_at": "2026-09-19T15:30:47+00:00",
-      "revalidated_at": "2026-09-20T12:16:26+00:00"
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
     },
     {
       "asin": "B0CV8M59ZJ",
@@ -1783,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20036616",
       "published_at": "2026-09-19T13:45:52+00:00",
-      "revalidated_at": "2026-09-20T12:31:20+00:00"
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
     },
     {
       "asin": "B0G86YW5XX",
@@ -1805,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20036352",
       "published_at": "2026-09-19T13:45:52+00:00",
-      "revalidated_at": "2026-09-20T12:31:20+00:00"
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
     },
     {
       "asin": "B0F8N92BVJ",
@@ -1827,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20034468",
       "published_at": "2026-09-19T13:15:57+00:00",
-      "revalidated_at": "2026-09-20T12:16:26+00:00"
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
     },
     {
       "asin": "B0GQ3JKV5T",
@@ -1871,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20033793",
       "published_at": "2026-09-19T12:00:51+00:00",
-      "revalidated_at": "2026-09-20T12:16:26+00:00"
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
     },
     {
       "asin": "B0FH57PRG9",
@@ -2377,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20035179",
       "published_at": "2026-09-19T01:16:46+00:00",
-      "revalidated_at": "2026-09-20T12:16:26+00:00"
+      "revalidated_at": "2026-09-20T14:31:12+00:00"
     },
     {
       "asin": "B0H6MYGHG9",
@@ -2576,72 +2620,6 @@
       "deal_key": "sd:20034822",
       "published_at": "2026-09-19T00:02:55+00:00",
       "revalidated_at": "2026-09-20T13:31:14+00:00"
-    },
-    {
-      "asin": "B0FY3Q2F2M",
-      "title": "6-Oz First Aid Beauty Ultra Repair Intense Hydration Cream",
-      "title_es": "Crema hidratante intensa First Aid Beauty Ultra Repair de 6 Oz.",
-      "headline": null,
-      "post": "La crema First Aid Beauty Ultra Repair de 6 Oz proporciona hidratación intensa para pieles secas o sensibles. Es un básico para el cuidado diario que calma y nutre la piel.✨",
-      "post_en": "The 6-Oz First Aid Beauty Ultra Repair cream provides intense hydration for dry or sensitive skin. It's a daily skincare essential that soothes and nourishes the skin.✨",
-      "price_new": 16.8,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 52.0,
-      "rating": 4.6,
-      "condition": "coupon",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/610P0q3xiSL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FY3Q2F2M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20034615",
-      "published_at": "2026-09-18T23:32:24+00:00",
-      "revalidated_at": "2026-09-20T12:31:20+00:00"
-    },
-    {
-      "asin": "B0DCZHPM7K",
-      "title": "65W Amazon Basics 1-Port GaN USB-C Wall Charger w/ PD 3.1 (Black)",
-      "title_es": "Cargador de pared Amazon Basics GaN USB-C de 65W con PD 3.1 (Negro).",
-      "headline": null,
-      "post": "Este cargador de pared Amazon Basics GaN de 65W con USB-C y PD 3.1 ofrece carga rápida y eficiente. Es perfecto para alimentar tus dispositivos modernos como portátiles o smartphones de forma compacta.⚡",
-      "post_en": "This 65W Amazon Basics GaN USB-C wall charger with PD 3.1 offers fast and efficient charging. It's perfect for powering your modern devices like laptops or smartphones compactly.⚡",
-      "price_new": 12.5,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 64.3,
-      "rating": 4.1,
-      "condition": "coupon",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51HqUeKhwHL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DCZHPM7K/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20034399",
-      "published_at": "2026-09-18T22:47:21+00:00",
-      "revalidated_at": "2026-09-20T13:31:14+00:00"
-    },
-    {
-      "asin": "B0G87CH7TH",
-      "title": "Magic: The Gathering | Marvel Super Heroes Commander Deck - The Fantastic Four (100-Card Deck + Accessories) at Amazon",
-      "title_es": "Magic: The Gathering | Marvel Super Heroes Commander Deck - The Fantastic Four (100 cartas + accesorios).",
-      "headline": null,
-      "post": "Sumérgete en el universo de Magic: The Gathering con este Commander Deck de Marvel Super Heroes - The Fantastic Four. Incluye 100 cartas y accesorios, ideal para fans que quieran llevar su juego al siguiente nivel.🃏",
-      "post_en": "Dive into the Magic: The Gathering universe with this Marvel Super Heroes Commander Deck - The Fantastic Four. It includes 100 cards and accessories, perfect for fans looking to take their game to the next level.🃏",
-      "price_new": 39.99,
-      "price_old": 58.42,
-      "currency": "USD",
-      "discount_pct": 31.5,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21643557.thumb",
-      "url": "https://amazon.com/dp/B0G87CH7TH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20034288",
-      "published_at": "2026-09-18T22:47:21+00:00",
-      "revalidated_at": "2026-09-20T13:46:15+00:00"
     }
   ]
 }
