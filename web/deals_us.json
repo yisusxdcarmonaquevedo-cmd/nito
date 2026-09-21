@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-21T08:30:37+00:00",
+  "generated_at": "2026-09-21T08:45:40+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0BF3R83W8",
+      "title": "Thermaltake Toughpower GF3 1000W ATX 3.1 80 Plus Gold Modular Power Supply",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 112.75,
+      "price_old": 169.99,
+      "currency": "USD",
+      "discount_pct": 33.7,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21660195.thumb",
+      "url": "https://amazon.com/dp/B0BF3R83W8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20042025",
+      "published_at": "2026-09-21T08:45:40+00:00",
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
+    },
     {
       "asin": "B000SDKDM4",
       "title": "2.2-lb Lavazza Super Crema Whole Bean Coffee (Medium Espresso Roast)",
@@ -124,11 +146,11 @@
       "price_old": 14.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "USR76K8L",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21657696.thumb",
+      "image": "https://m.media-amazon.com/images/I/71+MUz29+PL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F8Q65NRD/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20040810",
@@ -309,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20041554",
       "published_at": "2026-09-21T05:02:35+00:00",
-      "revalidated_at": "2026-09-21T06:46:12+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B0GWL9WKHS",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20023563",
       "published_at": "2026-09-21T05:02:35+00:00",
-      "revalidated_at": "2026-09-21T06:46:12+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B0F13RNL6C",
@@ -1211,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20040513",
       "published_at": "2026-09-20T21:32:37+00:00",
-      "revalidated_at": "2026-09-21T06:46:12+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B0F4LLX5M9",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20040561",
       "published_at": "2026-09-20T21:32:37+00:00",
-      "revalidated_at": "2026-09-21T06:46:12+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B09MVVRFC5",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20040534",
       "published_at": "2026-09-20T19:46:24+00:00",
-      "revalidated_at": "2026-09-21T06:46:12+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B01NBUJEKR",
@@ -1453,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20040399",
       "published_at": "2026-09-20T19:46:24+00:00",
-      "revalidated_at": "2026-09-21T06:46:12+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B0CDHKFLXV",
@@ -1761,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20035032",
       "published_at": "2026-09-20T14:16:09+00:00",
-      "revalidated_at": "2026-09-21T06:46:12+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B0H38XC33N",
@@ -1783,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20022495",
       "published_at": "2026-09-20T14:16:09+00:00",
-      "revalidated_at": "2026-09-21T06:46:12+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B00G1X2HPG",
@@ -1805,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20026878",
       "published_at": "2026-09-20T14:16:09+00:00",
-      "revalidated_at": "2026-09-21T06:46:12+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B000TA04IO",
@@ -1893,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20039154",
       "published_at": "2026-09-20T12:16:26+00:00",
-      "revalidated_at": "2026-09-21T06:46:12+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B07THWDMTP",
@@ -2157,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20034651",
       "published_at": "2026-09-20T06:23:24+00:00",
-      "revalidated_at": "2026-09-21T06:46:12+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B08W9TXWX1",
@@ -2311,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20013984",
       "published_at": "2026-09-20T03:46:00+00:00",
-      "revalidated_at": "2026-09-21T06:46:12+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B08GHX9G5L",
@@ -2333,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20028960",
       "published_at": "2026-09-20T03:31:03+00:00",
-      "revalidated_at": "2026-09-21T06:30:36+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B07DPVF8DQ",
@@ -2465,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20015220",
       "published_at": "2026-09-20T01:16:43+00:00",
-      "revalidated_at": "2026-09-21T06:30:36+00:00"
+      "revalidated_at": "2026-09-21T08:45:40+00:00"
     },
     {
       "asin": "B072JX77X6",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:20037639",
       "published_at": "2026-09-19T23:13:00+00:00",
       "revalidated_at": "2026-09-21T08:15:37+00:00"
-    },
-    {
-      "asin": "B0BSP28X8M",
-      "title": "Fisher-Price Laugh & Learn Sis’ Remote Baby Toy",
-      "title_es": "Juguete para bebé Fisher-Price Laugh & Learn Sis’ Remote",
-      "headline": null,
-      "post": "El juguete Fisher-Price Laugh & Learn Sis’ Remote es un mando a distancia interactivo diseñado para bebés, que introduce números, colores y primeras palabras. Es ideal para estimular el aprendizaje temprano y la motricidad fina de los más pequeños de forma divertida.",
-      "post_en": "The Fisher-Price Laugh & Learn Sis’ Remote toy is an interactive remote control designed for babies, introducing numbers, colors, and first words. It's ideal for stimulating early learning and fine motor skills in little ones in a fun way.",
-      "price_new": 9.97,
-      "price_old": 21.97,
-      "currency": "USD",
-      "discount_pct": 54.6,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/21650871.thumb",
-      "url": "https://amazon.com/dp/B0BSP28X8M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20037588",
-      "published_at": "2026-09-19T23:13:00+00:00",
-      "revalidated_at": "2026-09-21T06:30:36+00:00"
     }
   ]
 }
