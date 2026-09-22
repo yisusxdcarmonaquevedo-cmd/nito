@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T02:16:24+00:00",
+  "generated_at": "2026-09-22T02:31:47+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0H7H7BDNH",
@@ -36,11 +36,11 @@
       "price_old": 49.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.2,
       "condition": "code",
       "code": "2888ZGSM",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21667401.thumb",
+      "image": "https://m.media-amazon.com/images/I/615ulYAg27L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CR6LXVD4/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20044860",
@@ -114,28 +114,6 @@
       "revalidated_at": "2026-09-22T01:16:34+00:00"
     },
     {
-      "asin": "B0FKGW3C4V",
-      "title": "[Lightning Deal]Coobiiya 10L Insulated Cooler LunchBox Tote (Beige)",
-      "title_es": "Coobiiya 10L Bolsa Térmica Portátil Aislada (Beige)",
-      "headline": null,
-      "post": "Esta bolsa térmica Coobiiya de 10L es ideal para transportar tus comidas y bebidas, manteniéndolas a la temperatura deseada. Su diseño compacto y aislante la hace perfecta para el trabajo, picnics o excursiones.",
-      "post_en": "This Coobiiya 10L insulated cooler bag is perfect for carrying your meals and drinks, keeping them at the desired temperature. Its compact and insulating design makes it ideal for work, picnics, or excursions.",
-      "price_new": 5.09,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 85.5,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71D4exWyuRL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FKGW3C4V/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20043993",
-      "published_at": "2026-09-22T00:46:32+00:00",
-      "revalidated_at": "2026-09-22T00:46:33+00:00"
-    },
-    {
       "asin": "B0F1JZX8BS",
       "title": "KEPEAK 130000RPM Cordless Electric Air Duster w/ Brushless Motor & 4-Speed Settings",
       "title_es": "KEPEAK Soplador de Aire Eléctrico Inalámbrico 130000RPM",
@@ -155,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20045754",
       "published_at": "2026-09-22T00:46:32+00:00",
-      "revalidated_at": "2026-09-22T00:46:33+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B0CXP8PT5N",
@@ -529,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044890",
       "published_at": "2026-09-21T22:46:41+00:00",
-      "revalidated_at": "2026-09-22T00:46:33+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B01N453FO6",
@@ -551,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20042319",
       "published_at": "2026-09-21T22:46:41+00:00",
-      "revalidated_at": "2026-09-22T00:46:33+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B0F5GR91QB",
@@ -573,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044725",
       "published_at": "2026-09-21T22:46:41+00:00",
-      "revalidated_at": "2026-09-22T00:46:33+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B091DLFDL9",
@@ -705,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044260",
       "published_at": "2026-09-21T21:02:05+00:00",
-      "revalidated_at": "2026-09-22T00:46:33+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B0F4QHTYM9",
@@ -947,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20043762",
       "published_at": "2026-09-21T19:01:24+00:00",
-      "revalidated_at": "2026-09-22T00:46:33+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B0DT41B92M",
@@ -1387,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20042265",
       "published_at": "2026-09-21T16:31:38+00:00",
-      "revalidated_at": "2026-09-22T00:46:33+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B0CM62CZQX",
@@ -1651,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20043363",
       "published_at": "2026-09-21T14:46:28+00:00",
-      "revalidated_at": "2026-09-22T00:46:33+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B0FKW6LVYC",
@@ -1673,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20035947",
       "published_at": "2026-09-21T14:46:28+00:00",
-      "revalidated_at": "2026-09-22T00:46:33+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B0DSBX9TQ1",
@@ -1695,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20043030",
       "published_at": "2026-09-21T14:46:28+00:00",
-      "revalidated_at": "2026-09-22T00:46:33+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B00E6EFGHS",
@@ -1739,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20042736",
       "published_at": "2026-09-21T14:16:27+00:00",
-      "revalidated_at": "2026-09-22T00:46:33+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B09PRB1MZM",
@@ -2223,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20042277",
       "published_at": "2026-09-21T11:31:26+00:00",
-      "revalidated_at": "2026-09-22T00:32:28+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B07L32B9C2",
@@ -2465,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20036631",
       "published_at": "2026-09-21T07:30:59+00:00",
-      "revalidated_at": "2026-09-22T00:32:28+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B0BT1WN3ZD",
@@ -2487,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20036280",
       "published_at": "2026-09-21T07:30:59+00:00",
-      "revalidated_at": "2026-09-22T00:32:28+00:00"
+      "revalidated_at": "2026-09-22T02:31:47+00:00"
     },
     {
       "asin": "B0F8Q65NRD",
