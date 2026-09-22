@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-22T20:00:45+00:00",
+  "generated_at": "2026-09-22T20:15:48+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "0451474570",
+      "title": "Llama Llama Red Pajama",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.93,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 88.8,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/3/0/4/6/9/4/2/0/450x450/21680166.thumb",
+      "url": "https://amazon.com/dp/0451474570/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20050071",
+      "published_at": "2026-09-22T20:15:48+00:00",
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
+    },
+    {
+      "asin": "B0DYNK4S3W",
+      "title": "Tisfa Cedar Wood Desktop Cigar Humidor w/ Digital Hygrometer & Pull-Out Drawer (Black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 17.39,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 50.3,
+      "rating": null,
+      "condition": "code",
+      "code": "40M9LMM9",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/21680592.thumb",
+      "url": "https://amazon.com/dp/B0DYNK4S3W/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20050203",
+      "published_at": "2026-09-22T20:15:48+00:00",
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
+    },
     {
       "asin": "B08QW7K1JJ",
       "title": "Klein Tools GFCI Receptacle Outlet Tester w/ LCD",
@@ -58,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 49.2,
-      "rating": null,
+      "rating": 4.1,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/3/0/4/6/9/4/2/0/450x450/21677490.thumb",
+      "image": "https://m.media-amazon.com/images/I/71TVR22LWCL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B01N6EMD32/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20049117",
@@ -199,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20049066",
       "published_at": "2026-09-22T18:15:52+00:00",
-      "revalidated_at": "2026-09-22T18:15:52+00:00"
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
     },
     {
       "asin": "B0CRLDZ3N5",
@@ -221,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20048352",
       "published_at": "2026-09-22T18:15:52+00:00",
-      "revalidated_at": "2026-09-22T18:15:52+00:00"
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
     },
     {
       "asin": "B001AZM30Y",
@@ -507,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20048967",
       "published_at": "2026-09-22T16:15:51+00:00",
-      "revalidated_at": "2026-09-22T18:15:52+00:00"
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
     },
     {
       "asin": "B0GGGTLJ9F",
@@ -529,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044551",
       "published_at": "2026-09-22T16:15:51+00:00",
-      "revalidated_at": "2026-09-22T18:15:52+00:00"
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
     },
     {
       "asin": "B0H2XTXWTR",
@@ -551,29 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20048826",
       "published_at": "2026-09-22T16:15:51+00:00",
-      "revalidated_at": "2026-09-22T18:15:52+00:00"
-    },
-    {
-      "asin": "B0CD2F4B1G",
-      "title": "Bose QuietComfort Ultra Wireless Noise Cancelling Earbuds (White Smoke) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 169.0,
-      "price_old": 299.0,
-      "currency": "USD",
-      "discount_pct": 43.5,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51qMK4q-NVL._AC_SL1239_.jpg",
-      "url": "https://amazon.com/dp/B0CD2F4B1G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20047092",
-      "published_at": "2026-09-22T16:15:51+00:00",
-      "revalidated_at": "2026-09-22T18:15:52+00:00"
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
     },
     {
       "asin": "B0GXCW4M5S",
@@ -1651,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20046282",
       "published_at": "2026-09-22T04:46:43+00:00",
-      "revalidated_at": "2026-09-22T18:01:00+00:00"
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
     },
     {
       "asin": "B001NLL9P0",
@@ -1959,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20045754",
       "published_at": "2026-09-22T00:46:32+00:00",
-      "revalidated_at": "2026-09-22T18:01:00+00:00"
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
     },
     {
       "asin": "B0CXP8PT5N",
@@ -2311,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044890",
       "published_at": "2026-09-21T22:46:41+00:00",
-      "revalidated_at": "2026-09-22T18:01:00+00:00"
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
     },
     {
       "asin": "B0F5GR91QB",
@@ -2333,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044725",
       "published_at": "2026-09-21T22:46:41+00:00",
-      "revalidated_at": "2026-09-22T18:01:00+00:00"
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
     },
     {
       "asin": "B091DLFDL9",
@@ -2443,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20045199",
       "published_at": "2026-09-21T20:46:28+00:00",
-      "revalidated_at": "2026-09-22T18:01:00+00:00"
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
     },
     {
       "asin": "B0BFBS6QC1",
@@ -2465,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044023",
       "published_at": "2026-09-21T20:31:33+00:00",
-      "revalidated_at": "2026-09-22T18:01:00+00:00"
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
     },
     {
       "asin": "B0GS8PDF4N",
@@ -2487,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044107",
       "published_at": "2026-09-21T20:31:33+00:00",
-      "revalidated_at": "2026-09-22T18:01:00+00:00"
+      "revalidated_at": "2026-09-22T20:15:48+00:00"
     },
     {
       "asin": "B009NQZQWY",
@@ -2598,50 +2620,6 @@
       "deal_key": "sd:20023014",
       "published_at": "2026-09-21T19:31:29+00:00",
       "revalidated_at": "2026-09-22T19:15:50+00:00"
-    },
-    {
-      "asin": "B0B6HLRF7G",
-      "title": "5-Pc Rerdeim Putty Knife w/ Rubber Ergonomic Handles (1\"- 5\" Assorted Sizes)",
-      "title_es": "Juego de 5 espátulas Rerdeim con mangos ergonómicos de goma (tamaños variados de 1\" a 5\").",
-      "headline": null,
-      "post": "Este set de 5 espátulas Rerdeim es esencial para trabajos de masilla, pintura o reparación en el hogar. Sus mangos ergonómicos de goma ofrecen un agarre cómodo y seguro para cualquier manitas.",
-      "post_en": "This 5-piece Rerdeim putty knife set is essential for putty, painting, or home repair tasks. Its ergonomic rubber handles provide a comfortable and secure grip for any DIY enthusiast.",
-      "price_new": 6.0,
-      "price_old": 57.0,
-      "currency": "USD",
-      "discount_pct": 89.5,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21659799.thumb",
-      "url": "https://amazon.com/dp/B0B6HLRF7G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20041845",
-      "published_at": "2026-09-21T19:16:28+00:00",
-      "revalidated_at": "2026-09-22T18:45:51+00:00"
-    },
-    {
-      "asin": "B01EZV35QU",
-      "title": "Kasa Smart HS200 Single-Pole Wi-Fi Light Switch (White)",
-      "title_es": "Interruptor de luz Wi-Fi monopolar Kasa Smart HS200 (blanco).",
-      "headline": null,
-      "post": "Transforma tu hogar en inteligente con el interruptor de luz Kasa Smart HS200, que permite controlar la iluminación desde tu móvil o con voz. Es fácil de instalar y perfecto para automatizar cualquier habitación.",
-      "post_en": "Transform your home into a smart one with the Kasa Smart HS200 light switch, allowing you to control lighting from your phone or with voice commands. It's easy to install and perfect for automating any room.",
-      "price_new": 11.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 65.7,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/611JGGx4DPL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B01EZV35QU/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20043762",
-      "published_at": "2026-09-21T19:01:24+00:00",
-      "revalidated_at": "2026-09-22T18:30:56+00:00"
     }
   ]
 }
