@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T09:16:44+00:00",
+  "generated_at": "2026-09-22T09:32:07+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B009U9S6FI",
@@ -36,11 +36,11 @@
       "price_old": 4.99,
       "currency": "USD",
       "discount_pct": 60.1,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21672471.thumb",
+      "image": "https://m.media-amazon.com/images/I/71qfFqrejqL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B09QYDQQ7N/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20047293",
@@ -133,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044104",
       "published_at": "2026-09-22T05:46:34+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B0BGSDTZVF",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044938",
       "published_at": "2026-09-22T03:46:26+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B0FRLV5YD2",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044860",
       "published_at": "2026-09-22T01:46:33+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B01JG5UG1W",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20045001",
       "published_at": "2026-09-22T01:46:33+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B0DYHYYP8P",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044911",
       "published_at": "2026-09-21T20:16:29+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B0C8VKNJ1B",
@@ -1475,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044017",
       "published_at": "2026-09-21T18:16:29+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B0FKVWSM3N",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044557",
       "published_at": "2026-09-21T18:16:29+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B0DQLBKM5R",
@@ -1519,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044038",
       "published_at": "2026-09-21T18:16:29+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B08FMR333V",
@@ -1827,29 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20043558",
       "published_at": "2026-09-21T16:16:38+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
-    },
-    {
-      "asin": "B0G2Y57HZP",
-      "title": "70.8\" GarveeHome Fluted Bookshelf w/ Storage Drawers (Light Wood)",
-      "title_es": "Estantería Acanalada GarveeHome de 70.8\" con Cajones de Almacenamiento (Madera Clara)",
-      "headline": null,
-      "post": "La estantería acanalada GarveeHome de 70.8 pulgadas ofrece un diseño elegante y funcionalidad con sus cajones de almacenamiento integrados. Es perfecta para organizar libros y objetos decorativos en cualquier espacio, aportando un toque moderno de madera clara.",
-      "post_en": "The 70.8-inch GarveeHome Fluted Bookshelf offers an elegant design and functionality with its integrated storage drawers. It's perfect for organizing books and decorative items in any space, adding a modern light wood touch.",
-      "price_new": 79.99,
-      "price_old": 189.23,
-      "currency": "USD",
-      "discount_pct": 57.7,
-      "rating": null,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/21664485.thumb",
-      "url": "https://amazon.com/dp/B0G2Y57HZP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20043861",
-      "published_at": "2026-09-21T16:16:38+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B0G6JVSTDZ",
@@ -1937,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20043585",
       "published_at": "2026-09-21T16:01:25+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B0B82Y74HR",
@@ -2223,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20042127",
       "published_at": "2026-09-21T14:01:32+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B0FRM8Q873",
@@ -2245,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20042379",
       "published_at": "2026-09-21T14:01:32+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B0FKB8NKXC",
@@ -2289,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20042964",
       "published_at": "2026-09-21T13:46:41+00:00",
-      "revalidated_at": "2026-09-22T07:16:37+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B0FKVQLBPM",
@@ -2355,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20043024",
       "published_at": "2026-09-21T13:31:37+00:00",
-      "revalidated_at": "2026-09-22T07:31:33+00:00"
+      "revalidated_at": "2026-09-22T09:32:07+00:00"
     },
     {
       "asin": "B0CSDCLCLR",
