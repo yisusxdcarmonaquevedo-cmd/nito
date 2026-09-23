@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T10:04:20+00:00",
+  "generated_at": "2026-09-23T10:16:06+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
     {
       "asin": "B0CM43B8LH",
@@ -36,11 +36,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 42.9,
-      "rating": null,
+      "rating": 4.3,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/4/9/0/0/1/2/450x450/21682950.thumb",
+      "image": "https://m.media-amazon.com/images/I/81VDrwUG+2L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DFH1V13J/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20051181",
@@ -265,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20032563",
       "published_at": "2026-09-23T06:31:03+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B0BS1SWPRQ",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20047086",
       "published_at": "2026-09-23T04:31:01+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B0GQ2VLWFJ",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20050995",
       "published_at": "2026-09-23T00:40:35+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B0HJ6MM75B",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20048607",
       "published_at": "2026-09-23T00:40:35+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B0FH4FL6NR",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20048259",
       "published_at": "2026-09-22T22:46:19+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B0FJ33DX2W",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20050434",
       "published_at": "2026-09-22T22:46:19+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B0FNZXYS1T",
@@ -1192,28 +1192,6 @@
       "revalidated_at": "2026-09-23T08:46:15+00:00"
     },
     {
-      "asin": "B0CMQ7G5TH",
-      "title": "Bedsure 100% Cotton Herringbone Weave Queen Size Blanket",
-      "title_es": "Manta Bedsure Queen Size de Algodón 100% con Tejido de Espiga",
-      "headline": null,
-      "post": "Esta manta Bedsure de tamaño Queen está confeccionada con 100% algodón y presenta un elegante tejido de espiga. Es ideal para añadir una capa de confort y estilo a tu cama o sofá.",
-      "post_en": "This Bedsure Queen size blanket is made from 100% cotton and features an elegant herringbone weave. It's perfect for adding a layer of comfort and style to your bed or sofa.",
-      "price_new": 15.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 55.7,
-      "rating": null,
-      "condition": "code",
-      "code": "Z8QN5YZ3",
-      "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/21680472.thumb",
-      "url": "https://amazon.com/dp/B0CMQ7G5TH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20050191",
-      "published_at": "2026-09-22T20:30:59+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
-    },
-    {
       "asin": "0451474570",
       "title": "Llama Llama Red Pajama",
       "title_es": "Llama Llama Red Pajama (Libro)",
@@ -1431,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20049642",
       "published_at": "2026-09-22T18:30:56+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B0GK95S8ST",
@@ -1673,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20047545",
       "published_at": "2026-09-22T16:30:59+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B0FMJR93B2",
@@ -1695,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20047821",
       "published_at": "2026-09-22T16:30:59+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B0FRM182ZG",
@@ -1717,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20049225",
       "published_at": "2026-09-22T16:30:59+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B0GCZV3YJ7",
@@ -1761,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044551",
       "published_at": "2026-09-22T16:15:51+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B0H2XTXWTR",
@@ -1783,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20048826",
       "published_at": "2026-09-22T16:15:51+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B004RZ63KK",
@@ -2377,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20047422",
       "published_at": "2026-09-22T12:15:52+00:00",
-      "revalidated_at": "2026-09-23T08:16:18+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B0BVSVWCS8",
@@ -2399,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20047242",
       "published_at": "2026-09-22T12:15:52+00:00",
-      "revalidated_at": "2026-09-23T08:31:12+00:00"
+      "revalidated_at": "2026-09-23T10:16:06+00:00"
     },
     {
       "asin": "B0DZP21RXY",
