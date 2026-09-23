@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T00:15:57+00:00",
+  "generated_at": "2026-09-23T00:31:01+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -146,11 +146,11 @@
       "price_old": 59.0,
       "currency": "USD",
       "discount_pct": 95.5,
-      "rating": null,
+      "rating": 4.3,
       "condition": "sns",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/7/2/9/6/9/0/450x450/21677871.thumb",
+      "image": "https://m.media-amazon.com/images/I/71GBMdztndL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BZJN14KF/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20049276",
@@ -265,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20047857",
       "published_at": "2026-09-22T22:31:43+00:00",
-      "revalidated_at": "2026-09-22T22:31:43+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B0FNZXYS1T",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20050197",
       "published_at": "2026-09-22T22:31:43+00:00",
-      "revalidated_at": "2026-09-22T22:31:43+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B01MTLG3FC",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20050323",
       "published_at": "2026-09-22T22:31:43+00:00",
-      "revalidated_at": "2026-09-22T22:31:43+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B0GC3S8SMG",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20050071",
       "published_at": "2026-09-22T20:15:48+00:00",
-      "revalidated_at": "2026-09-22T22:31:43+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B0DYNK4S3W",
@@ -551,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20050203",
       "published_at": "2026-09-22T20:15:48+00:00",
-      "revalidated_at": "2026-09-22T22:31:43+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B08QW7K1JJ",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20049066",
       "published_at": "2026-09-22T18:15:52+00:00",
-      "revalidated_at": "2026-09-22T22:31:43+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B0CRLDZ3N5",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20048352",
       "published_at": "2026-09-22T18:15:52+00:00",
-      "revalidated_at": "2026-09-22T22:31:43+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B001AZM30Y",
@@ -930,10 +930,10 @@
     {
       "asin": "B0DRW62VRP",
       "title": "1138-Piece LEGO Friends Plant Café & Flower Shop Building Set (42671)",
-      "title_es": null,
+      "title_es": "Set de Construcción LEGO Friends Plant Café & Flower Shop (42671) de 1138 Piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set LEGO Friends de 1138 piezas permite construir una cafetería y floristería con muchos detalles. Es ideal para fans de LEGO que disfrutan de la construcción creativa y las historias en Heartlake City. 🌸",
+      "post_en": "This 1138-piece LEGO Friends set lets you build a detailed plant café and flower shop. It's perfect for LEGO fans who enjoy creative building and storytelling in Heartlake City. 🌸",
       "price_new": 68.0,
       "price_old": 99.99,
       "currency": "USD",
@@ -952,10 +952,10 @@
     {
       "asin": "B073Z8CBQ4",
       "title": "Love Worth Making: How to Have Ridiculously Great Sex in a Long-Lasting Relationship (eBook) by Stephen Snyder M.D.",
-      "title_es": null,
+      "title_es": "eBook Love Worth Making: How to Have Ridiculously Great Sex in a Long-Lasting Relationship de Stephen Snyder M.D.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este eBook del Dr. Stephen Snyder ofrece una guía para mejorar la intimidad y la vida sexual en relaciones duraderas. Es perfecto para parejas que buscan profundizar su conexión y explorar nuevas formas de placer.",
+      "post_en": "This eBook by Dr. Stephen Snyder offers a guide to improving intimacy and sex life in long-lasting relationships. It's perfect for couples looking to deepen their connection and explore new forms of pleasure.",
       "price_new": 2.99,
       "price_old": 11.99,
       "currency": "USD",
@@ -974,10 +974,10 @@
     {
       "asin": "B0FMJR93B2",
       "title": "2-Piece 23\" Oyears Rattan and Glass Table Lamps w/ 2 Light Points (Yellow Blue, Yellow Green)",
-      "title_es": null,
+      "title_es": "Lámparas de Mesa Oyears de Ratán y Cristal de 23\" con 2 Puntos de Luz (Amarillo Azul, Amarillo Verde) - Pack de 2",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set incluye dos lámparas de mesa Oyears de 23\" con un diseño moderno de ratán y cristal. Son ideales para añadir un toque decorativo y una iluminación ambiental cálida a cualquier salón o dormitorio.",
+      "post_en": "This set includes two 23\" Oyears table lamps featuring a modern rattan and glass design. They are perfect for adding a decorative touch and warm ambient lighting to any living room or bedroom.",
       "price_new": 39.99,
       "price_old": 99.99,
       "currency": "USD",
@@ -996,10 +996,10 @@
     {
       "asin": "B0FRM182ZG",
       "title": "22L adidas Lineage Backpack w/ 16\" Laptop Sleeve (Various Colors) from",
-      "title_es": null,
+      "title_es": "Mochila adidas Lineage de 22L con Compartimento para Portátil de 16\" (Varios Colores)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta mochila adidas Lineage de 22L cuenta con un compartimento acolchado para portátiles de hasta 16\". Es una opción práctica y resistente para estudiantes o profesionales que necesitan transportar sus pertenencias con estilo.",
+      "post_en": "This 22L adidas Lineage backpack features a padded compartment for laptops up to 16\". It's a practical and durable option for students or professionals who need to carry their belongings in style.",
       "price_new": 21.98,
       "price_old": 35.0,
       "currency": "USD",
@@ -1018,10 +1018,10 @@
     {
       "asin": "B0GCZV3YJ7",
       "title": "Amazon – Lolalet 3-Layer PU Leather Makeup Organizer w/ Drawers -",
-      "title_es": null,
+      "title_es": "Organizador de Maquillaje Lolalet de 3 Capas de Cuero PU con Cajones",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este organizador de maquillaje Lolalet de 3 capas, fabricado en cuero PU, cuenta con varios cajones para guardar cosméticos. Es ideal para mantener ordenados y accesibles tus productos de belleza en el tocador o baño.",
+      "post_en": "This 3-layer Lolalet makeup organizer, made of PU leather, features multiple drawers for storing cosmetics. It's perfect for keeping your beauty products tidy and accessible on your vanity or in the bathroom.",
       "price_new": 27.99,
       "price_old": 39.99,
       "currency": "USD",
@@ -1040,10 +1040,10 @@
     {
       "asin": "B0GGGTLJ9F",
       "title": "AstroAI H2 Pro Cordless Tire Inflator Portable Air Compressor Tire Pump",
-      "title_es": null,
+      "title_es": "Inflador de Neumáticos Inalámbrico Portátil AstroAI H2 Pro / Compresor de Aire",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El inflador de neumáticos inalámbrico AstroAI H2 Pro es un compresor de aire portátil con batería recargable. Es indispensable para mantener la presión correcta de los neumáticos del coche o bicicleta en cualquier lugar. 🚗",
+      "post_en": "The AstroAI H2 Pro cordless tire inflator is a portable air compressor with a rechargeable battery. It's essential for maintaining correct tire pressure for your car or bike anywhere. 🚗",
       "price_new": 22.05,
       "price_old": 62.99,
       "currency": "USD",
@@ -1057,15 +1057,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20044551",
       "published_at": "2026-09-22T16:15:51+00:00",
-      "revalidated_at": "2026-09-22T22:31:43+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B0H2XTXWTR",
       "title": "Ekouaer Womens Lounge Sets Long Sleeve Casual Pajama Fall Sleepwear Pockets",
-      "title_es": null,
+      "title_es": "Conjunto de Pijama Casual de Manga Larga Ekouaer para Mujer con Bolsillos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este conjunto de pijama Ekouaer de manga larga ofrece comodidad y estilo para relajarse en casa. Es perfecto para mujeres que buscan ropa de dormir suave y funcional con bolsillos prácticos.",
+      "post_en": "This Ekouaer long-sleeve pajama set offers comfort and style for relaxing at home. It's perfect for women seeking soft, functional sleepwear with practical pockets.",
       "price_new": 10.99,
       "price_old": 35.99,
       "currency": "USD",
@@ -1084,10 +1084,10 @@
     {
       "asin": "B0GXCW4M5S",
       "title": "6-Pack JSCARES Fruit Storage Containers for Fridge w/ Removable Colander",
-      "title_es": null,
+      "title_es": "Pack de 6 Contenedores JSCARES para Frutas con Colador Extraíble para Nevera",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 6 contenedores JSCARES está diseñado para almacenar frutas y verduras en la nevera, incluyendo un colador extraíble. Son ideales para mantener tus alimentos frescos por más tiempo y facilitar su lavado.",
+      "post_en": "This 6-pack of JSCARES containers is designed for storing fruits and vegetables in the fridge, including a removable colander. They are perfect for keeping your food fresh longer and making washing easier.",
       "price_new": 20.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1106,10 +1106,10 @@
     {
       "asin": "B004RZ63KK",
       "title": "500-Ct True Lemon Water Enhancer Drink Mix Packets at Amazon",
-      "title_es": null,
+      "title_es": "500 Sobres de Mezcla Potenciadora de Agua True Lemon",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este paquete de 500 sobres de True Lemon ofrece una forma natural de añadir sabor a limón al agua. Es una alternativa refrescante y sin azúcar a las bebidas azucaradas, ideal para mantenerse hidratado. 🍋",
+      "post_en": "This 500-count pack of True Lemon packets offers a natural way to add lemon flavor to water. It's a refreshing, sugar-free alternative to sugary drinks, ideal for staying hydrated. 🍋",
       "price_new": 14.0,
       "price_old": 21.67,
       "currency": "USD",
@@ -1128,10 +1128,10 @@
     {
       "asin": "B0HJ6J9FB5",
       "title": "Various Paramount Blu-Ray and 4K Sets Starting at",
-      "title_es": null,
+      "title_es": "Varios Sets Blu-Ray y 4K de Paramount",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Descubre una selección de sets Blu-Ray y 4K de Paramount con películas y series icónicas. Son perfectos para cinéfilos que desean disfrutar de sus títulos favoritos con la mejor calidad de imagen y sonido. 🎬",
+      "post_en": "Discover a selection of Paramount Blu-Ray and 4K sets featuring iconic movies and series. They are perfect for cinephiles who want to enjoy their favorite titles with the best picture and sound quality. 🎬",
       "price_new": 12.49,
       "price_old": 57.0,
       "currency": "USD",
@@ -1150,10 +1150,10 @@
     {
       "asin": "B0CZD1JTZK",
       "title": "Rossetta 5-in-1 Dual-Lens Galaxy Star Projector w/ Bluetooth Speaker, White Noise & Remote Control",
-      "title_es": null,
+      "title_es": "Proyector de Estrellas Rossetta 5-en-1 con Doble Lente, Altavoz Bluetooth y Ruido Blanco",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este proyector Rossetta crea una atmósfera mágica con estrellas de galaxia, doble lente, altavoz Bluetooth y ruido blanco para relajación. Es ideal para habitaciones infantiles, ambientes de fiesta o para quienes buscan un espacio tranquilo y envolvente. ✨",
+      "post_en": "This Rossetta projector creates a magical atmosphere with galaxy stars, dual-lens, Bluetooth speaker, and white noise for relaxation. It's ideal for kids' rooms, party ambiances, or anyone looking for a peaceful and immersive space. ✨",
       "price_new": 13.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1172,10 +1172,10 @@
     {
       "asin": "B07SMBG5TR",
       "title": "Luigi's Mansion 3 – Nintendo Switch Physical or Digital -",
-      "title_es": null,
+      "title_es": "Luigi's Mansion 3 – Nintendo Switch (Físico o Digital)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Únete a Luigi en una aventura espeluznante para rescatar a sus amigos en el hotel encantado. Un juego divertido y lleno de puzles perfecto para fans de Nintendo Switch que disfrutan de la exploración y la acción.",
+      "post_en": "Join Luigi on a spooky adventure to rescue his friends in the haunted hotel. A fun, puzzle-filled game perfect for Nintendo Switch fans who enjoy exploration and action.",
       "price_new": 41.99,
       "price_old": 59.99,
       "currency": "USD",
@@ -1194,10 +1194,10 @@
     {
       "asin": "B071LDBDTM",
       "title": "Mythology (75th Anniversary Illustrated Edition): Timeless Tales of Gods and Heroes (eBook) by Edith Hamilton",
-      "title_es": null,
+      "title_es": "Mythology (75th Anniversary Illustrated Edition): Cuentos Atemporales de Dioses y Héroes (eBook) por Edith Hamilton",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Explora las fascinantes historias de dioses y héroes de la mitología clásica en esta edición ilustrada. Imprescindible para amantes de la historia, la literatura y quienes deseen sumergirse en los orígenes de grandes relatos.",
+      "post_en": "Explore the fascinating stories of gods and heroes from classical mythology in this illustrated edition. A must-have for history and literature lovers, and anyone wishing to delve into the origins of great tales.",
       "price_new": 3.99,
       "price_old": 15.99,
       "currency": "USD",
@@ -1216,10 +1216,10 @@
     {
       "asin": "B0F4XNGV1S",
       "title": "G Gradual Men's Athletic Workout T-Shirts Moisture Wicking Running Shirts",
-      "title_es": null,
+      "title_es": "Camisetas Deportivas G Gradual para Hombre, Transpirables y de Secado Rápido",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estas camisetas G Gradual están diseñadas para entrenamientos atléticos, con tecnología que absorbe la humedad para mantenerte seco y cómodo. Perfectas para corredores y cualquier hombre activo que busque ropa deportiva funcional.",
+      "post_en": "These G Gradual t-shirts are designed for athletic workouts, featuring moisture-wicking technology to keep you dry and comfortable. Perfect for runners and any active man looking for functional sportswear.",
       "price_new": 9.99,
       "price_old": 19.99,
       "currency": "USD",
@@ -1238,10 +1238,10 @@
     {
       "asin": "B0DRBFCP3K",
       "title": "Against the Machine: On the Unmaking of Humanity (eBook) by Paul Kingsnorth",
-      "title_es": null,
+      "title_es": "Against the Machine: On the Unmaking of Humanity (eBook) por Paul Kingsnorth",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Paul Kingsnorth ofrece una profunda reflexión sobre la relación de la humanidad con la tecnología y sus implicaciones futuras. Un libro esencial para lectores interesados en la filosofía, la crítica social y el impacto de la era digital.",
+      "post_en": "Paul Kingsnorth offers a profound reflection on humanity's relationship with technology and its future implications. An essential read for those interested in philosophy, social critique, and the impact of the digital age.",
       "price_new": 1.99,
       "price_old": 13.99,
       "currency": "USD",
@@ -1260,10 +1260,10 @@
     {
       "asin": "B0048EKOP0",
       "title": "Stories of Your Life and Others (eBook) by Ted Chiang",
-      "title_es": null,
+      "title_es": "Stories of Your Life and Others (eBook) por Ted Chiang",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en una colección de relatos cortos de ciencia ficción que exploran ideas complejas sobre el lenguaje, el tiempo y la existencia humana. Ideal para amantes de la ciencia ficción inteligente y reflexiva.",
+      "post_en": "Dive into a collection of short science fiction stories that explore complex ideas about language, time, and human existence. Ideal for lovers of intelligent and thought-provoking science fiction.",
       "price_new": 1.99,
       "price_old": 12.99,
       "currency": "USD",
@@ -1282,10 +1282,10 @@
     {
       "asin": "B0C7716FW1",
       "title": "Slow Productivity: The Lost Art of Accomplishment Without Burnout (eBook) by Cal Newport",
-      "title_es": null,
+      "title_es": "Slow Productivity: The Lost Art of Accomplishment Without Burnout (eBook) por Cal Newport",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Cal Newport presenta una nueva perspectiva sobre la productividad, enfocándose en lograr resultados significativos sin caer en el agotamiento. Imprescindible para profesionales, estudiantes y cualquiera que busque una forma más sostenible de trabajar.",
+      "post_en": "Cal Newport introduces a new perspective on productivity, focusing on achieving significant results without burning out. A must-read for professionals, students, and anyone seeking a more sustainable way to work.",
       "price_new": 1.99,
       "price_old": 9.99,
       "currency": "USD",
@@ -1304,10 +1304,10 @@
     {
       "asin": "B0023ZLLH6",
       "title": "Amusing Ourselves to Death: Public Discourse in the Age of Show Business (eBook) by Neil Postman",
-      "title_es": null,
+      "title_es": "Amusing Ourselves to Death: Public Discourse in the Age of Show Business (eBook) por Neil Postman",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Neil Postman analiza cómo los medios de comunicación han transformado el discurso público en una forma de entretenimiento. Una lectura clave para quienes reflexionan sobre la cultura, los medios y su influencia en la sociedad.",
+      "post_en": "Neil Postman analyzes how media has transformed public discourse into a form of entertainment. A key read for those reflecting on culture, media, and their influence on society.",
       "price_new": 1.99,
       "price_old": 9.99,
       "currency": "USD",
@@ -1326,10 +1326,10 @@
     {
       "asin": "B0C68WNH8W",
       "title": "addlon 100' Outdoor Solar String Lights w/ Remote",
-      "title_es": null,
+      "title_es": "Guirnalda de Luces Solares addlon de 30 metros para Exterior con Mando a Distancia",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Ilumina tu espacio exterior con esta guirnalda de luces solares addlon de 30 metros, fácil de instalar y con control remoto. Perfecta para patios, jardines o terrazas, creando un ambiente acogedor y festivo.",
+      "post_en": "Light up your outdoor space with these 100-foot addlon solar string lights, easy to install and with remote control. Perfect for patios, gardens, or terraces, creating a cozy and festive atmosphere.",
       "price_new": 17.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1348,10 +1348,10 @@
     {
       "asin": "B0FT995SPF",
       "title": "512GB Samsung P9 microSD Express Memory Card",
-      "title_es": null,
+      "title_es": "Tarjeta de Memoria microSD Express Samsung P9 de 512GB",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Amplía el almacenamiento de tus dispositivos con esta tarjeta de memoria Samsung P9 microSD Express de 512GB de alta velocidad. Ideal para cámaras, smartphones o consolas que requieren un rendimiento rápido y gran capacidad.",
+      "post_en": "Expand your device's storage with this high-speed 512GB Samsung P9 microSD Express memory card. Ideal for cameras, smartphones, or consoles that require fast performance and large capacity.",
       "price_new": 100.0,
       "price_old": 149.99,
       "currency": "USD",
@@ -1370,10 +1370,10 @@
     {
       "asin": "B0FMS8D34Q",
       "title": "79-Pc LEGO Minecraft Steve's Taiga Adventure (21583)",
-      "title_es": null,
+      "title_es": "Set LEGO Minecraft Steve's Taiga Adventure (21583) de 79 piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set LEGO Minecraft permite recrear emocionantes aventuras en la Taiga con Steve y sus amigos. Es ideal para fans de Minecraft y LEGO que disfrutan de la construcción creativa y el juego imaginativo. ⛏️",
+      "post_en": "This LEGO Minecraft set allows you to recreate exciting adventures in the Taiga with Steve and his friends. It's ideal for Minecraft and LEGO fans who enjoy creative building and imaginative play. ⛏️",
       "price_new": 8.0,
       "price_old": 35.0,
       "currency": "USD",
@@ -1392,10 +1392,10 @@
     {
       "asin": "B0C1FNV4DQ",
       "title": "Be Useful: Seven Tools for Life (eBook) by Arnold Schwarzenegger",
-      "title_es": null,
+      "title_es": "eBook Be Useful: Seven Tools for Life de Arnold Schwarzenegger",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Descubre el eBook \"Be Useful\" de Arnold Schwarzenegger, una guía práctica con siete herramientas para la vida. Ofrece inspiración y consejos para el desarrollo personal y profesional.",
+      "post_en": "Discover the eBook \"Be Useful\" by Arnold Schwarzenegger, a practical guide with seven tools for life. It offers inspiration and advice for personal and professional development.",
       "price_new": 1.99,
       "price_old": 7.99,
       "currency": "USD",
@@ -1414,10 +1414,10 @@
     {
       "asin": "B0CR1FPFXY",
       "title": "Pudolla Women's Cargo Capri Pants w/ 5 Pockets (various)",
-      "title_es": null,
+      "title_es": "Pantalones Capri Cargo Pudolla para mujer con 5 bolsillos (varios)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estos pantalones Capri cargo de Pudolla para mujer combinan comodidad y funcionalidad con sus 5 bolsillos. Son perfectos para actividades al aire libre o para un look casual y práctico.",
+      "post_en": "These Pudolla women's cargo Capri pants combine comfort and functionality with their 5 pockets. They are perfect for outdoor activities or a casual and practical look.",
       "price_new": 13.0,
       "price_old": 35.0,
       "currency": "USD",
@@ -1436,10 +1436,10 @@
     {
       "asin": "1426222335",
       "title": "National Geographic: Complete National Parks (Hardcover Book)",
-      "title_es": null,
+      "title_es": "Libro de tapa dura National Geographic: Complete National Parks",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Explora la belleza de los parques nacionales con este libro de tapa dura de National Geographic. Una colección impresionante para amantes de la naturaleza y viajeros. 🏞️",
+      "post_en": "Explore the beauty of national parks with this National Geographic hardcover book. An impressive collection for nature lovers and travelers. 🏞️",
       "price_new": 15.0,
       "price_old": 40.0,
       "currency": "USD",
@@ -1458,10 +1458,10 @@
     {
       "asin": "B0B7BFXYG7",
       "title": "12.6' Aokudoni 350-LED Star Waterfall Christmas Lights w/ 8 Lighting Modes (Multicolor)",
-      "title_es": null,
+      "title_es": "Luces de Navidad Aokudoni de 3.8m con 350 LED de cascada de estrella y 8 modos (multicolor)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Ilumina tu hogar con estas luces de Navidad Aokudoni de cascada de estrella, con 350 LED y 8 modos de iluminación. Son ideales para crear un ambiente festivo y mágico en cualquier espacio. ✨",
+      "post_en": "Brighten your home with these Aokudoni star waterfall Christmas lights, featuring 350 LEDs and 8 lighting modes. They are ideal for creating a festive and magical atmosphere in any space. ✨",
       "price_new": 14.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1480,10 +1480,10 @@
     {
       "asin": "B00YOAZYWQ",
       "title": "Reasons to Stay Alive (eBook) by Matt Haig",
-      "title_es": null,
+      "title_es": "eBook Reasons to Stay Alive de Matt Haig",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El eBook \"Reasons to Stay Alive\" de Matt Haig es una obra conmovedora y esperanzadora sobre la salud mental. Ofrece una perspectiva personal y reflexiva para quienes buscan consuelo y comprensión.",
+      "post_en": "The eBook \"Reasons to Stay Alive\" by Matt Haig is a moving and hopeful work about mental health. It offers a personal and reflective perspective for those seeking comfort and understanding.",
       "price_new": 1.99,
       "price_old": 7.99,
       "currency": "USD",
@@ -1502,10 +1502,10 @@
     {
       "asin": "B089XBB96Y",
       "title": "5' Flame King Steel-Braided Propane Adapter Hose w/ QCC1/Type1 to CGA600 at Amazon",
-      "title_es": null,
+      "title_es": "Manguera adaptadora de propano Flame King de 1.5m (trenzado de acero) QCC1/Type1 a CGA600",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta manguera adaptadora de propano Flame King de 1.5m, con trenzado de acero, permite conectar tanques QCC1/Type1 a aparatos CGA600. Es un accesorio duradero y seguro para tus equipos de propano.",
+      "post_en": "This 5' Flame King steel-braided propane adapter hose connects QCC1/Type1 tanks to CGA600 appliances. It's a durable and safe accessory for your propane equipment.",
       "price_new": 11.89,
       "price_old": 28.95,
       "currency": "USD",
@@ -1524,10 +1524,10 @@
     {
       "asin": "B0BRXJVG1S",
       "title": "Ultimate Ears WONDERBOOM 4 Portable Bluetooth Speaker (Blue)",
-      "title_es": null,
+      "title_es": "Altavoz Bluetooth portátil Ultimate Ears WONDERBOOM 4 (azul)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de un sonido potente y portátil con el altavoz Bluetooth Ultimate Ears WONDERBOOM 4. Su diseño compacto y resistente al agua lo hace perfecto para llevar tu música a todas partes. 🎶",
+      "post_en": "Enjoy powerful, portable sound with the Ultimate Ears WONDERBOOM 4 Bluetooth speaker. Its compact and waterproof design makes it perfect for taking your music everywhere. 🎶",
       "price_new": 51.44,
       "price_old": 99.99,
       "currency": "USD",
@@ -1546,10 +1546,10 @@
     {
       "asin": "B003N0NGHS",
       "title": "24-Pk 2oz. Sour Patch Kids Soft & Chewy Gummy Candy Bags (Watermelon)",
-      "title_es": null,
+      "title_es": "Pack de 24 bolsas de 56g de caramelos de goma Sour Patch Kids (sandía)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta del sabor agridulce con este pack de 24 bolsas individuales de caramelos de goma Sour Patch Kids sabor sandía. Son ideales para compartir o para un capricho dulce y divertido.",
+      "post_en": "Enjoy the sweet and sour taste with this 24-pack of individual Sour Patch Kids watermelon-flavored gummy candy bags. They are ideal for sharing or for a fun, sweet treat.",
       "price_new": 13.0,
       "price_old": 20.59,
       "currency": "USD",
@@ -1568,10 +1568,10 @@
     {
       "asin": "B0H2Z5QF8V",
       "title": "6-Pack All Of Me Women's Lace High Waisted Brief Panty (Color A-6 Pack) from",
-      "title_es": null,
+      "title_es": "Pack de 6 bragas de encaje de talle alto All Of Me para mujer (Color A-6 Pack)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 6 bragas de encaje de talle alto All Of Me ofrece comodidad y un toque elegante. Son una opción versátil y atractiva para el día a día.",
+      "post_en": "This 6-pack of All Of Me women's lace high-waisted brief panties offers comfort and a touch of elegance. They are a versatile and attractive option for everyday wear.",
       "price_new": 6.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -1849,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20047533",
       "published_at": "2026-09-22T10:16:51+00:00",
-      "revalidated_at": "2026-09-22T22:16:18+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B08KQ2FKBX",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20047269",
       "published_at": "2026-09-22T10:16:51+00:00",
-      "revalidated_at": "2026-09-22T22:16:18+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B076NVFT5P",
@@ -1937,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20047293",
       "published_at": "2026-09-22T08:16:41+00:00",
-      "revalidated_at": "2026-09-22T22:16:18+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B0GJ5M7MBP",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044935",
       "published_at": "2026-09-22T04:17:13+00:00",
-      "revalidated_at": "2026-09-22T22:16:18+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B09ZK13551",
@@ -2421,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044161",
       "published_at": "2026-09-22T00:32:28+00:00",
-      "revalidated_at": "2026-09-22T22:16:18+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B0FMS854MN",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20042655",
       "published_at": "2026-09-22T00:32:28+00:00",
-      "revalidated_at": "2026-09-22T22:16:18+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B0FB9FH7GS",
@@ -2553,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044932",
       "published_at": "2026-09-22T00:17:04+00:00",
-      "revalidated_at": "2026-09-22T22:16:18+00:00"
+      "revalidated_at": "2026-09-23T00:31:01+00:00"
     },
     {
       "asin": "B0HC2K3FRJ",
