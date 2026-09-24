@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-24T08:30:46+00:00",
+  "generated_at": "2026-09-24T08:45:49+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B00000JCFW",
+      "title": "Billy Idol - Rebel Yell [Expanded Edition] CD",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.25,
+      "price_old": 13.97,
+      "currency": "USD",
+      "discount_pct": 48.1,
+      "rating": 4.8,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61NMsHM3cwL._SL1200_.jpg",
+      "url": "https://amazon.com/dp/B00000JCFW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20048280",
+      "published_at": "2026-09-24T08:45:49+00:00",
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
+    },
     {
       "asin": "B0HHF1HH16",
       "title": "TCL TAB A1 Plus Android Tablet, 12.2\" 2.4K 120Hz Display, 6+128GB",
@@ -14,11 +36,11 @@
       "price_old": 279.99,
       "currency": "USD",
       "discount_pct": 32.1,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21690648.thumb",
+      "image": "https://m.media-amazon.com/images/I/61BvCXJGwqL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0HHF1HH16/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20053749",
@@ -36,11 +58,11 @@
       "price_old": 169.97,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21644496.thumb",
+      "image": "https://m.media-amazon.com/images/I/81UIxPAwIcL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H3TZ38SM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20034537",
@@ -551,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20055024",
       "published_at": "2026-09-24T01:01:58+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
     },
     {
       "asin": "B0H5R1KY21",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20054706",
       "published_at": "2026-09-24T01:01:58+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
     },
     {
       "asin": "B0DYKWDMXZ",
@@ -595,29 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20046606",
       "published_at": "2026-09-24T01:01:58+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
-    },
-    {
-      "asin": "B0FFGKM1T7",
-      "title": "HOTUTUKI 2-pack USB-C Cable 3.3FT 10gbps 100W",
-      "title_es": "Pack de 2 cables USB-C HOTUTUKI de 3.3FT 10gbps 100W",
-      "headline": null,
-      "post": "Consigue este pack de dos cables USB-C de HOTUTUKI, perfectos para una carga rápida de hasta 100W y transferencia de datos a 10Gbps. Son ideales para tus dispositivos modernos, desde smartphones hasta portátiles, asegurando eficiencia y velocidad.",
-      "post_en": "Get this two-pack of HOTUTUKI USB-C cables, perfect for fast charging up to 100W and data transfer at 10Gbps. They are ideal for your modern devices, from smartphones to laptops, ensuring efficiency and speed.",
-      "price_new": 4.99,
-      "price_old": 9.99,
-      "currency": "USD",
-      "discount_pct": 50.1,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71CDuNWfjQL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FFGKM1T7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20054883",
-      "published_at": "2026-09-24T01:01:58+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
     },
     {
       "asin": "B07D7RKJYS",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053581",
       "published_at": "2026-09-24T01:01:58+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
     },
     {
       "asin": "B0G56D75XD",
@@ -661,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20055000",
       "published_at": "2026-09-24T01:01:58+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
     },
     {
       "asin": "B0GR8QCLKS",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044059",
       "published_at": "2026-09-23T23:16:08+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
     },
     {
       "asin": "B0H98L3T2Q",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053155",
       "published_at": "2026-09-23T23:16:08+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
     },
     {
       "asin": "B098JLG5L5",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20044650",
       "published_at": "2026-09-23T21:31:19+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
     },
     {
       "asin": "B0D16L5F2M",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20050083",
       "published_at": "2026-09-23T21:31:19+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
     },
     {
       "asin": "1426222335",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053401",
       "published_at": "2026-09-23T21:31:19+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
     },
     {
       "asin": "B0HH935CXX",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053848",
       "published_at": "2026-09-23T21:31:19+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
     },
     {
       "asin": "B0D86YMNS9",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20046624",
       "published_at": "2026-09-23T11:16:26+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
     },
     {
       "asin": "B0GDJXCYCL",
@@ -2465,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20051379",
       "published_at": "2026-09-23T09:31:26+00:00",
-      "revalidated_at": "2026-09-24T06:45:40+00:00"
+      "revalidated_at": "2026-09-24T08:45:49+00:00"
     },
     {
       "asin": "B0DFH1V13J",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20024289",
       "published_at": "2026-09-23T07:01:15+00:00",
       "revalidated_at": "2026-09-24T08:30:46+00:00"
-    },
-    {
-      "asin": "B07YBX1GFG",
-      "title": "The Sociology Book: Big Ideas Simply Explained (DK Big Ideas) (eBook) by Sarah Tomley, Mitchell Hobbs, Megan Todd, Marcus Weeks, DK",
-      "title_es": "eBook: The Sociology Book (DK Big Ideas)",
-      "headline": null,
-      "post": "Descubre los conceptos clave de la sociología de forma clara y accesible con este eBook de la serie DK Big Ideas. Es una excelente introducción para estudiantes o cualquier persona curiosa sobre la sociedad.",
-      "post_en": "Discover the key concepts of sociology clearly and accessibly with this eBook from the DK Big Ideas series. It's an excellent introduction for students or anyone curious about society.",
-      "price_new": 1.99,
-      "price_old": 8.99,
-      "currency": "USD",
-      "discount_pct": 77.9,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/817OSCojVTL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07YBX1GFG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20047296",
-      "published_at": "2026-09-23T07:01:15+00:00",
-      "revalidated_at": "2026-09-24T06:30:55+00:00"
     }
   ]
 }
