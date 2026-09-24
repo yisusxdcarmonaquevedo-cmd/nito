@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-09-24T03:00:48+00:00",
+  "generated_at": "2026-09-24T03:15:51+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B0CN9RZ968",
+      "title": "The North Face Borealis Tote Backpack (Gardenia White/ TNF Black)",
+      "title_es": "Mochila Tote The North Face Borealis (Gardenia White/ TNF Black)",
+      "headline": null,
+      "post": "La mochila tote The North Face Borealis combina estilo y funcionalidad, ideal para el día a día o escapadas cortas. Cuenta con múltiples compartimentos y un diseño robusto para llevar tus esenciales con comodidad.",
+      "post_en": "The North Face Borealis Tote Backpack blends style and functionality, perfect for daily use or short getaways. It features multiple compartments and a robust design to carry your essentials comfortably.",
+      "price_new": 40.48,
+      "price_old": 79.0,
+      "currency": "USD",
+      "discount_pct": 48.8,
+      "rating": 4.5,
+      "condition": "coupon",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/813FOpBBYvL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CN9RZ968/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20055066",
+      "published_at": "2026-09-24T03:15:51+00:00",
+      "revalidated_at": "2026-09-24T03:15:51+00:00"
+    },
+    {
+      "asin": "B09SGR5XD5",
+      "title": "Igloo 12-Can Insulated Soft-Sided Cooler Lunch Bag (Grey)",
+      "title_es": "Nevera Portátil Aislada Igloo de 12 Latas (Gris)",
+      "headline": null,
+      "post": "Esta nevera portátil Igloo de lados blandos es perfecta para mantener tus bebidas y alimentos frescos durante horas. Su diseño compacto y aislado la hace ideal para almuerzos, picnics o excursiones.",
+      "post_en": "This Igloo soft-sided cooler bag is perfect for keeping your drinks and food fresh for hours. Its compact and insulated design makes it ideal for lunches, picnics, or excursions.",
+      "price_new": 15.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 54.3,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21695601.thumb",
+      "url": "https://amazon.com/dp/B09SGR5XD5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20055495",
+      "published_at": "2026-09-24T03:15:51+00:00",
+      "revalidated_at": "2026-09-24T03:15:51+00:00"
+    },
+    {
+      "asin": "B0CW3LVC9H",
+      "title": "Disney Epic Mickey: Rebrushed (Nintendo Switch) at Amazon",
+      "title_es": "Disney Epic Mickey: Rebrushed (Nintendo Switch)",
+      "headline": null,
+      "post": "Sumérgete en el mágico mundo de Disney con Epic Mickey: Rebrushed para Nintendo Switch, una aventura de plataformas remasterizada. Guía a Mickey a través de páramos olvidados usando pintura y disolvente para alterar el entorno.",
+      "post_en": "Dive into the magical world of Disney with Epic Mickey: Rebrushed for Nintendo Switch, a remastered platforming adventure. Guide Mickey through forgotten wastelands using paint and thinner to alter the environment.",
+      "price_new": 23.03,
+      "price_old": 39.99,
+      "currency": "USD",
+      "discount_pct": 42.4,
+      "rating": 4.8,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/71LMe+Mo1yL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CW3LVC9H/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20055204",
+      "published_at": "2026-09-24T03:15:51+00:00",
+      "revalidated_at": "2026-09-24T03:15:51+00:00"
+    },
+    {
+      "asin": "B0BCFMTQV5",
+      "title": "Hoto 3100mAh 3-in-1 Rechargeable Camping Lantern & Flashlight",
+      "title_es": "Linterna y Farol Recargable Hoto 3 en 1 (3100mAh)",
+      "headline": null,
+      "post": "Esta linterna y farol recargable Hoto 3 en 1 es ideal para camping, emergencias o cualquier actividad al aire libre. Ofrece una potente iluminación y una batería de larga duración para mayor versatilidad.",
+      "post_en": "This Hoto 3-in-1 rechargeable lantern and flashlight is ideal for camping, emergencies, or any outdoor activity. It offers powerful illumination and a long-lasting battery for enhanced versatility.",
+      "price_new": 19.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 42.9,
+      "rating": 4.5,
+      "condition": "code",
+      "code": "E6L7BVAO",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61qevnrrxWL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0BCFMTQV5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20055039",
+      "published_at": "2026-09-24T03:15:51+00:00",
+      "revalidated_at": "2026-09-24T03:15:51+00:00"
+    },
     {
       "asin": "0008620113",
       "title": "Minecraft Advent Calendar Book Collection",
@@ -111,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20054163",
       "published_at": "2026-09-24T01:16:01+00:00",
-      "revalidated_at": "2026-09-24T01:16:01+00:00"
+      "revalidated_at": "2026-09-24T03:15:51+00:00"
     },
     {
       "asin": "B0F6TM5LJR",
@@ -133,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20055276",
       "published_at": "2026-09-24T01:16:01+00:00",
-      "revalidated_at": "2026-09-24T01:16:01+00:00"
+      "revalidated_at": "2026-09-24T03:15:51+00:00"
     },
     {
       "asin": "B0HBWGLN1F",
@@ -155,51 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20055222",
       "published_at": "2026-09-24T01:16:01+00:00",
-      "revalidated_at": "2026-09-24T01:16:01+00:00"
-    },
-    {
-      "asin": "B0DGJ7HYG1",
-      "title": "Apple AirPods 4 Wireless Earbuds w/ Active Noise Cancellation & USB-C Case at Amazon",
-      "title_es": "Apple AirPods 4 Auriculares inalámbricos con cancelación de ruido activa y estuche USB-C",
-      "headline": null,
-      "post": "Los Apple AirPods 4 son auriculares inalámbricos con cancelación activa de ruido, perfectos para sumergirte en tu música o llamadas sin distracciones. Vienen con un estuche de carga USB-C para mayor comodidad.",
-      "post_en": "Apple AirPods 4 are wireless earbuds with active noise cancellation, perfect for immersing yourself in music or calls without distractions. They come with a USB-C charging case for added convenience.",
-      "price_new": 119.97,
-      "price_old": 179.0,
-      "currency": "USD",
-      "discount_pct": 33.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21687636.thumb",
-      "url": "https://amazon.com/dp/B0DGJ7HYG1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20052945",
-      "published_at": "2026-09-24T01:16:01+00:00",
-      "revalidated_at": "2026-09-24T01:16:01+00:00"
-    },
-    {
-      "asin": "B0BJQPYLB1",
-      "title": "Hamilton Beach 4 Quart Electric Stand Mixer, 7 Speeds",
-      "title_es": "Batidora de pie eléctrica Hamilton Beach de 4 cuartos y 7 velocidades",
-      "headline": null,
-      "post": "La batidora de pie eléctrica Hamilton Beach de 4 cuartos y 7 velocidades es ideal para preparar masas, mezclas y postres con facilidad en tu cocina. Su diseño robusto facilita todo tipo de tareas de repostería.",
-      "post_en": "The Hamilton Beach 4 Quart Electric Stand Mixer with 7 speeds is ideal for easily preparing doughs, batters, and desserts in your kitchen. Its robust design facilitates all types of baking tasks.",
-      "price_new": 69.99,
-      "price_old": 126.95,
-      "currency": "USD",
-      "discount_pct": 44.9,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/8/6/7/1/9/450x450/21635061.thumb",
-      "url": "https://amazon.com/dp/B0BJQPYLB1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20030619",
-      "published_at": "2026-09-24T01:16:01+00:00",
-      "revalidated_at": "2026-09-24T01:16:01+00:00"
+      "revalidated_at": "2026-09-24T03:15:51+00:00"
     },
     {
       "asin": "B0GGYTTZNG",
@@ -749,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20047836",
       "published_at": "2026-09-23T21:31:19+00:00",
-      "revalidated_at": "2026-09-24T01:01:58+00:00"
+      "revalidated_at": "2026-09-24T03:15:51+00:00"
     },
     {
       "asin": "B0DDHGHK8V",
@@ -771,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20051175",
       "published_at": "2026-09-23T21:31:19+00:00",
-      "revalidated_at": "2026-09-24T01:16:01+00:00"
+      "revalidated_at": "2026-09-24T03:15:51+00:00"
     },
     {
       "asin": "B0GLF19V5N",
@@ -793,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20050086",
       "published_at": "2026-09-23T21:31:19+00:00",
-      "revalidated_at": "2026-09-24T01:16:01+00:00"
+      "revalidated_at": "2026-09-24T03:15:51+00:00"
     },
     {
       "asin": "1805072013",
@@ -969,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053038",
       "published_at": "2026-09-23T19:46:04+00:00",
-      "revalidated_at": "2026-09-24T01:16:01+00:00"
+      "revalidated_at": "2026-09-24T03:15:51+00:00"
     },
     {
       "asin": "B0FF28YM1P",
@@ -991,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053677",
       "published_at": "2026-09-23T19:46:04+00:00",
-      "revalidated_at": "2026-09-24T01:16:01+00:00"
+      "revalidated_at": "2026-09-24T03:15:51+00:00"
     },
     {
       "asin": "B0FFTCJR4W",
@@ -1013,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20040291",
       "published_at": "2026-09-23T19:31:04+00:00",
-      "revalidated_at": "2026-09-24T01:16:01+00:00"
+      "revalidated_at": "2026-09-24T03:15:51+00:00"
     },
     {
       "asin": "B0FFT5SN2P",
@@ -2554,72 +2598,6 @@
       "deal_key": "sd:20036949",
       "published_at": "2026-09-23T02:46:22+00:00",
       "revalidated_at": "2026-09-24T02:30:39+00:00"
-    },
-    {
-      "asin": "B0DDCNTDBW",
-      "title": "VISIOGEAR 1200 Yards Golf Rangefinder with Slope, Laser Range Finder, 7X Magnification, Flag Pole Locking Vibration",
-      "title_es": "Telémetro láser de golf VISIOGEAR con pendiente",
-      "headline": null,
-      "post": "Este telémetro láser VISIOGEAR para golfistas ofrece una medición precisa de hasta 1200 yardas, incluyendo compensación de pendiente y aumento de 7X. Su función de bloqueo de bandera con vibración ayuda a mejorar la precisión en el campo.",
-      "post_en": "This VISIOGEAR laser rangefinder for golfers offers precise measurements up to 1200 yards, including slope compensation and 7X magnification. Its flag pole locking with vibration feature helps improve accuracy on the course.",
-      "price_new": 28.99,
-      "price_old": 57.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.6,
-      "condition": "code",
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/81FIIH2g0ML._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DDCNTDBW/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20026092",
-      "published_at": "2026-09-23T02:46:22+00:00",
-      "revalidated_at": "2026-09-24T02:45:51+00:00"
-    },
-    {
-      "asin": "B0FJDS4V86",
-      "title": "Pixel Panda 3M Winter Waterproof Snow Gloves",
-      "title_es": "Guantes de Nieve Impermeables Pixel Panda 3M",
-      "headline": null,
-      "post": "Estos guantes de invierno impermeables de Pixel Panda están diseñados para mantener tus manos cálidas y secas en condiciones de frío extremo y nieve. Son perfectos para deportes de invierno o cualquier actividad al aire libre que requiera protección fiable.",
-      "post_en": "These Pixel Panda winter waterproof gloves are designed to keep your hands warm and dry in extreme cold and snowy conditions. They are perfect for winter sports or any outdoor activity requiring reliable protection.",
-      "price_new": 8.99,
-      "price_old": 18.99,
-      "currency": "USD",
-      "discount_pct": 52.7,
-      "rating": 4.5,
-      "condition": "code",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/814gqfwnPWL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FJDS4V86/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20028132",
-      "published_at": "2026-09-23T02:16:03+00:00",
-      "revalidated_at": "2026-09-24T02:00:51+00:00"
-    },
-    {
-      "asin": "B0BZNNW5F7",
-      "title": "77-Piece MULWARK Ratcheting Screwdriver Bit & Socket Set w/ Case",
-      "title_es": "Set de 77 piezas MULWARK de puntas de destornillador y vasos con carraca y estuche",
-      "headline": null,
-      "post": "Este set MULWARK de 77 piezas incluye puntas de destornillador y vasos con carraca, ideal para reparaciones y montajes en casa. Su práctico estuche facilita el almacenamiento y transporte, siendo perfecto para cualquier aficionado al bricolaje.",
-      "post_en": "This 77-piece MULWARK set includes ratcheting screwdriver bits and sockets, ideal for home repairs and assemblies. Its practical case makes storage and transport easy, perfect for any DIY enthusiast.",
-      "price_new": 14.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 57.2,
-      "rating": 4.7,
-      "condition": "code",
-      "code": "B9WEFTEC",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61g+CU6yoiL._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B0BZNNW5F7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20050644",
-      "published_at": "2026-09-23T02:06:02+00:00",
-      "revalidated_at": "2026-09-24T01:30:47+00:00"
     }
   ]
 }
