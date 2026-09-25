@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-25T23:01:22+00:00",
+  "generated_at": "2026-09-25T23:16:20+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0F1FMZD4Q",
+      "title": "JandCase Dimmable LED Plug-In Night Lights w/ Dusk-to-Dawn Sensor (Linear, Rocket, or Rotatable) from",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.5,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 90.0,
+      "rating": null,
+      "condition": "code",
+      "code": "LISTED",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/21716625.thumb",
+      "url": "https://amazon.com/dp/B0F1FMZD4Q/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20062557",
+      "published_at": "2026-09-25T23:16:20+00:00",
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
+    },
+    {
+      "asin": "B08BG2SLN5",
+      "title": "CINCOM Cordless USB-C Compression Calf Massager (Pair)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 39.0,
+      "price_old": 129.99,
+      "currency": "USD",
+      "discount_pct": 70.0,
+      "rating": 4.4,
+      "condition": "code",
+      "code": "86Z99MSW",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71u9a+JvQsL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B08BG2SLN5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20028453",
+      "published_at": "2026-09-25T23:16:20+00:00",
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
+    },
     {
       "asin": "B0CTDTMVH5",
       "title": "The Obstacle Is the Way Expanded 10th Anniversary Edition: The Timeless Art of Turning Trials into Triumph (eBook) by Ryan Holiday",
@@ -46,28 +90,6 @@
       "deal_key": "sd:20061555",
       "published_at": "2026-09-25T23:01:22+00:00",
       "revalidated_at": "2026-09-25T23:01:22+00:00"
-    },
-    {
-      "asin": "B0BZTLJSRX",
-      "title": "18.5-Oz Progresso Italian-Style Bean & Pasta Protein Soup",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 1.28,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 96.3,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/3/7/4/7/9/3/450x450/21716250.thumb",
-      "url": "https://amazon.com/dp/B0BZTLJSRX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20062431",
-      "published_at": "2026-09-25T21:31:25+00:00",
-      "revalidated_at": "2026-09-25T21:31:25+00:00"
     },
     {
       "asin": "B07C2LZC23",
@@ -199,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20054136",
       "published_at": "2026-09-25T19:29:22+00:00",
-      "revalidated_at": "2026-09-25T21:31:25+00:00"
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
     },
     {
       "asin": "B07359W3PC",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20054277",
       "published_at": "2026-09-25T15:30:13+00:00",
-      "revalidated_at": "2026-09-25T21:31:25+00:00"
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
     },
     {
       "asin": "B0BW4C39N8",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20057313",
       "published_at": "2026-09-25T15:30:13+00:00",
-      "revalidated_at": "2026-09-25T21:31:25+00:00"
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
     },
     {
       "asin": "B0CN9RZZ5C",
@@ -749,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20049870",
       "published_at": "2026-09-25T13:31:02+00:00",
-      "revalidated_at": "2026-09-25T21:31:25+00:00"
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
     },
     {
       "asin": "B0F9FKGVQZ",
@@ -881,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20040300",
       "published_at": "2026-09-25T11:31:20+00:00",
-      "revalidated_at": "2026-09-25T21:31:25+00:00"
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
     },
     {
       "asin": "B0G12DVVTH",
@@ -1365,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20059092",
       "published_at": "2026-09-25T03:46:17+00:00",
-      "revalidated_at": "2026-09-25T21:31:25+00:00"
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
     },
     {
       "asin": "B07L3KFJC9",
@@ -1629,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20059137",
       "published_at": "2026-09-24T23:46:21+00:00",
-      "revalidated_at": "2026-09-25T21:31:25+00:00"
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
     },
     {
       "asin": "B09B7R3SY7",
@@ -1805,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20058963",
       "published_at": "2026-09-24T22:01:46+00:00",
-      "revalidated_at": "2026-09-25T21:31:25+00:00"
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
     },
     {
       "asin": "B0FRG42CHM",
@@ -1827,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20058900",
       "published_at": "2026-09-24T21:46:37+00:00",
-      "revalidated_at": "2026-09-25T21:31:25+00:00"
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
     },
     {
       "asin": "1984858475",
@@ -1849,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20056335",
       "published_at": "2026-09-24T21:46:37+00:00",
-      "revalidated_at": "2026-09-25T21:31:25+00:00"
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
     },
     {
       "asin": "B0DTH4195V",
@@ -2443,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20056545",
       "published_at": "2026-09-24T17:00:50+00:00",
-      "revalidated_at": "2026-09-25T21:16:30+00:00"
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
     },
     {
       "asin": "B0F151GFYR",
@@ -2509,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20033520",
       "published_at": "2026-09-24T16:45:50+00:00",
-      "revalidated_at": "2026-09-25T21:16:30+00:00"
+      "revalidated_at": "2026-09-25T23:16:20+00:00"
     },
     {
       "asin": "B0DX6NVSHS",
@@ -2598,50 +2620,6 @@
       "deal_key": "sd:20056767",
       "published_at": "2026-09-24T15:45:49+00:00",
       "revalidated_at": "2026-09-25T22:31:16+00:00"
-    },
-    {
-      "asin": "B0D44ZG9B7",
-      "title": "WORKPRO 10-Piece 2.3\" Magnetic Square Drive Impact Screwdriver Bit Set w/ 1/4\" Hex Shank",
-      "title_es": "Set de 10 Puntas Magnéticas de Destornillador de Impacto de Cuadradillo de 2.3\" WORKPRO con Vástago Hexagonal de 1/4\"",
-      "headline": null,
-      "post": "Este set WORKPRO de 10 puntas magnéticas de destornillador de impacto de 2.3\" cuenta con vástago hexagonal de 1/4\". Son herramientas duraderas y eficientes para trabajos de atornillado exigentes, ideales para profesionales y entusiastas del bricolaje. 🛠️",
-      "post_en": "This WORKPRO 10-piece set of 2.3\" magnetic square drive impact screwdriver bits features a 1/4\" hex shank. These are durable and efficient tools for demanding screwing tasks, ideal for professionals and DIY enthusiasts. 🛠️",
-      "price_new": 7.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 77.2,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/4/9/0/0/1/2/450x450/21695580.thumb",
-      "url": "https://amazon.com/dp/B0D44ZG9B7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20055489",
-      "published_at": "2026-09-24T15:30:48+00:00",
-      "revalidated_at": "2026-09-25T22:01:13+00:00"
-    },
-    {
-      "asin": "B07DKHC9DM",
-      "title": "Michael Kors, Women's, Jet Set Large Crossbody Bag, Gold-Tone Hardware/Saffiano Leather/Black",
-      "title_es": "Bolso Bandolera Grande Michael Kors Jet Set para Mujer, Herrajes Dorados/Piel Saffiano/Negro",
-      "headline": null,
-      "post": "El bolso bandolera grande Michael Kors Jet Set para mujer destaca por su elegante diseño en piel Saffiano negra y herrajes dorados. Es un accesorio versátil y sofisticado, perfecto para llevar tus esenciales con estilo en cualquier ocasión. 👜",
-      "post_en": "The Michael Kors Jet Set Large Crossbody Bag for women features an elegant design in black Saffiano leather with gold-tone hardware. It's a versatile and sophisticated accessory, perfect for carrying your essentials in style on any occasion. 👜",
-      "price_new": 89.0,
-      "price_old": 168.0,
-      "currency": "USD",
-      "discount_pct": 47.0,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71g57JeuNsL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07DKHC9DM/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20038650",
-      "published_at": "2026-09-24T15:30:48+00:00",
-      "revalidated_at": "2026-09-25T22:16:18+00:00"
     }
   ]
 }
