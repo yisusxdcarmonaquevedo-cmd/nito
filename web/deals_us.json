@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-26T16:30:43+00:00",
+  "generated_at": "2026-09-26T16:45:33+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B01BKBWCDU",
+      "title": "8-Pk 20-Oz POWERADE ZERO Sports Drink (Grape)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.3,
+      "price_old": 6.99,
+      "currency": "USD",
+      "discount_pct": 52.8,
+      "rating": 4.8,
+      "condition": "sns",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81Z1gdfZTXL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B01BKBWCDU/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20063373",
+      "published_at": "2026-09-26T16:45:33+00:00",
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
+    },
+    {
+      "asin": "B0DJQW1DJ6",
+      "title": "[Prime] FORIOUS 4\" Centerset 2-Handle Waterfall Bathroom Faucet w/ Pop-Up Drain (Matte Black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 30.71,
+      "price_old": 51.99,
+      "currency": "USD",
+      "discount_pct": 40.9,
+      "rating": null,
+      "condition": "code",
+      "code": "4Z0Z7OZF",
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21702237.thumb",
+      "url": "https://amazon.com/dp/B0DJQW1DJ6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20057748",
+      "published_at": "2026-09-26T16:45:33+00:00",
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
+    },
     {
       "asin": "B0HCPCKLPH",
       "title": "Dastiaque Outdoor Storage Shed,8x12FT Resin Storage Shed for Backyard Patio",
@@ -36,11 +80,11 @@
       "price_old": 9.99,
       "currency": "USD",
       "discount_pct": 40.0,
-      "rating": null,
+      "rating": 4.2,
       "condition": "code",
       "code": "466P6A4S",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21712563.thumb",
+      "image": "https://m.media-amazon.com/images/I/51AvPXdpxxL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G4VZ9V44/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20061318",
@@ -287,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20063340",
       "published_at": "2026-09-26T14:45:55+00:00",
-      "revalidated_at": "2026-09-26T14:45:55+00:00"
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
     },
     {
       "asin": "B0CN9S635R",
@@ -309,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20045841",
       "published_at": "2026-09-26T14:45:55+00:00",
-      "revalidated_at": "2026-09-26T14:45:55+00:00"
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
     },
     {
       "asin": "B004FEGLLO",
@@ -463,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20063745",
       "published_at": "2026-09-26T12:45:45+00:00",
-      "revalidated_at": "2026-09-26T14:45:55+00:00"
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
     },
     {
       "asin": "B0H98MJ127",
@@ -639,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20063484",
       "published_at": "2026-09-26T08:31:20+00:00",
-      "revalidated_at": "2026-09-26T14:30:46+00:00"
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
     },
     {
       "asin": "B0H5HWJ97V",
@@ -815,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053164",
       "published_at": "2026-09-26T02:46:24+00:00",
-      "revalidated_at": "2026-09-26T14:30:46+00:00"
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
     },
     {
       "asin": "B0D1CP8LWH",
@@ -969,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20051940",
       "published_at": "2026-09-26T00:56:20+00:00",
-      "revalidated_at": "2026-09-26T14:30:46+00:00"
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
     },
     {
       "asin": "B0GQVJKJ7K",
@@ -1145,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20060412",
       "published_at": "2026-09-25T23:01:22+00:00",
-      "revalidated_at": "2026-09-26T14:30:46+00:00"
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
     },
     {
       "asin": "B0HJ2J51TF",
@@ -1167,29 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20061555",
       "published_at": "2026-09-25T23:01:22+00:00",
-      "revalidated_at": "2026-09-26T14:30:46+00:00"
-    },
-    {
-      "asin": "B07C2LZC23",
-      "title": "SUNGAIT Men's or Women's Polarized Vintage Round Sunglasses from",
-      "title_es": "Gafas de Sol Redondas Polarizadas Vintage SUNGAIT para Hombre o Mujer",
-      "headline": null,
-      "post": "Las gafas de sol SUNGAIT ofrecen un estilo vintage y lentes polarizadas para proteger tus ojos del deslumbramiento. Son un accesorio versátil y cómodo, ideal para cualquier persona que busque combinar moda y funcionalidad en su día a día.",
-      "post_en": "SUNGAIT sunglasses offer a vintage style and polarized lenses to protect your eyes from glare. They are a versatile and comfortable accessory, ideal for anyone looking to combine fashion and functionality in their daily life.",
-      "price_new": 6.71,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 80.8,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "JQVUOW5A",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61vOniYtePL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07C2LZC23/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20045379",
-      "published_at": "2026-09-25T21:16:30+00:00",
-      "revalidated_at": "2026-09-26T14:30:46+00:00"
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
     },
     {
       "asin": "B0GS4QZWTY",
@@ -1519,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20057481",
       "published_at": "2026-09-25T17:15:52+00:00",
-      "revalidated_at": "2026-09-26T14:30:46+00:00"
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
     },
     {
       "asin": "B0FQ5JV3PW",
@@ -1871,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20057892",
       "published_at": "2026-09-25T13:15:59+00:00",
-      "revalidated_at": "2026-09-26T14:30:46+00:00"
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
     },
     {
       "asin": "B08LDK5BJH",
@@ -2047,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20057703",
       "published_at": "2026-09-25T09:16:07+00:00",
-      "revalidated_at": "2026-09-26T14:30:46+00:00"
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
     },
     {
       "asin": "B0H87ZMD3W",
@@ -2509,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20058102",
       "published_at": "2026-09-25T03:16:27+00:00",
-      "revalidated_at": "2026-09-26T14:30:46+00:00"
+      "revalidated_at": "2026-09-26T16:45:33+00:00"
     },
     {
       "asin": "B0D133W5M3",
@@ -2598,50 +2620,6 @@
       "deal_key": "sd:20058006",
       "published_at": "2026-09-25T00:16:46+00:00",
       "revalidated_at": "2026-09-26T16:15:33+00:00"
-    },
-    {
-      "asin": "B0FCWWMZ82",
-      "title": "[Prime] Sonix x Sanrio Decorative Cover Case for Apple Watch (My Melody)",
-      "title_es": "Funda decorativa Sonix x Sanrio para Apple Watch (My Melody)",
-      "headline": null,
-      "post": "Esta funda decorativa Sonix x Sanrio para Apple Watch presenta el diseño de My Melody, añadiendo un toque personal a tu dispositivo. Es perfecta para quienes desean proteger su Apple Watch con estilo y expresar su personalidad.",
-      "post_en": "This Sonix x Sanrio decorative cover case for Apple Watch features the My Melody design, adding a personal touch to your device. It's perfect for those who want to protect their Apple Watch with style and express their personality.",
-      "price_new": 7.08,
-      "price_old": 19.99,
-      "currency": "USD",
-      "discount_pct": 64.6,
-      "rating": 4.9,
-      "condition": "prime",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61b4XXu14qL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FCWWMZ82/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20053716",
-      "published_at": "2026-09-25T00:16:46+00:00",
-      "revalidated_at": "2026-09-26T16:30:43+00:00"
-    },
-    {
-      "asin": "B0FB34CQ59",
-      "title": "VEVOR Labor Saving Arm Jack, 2 PCS 220 lbs Bearing Capacity, Lifting up to 7.1\", Metal Hand Lifting Jack Tool with Magnetic Level, Adjustable Height",
-      "title_es": "Gato de brazo VEVOR (2 unidades) para levantar objetos, con nivel magnético",
-      "headline": null,
-      "post": "Este juego de dos gatos de brazo VEVOR facilita el levantamiento de objetos pesados, con una capacidad de carga de 220 lbs y elevación de hasta 7.1 pulgadas. Es una herramienta manual de metal con nivel magnético y altura ajustable, ideal para trabajos de instalación y bricolaje en el hogar.",
-      "post_en": "This set of two VEVOR Labor Saving Arm Jacks facilitates lifting heavy objects, with a 220 lbs bearing capacity and up to 7.1 inches of lift. It's a metal hand lifting tool featuring a magnetic level and adjustable height, ideal for home installation and DIY projects.",
-      "price_new": 24.29,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 59.5,
-      "rating": 4.1,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/619kmZqxj2L._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FB34CQ59/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20044620",
-      "published_at": "2026-09-25T00:16:46+00:00",
-      "revalidated_at": "2026-09-26T14:30:46+00:00"
     }
   ]
 }
