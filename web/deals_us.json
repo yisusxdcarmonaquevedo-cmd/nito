@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-09-26T20:01:34+00:00",
+  "generated_at": "2026-09-26T20:16:44+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B07T9KS1DN",
+      "title": "Amazon Saver, Cream of Mushroom Soup 10.5 Ounce x 4~$2.28 After Multibuy & S&S @ Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.28,
+      "price_old": 59.0,
+      "currency": "USD",
+      "discount_pct": 96.1,
+      "rating": 4.5,
+      "condition": "sns",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71AgR2CPchL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07T9KS1DN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20064297",
+      "published_at": "2026-09-26T20:16:44+00:00",
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
+    },
+    {
+      "asin": "B0DK5VM2XQ",
+      "title": "Watchmen Chapter II (4KUHD + Digital",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.99,
+      "price_old": 57.0,
+      "currency": "USD",
+      "discount_pct": 73.7,
+      "rating": 4.6,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/71eCg0FNsgL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DK5VM2XQ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20056734",
+      "published_at": "2026-09-26T20:16:44+00:00",
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
+    },
+    {
+      "asin": "B0DPLMV77J",
+      "title": "Canyon Pathlite:ON 5 SUV Step-Through Electric Bike w/ Bosch Motor, 625Wh Battery & 27.5\" Tires (Small or Large)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 145.0,
+      "price_old": 880.0,
+      "currency": "USD",
+      "discount_pct": 83.5,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/21717192.thumb",
+      "url": "https://amazon.com/dp/B0DPLMV77J/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20062830",
+      "published_at": "2026-09-26T20:16:44+00:00",
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
+    },
+    {
+      "asin": "B0GSCFY5TX",
+      "title": "6-Pack Bounty Mega Paper Towels",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 18.96,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 45.8,
+      "rating": 4.8,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/7104ZSslSNL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GSCFY5TX/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20056065",
+      "published_at": "2026-09-26T20:16:44+00:00",
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
+    },
     {
       "asin": "B0GT87F638",
       "title": "100' WASTROYAL Halloween Plug-in String Lights (Purple Orange or Warm White) from",
@@ -199,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20064006",
       "published_at": "2026-09-26T18:15:41+00:00",
-      "revalidated_at": "2026-09-26T18:15:41+00:00"
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
     },
     {
       "asin": "B0CG2VS5FD",
@@ -595,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20048652",
       "published_at": "2026-09-26T16:15:33+00:00",
-      "revalidated_at": "2026-09-26T18:15:41+00:00"
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
     },
     {
       "asin": "B096T5VPRJ",
@@ -1079,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20057886",
       "published_at": "2026-09-26T10:16:11+00:00",
-      "revalidated_at": "2026-09-26T18:15:41+00:00"
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
     },
     {
       "asin": "B0DQ66LLST",
@@ -1167,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20043729",
       "published_at": "2026-09-26T06:16:12+00:00",
-      "revalidated_at": "2026-09-26T18:15:41+00:00"
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
     },
     {
       "asin": "B00MU96ULM",
@@ -1563,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20061630",
       "published_at": "2026-09-26T00:16:37+00:00",
-      "revalidated_at": "2026-09-26T18:00:39+00:00"
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
     },
     {
       "asin": "B0F1FMZD4Q",
@@ -2003,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20042406",
       "published_at": "2026-09-25T16:15:47+00:00",
-      "revalidated_at": "2026-09-26T18:00:39+00:00"
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
     },
     {
       "asin": "B0FVF1H71G",
@@ -2025,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20042676",
       "published_at": "2026-09-25T16:15:47+00:00",
-      "revalidated_at": "2026-09-26T18:00:39+00:00"
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
     },
     {
       "asin": "B0FNW6TT3K",
@@ -2047,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20049051",
       "published_at": "2026-09-25T16:15:47+00:00",
-      "revalidated_at": "2026-09-26T18:00:39+00:00"
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
     },
     {
       "asin": "B0CV7P72X5",
@@ -2069,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20059773",
       "published_at": "2026-09-25T16:15:47+00:00",
-      "revalidated_at": "2026-09-26T18:00:39+00:00"
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
     },
     {
       "asin": "B0B422FYM5",
@@ -2179,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20051928",
       "published_at": "2026-09-25T14:30:57+00:00",
-      "revalidated_at": "2026-09-26T18:00:39+00:00"
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
     },
     {
       "asin": "1629798266",
@@ -2421,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20042118",
       "published_at": "2026-09-25T10:16:10+00:00",
-      "revalidated_at": "2026-09-26T18:00:39+00:00"
+      "revalidated_at": "2026-09-26T20:16:44+00:00"
     },
     {
       "asin": "B01GKRH49G",
@@ -2553,94 +2641,6 @@
       "source": "slickdeals",
       "deal_key": "sd:20059866",
       "published_at": "2026-09-25T06:16:30+00:00",
-      "revalidated_at": "2026-09-26T18:15:41+00:00"
-    },
-    {
-      "asin": "B079H3B1K7",
-      "title": "Snapple Kiwi Strawberry Juice Drink, 16 Fl Oz Recycled Plastic Bottle, Pack Of 12, All Natural, No Artificial Flavors Or Sweeteners, Contains 3% Real Juice~$9.48 With S&S @ Amazon",
-      "title_es": "Snapple Kiwi Strawberry Juice Drink, botella de plástico reciclado de 16 Fl Oz, pack de 12",
-      "headline": null,
-      "post": "Disfruta del refrescante sabor natural de Snapple Kiwi Strawberry, una bebida sin sabores ni edulcorantes artificiales. Ideal para quienes buscan una opción de zumo natural en un formato práctico para llevar.",
-      "post_en": "Enjoy the refreshing natural taste of Snapple Kiwi Strawberry, a drink free from artificial flavors or sweeteners. It's ideal for those looking for a natural juice option in a convenient, on-the-go format.",
-      "price_new": 9.48,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 84.2,
-      "rating": null,
-      "condition": "sns",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/7/2/9/6/9/0/450x450/21640239.thumb",
-      "url": "https://amazon.com/dp/B079H3B1K7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20032968",
-      "published_at": "2026-09-25T06:16:30+00:00",
-      "revalidated_at": "2026-09-26T18:29:56+00:00"
-    },
-    {
-      "asin": "B0F9KNLFX7",
-      "title": "FilmHOO 12 Rainbow Colored Pencils,Stocking Stuffers for Kids 4-12 Year Old",
-      "title_es": "Lápices de colores arcoíris FilmHOO (12 unidades)",
-      "headline": null,
-      "post": "Estos lápices de colores FilmHOO ofrecen una experiencia de dibujo divertida con sus 12 tonos arcoíris únicos. Son perfectos para niños de 4 a 12 años, estimulando su creatividad y añadiendo un toque mágico a sus obras. 🌈",
-      "post_en": "These FilmHOO colored pencils offer a fun drawing experience with their 12 unique rainbow shades. They are perfect for kids aged 4 to 12, stimulating their creativity and adding a magical touch to their artwork. 🌈",
-      "price_new": 2.99,
-      "price_old": 6.99,
-      "currency": "USD",
-      "discount_pct": 57.2,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71UnV73aXuL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F9KNLFX7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20057352",
-      "published_at": "2026-09-25T06:16:30+00:00",
-      "revalidated_at": "2026-09-26T18:29:56+00:00"
-    },
-    {
-      "asin": "B0CQRYS74G",
-      "title": "Samsung 27-Inch Odyssey G55C Series QHD 1000R Curved Gaming Monitor (LS27CG552ENXZA)",
-      "title_es": "Monitor gaming curvo Samsung 27-Inch Odyssey G55C Series QHD 1000R (LS27CG552ENXZA)",
-      "headline": null,
-      "post": "Sumérgete en tus juegos con el monitor Samsung Odyssey G55C, que ofrece una experiencia QHD inmersiva gracias a su curvatura 1000R. Es ideal para gamers que buscan una visualización fluida y envolvente para sus sesiones de juego.",
-      "post_en": "Immerse yourself in your games with the Samsung Odyssey G55C monitor, offering an immersive QHD experience thanks to its 1000R curvature. It's ideal for gamers seeking a fluid and enveloping display for their gaming sessions.",
-      "price_new": 177.0,
-      "price_old": 299.99,
-      "currency": "USD",
-      "discount_pct": 41.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21683178.thumb",
-      "url": "https://amazon.com/dp/B0CQRYS74G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20051289",
-      "published_at": "2026-09-25T06:16:30+00:00",
-      "revalidated_at": "2026-09-26T18:45:45+00:00"
-    },
-    {
-      "asin": "B0DZ6T9VCM",
-      "title": "Govee Gaming Pixel Light, RGBIC LED Panel with Real-time Info Display, 32x32 Pixels at Amazon",
-      "title_es": "Panel de luz LED Govee Gaming Pixel Light RGBIC (32x32 píxeles)",
-      "headline": null,
-      "post": "El Govee Gaming Pixel Light es un panel LED RGBIC de 32x32 píxeles que muestra información en tiempo real, perfecto para personalizar tu setup gaming. Añade un toque dinámico y vibrante a tu espacio, mejorando la atmósfera de juego.",
-      "post_en": "The Govee Gaming Pixel Light is a 32x32 pixel RGBIC LED panel that displays real-time information, perfect for customizing your gaming setup. It adds a dynamic and vibrant touch to your space, enhancing the gaming atmosphere.",
-      "price_new": 69.99,
-      "price_old": 119.99,
-      "currency": "USD",
-      "discount_pct": 41.7,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71HrYP3K-SL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DZ6T9VCM/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20031519",
-      "published_at": "2026-09-25T05:46:26+00:00",
       "revalidated_at": "2026-09-26T18:15:41+00:00"
     }
   ]
