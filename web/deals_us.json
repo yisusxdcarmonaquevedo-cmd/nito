@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-27T09:16:23+00:00",
+  "generated_at": "2026-09-27T09:31:23+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B08BBF5TFD",
+      "title": "$2.82 S&S AMAZON Skinnygirl Sugar Free Kosher Preserves, Blackberry, 10 Ounce",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.82,
+      "price_old": 54.0,
+      "currency": "USD",
+      "discount_pct": 94.8,
+      "rating": 4.3,
+      "condition": "sns",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71azpg06wJL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B08BBF5TFD/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20055126",
+      "published_at": "2026-09-27T09:31:23+00:00",
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
+    },
     {
       "asin": "1465481796",
       "title": "DK History World War II Map by Map (Hardcover Book)",
@@ -36,11 +58,11 @@
       "price_old": 299.99,
       "currency": "USD",
       "discount_pct": 80.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/9/9/5/2/5/2/450x450/21724197.thumb",
+      "image": "https://m.media-amazon.com/images/I/71thvWEIDLL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0HF387X6V/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20066073",
@@ -111,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20062935",
       "published_at": "2026-09-27T07:46:13+00:00",
-      "revalidated_at": "2026-09-27T07:46:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "1523506148",
@@ -199,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20051823",
       "published_at": "2026-09-27T05:45:52+00:00",
-      "revalidated_at": "2026-09-27T07:46:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "B0F256C1YP",
@@ -595,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20065158",
       "published_at": "2026-09-27T01:54:43+00:00",
-      "revalidated_at": "2026-09-27T07:46:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "B07QXTFPGX",
@@ -1057,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20056734",
       "published_at": "2026-09-26T20:16:44+00:00",
-      "revalidated_at": "2026-09-27T07:46:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "B0DPLMV77J",
@@ -1079,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20062830",
       "published_at": "2026-09-26T20:16:44+00:00",
-      "revalidated_at": "2026-09-27T07:46:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "B0GSCFY5TX",
@@ -1101,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20056065",
       "published_at": "2026-09-26T20:16:44+00:00",
-      "revalidated_at": "2026-09-27T07:46:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "B0GT87F638",
@@ -1277,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053533",
       "published_at": "2026-09-26T18:29:56+00:00",
-      "revalidated_at": "2026-09-27T07:46:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "B0FBY9RH2J",
@@ -1299,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20064006",
       "published_at": "2026-09-26T18:15:41+00:00",
-      "revalidated_at": "2026-09-27T07:46:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "B0CG2VS5FD",
@@ -1607,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20050506",
       "published_at": "2026-09-26T16:30:43+00:00",
-      "revalidated_at": "2026-09-27T07:46:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "B0G4VZ9V44",
@@ -1629,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20061318",
       "published_at": "2026-09-26T16:30:43+00:00",
-      "revalidated_at": "2026-09-27T07:46:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "B0GGGHKLPH",
@@ -1651,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20062122",
       "published_at": "2026-09-26T16:30:43+00:00",
-      "revalidated_at": "2026-09-27T07:46:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "B0HFW6XJTR",
@@ -2179,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053356",
       "published_at": "2026-09-26T10:01:09+00:00",
-      "revalidated_at": "2026-09-27T07:31:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "B001459IEE",
@@ -2399,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20055270",
       "published_at": "2026-09-26T01:46:29+00:00",
-      "revalidated_at": "2026-09-27T07:31:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "B0HJZQGPW5",
@@ -2443,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20061624",
       "published_at": "2026-09-26T01:31:37+00:00",
-      "revalidated_at": "2026-09-27T07:31:13+00:00"
+      "revalidated_at": "2026-09-27T09:31:23+00:00"
     },
     {
       "asin": "B0FY5C8V7Q",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:20061630",
       "published_at": "2026-09-26T00:16:37+00:00",
       "revalidated_at": "2026-09-27T08:16:18+00:00"
-    },
-    {
-      "asin": "B0F1FMZD4Q",
-      "title": "JandCase Dimmable LED Plug-In Night Lights w/ Dusk-to-Dawn Sensor (Linear, Rocket, or Rotatable) from",
-      "title_es": "Lámparas Nocturnas LED Regulables JandCase con Sensor Crepuscular (Lineal, Cohete o Giratorio)",
-      "headline": null,
-      "post": "Estas luces nocturnas LED de JandCase ofrecen iluminación suave y regulable, ideales para pasillos o habitaciones infantiles. Cuentan con un sensor crepuscular que las enciende y apaga automáticamente, disponibles en diseños lineal, cohete o giratorio.",
-      "post_en": "These JandCase LED night lights provide soft, dimmable illumination, perfect for hallways or children's rooms. They feature a dusk-to-dawn sensor for automatic on/off, available in linear, rocket, or rotatable designs.",
-      "price_new": 3.5,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 90.0,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "LISTED",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/91Cm-I+6QUL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F1FMZD4Q/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20062557",
-      "published_at": "2026-09-25T23:16:20+00:00",
-      "revalidated_at": "2026-09-27T09:01:20+00:00"
     }
   ]
 }
