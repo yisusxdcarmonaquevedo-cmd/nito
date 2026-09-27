@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-27T19:46:26+00:00",
+  "generated_at": "2026-09-27T20:01:26+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B01ER2A5X8",
+      "title": "Thermaltake 600W 80 Plus Active PFC Smart Power Supply",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 34.6,
+      "price_old": 58.42,
+      "currency": "USD",
+      "discount_pct": 40.8,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21663270.thumb",
+      "url": "https://amazon.com/dp/B01ER2A5X8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20043309",
+      "published_at": "2026-09-27T20:01:26+00:00",
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
+    },
     {
       "asin": "B078HM2X1C",
       "title": "TEKTON High-Torque Black Oxide Blade Nut Driver (3/16\") at Amazon",
@@ -36,11 +58,11 @@
       "price_old": 24.99,
       "currency": "USD",
       "discount_pct": 52.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21700161.thumb",
+      "image": "https://m.media-amazon.com/images/I/61mTUF2XSrL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FLKL1C7H/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20057106",
@@ -58,11 +80,11 @@
       "price_old": 57.0,
       "currency": "USD",
       "discount_pct": 61.4,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21726831.thumb",
+      "image": "https://m.media-amazon.com/images/I/61Y6A8NXGIL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B007GYO4P0/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20067162",
@@ -441,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20058129",
       "published_at": "2026-09-27T16:16:16+00:00",
-      "revalidated_at": "2026-09-27T18:01:34+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B0GWMP7LSS",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20065971",
       "published_at": "2026-09-27T14:16:32+00:00",
-      "revalidated_at": "2026-09-27T18:01:34+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B0CXNVV89D",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20059785",
       "published_at": "2026-09-27T14:16:32+00:00",
-      "revalidated_at": "2026-09-27T18:01:34+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B0CV2HWRQ4",
@@ -771,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20066352",
       "published_at": "2026-09-27T12:31:15+00:00",
-      "revalidated_at": "2026-09-27T18:01:34+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B0DJ19J283",
@@ -793,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20066466",
       "published_at": "2026-09-27T12:31:15+00:00",
-      "revalidated_at": "2026-09-27T18:01:34+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B0FMS7HXQ6",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20057454",
       "published_at": "2026-09-27T10:31:18+00:00",
-      "revalidated_at": "2026-09-27T18:01:34+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B0G86YW5XX",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20058114",
       "published_at": "2026-09-27T02:31:45+00:00",
-      "revalidated_at": "2026-09-27T17:57:29+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B0GQLVJMST",
@@ -1651,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053104",
       "published_at": "2026-09-27T00:46:02+00:00",
-      "revalidated_at": "2026-09-27T17:57:29+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B00T3YBQ8O",
@@ -1783,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20050473",
       "published_at": "2026-09-26T22:46:06+00:00",
-      "revalidated_at": "2026-09-27T17:57:29+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B09Q4GWMZQ",
@@ -1805,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20062068",
       "published_at": "2026-09-26T22:46:06+00:00",
-      "revalidated_at": "2026-09-27T17:57:29+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B0H5WTDR9Q",
@@ -2069,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20064315",
       "published_at": "2026-09-26T19:01:16+00:00",
-      "revalidated_at": "2026-09-27T17:57:29+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B0CRKPBNNJ",
@@ -2421,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20063373",
       "published_at": "2026-09-26T16:45:33+00:00",
-      "revalidated_at": "2026-09-27T17:57:29+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B0DJQW1DJ6",
@@ -2487,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20061318",
       "published_at": "2026-09-26T16:30:43+00:00",
-      "revalidated_at": "2026-09-27T17:57:29+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B0GGGHKLPH",
@@ -2509,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20062122",
       "published_at": "2026-09-26T16:30:43+00:00",
-      "revalidated_at": "2026-09-27T17:57:29+00:00"
+      "revalidated_at": "2026-09-27T20:01:26+00:00"
     },
     {
       "asin": "B0HFW6XJTR",
@@ -2618,28 +2640,6 @@
       "url": "https://amazon.com/dp/B0G1VLR1PJ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20064000",
-      "published_at": "2026-09-26T15:30:38+00:00",
-      "revalidated_at": "2026-09-27T18:46:25+00:00"
-    },
-    {
-      "asin": "B0H269JK8B",
-      "title": "LUCKVIEW BM2PRO Dual Car Camera Baby Monitor for 2 Kids",
-      "title_es": "Monitor de bebé para coche LUCKVIEW BM2PRO con doble cámara para 2 niños",
-      "headline": null,
-      "post": "El monitor LUCKVIEW BM2PRO te permite supervisar a dos niños en el coche con su sistema de doble cámara. Es una solución práctica para la tranquilidad de los padres mientras conducen.",
-      "post_en": "The LUCKVIEW BM2PRO monitor allows you to supervise two children in the car with its dual camera system. It's a practical solution for parents' peace of mind while driving.",
-      "price_new": 41.99,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.4,
-      "condition": "code",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71zMQgmVLBL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H269JK8B/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20048934",
       "published_at": "2026-09-26T15:30:38+00:00",
       "revalidated_at": "2026-09-27T18:46:25+00:00"
     }
