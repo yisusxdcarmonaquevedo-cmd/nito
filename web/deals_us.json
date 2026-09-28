@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-28T19:31:36+00:00",
+  "generated_at": "2026-09-28T19:46:22+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0H8Y4CJYB",
+      "title": "Labiim 110000-RPM Ionic Hair Dryer (3 Colors)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 20.0,
+      "price_old": 49.99,
+      "currency": "USD",
+      "discount_pct": 60.0,
+      "rating": 4.4,
+      "condition": "code",
+      "code": "CM6BAUI2",
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/61fAKgty5cL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0H8Y4CJYB/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20054502",
+      "published_at": "2026-09-28T19:46:22+00:00",
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
+    },
     {
       "asin": "B0F8X4JB3Z",
       "title": "45mm Casio AE-1000W Series Digital Illuminator Men's Resin Watch at Amazon",
@@ -58,11 +80,11 @@
       "price_old": 22.99,
       "currency": "USD",
       "discount_pct": 65.0,
-      "rating": null,
+      "rating": 4.2,
       "condition": "code",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/6/7/9/8/5/450x450/21680376.thumb",
+      "image": "https://m.media-amazon.com/images/I/71OxoigcYXL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DFYLB767/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20050149",
@@ -419,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20069745",
       "published_at": "2026-09-28T14:01:35+00:00",
-      "revalidated_at": "2026-09-28T17:46:18+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "B0F8W18TTH",
@@ -881,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20059371",
       "published_at": "2026-09-28T08:15:36+00:00",
-      "revalidated_at": "2026-09-28T17:46:18+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "B0GWLCRHBX",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20057259",
       "published_at": "2026-09-28T08:15:36+00:00",
-      "revalidated_at": "2026-09-28T17:46:18+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "B0D4YPYV7Q",
@@ -1189,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053941",
       "published_at": "2026-09-28T03:46:41+00:00",
-      "revalidated_at": "2026-09-28T17:46:18+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "B000EQ47GS",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20067915",
       "published_at": "2026-09-28T02:16:50+00:00",
-      "revalidated_at": "2026-09-28T17:46:18+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "B0GHQH34QJ",
@@ -1255,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20059473",
       "published_at": "2026-09-28T02:16:50+00:00",
-      "revalidated_at": "2026-09-28T17:46:18+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "B0GJSN41LH",
@@ -1277,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20045817",
       "published_at": "2026-09-28T02:16:50+00:00",
-      "revalidated_at": "2026-09-28T17:46:18+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "B0D1CBK65D",
@@ -1299,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20050128",
       "published_at": "2026-09-28T01:46:47+00:00",
-      "revalidated_at": "2026-09-28T17:46:18+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "B0CSJXSQYK",
@@ -1321,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053719",
       "published_at": "2026-09-28T01:46:47+00:00",
-      "revalidated_at": "2026-09-28T17:46:18+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "059309932X",
@@ -1343,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20067909",
       "published_at": "2026-09-28T01:46:47+00:00",
-      "revalidated_at": "2026-09-28T17:46:18+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "B0GX1RPKG3",
@@ -1365,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20061261",
       "published_at": "2026-09-28T01:46:47+00:00",
-      "revalidated_at": "2026-09-28T17:46:18+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "B0H7R4D9BT",
@@ -2223,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20066382",
       "published_at": "2026-09-27T15:46:28+00:00",
-      "revalidated_at": "2026-09-28T17:31:35+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "B007DCU4IQ",
@@ -2443,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20066487",
       "published_at": "2026-09-27T12:01:11+00:00",
-      "revalidated_at": "2026-09-28T17:31:35+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "B0B6GLQJMV",
@@ -2465,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20051967",
       "published_at": "2026-09-27T11:46:21+00:00",
-      "revalidated_at": "2026-09-28T17:31:35+00:00"
+      "revalidated_at": "2026-09-28T19:46:22+00:00"
     },
     {
       "asin": "B0GRHHBMN3",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:20047470",
       "published_at": "2026-09-27T09:16:23+00:00",
       "revalidated_at": "2026-09-28T19:16:39+00:00"
-    },
-    {
-      "asin": "B0HF387X6V",
-      "title": "Etunsia Misting Fan, Standing Fan 8 Blades with Humidifier, Oscillating Fan with 3 Misting Modes 9 Speeds 7H Timer, Quiet Fan for Bedroom",
-      "title_es": "Ventilador de Pie con Humidificador Etunsia, 8 Aspas, Oscilante",
-      "headline": null,
-      "post": "El ventilador de pie Etunsia combina ventilación potente con un humidificador, ofreciendo 8 aspas, 3 modos de nebulización y 9 velocidades. Es ideal para mantener tu dormitorio fresco y confortable, incluso en las noches más cálidas. 🌬️",
-      "post_en": "The Etunsia standing fan combines powerful ventilation with a humidifier, featuring 8 blades, 3 misting modes, and 9 speeds. It's ideal for keeping your bedroom cool and comfortable, even on the warmest nights. 🌬️",
-      "price_new": 59.97,
-      "price_old": 299.99,
-      "currency": "USD",
-      "discount_pct": 80.0,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71thvWEIDLL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0HF387X6V/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20066073",
-      "published_at": "2026-09-27T09:01:20+00:00",
-      "revalidated_at": "2026-09-28T19:31:36+00:00"
     }
   ]
 }
