@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-28T15:01:27+00:00",
+  "generated_at": "2026-09-28T15:16:26+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0CB9PF1N6",
+      "title": "Amazon Echo Pop Kids Smart Speaker w/ Alexa (Disney Princess or Marvel's Avengers)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 21.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 37.2,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71KMi8eyeNL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CB9PF1N6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20067411",
+      "published_at": "2026-09-28T15:16:26+00:00",
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
+    },
     {
       "asin": "B0FP9ZV21S",
       "title": "Creativity for Kids Ice Cream Shop Deluxe Table w/ Sensory Bins & Toys",
@@ -14,11 +36,11 @@
       "price_old": 149.99,
       "currency": "USD",
       "discount_pct": 60.4,
-      "rating": null,
+      "rating": 4.2,
       "condition": null,
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/3/5/6/4/5/1/8/7/450x450/21681465.thumb",
+      "image": "https://m.media-amazon.com/images/I/81MXyCAlNTL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FP9ZV21S/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20050605",
@@ -212,11 +234,11 @@
       "price_old": 139.99,
       "currency": "USD",
       "discount_pct": 57.1,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21732633.thumb",
+      "image": "https://m.media-amazon.com/images/I/51SNphOCeJL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FY45N1FQ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20069607",
@@ -243,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20069223",
       "published_at": "2026-09-28T13:16:42+00:00",
-      "revalidated_at": "2026-09-28T13:16:42+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "B0FMS7Q3RS",
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20069121",
       "published_at": "2026-09-28T13:16:42+00:00",
-      "revalidated_at": "2026-09-28T13:16:42+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "B07BJLX414",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20068704",
       "published_at": "2026-09-28T13:16:42+00:00",
-      "revalidated_at": "2026-09-28T13:16:42+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "B0CGLPC42G",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20069220",
       "published_at": "2026-09-28T11:16:17+00:00",
-      "revalidated_at": "2026-09-28T13:16:42+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "B09DLFGLW3",
@@ -771,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20055372",
       "published_at": "2026-09-28T05:31:37+00:00",
-      "revalidated_at": "2026-09-28T13:16:42+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "B077G46GBV",
@@ -859,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20061297",
       "published_at": "2026-09-28T05:16:56+00:00",
-      "revalidated_at": "2026-09-28T13:01:40+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "B0GYGCN5DY",
@@ -881,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053959",
       "published_at": "2026-09-28T05:16:56+00:00",
-      "revalidated_at": "2026-09-28T13:01:40+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "B0B358VDZJ",
@@ -1211,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20058360",
       "published_at": "2026-09-28T01:31:38+00:00",
-      "revalidated_at": "2026-09-28T13:16:42+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "B0DS5F6DNC",
@@ -1607,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20067162",
       "published_at": "2026-09-27T19:31:26+00:00",
-      "revalidated_at": "2026-09-28T13:16:42+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "B0GZSJLZ41",
@@ -2091,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20066358",
       "published_at": "2026-09-27T15:31:34+00:00",
-      "revalidated_at": "2026-09-28T13:01:40+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "B0GYT95J1H",
@@ -2113,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20066217",
       "published_at": "2026-09-27T15:31:34+00:00",
-      "revalidated_at": "2026-09-28T13:01:40+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "B0DJ19581W",
@@ -2223,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20061258",
       "published_at": "2026-09-27T13:46:31+00:00",
-      "revalidated_at": "2026-09-28T13:01:40+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "B0F1P4RZMK",
@@ -2531,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20066073",
       "published_at": "2026-09-27T09:01:20+00:00",
-      "revalidated_at": "2026-09-28T13:01:40+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "0063280779",
@@ -2597,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20062935",
       "published_at": "2026-09-27T07:46:13+00:00",
-      "revalidated_at": "2026-09-28T13:01:40+00:00"
+      "revalidated_at": "2026-09-28T15:16:26+00:00"
     },
     {
       "asin": "1523506148",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:20065680",
       "published_at": "2026-09-27T07:01:17+00:00",
       "revalidated_at": "2026-09-28T14:46:46+00:00"
-    },
-    {
-      "asin": "B0HDHT1KS6",
-      "title": "CURSOR FITNESS L20 Folding Treadmill w/ 20% Incline, 3.5HP Motor & 400-Lb Capacity",
-      "title_es": "Cinta de correr plegable CURSOR FITNESS L20 con 20% de inclinación, motor de 3.5HP y capacidad de 400 lb",
-      "headline": null,
-      "post": "Esta cinta de correr plegable CURSOR FITNESS L20 ofrece un potente motor de 3.5HP y hasta un 20% de inclinación, soportando hasta 400 lb. Es ideal para entrenamientos intensos en casa con la ventaja de poder guardarse fácilmente.",
-      "post_en": "This CURSOR FITNESS L20 folding treadmill features a powerful 3.5HP motor and up to 20% incline, supporting up to 400 lb. It's ideal for intense home workouts with the added benefit of easy storage.",
-      "price_new": 219.99,
-      "price_old": 399.99,
-      "currency": "USD",
-      "discount_pct": 45.0,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "5FJ0NLP6",
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/71MzYnJlZWL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0HDHT1KS6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20058612",
-      "published_at": "2026-09-27T06:46:17+00:00",
-      "revalidated_at": "2026-09-28T14:31:31+00:00"
     }
   ]
 }
