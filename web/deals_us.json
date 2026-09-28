@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:31:31+00:00",
+  "generated_at": "2026-09-28T00:46:23+00:00",
   "market": "us",
   "count": 119,
   "deals": [
@@ -36,11 +36,11 @@
       "price_old": 60.0,
       "currency": "USD",
       "discount_pct": 81.7,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/21717000.thumb",
+      "image": "https://m.media-amazon.com/images/I/51Heg5X4eNL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B08J8F7Q61/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20062728",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20048466",
       "published_at": "2026-09-27T19:01:20+00:00",
-      "revalidated_at": "2026-09-27T23:01:43+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "B0BVSTLM9Z",
@@ -476,11 +476,11 @@
       "price_old": 349.99,
       "currency": "USD",
       "discount_pct": 42.9,
-      "rating": null,
+      "rating": 4.2,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/21723636.thumb",
+      "image": "https://m.media-amazon.com/images/I/81jLRWNrTXL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F1BXQNR5/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20065806",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20066757",
       "published_at": "2026-09-27T17:16:35+00:00",
-      "revalidated_at": "2026-09-27T23:01:43+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "B08Q823QYX",
@@ -908,10 +908,10 @@
     {
       "asin": "B0D14W6HLL",
       "title": "2-Pk 15-Lb Authentic Royal Basmati White Rice at Amazon",
-      "title_es": null,
+      "title_es": "Pack de 2 Arroz Blanco Basmati Royal Auténtico de 15 Lb",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack incluye dos bolsas de arroz basmati auténtico Royal de 15 libras, ideal para acompañar tus platos favoritos con un grano aromático y suelto. Perfecto para amantes de la cocina que buscan calidad y cantidad en su despensa. 🍚",
+      "post_en": "This pack includes two 15-lb bags of authentic Royal Basmati white rice, perfect for complementing your favorite dishes with an aromatic and fluffy grain. Ideal for cooking enthusiasts seeking quality and quantity for their pantry. 🍚",
       "price_new": 27.79,
       "price_old": 49.5,
       "currency": "USD",
@@ -930,10 +930,10 @@
     {
       "asin": "B0CXNVV89D",
       "title": "HSFTOOLS HF256 Thermal Imaging Camera, 256x192 IR Resolution Thermal Camera",
-      "title_es": null,
+      "title_es": "Cámara Termográfica HSFTOOLS HF256, Resolución IR 256x192",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La cámara termográfica HSFTOOLS HF256 ofrece una resolución IR de 256x192 para detectar problemas de temperatura con precisión. Es una herramienta esencial para profesionales en mantenimiento, construcción o inspecciones que necesitan identificar puntos calientes o fugas de energía.",
+      "post_en": "The HSFTOOLS HF256 Thermal Imaging Camera provides a 256x192 IR resolution for accurately detecting temperature issues. It's an essential tool for professionals in maintenance, construction, or inspections who need to identify hot spots or energy leaks.",
       "price_new": 199.98,
       "price_old": 299.0,
       "currency": "USD",
@@ -952,10 +952,10 @@
     {
       "asin": "B0CV2HWRQ4",
       "title": "590-Pc LEGO Sonic the Hedgehog: Super Sonic vs. Egg Drillster (76999)",
-      "title_es": null,
+      "title_es": "LEGO Sonic the Hedgehog: Super Sonic vs. Egg Drillster (76999) de 590 Piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Recrea emocionantes batallas con este set LEGO Sonic the Hedgehog (76999) de 590 piezas, donde Super Sonic se enfrenta al Egg Drillster. Ideal para fans de Sonic y constructores de LEGO a partir de 8 años que disfrutan de la acción y la creatividad. 🎮",
+      "post_en": "Recreate exciting battles with this 590-piece LEGO Sonic the Hedgehog (76999) set, where Super Sonic takes on the Egg Drillster. Perfect for Sonic fans and LEGO builders aged 8 and up who enjoy action and creativity. 🎮",
       "price_new": 50.0,
       "price_old": 79.99,
       "currency": "USD",
@@ -974,10 +974,10 @@
     {
       "asin": "B0GC557BP7",
       "title": "Amazon – VGRPRO Professional Cordless Hair Clippers -",
-      "title_es": null,
+      "title_es": "Cortapelos Profesional Inalámbrico VGRPRO",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Las cortapelos profesionales inalámbricas VGRPRO ofrecen un corte preciso y sin ataduras para uso doméstico o profesional. Su diseño ergonómico y batería duradera las hacen perfectas para quienes buscan comodidad y eficiencia en el cuidado del cabello.",
+      "post_en": "The VGRPRO Professional Cordless Hair Clippers provide a precise and untethered cut for home or professional use. Their ergonomic design and long-lasting battery make them perfect for those seeking convenience and efficiency in hair care.",
       "price_new": 17.49,
       "price_old": 34.99,
       "currency": "USD",
@@ -996,10 +996,10 @@
     {
       "asin": "B0F1P4RZMK",
       "title": "Early Prime Big Deal (Only Prime account): Philips Norelco i9000 Prestige Ultra Electric Shaver, Dark Slate",
-      "title_es": null,
+      "title_es": "Afeitadora Eléctrica Philips Norelco i9000 Prestige Ultra, Dark Slate",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La afeitadora eléctrica Philips Norelco i9000 Prestige Ultra en color Dark Slate ofrece un afeitado excepcionalmente apurado y cómodo. Diseñada para hombres que buscan lo último en tecnología de afeitado y cuidado facial. ✨",
+      "post_en": "The Philips Norelco i9000 Prestige Ultra Electric Shaver in Dark Slate delivers an exceptionally close and comfortable shave. Designed for men seeking the ultimate in shaving technology and facial care. ✨",
       "price_new": 244.79,
       "price_old": 349.96,
       "currency": "USD",
@@ -1018,10 +1018,10 @@
     {
       "asin": "B07632X1G9",
       "title": "0.75-Quart Staub Ceramic Pumpkin Cocotte (Matte Black) at Amazon",
-      "title_es": null,
+      "title_es": "Cocotte de Cerámica Staub Pumpkin de 0.75 Quart (Negro Mate)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta encantadora cocotte de cerámica Staub Pumpkin de 0.75 quart en negro mate es perfecta para servir porciones individuales o guarniciones. Ideal para añadir un toque elegante y funcional a tu mesa, especialmente en otoño o para ocasiones especiales. 🎃",
+      "post_en": "This charming 0.75-quart Staub Ceramic Pumpkin Cocotte in Matte Black is perfect for serving individual portions or side dishes. Ideal for adding an elegant and functional touch to your table, especially in autumn or for special occasions. 🎃",
       "price_new": 29.99,
       "price_old": 59.99,
       "currency": "USD",
@@ -1040,10 +1040,10 @@
     {
       "asin": "B00JOGB2DU",
       "title": "The Story of Christianity: Volume 1: A Study of the Early History of Christianity (eBook) by Justo L.  González",
-      "title_es": null,
+      "title_es": "The Story of Christianity: Volume 1 (eBook) por Justo L. González",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "\"The Story of Christianity: Volume 1\" es un eBook de Justo L. González que explora la historia temprana del cristianismo de forma profunda. Es una lectura esencial para estudiantes, teólogos y cualquier persona interesada en comprender los orígenes de esta fe.",
+      "post_en": "\"The Story of Christianity: Volume 1\" is an eBook by Justo L. González that deeply explores the early history of Christianity. It's an essential read for students, theologians, and anyone interested in understanding the origins of this faith.",
       "price_new": 1.99,
       "price_old": 16.99,
       "currency": "USD",
@@ -1062,10 +1062,10 @@
     {
       "asin": "B0DJ19J283",
       "title": "1021-Piece LEGO Spring Festival Good Fortune Building Set",
-      "title_es": null,
+      "title_es": "Set de Construcción LEGO Spring Festival Good Fortune de 1021 Piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Celebra el Festival de Primavera con este detallado set LEGO Good Fortune de 1021 piezas, lleno de símbolos de prosperidad y buena suerte. Perfecto para coleccionistas de LEGO y familias que buscan una actividad creativa y cultural. 🏮",
+      "post_en": "Celebrate the Spring Festival with this detailed 1021-piece LEGO Good Fortune building set, full of symbols of prosperity and good luck. Perfect for LEGO collectors and families looking for a creative and cultural activity. 🏮",
       "price_new": 56.9,
       "price_old": 89.99,
       "currency": "USD",
@@ -1084,10 +1084,10 @@
     {
       "asin": "B0FMS7HXQ6",
       "title": "61-Piece LEGO City: Rides - Loader",
-      "title_es": null,
+      "title_es": "LEGO City: Rides - Loader de 61 Piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El set LEGO City: Rides - Loader de 61 piezas permite a los pequeños constructores recrear escenas de construcción con un cargador. Es un juguete ideal para niños a partir de 5 años que disfrutan de los vehículos y el juego imaginativo. 🏗️",
+      "post_en": "The 61-piece LEGO City: Rides - Loader set allows young builders to recreate construction scenes with a loader. It's an ideal toy for children aged 5 and up who enjoy vehicles and imaginative play. 🏗️",
       "price_new": 7.19,
       "price_old": 35.0,
       "currency": "USD",
@@ -1106,10 +1106,10 @@
     {
       "asin": "B0B6GLQJMV",
       "title": "Ring Indoor Cam w/ 1080p HD Video & Color Night Vision (2nd Gen, Various) at Amazon",
-      "title_es": null,
+      "title_es": "Cámara de Interior Ring con Video HD 1080p y Visión Nocturna a Color (2ª Gen)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La Ring Indoor Cam (2ª Gen) ofrece video HD 1080p y visión nocturna a color para mantener tu hogar seguro día y noche. Es una solución de seguridad compacta y fácil de instalar, ideal para quienes buscan monitorear sus espacios interiores con claridad. 🏠",
+      "post_en": "The Ring Indoor Cam (2nd Gen) features 1080p HD video and color night vision to keep your home secure day and night. It's a compact and easy-to-install security solution, ideal for those looking to monitor their indoor spaces with clarity. 🏠",
       "price_new": 24.99,
       "price_old": 49.99,
       "currency": "USD",
@@ -1128,10 +1128,10 @@
     {
       "asin": "B0GRHHBMN3",
       "title": "48-Pocket Ordovibe Over-the-Door Mesh Shoe Organizer (White)",
-      "title_es": null,
+      "title_es": "Organizador de Zapatos de Malla Ordovibe de 48 Bolsillos para Puerta (Blanco)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este organizador de zapatos de malla Ordovibe se cuelga fácilmente en la puerta, ofreciendo una solución práctica para almacenar hasta 48 pares. Es ideal para mantener tus zapatos ordenados y optimizar el espacio en cualquier habitación.",
+      "post_en": "This Ordovibe mesh shoe organizer easily hangs over the door, offering a practical solution to store up to 48 pairs. It's ideal for keeping your shoes tidy and optimizing space in any room.",
       "price_new": 9.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1145,15 +1145,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20058018",
       "published_at": "2026-09-27T11:31:20+00:00",
-      "revalidated_at": "2026-09-27T23:01:43+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "B0D9MW74TG",
       "title": "$3.49 S&S Clip Q Meow Mix Gravy Bursts Dry Cat Food, 3 lb Bag",
-      "title_es": null,
+      "title_es": "Comida Seca para Gatos Meow Mix Gravy Bursts, Bolsa de 3 lb",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Meow Mix Gravy Bursts es una comida seca para gatos que combina el sabor crujiente con un centro cremoso de salsa. Perfecta para consentir a tu felino con una experiencia de sabor única en cada bocado. 😻",
+      "post_en": "Meow Mix Gravy Bursts is a dry cat food that combines a crunchy texture with a creamy gravy center. It's perfect for treating your feline with a unique flavor experience in every bite. 😻",
       "price_new": 3.49,
       "price_old": 60.0,
       "currency": "USD",
@@ -1172,10 +1172,10 @@
     {
       "asin": "B0G7DG3HP4",
       "title": "wegear WL500 Rechargeable Silent Wireless Mouse (Black)",
-      "title_es": null,
+      "title_es": "Ratón Inalámbrico Silencioso Recargable wegear WL500 (Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El ratón inalámbrico wegear WL500 ofrece un diseño silencioso y recargable para una experiencia de uso sin interrupciones. Es ideal para entornos de oficina o estudio donde se valora la tranquilidad y la comodidad.",
+      "post_en": "The wegear WL500 wireless mouse features a silent, rechargeable design for an uninterrupted user experience. It's ideal for office or study environments where quietness and comfort are valued.",
       "price_new": 7.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1194,10 +1194,10 @@
     {
       "asin": "B0G86YW5XX",
       "title": "Magic The Gathering - Avengers Assemble Marvel Super Heroes Commander Deck at Amazon",
-      "title_es": null,
+      "title_es": "Magic The Gathering - Mazo Commander Avengers Assemble Marvel Super Heroes",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este mazo Commander de Magic The Gathering, \"Avengers Assemble Marvel Super Heroes\", te sumerge en épicas batallas con tus héroes favoritos. Es perfecto para fans de Marvel y jugadores que buscan expandir su colección con un tema icónico.",
+      "post_en": "This Magic The Gathering Commander deck, \"Avengers Assemble Marvel Super Heroes,\" immerses you in epic battles with your favorite heroes. It's perfect for Marvel fans and players looking to expand their collection with an iconic theme.",
       "price_new": 49.99,
       "price_old": 74.99,
       "currency": "USD",
@@ -1216,10 +1216,10 @@
     {
       "asin": "B0CLLSC4BF",
       "title": "[Prime] Lisen 4-Axis 360° Adjustable Car Headrest Tablet Mount",
-      "title_es": null,
+      "title_es": "Soporte para Tablet Lisen Ajustable 4 Ejes 360° para Reposacabezas de Coche",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El soporte Lisen para tablet se fija al reposacabezas del coche, ofreciendo ajuste de 360° y 4 ejes para una visualización óptima. Ideal para entretener a los pasajeros en los asientos traseros durante viajes largos.",
+      "post_en": "The Lisen tablet mount attaches to your car's headrest, offering 360° and 4-axis adjustment for optimal viewing. It's ideal for entertaining back-seat passengers during long road trips.",
       "price_new": 9.98,
       "price_old": 22.99,
       "currency": "USD",
@@ -1238,10 +1238,10 @@
     {
       "asin": "B08BBF5TFD",
       "title": "$2.82 S&S AMAZON Skinnygirl Sugar Free Kosher Preserves, Blackberry, 10 Ounce",
-      "title_es": null,
+      "title_es": "Mermelada Sin Azúcar Skinnygirl Kosher, Mora, 10 Onzas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La mermelada de mora Skinnygirl es una opción deliciosa y sin azúcar, perfecta para aquellos que buscan cuidar su dieta. Disfrútala en tostadas, yogures o como acompañamiento sin culpas.",
+      "post_en": "Skinnygirl Blackberry Preserves offer a delicious, sugar-free option, perfect for those looking to manage their diet. Enjoy it on toast, yogurt, or as an accompaniment without guilt.",
       "price_new": 2.82,
       "price_old": 54.0,
       "currency": "USD",
@@ -1255,15 +1255,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20055126",
       "published_at": "2026-09-27T09:31:23+00:00",
-      "revalidated_at": "2026-09-27T23:01:43+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "1465481796",
       "title": "DK History World War II Map by Map (Hardcover Book)",
-      "title_es": null,
+      "title_es": "Libro DK History World War II Map by Map (Tapa Dura)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "\"DK History World War II Map by Map\" es un libro de tapa dura que explora la Segunda Guerra Mundial a través de detallados mapas y análisis. Imprescindible para entusiastas de la historia y estudiantes que deseen una comprensión visual del conflicto.",
+      "post_en": "\"DK History World War II Map by Map\" is a hardcover book that explores World War II through detailed maps and analysis. It's essential for history enthusiasts and students seeking a visual understanding of the conflict.",
       "price_new": 15.85,
       "price_old": 40.0,
       "currency": "USD",
@@ -1282,10 +1282,10 @@
     {
       "asin": "B0HF387X6V",
       "title": "Etunsia Misting Fan, Standing Fan 8 Blades with Humidifier, Oscillating Fan with 3 Misting Modes 9 Speeds 7H Timer, Quiet Fan for Bedroom",
-      "title_es": null,
+      "title_es": "Ventilador de Pie con Humidificador Etunsia, 8 Aspas, Oscilante",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El ventilador de pie Etunsia combina ventilación potente con un humidificador, ofreciendo 8 aspas, 3 modos de nebulización y 9 velocidades. Es ideal para mantener tu dormitorio fresco y confortable, incluso en las noches más cálidas. 🌬️",
+      "post_en": "The Etunsia standing fan combines powerful ventilation with a humidifier, featuring 8 blades, 3 misting modes, and 9 speeds. It's ideal for keeping your bedroom cool and comfortable, even on the warmest nights. 🌬️",
       "price_new": 59.97,
       "price_old": 299.99,
       "currency": "USD",
@@ -1304,10 +1304,10 @@
     {
       "asin": "0063280779",
       "title": "The Silmarillion: Illustrated by J.R.R. Tolkien (Hardcover Book)",
-      "title_es": null,
+      "title_es": "El Silmarillion: Ilustrado por J.R.R. Tolkien (Libro Tapa Dura)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "\"El Silmarillion\", ilustrado por J.R.R. Tolkien, es una obra fundamental que profundiza en la mitología de la Tierra Media. Una joya para los fans del autor y aquellos que deseen explorar los orígenes del universo de \"El Señor de los Anillos\".",
+      "post_en": "\"The Silmarillion,\" illustrated by J.R.R. Tolkien, is a fundamental work that delves into the mythology of Middle-earth. A treasure for fans of the author and those wishing to explore the origins of \"The Lord of the Rings\" universe.",
       "price_new": 27.55,
       "price_old": 75.0,
       "currency": "USD",
@@ -1326,10 +1326,10 @@
     {
       "asin": "B0FN3S7LKG",
       "title": "7MAGIC Sonic Electric Toothbrush w/ 8 Heads (Black)",
-      "title_es": null,
+      "title_es": "Cepillo de Dientes Eléctrico Sónico 7MAGIC con 8 Cabezales (Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El cepillo de dientes eléctrico sónico 7MAGIC ofrece una limpieza profunda y eficaz para una higiene bucal superior. Incluye 8 cabezales de repuesto, lo que lo hace una opción duradera y práctica para toda la familia.",
+      "post_en": "The 7MAGIC sonic electric toothbrush provides a deep and effective clean for superior oral hygiene. It includes 8 replacement heads, making it a durable and practical option for the whole family.",
       "price_new": 11.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1348,10 +1348,10 @@
     {
       "asin": "B08KH4TR4Q",
       "title": "The Stories of Ray Bradbury (eBook)",
-      "title_es": null,
+      "title_es": "Las historias de Ray Bradbury (eBook)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Descubre una colección esencial de relatos cortos del maestro de la ciencia ficción, Ray Bradbury. Ideal para amantes de la literatura fantástica y distópica que buscan obras que inviten a la reflexión. 📚",
+      "post_en": "Discover an essential collection of short stories by the master of science fiction, Ray Bradbury. Perfect for lovers of fantasy and dystopian literature looking for thought-provoking works. 📚",
       "price_new": 2.0,
       "price_old": 11.99,
       "currency": "USD",
@@ -1365,15 +1365,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20062935",
       "published_at": "2026-09-27T07:46:13+00:00",
-      "revalidated_at": "2026-09-27T23:01:43+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "1523506148",
       "title": "Paint By Sticker Kids' Activity Books: Halloween",
-      "title_es": null,
+      "title_es": "Libros de actividades Paint By Sticker Kids: Halloween",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Un divertido libro de actividades \"Pinta con pegatinas\" con temática de Halloween, diseñado para niños. Fomenta la creatividad y la motricidad fina, perfecto para entretener a los pequeños en casa. 🎃",
+      "post_en": "A fun \"Paint By Sticker\" activity book with a Halloween theme, designed for kids. It encourages creativity and fine motor skills, perfect for entertaining little ones at home. 🎃",
       "price_new": 4.94,
       "price_old": 10.99,
       "currency": "USD",
@@ -1392,10 +1392,10 @@
     {
       "asin": "B0HDHT1KS6",
       "title": "CURSOR FITNESS L20 Folding Treadmill w/ 20% Incline, 3.5HP Motor & 400-Lb Capacity",
-      "title_es": null,
+      "title_es": "Cinta de correr plegable CURSOR FITNESS L20 con 20% de inclinación, motor de 3.5HP y capacidad de 400 lb",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta cinta de correr plegable CURSOR FITNESS L20 ofrece un potente motor de 3.5HP y hasta un 20% de inclinación, soportando hasta 400 lb. Es ideal para entrenamientos intensos en casa con la ventaja de poder guardarse fácilmente.",
+      "post_en": "This CURSOR FITNESS L20 folding treadmill features a powerful 3.5HP motor and up to 20% incline, supporting up to 400 lb. It's ideal for intense home workouts with the added benefit of easy storage.",
       "price_new": 219.99,
       "price_old": 399.99,
       "currency": "USD",
@@ -1414,10 +1414,10 @@
     {
       "asin": "B0CCWVDLZL",
       "title": "Bluey Friends Baby Bluey Plush Soft Toy w/ Removable Diaper",
-      "title_es": null,
+      "title_es": "Peluche suave Bluey Friends Baby Bluey con pañal extraíble",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Un adorable peluche de Baby Bluey, el personaje de la popular serie, que incluye un pañal extraíble para más diversión. Perfecto para los fans más jóvenes de Bluey que buscan un compañero suave y abrazable.",
+      "post_en": "An adorable Baby Bluey plush toy, from the popular series, featuring a removable diaper for extra fun. Perfect for young Bluey fans looking for a soft and huggable companion.",
       "price_new": 7.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1436,10 +1436,10 @@
     {
       "asin": "B0H4571PLH",
       "title": "MOKURU Wireless Ergonomic Mouse, Supporting Bluetooth/2.4G Connection, Featuring 4 Buttons (Black)",
-      "title_es": null,
+      "title_es": "Ratón ergonómico inalámbrico MOKURU con conexión Bluetooth/2.4G y 4 botones (negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este ratón ergonómico inalámbrico MOKURU ofrece doble conectividad (Bluetooth y 2.4G) y cuatro botones programables. Es ideal para usuarios que buscan comodidad y versatilidad en su trabajo o navegación diaria.",
+      "post_en": "This MOKURU wireless ergonomic mouse offers dual connectivity (Bluetooth and 2.4G) and four programmable buttons. It's ideal for users seeking comfort and versatility in their daily work or browsing.",
       "price_new": 13.99,
       "price_old": 27.99,
       "currency": "USD",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20051823",
       "published_at": "2026-09-27T05:45:52+00:00",
-      "revalidated_at": "2026-09-27T23:01:43+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "B0F256C1YP",
@@ -1541,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20064771",
       "published_at": "2026-09-27T03:31:15+00:00",
-      "revalidated_at": "2026-09-27T23:01:43+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "B0D7LT74GG",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053587",
       "published_at": "2026-09-27T03:16:34+00:00",
-      "revalidated_at": "2026-09-27T23:01:43+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "B0GNT8KMGF",
@@ -1585,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20039961",
       "published_at": "2026-09-27T03:16:34+00:00",
-      "revalidated_at": "2026-09-27T23:01:43+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "B0CQPGKHT4",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20058846",
       "published_at": "2026-09-27T03:16:34+00:00",
-      "revalidated_at": "2026-09-27T23:01:43+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "B002O5M4SA",
@@ -1783,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20063595",
       "published_at": "2026-09-27T01:46:23+00:00",
-      "revalidated_at": "2026-09-27T23:01:43+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "B0CTS559MW",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20063439",
       "published_at": "2026-09-27T01:46:23+00:00",
-      "revalidated_at": "2026-09-27T23:01:43+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "B0FKH6HFZ2",
@@ -2553,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20059098",
       "published_at": "2026-09-26T17:16:00+00:00",
-      "revalidated_at": "2026-09-27T22:46:54+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "1524890693",
@@ -2575,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20059710",
       "published_at": "2026-09-26T17:16:00+00:00",
-      "revalidated_at": "2026-09-27T23:01:43+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     },
     {
       "asin": "B0DSJFDL8F",
@@ -2619,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20062281",
       "published_at": "2026-09-26T17:00:55+00:00",
-      "revalidated_at": "2026-09-27T22:46:54+00:00"
+      "revalidated_at": "2026-09-28T00:46:23+00:00"
     }
   ]
 }
