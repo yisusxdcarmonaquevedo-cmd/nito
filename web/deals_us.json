@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-29T19:31:52+00:00",
+  "generated_at": "2026-09-29T19:46:33+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B016DCVC8C",
+      "title": "The Rap Year Book: The Most Important Rap Song From Every Year Since 1979, Discussed, Debated, and Deconstructed (eBook) by Shea Serrano",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.99,
+      "price_old": 12.99,
+      "currency": "USD",
+      "discount_pct": 77.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21746082.thumb",
+      "url": "https://amazon.com/dp/B016DCVC8C/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20074095",
+      "published_at": "2026-09-29T19:46:33+00:00",
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
+    },
     {
       "asin": "B0GSZ1R1ZG",
       "title": "[Prime] 3-Count Breathable Mesh Cooling Skull Cap Helmet Liners (Various Colors)",
@@ -199,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20074344",
       "published_at": "2026-09-29T17:46:13+00:00",
-      "revalidated_at": "2026-09-29T17:46:13+00:00"
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
     },
     {
       "asin": "B0F3VY5HYY",
@@ -485,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20074119",
       "published_at": "2026-09-29T15:46:23+00:00",
-      "revalidated_at": "2026-09-29T17:46:13+00:00"
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
     },
     {
       "asin": "B0GMY8HQ5X",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20073021",
       "published_at": "2026-09-29T14:01:59+00:00",
-      "revalidated_at": "2026-09-29T17:46:13+00:00"
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
     },
     {
       "asin": "B0FY4V4KL3",
@@ -727,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20061519",
       "published_at": "2026-09-29T14:01:59+00:00",
-      "revalidated_at": "2026-09-29T17:46:13+00:00"
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
     },
     {
       "asin": "B07K2KN7D7",
@@ -749,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20073639",
       "published_at": "2026-09-29T14:01:59+00:00",
-      "revalidated_at": "2026-09-29T17:46:13+00:00"
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
     },
     {
       "asin": "B0FXVQMTJB",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20070918",
       "published_at": "2026-09-29T06:15:25+00:00",
-      "revalidated_at": "2026-09-29T17:46:13+00:00"
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
     },
     {
       "asin": "B01DDA823A",
@@ -1255,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20060484",
       "published_at": "2026-09-29T06:15:25+00:00",
-      "revalidated_at": "2026-09-29T17:46:13+00:00"
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
     },
     {
       "asin": "B0B1997R9L",
@@ -1299,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20060472",
       "published_at": "2026-09-29T04:17:10+00:00",
-      "revalidated_at": "2026-09-29T17:46:13+00:00"
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
     },
     {
       "asin": "B0BF5F3JJT",
@@ -1321,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20068425",
       "published_at": "2026-09-29T04:17:10+00:00",
-      "revalidated_at": "2026-09-29T17:46:13+00:00"
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
     },
     {
       "asin": "B0DJ1BLDC4",
@@ -1783,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20065587",
       "published_at": "2026-09-29T00:16:59+00:00",
-      "revalidated_at": "2026-09-29T17:31:33+00:00"
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
     },
     {
       "asin": "B0DRW4RCV5",
@@ -1850,28 +1872,6 @@
       "deal_key": "sd:20071110",
       "published_at": "2026-09-29T00:16:59+00:00",
       "revalidated_at": "2026-09-29T17:46:13+00:00"
-    },
-    {
-      "asin": "B0HFNBKZ58",
-      "title": "Yonida Non-Stick Frying Pans Set, 8+10+12 inch,",
-      "title_es": "Set de sartenes antiadherentes Yonida, 8+10+12 pulgadas.",
-      "headline": null,
-      "post": "Este set de sartenes Yonida ofrece tres tamaños esenciales para tu cocina, ideales para cocinar sin que nada se pegue. Su revestimiento antiadherente facilita la preparación de todo tipo de alimentos y su limpieza. 🍳",
-      "post_en": "This Yonida frying pans set includes three essential sizes for your kitchen, perfect for non-stick cooking. Their non-stick coating makes preparing all types of food and cleaning a breeze. 🍳",
-      "price_new": 53.99,
-      "price_old": 86.99,
-      "currency": "USD",
-      "discount_pct": 37.9,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "W6MUREME",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81HAwICPkFL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0HFNBKZ58/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20062494",
-      "published_at": "2026-09-28T23:46:53+00:00",
-      "revalidated_at": "2026-09-29T17:31:33+00:00"
     },
     {
       "asin": "B0FTG3MRLM",
@@ -2003,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20070729",
       "published_at": "2026-09-28T22:17:12+00:00",
-      "revalidated_at": "2026-09-29T17:31:33+00:00"
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
     },
     {
       "asin": "B0GYRRK1TP",
@@ -2223,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20070531",
       "published_at": "2026-09-28T20:16:44+00:00",
-      "revalidated_at": "2026-09-29T17:31:33+00:00"
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
     },
     {
       "asin": "B0BXS56YTR",
@@ -2245,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20063361",
       "published_at": "2026-09-28T20:16:44+00:00",
-      "revalidated_at": "2026-09-29T17:31:33+00:00"
+      "revalidated_at": "2026-09-29T19:46:33+00:00"
     },
     {
       "asin": "B0F8X4JB3Z",
@@ -2619,28 +2619,6 @@
       "source": "slickdeals",
       "deal_key": "sd:20069745",
       "published_at": "2026-09-28T14:01:35+00:00",
-      "revalidated_at": "2026-09-29T19:31:52+00:00"
-    },
-    {
-      "asin": "B0F8W18TTH",
-      "title": "Makes Women's Crossbody Purse (Various Colors)",
-      "title_es": "Bolso cruzado de mujer Makes (varios colores)",
-      "headline": null,
-      "post": "Un bolso cruzado elegante y práctico, ideal para llevar tus esenciales diarios. Disponible en varios colores para adaptarse a tu estilo personal.",
-      "post_en": "An elegant and practical crossbody purse, ideal for carrying your daily essentials. Available in various colors to match your personal style.",
-      "price_new": 7.54,
-      "price_old": 19.9,
-      "currency": "USD",
-      "discount_pct": 62.1,
-      "rating": 4.5,
-      "condition": "code",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/81X3PccVXwL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F8W18TTH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20062467",
-      "published_at": "2026-09-28T13:46:28+00:00",
       "revalidated_at": "2026-09-29T19:31:52+00:00"
     }
   ]
