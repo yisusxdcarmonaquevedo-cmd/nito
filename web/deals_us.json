@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-29T22:16:24+00:00",
+  "generated_at": "2026-09-29T22:31:27+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0GGLL195X",
+      "title": "5-Count 1.59-Oz Larabar Peanut & Almond Protein Bars (Lemon)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.21,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 90.8,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/21752574.thumb",
+      "url": "https://amazon.com/dp/B0GGLL195X/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20076276",
+      "published_at": "2026-09-29T22:31:27+00:00",
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
+    },
     {
       "asin": "B01H4X26YS",
       "title": "Three Days Grace: Self-Titled (Vinyl LP Album)",
@@ -58,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 92.9,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "2JAYJ046",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21752163.thumb",
+      "image": "https://m.media-amazon.com/images/I/619tOrK1H2L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GTVD8BRX/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20076144",
@@ -89,7 +111,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20067189",
       "published_at": "2026-09-29T20:31:41+00:00",
-      "revalidated_at": "2026-09-29T20:31:41+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     },
     {
       "asin": "B078N431P8",
@@ -111,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20073984",
       "published_at": "2026-09-29T20:31:41+00:00",
-      "revalidated_at": "2026-09-29T20:31:41+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     },
     {
       "asin": "B01N531XR0",
@@ -617,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20055519",
       "published_at": "2026-09-29T16:32:01+00:00",
-      "revalidated_at": "2026-09-29T20:31:41+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     },
     {
       "asin": "B0H2VDK3VY",
@@ -1387,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20061783",
       "published_at": "2026-09-29T06:45:26+00:00",
-      "revalidated_at": "2026-09-29T20:31:41+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     },
     {
       "asin": "B0G523STF2",
@@ -1607,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20063904",
       "published_at": "2026-09-29T02:46:50+00:00",
-      "revalidated_at": "2026-09-29T20:31:41+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     },
     {
       "asin": "B0HFJ61XDF",
@@ -2113,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20071908",
       "published_at": "2026-09-28T22:30:34+00:00",
-      "revalidated_at": "2026-09-29T20:16:40+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     },
     {
       "asin": "B08YZ6L1B5",
@@ -2135,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20058108",
       "published_at": "2026-09-28T22:30:34+00:00",
-      "revalidated_at": "2026-09-29T20:31:41+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     },
     {
       "asin": "B0GYW192NR",
@@ -2245,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20056062",
       "published_at": "2026-09-28T20:46:38+00:00",
-      "revalidated_at": "2026-09-29T20:31:41+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     },
     {
       "asin": "B0GCK6JCYC",
@@ -2267,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20069835",
       "published_at": "2026-09-28T20:46:38+00:00",
-      "revalidated_at": "2026-09-29T20:31:41+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     },
     {
       "asin": "B0CWNRVYQN",
@@ -2289,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20069925",
       "published_at": "2026-09-28T20:46:38+00:00",
-      "revalidated_at": "2026-09-29T20:31:41+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     },
     {
       "asin": "B0F9528CFR",
@@ -2311,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20071410",
       "published_at": "2026-09-28T20:31:43+00:00",
-      "revalidated_at": "2026-09-29T20:31:41+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     },
     {
       "asin": "B0CGY4LZQ3",
@@ -2333,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20069901",
       "published_at": "2026-09-28T20:31:43+00:00",
-      "revalidated_at": "2026-09-29T20:31:41+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     },
     {
       "asin": "B0BL335TGP",
@@ -2597,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20067534",
       "published_at": "2026-09-28T16:31:37+00:00",
-      "revalidated_at": "2026-09-29T20:16:40+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     },
     {
       "asin": "B0DP64X54J",
@@ -2619,29 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20051727",
       "published_at": "2026-09-28T16:31:37+00:00",
-      "revalidated_at": "2026-09-29T20:16:40+00:00"
-    },
-    {
-      "asin": "1684051614",
-      "title": "Teenage Mutant Ninja Turtles: The Ultimate Collection, Vol. 1",
-      "title_es": "Teenage Mutant Ninja Turtles: The Ultimate Collection, Vol. 1",
-      "headline": null,
-      "post": "Revive las aventuras clásicas de las Tortugas Ninja con esta colección definitiva. Es un tesoro para los fans y una excelente introducción para nuevos lectores.",
-      "post_en": "Relive the classic adventures of the Ninja Turtles with this ultimate collection. It's a treasure for fans and an excellent introduction for new readers.",
-      "price_new": 10.02,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 66.6,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/91zZMOSuGuL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/1684051614/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20061171",
-      "published_at": "2026-09-28T15:46:32+00:00",
-      "revalidated_at": "2026-09-29T21:46:30+00:00"
+      "revalidated_at": "2026-09-29T22:31:27+00:00"
     }
   ]
 }
