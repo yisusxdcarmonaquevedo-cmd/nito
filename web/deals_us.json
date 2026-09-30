@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-30T12:00:39+00:00",
+  "generated_at": "2026-09-30T12:15:47+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0HC6XW6JT",
+      "title": "Amazon – Niecase Open-Ear Bluetooth Headset w/ Mic -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 39.99,
+      "price_old": 79.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.4,
+      "condition": "code",
+      "code": "X130909",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/51dUKbv84cL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0HC6XW6JT/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20057772",
+      "published_at": "2026-09-30T12:15:47+00:00",
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
+    },
+    {
+      "asin": "B0GLDY9SXR",
+      "title": "Fanttik B11 Pro Max Electric Air Duster w/ Power Bank Function / Flashlight (Black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 61.59,
+      "price_old": 99.99,
+      "currency": "USD",
+      "discount_pct": 38.4,
+      "rating": 4.2,
+      "condition": "coupon",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61AOMeDAjZL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GLDY9SXR/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20057826",
+      "published_at": "2026-09-30T12:15:47+00:00",
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
+    },
     {
       "asin": "B0C131YL3M",
       "title": "Under Armour Men's Matchplay Golf Shorts, 014 Gray (Size 30 or 34)",
@@ -14,11 +58,11 @@
       "price_old": 60.0,
       "currency": "USD",
       "discount_pct": 62.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/8/6/7/1/9/450x450/21712863.thumb",
+      "image": "https://m.media-amazon.com/images/I/41U53K8lKZL._AC_SL1000_.jpg",
       "url": "https://amazon.com/dp/B0C131YL3M/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20061417",
@@ -124,11 +168,11 @@
       "price_old": 24.99,
       "currency": "USD",
       "discount_pct": 52.0,
-      "rating": null,
+      "rating": 4.1,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21700248.thumb",
+      "image": "https://m.media-amazon.com/images/I/610cKTvR0DL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GS9MJVBC/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20057127",
@@ -155,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20060403",
       "published_at": "2026-09-30T10:16:00+00:00",
-      "revalidated_at": "2026-09-30T10:16:00+00:00"
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
     },
     {
       "asin": "B09B7L2BLJ",
@@ -168,11 +212,11 @@
       "price_old": 3.45,
       "currency": "USD",
       "discount_pct": 40.9,
-      "rating": null,
+      "rating": 4.3,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/4/1/3/2/6/0/450x450/21756057.thumb",
+      "image": "https://m.media-amazon.com/images/I/61uptP5cnvL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B09B7L2BLJ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20077614",
@@ -221,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20070894",
       "published_at": "2026-09-30T08:30:58+00:00",
-      "revalidated_at": "2026-09-30T10:16:00+00:00"
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
     },
     {
       "asin": "B0FN7J6NTL",
@@ -287,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20077131",
       "published_at": "2026-09-30T04:31:06+00:00",
-      "revalidated_at": "2026-09-30T10:16:00+00:00"
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
     },
     {
       "asin": "B0FLZGY6NL",
@@ -309,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20077134",
       "published_at": "2026-09-30T04:31:06+00:00",
-      "revalidated_at": "2026-09-30T10:16:00+00:00"
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
     },
     {
       "asin": "B0GXVNJMNQ",
@@ -441,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20056695",
       "published_at": "2026-09-30T00:46:08+00:00",
-      "revalidated_at": "2026-09-30T10:16:00+00:00"
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
     },
     {
       "asin": "B0DHP8LQH7",
@@ -463,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20075403",
       "published_at": "2026-09-30T00:46:08+00:00",
-      "revalidated_at": "2026-09-30T10:16:00+00:00"
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
     },
     {
       "asin": "B0CXXF8J31",
@@ -485,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20076171",
       "published_at": "2026-09-30T00:46:08+00:00",
-      "revalidated_at": "2026-09-30T10:16:00+00:00"
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
     },
     {
       "asin": "B0BKTS39DL",
@@ -1013,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20070789",
       "published_at": "2026-09-29T19:02:47+00:00",
-      "revalidated_at": "2026-09-30T10:16:00+00:00"
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
     },
     {
       "asin": "B0GDWMYWYW",
@@ -1211,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20074233",
       "published_at": "2026-09-29T17:01:49+00:00",
-      "revalidated_at": "2026-09-30T10:16:00+00:00"
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
     },
     {
       "asin": "B0GVYSXGH6",
@@ -1444,11 +1488,11 @@
       "price_old": 57.0,
       "currency": "USD",
       "discount_pct": 81.8,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/9/4/6/5/6/8/450x450/21742071.thumb",
+      "image": "https://m.media-amazon.com/images/I/81L8yoMOp2L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G2F6BZPT/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20072589",
@@ -1585,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20073651",
       "published_at": "2026-09-29T13:16:22+00:00",
-      "revalidated_at": "2026-09-30T10:16:00+00:00"
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
     },
     {
       "asin": "B0GFCSYT37",
@@ -1849,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20072880",
       "published_at": "2026-09-29T07:15:27+00:00",
-      "revalidated_at": "2026-09-30T10:01:03+00:00"
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
     },
     {
       "asin": "B0D4215HCX",
@@ -2443,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20059200",
       "published_at": "2026-09-29T00:31:59+00:00",
-      "revalidated_at": "2026-09-30T10:01:03+00:00"
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
     },
     {
       "asin": "B07DZLJF1C",
@@ -2553,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20071110",
       "published_at": "2026-09-29T00:16:59+00:00",
-      "revalidated_at": "2026-09-30T10:01:03+00:00"
+      "revalidated_at": "2026-09-30T12:15:47+00:00"
     },
     {
       "asin": "B0FTG3MRLM",
@@ -2598,28 +2642,6 @@
       "deal_key": "sd:20055849",
       "published_at": "2026-09-28T23:16:45+00:00",
       "revalidated_at": "2026-09-30T11:15:58+00:00"
-    },
-    {
-      "asin": "B0HFR4C6JS",
-      "title": "MERACH T12 Series Incline Treadmill (up to 300-Lbs, 16.5\" x 42.5\" Pad)",
-      "title_es": "Cinta de correr con inclinación MERACH T12 Series (hasta 300-Lbs, superficie de 16.5\" x 42.5\").",
-      "headline": null,
-      "post": "Esta cinta de correr MERACH T12 Series te permite entrenar en casa con inclinación, ideal para un ejercicio cardiovascular completo. Soporta hasta 300-Lbs y es perfecta para usuarios que buscan mejorar su condición física. 🏃‍♀️",
-      "post_en": "This MERACH T12 Series incline treadmill allows you to train at home with incline, ideal for a complete cardiovascular workout. It supports up to 300-Lbs and is perfect for users looking to improve their fitness. 🏃‍♀️",
-      "price_new": 199.99,
-      "price_old": 329.99,
-      "currency": "USD",
-      "discount_pct": 39.4,
-      "rating": 4.4,
-      "condition": "code",
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/71HScmH4KdL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0HFR4C6JS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20070141",
-      "published_at": "2026-09-28T22:47:00+00:00",
-      "revalidated_at": "2026-09-30T10:01:03+00:00"
     }
   ]
 }
