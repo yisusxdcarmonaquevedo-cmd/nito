@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-09-30T16:00:50+00:00",
+  "generated_at": "2026-09-30T16:16:08+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0H2V6KQG6",
+      "title": "Ekouaer Women's 2 Piece Set Ruched Side Lounge Set with Pockets",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 10.59,
+      "price_old": 23.13,
+      "currency": "USD",
+      "discount_pct": 54.2,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21758205.thumb",
+      "url": "https://amazon.com/dp/B0H2V6KQG6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20078466",
+      "published_at": "2026-09-30T16:16:08+00:00",
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
+    },
+    {
+      "asin": "B0FRNRPT1L",
+      "title": "The Grey: SteelBook (4K Ultra HD + Blu-ray) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 22.99,
+      "price_old": 44.98,
+      "currency": "USD",
+      "discount_pct": 48.9,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81Z9le0f2sL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FRNRPT1L/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20066328",
+      "published_at": "2026-09-30T16:16:08+00:00",
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
+    },
+    {
+      "asin": "B0F94FMBYW",
+      "title": "DEWALT 20V MAX XR Brushless Cordless 1/2 in. Drill/Driver (Tool Only) (DCD801B) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 109.22,
+      "price_old": 179.0,
+      "currency": "USD",
+      "discount_pct": 39.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21730383.thumb",
+      "url": "https://amazon.com/dp/B0F94FMBYW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20068848",
+      "published_at": "2026-09-30T16:16:08+00:00",
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
+    },
+    {
+      "asin": "B0G648BQ9F",
+      "title": "Ecarke Cordless 3.2 GPM Fuel Transfer Pump (DeWalt 20V & Milwaukee 18V Compatible, Tool Only)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 37.98,
+      "price_old": 59.99,
+      "currency": "USD",
+      "discount_pct": 36.7,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "PNOXIDJ7",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71yXCqaKWfL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0G648BQ9F/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20075844",
+      "published_at": "2026-09-30T16:16:08+00:00",
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
+    },
+    {
+      "asin": "B0DPGP6XNB",
+      "title": "Annie's Disney Moana Shapes Cheddar Mac & Cheese, 6 oz Organic Pasta Featuring Moana, Pua and Maui Pasta, 8g Whole Grain Per Serving~$1.11 After Coupon & S&S @ Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.11,
+      "price_old": 1.59,
+      "currency": "USD",
+      "discount_pct": 30.2,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/1/7/2/9/6/9/0/450x450/21726183.thumb",
+      "url": "https://amazon.com/dp/B0DPGP6XNB/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20066829",
+      "published_at": "2026-09-30T16:16:08+00:00",
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
+    },
     {
       "asin": "B07KG2G152",
       "title": "Transcend MTS430S SATA III M.2 2242 Internal SSD 128GB, 3D NAND with DRAM Cache + Free Shipping",
@@ -199,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20077794",
       "published_at": "2026-09-30T14:31:08+00:00",
-      "revalidated_at": "2026-09-30T14:31:08+00:00"
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
     },
     {
       "asin": "B09H7C4NPV",
@@ -221,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20078682",
       "published_at": "2026-09-30T14:31:08+00:00",
-      "revalidated_at": "2026-09-30T14:31:08+00:00"
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
     },
     {
       "asin": "B0BGMNJC58",
@@ -1013,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20076171",
       "published_at": "2026-09-30T00:46:08+00:00",
-      "revalidated_at": "2026-09-30T14:31:08+00:00"
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
     },
     {
       "asin": "B0BKTS39DL",
@@ -1475,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20071104",
       "published_at": "2026-09-29T19:16:34+00:00",
-      "revalidated_at": "2026-09-30T14:31:08+00:00"
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
     },
     {
       "asin": "B005VOOUE2",
@@ -1497,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20072475",
       "published_at": "2026-09-29T19:16:34+00:00",
-      "revalidated_at": "2026-09-30T14:31:08+00:00"
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
     },
     {
       "asin": "B01MUHP51S",
@@ -1519,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20070789",
       "published_at": "2026-09-29T19:02:47+00:00",
-      "revalidated_at": "2026-09-30T14:31:08+00:00"
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
     },
     {
       "asin": "B0GDWMYWYW",
@@ -1651,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20075022",
       "published_at": "2026-09-29T17:16:32+00:00",
-      "revalidated_at": "2026-09-30T14:31:08+00:00"
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
     },
     {
       "asin": "B0F8NT5BB6",
@@ -1673,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20057790",
       "published_at": "2026-09-29T17:16:32+00:00",
-      "revalidated_at": "2026-09-30T14:31:08+00:00"
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
     },
     {
       "asin": "B0GR8JSQMS",
@@ -2157,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20064030",
       "published_at": "2026-09-29T12:46:38+00:00",
-      "revalidated_at": "2026-09-30T14:16:06+00:00"
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
     },
     {
       "asin": "B0CGW6XZGT",
@@ -2201,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20072328",
       "published_at": "2026-09-29T10:45:44+00:00",
-      "revalidated_at": "2026-09-30T14:16:06+00:00"
+      "revalidated_at": "2026-09-30T16:16:08+00:00"
     },
     {
       "asin": "B008U7SL8I",
@@ -2532,94 +2642,6 @@
       "deal_key": "sd:20070231",
       "published_at": "2026-09-29T06:02:17+00:00",
       "revalidated_at": "2026-09-30T15:45:51+00:00"
-    },
-    {
-      "asin": "B01DDA824E",
-      "title": "Bosch 2\" Starlock OSL200FS High-Carbon Steel Flexible Scraper Oscillating Blade",
-      "title_es": "Hoja rascadora oscilante flexible Bosch Starlock OSL200FS de acero al carbono de 2\"",
-      "headline": null,
-      "post": "Esta hoja rascadora oscilante Bosch de acero al carbono es ideal para trabajos de raspado flexibles en superficies variadas. Es un accesorio versátil para herramientas multiusos, perfecto para renovaciones o reparaciones domésticas.",
-      "post_en": "This Bosch oscillating scraper blade made of high-carbon steel is ideal for flexible scraping tasks on various surfaces. It's a versatile accessory for multi-tools, perfect for home renovations or repairs.",
-      "price_new": 8.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 74.3,
-      "rating": 4.4,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/41j4giHRtGL._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B01DDA824E/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20060472",
-      "published_at": "2026-09-29T04:17:10+00:00",
-      "revalidated_at": "2026-09-30T15:45:51+00:00"
-    },
-    {
-      "asin": "B0DJ1BLDC4",
-      "title": "834-Pc LEGO Disney Lilo and Stitch Beach House",
-      "title_es": "LEGO Disney Lilo and Stitch Beach House de 834 piezas",
-      "headline": null,
-      "post": "Este set de LEGO Disney recrea la divertida casa de playa de Lilo y Stitch, ideal para fans de la película y constructores de todas las edades. Incluye 834 piezas para horas de diversión creativa y exhibición. 🏖️",
-      "post_en": "This LEGO Disney set recreates Lilo and Stitch's fun beach house, perfect for movie fans and builders of all ages. It includes 834 pieces for hours of creative fun and display. 🏖️",
-      "price_new": 60.99,
-      "price_old": 89.99,
-      "currency": "USD",
-      "discount_pct": 32.2,
-      "rating": 4.9,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81HQeLornGL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DJ1BLDC4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20069715",
-      "published_at": "2026-09-29T03:46:46+00:00",
-      "revalidated_at": "2026-09-30T15:45:51+00:00"
-    },
-    {
-      "asin": "B0DZ1MVM72",
-      "title": "45L Hilomon Carry-On Duffle Bag w/ Shoe Compartment & Wet-Dry Pocket (Black)",
-      "title_es": "Bolsa de viaje Hilomon de 45L con compartimento para zapatos y bolsillo húmedo-seco (Negra)",
-      "headline": null,
-      "post": "Esta bolsa de viaje Hilomon de 45L es perfecta como equipaje de mano, con un diseño espacioso y funcional. Incluye un compartimento para zapatos y un bolsillo húmedo-seco, ideal para organizar tus pertenencias en cualquier escapada.",
-      "post_en": "This 45L Hilomon carry-on duffle bag is perfect for travel, featuring a spacious and functional design. It includes a dedicated shoe compartment and a wet-dry pocket, ideal for organizing your belongings on any trip.",
-      "price_new": 12.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 64.3,
-      "rating": 4.4,
-      "condition": "prime",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/91CwyhjhxWL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DZ1MVM72/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20072049",
-      "published_at": "2026-09-29T03:16:53+00:00",
-      "revalidated_at": "2026-09-30T15:01:01+00:00"
-    },
-    {
-      "asin": "B09QHBLG59",
-      "title": "[Prime] 3-Pack 16-Cup Rubbermaid Brilliance Airtight Food Storage Containers w/ Lids & Scoops",
-      "title_es": "Pack de 3 recipientes herméticos Rubbermaid Brilliance de 16 tazas con tapas y cucharas",
-      "headline": null,
-      "post": "Este pack de 3 recipientes Rubbermaid Brilliance de 16 tazas ofrece una solución hermética para almacenar alimentos. Son ideales para mantener la frescura y la organización en tu cocina, incluyendo tapas y cucharas dosificadoras.",
-      "post_en": "This 3-pack of 16-cup Rubbermaid Brilliance containers provides an airtight solution for food storage. They are perfect for maintaining freshness and organization in your kitchen, including lids and scoops.",
-      "price_new": 29.99,
-      "price_old": 46.08,
-      "currency": "USD",
-      "discount_pct": 34.9,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71MWolcPSDL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09QHBLG59/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20072109",
-      "published_at": "2026-09-29T03:16:53+00:00",
-      "revalidated_at": "2026-09-30T15:01:01+00:00"
     }
   ]
 }
