@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T11:01:07+00:00",
+  "generated_at": "2026-09-30T11:15:58+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0GS9MJVBC",
@@ -80,16 +80,16 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 80.0,
-      "rating": null,
+      "rating": 4.2,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/7/9/2/9/3/0/2/450x450/21737649.thumb",
+      "image": "https://m.media-amazon.com/images/I/91ZN1r3BwgL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GS51K7WN/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20071011",
       "published_at": "2026-09-30T09:15:56+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B0GC5MCH2M",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20075343",
       "published_at": "2026-09-29T20:02:25+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B016DCVC8C",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20057472",
       "published_at": "2026-09-29T18:01:59+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B09BVRWP37",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20071872",
       "published_at": "2026-09-29T18:01:59+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B00JKSQ1D8",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20072025",
       "published_at": "2026-09-29T16:01:58+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B0DSVKLNQR",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20061600",
       "published_at": "2026-09-29T16:01:58+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B087V2RJD3",
@@ -1224,11 +1224,11 @@
       "price_old": 10.99,
       "currency": "USD",
       "discount_pct": 81.9,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21746109.thumb",
+      "image": "https://m.media-amazon.com/images/I/91++JtDz2bL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B087V2RJD3/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20074119",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20071044",
       "published_at": "2026-09-29T14:16:29+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B0HF4DVHGJ",
@@ -1915,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20060484",
       "published_at": "2026-09-29T06:15:25+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B0B1997R9L",
@@ -1937,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20070231",
       "published_at": "2026-09-29T06:02:17+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B01DDA824E",
@@ -1959,29 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20060472",
       "published_at": "2026-09-29T04:17:10+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
-    },
-    {
-      "asin": "B0BF5F3JJT",
-      "title": "MAXPOWER 2-Piece Groove Joint Pliers Set (8\" & 12\")",
-      "title_es": "Juego de 2 alicates de pico de loro MAXPOWER (8\" y 12\")",
-      "headline": null,
-      "post": "Este juego de dos alicates de pico de loro MAXPOWER, de 8 y 12 pulgadas, es esencial para tareas de fontanería y mecánica. Ofrece un agarre seguro y ajustable, ideal para cualquier caja de herramientas doméstica.",
-      "post_en": "This MAXPOWER 2-piece groove joint pliers set, including 8\" and 12\" sizes, is essential for plumbing and mechanical tasks. It offers a secure, adjustable grip, perfect for any home toolbox.",
-      "price_new": 12.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 62.9,
-      "rating": 4.5,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71OQVkIGK9L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0BF5F3JJT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20068425",
-      "published_at": "2026-09-29T04:17:10+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B0DJ1BLDC4",
@@ -2003,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20069715",
       "published_at": "2026-09-29T03:46:46+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B0DZ1MVM72",
@@ -2311,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20053002",
       "published_at": "2026-09-29T01:16:46+00:00",
-      "revalidated_at": "2026-09-30T09:01:22+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B0GC52TTPT",
@@ -2509,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20071137",
       "published_at": "2026-09-28T23:31:57+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B0FSTLXF9W",
@@ -2531,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20055849",
       "published_at": "2026-09-28T23:16:45+00:00",
-      "revalidated_at": "2026-09-30T09:15:56+00:00"
+      "revalidated_at": "2026-09-30T11:15:58+00:00"
     },
     {
       "asin": "B0HFR4C6JS",
