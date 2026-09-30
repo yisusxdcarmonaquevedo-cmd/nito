@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-30T23:31:07+00:00",
+  "generated_at": "2026-09-30T23:46:01+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0DQF6GRT8",
+      "title": "Split Fiction (PlayStation 5) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 32.49,
+      "price_old": 49.99,
+      "currency": "USD",
+      "discount_pct": 35.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21756510.thumb",
+      "url": "https://amazon.com/dp/B0DQF6GRT8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20077803",
+      "published_at": "2026-09-30T23:46:01+00:00",
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
+    },
     {
       "asin": "B075QRWRYP",
       "title": "213-Piece LEGO Classic Creative Suitcase Building Kit",
@@ -397,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20074833",
       "published_at": "2026-09-30T21:45:58+00:00",
-      "revalidated_at": "2026-09-30T21:45:58+00:00"
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
     },
     {
       "asin": "B0F18YCFDL",
@@ -419,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20079456",
       "published_at": "2026-09-30T21:45:58+00:00",
-      "revalidated_at": "2026-09-30T21:45:58+00:00"
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
     },
     {
       "asin": "B0HGM2M3LH",
@@ -730,28 +752,6 @@
       "revalidated_at": "2026-09-30T22:01:02+00:00"
     },
     {
-      "asin": "B0F1W3Y93Y",
-      "title": "Beats USB-C to USB-C Woven Cable (1.5 m, 5 ft) - Bolt Black at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 7.6,
-      "price_old": 18.99,
-      "currency": "USD",
-      "discount_pct": 60.0,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61bsvA3wpVL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F1W3Y93Y/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20079888",
-      "published_at": "2026-09-30T20:00:53+00:00",
-      "revalidated_at": "2026-09-30T21:45:58+00:00"
-    },
-    {
       "asin": "B0GHVHF2HN",
       "title": "MOKiN 3-in-1 10000mAh 40W Portable Charger w/ Built-In USB-C Cable & LCD Display",
       "title_es": null,
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20079786",
       "published_at": "2026-09-30T20:00:53+00:00",
-      "revalidated_at": "2026-09-30T21:45:58+00:00"
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
     },
     {
       "asin": "B0HDRWGZC2",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20078940",
       "published_at": "2026-09-30T20:00:53+00:00",
-      "revalidated_at": "2026-09-30T21:45:58+00:00"
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
     },
     {
       "asin": "B0DJ1C6VP4",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20078889",
       "published_at": "2026-09-30T20:00:53+00:00",
-      "revalidated_at": "2026-09-30T21:45:58+00:00"
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
     },
     {
       "asin": "B0H5F91KGX",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20079063",
       "published_at": "2026-09-30T19:45:47+00:00",
-      "revalidated_at": "2026-09-30T21:31:01+00:00"
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
     },
     {
       "asin": "B0GHNT577H",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20075649",
       "published_at": "2026-09-30T14:01:06+00:00",
-      "revalidated_at": "2026-09-30T21:31:01+00:00"
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
     },
     {
       "asin": "B001554V0O",
@@ -1585,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20077086",
       "published_at": "2026-09-30T14:01:06+00:00",
-      "revalidated_at": "2026-09-30T21:31:01+00:00"
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
     },
     {
       "asin": "B0CRFQ5BZT",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20073885",
       "published_at": "2026-09-30T14:01:06+00:00",
-      "revalidated_at": "2026-09-30T21:31:01+00:00"
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
     },
     {
       "asin": "B0GK5X8V5T",
@@ -1849,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20078133",
       "published_at": "2026-09-30T11:46:12+00:00",
-      "revalidated_at": "2026-09-30T21:31:01+00:00"
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
     },
     {
       "asin": "B0BQLB237Z",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20078082",
       "published_at": "2026-09-30T11:46:12+00:00",
-      "revalidated_at": "2026-09-30T21:31:01+00:00"
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
     },
     {
       "asin": "B0CF8B6LNH",
@@ -1893,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20070543",
       "published_at": "2026-09-30T11:46:12+00:00",
-      "revalidated_at": "2026-09-30T21:31:01+00:00"
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
     },
     {
       "asin": "B0F6N5XTG3",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20077614",
       "published_at": "2026-09-30T10:01:02+00:00",
-      "revalidated_at": "2026-09-30T21:31:01+00:00"
+      "revalidated_at": "2026-09-30T23:46:01+00:00"
     },
     {
       "asin": "B0GS51K7WN",
@@ -2618,28 +2618,6 @@
       "url": "https://amazon.com/dp/B0DYDK38YD/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20073537",
-      "published_at": "2026-09-29T20:02:25+00:00",
-      "revalidated_at": "2026-09-30T23:01:03+00:00"
-    },
-    {
-      "asin": "1465481753",
-      "title": "[Prime] Knowledge Encyclopedia History!: World History as You've Never Seen It Before Hardcover Book",
-      "title_es": "Libro de tapa dura Knowledge Encyclopedia History!: World History as You've Never Seen It Before",
-      "headline": null,
-      "post": "Descubre la historia mundial de una forma visual y atractiva con este libro de tapa dura Knowledge Encyclopedia History!. Es ideal para curiosos de todas las edades que buscan aprender sobre el pasado de manera didáctica.",
-      "post_en": "Explore world history in a visually engaging way with this hardcover book, Knowledge Encyclopedia History!. It's perfect for curious minds of all ages looking to learn about the past didactically.",
-      "price_new": 8.98,
-      "price_old": 24.99,
-      "currency": "USD",
-      "discount_pct": 64.1,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/91JtJrChitL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/1465481753/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20075343",
       "published_at": "2026-09-29T20:02:25+00:00",
       "revalidated_at": "2026-09-30T23:01:03+00:00"
     }
