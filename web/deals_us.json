@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-30T16:31:05+00:00",
+  "generated_at": "2026-09-30T16:45:52+00:00",
   "market": "us",
   "count": 118,
   "deals": [
+    {
+      "asin": "B0FF3ZQ93L",
+      "title": "Heated Knee Massager, 3 Heat & Vibration Settings for Knee, Shoulder, and Elbow,",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 22.54,
+      "price_old": 50.1,
+      "currency": "USD",
+      "discount_pct": 55.0,
+      "rating": 4.5,
+      "condition": "code",
+      "code": "OV6GILRA",
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71+xBj5XHnL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FF3ZQ93L/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20076663",
+      "published_at": "2026-09-30T16:45:52+00:00",
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
+    },
     {
       "asin": "B0713RRTSF",
       "title": "Bosch OSL350SPD Starlock Oscillating Multi-Tool Delta Sanding Pad",
@@ -36,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 78.1,
-      "rating": null,
+      "rating": 4.7,
       "condition": "code",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/4/2/9/3/0/8/450x450/21740115.thumb",
+      "image": "https://m.media-amazon.com/images/I/61ndYvsG5eL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DSHX5PC7/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20071851",
@@ -102,11 +124,11 @@
       "price_old": 179.0,
       "currency": "USD",
       "discount_pct": 39.0,
-      "rating": null,
+      "rating": 4.2,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21730383.thumb",
+      "image": "https://m.media-amazon.com/images/I/61dB0pP3+tL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F94FMBYW/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20068848",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20054334",
       "published_at": "2026-09-30T13:00:36+00:00",
-      "revalidated_at": "2026-09-30T15:01:01+00:00"
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
     },
     {
       "asin": "B07SRJWYB6",
@@ -771,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20057127",
       "published_at": "2026-09-30T11:01:07+00:00",
-      "revalidated_at": "2026-09-30T15:01:01+00:00"
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
     },
     {
       "asin": "B0DT7CSHPV",
@@ -881,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20071389",
       "published_at": "2026-09-30T05:16:18+00:00",
-      "revalidated_at": "2026-09-30T15:01:01+00:00"
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
     },
     {
       "asin": "B0FW53BTB4",
@@ -1013,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20072376",
       "published_at": "2026-09-30T01:31:18+00:00",
-      "revalidated_at": "2026-09-30T15:01:01+00:00"
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
     },
     {
       "asin": "B09NRTPW7M",
@@ -1035,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20056719",
       "published_at": "2026-09-30T01:31:18+00:00",
-      "revalidated_at": "2026-09-30T15:01:01+00:00"
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
     },
     {
       "asin": "B07H8PYVRX",
@@ -1343,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20076144",
       "published_at": "2026-09-29T21:31:27+00:00",
-      "revalidated_at": "2026-09-30T14:46:06+00:00"
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
     },
     {
       "asin": "B0B6Y7L7GP",
@@ -1541,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20075715",
       "published_at": "2026-09-29T19:31:52+00:00",
-      "revalidated_at": "2026-09-30T14:46:06+00:00"
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
     },
     {
       "asin": "B0D91KN7KP",
@@ -2204,28 +2226,6 @@
       "revalidated_at": "2026-09-30T16:31:05+00:00"
     },
     {
-      "asin": "B0GFCSYT37",
-      "title": "30L Tolaccea 15.6\" Carry On Laptop Backpack (Sky Mist)",
-      "title_es": "Mochila de portátil de viaje 30L Tolaccea 15.6\" (Sky Mist)",
-      "headline": null,
-      "post": "Esta mochila Tolaccea de 30L es ideal para llevar tu portátil de 15.6\" y tus pertenencias en viajes cortos o para el día a día. Su diseño compacto y capacidad la hacen perfecta para estudiantes o profesionales en movimiento. 🎒",
-      "post_en": "This 30L Tolaccea backpack is ideal for carrying your 15.6\" laptop and belongings on short trips or daily commutes. Its compact design and capacity make it perfect for students or professionals on the go. 🎒",
-      "price_new": 20.69,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 40.9,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "T1150OFF",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81jVsGBWZEL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GFCSYT37/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20073108",
-      "published_at": "2026-09-29T13:16:22+00:00",
-      "revalidated_at": "2026-09-30T14:46:06+00:00"
-    },
-    {
       "asin": "B08T1Z4PD1",
       "title": "Refurb: NETGEAR Nighthawk RAX43 5-Stream AX5 WiFi 6 Wireless Router at Amazon",
       "title_es": "Router inalámbrico NETGEAR Nighthawk RAX43 5-Stream AX5 WiFi 6 (Reacondicionado)",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20073369",
       "published_at": "2026-09-29T11:30:54+00:00",
-      "revalidated_at": "2026-09-30T14:46:06+00:00"
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
     },
     {
       "asin": "B099MSZX25",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20067843",
       "published_at": "2026-09-29T09:16:06+00:00",
-      "revalidated_at": "2026-09-30T14:46:06+00:00"
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
     },
     {
       "asin": "B00AFPVO9Q",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20072940",
       "published_at": "2026-09-29T07:30:24+00:00",
-      "revalidated_at": "2026-09-30T14:46:06+00:00"
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
     },
     {
       "asin": "B09FP387V2",
@@ -2487,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20070933",
       "published_at": "2026-09-29T07:15:27+00:00",
-      "revalidated_at": "2026-09-30T14:46:06+00:00"
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
     },
     {
       "asin": "B0DXFLRCVF",
@@ -2509,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20071866",
       "published_at": "2026-09-29T07:00:35+00:00",
-      "revalidated_at": "2026-09-30T14:46:06+00:00"
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
     },
     {
       "asin": "B0FJ2W61WD",
@@ -2531,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20071125",
       "published_at": "2026-09-29T07:00:35+00:00",
-      "revalidated_at": "2026-09-30T14:46:06+00:00"
+      "revalidated_at": "2026-09-30T16:45:52+00:00"
     },
     {
       "asin": "B0DG93MZCR",
