@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-01T22:15:46+00:00",
+  "generated_at": "2026-10-01T22:30:39+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B0727R5C5Q",
+      "title": "Amazon ~ Friskies Gravy Swirlers 3.15lb bag",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.41,
+      "price_old": 56.0,
+      "currency": "USD",
+      "discount_pct": 93.9,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/4/5/4/0/6/3/450x450/21775803.thumb",
+      "url": "https://amazon.com/dp/B0727R5C5Q/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20085387",
+      "published_at": "2026-10-01T22:30:39+00:00",
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
+    },
     {
       "asin": "B0GJZBVXRN",
       "title": "12-Count JandCase 180° Rotating Mini Lens LED Night Lights w/ Dusk-to-Dawn Sensor (3 Color Temperatures, Dimmable)",
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20062302",
       "published_at": "2026-10-01T20:45:52+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
     },
     {
       "asin": "B0CCRM9TPM",
@@ -375,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20084949",
       "published_at": "2026-10-01T20:45:52+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
     },
     {
       "asin": "B0GT8955K4",
@@ -397,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20085057",
       "published_at": "2026-10-01T20:45:52+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
     },
     {
       "asin": "B0DQ69SSZD",
@@ -419,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20080779",
       "published_at": "2026-10-01T20:45:52+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
     },
     {
       "asin": "B0F8N92BVJ",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20084619",
       "published_at": "2026-10-01T18:45:56+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
     },
     {
       "asin": "B0FDVNJ8ST",
@@ -991,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20083242",
       "published_at": "2026-10-01T16:45:54+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
     },
     {
       "asin": "B0CGHWXVRT",
@@ -1343,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20082078",
       "published_at": "2026-10-01T14:45:59+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
     },
     {
       "asin": "B07M82PNSX",
@@ -1387,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20081916",
       "published_at": "2026-10-01T14:31:02+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
     },
     {
       "asin": "B091KSJRDT",
@@ -1409,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20082519",
       "published_at": "2026-10-01T14:31:02+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
     },
     {
       "asin": "B0GTTV51M7",
@@ -1654,28 +1676,6 @@
       "revalidated_at": "2026-10-01T21:46:00+00:00"
     },
     {
-      "asin": "B0DM1STHCN",
-      "title": "2-Pk INIU 30W GaN Mini USB-C/A Wall Chargers w/ 2x 5' USB-C Cables (Black)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 8.25,
-      "price_old": 17.99,
-      "currency": "USD",
-      "discount_pct": 54.1,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81tEzBPWlNL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DM1STHCN/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20082423",
-      "published_at": "2026-10-01T12:45:50+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
-    },
-    {
       "asin": "B0FCLQH55F",
       "title": "[Prime] 3.44' Minetom Trunk or Treat Inflatable T-Rex w/ LEDs (Green)",
       "title_es": null,
@@ -1739,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20081841",
       "published_at": "2026-10-01T12:15:53+00:00",
-      "revalidated_at": "2026-10-01T20:31:25+00:00"
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
     },
     {
       "asin": "B0CTJTL1VS",
@@ -1849,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20081868",
       "published_at": "2026-10-01T10:15:45+00:00",
-      "revalidated_at": "2026-10-01T20:31:25+00:00"
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
     },
     {
       "asin": "B01N9ZJXZJ",
@@ -1915,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20080650",
       "published_at": "2026-10-01T08:15:58+00:00",
-      "revalidated_at": "2026-10-01T20:31:25+00:00"
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
     },
     {
       "asin": "B00BBXJH2C",
@@ -1937,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20081847",
       "published_at": "2026-10-01T08:15:58+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:30:39+00:00"
     },
     {
       "asin": "B0DY7J8HPQ",
