@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-01T19:16:05+00:00",
+  "generated_at": "2026-10-01T19:30:47+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0CKM1DZJJ",
+      "title": "BOSCH GBH18V-22N 18V Brushless SDS-plus Bulldog 3/4\" Rotary Hammer (Bare Tool) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 139.0,
+      "price_old": 229.0,
+      "currency": "USD",
+      "discount_pct": 39.3,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21774903.thumb",
+      "url": "https://amazon.com/dp/B0CKM1DZJJ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20084934",
+      "published_at": "2026-10-01T19:30:47+00:00",
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
+    },
     {
       "asin": "B079T6HZXK",
       "title": "24-Pack Nissin Top Ramen Instant Noodles (Shrimp Flavor) at Amazon (30￠ each)",
@@ -14,11 +36,11 @@
       "price_old": 13.99,
       "currency": "USD",
       "discount_pct": 48.5,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21766944.thumb",
+      "image": "https://m.media-amazon.com/images/I/71oYugoh-ML._SL1200_.jpg",
       "url": "https://amazon.com/dp/B079T6HZXK/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20081769",
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20074251",
       "published_at": "2026-10-01T17:30:50+00:00",
-      "revalidated_at": "2026-10-01T17:30:50+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B0FMY556GK",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20083884",
       "published_at": "2026-10-01T17:30:50+00:00",
-      "revalidated_at": "2026-10-01T17:30:50+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B09Z6LJFX4",
@@ -309,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20084142",
       "published_at": "2026-10-01T17:30:50+00:00",
-      "revalidated_at": "2026-10-01T17:30:50+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B0GCTN51LN",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20083323",
       "published_at": "2026-10-01T15:31:07+00:00",
-      "revalidated_at": "2026-10-01T17:30:50+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B0FWR3P1FT",
@@ -1057,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20076312",
       "published_at": "2026-10-01T13:31:01+00:00",
-      "revalidated_at": "2026-10-01T17:30:50+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B0092K7C1O",
@@ -1101,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20082807",
       "published_at": "2026-10-01T13:16:01+00:00",
-      "revalidated_at": "2026-10-01T17:15:59+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B0FYH1G96N",
@@ -1893,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20080368",
       "published_at": "2026-10-01T01:16:08+00:00",
-      "revalidated_at": "2026-10-01T17:15:59+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B0GGTZB2FT",
@@ -1959,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20077803",
       "published_at": "2026-09-30T23:46:01+00:00",
-      "revalidated_at": "2026-10-01T17:15:59+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B075QRWRYP",
@@ -1981,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20074515",
       "published_at": "2026-09-30T23:31:07+00:00",
-      "revalidated_at": "2026-10-01T17:15:59+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B0FWT3N122",
@@ -2003,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20079975",
       "published_at": "2026-09-30T23:31:07+00:00",
-      "revalidated_at": "2026-10-01T17:15:59+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B0FCF15XZV",
@@ -2025,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20076240",
       "published_at": "2026-09-30T23:31:07+00:00",
-      "revalidated_at": "2026-10-01T17:15:59+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B0CN9RT5T4",
@@ -2333,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20074833",
       "published_at": "2026-09-30T21:45:58+00:00",
-      "revalidated_at": "2026-10-01T17:15:59+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B0F18YCFDL",
@@ -2355,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20079456",
       "published_at": "2026-09-30T21:45:58+00:00",
-      "revalidated_at": "2026-10-01T17:15:59+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B0HGM2M3LH",
@@ -2377,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20078820",
       "published_at": "2026-09-30T21:31:01+00:00",
-      "revalidated_at": "2026-10-01T17:15:59+00:00"
+      "revalidated_at": "2026-10-01T19:30:47+00:00"
     },
     {
       "asin": "B071CNQ3TG",
@@ -2618,28 +2640,6 @@
       "url": "https://amazon.com/dp/B09NDZ41M1/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20077809",
-      "published_at": "2026-09-30T20:15:47+00:00",
-      "revalidated_at": "2026-10-01T17:45:48+00:00"
-    },
-    {
-      "asin": "B0DHLHQKQ4",
-      "title": "732-Pc LEGO Technic Chevrolet Corvette Stingray Building Set at Amazon",
-      "title_es": "Set de Construcción LEGO Technic Chevrolet Corvette Stingray de 732 Piezas",
-      "headline": null,
-      "post": "Construye una réplica detallada del Chevrolet Corvette Stingray con este set LEGO Technic de 732 piezas. Un desafío de construcción gratificante para entusiastas de los coches y fans de LEGO. 🚗",
-      "post_en": "Build a detailed replica of the Chevrolet Corvette Stingray with this 732-piece LEGO Technic building set. A rewarding construction challenge for car enthusiasts and LEGO fans. 🚗",
-      "price_new": 41.99,
-      "price_old": 59.99,
-      "currency": "USD",
-      "discount_pct": 30.0,
-      "rating": 4.9,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/810qnPKsqBL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DHLHQKQ4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20074740",
       "published_at": "2026-09-30T20:15:47+00:00",
       "revalidated_at": "2026-10-01T17:45:48+00:00"
     }
