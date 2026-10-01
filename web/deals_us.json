@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-01T22:30:39+00:00",
+  "generated_at": "2026-10-01T22:45:40+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B09JQ46FHD",
+      "title": "12-Pack Uni-Ball One 0.7mm Medium Point Retractable Gel Pens, Black",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 0.83,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 97.6,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/3/5/6/4/5/1/8/7/450x450/21777033.thumb",
+      "url": "https://amazon.com/dp/B09JQ46FHD/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20085843",
+      "published_at": "2026-10-01T22:45:40+00:00",
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
+    },
+    {
+      "asin": "B0FCDD5V97",
+      "title": "Funko POP! Star Wars: The Mandalorian Official Coloring Book",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 10.9,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 68.9,
+      "rating": 5.0,
+      "condition": "prime",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/81HY2fhcvrL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FCDD5V97/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20081121",
+      "published_at": "2026-10-01T22:45:40+00:00",
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
+    },
+    {
+      "asin": "B0F334DN9J",
+      "title": "Roborock Q7 L5 Robot Vacuum & Mop Combo w/ 8,000Pa Suction",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 140.0,
+      "price_old": 249.99,
+      "currency": "USD",
+      "discount_pct": 44.0,
+      "rating": 4.5,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61T3QADwWuL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0F334DN9J/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20078934",
+      "published_at": "2026-10-01T22:45:40+00:00",
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
+    },
     {
       "asin": "B0727R5C5Q",
       "title": "Amazon ~ Friskies Gravy Swirlers 3.15lb bag",
@@ -312,28 +378,6 @@
       "revalidated_at": "2026-10-01T21:15:42+00:00"
     },
     {
-      "asin": "B0H7XJBJ4N",
-      "title": "Amazon – Rategist 3-in-1 IPX7 Electric Razor for Men -",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 15.89,
-      "price_old": 39.99,
-      "currency": "USD",
-      "discount_pct": 60.3,
-      "rating": null,
-      "condition": "code",
-      "code": "OX66SEMP",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21773526.thumb",
-      "url": "https://amazon.com/dp/B0H7XJBJ4N/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20084319",
-      "published_at": "2026-10-01T21:00:45+00:00",
-      "revalidated_at": "2026-10-01T21:00:45+00:00"
-    },
-    {
       "asin": "B007NVSTO8",
       "title": "DEWALT 20V MAX Circular Saw, Cordless Sidewinder Style Portable, 6-1/2-Inch Blade, 5150 RPM, 0-50 Degree Bevel Capability, Battery Not Included (DCS391B) at Amazon",
       "title_es": null,
@@ -353,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20083953",
       "published_at": "2026-10-01T21:00:45+00:00",
-      "revalidated_at": "2026-10-01T21:00:45+00:00"
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
     },
     {
       "asin": "B081PFJ5H7",
@@ -639,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20083728",
       "published_at": "2026-10-01T19:01:04+00:00",
-      "revalidated_at": "2026-10-01T21:00:45+00:00"
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
     },
     {
       "asin": "B0GXYFQ1P5",
@@ -661,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20083392",
       "published_at": "2026-10-01T19:01:04+00:00",
-      "revalidated_at": "2026-10-01T21:00:45+00:00"
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
     },
     {
       "asin": "B0FD3LM285",
@@ -969,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20083956",
       "published_at": "2026-10-01T17:00:55+00:00",
-      "revalidated_at": "2026-10-01T21:00:45+00:00"
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
     },
     {
       "asin": "B09HHD9X2K",
@@ -991,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20083446",
       "published_at": "2026-10-01T17:00:55+00:00",
-      "revalidated_at": "2026-10-01T21:00:45+00:00"
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
     },
     {
       "asin": "B0FT3BK2B5",
@@ -1981,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20059383",
       "published_at": "2026-10-01T06:15:41+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
     },
     {
       "asin": "B0FSJWF93D",
@@ -2091,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20072505",
       "published_at": "2026-10-01T02:46:07+00:00",
-      "revalidated_at": "2026-10-01T21:00:45+00:00"
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
     },
     {
       "asin": "B0G51YB43V",
@@ -2113,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20080782",
       "published_at": "2026-10-01T02:46:07+00:00",
-      "revalidated_at": "2026-10-01T21:00:45+00:00"
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
     },
     {
       "asin": "B08YJW3XZD",
@@ -2157,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20080239",
       "published_at": "2026-10-01T02:31:09+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
     },
     {
       "asin": "B0DSJS5T21",
@@ -2179,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20080740",
       "published_at": "2026-10-01T02:31:09+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
     },
     {
       "asin": "B0CDZ551WS",
@@ -2201,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20080809",
       "published_at": "2026-10-01T02:31:09+00:00",
-      "revalidated_at": "2026-10-01T20:45:52+00:00"
+      "revalidated_at": "2026-10-01T22:45:40+00:00"
     },
     {
       "asin": "B0DTKJ17PF",
@@ -2576,50 +2620,6 @@
       "deal_key": "sd:20080302",
       "published_at": "2026-09-30T23:01:03+00:00",
       "revalidated_at": "2026-10-01T21:15:42+00:00"
-    },
-    {
-      "asin": "B0DRW5T4GQ",
-      "title": "299 Pcs LEGO Harry Potter Fawkes: Dumbledore’s Phoenix Kids Toy (76448)",
-      "title_es": "Juguete LEGO Harry Potter Fawkes: El Fénix de Dumbledore de 299 piezas (76448)",
-      "headline": null,
-      "post": "Construye el majestuoso Fawkes, el fénix de Dumbledore, con este set LEGO Harry Potter de 299 piezas (76448). Es un regalo fantástico para fans de Harry Potter que disfrutan del montaje y la exposición. ✨",
-      "post_en": "Build the majestic Fawkes, Dumbledore's phoenix, with this 299-piece LEGO Harry Potter set (76448). It's a fantastic gift for Harry Potter fans who enjoy building and displaying models. ✨",
-      "price_new": 16.09,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 54.0,
-      "rating": 4.9,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81yRfZmjx5L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DRW5T4GQ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20078616",
-      "published_at": "2026-09-30T22:45:59+00:00",
-      "revalidated_at": "2026-10-01T21:00:45+00:00"
-    },
-    {
-      "asin": "B0H3CP8F3W",
-      "title": "Hyperkin Captain+ Wired Hall Effect Controller for N64/M64 at Amazon",
-      "title_es": "Mando con cable Hyperkin Captain+ Hall Effect para N64/M64",
-      "headline": null,
-      "post": "Este mando Hyperkin Captain+ ofrece una experiencia de juego mejorada para N64/M64 con tecnología Hall Effect. Es ideal para jugadores que buscan precisión y durabilidad en sus sesiones retro.🎮",
-      "post_en": "This Hyperkin Captain+ controller offers an enhanced gaming experience for N64/M64 with Hall Effect technology. It's ideal for gamers seeking precision and durability in their retro sessions.🎮",
-      "price_new": 20.77,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 30.7,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21752355.thumb",
-      "url": "https://amazon.com/dp/B0H3CP8F3W/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20076210",
-      "published_at": "2026-09-30T22:45:59+00:00",
-      "revalidated_at": "2026-10-01T21:00:45+00:00"
     }
   ]
 }
