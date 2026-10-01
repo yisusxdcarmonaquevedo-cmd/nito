@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-01T17:15:59+00:00",
+  "generated_at": "2026-10-01T17:30:50+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B094D3K2W9",
+      "title": "$9.46 PRIME ONLY Amazon Basics  Alkaline 12 AA and 12 AAA Batteries for Storage",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.46,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 84.2,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/21746409.thumb",
+      "url": "https://amazon.com/dp/B094D3K2W9/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20074251",
+      "published_at": "2026-10-01T17:30:50+00:00",
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
+    },
+    {
+      "asin": "B0FMY556GK",
+      "title": "4-Count FLYRUIT Apple Find My Bluetooth Tracker Tags (iOS Only, MFi Certified, White)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 71.5,
+      "rating": null,
+      "condition": "code",
+      "code": "TTVB99GR",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/21772389.thumb",
+      "url": "https://amazon.com/dp/B0FMY556GK/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20083884",
+      "published_at": "2026-10-01T17:30:50+00:00",
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
+    },
+    {
+      "asin": "B09Z6LJFX4",
+      "title": "Depointer Life Rechargable LED Lighted Face Gesture Transforming Mask",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 15.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 54.3,
+      "rating": 4.6,
+      "condition": "code",
+      "code": "83YLYTZP",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81ioV6rTD4L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09Z6LJFX4/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20084142",
+      "published_at": "2026-10-01T17:30:50+00:00",
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
+    },
     {
       "asin": "B0GCTN51LN",
       "title": "VEVOR 5.5'x4'x5.1\" Tri-Fold Bouldering Crash Pad w/ Backpack Straps & Waist Belt",
@@ -36,11 +102,11 @@
       "price_old": 325.0,
       "currency": "USD",
       "discount_pct": 44.6,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21772803.thumb",
+      "image": "https://m.media-amazon.com/images/I/81PVpQnIOAL._AC_SL1475_.jpg",
       "url": "https://amazon.com/dp/B071X4XP2S/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20083995",
@@ -419,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20083323",
       "published_at": "2026-10-01T15:31:07+00:00",
-      "revalidated_at": "2026-10-01T15:31:07+00:00"
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
     },
     {
       "asin": "B0FWR3P1FT",
@@ -771,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20076312",
       "published_at": "2026-10-01T13:31:01+00:00",
-      "revalidated_at": "2026-10-01T15:31:07+00:00"
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
     },
     {
       "asin": "B0092K7C1O",
@@ -837,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20082558",
       "published_at": "2026-10-01T13:16:01+00:00",
-      "revalidated_at": "2026-10-01T15:16:04+00:00"
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
     },
     {
       "asin": "B0DM1STHCN",
@@ -1651,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20079813",
       "published_at": "2026-09-30T23:59:13+00:00",
-      "revalidated_at": "2026-10-01T15:16:04+00:00"
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
     },
     {
       "asin": "B0DQF6GRT8",
@@ -1962,28 +2028,6 @@
       "revalidated_at": "2026-10-01T15:31:07+00:00"
     },
     {
-      "asin": "B0D8QQXDL2",
-      "title": "COOFANDY Mens Polar Fleece Shacket Long Sleeve Casual Button Shirt Jacket",
-      "title_es": "Chaqueta camisera de forro polar COOFANDY para hombre, manga larga y botones",
-      "headline": null,
-      "post": "Esta chaqueta camisera de forro polar COOFANDY para hombre combina la comodidad de una camisa con la calidez de una chaqueta. Es una prenda casual versátil, perfecta para el entretiempo o como capa adicional en climas fríos.🧥",
-      "post_en": "This COOFANDY Mens Polar Fleece Shacket Long Sleeve Casual Button Shirt Jacket combines the comfort of a shirt with the warmth of a jacket. It's a versatile casual garment, perfect for transitional weather or as an extra layer in cold climates.🧥",
-      "price_new": 9.99,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 66.7,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/2/5/4/6/2/4/450x450/21763059.thumb",
-      "url": "https://amazon.com/dp/B0D8QQXDL2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20078976",
-      "published_at": "2026-09-30T22:01:02+00:00",
-      "revalidated_at": "2026-10-01T15:16:04+00:00"
-    },
-    {
       "asin": "B0FZZJ9MS6",
       "title": "WORKPRO 4-Piece 1/4\" Hex Quick-Release Magnetic Drill Bit Extension Set (2-3/8\", 4\", 6\", 12\")",
       "title_es": "Set de 4 extensiones magnéticas WORKPRO de liberación rápida para brocas hexagonales de 1/4\"",
@@ -2003,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20077791",
       "published_at": "2026-09-30T22:01:02+00:00",
-      "revalidated_at": "2026-10-01T15:16:04+00:00"
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
     },
     {
       "asin": "B0GYJFKWGL",
@@ -2025,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20078952",
       "published_at": "2026-09-30T22:01:02+00:00",
-      "revalidated_at": "2026-10-01T15:16:04+00:00"
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
     },
     {
       "asin": "B0F6YGMBJD",
@@ -2135,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20079480",
       "published_at": "2026-09-30T21:31:01+00:00",
-      "revalidated_at": "2026-10-01T15:16:04+00:00"
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
     },
     {
       "asin": "B0B8Y5VY45",
@@ -2157,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20079726",
       "published_at": "2026-09-30T21:31:01+00:00",
-      "revalidated_at": "2026-10-01T15:16:04+00:00"
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
     },
     {
       "asin": "B0DB86TWRJ",
@@ -2179,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20079525",
       "published_at": "2026-09-30T21:31:01+00:00",
-      "revalidated_at": "2026-10-01T15:16:04+00:00"
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
     },
     {
       "asin": "B007FSHN9G",
@@ -2399,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20079786",
       "published_at": "2026-09-30T20:00:53+00:00",
-      "revalidated_at": "2026-10-01T15:16:04+00:00"
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
     },
     {
       "asin": "B0HDRWGZC2",
@@ -2421,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20078940",
       "published_at": "2026-09-30T20:00:53+00:00",
-      "revalidated_at": "2026-10-01T15:16:04+00:00"
+      "revalidated_at": "2026-10-01T17:30:50+00:00"
     },
     {
       "asin": "B0DJ1C6VP4",
@@ -2576,72 +2620,6 @@
       "deal_key": "sd:20076753",
       "published_at": "2026-09-30T19:31:15+00:00",
       "revalidated_at": "2026-10-01T15:31:07+00:00"
-    },
-    {
-      "asin": "B00HUU13Y0",
-      "title": "How Google Works (eBook) by Eric Schmidt, Jonathan Rosenberg",
-      "title_es": "eBook \"How Google Works\" de Eric Schmidt y Jonathan Rosenberg",
-      "headline": null,
-      "post": "Descubre los secretos del éxito de Google con este eBook escrito por Eric Schmidt y Jonathan Rosenberg. Es una lectura esencial para emprendedores y cualquier persona interesada en la cultura empresarial innovadora.",
-      "post_en": "Discover the secrets behind Google's success with this eBook by Eric Schmidt and Jonathan Rosenberg. It's essential reading for entrepreneurs and anyone interested in innovative business culture.",
-      "price_new": 1.99,
-      "price_old": 12.99,
-      "currency": "USD",
-      "discount_pct": 84.7,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21758196.thumb",
-      "url": "https://amazon.com/dp/B00HUU13Y0/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20078460",
-      "published_at": "2026-09-30T19:15:54+00:00",
-      "revalidated_at": "2026-10-01T16:45:54+00:00"
-    },
-    {
-      "asin": "B0GFN8Z5T8",
-      "title": "Amazon – Uineer Tri-Mode Wireless Mouse -",
-      "title_es": "Ratón inalámbrico Uineer Tri-Mode",
-      "headline": null,
-      "post": "El ratón inalámbrico Uineer Tri-Mode ofrece conectividad versátil para adaptarse a cualquier configuración. Es un periférico cómodo y eficiente para trabajar o navegar en tu ordenador.",
-      "post_en": "The Uineer Tri-Mode Wireless Mouse offers versatile connectivity to suit any setup. It's a comfortable and efficient peripheral for working or browsing on your computer.",
-      "price_new": 10.28,
-      "price_old": 21.99,
-      "currency": "USD",
-      "discount_pct": 53.3,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "U7450928",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71uBWKORyUL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GFN8Z5T8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20078991",
-      "published_at": "2026-09-30T19:15:54+00:00",
-      "revalidated_at": "2026-10-01T17:00:55+00:00"
-    },
-    {
-      "asin": "B09JNRXJD6",
-      "title": "Tea Cup Glass Coffee Enamels Mug",
-      "title_es": "Taza de café de cristal esmaltado",
-      "headline": null,
-      "post": "Esta taza de café de cristal esmaltado es una pieza elegante y única para disfrutar de tus bebidas favoritas. Su diseño artístico la convierte en un regalo encantador o un toque especial para tu hogar.",
-      "post_en": "This enamel glass coffee cup is an elegant and unique piece for enjoying your favorite beverages. Its artistic design makes it a lovely gift or a special touch for your home.",
-      "price_new": 4.99,
-      "price_old": 11.99,
-      "currency": "USD",
-      "discount_pct": 58.4,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21758898.thumb",
-      "url": "https://amazon.com/dp/B09JNRXJD6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20078679",
-      "published_at": "2026-09-30T19:00:58+00:00",
-      "revalidated_at": "2026-10-01T16:45:54+00:00"
     }
   ]
 }
