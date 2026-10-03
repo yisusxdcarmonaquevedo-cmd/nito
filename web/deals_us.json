@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-03T13:17:58+00:00",
+  "generated_at": "2026-10-03T13:30:56+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0DHCT8YDN",
+      "title": "Amazon Buy SUNLU PLA+2.0 3D Printer Filament, Black, 1KG",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.99,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 75.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+      "url": "https://amazon.com/dp/B0DHCT8YDN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20092338",
+      "published_at": "2026-10-03T13:30:56+00:00",
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
+    },
     {
       "asin": "B0D47NNPCF",
       "title": "DeWALT Atomic Compact Series Push & Flip Folding Utility Knife at Amazon",
@@ -133,29 +155,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20074047",
       "published_at": "2026-10-03T11:45:58+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
-    },
-    {
-      "asin": "B0D5MV1S5W",
-      "title": "Amazon – RAPSAKEMOH Wooden Bread Bow Knife -",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 5.49,
-      "price_old": 10.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.7,
-      "condition": "code",
-      "code": "Z1XER9OF",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61yhnxAJApL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D5MV1S5W/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20064042",
-      "published_at": "2026-10-03T11:45:58+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
     },
     {
       "asin": "B0HCLTP51G",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20091321",
       "published_at": "2026-10-03T09:45:54+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
     },
     {
       "asin": "B0H46R5KYR",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20088924",
       "published_at": "2026-10-03T00:16:24+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
     },
     {
       "asin": "B0B7JRZ6LX",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20070150",
       "published_at": "2026-10-03T00:16:24+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
     },
     {
       "asin": "B0FPWW9TPR",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20088588",
       "published_at": "2026-10-03T00:16:24+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
     },
     {
       "asin": "B09RX45W14",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20089605",
       "published_at": "2026-10-02T22:16:38+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
     },
     {
       "asin": "B0FWJJTPH5",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20089620",
       "published_at": "2026-10-02T20:15:42+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
     },
     {
       "asin": "B0CSYRRHN5",
@@ -1431,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20089143",
       "published_at": "2026-10-02T20:15:42+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
     },
     {
       "asin": "B0FD7PD58L",
@@ -1629,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20083680",
       "published_at": "2026-10-02T18:30:38+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
     },
     {
       "asin": "B0GHM9NNZT",
@@ -1651,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20088594",
       "published_at": "2026-10-02T18:30:38+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
     },
     {
       "asin": "B0H3PKK1GF",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20089227",
       "published_at": "2026-10-02T18:30:38+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
     },
     {
       "asin": "B0F3X74WT9",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20084430",
       "published_at": "2026-10-02T18:30:38+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
     },
     {
       "asin": "B0CSFJR66V",
@@ -2267,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20087808",
       "published_at": "2026-10-02T14:04:46+00:00",
-      "revalidated_at": "2026-10-03T11:45:58+00:00"
+      "revalidated_at": "2026-10-03T13:30:56+00:00"
     },
     {
       "asin": "B0GSFTCD2P",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20087379",
       "published_at": "2026-10-02T09:31:07+00:00",
       "revalidated_at": "2026-10-03T13:17:58+00:00"
-    },
-    {
-      "asin": "0593548442",
-      "title": "Dune Messiah: Deluxe Edition by Frank Herbert (Hardcover Book)",
-      "title_es": "Dune Messiah: Edición Deluxe de Frank Herbert (Libro de Tapa Dura)",
-      "headline": null,
-      "post": "Continúa la épica saga de Arrakis con \"Dune Messiah\", la segunda novela de Frank Herbert, en una impresionante edición de tapa dura deluxe. Una lectura esencial para los fans de la ciencia ficción que desean explorar el destino de Paul Atreides tras los eventos de \"Dune\".",
-      "post_en": "Continue the epic Arrakis saga with \"Dune Messiah,\" Frank Herbert's second novel, presented in a stunning deluxe hardcover edition. An essential read for science fiction fans eager to explore the fate of Paul Atreides after the events of \"Dune.\"",
-      "price_new": 16.0,
-      "price_old": 50.0,
-      "currency": "USD",
-      "discount_pct": 68.0,
-      "rating": 4.4,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/91IKm0A+qBL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/0593548442/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20082507",
-      "published_at": "2026-10-02T08:31:00+00:00",
-      "revalidated_at": "2026-10-03T13:15:53+00:00"
     }
   ]
 }
