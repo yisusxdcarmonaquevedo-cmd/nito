@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-04T16:46:44+00:00",
+  "generated_at": "2026-10-04T17:01:55+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B09ZWKD9TF",
+      "title": "SteelSeries Arctis Nova Pro Wireless Xbox Multi-System Gaming Headset at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 249.99,
+      "price_old": 379.99,
+      "currency": "USD",
+      "discount_pct": 34.2,
+      "rating": 4.2,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61tbnDlGHaL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09ZWKD9TF/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20096622",
+      "published_at": "2026-10-04T17:01:55+00:00",
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
+    },
     {
       "asin": "B0DM8Y3QJ8",
       "title": "Amazon – Rechargeable Silicone Axolotl Night Light -",
@@ -168,11 +190,11 @@
       "price_old": 19.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": "coupon",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21745845.thumb",
+      "image": "https://m.media-amazon.com/images/I/81o28ytpgbL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B074CCZQWW/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20073999",
@@ -332,28 +354,6 @@
       "deal_key": "sd:20096115",
       "published_at": "2026-10-04T15:16:52+00:00",
       "revalidated_at": "2026-10-04T15:16:52+00:00"
-    },
-    {
-      "asin": "B0FJ76RSN5",
-      "title": "Amazon – ETIKEZ PM290C Mini Sticker Printer w/ 3 Rolls -",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.99,
-      "price_old": 18.99,
-      "currency": "USD",
-      "discount_pct": 47.4,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "MOVAEFXK",
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81pqBzCJUiL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FJ76RSN5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20096097",
-      "published_at": "2026-10-04T15:02:25+00:00",
-      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B003XQEVUI",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20094645",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T15:02:25+00:00"
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
     },
     {
       "asin": "B0DJ1BTW9H",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095668",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T15:02:25+00:00"
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
     },
     {
       "asin": "B0DRW5NFHG",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095518",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T15:02:25+00:00"
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
     },
     {
       "asin": "B0BTTSFDNK",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20068545",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T15:02:25+00:00"
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
     },
     {
       "asin": "B0BS1PRC4L",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095653",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T15:02:25+00:00"
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
     },
     {
       "asin": "B08BWKBTMN",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20094351",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T15:02:25+00:00"
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
     },
     {
       "asin": "B0DS2TSWP1",
@@ -1761,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20086629",
       "published_at": "2026-10-04T04:31:27+00:00",
-      "revalidated_at": "2026-10-04T14:46:41+00:00"
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
     },
     {
       "asin": "B0B3LGW2KH",
@@ -1783,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20094240",
       "published_at": "2026-10-04T04:31:27+00:00",
-      "revalidated_at": "2026-10-04T14:46:41+00:00"
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
     },
     {
       "asin": "B0CFGYFCYL",
@@ -1959,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20094027",
       "published_at": "2026-10-04T02:43:41+00:00",
-      "revalidated_at": "2026-10-04T14:46:41+00:00"
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
     },
     {
       "asin": "B08T782TVH",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20085018",
       "published_at": "2026-10-04T02:43:41+00:00",
-      "revalidated_at": "2026-10-04T14:46:41+00:00"
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
     },
     {
       "asin": "B0HJLXSWRQ",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20093427",
       "published_at": "2026-10-04T00:46:40+00:00",
-      "revalidated_at": "2026-10-04T14:46:41+00:00"
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
     },
     {
       "asin": "B0B941W753",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20093331",
       "published_at": "2026-10-04T00:46:40+00:00",
-      "revalidated_at": "2026-10-04T14:46:41+00:00"
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
     },
     {
       "asin": "B0718XFT6J",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20093532",
       "published_at": "2026-10-04T00:46:40+00:00",
-      "revalidated_at": "2026-10-04T14:46:41+00:00"
+      "revalidated_at": "2026-10-04T17:01:55+00:00"
     },
     {
       "asin": "B0H42L8QNQ",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20087010",
       "published_at": "2026-10-03T20:00:50+00:00",
       "revalidated_at": "2026-10-04T15:46:43+00:00"
-    },
-    {
-      "asin": "B0H7HPY5SY",
-      "title": "Amazon – AIRHAS Women's Wide-Toe-Box Walking Shoes -",
-      "title_es": "Zapatillas de Caminar de Mujer AIRHAS con Puntera Ancha",
-      "headline": null,
-      "post": "Las zapatillas de caminar AIRHAS para mujer están diseñadas con una puntera ancha para ofrecer máxima comodidad y espacio a tus pies. Son ideales para quienes buscan un calzado ergonómico y confortable para largas caminatas o el uso diario. 🚶‍♀️",
-      "post_en": "AIRHAS women's walking shoes are designed with a wide toe box to provide maximum comfort and space for your feet. They are ideal for those seeking ergonomic and comfortable footwear for long walks or daily wear. 🚶‍♀️",
-      "price_new": 29.39,
-      "price_old": 48.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "1TRD4XS2",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/81GKu+69UnL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H7HPY5SY/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20093025",
-      "published_at": "2026-10-03T19:15:57+00:00",
-      "revalidated_at": "2026-10-04T15:16:52+00:00"
     }
   ]
 }
