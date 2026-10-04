@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-04T14:46:41+00:00",
+  "generated_at": "2026-10-04T15:02:25+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0FJ76RSN5",
+      "title": "Amazon – ETIKEZ PM290C Mini Sticker Printer w/ 3 Rolls -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.99,
+      "price_old": 18.99,
+      "currency": "USD",
+      "discount_pct": 47.4,
+      "rating": 4.6,
+      "condition": "code",
+      "code": "MOVAEFXK",
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81pqBzCJUiL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FJ76RSN5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20096097",
+      "published_at": "2026-10-04T15:02:25+00:00",
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
+    },
     {
       "asin": "B003XQEVUI",
       "title": "Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves (eBook) by Andrew Ross Sorkin",
@@ -102,11 +124,11 @@
       "price_old": 6.99,
       "currency": "USD",
       "discount_pct": 85.8,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21799407.thumb",
+      "image": "https://m.media-amazon.com/images/I/81+6jnrj5kL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B000UVBT18/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20095845",
@@ -595,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20094645",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T13:02:31+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B0DJ1BTW9H",
@@ -617,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095668",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T13:02:31+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B0DRW5NFHG",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095518",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T13:02:31+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B0BTTSFDNK",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20068545",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T13:02:31+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B0BS1PRC4L",
@@ -683,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095653",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T13:02:31+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B08BWKBTMN",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20094351",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T13:02:31+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B0DS2TSWP1",
@@ -727,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095689",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T13:02:31+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B0DRW7WRX3",
@@ -749,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095440",
       "published_at": "2026-10-04T13:02:31+00:00",
-      "revalidated_at": "2026-10-04T13:02:31+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B0DS1XWRW3",
@@ -1343,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20089914",
       "published_at": "2026-10-04T08:46:10+00:00",
-      "revalidated_at": "2026-10-04T13:02:31+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B0FGHRC9KH",
@@ -1651,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20092731",
       "published_at": "2026-10-04T02:46:30+00:00",
-      "revalidated_at": "2026-10-04T13:02:31+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B000VS5NNK",
@@ -1959,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20092890",
       "published_at": "2026-10-04T01:01:49+00:00",
-      "revalidated_at": "2026-10-04T13:02:31+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B0FJ25MN3Z",
@@ -1981,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20085726",
       "published_at": "2026-10-04T01:01:49+00:00",
-      "revalidated_at": "2026-10-04T13:02:31+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "1465437886",
@@ -2245,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20069025",
       "published_at": "2026-10-03T21:02:19+00:00",
-      "revalidated_at": "2026-10-04T13:02:31+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B0DSZ9P85N",
@@ -2531,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20092827",
       "published_at": "2026-10-03T17:15:52+00:00",
-      "revalidated_at": "2026-10-04T12:46:47+00:00"
+      "revalidated_at": "2026-10-04T15:02:25+00:00"
     },
     {
       "asin": "B085VM9ZDD",
@@ -2618,28 +2640,6 @@
       "url": "https://amazon.com/dp/B00EVG674W/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20092482",
-      "published_at": "2026-10-03T15:31:06+00:00",
-      "revalidated_at": "2026-10-04T13:16:38+00:00"
-    },
-    {
-      "asin": "B0D25VKZXZ",
-      "title": "LANDOT 2 in 1 Hair Straightener and Curler, Twist Flat Iron Dual Voltage 1\"",
-      "title_es": "LANDOT plancha de pelo 2 en 1 y rizador, Twist Flat Iron Dual Voltage 1\"",
-      "headline": null,
-      "post": "Esta herramienta LANDOT 2 en 1 te permite alisar o rizar tu cabello con facilidad. Su diseño Twist Flat Iron de 1\" y voltaje dual la hace ideal para viajar. ✨",
-      "post_en": "This LANDOT 2-in-1 tool allows you to straighten or curl your hair with ease. Its 1\" Twist Flat Iron design and dual voltage make it perfect for travel. ✨",
-      "price_new": 19.99,
-      "price_old": 39.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71ZKr7Ee7SL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D25VKZXZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20083683",
       "published_at": "2026-10-03T15:31:06+00:00",
       "revalidated_at": "2026-10-04T13:16:38+00:00"
     }
