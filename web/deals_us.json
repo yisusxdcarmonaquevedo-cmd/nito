@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:17:07+00:00",
+  "generated_at": "2026-10-04T00:33:06+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -221,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20092986",
       "published_at": "2026-10-03T20:30:50+00:00",
-      "revalidated_at": "2026-10-03T22:46:39+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B0FCY4MHGD",
@@ -234,16 +234,16 @@
       "price_old": 5.84,
       "currency": "USD",
       "discount_pct": 40.1,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "MHEO7E2Z",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21773409.thumb",
+      "image": "https://m.media-amazon.com/images/I/511T8PN4hkL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FCY4MHGD/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20084271",
       "published_at": "2026-10-03T20:30:50+00:00",
-      "revalidated_at": "2026-10-03T22:46:39+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B000GB1RAU",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20076051",
       "published_at": "2026-10-03T18:46:01+00:00",
-      "revalidated_at": "2026-10-03T22:46:39+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B0H8CQ4XY4",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20092977",
       "published_at": "2026-10-03T18:46:01+00:00",
-      "revalidated_at": "2026-10-03T22:46:39+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B0CGYFZLFC",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20090145",
       "published_at": "2026-10-03T18:46:01+00:00",
-      "revalidated_at": "2026-10-03T22:46:39+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B01HNAC7J6",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20091681",
       "published_at": "2026-10-03T17:00:47+00:00",
-      "revalidated_at": "2026-10-03T22:46:39+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "0744028922",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20072364",
       "published_at": "2026-10-03T15:01:09+00:00",
-      "revalidated_at": "2026-10-03T22:46:39+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B0FMLMXC1N",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20092011",
       "published_at": "2026-10-03T15:01:09+00:00",
-      "revalidated_at": "2026-10-03T22:46:39+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B0H5RNFNQL",
@@ -661,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20092257",
       "published_at": "2026-10-03T15:01:09+00:00",
-      "revalidated_at": "2026-10-03T22:46:39+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B0FT8VMLGX",
@@ -1018,10 +1018,10 @@
     {
       "asin": "B09QYDQQ7N",
       "title": "What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions (eBook) by Randall Munroe",
-      "title_es": null,
+      "title_es": "What If? 2: Respuestas Científicas Serias Adicionales a Preguntas Hipotéticas Absurdas (eBook) de Randall Munroe",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este eBook de Randall Munroe ofrece respuestas científicas y divertidas a preguntas hipotéticas de lo más absurdas. Es ideal para mentes curiosas y amantes de la ciencia con un toque de humor. 🤓",
+      "post_en": "This eBook by Randall Munroe provides serious and entertaining scientific answers to the most absurd hypothetical questions. It's perfect for curious minds and science enthusiasts with a sense of humor. 🤓",
       "price_new": 1.99,
       "price_old": 4.99,
       "currency": "USD",
@@ -1040,10 +1040,10 @@
     {
       "asin": "B0H46R5KYR",
       "title": "Philips Sonicare 4200 Rechargeable Electric Toothbrush (various)",
-      "title_es": null,
+      "title_es": "Cepillo de Dientes Eléctrico Recargable Philips Sonicare 4200",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El cepillo de dientes eléctrico recargable Philips Sonicare 4200 ofrece una limpieza profunda para una mejor salud bucal. Es perfecto para quienes buscan mejorar su rutina de higiene dental diaria. ✨",
+      "post_en": "The Philips Sonicare 4200 rechargeable electric toothbrush provides a deep clean for improved oral health. It's perfect for anyone looking to upgrade their daily dental hygiene routine. ✨",
       "price_new": 39.95,
       "price_old": 74.99,
       "currency": "USD",
@@ -1062,10 +1062,10 @@
     {
       "asin": "B07BKVN74D",
       "title": "Farberware Stainless Steel Kitchen Shears w/ Faux Wood Handle",
-      "title_es": null,
+      "title_es": "Tijeras de Cocina Farberware de Acero Inoxidable con Mango de Madera Sintética",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estas tijeras de cocina Farberware, fabricadas en acero inoxidable y con mango de madera sintética, son una herramienta versátil y duradera. Ideales para cortar alimentos, hierbas y abrir paquetes con facilidad en tu cocina. 🧑‍🍳",
+      "post_en": "These Farberware kitchen shears, made from stainless steel with a faux wood handle, are a versatile and durable tool. They are ideal for cutting food, herbs, and opening packages with ease in your kitchen. 🧑‍🍳",
       "price_new": 6.0,
       "price_old": 10.7,
       "currency": "USD",
@@ -1541,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20090283",
       "published_at": "2026-10-03T01:16:18+00:00",
-      "revalidated_at": "2026-10-03T22:31:50+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B0HC3BC78M",
@@ -1915,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20090106",
       "published_at": "2026-10-02T21:15:47+00:00",
-      "revalidated_at": "2026-10-03T22:31:50+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B09Q4GWMZQ",
@@ -1937,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20089788",
       "published_at": "2026-10-02T21:15:47+00:00",
-      "revalidated_at": "2026-10-03T22:31:50+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B0HBTV48QD",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20084430",
       "published_at": "2026-10-02T18:30:38+00:00",
-      "revalidated_at": "2026-10-03T22:31:50+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B0CSFJR66V",
@@ -2465,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20087718",
       "published_at": "2026-10-02T17:01:01+00:00",
-      "revalidated_at": "2026-10-03T22:31:50+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B0147JPOUU",
@@ -2487,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20088003",
       "published_at": "2026-10-02T17:01:01+00:00",
-      "revalidated_at": "2026-10-03T22:31:50+00:00"
+      "revalidated_at": "2026-10-04T00:33:06+00:00"
     },
     {
       "asin": "B07PHKTHN7",
