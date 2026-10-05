@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-05T10:31:23+00:00",
+  "generated_at": "2026-10-05T10:46:25+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B007UH4D3G",
+      "title": "Jurassic Park: A Novel (eBook) by Michael Crichton",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.99,
+      "price_old": 9.99,
+      "currency": "USD",
+      "discount_pct": 70.1,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81b2mR9dMWL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B007UH4D3G/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20099985",
+      "published_at": "2026-10-05T10:46:25+00:00",
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
+    },
+    {
+      "asin": "B0CLSCPZG4",
+      "title": "120-Count Double Wood Supplements Creatine Monohydrate 1,000mg Capsules",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.95,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 74.4,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/21805716.thumb",
+      "url": "https://amazon.com/dp/B0CLSCPZG4/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20099076",
+      "published_at": "2026-10-05T10:46:25+00:00",
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
+    },
+    {
+      "asin": "B0BN6RRD5V",
+      "title": "Corsair TC100 Relaxed Leatherette Gaming Chair w/ Lumbar & Memory Foam Neck Pillow (Black) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 134.99,
+      "price_old": 269.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.3,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61q+ybPV2bL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0BN6RRD5V/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20100156",
+      "published_at": "2026-10-05T10:46:25+00:00",
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
+    },
+    {
+      "asin": "B0DK7V23YV",
+      "title": "[S&S] Qunol Turmeric Curcumin 1000mg, Ultra High Absorption Supplement, 240 Count",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 28.49,
+      "price_old": 49.99,
+      "currency": "USD",
+      "discount_pct": 43.0,
+      "rating": null,
+      "condition": "sns",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21795657.thumb",
+      "url": "https://amazon.com/dp/B0DK7V23YV/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20094036",
+      "published_at": "2026-10-05T10:46:25+00:00",
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
+    },
     {
       "asin": "B0BD7JQXBB",
       "title": "SEHMUA 4G LTE Cellular Solar Security Camera Wireless Outdoor, 360° Live View, 2K Color Night Vision, PIR Motion Sensor, Built-in SIM Card",
@@ -14,11 +102,11 @@
       "price_old": 39.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/21806583.thumb",
+      "image": "https://m.media-amazon.com/images/I/714ny1El5gL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BD7JQXBB/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20099502",
@@ -397,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20098329",
       "published_at": "2026-10-05T05:00:35+00:00",
-      "revalidated_at": "2026-10-05T08:45:50+00:00"
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
     },
     {
       "asin": "B0FHHJM4GR",
@@ -683,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20097705",
       "published_at": "2026-10-05T03:00:32+00:00",
-      "revalidated_at": "2026-10-05T08:45:50+00:00"
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
     },
     {
       "asin": "B07NYQNBLH",
@@ -705,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20098188",
       "published_at": "2026-10-05T03:00:32+00:00",
-      "revalidated_at": "2026-10-05T08:45:50+00:00"
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
     },
     {
       "asin": "B0D7QGW67Y",
@@ -727,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20094981",
       "published_at": "2026-10-05T03:00:32+00:00",
-      "revalidated_at": "2026-10-05T08:45:50+00:00"
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
     },
     {
       "asin": "B09Y3WP27V",
@@ -1123,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20096838",
       "published_at": "2026-10-04T23:00:35+00:00",
-      "revalidated_at": "2026-10-05T08:45:50+00:00"
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
     },
     {
       "asin": "B0GZZ63927",
@@ -1321,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095701",
       "published_at": "2026-10-04T21:15:49+00:00",
-      "revalidated_at": "2026-10-05T08:45:50+00:00"
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
     },
     {
       "asin": "B002YCO70G",
@@ -1343,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20093505",
       "published_at": "2026-10-04T21:15:49+00:00",
-      "revalidated_at": "2026-10-05T08:45:50+00:00"
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
     },
     {
       "asin": "B0000DC13R",
@@ -1893,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20092845",
       "published_at": "2026-10-04T17:16:49+00:00",
-      "revalidated_at": "2026-10-05T08:31:06+00:00"
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
     },
     {
       "asin": "B09ZWKD9TF",
@@ -2003,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095938",
       "published_at": "2026-10-04T16:32:00+00:00",
-      "revalidated_at": "2026-10-05T08:31:06+00:00"
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
     },
     {
       "asin": "B0C8RR4WN3",
@@ -2025,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20096640",
       "published_at": "2026-10-04T16:32:00+00:00",
-      "revalidated_at": "2026-10-05T08:31:06+00:00"
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
     },
     {
       "asin": "B0DRW7P7DS",
@@ -2267,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20094594",
       "published_at": "2026-10-04T14:46:41+00:00",
-      "revalidated_at": "2026-10-05T08:31:06+00:00"
+      "revalidated_at": "2026-10-05T10:46:25+00:00"
     },
     {
       "asin": "B003WUYQG4",
@@ -2554,94 +2642,6 @@
       "deal_key": "sd:20095563",
       "published_at": "2026-10-04T14:01:57+00:00",
       "revalidated_at": "2026-10-05T09:46:16+00:00"
-    },
-    {
-      "asin": "B0FMS67MBV",
-      "title": "868-Piece LEGO Harry Potter: Chamber of Secrets - Enchanted Flying Ford Anglia (76470, 2026) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 46.19,
-      "price_old": 79.99,
-      "currency": "USD",
-      "discount_pct": 42.3,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21798741.thumb",
-      "url": "https://amazon.com/dp/B0FMS67MBV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20095416",
-      "published_at": "2026-10-04T14:01:57+00:00",
-      "revalidated_at": "2026-10-05T08:31:06+00:00"
-    },
-    {
-      "asin": "B0DSVKLNQR",
-      "title": "Fanttik NEX E2 Ultra Electric Precision Screwdriver Set w/ 50-Piece S2 Steel Bits (Grey)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 47.97,
-      "price_old": 79.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.4,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71aImxzOWZL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DSVKLNQR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20084376",
-      "published_at": "2026-10-04T13:46:34+00:00",
-      "revalidated_at": "2026-10-05T09:46:16+00:00"
-    },
-    {
-      "asin": "B0BXLM3JSF",
-      "title": "The Complete Poppy War Trilogy: The Poppy War, The Dragon Republic, The Burning God (eBook) by R. F. Kuang",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 3.99,
-      "price_old": 36.99,
-      "currency": "USD",
-      "discount_pct": 89.2,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21796866.thumb",
-      "url": "https://amazon.com/dp/B0BXLM3JSF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20094612",
-      "published_at": "2026-10-04T13:31:55+00:00",
-      "revalidated_at": "2026-10-05T10:01:26+00:00"
-    },
-    {
-      "asin": "B0CKX34X9X",
-      "title": "Amazon – HSHFAMIIY Christmas Make-a-Face Sticker Set -",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 3.59,
-      "price_old": 5.99,
-      "currency": "USD",
-      "discount_pct": 40.1,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "A9LHMSIU",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81Y9U0tXINL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CKX34X9X/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20092974",
-      "published_at": "2026-10-04T13:31:55+00:00",
-      "revalidated_at": "2026-10-05T10:01:26+00:00"
     }
   ]
 }
