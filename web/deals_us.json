@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-06T20:02:07+00:00",
+  "generated_at": "2026-10-06T20:17:12+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "0544273443",
+      "title": "The Lord of the Rings Deluxe Edition (Hardcover Book)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.6,
+      "price_old": 40.0,
+      "currency": "USD",
+      "discount_pct": 51.0,
+      "rating": 4.8,
+      "condition": "prime",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/51t0Z0DfEfL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/0544273443/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20111004",
+      "published_at": "2026-10-06T20:17:12+00:00",
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
+    },
+    {
+      "asin": "B0BW34LCB8",
+      "title": "Sonos Era 100 Wireless Alexa Enabled Smart Speaker (black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 149.0,
+      "price_old": 219.0,
+      "currency": "USD",
+      "discount_pct": 32.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21850368.thumb",
+      "url": "https://amazon.com/dp/B0BW34LCB8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20115201",
+      "published_at": "2026-10-06T20:17:12+00:00",
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
+    },
     {
       "asin": "B09LDF8ZWR",
       "title": "Samsonite Classic Business 2.0 RFID Crossbody Bag",
@@ -199,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20110677",
       "published_at": "2026-10-06T18:17:10+00:00",
-      "revalidated_at": "2026-10-06T18:17:10+00:00"
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
       "asin": "B0DB6QT8K6",
@@ -485,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20106642",
       "published_at": "2026-10-06T16:16:48+00:00",
-      "revalidated_at": "2026-10-06T18:17:10+00:00"
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
       "asin": "B07HDLX9HZ",
@@ -507,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20109246",
       "published_at": "2026-10-06T16:16:48+00:00",
-      "revalidated_at": "2026-10-06T18:17:10+00:00"
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
       "asin": "B0CGXZP4T8",
@@ -837,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20107488",
       "published_at": "2026-10-06T14:31:23+00:00",
-      "revalidated_at": "2026-10-06T18:17:10+00:00"
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
       "asin": "B0D2Y9R8HN",
@@ -1167,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20107752",
       "published_at": "2026-10-06T10:16:03+00:00",
-      "revalidated_at": "2026-10-06T18:17:10+00:00"
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
       "asin": "B0DHLHQKQ4",
@@ -1255,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20105865",
       "published_at": "2026-10-06T10:01:08+00:00",
-      "revalidated_at": "2026-10-06T18:02:34+00:00"
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
       "asin": "B0GRJ59M6Y",
@@ -1277,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20107365",
       "published_at": "2026-10-06T10:01:08+00:00",
-      "revalidated_at": "2026-10-06T18:02:34+00:00"
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
       "asin": "B0G2T1VN17",
@@ -1299,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20107095",
       "published_at": "2026-10-06T10:01:08+00:00",
-      "revalidated_at": "2026-10-06T18:02:34+00:00"
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
       "asin": "B0F1W7B5R1",
@@ -2113,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20105862",
       "published_at": "2026-10-06T03:31:10+00:00",
-      "revalidated_at": "2026-10-06T18:02:34+00:00"
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
       "asin": "B0FV42FCHD",
@@ -2135,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20105841",
       "published_at": "2026-10-06T03:31:10+00:00",
-      "revalidated_at": "2026-10-06T18:02:34+00:00"
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
       "asin": "B07BL7JXHV",
@@ -2157,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20103927",
       "published_at": "2026-10-06T03:31:10+00:00",
-      "revalidated_at": "2026-10-06T18:02:34+00:00"
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
       "asin": "B08T5WPC53",
@@ -2553,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20084346",
       "published_at": "2026-10-05T23:31:08+00:00",
-      "revalidated_at": "2026-10-06T18:02:34+00:00"
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
       "asin": "B0C9SX6G41",
@@ -2575,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20104767",
       "published_at": "2026-10-05T23:31:08+00:00",
-      "revalidated_at": "2026-10-06T18:02:34+00:00"
+      "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
       "asin": "B08P4QMDT8",
@@ -2598,50 +2642,6 @@
       "deal_key": "sd:20104635",
       "published_at": "2026-10-05T23:16:10+00:00",
       "revalidated_at": "2026-10-06T20:02:07+00:00"
-    },
-    {
-      "asin": "B0C8NP63GD",
-      "title": "PETG Filament, 3D Printer Filament 1.75mm 1KG (2.2lbs), Black",
-      "title_es": "Filamento PETG para impresora 3D, 1.75mm 1KG (Negro)",
-      "headline": null,
-      "post": "Este filamento PETG de 1.75mm y 1KG es perfecto para tus proyectos de impresión 3D. Ofrece buena resistencia y facilidad de uso, ideal para creadores de todos los niveles.",
-      "post_en": "This 1.75mm, 1KG PETG filament is perfect for your 3D printing projects. It offers good strength and ease of use, ideal for creators of all levels.",
-      "price_new": 9.63,
-      "price_old": 17.99,
-      "currency": "USD",
-      "discount_pct": 46.5,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71MFrosnTTL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0C8NP63GD/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20103867",
-      "published_at": "2026-10-05T23:01:17+00:00",
-      "revalidated_at": "2026-10-06T19:02:20+00:00"
-    },
-    {
-      "asin": "B0FSDBZBTR",
-      "title": "39\" Garvee 3-Tier Industrial Entryway Table w/ Wood Shelves & Metal Frame",
-      "title_es": "Mesa de entrada industrial Garvee de 39\" con 3 niveles",
-      "headline": null,
-      "post": "Decora tu entrada con esta mesa industrial Garvee de 3 niveles, combinando estantes de madera y estructura metálica. Es ideal para organizar objetos y añadir un toque moderno a tu hogar.",
-      "post_en": "Decorate your entryway with this 39\" Garvee 3-tier industrial table, combining wood shelves and a metal frame. It's ideal for organizing items and adding a modern touch to your home.",
-      "price_new": 54.99,
-      "price_old": 99.99,
-      "currency": "USD",
-      "discount_pct": 45.0,
-      "rating": 4.8,
-      "condition": "code",
-      "code": "IQFC0CFO",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81XBgOoog6L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FSDBZBTR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20104578",
-      "published_at": "2026-10-05T23:01:17+00:00",
-      "revalidated_at": "2026-10-06T19:17:19+00:00"
     }
   ]
 }
