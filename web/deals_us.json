@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T23:46:16+00:00",
+  "generated_at": "2026-10-06T00:02:32+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
     {
       "asin": "B0B1997R9L",
@@ -36,11 +36,11 @@
       "price_old": 18.95,
       "currency": "USD",
       "discount_pct": 89.5,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/3/6/8/6/1/8/450x450/21814491.thumb",
+      "image": "https://m.media-amazon.com/images/I/81E7fuzPXlL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0066B7JWE/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20102466",
@@ -58,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 82.7,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/4/2/9/3/0/8/450x450/21819129.thumb",
+      "image": "https://m.media-amazon.com/images/I/71wDnpdTrlL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D2QKCXSZ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20104212",
@@ -168,11 +168,11 @@
       "price_old": 17.99,
       "currency": "USD",
       "discount_pct": 46.5,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/8/4/0/9/0/5/1/450x450/21820866.thumb",
+      "image": "https://m.media-amazon.com/images/I/71MFrosnTTL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0C8NP63GD/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20103867",
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20104143",
       "published_at": "2026-10-05T22:01:18+00:00",
-      "revalidated_at": "2026-10-05T22:01:18+00:00"
+      "revalidated_at": "2026-10-06T00:02:32+00:00"
     },
     {
       "asin": "B0B6HYSFBF",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20102901",
       "published_at": "2026-10-05T22:01:18+00:00",
-      "revalidated_at": "2026-10-05T22:01:18+00:00"
+      "revalidated_at": "2026-10-06T00:02:32+00:00"
     },
     {
       "asin": "B0DS6LBSRX",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20103228",
       "published_at": "2026-10-05T19:51:52+00:00",
-      "revalidated_at": "2026-10-05T22:01:18+00:00"
+      "revalidated_at": "2026-10-06T00:02:32+00:00"
     },
     {
       "asin": "B0F8NT5BB6",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20103774",
       "published_at": "2026-10-05T19:51:52+00:00",
-      "revalidated_at": "2026-10-05T22:01:18+00:00"
+      "revalidated_at": "2026-10-06T00:02:32+00:00"
     },
     {
       "asin": "B087LXCTFJ",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20099862",
       "published_at": "2026-10-05T19:51:52+00:00",
-      "revalidated_at": "2026-10-05T22:01:18+00:00"
+      "revalidated_at": "2026-10-06T00:02:32+00:00"
     },
     {
       "asin": "B08Q75SVW5",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20102751",
       "published_at": "2026-10-05T17:31:29+00:00",
-      "revalidated_at": "2026-10-05T22:01:18+00:00"
+      "revalidated_at": "2026-10-06T00:02:32+00:00"
     },
     {
       "asin": "B09M93CZYG",
@@ -1013,29 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20100069",
       "published_at": "2026-10-05T17:31:29+00:00",
-      "revalidated_at": "2026-10-05T22:01:18+00:00"
-    },
-    {
-      "asin": "B0BFDZDTJ8",
-      "title": "Persona 5 Royal (PlayStation 5) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 19.99,
-      "price_old": 30.08,
-      "currency": "USD",
-      "discount_pct": 33.5,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21815376.thumb",
-      "url": "https://amazon.com/dp/B0BFDZDTJ8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20102784",
-      "published_at": "2026-10-05T17:31:29+00:00",
-      "revalidated_at": "2026-10-05T22:01:18+00:00"
+      "revalidated_at": "2026-10-06T00:02:32+00:00"
     },
     {
       "asin": "B0GPSFR1Q4",
@@ -1431,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20101446",
       "published_at": "2026-10-05T15:31:56+00:00",
-      "revalidated_at": "2026-10-05T22:01:18+00:00"
+      "revalidated_at": "2026-10-06T00:02:32+00:00"
     },
     {
       "asin": "B000XUDGV2",
@@ -1453,29 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20099991",
       "published_at": "2026-10-05T15:31:56+00:00",
-      "revalidated_at": "2026-10-05T22:01:18+00:00"
-    },
-    {
-      "asin": "B0H9VKQ89T",
-      "title": "2-Piece GEARWRENCH Lineman Screwdriver Set | GWSD2PCSETU",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.5,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61zzDSbp3SL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H9VKQ89T/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20099691",
-      "published_at": "2026-10-05T15:31:56+00:00",
-      "revalidated_at": "2026-10-05T22:01:18+00:00"
+      "revalidated_at": "2026-10-06T00:02:32+00:00"
     },
     {
       "asin": "B0FKNJHYR9",
@@ -1497,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20101230",
       "published_at": "2026-10-05T15:31:56+00:00",
-      "revalidated_at": "2026-10-05T22:01:18+00:00"
+      "revalidated_at": "2026-10-06T00:02:32+00:00"
     },
     {
       "asin": "B0CTMS5NBS",
@@ -1519,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20102154",
       "published_at": "2026-10-05T15:31:56+00:00",
-      "revalidated_at": "2026-10-05T22:01:18+00:00"
+      "revalidated_at": "2026-10-06T00:02:32+00:00"
     },
     {
       "asin": "1465481796",
@@ -2355,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20085525",
       "published_at": "2026-10-05T07:16:05+00:00",
-      "revalidated_at": "2026-10-05T21:46:04+00:00"
+      "revalidated_at": "2026-10-06T00:02:32+00:00"
     },
     {
       "asin": "B0D45QYG31",
@@ -2641,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095401",
       "published_at": "2026-10-05T03:30:26+00:00",
-      "revalidated_at": "2026-10-05T21:46:04+00:00"
+      "revalidated_at": "2026-10-06T00:02:32+00:00"
     }
   ]
 }
