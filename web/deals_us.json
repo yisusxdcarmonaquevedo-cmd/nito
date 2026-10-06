@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-06T01:30:50+00:00",
+  "generated_at": "2026-10-06T01:46:19+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0CH1TQ64Y",
+      "title": "$6.54 S&S PRIME ONLY Amazon Basics Wet Mopping Cloth Refills, Multi-Surface Floor Cleaning, Fresh Scent, Low Streak, Disposable, 24 Count (Fits Swiffer) Buy 4, save more",
+      "title_es": "Recambios de paños húmedos Amazon Basics para fregar, multi-superficie",
+      "headline": null,
+      "post": "Repuestos de paños húmedos Amazon Basics para una limpieza de suelos multi-superficie eficaz y sin esfuerzo. Son desechables, dejan un aroma fresco y son compatibles con sistemas de fregado tipo Swiffer, ideales para mantener tu hogar impecable.",
+      "post_en": "Amazon Basics wet mopping cloth refills for effective and effortless multi-surface floor cleaning. They are disposable, leave a fresh scent, and are compatible with Swiffer-type mopping systems, perfect for keeping your home spotless.",
+      "price_new": 6.54,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 89.1,
+      "rating": 4.6,
+      "condition": "sns",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/7112uRpUlJL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CH1TQ64Y/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20074728",
+      "published_at": "2026-10-06T01:46:19+00:00",
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
+    },
+    {
+      "asin": "B0CXV5W24T",
+      "title": "Contigo Streeterville 40oz Tumbler, Stainless Steel Vacuum Insulated, Leak-Proof, Cold for 29 Hours, Reef",
+      "title_es": "Vaso térmico Contigo Streeterville de 40oz, acero inoxidable",
+      "headline": null,
+      "post": "Este vaso térmico Contigo Streeterville de 40oz, fabricado en acero inoxidable, mantiene tus bebidas frías hasta por 29 horas gracias a su aislamiento al vacío. Su diseño a prueba de fugas lo hace perfecto para llevar tus bebidas favoritas a cualquier parte.",
+      "post_en": "This 40oz Contigo Streeterville tumbler, made of stainless steel, keeps your drinks cold for up to 29 hours thanks to its vacuum insulation. Its leak-proof design makes it perfect for taking your favorite beverages anywhere.",
+      "price_new": 13.52,
+      "price_old": 24.99,
+      "currency": "USD",
+      "discount_pct": 45.9,
+      "rating": 4.5,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61sMnbLD+DL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CXV5W24T/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20104341",
+      "published_at": "2026-10-06T01:46:19+00:00",
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
+    },
+    {
+      "asin": "B0DXP6PPT8",
+      "title": "CMF by Nothing Buds 2 Hybrid Active Noise Cancelling Earbuds at Amazon",
+      "title_es": "Auriculares CMF by Nothing Buds 2 con cancelación de ruido activa híbrida",
+      "headline": null,
+      "post": "Los auriculares CMF by Nothing Buds 2 ofrecen cancelación de ruido activa híbrida para una experiencia de audio inmersiva. Disfruta de tu música y llamadas con claridad, bloqueando el sonido ambiente, ideales para el día a día o viajes. 🎧",
+      "post_en": "The CMF by Nothing Buds 2 earbuds feature hybrid active noise cancelling for an immersive audio experience. Enjoy your music and calls with clarity, blocking ambient sound, perfect for daily use or travel. 🎧",
+      "price_new": 29.0,
+      "price_old": 49.0,
+      "currency": "USD",
+      "discount_pct": 40.8,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21820677.thumb",
+      "url": "https://amazon.com/dp/B0DXP6PPT8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20104746",
+      "published_at": "2026-10-06T01:46:19+00:00",
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
+    },
+    {
+      "asin": "B0DFDSGWHD",
+      "title": "18-Oz Mrs. Meyer's Clean Day Laundry Scent Boosters (Rain Water)",
+      "title_es": "Potenciadores de aroma para la ropa Mrs. Meyer's Clean Day de 18 oz (Rain Water)",
+      "headline": null,
+      "post": "Los potenciadores de aroma para la ropa Mrs. Meyer's Clean Day (Rain Water) añaden una fragancia fresca y duradera a tus coladas. Son ideales para quienes buscan dejar su ropa con un olor agradable y natural después de cada lavado.",
+      "post_en": "Mrs. Meyer's Clean Day Laundry Scent Boosters (Rain Water) add a fresh and long-lasting fragrance to your laundry. They are ideal for those looking to leave their clothes with a pleasant and natural scent after each wash.",
+      "price_new": 7.92,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 77.4,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/9/1/2/6/8/2/450x450/21816237.thumb",
+      "url": "https://amazon.com/dp/B0DFDSGWHD/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20103114",
+      "published_at": "2026-10-06T01:46:19+00:00",
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
+    },
     {
       "asin": "B0CGFCC193",
       "title": "Persona 3 Reload (PlayStation 5) at Amazon",
@@ -89,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20101899",
       "published_at": "2026-10-05T23:46:16+00:00",
-      "revalidated_at": "2026-10-05T23:46:16+00:00"
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
     },
     {
       "asin": "B0066B7JWE",
@@ -111,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20102466",
       "published_at": "2026-10-05T23:46:16+00:00",
-      "revalidated_at": "2026-10-05T23:46:16+00:00"
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
     },
     {
       "asin": "B0D2QKCXSZ",
@@ -837,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095026",
       "published_at": "2026-10-05T19:01:34+00:00",
-      "revalidated_at": "2026-10-05T23:46:16+00:00"
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
     },
     {
       "asin": "B0DQTX16TT",
@@ -1079,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20099679",
       "published_at": "2026-10-05T17:01:33+00:00",
-      "revalidated_at": "2026-10-05T23:46:16+00:00"
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
     },
     {
       "asin": "B08DSSCJHL",
@@ -1101,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20102496",
       "published_at": "2026-10-05T17:01:33+00:00",
-      "revalidated_at": "2026-10-05T23:46:16+00:00"
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
     },
     {
       "asin": "B0G6DNZ4F1",
@@ -1541,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20098539",
       "published_at": "2026-10-05T14:46:28+00:00",
-      "revalidated_at": "2026-10-05T23:46:16+00:00"
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
     },
     {
       "asin": "B076GNS3J4",
@@ -1629,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20099529",
       "published_at": "2026-10-05T13:31:55+00:00",
-      "revalidated_at": "2026-10-05T23:46:16+00:00"
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
     },
     {
       "asin": "B0CTP56C5R",
@@ -1651,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20100366",
       "published_at": "2026-10-05T13:31:55+00:00",
-      "revalidated_at": "2026-10-05T23:46:16+00:00"
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
     },
     {
       "asin": "B0058DRUV6",
@@ -2030,10 +2118,10 @@
     {
       "asin": "B0DK7V23YV",
       "title": "[S&S] Qunol Turmeric Curcumin 1000mg, Ultra High Absorption Supplement, 240 Count",
-      "title_es": null,
+      "title_es": "Qunol Turmeric Curcumin 1000mg, Suplemento de Ultra Alta Absorción, 240 Cápsulas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este suplemento Qunol Turmeric Curcumin de 1000mg ofrece una absorción superior para apoyar la salud articular y la función antiinflamatoria. Es ideal para quienes buscan un apoyo natural y eficaz para su bienestar general.",
+      "post_en": "This Qunol Turmeric Curcumin 1000mg supplement offers ultra-high absorption to support joint health and anti-inflammatory function. It's ideal for those seeking natural and effective support for their overall well-being.",
       "price_new": 28.49,
       "price_old": 49.99,
       "currency": "USD",
@@ -2052,10 +2140,10 @@
     {
       "asin": "B0BD7JQXBB",
       "title": "SEHMUA 4G LTE Cellular Solar Security Camera Wireless Outdoor, 360° Live View, 2K Color Night Vision, PIR Motion Sensor, Built-in SIM Card",
-      "title_es": null,
+      "title_es": "Cámara de Seguridad Solar SEHMUA 4G LTE Inalámbrica Exterior, Visión en Vivo 360°, Visión Nocturna en Color 2K",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La cámara de seguridad solar SEHMUA 4G LTE ofrece vigilancia exterior inalámbrica con visión de 360° y nocturna en color 2K. Perfecta para monitorear propiedades sin acceso a Wi-Fi, gracias a su conectividad celular y panel solar.",
+      "post_en": "The SEHMUA 4G LTE solar security camera provides wireless outdoor surveillance with 360° live view and 2K color night vision. It's perfect for monitoring properties without Wi-Fi access, thanks to its cellular connectivity and solar panel.",
       "price_new": 19.99,
       "price_old": 39.99,
       "currency": "USD",
@@ -2074,10 +2162,10 @@
     {
       "asin": "B005YNPBH0",
       "title": "The Wisdom of Insecurity: A Message for an Age of Anxiety (eBook) by Alan Watts",
-      "title_es": null,
+      "title_es": "The Wisdom of Insecurity: A Message for an Age of Anxiety (eBook) de Alan Watts",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este eBook de Alan Watts explora la sabiduría de aceptar la incertidumbre en un mundo ansioso. Es una lectura esencial para quienes buscan una perspectiva filosófica sobre la tranquilidad mental y el bienestar.",
+      "post_en": "This eBook by Alan Watts explores the wisdom of embracing uncertainty in an anxious world. It's an essential read for those seeking a philosophical perspective on mental tranquility and well-being.",
       "price_new": 1.99,
       "price_old": 14.99,
       "currency": "USD",
@@ -2096,10 +2184,10 @@
     {
       "asin": "B0CBRBVVQR",
       "title": "The Trading Game: A Confession (eBook) by Gary Stevenson",
-      "title_es": null,
+      "title_es": "The Trading Game: A Confession (eBook) de Gary Stevenson",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "\"The Trading Game\" es un eBook de Gary Stevenson que ofrece una confesión reveladora sobre el mundo del trading. Ideal para lectores interesados en las finanzas, la economía y las historias personales detrás de los mercados.",
+      "post_en": "\"The Trading Game\" is an eBook by Gary Stevenson offering a revealing confession about the world of trading. It's ideal for readers interested in finance, economics, and the personal stories behind the markets.",
       "price_new": 1.99,
       "price_old": 11.99,
       "currency": "USD",
@@ -2118,10 +2206,10 @@
     {
       "asin": "B001RKFU4I",
       "title": "The Fourth Turning: What the Cycles of History Tell Us About America's Next Rendezvous with Destiny (eBook) by William Strauss, Neil Howe",
-      "title_es": null,
+      "title_es": "The Fourth Turning: What the Cycles of History Tell Us About America's Next Rendezvous with Destiny (eBook) de William Strauss, Neil Howe",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este eBook de William Strauss y Neil Howe analiza los ciclos históricos para predecir el futuro de América. Es una lectura fascinante para interesados en la historia, la sociología y las proyecciones culturales.",
+      "post_en": "This eBook by William Strauss and Neil Howe analyzes historical cycles to predict America's future. It's a fascinating read for those interested in history, sociology, and cultural projections.",
       "price_new": 1.99,
       "price_old": 9.99,
       "currency": "USD",
@@ -2140,10 +2228,10 @@
     {
       "asin": "B0DBJF8W7R",
       "title": "Monopoly Deal: Harry Potter Card Game at Amazon",
-      "title_es": null,
+      "title_es": "Monopoly Deal: Juego de Cartas de Harry Potter",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Monopoly Deal: Harry Potter es una versión rápida y divertida del clásico juego de mesa, ideal para fans del mundo mágico. Perfecto para noches de juegos en familia o con amigos que disfruten de la estrategia y la magia. 🧙‍♂️",
+      "post_en": "Monopoly Deal: Harry Potter is a fast-paced, fun version of the classic board game, perfect for fans of the wizarding world. It's ideal for family game nights or friends who enjoy strategy and magic. 🧙‍♂️",
       "price_new": 3.36,
       "price_old": 6.99,
       "currency": "USD",
@@ -2162,10 +2250,10 @@
     {
       "asin": "B0DSLRDY7T",
       "title": "12-Pack 12-Oz Celsius Sparkling Sugar Free Energy Drink (Mango Lemonade)",
-      "title_es": null,
+      "title_es": "Pack de 12 Bebidas Energéticas Celsius Sparkling sin Azúcar (Mango Lemonade)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 12 bebidas energéticas Celsius Sparkling sin azúcar, sabor Mango Lemonade, ofrece un impulso refrescante. Ideal para quienes buscan energía sin calorías extra antes del ejercicio o durante el día.",
+      "post_en": "This 12-pack of Celsius Sparkling Sugar Free Energy Drinks, Mango Lemonade flavor, offers a refreshing boost. It's ideal for those seeking extra energy without added calories before exercise or throughout the day.",
       "price_new": 13.27,
       "price_old": 35.0,
       "currency": "USD",
@@ -2184,10 +2272,10 @@
     {
       "asin": "B0GY4GMND2",
       "title": "2-Pack WYZE Cam Pan v4, 4K Smart Home Security Camera System at Amazon",
-      "title_es": null,
+      "title_es": "Pack de 2 Cámaras de Seguridad Inteligentes WYZE Cam Pan v4 4K para el Hogar",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack incluye dos cámaras de seguridad inteligentes WYZE Cam Pan v4 4K con panorámica y zoom para una cobertura completa. Son perfectas para monitorear tu hogar con alta definición y funciones avanzadas de detección.",
+      "post_en": "This 2-pack includes two WYZE Cam Pan v4 4K smart security cameras with pan and zoom for comprehensive coverage. They are perfect for monitoring your home with high definition and advanced detection features.",
       "price_new": 69.98,
       "price_old": 109.98,
       "currency": "USD",
@@ -2206,10 +2294,10 @@
     {
       "asin": "B004IK8Q90",
       "title": "The Phantom Tollbooth (eBook) by Norton Juster",
-      "title_es": null,
+      "title_es": "The Phantom Tollbooth (eBook) de Norton Juster",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "\"The Phantom Tollbooth\" es un eBook clásico de Norton Juster, una aventura fantástica llena de ingenio y juegos de palabras. Es ideal para jóvenes lectores y adultos que disfruten de la creatividad y la exploración del lenguaje.",
+      "post_en": "\"The Phantom Tollbooth\" is a classic eBook by Norton Juster, a fantastic adventure full of wit and wordplay. It's ideal for young readers and adults who enjoy creativity and language exploration.",
       "price_new": 1.99,
       "price_old": 5.99,
       "currency": "USD",
@@ -2228,10 +2316,10 @@
     {
       "asin": "B0BTHL673V",
       "title": "[Prime] Marshall Middleton Portable Bluetooth Speaker (Black & Brass)",
-      "title_es": null,
+      "title_es": "Altavoz Bluetooth Portátil Marshall Middleton (Negro y Latón)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El altavoz portátil Marshall Middleton ofrece un sonido potente y característico de Marshall en un diseño robusto y elegante. Ideal para amantes de la música que buscan alta fidelidad y portabilidad con estilo. 🎶",
+      "post_en": "The Marshall Middleton portable Bluetooth speaker delivers powerful, characteristic Marshall sound in a robust and stylish design. It's ideal for music lovers seeking high fidelity and stylish portability. 🎶",
       "price_new": 149.99,
       "price_old": 319.99,
       "currency": "USD",
@@ -2443,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20094951",
       "published_at": "2026-10-05T04:45:37+00:00",
-      "revalidated_at": "2026-10-05T23:31:08+00:00"
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
     },
     {
       "asin": "B09Y4H2SS2",
@@ -2487,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20098326",
       "published_at": "2026-10-05T04:30:41+00:00",
-      "revalidated_at": "2026-10-05T23:31:08+00:00"
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
     },
     {
       "asin": "B0DG4DSWGX",
@@ -2509,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20096412",
       "published_at": "2026-10-05T04:30:41+00:00",
-      "revalidated_at": "2026-10-05T23:31:08+00:00"
+      "revalidated_at": "2026-10-06T01:46:19+00:00"
     },
     {
       "asin": "B0DTQDLGZ6",
@@ -2554,72 +2642,6 @@
       "deal_key": "sd:20096034",
       "published_at": "2026-10-05T04:15:45+00:00",
       "revalidated_at": "2026-10-06T01:30:50+00:00"
-    },
-    {
-      "asin": "B0H38XC33N",
-      "title": "EUARNE Red Light Therapy for Face, 324 LEDs FDA Cleared",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 55.29,
-      "price_old": 129.99,
-      "currency": "USD",
-      "discount_pct": 57.5,
-      "rating": 4.4,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81y-lyTX8oL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H38XC33N/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20095890",
-      "published_at": "2026-10-05T04:15:45+00:00",
-      "revalidated_at": "2026-10-06T01:30:50+00:00"
-    },
-    {
-      "asin": "B0DRW64PPX",
-      "title": "867-Piece LEGO Minecraft: Minifig-scale - The Enderman Tower (21279, 2025) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 67.19,
-      "price_old": 99.99,
-      "currency": "USD",
-      "discount_pct": 32.8,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21798228.thumb",
-      "url": "https://amazon.com/dp/B0DRW64PPX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20095182",
-      "published_at": "2026-10-05T04:15:45+00:00",
-      "revalidated_at": "2026-10-06T01:30:50+00:00"
-    },
-    {
-      "asin": "B007GYO4P0",
-      "title": "30\" Corona Tools Branch Cutter ComfortGEL Bypass Loppers at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 21.99,
-      "price_old": 57.0,
-      "currency": "USD",
-      "discount_pct": 61.4,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61Y6A8NXGIL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B007GYO4P0/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20097036",
-      "published_at": "2026-10-05T03:45:23+00:00",
-      "revalidated_at": "2026-10-06T00:30:59+00:00"
     }
   ]
 }
