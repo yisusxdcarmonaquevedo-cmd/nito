@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-06T22:17:07+00:00",
+  "generated_at": "2026-10-06T22:32:12+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0FQFH9BST",
+      "title": "Amazon Resale Like New: Apple iPhone Air MagSafe Battery ​​​​​​​",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 34.5,
+      "price_old": 99.0,
+      "currency": "USD",
+      "discount_pct": 65.2,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/41WRCOOfIeL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FQFH9BST/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20116014",
+      "published_at": "2026-10-06T22:32:12+00:00",
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
+    },
+    {
+      "asin": "B09MSJ34R2",
+      "title": "12-pk 12-oz CELSIUS Functional Essential Energy Drink (Sparkling Mango Passionfruit)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.25,
+      "price_old": 19.98,
+      "currency": "USD",
+      "discount_pct": 33.7,
+      "rating": 4.8,
+      "condition": "sns",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81Y9xMViUGL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09MSJ34R2/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20100099",
+      "published_at": "2026-10-06T22:32:12+00:00",
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
+    },
     {
       "asin": "B01LY047AR",
       "title": "Samsonite Freeform 29.8\" Large Hardside Spinner Luggage",
@@ -124,11 +168,11 @@
       "price_old": 37.99,
       "currency": "USD",
       "discount_pct": 46.3,
-      "rating": null,
+      "rating": 4.4,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/3/0/4/6/9/4/2/0/450x450/21849513.thumb",
+      "image": "https://m.media-amazon.com/images/I/81vbu+n9OUL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BWNZT2NZ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20114865",
@@ -463,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20111100",
       "published_at": "2026-10-06T18:47:19+00:00",
-      "revalidated_at": "2026-10-06T20:36:22+00:00"
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
     },
     {
       "asin": "B07LD2NV9X",
@@ -749,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20100579",
       "published_at": "2026-10-06T16:46:30+00:00",
-      "revalidated_at": "2026-10-06T20:36:22+00:00"
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
     },
     {
       "asin": "B0FT995SPF",
@@ -1035,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20112441",
       "published_at": "2026-10-06T15:01:37+00:00",
-      "revalidated_at": "2026-10-06T20:36:22+00:00"
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
     },
     {
       "asin": "B0939MRXDV",
@@ -1057,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20106774",
       "published_at": "2026-10-06T15:01:37+00:00",
-      "revalidated_at": "2026-10-06T20:36:22+00:00"
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
     },
     {
       "asin": "B0CXY1P899",
@@ -1365,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20109135",
       "published_at": "2026-10-06T10:30:59+00:00",
-      "revalidated_at": "2026-10-06T20:36:22+00:00"
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
     },
     {
       "asin": "B0D71SHR5B",
@@ -1387,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20107743",
       "published_at": "2026-10-06T10:30:59+00:00",
-      "revalidated_at": "2026-10-06T20:36:22+00:00"
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
     },
     {
       "asin": "B07RW28RPF",
@@ -1475,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20106618",
       "published_at": "2026-10-06T10:16:03+00:00",
-      "revalidated_at": "2026-10-06T20:32:15+00:00"
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
     },
     {
       "asin": "B0FDB8RKMY",
@@ -1629,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20102091",
       "published_at": "2026-10-06T09:00:54+00:00",
-      "revalidated_at": "2026-10-06T20:36:22+00:00"
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
     },
     {
       "asin": "B0FL939PFL",
@@ -1651,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20107335",
       "published_at": "2026-10-06T08:52:42+00:00",
-      "revalidated_at": "2026-10-06T20:36:22+00:00"
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
     },
     {
       "asin": "B0DV1HTF6K",
@@ -1959,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20106060",
       "published_at": "2026-10-06T06:16:05+00:00",
-      "revalidated_at": "2026-10-06T20:32:15+00:00"
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
     },
     {
       "asin": "B0BSMSYM9N",
@@ -2289,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20105946",
       "published_at": "2026-10-06T04:01:08+00:00",
-      "revalidated_at": "2026-10-06T20:32:15+00:00"
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
     },
     {
       "asin": "B0G6323BLJ",
@@ -2311,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20103288",
       "published_at": "2026-10-06T04:01:08+00:00",
-      "revalidated_at": "2026-10-06T20:32:15+00:00"
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
     },
     {
       "asin": "B0F8SVCMYF",
@@ -2597,29 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20104341",
       "published_at": "2026-10-06T01:46:19+00:00",
-      "revalidated_at": "2026-10-06T20:32:15+00:00"
-    },
-    {
-      "asin": "B0DXP6PPT8",
-      "title": "CMF by Nothing Buds 2 Hybrid Active Noise Cancelling Earbuds at Amazon",
-      "title_es": "Auriculares CMF by Nothing Buds 2 con cancelación de ruido activa híbrida",
-      "headline": null,
-      "post": "Los auriculares CMF by Nothing Buds 2 ofrecen cancelación de ruido activa híbrida para una experiencia de audio inmersiva. Disfruta de tu música y llamadas con claridad, bloqueando el sonido ambiente, ideales para el día a día o viajes. 🎧",
-      "post_en": "The CMF by Nothing Buds 2 earbuds feature hybrid active noise cancelling for an immersive audio experience. Enjoy your music and calls with clarity, blocking ambient sound, perfect for daily use or travel. 🎧",
-      "price_new": 29.0,
-      "price_old": 49.0,
-      "currency": "USD",
-      "discount_pct": 40.8,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21820677.thumb",
-      "url": "https://amazon.com/dp/B0DXP6PPT8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20104746",
-      "published_at": "2026-10-06T01:46:19+00:00",
-      "revalidated_at": "2026-10-06T20:32:15+00:00"
+      "revalidated_at": "2026-10-06T22:32:12+00:00"
     }
   ]
 }
