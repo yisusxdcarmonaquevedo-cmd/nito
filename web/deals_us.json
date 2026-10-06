@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-06T21:17:06+00:00",
+  "generated_at": "2026-10-06T21:32:04+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0GPSYT2KN",
+      "title": "65\" TCL QM8L 144Hz 4K QLED Mini LED Smart TV + 10% Back w/ Prime Visa",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 107.0,
+      "price_old": 932.0,
+      "currency": "USD",
+      "discount_pct": 88.5,
+      "rating": 4.4,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/713qzMeh3XL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GPSYT2KN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20114142",
+      "published_at": "2026-10-06T21:32:04+00:00",
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
+    },
     {
       "asin": "B0F1P8Y3SL",
       "title": "Armor All 8-Compartment Collapsible Car Trunk Organizer",
@@ -180,28 +202,6 @@
       "revalidated_at": "2026-10-06T20:17:12+00:00"
     },
     {
-      "asin": "B09LDF8ZWR",
-      "title": "Samsonite Classic Business 2.0 RFID Crossbody Bag",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 10.0,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 66.7,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71JaXLjAsIL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09LDF8ZWR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20109906",
-      "published_at": "2026-10-06T19:47:49+00:00",
-      "revalidated_at": "2026-10-06T19:47:49+00:00"
-    },
-    {
       "asin": "B0FMS5JG7T",
       "title": "81-Pc LEGO City: Hot Rod Building Set",
       "title_es": null,
@@ -221,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20115864",
       "published_at": "2026-10-06T19:47:49+00:00",
-      "revalidated_at": "2026-10-06T19:47:49+00:00"
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
     },
     {
       "asin": "B08L7RJWTW",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20113671",
       "published_at": "2026-10-06T17:46:56+00:00",
-      "revalidated_at": "2026-10-06T19:47:49+00:00"
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
     },
     {
       "asin": "B0GBVVXK7R",
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20109303",
       "published_at": "2026-10-06T17:46:56+00:00",
-      "revalidated_at": "2026-10-06T19:47:49+00:00"
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
     },
     {
       "asin": "B0BFFZG5N9",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20111832",
       "published_at": "2026-10-06T17:46:56+00:00",
-      "revalidated_at": "2026-10-06T19:47:49+00:00"
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
     },
     {
       "asin": "B0GGRTD2ZY",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20111133",
       "published_at": "2026-10-06T17:46:56+00:00",
-      "revalidated_at": "2026-10-06T19:47:49+00:00"
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
     },
     {
       "asin": "B0DKC8X3PM",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20110731",
       "published_at": "2026-10-06T15:51:37+00:00",
-      "revalidated_at": "2026-10-06T19:47:49+00:00"
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
     },
     {
       "asin": "B0G64G5D1P",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20110824",
       "published_at": "2026-10-06T15:51:37+00:00",
-      "revalidated_at": "2026-10-06T19:47:49+00:00"
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
     },
     {
       "asin": "B0791Y2LMB",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20107356",
       "published_at": "2026-10-06T09:31:05+00:00",
-      "revalidated_at": "2026-10-06T19:32:04+00:00"
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
     },
     {
       "asin": "B0F9WXDLTC",
@@ -1629,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20106234",
       "published_at": "2026-10-06T07:46:16+00:00",
-      "revalidated_at": "2026-10-06T19:32:04+00:00"
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
     },
     {
       "asin": "B0G27P2LGS",
@@ -1651,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20106306",
       "published_at": "2026-10-06T07:46:16+00:00",
-      "revalidated_at": "2026-10-06T19:32:04+00:00"
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
     },
     {
       "asin": "B0FKT8WLQ8",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20082966",
       "published_at": "2026-10-06T07:46:16+00:00",
-      "revalidated_at": "2026-10-06T19:32:04+00:00"
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
     },
     {
       "asin": "B0GD3YFG7K",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20083785",
       "published_at": "2026-10-06T07:46:16+00:00",
-      "revalidated_at": "2026-10-06T19:32:04+00:00"
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
     },
     {
       "asin": "B0FMYY67LH",
@@ -1717,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20106969",
       "published_at": "2026-10-06T07:46:16+00:00",
-      "revalidated_at": "2026-10-06T19:32:04+00:00"
+      "revalidated_at": "2026-10-06T21:32:04+00:00"
     },
     {
       "asin": "B0058Z4NR8",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20101899",
       "published_at": "2026-10-05T23:46:16+00:00",
       "revalidated_at": "2026-10-06T20:32:15+00:00"
-    },
-    {
-      "asin": "B0066B7JWE",
-      "title": "The Dog Who Came to Stay: A Memoir (Kindle ebook)",
-      "title_es": "Ebook Kindle: The Dog Who Came to Stay: A Memoir",
-      "headline": null,
-      "post": "Sumérgete en esta emotiva memoria, \"The Dog Who Came to Stay\", disponible como ebook Kindle. Una lectura conmovedora para amantes de los animales y las historias inspiradoras.",
-      "post_en": "Immerse yourself in this emotional memoir, \"The Dog Who Came to Stay,\" available as a Kindle ebook. A touching read for animal lovers and those who enjoy inspiring stories.",
-      "price_new": 1.99,
-      "price_old": 18.95,
-      "currency": "USD",
-      "discount_pct": 89.5,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81E7fuzPXlL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0066B7JWE/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20102466",
-      "published_at": "2026-10-05T23:46:16+00:00",
-      "revalidated_at": "2026-10-06T20:36:22+00:00"
     }
   ]
 }
