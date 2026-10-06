@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-06T09:31:05+00:00",
+  "generated_at": "2026-10-06T09:46:05+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0F1W7B5R1",
+      "title": "Beats USB-C to USB-C Woven Cable, 8\", Fast Charging, Tangle-Free, Bolt Black at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.6,
+      "price_old": 18.99,
+      "currency": "USD",
+      "discount_pct": 60.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/21823254.thumb",
+      "url": "https://amazon.com/dp/B0F1W7B5R1/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20105811",
+      "published_at": "2026-10-06T09:46:05+00:00",
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
+    },
+    {
+      "asin": "B07MJL8NXR",
+      "title": "[Prime] 12-Pack 11.5-Oz Premier Protein 30g Protein Shakes (Chocolate)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.08,
+      "price_old": 29.64,
+      "currency": "USD",
+      "discount_pct": 52.5,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71Y8GT3GYvL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07MJL8NXR/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20106942",
+      "published_at": "2026-10-06T09:46:05+00:00",
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
+    },
     {
       "asin": "B00K80JKV2",
       "title": "8-Pc Zwilling J.A. Henckels Stainless Steel Steak Knife Set w/ Wooden Case",
@@ -124,11 +168,11 @@
       "price_old": 50.0,
       "currency": "USD",
       "discount_pct": 80.0,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21827628.thumb",
+      "image": "https://m.media-amazon.com/images/I/713QevrrJBL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FL939PFL/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20107335",
@@ -334,28 +378,6 @@
       "revalidated_at": "2026-10-06T08:15:57+00:00"
     },
     {
-      "asin": "B00778B90S",
-      "title": "20-Pk 4.2-Oz Nongshim Shin Ramyun Spicy Ramen Noodle (Beef Flavor)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 10.45,
-      "price_old": 21.24,
-      "currency": "USD",
-      "discount_pct": 50.8,
-      "rating": 4.7,
-      "condition": "coupon",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71hXFniZCVL._SL1200_.jpg",
-      "url": "https://amazon.com/dp/B00778B90S/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20107956",
-      "published_at": "2026-10-06T08:00:52+00:00",
-      "revalidated_at": "2026-10-06T08:00:52+00:00"
-    },
-    {
       "asin": "B0D47NNPCF",
       "title": "DEWALT Atomic Compact Series Push & Flip Folding Utility Knife",
       "title_es": null,
@@ -375,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20106732",
       "published_at": "2026-10-06T08:00:52+00:00",
-      "revalidated_at": "2026-10-06T08:00:52+00:00"
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
     },
     {
       "asin": "B0CH91K11H",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20103858",
       "published_at": "2026-10-06T06:01:10+00:00",
-      "revalidated_at": "2026-10-06T08:00:52+00:00"
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
     },
     {
       "asin": "B086ZL794C",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20100444",
       "published_at": "2026-10-06T06:01:10+00:00",
-      "revalidated_at": "2026-10-06T08:00:52+00:00"
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
     },
     {
       "asin": "B0GVVJZDQV",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20105274",
       "published_at": "2026-10-06T05:46:08+00:00",
-      "revalidated_at": "2026-10-06T07:46:16+00:00"
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
     },
     {
       "asin": "B0HB8PKJG4",
@@ -1013,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20104407",
       "published_at": "2026-10-06T03:46:09+00:00",
-      "revalidated_at": "2026-10-06T07:46:16+00:00"
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
     },
     {
       "asin": "B0BK7JTDYW",
@@ -1343,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20103114",
       "published_at": "2026-10-06T01:46:19+00:00",
-      "revalidated_at": "2026-10-06T07:46:16+00:00"
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
     },
     {
       "asin": "B0CGFCC193",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20101899",
       "published_at": "2026-10-05T23:46:16+00:00",
-      "revalidated_at": "2026-10-06T07:46:16+00:00"
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
     },
     {
       "asin": "B0066B7JWE",
@@ -1453,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20102466",
       "published_at": "2026-10-05T23:46:16+00:00",
-      "revalidated_at": "2026-10-06T07:46:16+00:00"
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
     },
     {
       "asin": "B0D2QKCXSZ",
@@ -1849,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20104143",
       "published_at": "2026-10-05T22:01:18+00:00",
-      "revalidated_at": "2026-10-06T07:46:16+00:00"
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
     },
     {
       "asin": "B0DS6LBSRX",
@@ -2157,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095026",
       "published_at": "2026-10-05T19:01:34+00:00",
-      "revalidated_at": "2026-10-06T07:46:16+00:00"
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
     },
     {
       "asin": "B0HFQZXS8D",
@@ -2333,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20099679",
       "published_at": "2026-10-05T17:01:33+00:00",
-      "revalidated_at": "2026-10-06T07:46:16+00:00"
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
     },
     {
       "asin": "B08DSSCJHL",
@@ -2399,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20100126",
       "published_at": "2026-10-05T16:46:37+00:00",
-      "revalidated_at": "2026-10-06T07:46:16+00:00"
+      "revalidated_at": "2026-10-06T09:46:05+00:00"
     },
     {
       "asin": "B0DRCSZ618",
@@ -2598,50 +2620,6 @@
       "deal_key": "sd:20101884",
       "published_at": "2026-10-05T15:46:35+00:00",
       "revalidated_at": "2026-10-06T08:31:04+00:00"
-    },
-    {
-      "asin": "B0F8VSM4QB",
-      "title": "Amazon – AstroAI M10 6000A Jump Starter w/ 150 PSI Air Compressor -",
-      "title_es": "Arrancador de coches AstroAI M10 6000A con compresor de aire de 150 PSI",
-      "headline": null,
-      "post": "Este arrancador de coches portátil AstroAI M10 es ideal para emergencias en carretera, capaz de arrancar vehículos con motores grandes. Además, incluye un compresor de aire de 150 PSI para inflar neumáticos, lo que lo convierte en una herramienta versátil para cualquier conductor. 🚗",
-      "post_en": "This portable AstroAI M10 jump starter is ideal for roadside emergencies, capable of starting vehicles with large engines. It also includes a 150 PSI air compressor for inflating tires, making it a versatile tool for any driver. 🚗",
-      "price_new": 41.99,
-      "price_old": 89.97,
-      "currency": "USD",
-      "discount_pct": 53.3,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "L74255UR",
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71-suXv2xjL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F8VSM4QB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20101995",
-      "published_at": "2026-10-05T15:46:35+00:00",
-      "revalidated_at": "2026-10-06T08:45:57+00:00"
-    },
-    {
-      "asin": "B0F8PNFBTL",
-      "title": "Sony SS-CS5M2 3-Way Bookshelf Speakers (Pair) at Amazon",
-      "title_es": "Altavoces de estantería de 3 vías Sony SS-CS5M2 (par)",
-      "headline": null,
-      "post": "Estos altavoces de estantería Sony SS-CS5M2 de 3 vías ofrecen una experiencia de audio rica y detallada para tu sistema de sonido doméstico. Son perfectos para audiófilos que buscan una calidad de sonido superior en un formato compacto.",
-      "post_en": "These Sony SS-CS5M2 3-way bookshelf speakers offer a rich and detailed audio experience for your home sound system. They are perfect for audiophiles seeking superior sound quality in a compact format.",
-      "price_new": 153.0,
-      "price_old": 279.99,
-      "currency": "USD",
-      "discount_pct": 45.4,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21805854.thumb",
-      "url": "https://amazon.com/dp/B0F8PNFBTL/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20099139",
-      "published_at": "2026-10-05T15:46:35+00:00",
-      "revalidated_at": "2026-10-06T08:45:57+00:00"
     }
   ]
 }
