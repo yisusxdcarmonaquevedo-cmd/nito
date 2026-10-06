@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-06T07:46:16+00:00",
+  "generated_at": "2026-10-06T08:00:52+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B00778B90S",
+      "title": "20-Pk 4.2-Oz Nongshim Shin Ramyun Spicy Ramen Noodle (Beef Flavor)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 10.45,
+      "price_old": 21.24,
+      "currency": "USD",
+      "discount_pct": 50.8,
+      "rating": 4.7,
+      "condition": "coupon",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71hXFniZCVL._SL1200_.jpg",
+      "url": "https://amazon.com/dp/B00778B90S/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20107956",
+      "published_at": "2026-10-06T08:00:52+00:00",
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
+    },
+    {
+      "asin": "B0D47NNPCF",
+      "title": "DEWALT Atomic Compact Series Push & Flip Folding Utility Knife",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 6.7,
+      "price_old": 10.1,
+      "currency": "USD",
+      "discount_pct": 33.7,
+      "rating": 4.6,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/41NTSlVbytL._AC_SL1000_.jpg",
+      "url": "https://amazon.com/dp/B0D47NNPCF/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20106732",
+      "published_at": "2026-10-06T08:00:52+00:00",
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
+    },
     {
       "asin": "B0CH91K11H",
       "title": "$8.41 S&S AMZ Amazon Basics Ultra-Force Tall Kitchen Drawstring Trash Bags, Lavender Scented, 13 Gallon, 80 Count, Pack of 1",
@@ -265,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20103858",
       "published_at": "2026-10-06T06:01:10+00:00",
-      "revalidated_at": "2026-10-06T06:01:10+00:00"
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
     },
     {
       "asin": "B086ZL794C",
@@ -287,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20100444",
       "published_at": "2026-10-06T06:01:10+00:00",
-      "revalidated_at": "2026-10-06T06:01:10+00:00"
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
     },
     {
       "asin": "B0GVVJZDQV",
@@ -573,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20105946",
       "published_at": "2026-10-06T04:01:08+00:00",
-      "revalidated_at": "2026-10-06T06:01:10+00:00"
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
     },
     {
       "asin": "B0G6323BLJ",
@@ -1478,28 +1522,6 @@
       "revalidated_at": "2026-10-06T07:46:16+00:00"
     },
     {
-      "asin": "B0B6HYSFBF",
-      "title": "BILLCONCH Biometric Safe w/ Electronic Lock & LED Light (Black)",
-      "title_es": "Caja fuerte biométrica BILLCONCH con cerradura electrónica y luz LED (Negra)",
-      "headline": null,
-      "post": "Protege tus objetos de valor con esta caja fuerte BILLCONCH, equipada con cerradura biométrica y electrónica para mayor seguridad. Ideal para el hogar u oficina, ofrece acceso rápido y fiable a tus pertenencias importantes.",
-      "post_en": "Secure your valuables with this BILLCONCH biometric safe, featuring both biometric and electronic locks for enhanced security. Perfect for home or office, it offers quick and reliable access to your important belongings.",
-      "price_new": 34.99,
-      "price_old": 69.98,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": null,
-      "condition": "code",
-      "code": "CXV3S4Y5",
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/8/3/9/2/450x450/21815754.thumb",
-      "url": "https://amazon.com/dp/B0B6HYSFBF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20102901",
-      "published_at": "2026-10-05T22:01:18+00:00",
-      "revalidated_at": "2026-10-06T05:46:08+00:00"
-    },
-    {
       "asin": "B0DS6LBSRX",
       "title": "Pop-Tarts Emotional Support Plush Toy Pals",
       "title_es": "Peluches Pop-Tarts de apoyo emocional",
@@ -1695,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20103228",
       "published_at": "2026-10-05T19:51:52+00:00",
-      "revalidated_at": "2026-10-06T05:46:08+00:00"
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
     },
     {
       "asin": "B0F8NT5BB6",
@@ -1717,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20103774",
       "published_at": "2026-10-05T19:51:52+00:00",
-      "revalidated_at": "2026-10-06T05:46:08+00:00"
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
     },
     {
       "asin": "B087LXCTFJ",
@@ -1739,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20099862",
       "published_at": "2026-10-05T19:51:52+00:00",
-      "revalidated_at": "2026-10-06T05:46:08+00:00"
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
     },
     {
       "asin": "B08Q75SVW5",
@@ -2003,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20100069",
       "published_at": "2026-10-05T17:31:29+00:00",
-      "revalidated_at": "2026-10-06T05:46:08+00:00"
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
     },
     {
       "asin": "B0GPSFR1Q4",
@@ -2047,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20102496",
       "published_at": "2026-10-05T17:01:33+00:00",
-      "revalidated_at": "2026-10-06T05:46:08+00:00"
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
     },
     {
       "asin": "B0G6DNZ4F1",
@@ -2113,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20100492",
       "published_at": "2026-10-05T16:46:37+00:00",
-      "revalidated_at": "2026-10-06T05:46:08+00:00"
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
     },
     {
       "asin": "B0D7HDS64Y",
@@ -2377,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20101446",
       "published_at": "2026-10-05T15:31:56+00:00",
-      "revalidated_at": "2026-10-06T05:46:08+00:00"
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
     },
     {
       "asin": "B000XUDGV2",
@@ -2465,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20098539",
       "published_at": "2026-10-05T14:46:28+00:00",
-      "revalidated_at": "2026-10-06T05:46:08+00:00"
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
     },
     {
       "asin": "B076GNS3J4",
@@ -2553,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20099529",
       "published_at": "2026-10-05T13:31:55+00:00",
-      "revalidated_at": "2026-10-06T05:46:08+00:00"
+      "revalidated_at": "2026-10-06T08:00:52+00:00"
     },
     {
       "asin": "B0058DRUV6",
@@ -2598,50 +2620,6 @@
       "deal_key": "sd:20100576",
       "published_at": "2026-10-05T12:31:35+00:00",
       "revalidated_at": "2026-10-06T07:15:56+00:00"
-    },
-    {
-      "asin": "B0FMS7CRHX",
-      "title": "133-Pc LEGO Botanicals Daisies Building Toy",
-      "title_es": "Juguete de Construcción LEGO Botanicals Margaritas de 133 Piezas",
-      "headline": null,
-      "post": "El set LEGO Botanicals Margaritas (133 piezas) te permite construir un hermoso ramo de flores que nunca se marchitarán. Es una pieza decorativa creativa y relajante, perfecta para los amantes de la naturaleza y LEGO. 🌸",
-      "post_en": "The LEGO Botanicals Daisies set (133 pieces) lets you build a beautiful flower bouquet that will never wilt. It's a creative and relaxing decorative piece, perfect for nature and LEGO enthusiasts. 🌸",
-      "price_new": 9.89,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.7,
-      "rating": 4.9,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81lNVhQTwNL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FMS7CRHX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20099730",
-      "published_at": "2026-10-05T12:16:34+00:00",
-      "revalidated_at": "2026-10-06T07:00:50+00:00"
-    },
-    {
-      "asin": "B00006IE8K",
-      "title": "[S&S]12 Ct uni-ball uniball Vision Rollerball Pens with 0.7mm Fine Point(Blue)",
-      "title_es": "12 Bolígrafos Roller uni-ball Vision de Punta Fina 0.7mm (Azul)",
-      "headline": null,
-      "post": "Este paquete de 12 bolígrafos roller uni-ball Vision de punta fina (0.7mm) en color azul ofrece una escritura suave y consistente. Son ideales para tomar notas, dibujar o cualquier tarea que requiera precisión. 🖊️",
-      "post_en": "This pack of 12 uni-ball Vision rollerball pens with a 0.7mm fine point in blue offers smooth and consistent writing. They are ideal for note-taking, drawing, or any task requiring precision. 🖊️",
-      "price_new": 9.57,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 72.7,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/712klb8L6dL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00006IE8K/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20100378",
-      "published_at": "2026-10-05T12:16:34+00:00",
-      "revalidated_at": "2026-10-06T07:00:50+00:00"
     }
   ]
 }
