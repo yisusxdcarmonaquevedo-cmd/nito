@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T04:31:42+00:00",
+  "generated_at": "2026-10-07T04:46:30+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
     {
       "asin": "B0FKJ5P844",
@@ -58,11 +58,11 @@
       "price_old": 10.49,
       "currency": "USD",
       "discount_pct": 63.9,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/3/4/3/3/0/5/1/5/450x450/21856716.thumb",
+      "image": "https://m.media-amazon.com/images/I/61nD2qWjlfL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0031O5QF6/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20117625",
@@ -114,28 +114,6 @@
       "revalidated_at": "2026-10-07T04:17:06+00:00"
     },
     {
-      "asin": "B0FDL7WJ1Q",
-      "title": "[Prime] 100-Piece idoot Monster STEM Magnetic Building Block Set (Bear or Ember)",
-      "title_es": "Set de bloques magnéticos STEM idoot Monster de 100 piezas (Bear o Ember)",
-      "headline": null,
-      "post": "Este set de bloques magnéticos STEM de 100 piezas permite a niños y niñas construir diversas estructuras, fomentando la creatividad y el aprendizaje. Es ideal para desarrollar habilidades motoras finas y pensamiento espacial a través del juego.",
-      "post_en": "This 100-piece idoot Monster STEM Magnetic Building Block Set allows children to construct various structures, fostering creativity and learning. It's ideal for developing fine motor skills and spatial thinking through play.",
-      "price_new": 7.99,
-      "price_old": 19.99,
-      "currency": "USD",
-      "discount_pct": 60.0,
-      "rating": 4.9,
-      "condition": "code",
-      "code": "OTRAJXSI",
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/91rN3hlcBoL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FDL7WJ1Q/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20118144",
-      "published_at": "2026-10-07T02:47:16+00:00",
-      "revalidated_at": "2026-10-07T02:47:16+00:00"
-    },
-    {
       "asin": "B09Y14JSFH",
       "title": "UGREEN HDMI Splitter Switch 5 in / 1 Out 4K@60Hz",
       "title_es": "Switch/Splitter HDMI UGREEN 5 entradas / 1 salida 4K@60Hz",
@@ -155,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20104137",
       "published_at": "2026-10-07T02:47:16+00:00",
-      "revalidated_at": "2026-10-07T02:47:16+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B075W2Y6MD",
@@ -375,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20109834",
       "published_at": "2026-10-07T00:47:01+00:00",
-      "revalidated_at": "2026-10-07T02:47:16+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B0CJHCXS4V",
@@ -397,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20112858",
       "published_at": "2026-10-07T00:47:01+00:00",
-      "revalidated_at": "2026-10-07T02:47:16+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B09GKZ17TZ",
@@ -419,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20117823",
       "published_at": "2026-10-07T00:47:01+00:00",
-      "revalidated_at": "2026-10-07T02:47:16+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B00OHRU4XK",
@@ -969,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20116014",
       "published_at": "2026-10-06T22:32:12+00:00",
-      "revalidated_at": "2026-10-07T02:47:16+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B09MSJ34R2",
@@ -991,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20100099",
       "published_at": "2026-10-06T22:32:12+00:00",
-      "revalidated_at": "2026-10-07T02:47:16+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B01LY047AR",
@@ -1409,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20111100",
       "published_at": "2026-10-06T18:47:19+00:00",
-      "revalidated_at": "2026-10-07T02:47:16+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B07LD2NV9X",
@@ -1651,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20100579",
       "published_at": "2026-10-06T16:46:30+00:00",
-      "revalidated_at": "2026-10-07T02:47:16+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B0FT995SPF",
@@ -1893,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20112441",
       "published_at": "2026-10-06T15:01:37+00:00",
-      "revalidated_at": "2026-10-07T02:47:16+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B0939MRXDV",
@@ -1937,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20110026",
       "published_at": "2026-10-06T14:46:40+00:00",
-      "revalidated_at": "2026-10-07T02:31:57+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B0D2JNQ6TQ",
@@ -2245,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20106525",
       "published_at": "2026-10-06T10:16:03+00:00",
-      "revalidated_at": "2026-10-07T02:31:57+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B01DDIRDZA",
@@ -2267,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20107752",
       "published_at": "2026-10-06T10:16:03+00:00",
-      "revalidated_at": "2026-10-07T02:31:57+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B0DHLHQKQ4",
@@ -2311,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20106669",
       "published_at": "2026-10-06T10:01:08+00:00",
-      "revalidated_at": "2026-10-07T02:31:57+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B0F6B2BSBD",
@@ -2333,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20109078",
       "published_at": "2026-10-06T10:01:08+00:00",
-      "revalidated_at": "2026-10-07T02:31:57+00:00"
+      "revalidated_at": "2026-10-07T04:46:30+00:00"
     },
     {
       "asin": "B0CXHNGDC1",
