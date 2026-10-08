@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T07:30:50+00:00",
+  "generated_at": "2026-10-08T07:45:52+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
     {
       "asin": "B09Y4H2SS2",
@@ -14,11 +14,11 @@
       "price_old": 10.99,
       "currency": "USD",
       "discount_pct": 48.1,
-      "rating": null,
+      "rating": 4.7,
       "condition": "coupon",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21851295.thumb",
+      "image": "https://m.media-amazon.com/images/I/61b9YpAHKKL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B09Y4H2SS2/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20115486",
@@ -221,29 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20122374",
       "published_at": "2026-10-08T05:46:19+00:00",
-      "revalidated_at": "2026-10-08T05:46:19+00:00"
-    },
-    {
-      "asin": "B087JVNJ4X",
-      "title": "Leica SL2 47MP Mirrorless Full-Frame Camera (Body Only)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 366.0,
-      "price_old": 813.0,
-      "currency": "USD",
-      "discount_pct": 55.0,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71UdIonKuRL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B087JVNJ4X/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20125635",
-      "published_at": "2026-10-08T05:46:19+00:00",
-      "revalidated_at": "2026-10-08T05:46:19+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     },
     {
       "asin": "B0GWGR2XPX",
@@ -265,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20121651",
       "published_at": "2026-10-08T05:46:19+00:00",
-      "revalidated_at": "2026-10-08T05:46:19+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     },
     {
       "asin": "B0GY5VD3YT",
@@ -529,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20122929",
       "published_at": "2026-10-08T03:46:01+00:00",
-      "revalidated_at": "2026-10-08T05:46:19+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     },
     {
       "asin": "B0CMZT9HDZ",
@@ -551,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20126463",
       "published_at": "2026-10-08T03:46:01+00:00",
-      "revalidated_at": "2026-10-08T05:46:19+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     },
     {
       "asin": "B08TC2GDV4",
@@ -1299,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20125425",
       "published_at": "2026-10-07T23:45:53+00:00",
-      "revalidated_at": "2026-10-08T05:46:19+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     },
     {
       "asin": "B0F257L7JF",
@@ -1321,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20110296",
       "published_at": "2026-10-07T23:45:53+00:00",
-      "revalidated_at": "2026-10-08T05:46:19+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     },
     {
       "asin": "B0CLVSGC3B",
@@ -1563,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20123022",
       "published_at": "2026-10-07T22:15:52+00:00",
-      "revalidated_at": "2026-10-08T05:46:19+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     },
     {
       "asin": "B0G36CHSZQ",
@@ -1585,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20120517",
       "published_at": "2026-10-07T22:15:52+00:00",
-      "revalidated_at": "2026-10-08T05:46:19+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     },
     {
       "asin": "B0F1DJCNZY",
@@ -1607,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20125380",
       "published_at": "2026-10-07T22:01:09+00:00",
-      "revalidated_at": "2026-10-08T05:46:19+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     },
     {
       "asin": "B0GX58KJFL",
@@ -1629,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20124618",
       "published_at": "2026-10-07T22:01:09+00:00",
-      "revalidated_at": "2026-10-08T05:46:19+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     },
     {
       "asin": "B0H33TXTT4",
@@ -1651,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20124909",
       "published_at": "2026-10-07T22:01:09+00:00",
-      "revalidated_at": "2026-10-08T05:46:19+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     },
     {
       "asin": "B0DKGBP38V",
@@ -2069,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20115312",
       "published_at": "2026-10-07T19:31:39+00:00",
-      "revalidated_at": "2026-10-08T05:46:19+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     },
     {
       "asin": "B0F5B2Y3JP",
@@ -2597,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20123238",
       "published_at": "2026-10-07T16:31:41+00:00",
-      "revalidated_at": "2026-10-08T05:30:56+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     },
     {
       "asin": "B0CC7C1SHZ",
@@ -2619,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20111607",
       "published_at": "2026-10-07T16:31:41+00:00",
-      "revalidated_at": "2026-10-08T05:30:56+00:00"
+      "revalidated_at": "2026-10-08T07:45:52+00:00"
     }
   ]
 }
