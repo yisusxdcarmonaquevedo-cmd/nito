@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-08T22:24:09+00:00",
+  "generated_at": "2026-10-08T22:32:11+00:00",
   "market": "us",
-  "count": 115,
+  "count": 114,
   "deals": [
+    {
+      "asin": "B0886944MR",
+      "title": "$7.19 S&S AMZ AIDEA Car Wash Mitt Microfiber-2PK, Car Wash Brush, Green, 7.12''X10.14''",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.19,
+      "price_old": 57.0,
+      "currency": "USD",
+      "discount_pct": 87.4,
+      "rating": 4.6,
+      "condition": "sns",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71ug39CDaGL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0886944MR/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20128671",
+      "published_at": "2026-10-08T22:32:11+00:00",
+      "revalidated_at": "2026-10-08T22:32:11+00:00"
+    },
     {
       "asin": "B00AEBTNYE",
       "title": "GEARWRENCH 18 Pc. 12 Pt. Long Pattern Combination Wrench Set, Metric - 81920 at Amazon",
@@ -111,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130531",
       "published_at": "2026-10-08T20:46:35+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
+      "revalidated_at": "2026-10-08T22:32:11+00:00"
     },
     {
       "asin": "B0D7HRDP9D",
@@ -309,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129994",
       "published_at": "2026-10-08T18:46:51+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
+      "revalidated_at": "2026-10-08T22:32:11+00:00"
     },
     {
       "asin": "0063392933",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130243",
       "published_at": "2026-10-08T18:46:51+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
+      "revalidated_at": "2026-10-08T22:32:11+00:00"
     },
     {
       "asin": "B07N9N9J2R",
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128371",
       "published_at": "2026-10-08T18:46:51+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
+      "revalidated_at": "2026-10-08T22:32:11+00:00"
     },
     {
       "asin": "B0D4M581B3",
@@ -375,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130123",
       "published_at": "2026-10-08T18:46:51+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
+      "revalidated_at": "2026-10-08T22:32:11+00:00"
     },
     {
       "asin": "B0157T1ZK2",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129757",
       "published_at": "2026-10-08T17:01:59+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
+      "revalidated_at": "2026-10-08T22:32:11+00:00"
     },
     {
       "asin": "B0BZT443MB",
@@ -595,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128470",
       "published_at": "2026-10-08T17:01:59+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
+      "revalidated_at": "2026-10-08T22:32:11+00:00"
     },
     {
       "asin": "B0D2Z2BVHW",
@@ -617,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20115564",
       "published_at": "2026-10-08T17:01:59+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
+      "revalidated_at": "2026-10-08T22:32:11+00:00"
     },
     {
       "asin": "B0HGGHNG94",
@@ -837,29 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128707",
       "published_at": "2026-10-08T15:01:51+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
-    },
-    {
-      "asin": "B07NSSPV9S",
-      "title": "Logitech G703 Lightspeed Wireless Gaming Mouse - Black",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 51.28,
-      "price_old": 99.99,
-      "currency": "USD",
-      "discount_pct": 48.7,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/3/2/8/0/4/4/7/450x450/21875091.thumb",
-      "url": "https://amazon.com/dp/B07NSSPV9S/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20124633",
-      "published_at": "2026-10-08T15:01:51+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
+      "revalidated_at": "2026-10-08T22:32:11+00:00"
     },
     {
       "asin": "B0CNL15BHB",
@@ -1827,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20126178",
       "published_at": "2026-10-08T04:45:39+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
+      "revalidated_at": "2026-10-08T22:32:11+00:00"
     },
     {
       "asin": "B0FWHPY1GJ",
@@ -2003,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20099523",
       "published_at": "2026-10-08T02:45:59+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
+      "revalidated_at": "2026-10-08T22:32:11+00:00"
     },
     {
       "asin": "B0F5ZGCR62",
@@ -2267,29 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20122848",
       "published_at": "2026-10-08T00:30:57+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
-    },
-    {
-      "asin": "B0FY977XBD",
-      "title": "Cooler Master V4 Alpha 3DHP CPU Air Cooler",
-      "title_es": "Disipador de aire para CPU Cooler Master V4 Alpha 3DHP",
-      "headline": null,
-      "post": "Mejora la refrigeración de tu CPU con este potente disipador de aire Cooler Master. Es una excelente opción para entusiastas y gamers que buscan optimizar el rendimiento térmico de su equipo.",
-      "post_en": "Enhance your CPU's cooling performance with this powerful Cooler Master air cooler. It's an excellent choice for enthusiasts and gamers looking to optimize their system's thermal efficiency.",
-      "price_new": 19.0,
-      "price_old": 49.99,
-      "currency": "USD",
-      "discount_pct": 62.0,
-      "rating": 4.4,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71kYNaVB9wL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FY977XBD/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20124846",
-      "published_at": "2026-10-08T00:30:57+00:00",
-      "revalidated_at": "2026-10-08T20:46:35+00:00"
+      "revalidated_at": "2026-10-08T22:32:11+00:00"
     },
     {
       "asin": "B0CLVSGC3B",
