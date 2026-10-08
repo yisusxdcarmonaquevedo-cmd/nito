@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-08T15:32:02+00:00",
+  "generated_at": "2026-10-08T15:46:39+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0FPRRNJRG",
+      "title": "OX 18mm Snap-Off Utility Knife Retractable Box Cutter",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.7,
+      "price_old": 9.99,
+      "currency": "USD",
+      "discount_pct": 63.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21883728.thumb",
+      "url": "https://amazon.com/dp/B0FPRRNJRG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20128275",
+      "published_at": "2026-10-08T15:46:39+00:00",
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
+    },
     {
       "asin": "1524888044",
       "title": "The Calvin and Hobbes Portable Compendium Set 2 (Vol 2, Paperback) at Amazon",
@@ -331,29 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127990",
       "published_at": "2026-10-08T13:46:53+00:00",
-      "revalidated_at": "2026-10-08T13:46:53+00:00"
-    },
-    {
-      "asin": "B0F334DN9J",
-      "title": "roborock Q7 L5 Robot Vacuum and Mop Combo",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 119.99,
-      "price_old": 249.99,
-      "currency": "USD",
-      "discount_pct": 52.0,
-      "rating": 4.5,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61T3QADwWuL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F334DN9J/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20119278",
-      "published_at": "2026-10-08T13:46:53+00:00",
-      "revalidated_at": "2026-10-08T13:46:53+00:00"
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
     },
     {
       "asin": "B0BS4LQQNT",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128365",
       "published_at": "2026-10-08T13:46:53+00:00",
-      "revalidated_at": "2026-10-08T13:46:53+00:00"
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
     },
     {
       "asin": "B0CTNWKGM2",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128149",
       "published_at": "2026-10-08T13:46:53+00:00",
-      "revalidated_at": "2026-10-08T13:46:53+00:00"
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
     },
     {
       "asin": "B0DSGBLS8Q",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128485",
       "published_at": "2026-10-08T11:45:51+00:00",
-      "revalidated_at": "2026-10-08T13:46:53+00:00"
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
     },
     {
       "asin": "B0CDCTBMKX",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20122929",
       "published_at": "2026-10-08T03:46:01+00:00",
-      "revalidated_at": "2026-10-08T13:32:14+00:00"
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
     },
     {
       "asin": "B0F1TSS1YG",
@@ -1585,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20125164",
       "published_at": "2026-10-08T01:31:12+00:00",
-      "revalidated_at": "2026-10-08T13:32:14+00:00"
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
     },
     {
       "asin": "B09GNQD678",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20126352",
       "published_at": "2026-10-08T01:31:12+00:00",
-      "revalidated_at": "2026-10-08T13:32:14+00:00"
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
     },
     {
       "asin": "B0D49N6T79",
@@ -1629,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20122914",
       "published_at": "2026-10-08T01:31:12+00:00",
-      "revalidated_at": "2026-10-08T13:32:14+00:00"
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
     },
     {
       "asin": "B0GXDZGMR6",
@@ -1783,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20110296",
       "published_at": "2026-10-07T23:45:53+00:00",
-      "revalidated_at": "2026-10-08T13:32:14+00:00"
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
     },
     {
       "asin": "B0CLVSGC3B",
@@ -1959,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20123022",
       "published_at": "2026-10-07T22:15:52+00:00",
-      "revalidated_at": "2026-10-08T13:32:14+00:00"
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
     },
     {
       "asin": "B0G36CHSZQ",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20120517",
       "published_at": "2026-10-07T22:15:52+00:00",
-      "revalidated_at": "2026-10-08T13:32:14+00:00"
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
     },
     {
       "asin": "B0F1DJCNZY",
@@ -2267,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20123784",
       "published_at": "2026-10-07T19:46:27+00:00",
-      "revalidated_at": "2026-10-08T13:32:14+00:00"
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
     },
     {
       "asin": "B07DR61P4L",
@@ -2575,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20123232",
       "published_at": "2026-10-07T16:46:29+00:00",
-      "revalidated_at": "2026-10-08T13:32:14+00:00"
+      "revalidated_at": "2026-10-08T15:46:39+00:00"
     },
     {
       "asin": "B06WGXDZSJ",
@@ -2619,28 +2619,6 @@
       "source": "slickdeals",
       "deal_key": "sd:20122725",
       "published_at": "2026-10-07T16:46:29+00:00",
-      "revalidated_at": "2026-10-08T14:16:54+00:00"
-    },
-    {
-      "asin": "B07R2MQ2PY",
-      "title": "Philips Hue Smart 60W A19 LED Bulb - Soft Warm White Light - 2 Pack - 800LM - E26 at Amazon",
-      "title_es": "Pack de 2 bombillas LED inteligentes Philips Hue A19 de 60W - Luz blanca cálida suave - 800LM - E26",
-      "headline": null,
-      "post": "Estas bombillas LED inteligentes Philips Hue A19 ofrecen una suave luz blanca cálida de 800LM, perfectas para crear ambientes acogedores. Ideales para quienes desean integrar iluminación inteligente en su hogar y controlarla cómodamente desde su dispositivo. 💡",
-      "post_en": "These Philips Hue A19 smart LED bulbs provide a soft warm white light of 800LM, perfect for creating cozy atmospheres. Ideal for those looking to integrate smart lighting into their home and control it conveniently from their device. 💡",
-      "price_new": 14.99,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21870996.thumb",
-      "url": "https://amazon.com/dp/B07R2MQ2PY/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20123238",
-      "published_at": "2026-10-07T16:31:41+00:00",
       "revalidated_at": "2026-10-08T14:16:54+00:00"
     }
   ]
