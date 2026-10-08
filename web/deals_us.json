@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T19:16:32+00:00",
+  "generated_at": "2026-10-08T19:31:39+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
     {
       "asin": "0063280779",
@@ -124,11 +124,11 @@
       "price_old": 325.0,
       "currency": "USD",
       "discount_pct": 68.8,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/3/2/8/0/4/4/7/450x450/21889323.thumb",
+      "image": "https://m.media-amazon.com/images/I/9176YGv77nL._SL1500_.jpg",
       "url": "https://amazon.com/dp/0063392933/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20130243",
@@ -190,11 +190,11 @@
       "price_old": 17.99,
       "currency": "USD",
       "discount_pct": 60.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": "coupon",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/3/2/3/5/9/2/4/450x450/21889563.thumb",
+      "image": "https://m.media-amazon.com/images/I/917qEKD6XpL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0157T1ZK2/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20130315",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129910",
       "published_at": "2026-10-08T17:34:06+00:00",
-      "revalidated_at": "2026-10-08T17:34:06+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "B0GVJRMXKH",
@@ -573,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128275",
       "published_at": "2026-10-08T15:46:39+00:00",
-      "revalidated_at": "2026-10-08T17:34:06+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "1524888044",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127990",
       "published_at": "2026-10-08T13:46:53+00:00",
-      "revalidated_at": "2026-10-08T17:34:06+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "B0BS4LQQNT",
@@ -881,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128365",
       "published_at": "2026-10-08T13:46:53+00:00",
-      "revalidated_at": "2026-10-08T17:34:06+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "B0CTNWKGM2",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128149",
       "published_at": "2026-10-08T13:46:53+00:00",
-      "revalidated_at": "2026-10-08T17:34:06+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "B0DSGBLS8Q",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128485",
       "published_at": "2026-10-08T11:45:51+00:00",
-      "revalidated_at": "2026-10-08T17:34:06+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "B0CDCTBMKX",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127885",
       "published_at": "2026-10-08T11:15:56+00:00",
-      "revalidated_at": "2026-10-08T17:31:40+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "B002Y2QTWK",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127600",
       "published_at": "2026-10-08T11:01:00+00:00",
-      "revalidated_at": "2026-10-08T17:31:40+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "B0D4X3TCNC",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127852",
       "published_at": "2026-10-08T11:01:00+00:00",
-      "revalidated_at": "2026-10-08T17:31:40+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "B0F5FP39MK",
@@ -1431,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127867",
       "published_at": "2026-10-08T11:01:00+00:00",
-      "revalidated_at": "2026-10-08T17:31:40+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "B0C8854Y6R",
@@ -1476,28 +1476,6 @@
       "deal_key": "sd:20125575",
       "published_at": "2026-10-08T10:15:45+00:00",
       "revalidated_at": "2026-10-08T18:01:51+00:00"
-    },
-    {
-      "asin": "B0FPM449C4",
-      "title": "64-Count Amifiy No Damage Hair Ties (Multicolor)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 3.17,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 90.9,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71iiza8naVL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FPM449C4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20127414",
-      "published_at": "2026-10-08T09:30:37+00:00",
-      "revalidated_at": "2026-10-08T17:31:40+00:00"
     },
     {
       "asin": "B07HBMC32Y",
@@ -1585,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20122374",
       "published_at": "2026-10-08T05:46:19+00:00",
-      "revalidated_at": "2026-10-08T17:31:40+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "B0GY5VD3YT",
@@ -1607,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127102",
       "published_at": "2026-10-08T05:30:56+00:00",
-      "revalidated_at": "2026-10-08T17:34:06+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "B0FR574WTL",
@@ -2487,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20124309",
       "published_at": "2026-10-07T20:46:49+00:00",
-      "revalidated_at": "2026-10-08T17:31:40+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "B08T1V7MQJ",
@@ -2509,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20124180",
       "published_at": "2026-10-07T20:46:49+00:00",
-      "revalidated_at": "2026-10-08T17:31:40+00:00"
+      "revalidated_at": "2026-10-08T19:31:39+00:00"
     },
     {
       "asin": "B0F631VGGB",
