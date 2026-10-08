@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-10-08T12:31:00+00:00",
+  "generated_at": "2026-10-08T12:46:07+00:00",
   "market": "us",
-  "count": 106,
+  "count": 110,
   "deals": [
+    {
+      "asin": "B0D14Y6MRT",
+      "title": "4-Pack 12-Oz Community Coffee Medium Roast Ground Coffee (Breakfast Blend) at Amazon ($2.02 each)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.02,
+      "price_old": 8.1,
+      "currency": "USD",
+      "discount_pct": 75.1,
+      "rating": null,
+      "condition": "sns",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21884943.thumb",
+      "url": "https://amazon.com/dp/B0D14Y6MRT/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20128728",
+      "published_at": "2026-10-08T12:46:07+00:00",
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
+    },
+    {
+      "asin": "B002KS94PW",
+      "title": "1/4\" & 3/8\" Performance Tool Dual Drive Flex Head Stubby Ratchet",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.7,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 66.6,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21882813.thumb",
+      "url": "https://amazon.com/dp/B002KS94PW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20127981",
+      "published_at": "2026-10-08T12:46:07+00:00",
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
+    },
+    {
+      "asin": "B01GKRH49G",
+      "title": "26-Pc Milwaukee Shockwave Drive & Fasten Electric Tool Bit Set at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 21.88,
+      "price_old": 38.21,
+      "currency": "USD",
+      "discount_pct": 42.7,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61BsxbDB73L._AC_SL1000_.jpg",
+      "url": "https://amazon.com/dp/B01GKRH49G/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20127489",
+      "published_at": "2026-10-08T12:46:07+00:00",
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
+    },
+    {
+      "asin": "B0FC6J5CMG",
+      "title": "Pokémon Legends: Z-A (Nintendo Switch 2 Edition) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 39.88,
+      "price_old": 69.99,
+      "currency": "USD",
+      "discount_pct": 43.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21882795.thumb",
+      "url": "https://amazon.com/dp/B0FC6J5CMG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20127969",
+      "published_at": "2026-10-08T12:46:07+00:00",
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
+    },
+    {
+      "asin": "B0FMS84LTN",
+      "title": "67-Piece LEGO Friends: Traffic - Unicorn Cake Delivery Car (42675, 2026) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.99,
+      "price_old": 9.99,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": 4.8,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81BbEjowmrL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FMS84LTN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20121600",
+      "published_at": "2026-10-08T12:46:07+00:00",
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
+    },
     {
       "asin": "B09MVW3T42",
       "title": "VTech Bluey Wackadoo Interactive Learning Watch",
@@ -375,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127798",
       "published_at": "2026-10-08T10:45:38+00:00",
-      "revalidated_at": "2026-10-08T10:45:38+00:00"
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
     },
     {
       "asin": "B0GLSK2MLF",
@@ -1431,29 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20125620",
       "published_at": "2026-10-07T23:15:46+00:00",
-      "revalidated_at": "2026-10-08T10:45:38+00:00"
-    },
-    {
-      "asin": "B01N531XR0",
-      "title": "[Prime] 12-Count Rip Van Wafels Dutch Caramel & Vanilla Stroopwafels",
-      "title_es": "Pack de 12 Stroopwafels Holandeses Rip Van Wafels de Caramelo y Vainilla",
-      "headline": null,
-      "post": "Disfruta de estos deliciosos Rip Van Wafels, stroopwafels holandeses con sabor a caramelo y vainilla, en un pack de 12 unidades. Son el acompañamiento perfecto para tu café o té, o un dulce capricho en cualquier momento del día. 😋",
-      "post_en": "Enjoy these delicious 12-count Rip Van Wafels Dutch Caramel & Vanilla Stroopwafels. They are the perfect accompaniment to your coffee or tea, or a sweet treat at any time of day. 😋",
-      "price_new": 8.72,
-      "price_old": 14.47,
-      "currency": "USD",
-      "discount_pct": 39.7,
-      "rating": 4.4,
-      "condition": "coupon",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61OUckXQDYL._SL1095_.jpg",
-      "url": "https://amazon.com/dp/B01N531XR0/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20125542",
-      "published_at": "2026-10-07T23:15:46+00:00",
-      "revalidated_at": "2026-10-08T10:45:38+00:00"
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
     },
     {
       "asin": "B0CLSB4YPJ",
@@ -1475,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20121159",
       "published_at": "2026-10-07T23:00:53+00:00",
-      "revalidated_at": "2026-10-08T10:30:51+00:00"
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
     },
     {
       "asin": "B0CXZ5NH79",
@@ -1497,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20125449",
       "published_at": "2026-10-07T23:00:53+00:00",
-      "revalidated_at": "2026-10-08T10:30:51+00:00"
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
     },
     {
       "asin": "B0CCZQCNLJ",
@@ -1519,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20125287",
       "published_at": "2026-10-07T22:46:31+00:00",
-      "revalidated_at": "2026-10-08T10:45:38+00:00"
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
     },
     {
       "asin": "B000R8YWW2",
@@ -1717,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20121252",
       "published_at": "2026-10-07T21:01:25+00:00",
-      "revalidated_at": "2026-10-08T10:45:38+00:00"
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
     },
     {
       "asin": "B08WC2VYMS",
@@ -1739,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20125101",
       "published_at": "2026-10-07T21:01:25+00:00",
-      "revalidated_at": "2026-10-08T10:45:38+00:00"
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
     },
     {
       "asin": "B01KNM3AFQ",
@@ -2113,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20120523",
       "published_at": "2026-10-07T18:31:27+00:00",
-      "revalidated_at": "2026-10-08T10:30:51+00:00"
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
     },
     {
       "asin": "B0GQSDKJ39",
@@ -2135,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20107332",
       "published_at": "2026-10-07T18:31:27+00:00",
-      "revalidated_at": "2026-10-08T10:30:51+00:00"
+      "revalidated_at": "2026-10-08T12:46:07+00:00"
     },
     {
       "asin": "B0DM3LWN98",
