@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-09T17:16:51+00:00",
+  "generated_at": "2026-10-09T17:32:11+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0GGRSMXKN",
+      "title": "Amazon Prime: Roborock Vacuums: Qrevo S Pro",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 100.0,
+      "price_old": 400.0,
+      "currency": "USD",
+      "discount_pct": 75.0,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61dUJLJCe5L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GGRSMXKN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20086218",
+      "published_at": "2026-10-09T17:32:11+00:00",
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
+    },
+    {
+      "asin": "B0H6MLKF4Y",
+      "title": "Lamicall 87W USB C 4-in-1 Retractable Car Charger",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 65.7,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/5/8/2/5/6/8/8/450x450/21893040.thumb",
+      "url": "https://amazon.com/dp/B0H6MLKF4Y/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20131785",
+      "published_at": "2026-10-09T17:32:11+00:00",
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
+    },
+    {
+      "asin": "B0H6M5TPBP",
+      "title": "Sipaya Women's Faux Fur Shawl Collar Jacket (Various)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 42.9,
+      "rating": null,
+      "condition": "code",
+      "code": "MFQ8IH97",
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21900999.thumb",
+      "url": "https://amazon.com/dp/B0H6M5TPBP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20134593",
+      "published_at": "2026-10-09T17:32:11+00:00",
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
+    },
     {
       "asin": "0063412616",
       "title": "The Fellowship of the Ring: Collector's Edition (Hardcover Book) at Amazon",
@@ -309,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20134254",
       "published_at": "2026-10-09T15:47:02+00:00",
-      "revalidated_at": "2026-10-09T15:47:02+00:00"
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
     },
     {
       "asin": "B0G96H73JD",
@@ -331,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20099151",
       "published_at": "2026-10-09T15:47:02+00:00",
-      "revalidated_at": "2026-10-09T15:47:02+00:00"
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
     },
     {
       "asin": "B09Y1NGD85",
@@ -529,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20133093",
       "published_at": "2026-10-09T13:46:51+00:00",
-      "revalidated_at": "2026-10-09T15:47:02+00:00"
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
     },
     {
       "asin": "B0799RHJ7W",
@@ -1057,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127738",
       "published_at": "2026-10-09T02:02:36+00:00",
-      "revalidated_at": "2026-10-09T15:32:23+00:00"
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
     },
     {
       "asin": "B0D4PDLX6L",
@@ -1079,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20131932",
       "published_at": "2026-10-09T02:02:36+00:00",
-      "revalidated_at": "2026-10-09T15:32:23+00:00"
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
     },
     {
       "asin": "B0FRSQ9RKM",
@@ -1585,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130642",
       "published_at": "2026-10-08T20:16:42+00:00",
-      "revalidated_at": "2026-10-09T15:32:23+00:00"
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
     },
     {
       "asin": "B0CGY4H58S",
@@ -1871,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129961",
       "published_at": "2026-10-08T18:16:25+00:00",
-      "revalidated_at": "2026-10-09T15:32:23+00:00"
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
     },
     {
       "asin": "B0D8174VQK",
@@ -1893,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128770",
       "published_at": "2026-10-08T18:16:25+00:00",
-      "revalidated_at": "2026-10-09T15:32:23+00:00"
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
     },
     {
       "asin": "1984858475",
@@ -2157,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128260",
       "published_at": "2026-10-08T16:02:00+00:00",
-      "revalidated_at": "2026-10-09T15:32:23+00:00"
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
     },
     {
       "asin": "1524888044",
@@ -2289,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127372",
       "published_at": "2026-10-08T14:31:41+00:00",
-      "revalidated_at": "2026-10-09T15:32:23+00:00"
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
     },
     {
       "asin": "B08433C5J4",
@@ -2311,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20106510",
       "published_at": "2026-10-08T14:31:41+00:00",
-      "revalidated_at": "2026-10-09T15:32:23+00:00"
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
     },
     {
       "asin": "B0G1MRLXMV",
@@ -2531,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128659",
       "published_at": "2026-10-08T13:02:40+00:00",
-      "revalidated_at": "2026-10-09T15:32:23+00:00"
+      "revalidated_at": "2026-10-09T17:32:11+00:00"
     },
     {
       "asin": "B0D14Y6MRT",
@@ -2576,50 +2642,6 @@
       "deal_key": "sd:20127981",
       "published_at": "2026-10-08T12:46:07+00:00",
       "revalidated_at": "2026-10-09T17:02:46+00:00"
-    },
-    {
-      "asin": "B01GKRH49G",
-      "title": "26-Pc Milwaukee Shockwave Drive & Fasten Electric Tool Bit Set at Amazon",
-      "title_es": "Set de 26 puntas para herramientas eléctricas Milwaukee Shockwave",
-      "headline": null,
-      "post": "Este set Milwaukee Shockwave de 26 piezas ofrece puntas duraderas y de alto rendimiento para atornillar y taladrar. Ideal para profesionales y aficionados al bricolaje que buscan fiabilidad en sus herramientas eléctricas.",
-      "post_en": "This 26-piece Milwaukee Shockwave set provides durable, high-performance bits for screwdriving and drilling. It's ideal for professionals and DIY enthusiasts seeking reliability in their power tools.",
-      "price_new": 21.88,
-      "price_old": 38.21,
-      "currency": "USD",
-      "discount_pct": 42.7,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61BsxbDB73L._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B01GKRH49G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20127489",
-      "published_at": "2026-10-08T12:46:07+00:00",
-      "revalidated_at": "2026-10-09T17:16:51+00:00"
-    },
-    {
-      "asin": "B0FMS84LTN",
-      "title": "67-Piece LEGO Friends: Traffic - Unicorn Cake Delivery Car (42675, 2026) at Amazon",
-      "title_es": "LEGO Friends: Coche de reparto de tarta de unicornio (42675, 2026), 67 piezas",
-      "headline": null,
-      "post": "Construye el divertido coche de reparto de tarta de unicornio de LEGO Friends, un set de 67 piezas que incluye un vehículo y accesorios. Perfecto para pequeños constructores y fans de LEGO que disfrutan de historias creativas. 🦄",
-      "post_en": "Build the fun LEGO Friends Unicorn Cake Delivery Car, a 67-piece set that includes a vehicle and accessories. Perfect for young builders and LEGO fans who enjoy creative storytelling. 🦄",
-      "price_new": 5.99,
-      "price_old": 9.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81BbEjowmrL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FMS84LTN/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20121600",
-      "published_at": "2026-10-08T12:46:07+00:00",
-      "revalidated_at": "2026-10-09T15:32:23+00:00"
     }
   ]
 }
