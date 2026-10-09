@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T07:00:58+00:00",
+  "generated_at": "2026-10-09T07:15:52+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
     {
       "asin": "B0D47RZVR3",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20131608",
       "published_at": "2026-10-09T01:46:17+00:00",
-      "revalidated_at": "2026-10-09T05:16:22+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "B00XSSYR50",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20099982",
       "published_at": "2026-10-09T01:32:24+00:00",
-      "revalidated_at": "2026-10-09T05:16:22+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "B0FRL8T7V8",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127804",
       "published_at": "2026-10-09T01:32:24+00:00",
-      "revalidated_at": "2026-10-09T05:16:22+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "B0GHQPTT8C",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20131212",
       "published_at": "2026-10-09T01:32:24+00:00",
-      "revalidated_at": "2026-10-09T05:16:22+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "B0FYFFPJNS",
@@ -498,11 +498,11 @@
       "price_old": 139.99,
       "currency": "USD",
       "discount_pct": 45.4,
-      "rating": null,
+      "rating": 4.3,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21885489.thumb",
+      "image": "https://m.media-amazon.com/images/I/61Y-wVzY4YL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B08V57P86Z/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20128995",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20131170",
       "published_at": "2026-10-08T23:31:54+00:00",
-      "revalidated_at": "2026-10-09T05:16:22+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "B00EQE6BPY",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130366",
       "published_at": "2026-10-08T19:46:43+00:00",
-      "revalidated_at": "2026-10-09T05:16:22+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "0063280779",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129892",
       "published_at": "2026-10-08T17:46:30+00:00",
-      "revalidated_at": "2026-10-09T05:16:22+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "B01LYFWMQR",
@@ -1365,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20124405",
       "published_at": "2026-10-08T16:02:00+00:00",
-      "revalidated_at": "2026-10-09T05:16:22+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "B0GXXQ4YDG",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127450",
       "published_at": "2026-10-08T16:02:00+00:00",
-      "revalidated_at": "2026-10-09T05:16:22+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "B005Y575HC",
@@ -2025,29 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128485",
       "published_at": "2026-10-08T11:45:51+00:00",
-      "revalidated_at": "2026-10-09T05:16:22+00:00"
-    },
-    {
-      "asin": "B0CDCTBMKX",
-      "title": "72oz. Ninja Detect 1800W Pro Blender w/ BlendSense Technology",
-      "title_es": "Batidora profesional Ninja Detect de 1800W con tecnología BlendSense, 72 oz",
-      "headline": null,
-      "post": "La batidora Ninja Detect Pro de 1800W con tecnología BlendSense ofrece potencia y precisión para todas tus recetas. Es ideal para preparar batidos, sopas y salsas con resultados perfectos para cualquier cocina.",
-      "post_en": "The 1800W Ninja Detect Pro Blender with BlendSense Technology offers power and precision for all your recipes. It's ideal for preparing smoothies, soups, and sauces with perfect results for any kitchen.",
-      "price_new": 83.0,
-      "price_old": 149.99,
-      "currency": "USD",
-      "discount_pct": 44.7,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/8/6/6/3/0/450x450/21884352.thumb",
-      "url": "https://amazon.com/dp/B0CDCTBMKX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20119473",
-      "published_at": "2026-10-08T11:15:56+00:00",
-      "revalidated_at": "2026-10-09T05:16:22+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "B0HBWGLN1F",
@@ -2069,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127885",
       "published_at": "2026-10-08T11:15:56+00:00",
-      "revalidated_at": "2026-10-09T05:16:22+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "B0DRW8G3VY",
@@ -2091,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127921",
       "published_at": "2026-10-08T11:01:00+00:00",
-      "revalidated_at": "2026-10-09T05:16:22+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "B0D1CXL52G",
@@ -2553,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20123439",
       "published_at": "2026-10-08T02:45:59+00:00",
-      "revalidated_at": "2026-10-09T05:02:09+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "B06XDCPYYL",
@@ -2575,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20123979",
       "published_at": "2026-10-08T02:45:59+00:00",
-      "revalidated_at": "2026-10-09T05:02:09+00:00"
+      "revalidated_at": "2026-10-09T07:15:52+00:00"
     },
     {
       "asin": "B0DXNF6SSH",
