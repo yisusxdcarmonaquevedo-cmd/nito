@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-09T20:31:40+00:00",
+  "generated_at": "2026-10-09T20:46:31+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B07N741PC4",
+      "title": "Amazon Saver, Distilled White Vinegar, 16 Fl Oz",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 0.71,
+      "price_old": 1.23,
+      "currency": "USD",
+      "discount_pct": 42.3,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/3/8/5/5/1/8/0/450x450/21901815.thumb",
+      "url": "https://amazon.com/dp/B07N741PC4/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20134935",
+      "published_at": "2026-10-09T20:46:31+00:00",
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
+    },
     {
       "asin": "B0D7FWNDZJ",
       "title": "Apple 35W Dual USB-C Port Power Adapter at Amazon",
@@ -58,11 +80,11 @@
       "price_old": 34.98,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "107KOUX7",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21898806.thumb",
+      "image": "https://m.media-amazon.com/images/I/91xIXvqwjiL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GXDTQ3G3/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20134068",
@@ -199,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127126",
       "published_at": "2026-10-09T18:46:50+00:00",
-      "revalidated_at": "2026-10-09T18:46:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B0HJHRSBPX",
@@ -463,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20134020",
       "published_at": "2026-10-09T16:47:16+00:00",
-      "revalidated_at": "2026-10-09T18:46:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B0GH2PP5KK",
@@ -485,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20134482",
       "published_at": "2026-10-09T16:47:16+00:00",
-      "revalidated_at": "2026-10-09T18:46:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B0F8N92BVJ",
@@ -1343,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20131608",
       "published_at": "2026-10-09T01:46:17+00:00",
-      "revalidated_at": "2026-10-09T18:46:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B00XSSYR50",
@@ -1365,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20099982",
       "published_at": "2026-10-09T01:32:24+00:00",
-      "revalidated_at": "2026-10-09T18:46:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B0FRL8T7V8",
@@ -1387,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127804",
       "published_at": "2026-10-09T01:32:24+00:00",
-      "revalidated_at": "2026-10-09T18:46:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B0GHQPTT8C",
@@ -1409,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20131212",
       "published_at": "2026-10-09T01:32:24+00:00",
-      "revalidated_at": "2026-10-09T18:46:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B0FYFFPJNS",
@@ -1629,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20131170",
       "published_at": "2026-10-08T23:31:54+00:00",
-      "revalidated_at": "2026-10-09T18:46:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B00EQE6BPY",
@@ -2025,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128371",
       "published_at": "2026-10-08T18:46:51+00:00",
-      "revalidated_at": "2026-10-09T18:31:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B0D4M581B3",
@@ -2047,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130123",
       "published_at": "2026-10-08T18:46:51+00:00",
-      "revalidated_at": "2026-10-09T18:31:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B0157T1ZK2",
@@ -2069,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130315",
       "published_at": "2026-10-08T18:31:49+00:00",
-      "revalidated_at": "2026-10-09T18:31:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B0C8VKNJ1B",
@@ -2091,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130204",
       "published_at": "2026-10-08T18:31:49+00:00",
-      "revalidated_at": "2026-10-09T18:31:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B0DPQTNJHP",
@@ -2201,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129910",
       "published_at": "2026-10-08T17:34:06+00:00",
-      "revalidated_at": "2026-10-09T18:31:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B0GVJRMXKH",
@@ -2223,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129346",
       "published_at": "2026-10-08T17:31:40+00:00",
-      "revalidated_at": "2026-10-09T18:31:50+00:00"
+      "revalidated_at": "2026-10-09T20:46:31+00:00"
     },
     {
       "asin": "B002JJWBCU",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:20128662",
       "published_at": "2026-10-08T14:16:54+00:00",
       "revalidated_at": "2026-10-09T20:01:44+00:00"
-    },
-    {
-      "asin": "059383612X",
-      "title": "Dungeons & Dragons Young Adventurer's Box Set 2 (4-Book Paperback) at Amazon",
-      "title_es": "Dungeons & Dragons Young Adventurer's Box Set 2 (4 Libros de Tapa Blanda)",
-      "headline": null,
-      "post": "Sumérgete en el mundo de Dungeons & Dragons con este Box Set 2 para jóvenes aventureros, que incluye 4 libros de tapa blanda. Es perfecto para introducir a los nuevos jugadores en este icónico juego de rol. 🐉",
-      "post_en": "Dive into the world of Dungeons & Dragons with this Young Adventurer's Box Set 2, which includes 4 paperback books. It's perfect for introducing new players to this iconic role-playing game. 🐉",
-      "price_new": 11.96,
-      "price_old": 34.99,
-      "currency": "USD",
-      "discount_pct": 65.8,
-      "rating": 4.9,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81YLjozUwpL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/059383612X/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20127990",
-      "published_at": "2026-10-08T13:46:53+00:00",
-      "revalidated_at": "2026-10-09T19:16:39+00:00"
     }
   ]
 }
