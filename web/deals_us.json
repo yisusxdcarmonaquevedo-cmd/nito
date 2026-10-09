@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T02:16:35+00:00",
+  "generated_at": "2026-10-09T02:30:19+00:00",
   "market": "us",
-  "count": 119,
+  "count": 117,
   "deals": [
     {
       "asin": "B0CBS1RSBD",
@@ -14,11 +14,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 86.3,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "KRCIUMCE",
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21889743.thumb",
+      "image": "https://m.media-amazon.com/images/I/5178SyGvGcL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CBS1RSBD/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20130408",
@@ -36,11 +36,11 @@
       "price_old": 29.98,
       "currency": "USD",
       "discount_pct": 67.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "96DFX1JY",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/4/2/9/3/0/8/450x450/21814098.thumb",
+      "image": "https://m.media-amazon.com/images/I/71IGZEizB2L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FMFLZMKX/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20102304",
@@ -309,51 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20131470",
       "published_at": "2026-10-09T00:31:50+00:00",
-      "revalidated_at": "2026-10-09T00:31:50+00:00"
-    },
-    {
-      "asin": "B0CF3VGQFL",
-      "title": "[Prime] Redragon K671 Wired Red Switch Mechanical Gaming Keyboard w/ PBT Keycaps",
-      "title_es": "Teclado Mecánico Gaming Redragon K671 con Switches Rojos y Teclas PBT (Cableado)",
-      "headline": null,
-      "post": "El teclado mecánico Redragon K671 es ideal para gamers, ofreciendo switches rojos para una respuesta rápida y teclas PBT de alta durabilidad.",
-      "post_en": "The Redragon K671 mechanical keyboard is ideal for gamers, featuring red switches for fast response and durable PBT keycaps.",
-      "price_new": 23.99,
-      "price_old": 42.21,
-      "currency": "USD",
-      "discount_pct": 43.2,
-      "rating": 4.3,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71Bk2A2WmOL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CF3VGQFL/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20124315",
-      "published_at": "2026-10-09T00:31:50+00:00",
-      "revalidated_at": "2026-10-09T00:31:50+00:00"
-    },
-    {
-      "asin": "B07YNJMWTC",
-      "title": "Kwikset SmartCode 917 Halifax Electronic Keypad Lever Lock",
-      "title_es": "Cerradura Electrónica con Teclado Kwikset SmartCode 917 Halifax (Manilla)",
-      "headline": null,
-      "post": "Esta cerradura electrónica Kwikset SmartCode 917 Halifax ofrece seguridad y comodidad sin llave para tu hogar, permitiendo el acceso mediante un teclado.",
-      "post_en": "This Kwikset SmartCode 917 Halifax electronic lock provides keyless security and convenience for your home, allowing access via a keypad.",
-      "price_new": 68.72,
-      "price_old": 128.0,
-      "currency": "USD",
-      "discount_pct": 46.3,
-      "rating": 4.4,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/611TYF0IQYL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07YNJMWTC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20127132",
-      "published_at": "2026-10-09T00:31:50+00:00",
-      "revalidated_at": "2026-10-09T00:31:50+00:00"
+      "revalidated_at": "2026-10-09T02:30:19+00:00"
     },
     {
       "asin": "B07HBMC32Y",
@@ -441,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128692",
       "published_at": "2026-10-09T00:17:04+00:00",
-      "revalidated_at": "2026-10-09T00:17:04+00:00"
+      "revalidated_at": "2026-10-09T02:30:19+00:00"
     },
     {
       "asin": "B0HCNVQ47F",
@@ -463,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129070",
       "published_at": "2026-10-09T00:17:04+00:00",
-      "revalidated_at": "2026-10-09T00:17:04+00:00"
+      "revalidated_at": "2026-10-09T02:30:19+00:00"
     },
     {
       "asin": "B00HSSZKAW",
@@ -485,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128071",
       "published_at": "2026-10-09T00:17:04+00:00",
-      "revalidated_at": "2026-10-09T00:17:04+00:00"
+      "revalidated_at": "2026-10-09T02:30:19+00:00"
     },
     {
       "asin": "0593820258",
@@ -617,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128671",
       "published_at": "2026-10-08T22:32:11+00:00",
-      "revalidated_at": "2026-10-09T00:31:50+00:00"
+      "revalidated_at": "2026-10-09T02:30:19+00:00"
     },
     {
       "asin": "B0H9KCNKJS",
@@ -683,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130531",
       "published_at": "2026-10-08T20:46:35+00:00",
-      "revalidated_at": "2026-10-09T00:31:50+00:00"
+      "revalidated_at": "2026-10-09T02:30:19+00:00"
     },
     {
       "asin": "B0D7HRDP9D",
@@ -705,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130591",
       "published_at": "2026-10-08T20:31:45+00:00",
-      "revalidated_at": "2026-10-09T00:17:04+00:00"
+      "revalidated_at": "2026-10-09T02:30:19+00:00"
     },
     {
       "asin": "B0FMBTJLX6",
@@ -881,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129994",
       "published_at": "2026-10-08T18:46:51+00:00",
-      "revalidated_at": "2026-10-09T00:31:50+00:00"
+      "revalidated_at": "2026-10-09T02:30:19+00:00"
     },
     {
       "asin": "0063392933",
@@ -903,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130243",
       "published_at": "2026-10-08T18:46:51+00:00",
-      "revalidated_at": "2026-10-09T00:31:50+00:00"
+      "revalidated_at": "2026-10-09T02:30:19+00:00"
     },
     {
       "asin": "B07N9N9J2R",
@@ -969,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130315",
       "published_at": "2026-10-08T18:31:49+00:00",
-      "revalidated_at": "2026-10-09T00:17:04+00:00"
+      "revalidated_at": "2026-10-09T02:30:19+00:00"
     },
     {
       "asin": "B0C8VKNJ1B",
@@ -991,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130204",
       "published_at": "2026-10-08T18:31:49+00:00",
-      "revalidated_at": "2026-10-09T00:17:04+00:00"
+      "revalidated_at": "2026-10-09T02:30:19+00:00"
     },
     {
       "asin": "B0DPQTNJHP",
@@ -1211,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20127651",
       "published_at": "2026-10-08T16:46:37+00:00",
-      "revalidated_at": "2026-10-09T00:17:04+00:00"
+      "revalidated_at": "2026-10-09T02:30:19+00:00"
     },
     {
       "asin": "B0CWQ39RB9",
@@ -1233,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20115336",
       "published_at": "2026-10-08T16:46:37+00:00",
-      "revalidated_at": "2026-10-09T00:17:04+00:00"
+      "revalidated_at": "2026-10-09T02:30:19+00:00"
     },
     {
       "asin": "B08LPNXP92",
