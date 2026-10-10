@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-10T00:45:49+00:00",
+  "generated_at": "2026-10-10T00:57:58+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B07PK2F4R2",
+      "title": "Cincom Corded Electric Air Compression Leg Massager",
+      "title_es": "Masajeador de Piernas Eléctrico con Compresión de Aire Cincom",
+      "headline": null,
+      "post": "Este masajeador de piernas con compresión de aire eléctrica ayuda a aliviar la fatiga y mejorar la circulación. Es ideal para personas que pasan mucho tiempo de pie o necesitan relajar sus músculos.",
+      "post_en": "This electric air compression leg massager helps relieve fatigue and improve circulation. It's ideal for people who spend a lot of time on their feet or need to relax their muscles.",
+      "price_new": 40.0,
+      "price_old": 83.99,
+      "currency": "USD",
+      "discount_pct": 52.4,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "K4892OSW",
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/81sdDfZgHNL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07PK2F4R2/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20134500",
+      "published_at": "2026-10-10T00:57:58+00:00",
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
+    },
+    {
+      "asin": "B0FXMY75ZV",
+      "title": "Under Armour Men's Surge 5 Running Shoes, 001 Black, 11",
+      "title_es": "Zapatillas de Running Under Armour Surge 5 para Hombre",
+      "headline": null,
+      "post": "Las zapatillas de running Under Armour Surge 5 ofrecen comodidad y soporte para tus entrenamientos diarios. Son perfectas para corredores que buscan un calzado ligero y resistente.",
+      "post_en": "The Under Armour Surge 5 running shoes provide comfort and support for your daily workouts. They are perfect for runners looking for lightweight and durable footwear.",
+      "price_new": 36.56,
+      "price_old": 65.0,
+      "currency": "USD",
+      "discount_pct": 43.8,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/7/9/3/8/8/9/1/450x450/21897339.thumb",
+      "url": "https://amazon.com/dp/B0FXMY75ZV/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20133558",
+      "published_at": "2026-10-10T00:57:58+00:00",
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
+    },
+    {
+      "asin": "B0CKY88GMT",
+      "title": "Thermaltake GF1 850W Fully Modular 80 Plus Gold ATX Power Supply at Amazon",
+      "title_es": "Fuente de Alimentación Thermaltake GF1 850W Totalmente Modular 80 Plus Gold ATX",
+      "headline": null,
+      "post": "Esta fuente de alimentación Thermaltake GF1 de 850W ofrece eficiencia 80 Plus Gold y un diseño totalmente modular. Es ideal para entusiastas que buscan un rendimiento fiable y una gestión de cables limpia en su PC.",
+      "post_en": "This Thermaltake GF1 850W power supply features 80 Plus Gold efficiency and a fully modular design. It's ideal for enthusiasts seeking reliable performance and clean cable management in their PC.",
+      "price_new": 75.9,
+      "price_old": 109.99,
+      "currency": "USD",
+      "discount_pct": 31.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21903123.thumb",
+      "url": "https://amazon.com/dp/B0CKY88GMT/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20135418",
+      "published_at": "2026-10-10T00:57:58+00:00",
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
+    },
+    {
+      "asin": "B0GJ6896TZ",
+      "title": "78 x 54\" Kaixinbao Waterproof PVC Vinyl Rectangular Tablecloth",
+      "title_es": "Mantel Rectangular de Vinilo PVC Impermeable Kaixinbao (78 x 54\")",
+      "headline": null,
+      "post": "Este mantel rectangular Kaixinbao de PVC vinilo es impermeable y fácil de limpiar, ideal para proteger tu mesa. Perfecto para el uso diario o eventos, combinando funcionalidad y estilo práctico en tu hogar.",
+      "post_en": "This Kaixinbao rectangular PVC vinyl tablecloth is waterproof and easy to clean, perfect for protecting your table. Ideal for daily use or events, combining functionality and practical style in your home.",
+      "price_new": 5.6,
+      "price_old": 15.99,
+      "currency": "USD",
+      "discount_pct": 65.0,
+      "rating": 4.4,
+      "condition": "code",
+      "code": "KGAVO29Q",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71eBBRdJoaL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GJ6896TZ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20130114",
+      "published_at": "2026-10-10T00:57:58+00:00",
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
+    },
     {
       "asin": "B000HD4LNC",
       "title": "Sunex Tools 1/2\" Drive 1-1/16\" Deep Impact Socket at Amazon",
@@ -58,11 +146,11 @@
       "price_old": 54.99,
       "currency": "USD",
       "discount_pct": 30.0,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21895734.thumb",
+      "image": "https://m.media-amazon.com/images/I/51-2xu0JZ+L._AC_SL1000_.jpg",
       "url": "https://amazon.com/dp/B0BDFLCF7W/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20132919",
@@ -221,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135676",
       "published_at": "2026-10-09T23:01:46+00:00",
-      "revalidated_at": "2026-10-09T23:01:46+00:00"
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
     },
     {
       "asin": "B099JQ3G5L",
@@ -243,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135451",
       "published_at": "2026-10-09T23:01:46+00:00",
-      "revalidated_at": "2026-10-09T23:01:46+00:00"
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
     },
     {
       "asin": "B0FW749JG8",
@@ -463,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135046",
       "published_at": "2026-10-09T21:10:58+00:00",
-      "revalidated_at": "2026-10-09T23:01:46+00:00"
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
     },
     {
       "asin": "B0GWR5CJNZ",
@@ -485,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20116275",
       "published_at": "2026-10-09T21:10:58+00:00",
-      "revalidated_at": "2026-10-09T23:01:46+00:00"
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
     },
     {
       "asin": "B07N741PC4",
@@ -617,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135061",
       "published_at": "2026-10-09T19:16:39+00:00",
-      "revalidated_at": "2026-10-09T23:01:46+00:00"
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
     },
     {
       "asin": "B0D2XRXNGY",
@@ -1321,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20095836",
       "published_at": "2026-10-09T13:17:02+00:00",
-      "revalidated_at": "2026-10-09T22:46:03+00:00"
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
     },
     {
       "asin": "B0989JLFGW",
@@ -1519,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20131425",
       "published_at": "2026-10-09T09:31:15+00:00",
-      "revalidated_at": "2026-10-09T22:46:03+00:00"
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
     },
     {
       "asin": "B09X22BTZT",
@@ -2333,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130366",
       "published_at": "2026-10-08T19:46:43+00:00",
-      "revalidated_at": "2026-10-09T22:46:03+00:00"
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
     },
     {
       "asin": "0063280779",
@@ -2465,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130123",
       "published_at": "2026-10-08T18:46:51+00:00",
-      "revalidated_at": "2026-10-09T22:46:03+00:00"
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
     },
     {
       "asin": "B0157T1ZK2",
@@ -2487,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130315",
       "published_at": "2026-10-08T18:31:49+00:00",
-      "revalidated_at": "2026-10-09T22:46:03+00:00"
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
     },
     {
       "asin": "B0C8VKNJ1B",
@@ -2509,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130204",
       "published_at": "2026-10-08T18:31:49+00:00",
-      "revalidated_at": "2026-10-09T22:46:03+00:00"
+      "revalidated_at": "2026-10-10T00:57:58+00:00"
     },
     {
       "asin": "B0DPQTNJHP",
@@ -2554,72 +2642,6 @@
       "deal_key": "sd:20128770",
       "published_at": "2026-10-08T18:16:25+00:00",
       "revalidated_at": "2026-10-09T23:16:09+00:00"
-    },
-    {
-      "asin": "1984858475",
-      "title": "The New York Times Cooking No-Recipe Recipes Cookbook (Paperback) at Amazon",
-      "title_es": "Libro de Cocina The New York Times Cooking No-Recipe Recipes (Tapa Blanda)",
-      "headline": null,
-      "post": "Un innovador libro de cocina de The New York Times con recetas sin medidas exactas. Perfecto para cocineros creativos que buscan inspiración y libertad en la cocina. 🧑‍🍳",
-      "post_en": "An innovative cookbook from The New York Times featuring \"no-recipe\" recipes. Perfect for creative cooks looking for inspiration and freedom in the kitchen. 🧑‍🍳",
-      "price_new": 12.46,
-      "price_old": 30.0,
-      "currency": "USD",
-      "discount_pct": 58.5,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81u4o3OpiUL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/1984858475/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20128047",
-      "published_at": "2026-10-08T18:01:51+00:00",
-      "revalidated_at": "2026-10-09T23:31:00+00:00"
-    },
-    {
-      "asin": "B0CXPQKHR3",
-      "title": "Nothing Ear 2024 Wireless Earbuds (Black) at Amazon",
-      "title_es": "Auriculares Inalámbricos Nothing Ear 2024 (Negro)",
-      "headline": null,
-      "post": "Auriculares inalámbricos Nothing Ear 2024 en color negro, con un diseño distintivo y sonido de calidad. Ideales para disfrutar de tu música y llamadas con total libertad.",
-      "post_en": "Nothing Ear 2024 wireless earbuds in black, featuring a distinctive design and quality sound. Perfect for enjoying your music and calls with complete freedom.",
-      "price_new": 59.0,
-      "price_old": 109.0,
-      "currency": "USD",
-      "discount_pct": 45.9,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71yBwsWt81L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CXPQKHR3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20129892",
-      "published_at": "2026-10-08T17:46:30+00:00",
-      "revalidated_at": "2026-10-09T23:01:46+00:00"
-    },
-    {
-      "asin": "B01LYFWMQR",
-      "title": "12-Oz Keurig Stainless Steel Insulated Coffee Travel Mug (Silver)",
-      "title_es": "Taza de Viaje Aislada Keurig de Acero Inoxidable de 12 Oz. (Plateada)",
-      "headline": null,
-      "post": "Taza de viaje Keurig de acero inoxidable de 12 oz. con aislamiento térmico. Mantiene tu café o bebida caliente por más tiempo, ideal para llevar.",
-      "post_en": "A 12-oz Keurig stainless steel insulated travel mug. It keeps your coffee or beverage hot for longer, perfect for on-the-go enjoyment.",
-      "price_new": 6.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 80.0,
-      "rating": 4.4,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61hw8lujkzL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B01LYFWMQR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20129910",
-      "published_at": "2026-10-08T17:34:06+00:00",
-      "revalidated_at": "2026-10-09T22:46:03+00:00"
     }
   ]
 }
