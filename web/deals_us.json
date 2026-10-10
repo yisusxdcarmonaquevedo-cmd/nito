@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T09:31:02+00:00",
+  "generated_at": "2026-10-10T09:46:06+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0F3WWBC5G",
@@ -661,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135646",
       "published_at": "2026-10-10T00:16:01+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B0G3V49M5W",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20136153",
       "published_at": "2026-10-10T00:16:01+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B0HH94WQG5",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135856",
       "published_at": "2026-10-09T22:15:56+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B0H4VNJZXK",
@@ -881,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135652",
       "published_at": "2026-10-09T22:15:56+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B09ZV2TX28",
@@ -916,11 +916,11 @@
       "price_old": 29.99,
       "currency": "USD",
       "discount_pct": 45.0,
-      "rating": null,
+      "rating": 4.1,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21897630.thumb",
+      "image": "https://m.media-amazon.com/images/I/71qxhwHtZIL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DKXH45C2/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20133672",
@@ -960,11 +960,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 57.2,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "SMPPTTZV",
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/21902457.thumb",
+      "image": "https://m.media-amazon.com/images/I/81TApLg8XPL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GBXBQRWM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20135223",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20133480",
       "published_at": "2026-10-09T14:47:18+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B0F8J83GLH",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20133261",
       "published_at": "2026-10-09T12:46:44+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B00H5PJ0HW",
@@ -1960,28 +1960,6 @@
       "deal_key": "sd:20132523",
       "published_at": "2026-10-09T12:02:32+00:00",
       "revalidated_at": "2026-10-10T09:31:02+00:00"
-    },
-    {
-      "asin": "B07SQQ9KPK",
-      "title": "6-Pack 10x10\" Bamboo Baby Washcloths (Gray Stripe)",
-      "title_es": "Pack de 6 toallitas de bambú para bebé de 10x10\" (rayas grises)",
-      "headline": null,
-      "post": "Este pack de 6 toallitas de bambú para bebé de 10x10\" es ultrasuave y delicado con la piel sensible. Son ideales para el baño diario, la limpieza o como pañuelos multiusos. 👶",
-      "post_en": "This 6-pack of 10x10\" bamboo baby washcloths is ultra-soft and gentle on sensitive skin. They are ideal for daily bathing, cleaning, or as multi-purpose wipes. 👶",
-      "price_new": 4.04,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 88.5,
-      "rating": 4.8,
-      "condition": "code",
-      "code": "50HIPHOPW",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71ke5kGf4cL._SL1440_.jpg",
-      "url": "https://amazon.com/dp/B07SQQ9KPK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20133066",
-      "published_at": "2026-10-09T10:46:08+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
     },
     {
       "asin": "B0GRFNTFG1",
@@ -2135,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20128125",
       "published_at": "2026-10-09T07:00:58+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B0014D2DA2",
@@ -2157,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130666",
       "published_at": "2026-10-09T05:02:09+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B08F7ZQWNB",
@@ -2179,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20131599",
       "published_at": "2026-10-09T02:46:43+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B0G4491JBY",
@@ -2201,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20131995",
       "published_at": "2026-10-09T02:46:43+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B0CBS1RSBD",
@@ -2223,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130408",
       "published_at": "2026-10-09T02:16:35+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B0FMFLZMKX",
@@ -2245,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20102304",
       "published_at": "2026-10-09T02:16:35+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B0009V1YR8",
@@ -2267,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20124765",
       "published_at": "2026-10-09T02:16:35+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B0FBWX7QR6",
@@ -2443,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129430",
       "published_at": "2026-10-09T00:46:29+00:00",
-      "revalidated_at": "2026-10-10T07:46:02+00:00"
+      "revalidated_at": "2026-10-10T09:46:06+00:00"
     },
     {
       "asin": "B0DV4MK8YT",
