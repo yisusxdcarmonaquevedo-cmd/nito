@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T19:31:00+00:00",
+  "generated_at": "2026-10-10T19:45:56+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
     {
       "asin": "B0B8LBVBJD",
@@ -102,11 +102,11 @@
       "price_old": 43.99,
       "currency": "USD",
       "discount_pct": 59.1,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "A9TFC230",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21910188.thumb",
+      "image": "https://m.media-amazon.com/images/I/81sh1jfKqUL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0HCVTNQD2/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20138733",
@@ -356,28 +356,6 @@
       "revalidated_at": "2026-10-10T18:00:51+00:00"
     },
     {
-      "asin": "B07R2MQ2PY",
-      "title": "used Philips Hue Smart 60W A19 LED Bulb - Soft Warm White Light - 2 Pack - 800LM - E26 as long as",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.59,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 84.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/7/8/4/1/4/2/450x450/21910872.thumb",
-      "url": "https://amazon.com/dp/B07R2MQ2PY/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20138865",
-      "published_at": "2026-10-10T16:01:00+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
-    },
-    {
       "asin": "B000LDF0UG",
       "title": "12-Pack Akro-Mils 30230 AkroBins Plastic Storage Bins, 11\"x5\"x5\", Blue at Amazon",
       "title_es": null,
@@ -397,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20138286",
       "published_at": "2026-10-10T16:01:00+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     },
     {
       "asin": "B0DXRK55S5",
@@ -661,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135430",
       "published_at": "2026-10-10T14:00:56+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     },
     {
       "asin": "B0FMS5FSR9",
@@ -815,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20138127",
       "published_at": "2026-10-10T12:16:18+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     },
     {
       "asin": "B0F1234HKK",
@@ -969,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20136342",
       "published_at": "2026-10-10T04:31:20+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     },
     {
       "asin": "B0HJTT2S6R",
@@ -991,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135025",
       "published_at": "2026-10-10T04:31:20+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     },
     {
       "asin": "B0FDB3H3S3",
@@ -1101,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129076",
       "published_at": "2026-10-10T02:30:45+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     },
     {
       "asin": "B0H6JVZZVF",
@@ -1123,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129034",
       "published_at": "2026-10-10T02:16:17+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     },
     {
       "asin": "B0FHMY11JH",
@@ -1145,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20110071",
       "published_at": "2026-10-10T02:16:17+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     },
     {
       "asin": "B07D671F8P",
@@ -1167,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20136411",
       "published_at": "2026-10-10T02:16:17+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     },
     {
       "asin": "B0GRTVXW5P",
@@ -1189,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20134425",
       "published_at": "2026-10-10T02:16:17+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     },
     {
       "asin": "B0G58P15PX",
@@ -1453,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135277",
       "published_at": "2026-10-10T00:45:49+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     },
     {
       "asin": "B0978DVRZK",
@@ -1475,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135940",
       "published_at": "2026-10-10T00:45:49+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     },
     {
       "asin": "B0BDFLCF7W",
@@ -2509,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20131215",
       "published_at": "2026-10-09T14:32:33+00:00",
-      "revalidated_at": "2026-10-10T17:45:51+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     },
     {
       "asin": "B0C832WMLR",
@@ -2619,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20133111",
       "published_at": "2026-10-09T13:46:51+00:00",
-      "revalidated_at": "2026-10-10T17:45:51+00:00"
+      "revalidated_at": "2026-10-10T19:45:56+00:00"
     }
   ]
 }
