@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T19:45:56+00:00",
+  "generated_at": "2026-10-10T20:00:57+00:00",
   "market": "us",
-  "count": 118,
+  "count": 117,
   "deals": [
     {
       "asin": "B0B8LBVBJD",
@@ -168,11 +168,11 @@
       "price_old": 1168.0,
       "currency": "USD",
       "discount_pct": 89.0,
-      "rating": null,
+      "rating": 3.9,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/21904671.thumb",
+      "image": "https://m.media-amazon.com/images/I/71OlN0AJMvL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GSBMLCH5/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20136087",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20138415",
       "published_at": "2026-10-10T16:15:58+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B000LDF0UG",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129490",
       "published_at": "2026-10-10T14:15:56+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B0H1KVWPDP",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20137971",
       "published_at": "2026-10-10T12:31:13+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B0DM3K7VM9",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20137884",
       "published_at": "2026-10-10T12:31:13+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B0GR1JK9W3",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20137722",
       "published_at": "2026-10-10T10:31:14+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B0BP9X3STP",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20134449",
       "published_at": "2026-10-10T02:46:01+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B0FGTK1J8T",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20136156",
       "published_at": "2026-10-10T02:46:01+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B0C1P649QS",
@@ -1343,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20134500",
       "published_at": "2026-10-10T00:57:58+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B0FXMY75ZV",
@@ -1365,29 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20133558",
       "published_at": "2026-10-10T00:57:58+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
-    },
-    {
-      "asin": "B0CKY88GMT",
-      "title": "Thermaltake GF1 850W Fully Modular 80 Plus Gold ATX Power Supply at Amazon",
-      "title_es": "Fuente de Alimentación Thermaltake GF1 850W Totalmente Modular 80 Plus Gold ATX",
-      "headline": null,
-      "post": "Esta fuente de alimentación Thermaltake GF1 de 850W ofrece eficiencia 80 Plus Gold y un diseño totalmente modular. Es ideal para entusiastas que buscan un rendimiento fiable y una gestión de cables limpia en su PC.",
-      "post_en": "This Thermaltake GF1 850W power supply features 80 Plus Gold efficiency and a fully modular design. It's ideal for enthusiasts seeking reliable performance and clean cable management in their PC.",
-      "price_new": 75.9,
-      "price_old": 109.99,
-      "currency": "USD",
-      "discount_pct": 31.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71dvmHuVvnL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CKY88GMT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20135418",
-      "published_at": "2026-10-10T00:57:58+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B0GJ6896TZ",
@@ -1409,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20130114",
       "published_at": "2026-10-10T00:57:58+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B000HD4LNC",
@@ -1475,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20132919",
       "published_at": "2026-10-10T00:45:49+00:00",
-      "revalidated_at": "2026-10-10T17:58:07+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B0G4SVV79P",
@@ -1607,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135676",
       "published_at": "2026-10-09T23:01:46+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B099JQ3G5L",
@@ -1651,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135607",
       "published_at": "2026-10-09T22:46:03+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B08HPJTNHY",
@@ -1827,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20134935",
       "published_at": "2026-10-09T20:46:31+00:00",
-      "revalidated_at": "2026-10-10T18:00:51+00:00"
+      "revalidated_at": "2026-10-10T20:00:57+00:00"
     },
     {
       "asin": "B0GV2BFJ99",
