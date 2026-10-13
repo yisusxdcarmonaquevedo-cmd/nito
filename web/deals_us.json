@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-13T05:16:21+00:00",
+  "generated_at": "2026-10-13T05:31:46+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B09MYNX9BV",
+      "title": "[Prime] 4000mAh Woowind 150 PSI Cordless Portable Tire Inflator Air Compressor",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.79,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 57.4,
+      "rating": 4.4,
+      "condition": "code",
+      "code": "JJ7OGZR2",
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/71scC87OhaL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09MYNX9BV/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20150292",
+      "published_at": "2026-10-13T05:31:45+00:00",
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
+    },
+    {
+      "asin": "B0F8NP3YHL",
+      "title": "UGREEN 240W USB C Cable 2-Pack, Fast Charging for Laptops & Phones, 10ft",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.99,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 33.3,
+      "rating": 4.9,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81Q0iMZueHL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0F8NP3YHL/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20149338",
+      "published_at": "2026-10-13T05:31:45+00:00",
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
+    },
     {
       "asin": "B0GZMM3M51",
       "title": "3-Pack 18\" No Stuffing Crinkle Squeaky Plush Dog Toys (Elephant, Cattle & Monkey)",
@@ -221,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20149821",
       "published_at": "2026-10-13T03:46:29+00:00",
-      "revalidated_at": "2026-10-13T03:46:29+00:00"
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
     },
     {
       "asin": "B0FVDY1BZ3",
@@ -595,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20148774",
       "published_at": "2026-10-13T01:46:32+00:00",
-      "revalidated_at": "2026-10-13T03:46:29+00:00"
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
     },
     {
       "asin": "B0GYWF7T5L",
@@ -617,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20145909",
       "published_at": "2026-10-13T01:46:32+00:00",
-      "revalidated_at": "2026-10-13T03:46:29+00:00"
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
     },
     {
       "asin": "B0G2SGPVRQ",
@@ -639,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20149551",
       "published_at": "2026-10-13T01:46:32+00:00",
-      "revalidated_at": "2026-10-13T03:46:29+00:00"
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
     },
     {
       "asin": "B0GSS79BNY",
@@ -828,11 +872,11 @@
       "price_old": 11.99,
       "currency": "USD",
       "discount_pct": 75.1,
-      "rating": null,
+      "rating": 4.3,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21924105.thumb",
+      "image": "https://m.media-amazon.com/images/I/91bXPp-g3SL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B01JK5SU2U/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20144838",
@@ -872,11 +916,11 @@
       "price_old": 34.97,
       "currency": "USD",
       "discount_pct": 30.1,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21931296.thumb",
+      "image": "https://m.media-amazon.com/images/I/61r-19h60BL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B07W4KX82N/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20147112",
@@ -894,11 +938,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 91.5,
-      "rating": null,
+      "rating": 3.5,
       "condition": "coupon",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/7/4/7/9/3/450x450/21935649.thumb",
+      "image": "https://m.media-amazon.com/images/I/71pMWsjpwxL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GW2XDHDD/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20148609",
@@ -916,11 +960,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 80.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/21936441.thumb",
+      "image": "https://m.media-amazon.com/images/I/615olpOwJCL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BCXVBFQ2/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20148951",
@@ -1299,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20148150",
       "published_at": "2026-10-12T19:46:28+00:00",
-      "revalidated_at": "2026-10-13T03:46:29+00:00"
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
     },
     {
       "asin": "B0H9X8X68K",
@@ -1607,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147040",
       "published_at": "2026-10-12T17:46:34+00:00",
-      "revalidated_at": "2026-10-13T03:46:29+00:00"
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
     },
     {
       "asin": "B0H3YRXCBN",
@@ -1673,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147133",
       "published_at": "2026-10-12T17:31:48+00:00",
-      "revalidated_at": "2026-10-13T03:31:46+00:00"
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
     },
     {
       "asin": "B06X3TR53X",
@@ -1871,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146335",
       "published_at": "2026-10-12T15:46:43+00:00",
-      "revalidated_at": "2026-10-13T03:31:46+00:00"
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
     },
     {
       "asin": "B0DWX4YTLJ",
@@ -1893,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20129049",
       "published_at": "2026-10-12T15:46:43+00:00",
-      "revalidated_at": "2026-10-13T03:31:46+00:00"
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
     },
     {
       "asin": "B0CST346DW",
@@ -1959,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146257",
       "published_at": "2026-10-12T15:31:59+00:00",
-      "revalidated_at": "2026-10-13T03:46:29+00:00"
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
     },
     {
       "asin": "B0C9ZDB58H",
@@ -2179,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20144730",
       "published_at": "2026-10-12T14:02:05+00:00",
-      "revalidated_at": "2026-10-13T03:46:29+00:00"
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
     },
     {
       "asin": "B004J0YPAI",
@@ -2201,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20144877",
       "published_at": "2026-10-12T13:46:53+00:00",
-      "revalidated_at": "2026-10-13T03:46:29+00:00"
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
     },
     {
       "asin": "B0DSVJBY4L",
@@ -2597,29 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20144340",
       "published_at": "2026-10-12T09:16:19+00:00",
-      "revalidated_at": "2026-10-13T03:31:46+00:00"
-    },
-    {
-      "asin": "B08NXC2CMC",
-      "title": "YADIFEN Womens Sports Bras 3/4/6 Pack Wireless Seamless Yoga Sleep Bra",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 14.03,
-      "price_old": 38.99,
-      "currency": "USD",
-      "discount_pct": 64.0,
-      "rating": 4.1,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/71mcSVDNPsL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B08NXC2CMC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20144277",
-      "published_at": "2026-10-12T09:16:19+00:00",
-      "revalidated_at": "2026-10-13T03:46:29+00:00"
+      "revalidated_at": "2026-10-13T05:31:46+00:00"
     }
   ]
 }
