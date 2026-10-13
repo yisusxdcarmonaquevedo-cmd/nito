@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-13T15:16:47+00:00",
+  "generated_at": "2026-10-13T15:31:48+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "0544273443",
+      "title": "The Lord of the Rings Deluxe Edition (Hardcover Book) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.59,
+      "price_old": 40.0,
+      "currency": "USD",
+      "discount_pct": 51.0,
+      "rating": 4.8,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/51t0Z0DfEfL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/0544273443/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20152089",
+      "published_at": "2026-10-13T15:31:48+00:00",
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
+    },
+    {
+      "asin": "B0DSQ6P57T",
+      "title": "Onkyo Creator Series GX-10DB Powered Speakers, Black - 3\" woofer, USB/C, line/Phono, Optical Ports and Bluetooth 5.3 LE Audio connectivity",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 159.0,
+      "price_old": 249.0,
+      "currency": "USD",
+      "discount_pct": 36.1,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61umP2klsML._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DSQ6P57T/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20117289",
+      "published_at": "2026-10-13T15:31:48+00:00",
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
+    },
     {
       "asin": "B0CT5Q6NP3",
       "title": "COOLGUARDER Led Mask with Gesture Sensing, Light up Mask toy for gift",
@@ -177,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20151222",
       "published_at": "2026-10-13T13:32:03+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
     },
     {
       "asin": "B0G36TDT1W",
@@ -190,16 +234,16 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 85.7,
-      "rating": null,
+      "rating": 4.3,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21939288.thumb",
+      "image": "https://m.media-amazon.com/images/I/81s5IdhpDHL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G36TDT1W/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20149986",
       "published_at": "2026-10-13T13:32:03+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
     },
     {
       "asin": "B0H9M3M2HD",
@@ -221,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147682",
       "published_at": "2026-10-13T13:32:03+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
     },
     {
       "asin": "B0FLP9VB8K",
@@ -243,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20151657",
       "published_at": "2026-10-13T13:32:03+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
     },
     {
       "asin": "0811826023",
@@ -529,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20151012",
       "published_at": "2026-10-13T11:32:01+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
     },
     {
       "asin": "B0FMSBH9FS",
@@ -551,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20151150",
       "published_at": "2026-10-13T11:32:01+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
     },
     {
       "asin": "B0GQYJPJDX",
@@ -573,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20150823",
       "published_at": "2026-10-13T11:32:01+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
     },
     {
       "asin": "B0CZ4BFNCF",
@@ -1387,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20149551",
       "published_at": "2026-10-13T01:46:32+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
     },
     {
       "asin": "B0GSS79BNY",
@@ -2025,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20148150",
       "published_at": "2026-10-12T19:46:28+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
     },
     {
       "asin": "B0H9X8X68K",
@@ -2333,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147040",
       "published_at": "2026-10-12T17:46:34+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
     },
     {
       "asin": "B0G3TVJS2K",
@@ -2377,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147133",
       "published_at": "2026-10-12T17:31:48+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
     },
     {
       "asin": "B08XVP48KQ",
@@ -2553,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146335",
       "published_at": "2026-10-12T15:46:43+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
     },
     {
       "asin": "B0DWX4YTLJ",
@@ -2597,51 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146479",
       "published_at": "2026-10-12T15:31:59+00:00",
-      "revalidated_at": "2026-10-13T13:17:04+00:00"
-    },
-    {
-      "asin": "B0GR1KRPHD",
-      "title": "Apple MacBook Pro: 14\", M5 Pro (18C/20C) 24GB RAM, 2TB SSD, Silver",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 259.0,
-      "price_old": 858.0,
-      "currency": "USD",
-      "discount_pct": 69.8,
-      "rating": 3.1,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61OG+8P29NL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GR1KRPHD/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20146461",
-      "published_at": "2026-10-12T15:31:59+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
-    },
-    {
-      "asin": "B0GDZJXWN4",
-      "title": "20\" addlon IP65 Waterproof Plug-In Outdoor Ceiling Fan w/ Light & Remote",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 40.0,
-      "price_old": 90.0,
-      "currency": "USD",
-      "discount_pct": 55.6,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "QKAABQEP",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81GfOJGryTL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GDZJXWN4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20146257",
-      "published_at": "2026-10-12T15:31:59+00:00",
-      "revalidated_at": "2026-10-13T13:32:03+00:00"
+      "revalidated_at": "2026-10-13T15:31:48+00:00"
     }
   ]
 }
