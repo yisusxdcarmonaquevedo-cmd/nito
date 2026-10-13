@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-13T17:01:54+00:00",
+  "generated_at": "2026-10-13T17:16:31+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0CV2HGKDQ",
+      "title": "327-Pc LEGO Icons Plum Blossom Flower Décor Building Set",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 23.95,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 31.6,
+      "rating": 4.9,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/71NhLcg6bDL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CV2HGKDQ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20153301",
+      "published_at": "2026-10-13T17:16:31+00:00",
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
+    },
     {
       "asin": "B0FDBLDXN6",
       "title": "Borderlands 4 (PS5 or Xbox Series X)",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20148447",
       "published_at": "2026-10-13T15:16:46+00:00",
-      "revalidated_at": "2026-10-13T15:16:47+00:00"
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
     },
     {
       "asin": "B0B7C327LK",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147994",
       "published_at": "2026-10-13T13:17:04+00:00",
-      "revalidated_at": "2026-10-13T15:16:47+00:00"
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
     },
     {
       "asin": "B0GY2QTNQ3",
@@ -595,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20149743",
       "published_at": "2026-10-13T13:17:04+00:00",
-      "revalidated_at": "2026-10-13T15:16:47+00:00"
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
     },
     {
       "asin": "B0176DZN96",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146857",
       "published_at": "2026-10-13T13:01:51+00:00",
-      "revalidated_at": "2026-10-13T15:01:49+00:00"
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
     },
     {
       "asin": "B0033090D2",
@@ -683,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20151375",
       "published_at": "2026-10-13T13:01:51+00:00",
-      "revalidated_at": "2026-10-13T15:01:49+00:00"
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
     },
     {
       "asin": "B0D7F8H7HG",
@@ -1016,28 +1038,6 @@
       "revalidated_at": "2026-10-13T15:46:41+00:00"
     },
     {
-      "asin": "B09MYNX9BV",
-      "title": "[Prime] 4000mAh Woowind 150 PSI Cordless Portable Tire Inflator Air Compressor",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 12.79,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 57.4,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "JJ7OGZR2",
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71scC87OhaL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09MYNX9BV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20150292",
-      "published_at": "2026-10-13T05:31:45+00:00",
-      "revalidated_at": "2026-10-13T15:16:47+00:00"
-    },
-    {
       "asin": "B0F8NP3YHL",
       "title": "UGREEN 240W USB C Cable 2-Pack, Fast Charging for Laptops & Phones, 10ft",
       "title_es": null,
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20148930",
       "published_at": "2026-10-13T03:31:46+00:00",
-      "revalidated_at": "2026-10-13T15:01:49+00:00"
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
     },
     {
       "asin": "B0FX2GJ4CR",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146641",
       "published_at": "2026-10-13T03:31:46+00:00",
-      "revalidated_at": "2026-10-13T15:01:49+00:00"
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
     },
     {
       "asin": "B0DHX5NP3N",
@@ -2047,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146863",
       "published_at": "2026-10-12T21:46:41+00:00",
-      "revalidated_at": "2026-10-13T15:01:49+00:00"
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
     },
     {
       "asin": "B0D499HS7S",
@@ -2069,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20145804",
       "published_at": "2026-10-12T21:46:41+00:00",
-      "revalidated_at": "2026-10-13T15:01:49+00:00"
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
     },
     {
       "asin": "B0G1RWNC47",
@@ -2091,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147199",
       "published_at": "2026-10-12T21:46:41+00:00",
-      "revalidated_at": "2026-10-13T15:01:49+00:00"
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
     },
     {
       "asin": "B00JEZ20GO",
@@ -2377,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147487",
       "published_at": "2026-10-12T19:16:36+00:00",
-      "revalidated_at": "2026-10-13T15:01:49+00:00"
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
     },
     {
       "asin": "B0CWKZPD45",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20136003",
       "published_at": "2026-10-12T19:16:36+00:00",
-      "revalidated_at": "2026-10-13T15:01:49+00:00"
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
     },
     {
       "asin": "B0GY7M4HF7",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147673",
       "published_at": "2026-10-12T19:01:50+00:00",
-      "revalidated_at": "2026-10-13T15:01:49+00:00"
+      "revalidated_at": "2026-10-13T17:16:31+00:00"
     },
     {
       "asin": "B0DBJF8W7R",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20146632",
       "published_at": "2026-10-12T17:31:48+00:00",
       "revalidated_at": "2026-10-13T15:16:47+00:00"
-    },
-    {
-      "asin": "B093STG6TV",
-      "title": "10-Pack WISELIFE Large Foldable Reusable Grocery Tote Bags",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 15.99,
-      "price_old": 22.99,
-      "currency": "USD",
-      "discount_pct": 30.4,
-      "rating": 4.4,
-      "condition": "prime",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/81hcZqkFoTL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B093STG6TV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20147133",
-      "published_at": "2026-10-12T17:31:48+00:00",
-      "revalidated_at": "2026-10-13T15:31:48+00:00"
     }
   ]
 }
