@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-13T02:16:29+00:00",
+  "generated_at": "2026-10-13T02:31:45+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B09BNJ6GBV",
+      "title": "Build: An Unorthodox Guide to Making Things Worth Making – An NYT Bestselling Entrepreneurship and Product Design Manual (eBook) by Tony Fadell",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.99,
+      "price_old": 22.49,
+      "currency": "USD",
+      "discount_pct": 86.7,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/71Wdss2XiDL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09BNJ6GBV/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20147484",
+      "published_at": "2026-10-13T02:31:45+00:00",
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
+    },
+    {
+      "asin": "B0GWHB22VK",
+      "title": "35L Lovevook Backpack (Khaki)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 57.2,
+      "rating": 4.8,
+      "condition": "code",
+      "code": "36NXJGWV",
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/61mcMmaVGeL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GWHB22VK/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20149446",
+      "published_at": "2026-10-13T02:31:45+00:00",
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
+    },
     {
       "asin": "B0GDXQCDLB",
       "title": "10-Pk Aootek 120-LED Outdoor Solar Motion Sensor Lights",
@@ -199,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20131161",
       "published_at": "2026-10-13T00:31:41+00:00",
-      "revalidated_at": "2026-10-13T00:31:41+00:00"
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
     },
     {
       "asin": "B0GDDZ25VC",
@@ -300,11 +344,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 84.6,
-      "rating": null,
+      "rating": 4.2,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/21932637.thumb",
+      "image": "https://m.media-amazon.com/images/I/81nLpGBU4UL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CGBSTBSY/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20147556",
@@ -441,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20148609",
       "published_at": "2026-10-12T22:46:47+00:00",
-      "revalidated_at": "2026-10-13T00:31:41+00:00"
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
     },
     {
       "asin": "B0BCXVBFQ2",
@@ -463,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20148951",
       "published_at": "2026-10-12T22:46:47+00:00",
-      "revalidated_at": "2026-10-13T00:31:41+00:00"
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
     },
     {
       "asin": "B0C52XDF5X",
@@ -705,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147397",
       "published_at": "2026-10-12T20:46:39+00:00",
-      "revalidated_at": "2026-10-13T00:31:41+00:00"
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
     },
     {
       "asin": "B01IAS9G94",
@@ -1013,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20145021",
       "published_at": "2026-10-12T18:46:36+00:00",
-      "revalidated_at": "2026-10-13T00:31:41+00:00"
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
     },
     {
       "asin": "B0FH6PT5GC",
@@ -1035,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146530",
       "published_at": "2026-10-12T18:46:36+00:00",
-      "revalidated_at": "2026-10-13T00:31:41+00:00"
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
     },
     {
       "asin": "B0D56Q3BFN",
@@ -1299,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20144760",
       "published_at": "2026-10-12T16:56:46+00:00",
-      "revalidated_at": "2026-10-13T00:31:41+00:00"
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
     },
     {
       "asin": "B0H94RMC8X",
@@ -1607,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20144835",
       "published_at": "2026-10-12T15:02:23+00:00",
-      "revalidated_at": "2026-10-13T00:31:41+00:00"
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
     },
     {
       "asin": "B0FNWGHT4V",
@@ -1849,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20144601",
       "published_at": "2026-10-12T13:01:25+00:00",
-      "revalidated_at": "2026-10-13T00:31:41+00:00"
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
     },
     {
       "asin": "B0DRW8XBWM",
@@ -1871,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20144991",
       "published_at": "2026-10-12T12:46:14+00:00",
-      "revalidated_at": "2026-10-13T00:16:33+00:00"
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
     },
     {
       "asin": "B00AHAJDQU",
@@ -1893,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20144334",
       "published_at": "2026-10-12T12:31:20+00:00",
-      "revalidated_at": "2026-10-13T00:16:33+00:00"
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
     },
     {
       "asin": "B0DJ19R8H7",
@@ -1915,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20145063",
       "published_at": "2026-10-12T12:16:18+00:00",
-      "revalidated_at": "2026-10-13T00:16:33+00:00"
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
     },
     {
       "asin": "B0DHLFP4QN",
@@ -1937,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20142222",
       "published_at": "2026-10-12T12:16:18+00:00",
-      "revalidated_at": "2026-10-13T00:16:33+00:00"
+      "revalidated_at": "2026-10-13T02:31:45+00:00"
     },
     {
       "asin": "B0DHLHWZT7",
@@ -2598,50 +2642,6 @@
       "deal_key": "sd:20142669",
       "published_at": "2026-10-12T01:02:06+00:00",
       "revalidated_at": "2026-10-13T02:01:59+00:00"
-    },
-    {
-      "asin": "B01BYKG1FM",
-      "title": "Targus Vertical Slipcase for 14\" Laptop(TSS913)",
-      "title_es": "Funda vertical Targus para portátil de 14\" (TSS913)",
-      "headline": null,
-      "post": "Esta funda vertical Targus está diseñada para proteger portátiles de hasta 14 pulgadas con un estilo compacto. Ideal para transportar tu dispositivo de forma segura y cómoda, ya sea solo o dentro de otra mochila.",
-      "post_en": "This Targus vertical slipcase is designed to protect laptops up to 14 inches with a compact style. It's ideal for safely and comfortably carrying your device, either on its own or inside another bag.",
-      "price_new": 10.81,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 69.1,
-      "rating": 4.5,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61+q2ZlKfCL._SL1200_.jpg",
-      "url": "https://amazon.com/dp/B01BYKG1FM/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20141247",
-      "published_at": "2026-10-12T00:46:28+00:00",
-      "revalidated_at": "2026-10-13T02:16:29+00:00"
-    },
-    {
-      "asin": "B0DJ19PWQF",
-      "title": "799-Piece LEGO Icons: Formula 1 - Williams Racing FW14B & Nigel Mansell (10353, 2025) at Amazon",
-      "title_es": "LEGO Icons: Fórmula 1 - Williams Racing FW14B y Nigel Mansell (10353, 2025)",
-      "headline": null,
-      "post": "Construye el icónico Williams Racing FW14B de Fórmula 1 y la figura de Nigel Mansell con este detallado set de LEGO Icons. Perfecto para entusiastas del automovilismo y coleccionistas que buscan un desafío de construcción gratificante.",
-      "post_en": "Build the iconic Formula 1 Williams Racing FW14B and the Nigel Mansell minifigure with this detailed LEGO Icons set. Perfect for motorsport enthusiasts and collectors looking for a rewarding building challenge.",
-      "price_new": 47.99,
-      "price_old": 79.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81unPKEjLXL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DJ19PWQF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20142981",
-      "published_at": "2026-10-12T00:46:28+00:00",
-      "revalidated_at": "2026-10-13T02:16:29+00:00"
     }
   ]
 }
