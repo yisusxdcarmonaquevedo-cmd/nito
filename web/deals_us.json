@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T17:16:31+00:00",
+  "generated_at": "2026-10-13T17:31:27+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
     {
       "asin": "B0CV2HGKDQ",
@@ -102,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 53.7,
-      "rating": null,
+      "rating": 4.1,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/5/7/4/5/9/6/3/450x450/21945507.thumb",
+      "image": "https://m.media-amazon.com/images/I/71QWZ9e+NWL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GVL9GB1P/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20152374",
@@ -146,11 +146,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 85.6,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/5/8/2/5/6/8/8/450x450/21858102.thumb",
+      "image": "https://m.media-amazon.com/images/I/91KcPFzF19L._SL1500_.jpg",
       "url": "https://amazon.com/dp/168437202X/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20118288",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20152089",
       "published_at": "2026-10-13T15:31:48+00:00",
-      "revalidated_at": "2026-10-13T15:31:48+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     },
     {
       "asin": "B0DSQ6P57T",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20117289",
       "published_at": "2026-10-13T15:31:48+00:00",
-      "revalidated_at": "2026-10-13T15:31:48+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     },
     {
       "asin": "B0CT5Q6NP3",
@@ -488,28 +488,6 @@
       "revalidated_at": "2026-10-13T15:46:41+00:00"
     },
     {
-      "asin": "B01NBUJEKR",
-      "title": "8-Ct 0.88oz. Quest Nutrition Frosted Protein Cookies (Chocolate Cake) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 5.39,
-      "price_old": 57.0,
-      "currency": "USD",
-      "discount_pct": 90.5,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/61zexRh4o8L._SL1070_.jpg",
-      "url": "https://amazon.com/dp/B01NBUJEKR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20151222",
-      "published_at": "2026-10-13T13:32:03+00:00",
-      "revalidated_at": "2026-10-13T15:31:48+00:00"
-    },
-    {
       "asin": "B0G36TDT1W",
       "title": "Kuromi Gelli Gel Slow-Flow Glitter Squishy Sensory Toy (Purple)",
       "title_es": null,
@@ -529,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20149986",
       "published_at": "2026-10-13T13:32:03+00:00",
-      "revalidated_at": "2026-10-13T15:31:48+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     },
     {
       "asin": "B0H9M3M2HD",
@@ -551,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147682",
       "published_at": "2026-10-13T13:32:03+00:00",
-      "revalidated_at": "2026-10-13T15:31:48+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     },
     {
       "asin": "B0FLP9VB8K",
@@ -573,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20151657",
       "published_at": "2026-10-13T13:32:03+00:00",
-      "revalidated_at": "2026-10-13T15:31:48+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     },
     {
       "asin": "0811826023",
@@ -1057,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20149338",
       "published_at": "2026-10-13T05:31:45+00:00",
-      "revalidated_at": "2026-10-13T15:16:47+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     },
     {
       "asin": "B0GZMM3M51",
@@ -1277,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20149821",
       "published_at": "2026-10-13T03:46:29+00:00",
-      "revalidated_at": "2026-10-13T15:16:47+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     },
     {
       "asin": "B0FVDY1BZ3",
@@ -1651,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20148774",
       "published_at": "2026-10-13T01:46:32+00:00",
-      "revalidated_at": "2026-10-13T15:16:47+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     },
     {
       "asin": "B0GYWF7T5L",
@@ -1673,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20145909",
       "published_at": "2026-10-13T01:46:32+00:00",
-      "revalidated_at": "2026-10-13T15:16:47+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     },
     {
       "asin": "B0G2SGPVRQ",
@@ -2267,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20144616",
       "published_at": "2026-10-12T19:46:28+00:00",
-      "revalidated_at": "2026-10-13T15:16:47+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     },
     {
       "asin": "B0C4V9XJDM",
@@ -2311,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147937",
       "published_at": "2026-10-12T19:31:41+00:00",
-      "revalidated_at": "2026-10-13T15:16:47+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     },
     {
       "asin": "B0FY2MYRL6",
@@ -2333,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146770",
       "published_at": "2026-10-12T19:31:41+00:00",
-      "revalidated_at": "2026-10-13T15:16:47+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     },
     {
       "asin": "B0GLVGFC2D",
@@ -2355,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146989",
       "published_at": "2026-10-12T19:31:41+00:00",
-      "revalidated_at": "2026-10-13T15:16:47+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     },
     {
       "asin": "B07HWSZQBV",
@@ -2619,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146632",
       "published_at": "2026-10-12T17:31:48+00:00",
-      "revalidated_at": "2026-10-13T15:16:47+00:00"
+      "revalidated_at": "2026-10-13T17:31:27+00:00"
     }
   ]
 }
