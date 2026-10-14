@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:00:40+00:00",
+  "generated_at": "2026-10-14T01:15:31+00:00",
   "market": "us",
   "count": 119,
   "deals": [
@@ -58,11 +58,11 @@
       "price_old": 19.99,
       "currency": "USD",
       "discount_pct": 65.0,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21950697.thumb",
+      "image": "https://m.media-amazon.com/images/I/91DeITazXFL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B00EM89RWS/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20153979",
@@ -80,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 58.6,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "7K87AH92",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/21939081.thumb",
+      "image": "https://m.media-amazon.com/images/I/61c3RG0QNCL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FXL6G1VJ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20149944",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20154102",
       "published_at": "2026-10-13T23:16:44+00:00",
-      "revalidated_at": "2026-10-13T23:16:44+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B01BUX7Z6M",
@@ -573,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20154318",
       "published_at": "2026-10-13T21:31:50+00:00",
-      "revalidated_at": "2026-10-13T23:16:44+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B0GS1Y27ZS",
@@ -595,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20153757",
       "published_at": "2026-10-13T21:31:50+00:00",
-      "revalidated_at": "2026-10-13T23:16:44+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B007NVSTO8",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20153724",
       "published_at": "2026-10-13T21:31:50+00:00",
-      "revalidated_at": "2026-10-13T23:16:44+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B0H4SY4D9K",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20153811",
       "published_at": "2026-10-13T19:31:43+00:00",
-      "revalidated_at": "2026-10-13T23:16:44+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B0CCP8KYGG",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20153424",
       "published_at": "2026-10-13T19:16:36+00:00",
-      "revalidated_at": "2026-10-13T23:04:00+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B0H6ZB1S63",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20153826",
       "published_at": "2026-10-13T19:16:36+00:00",
-      "revalidated_at": "2026-10-13T23:04:00+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B09D9F795R",
@@ -1431,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20152089",
       "published_at": "2026-10-13T15:31:48+00:00",
-      "revalidated_at": "2026-10-13T23:04:00+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B0DSQ6P57T",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20117289",
       "published_at": "2026-10-13T15:31:48+00:00",
-      "revalidated_at": "2026-10-13T23:04:00+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B0CT5Q6NP3",
@@ -1717,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20150586",
       "published_at": "2026-10-13T13:01:51+00:00",
-      "revalidated_at": "2026-10-13T23:04:00+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B0FF28YM1P",
@@ -1739,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20148726",
       "published_at": "2026-10-13T13:01:51+00:00",
-      "revalidated_at": "2026-10-13T23:04:00+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B0GKNHC951",
@@ -1761,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146857",
       "published_at": "2026-10-13T13:01:51+00:00",
-      "revalidated_at": "2026-10-13T23:04:00+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B0033090D2",
@@ -1783,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20151375",
       "published_at": "2026-10-13T13:01:51+00:00",
-      "revalidated_at": "2026-10-13T23:04:00+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B0D7F8H7HG",
@@ -2272,10 +2272,10 @@
     {
       "asin": "B0GYQCGSBX",
       "title": "All-Clad D3 Stainless Steel Cookware Set, 3-Piece",
-      "title_es": null,
+      "title_es": "Set de Utensilios de Cocina All-Clad D3 de Acero Inoxidable, 3 Piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set All-Clad D3 de 3 piezas es ideal para equipar tu cocina con básicos de alta calidad. Fabricado en acero inoxidable, ofrece una distribución de calor uniforme y durabilidad para el cocinero exigente.",
+      "post_en": "This 3-piece All-Clad D3 set is ideal for equipping your kitchen with high-quality essentials. Made of stainless steel, it offers even heat distribution and durability for the demanding cook.",
       "price_new": 186.42,
       "price_old": 299.99,
       "currency": "USD",
@@ -2294,10 +2294,10 @@
     {
       "asin": "B0FVDY1BZ3",
       "title": "Agptek Sling Bag Crossbody Daypack w/ Water Bottle Holder (Grey)",
-      "title_es": null,
+      "title_es": "Mochila Bandolera Agptek Crossbody con Soporte para Botella (Gris)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La mochila Agptek Sling Bag es perfecta para llevar tus esenciales diarios de forma cómoda y segura. Su diseño crossbody incluye un práctico soporte para botella de agua, ideal para excursiones o el uso urbano.",
+      "post_en": "The Agptek Sling Bag is perfect for carrying your daily essentials comfortably and securely. Its crossbody design includes a practical water bottle holder, ideal for excursions or urban use.",
       "price_new": 11.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -2316,10 +2316,10 @@
     {
       "asin": "B0FX2GJ4CR",
       "title": "4-Piece Seocry Kids' Wooden Scalloped Wall Bookshelves (White) 16.5\"",
-      "title_es": null,
+      "title_es": "Estanterías de Pared de Madera Seocry con Borde Festoneado para Niños, 4 Piezas (Blanco) 16.5\"",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este juego de 4 estanterías Seocry de madera con diseño festoneado es ideal para organizar libros y juguetes en la habitación infantil. Su acabado blanco y tamaño de 16.5\" añaden un toque decorativo y funcional.",
+      "post_en": "This 4-piece Seocry wooden bookshelf set with a scalloped design is ideal for organizing books and toys in a child's room. Its white finish and 16.5\" size add a decorative and functional touch.",
       "price_new": 14.98,
       "price_old": 35.0,
       "currency": "USD",
@@ -2338,10 +2338,10 @@
     {
       "asin": "B0DHX5NP3N",
       "title": "G9 Steam 2-in-1 Professional Handheld Travel Steamer for Clothes, Just 1lbs Lightly, 8 Minutes of Continuous Strong Steam, 1200W Light Steam Iron for travel and home",
-      "title_es": null,
+      "title_es": "Plancha de Vapor Portátil G9 Steam 2 en 1 para Ropa, 1200W",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El vaporizador G9 Steam es una solución 2 en 1 ligera y potente para mantener tu ropa impecable en casa o de viaje. Con solo 1 libra de peso y 1200W, ofrece 8 minutos de vapor continuo para eliminar arrugas fácilmente. ✨",
+      "post_en": "The G9 Steam steamer is a lightweight and powerful 2-in-1 solution to keep your clothes impeccable at home or while traveling. Weighing just 1lb and with 1200W, it offers 8 minutes of continuous steam to easily remove wrinkles. ✨",
       "price_new": 17.99,
       "price_old": 59.99,
       "currency": "USD",
@@ -2360,10 +2360,10 @@
     {
       "asin": "B091GRQ7PK",
       "title": "Greenworks 24V Brushless Drill/Driver w/ 2Ah Battery & Charger (DD24L210)",
-      "title_es": null,
+      "title_es": "Taladro Atornillador sin Escobillas Greenworks 24V con Batería 2Ah y Cargador (DD24L210)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este taladro atornillador sin escobillas Greenworks 24V es una herramienta potente y eficiente para proyectos de bricolaje y tareas domésticas. Incluye una batería de 2Ah y cargador, ideal para quienes buscan rendimiento y autonomía.",
+      "post_en": "This Greenworks 24V brushless drill/driver is a powerful and efficient tool for DIY projects and household tasks. It includes a 2Ah battery and charger, ideal for those seeking performance and autonomy.",
       "price_new": 49.99,
       "price_old": 119.99,
       "currency": "USD",
@@ -2377,15 +2377,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20148633",
       "published_at": "2026-10-13T03:16:23+00:00",
-      "revalidated_at": "2026-10-13T23:04:00+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B0DKW2H52M",
       "title": "Resident Evil 2 (PlayStation 5) -",
-      "title_es": null,
+      "title_es": "Resident Evil 2 (PlayStation 5)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Resident Evil 2 para PlayStation 5 te sumerge en una aterradora experiencia de supervivencia con gráficos mejorados. Es perfecto para fans del terror y nuevos jugadores que quieran revivir un clásico del género.",
+      "post_en": "Resident Evil 2 for PlayStation 5 immerses you in a terrifying survival horror experience with enhanced graphics. It's perfect for horror fans and new players who want to relive a genre classic.",
       "price_new": 15.19,
       "price_old": 57.0,
       "currency": "USD",
@@ -2404,10 +2404,10 @@
     {
       "asin": "B0FMFKPDTX",
       "title": "30\" x 20\" Bcoimo Super Absorbent Indoor Dog Door Mat w// Non-Slip TPR Backing (Various) from",
-      "title_es": null,
+      "title_es": "Alfombra para Puerta de Perro Súper Absorbente Bcoimo 30\" x 20\" con Base Antideslizante (Varios)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La alfombra Bcoimo de 30\" x 20\" es ideal para dueños de mascotas, gracias a su alta capacidad de absorción y base antideslizante. Ayuda a mantener la casa limpia atrapando la suciedad y la humedad de las patas de tu perro. 🐾",
+      "post_en": "The 30\" x 20\" Bcoimo mat is ideal for pet owners, thanks to its high absorption capacity and non-slip backing. It helps keep the house clean by trapping dirt and moisture from your dog's paws. 🐾",
       "price_new": 9.47,
       "price_old": 35.0,
       "currency": "USD",
@@ -2421,15 +2421,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20146200",
       "published_at": "2026-10-13T03:01:47+00:00",
-      "revalidated_at": "2026-10-13T23:04:00+00:00"
+      "revalidated_at": "2026-10-14T01:15:31+00:00"
     },
     {
       "asin": "B071KJ7PTB",
       "title": "Tribe Of Mentors: Transformative Wisdom From Icons and Innovators to Help You Navigate Life's Challenges (eBook) by Timothy Ferriss",
-      "title_es": null,
+      "title_es": "Tribe Of Mentors: Sabiduría Transformadora de Íconos e Innovadores para Afrontar los Retos de la Vida (eBook) por Timothy Ferriss",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "\"Tribe Of Mentors\" de Timothy Ferriss es un eBook que compila consejos y sabiduría de figuras destacadas para guiarte en los desafíos de la vida. Es una lectura inspiradora para quienes buscan desarrollo personal y nuevas perspectivas.",
+      "post_en": "\"Tribe Of Mentors\" by Timothy Ferriss is an eBook compiling advice and wisdom from prominent figures to guide you through life's challenges. It's an inspiring read for those seeking personal development and new perspectives.",
       "price_new": 2.99,
       "price_old": 20.99,
       "currency": "USD",
@@ -2448,10 +2448,10 @@
     {
       "asin": "B0H7BD8BWF",
       "title": "Rubber Grip Tape for Handles 1\" x 16.4Ft Tools Anti Slip Rubber Tape Black",
-      "title_es": null,
+      "title_es": "Cinta Adhesiva de Goma Antideslizante para Mangos de Herramientas 1\" x 16.4Ft (Negra)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta cinta de goma antideslizante de 1\" x 16.4Ft es perfecta para mejorar el agarre de mangos de herramientas, equipos deportivos o cualquier superficie que requiera mayor fricción. Ofrece seguridad y comodidad en el uso.",
+      "post_en": "This 1\" x 16.4Ft anti-slip rubber tape is perfect for improving the grip on tool handles, sports equipment, or any surface requiring more friction. It offers safety and comfort in use.",
       "price_new": 5.99,
       "price_old": 11.99,
       "currency": "USD",
@@ -2470,10 +2470,10 @@
     {
       "asin": "B09CP8SSGP",
       "title": "Wavytalk Blown Away Ionic Hair Dryer with Diffuser for Curly Hair",
-      "title_es": null,
+      "title_es": "Secador de Pelo Iónico Wavytalk Blown Away con Difusor para Cabello Rizado",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El secador iónico Wavytalk Blown Away está diseñado para cuidar y definir el cabello rizado, reduciendo el encrespamiento. Incluye un difusor, haciéndolo ideal para quienes buscan un acabado profesional y saludable en casa.",
+      "post_en": "The Wavytalk Blown Away ionic hair dryer is designed to care for and define curly hair, reducing frizz. It includes a diffuser, making it ideal for those seeking a professional and healthy finish at home.",
       "price_new": 19.99,
       "price_old": 49.99,
       "currency": "USD",
