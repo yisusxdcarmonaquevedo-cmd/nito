@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-14T09:16:14+00:00",
+  "generated_at": "2026-10-14T09:31:20+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B00ZLUBDDC",
+      "title": "8.6oz Gardetto's Snack Mix Bag (Original Recipe)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.4,
+      "price_old": 2.5,
+      "currency": "USD",
+      "discount_pct": 44.0,
+      "rating": 4.6,
+      "condition": "coupon",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/812vrBeMzwL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B00ZLUBDDC/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20155797",
+      "published_at": "2026-10-14T09:31:20+00:00",
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
+    },
     {
       "asin": "B004MDXS0U",
       "title": "BESTEK 300W Car Power Inverter w/ 2 AC Outlets & 2 USB Ports",
@@ -48,28 +70,6 @@
       "revalidated_at": "2026-10-14T08:16:15+00:00"
     },
     {
-      "asin": "B0HBPPFBMH",
-      "title": "549-Piece 18-8 Stainless Steel Metric Flat Washer Assortment Kit (M3–M12) w/ Storage Case",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 4.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 85.7,
-      "rating": null,
-      "condition": "code",
-      "code": "31LEE5CI",
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21956100.thumb",
-      "url": "https://amazon.com/dp/B0HBPPFBMH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20156118",
-      "published_at": "2026-10-14T07:31:23+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
-    },
-    {
       "asin": "B07G13W75M",
       "title": "Conscious: A Brief Guide to the Fundamental Mystery of the Mind (eBook) by Annaka Harris",
       "title_es": null,
@@ -89,7 +89,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147481",
       "published_at": "2026-10-14T07:31:23+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
     },
     {
       "asin": "B0GV2BFJ99",
@@ -111,7 +111,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20156148",
       "published_at": "2026-10-14T07:31:23+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
     },
     {
       "asin": "B0CVYM7QPJ",
@@ -199,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20152875",
       "published_at": "2026-10-14T05:30:26+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
     },
     {
       "asin": "B0F3BB8D37",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20149440",
       "published_at": "2026-10-14T01:45:46+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
     },
     {
       "asin": "B0H3MDHFPS",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20151708",
       "published_at": "2026-10-14T01:45:46+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
     },
     {
       "asin": "B0GZK66KJL",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20152350",
       "published_at": "2026-10-14T01:45:46+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
     },
     {
       "asin": "B0FCS5YJC2",
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20153604",
       "published_at": "2026-10-14T01:45:46+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
     },
     {
       "asin": "B0DJ1BLT51",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20153961",
       "published_at": "2026-10-13T23:46:32+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
     },
     {
       "asin": "B0HMHTTCCT",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20154384",
       "published_at": "2026-10-13T22:01:59+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
     },
     {
       "asin": "B0FQMNM7Q1",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20153709",
       "published_at": "2026-10-13T20:01:52+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
     },
     {
       "asin": "B0BVB24KYL",
@@ -1541,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20147571",
       "published_at": "2026-10-13T18:16:40+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
     },
     {
       "asin": "B0FH4XF4D8",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20152128",
       "published_at": "2026-10-13T18:01:49+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
     },
     {
       "asin": "B0H35XV91K",
@@ -1629,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20153511",
       "published_at": "2026-10-13T17:46:26+00:00",
-      "revalidated_at": "2026-10-14T07:31:23+00:00"
+      "revalidated_at": "2026-10-14T09:31:20+00:00"
     },
     {
       "asin": "B0CV2HGKDQ",
@@ -2618,28 +2618,6 @@
       "url": "https://amazon.com/dp/B0GZMM3M51/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20149950",
-      "published_at": "2026-10-13T05:01:58+00:00",
-      "revalidated_at": "2026-10-14T08:46:23+00:00"
-    },
-    {
-      "asin": "B0H9Y1MZXR",
-      "title": "Amazon – 6-Ft Flocked Pre-Lit Christmas Tree w/ 250 LEDs -",
-      "title_es": "Árbol de Navidad Amazon de 1.8m nevado pre-iluminado con 250 LEDs",
-      "headline": null,
-      "post": "Este árbol de Navidad de 1.8 metros viene nevado y pre-iluminado con 250 LEDs para crear un ambiente festivo. Es una opción práctica para decorar tu hogar durante las fiestas navideñas.",
-      "post_en": "This 6-foot Christmas tree comes flocked and pre-lit with 250 LEDs to create a festive atmosphere. It's a practical option for decorating your home during the holiday season.",
-      "price_new": 89.99,
-      "price_old": 179.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.7,
-      "condition": "code",
-      "code": "CKK3RHC1",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81pIU-nh75L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H9Y1MZXR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20138850",
       "published_at": "2026-10-13T05:01:58+00:00",
       "revalidated_at": "2026-10-14T08:46:23+00:00"
     }
