@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-10-15T11:31:20+00:00",
+  "generated_at": "2026-10-15T11:46:23+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0D47NNPCF",
+      "title": "DEWALT Atomic Compact Series Push & Flip Folding Utility Knife",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 6.7,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 80.9,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/41NTSlVbytL._AC_SL1000_.jpg",
+      "url": "https://amazon.com/dp/B0D47NNPCF/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20161926",
+      "published_at": "2026-10-15T11:46:23+00:00",
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
+    },
+    {
+      "asin": "B0F9Y6PZ82",
+      "title": "2-Piece Ekouaer Women's Henley Pajama Lounge Set (Various)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 62.9,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/3/0/6/6/3/5/5/9/450x450/21949782.thumb",
+      "url": "https://amazon.com/dp/B0F9Y6PZ82/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20153880",
+      "published_at": "2026-10-15T11:46:23+00:00",
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
+    },
+    {
+      "asin": "B0GWMLFS3G",
+      "title": "Amazon – Garlic Extract + Citrus Bergamot Supplement, 120 Count -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.59,
+      "price_old": 23.99,
+      "currency": "USD",
+      "discount_pct": 60.0,
+      "rating": null,
+      "condition": "code",
+      "code": "WAY627IK",
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21900369.thumb",
+      "url": "https://amazon.com/dp/B0GWMLFS3G/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20134428",
+      "published_at": "2026-10-15T11:46:23+00:00",
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
+    },
+    {
+      "asin": "B0H2XQ48NX",
+      "title": "Ekouaer Womens Lounge Sets Long Sleeve Casual Pajama Fall Sleepwear Pockets",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.99,
+      "price_old": 25.64,
+      "currency": "USD",
+      "discount_pct": 53.2,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/21958743.thumb",
+      "url": "https://amazon.com/dp/B0H2XQ48NX/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20157216",
+      "published_at": "2026-10-15T11:46:23+00:00",
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
+    },
+    {
+      "asin": "B0H8R98NZP",
+      "title": "Lefant Robot Vacuum and Mop, 75-Day Self-Emptying, 6000Pa, LiDAR Navigation",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 119.0,
+      "price_old": 219.99,
+      "currency": "USD",
+      "discount_pct": 45.9,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/6/7/9/8/5/450x450/21919743.thumb",
+      "url": "https://amazon.com/dp/B0H8R98NZP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20142777",
+      "published_at": "2026-10-15T11:46:23+00:00",
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
+    },
     {
       "asin": "B0GBX1WPJP",
       "title": "BougeRV 9\" 20000mAh Rechargeable Camping Fan w/ Light & App Control (3 colors)",
@@ -178,28 +288,6 @@
       "deal_key": "sd:20159238",
       "published_at": "2026-10-15T08:46:09+00:00",
       "revalidated_at": "2026-10-15T10:31:13+00:00"
-    },
-    {
-      "asin": "B0D14T58QY",
-      "title": "4-Pack 48-Count Puffs Plus Lotion Facial Tissue at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 3.78,
-      "price_old": 9.96,
-      "currency": "USD",
-      "discount_pct": 62.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21971559.thumb",
-      "url": "https://amazon.com/dp/B0D14T58QY/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20161539",
-      "published_at": "2026-10-15T08:01:07+00:00",
-      "revalidated_at": "2026-10-15T09:46:02+00:00"
     },
     {
       "asin": "B0FJFT8P2V",
@@ -815,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135337",
       "published_at": "2026-10-15T00:31:24+00:00",
-      "revalidated_at": "2026-10-15T09:46:02+00:00"
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
     },
     {
       "asin": "B07BVZ9LZB",
@@ -881,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20158680",
       "published_at": "2026-10-15T00:16:31+00:00",
-      "revalidated_at": "2026-10-15T09:46:02+00:00"
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
     },
     {
       "asin": "B0H1298JJV",
@@ -903,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20159145",
       "published_at": "2026-10-15T00:16:31+00:00",
-      "revalidated_at": "2026-10-15T09:46:02+00:00"
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
     },
     {
       "asin": "B0CKMW4QSX",
@@ -1035,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20140866",
       "published_at": "2026-10-14T22:31:27+00:00",
-      "revalidated_at": "2026-10-15T09:46:02+00:00"
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
     },
     {
       "asin": "B0DM3YNZPM",
@@ -1057,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20160138",
       "published_at": "2026-10-14T22:31:27+00:00",
-      "revalidated_at": "2026-10-15T09:46:02+00:00"
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
     },
     {
       "asin": "B002Y2QTWK",
@@ -1343,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20157735",
       "published_at": "2026-10-14T18:46:27+00:00",
-      "revalidated_at": "2026-10-15T09:46:02+00:00"
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
     },
     {
       "asin": "B07H13PSLJ",
@@ -1585,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20158107",
       "published_at": "2026-10-14T16:16:34+00:00",
-      "revalidated_at": "2026-10-15T09:46:02+00:00"
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
     },
     {
       "asin": "B0G6HZ1KW1",
@@ -1607,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20157801",
       "published_at": "2026-10-14T16:16:34+00:00",
-      "revalidated_at": "2026-10-15T09:46:02+00:00"
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
     },
     {
       "asin": "B0G9188HKS",
@@ -2355,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20096835",
       "published_at": "2026-10-14T09:46:17+00:00",
-      "revalidated_at": "2026-10-15T09:31:19+00:00"
+      "revalidated_at": "2026-10-15T11:46:23+00:00"
     },
     {
       "asin": "B004MDXS0U",
@@ -2532,116 +2620,6 @@
       "deal_key": "sd:20154672",
       "published_at": "2026-10-14T04:15:33+00:00",
       "revalidated_at": "2026-10-15T10:16:12+00:00"
-    },
-    {
-      "asin": "B0G19K24WH",
-      "title": "KAIWEETS 3-in-1 Digital Multimeter, NCV Detector & RJ45/RJ11 Cable Tester Kit",
-      "title_es": "KAIWEETS Multímetro Digital 3 en 1, Detector NCV y Kit Probador de Cables RJ45/RJ11",
-      "headline": null,
-      "post": "Este kit KAIWEETS 3 en 1 es una herramienta esencial para entusiastas de la electrónica y profesionales. Incluye un multímetro digital, detector NCV y probador de cables RJ45/RJ11, ideal para tareas de diagnóstico eléctrico y de red en casa o en el trabajo.",
-      "post_en": "This KAIWEETS 3-in-1 kit is an essential tool for electronics enthusiasts and professionals. It includes a digital multimeter, NCV detector, and an RJ45/RJ11 cable tester, perfect for electrical and network diagnostic tasks at home or work.",
-      "price_new": 19.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 42.9,
-      "rating": 4.4,
-      "condition": "coupon",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/810lQ7Cy19L._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G19K24WH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20155104",
-      "published_at": "2026-10-14T03:45:33+00:00",
-      "revalidated_at": "2026-10-15T09:31:19+00:00"
-    },
-    {
-      "asin": "B00495Q5OW",
-      "title": "33.8-Oz Listerine Total Care Anticavity Fluoride Mouthwash (Intense Mint)",
-      "title_es": "Enjuague bucal Listerine Total Care Anticavity con Flúor (Menta Intensa)",
-      "headline": null,
-      "post": "Este enjuague bucal Listerine Total Care ofrece protección anticaries con flúor para una boca más sana. Su sabor a menta intensa ayuda a mantener un aliento fresco y una higiene bucal completa.",
-      "post_en": "This Listerine Total Care mouthwash provides anticavity protection with fluoride for a healthier mouth. Its intense mint flavor helps maintain fresh breath and complete oral hygiene.",
-      "price_new": 4.55,
-      "price_old": 8.98,
-      "currency": "USD",
-      "discount_pct": 49.3,
-      "rating": 4.8,
-      "condition": "coupon",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/718-HEplIML._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00495Q5OW/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20152386",
-      "published_at": "2026-10-14T02:45:51+00:00",
-      "revalidated_at": "2026-10-15T10:31:13+00:00"
-    },
-    {
-      "asin": "B0FZB5WJW6",
-      "title": "Lavezee Fairy House Outdoor Figurine Lights for Garden Decor",
-      "title_es": "Luces de figuritas Lavezee de casas de hadas para decoración de jardín",
-      "headline": null,
-      "post": "Decora tu jardín con estas encantadoras luces de figuritas de casas de hadas Lavezee. Son ideales para añadir un toque mágico y luminoso a cualquier espacio exterior.",
-      "post_en": "Decorate your garden with these charming Lavezee Fairy House Outdoor Figurine Lights. They are perfect for adding a magical and luminous touch to any outdoor space.",
-      "price_new": 14.99,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.6,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71zqOCbkt5L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FZB5WJW6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20154024",
-      "published_at": "2026-10-14T02:45:51+00:00",
-      "revalidated_at": "2026-10-15T10:31:13+00:00"
-    },
-    {
-      "asin": "B0GT2DG9SK",
-      "title": "Dyson V8 Cordless Vacuum at Amazon",
-      "title_es": "Aspiradora sin cable Dyson V8",
-      "headline": null,
-      "post": "La aspiradora sin cable Dyson V8 ofrece una limpieza potente y versátil para tu hogar. Su diseño ligero facilita la limpieza de todo tipo de superficies, desde suelos hasta techos.",
-      "post_en": "The Dyson V8 Cordless Vacuum provides powerful and versatile cleaning for your home. Its lightweight design makes it easy to clean all types of surfaces, from floors to ceilings.",
-      "price_new": 269.99,
-      "price_old": 389.99,
-      "currency": "USD",
-      "discount_pct": 30.8,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51byt8oD+LL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GT2DG9SK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20153685",
-      "published_at": "2026-10-14T02:45:51+00:00",
-      "revalidated_at": "2026-10-15T10:31:13+00:00"
-    },
-    {
-      "asin": "B07XP18RWQ",
-      "title": "Franklin Sports MLS Pro Vent Size 3 Soccer Ball w/ Pump (Red)",
-      "title_es": "Balón de fútbol Franklin Sports MLS Pro Vent Talla 3 con bomba (Rojo)",
-      "headline": null,
-      "post": "Este balón de fútbol Franklin Sports MLS Pro Vent de talla 3 es ideal para los jóvenes aficionados. Incluye una bomba para que esté siempre listo para el juego.",
-      "post_en": "This Franklin Sports MLS Pro Vent Size 3 Soccer Ball is ideal for young enthusiasts. It includes a pump to ensure it's always ready for play.",
-      "price_new": 5.56,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 84.1,
-      "rating": 4.2,
-      "condition": "coupon",
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/81pYBry2MxL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07XP18RWQ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20155245",
-      "published_at": "2026-10-14T02:45:51+00:00",
-      "revalidated_at": "2026-10-15T10:46:18+00:00"
     }
   ]
 }
