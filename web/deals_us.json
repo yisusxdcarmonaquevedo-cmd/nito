@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-15T15:15:51+00:00",
+  "generated_at": "2026-10-15T15:30:50+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B09XS7JWHH",
+      "title": "Sony WH-1000XM5 Wireless Over-Ear Noise Cancelling Headphones",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 198.0,
+      "price_old": 399.99,
+      "currency": "USD",
+      "discount_pct": 50.5,
+      "rating": 4.1,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61O3iMlnJIL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09XS7JWHH/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20161914",
+      "published_at": "2026-10-15T15:30:50+00:00",
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
+    },
+    {
+      "asin": "B0H1VBPQWC",
+      "title": "Amazon - Heated Vest Women with 16000mAh Battery, Lightweight Heating Coat Hiking -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 44.99,
+      "price_old": 89.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/8/9/8/9/5/2/450x450/21975138.thumb",
+      "url": "https://amazon.com/dp/B0H1VBPQWC/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20162745",
+      "published_at": "2026-10-15T15:30:50+00:00",
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
+    },
     {
       "asin": "B0FHB7CJKT",
       "title": "EF ECOFLOW Laptop Power Bank, 25,000mAh 170W Portable Charger at Amazon",
@@ -124,11 +168,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 60.7,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/5/6/4/5/1/8/7/450x450/21971268.thumb",
+      "image": "https://m.media-amazon.com/images/I/81aIVF-E5LL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0B5FNSY68/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20161467",
@@ -221,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20150127",
       "published_at": "2026-10-15T13:46:06+00:00",
-      "revalidated_at": "2026-10-15T13:46:06+00:00"
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
     },
     {
       "asin": "B0FV8K53CP",
@@ -463,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20161926",
       "published_at": "2026-10-15T11:46:23+00:00",
-      "revalidated_at": "2026-10-15T13:46:06+00:00"
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
     },
     {
       "asin": "B0F9Y6PZ82",
@@ -485,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20153880",
       "published_at": "2026-10-15T11:46:23+00:00",
-      "revalidated_at": "2026-10-15T13:46:06+00:00"
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
     },
     {
       "asin": "B0GWMLFS3G",
@@ -507,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20134428",
       "published_at": "2026-10-15T11:46:23+00:00",
-      "revalidated_at": "2026-10-15T13:46:06+00:00"
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
     },
     {
       "asin": "B0H2XQ48NX",
@@ -529,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20157216",
       "published_at": "2026-10-15T11:46:23+00:00",
-      "revalidated_at": "2026-10-15T13:46:06+00:00"
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
     },
     {
       "asin": "B0H8R98NZP",
@@ -551,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20142777",
       "published_at": "2026-10-15T11:46:23+00:00",
-      "revalidated_at": "2026-10-15T13:46:06+00:00"
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
     },
     {
       "asin": "B0GBX1WPJP",
@@ -1321,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20135337",
       "published_at": "2026-10-15T00:31:24+00:00",
-      "revalidated_at": "2026-10-15T13:46:06+00:00"
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
     },
     {
       "asin": "B07BVZ9LZB",
@@ -1366,28 +1410,6 @@
       "deal_key": "sd:20146161",
       "published_at": "2026-10-15T00:16:31+00:00",
       "revalidated_at": "2026-10-15T15:15:51+00:00"
-    },
-    {
-      "asin": "B0FMNKXVT7",
-      "title": "2-Pk Zitahli Men's Leather Ratchet Belts (Various) from",
-      "title_es": "Pack de 2 Cinturones de Cuero de Trinquete Zitahli para Hombre (Varios)",
-      "headline": null,
-      "post": "Este pack incluye dos cinturones de cuero para hombre con sistema de trinquete, ofreciendo un ajuste fácil y preciso. Son un accesorio versátil y elegante para el día a día o para ocasiones especiales.",
-      "post_en": "This pack includes two men's leather ratchet belts, offering easy and precise adjustment. They are a versatile and elegant accessory for daily wear or special occasions.",
-      "price_new": 12.5,
-      "price_old": 32.99,
-      "currency": "USD",
-      "discount_pct": 62.1,
-      "rating": null,
-      "condition": "code",
-      "code": "G9LYF52D",
-      "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21963396.thumb",
-      "url": "https://amazon.com/dp/B0FMNKXVT7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20158680",
-      "published_at": "2026-10-15T00:16:31+00:00",
-      "revalidated_at": "2026-10-15T13:46:06+00:00"
     },
     {
       "asin": "B0H1298JJV",
@@ -1717,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20159076",
       "published_at": "2026-10-14T20:31:28+00:00",
-      "revalidated_at": "2026-10-15T13:30:54+00:00"
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
     },
     {
       "asin": "B0F3WX9DQZ",
@@ -1739,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20152011",
       "published_at": "2026-10-14T20:16:26+00:00",
-      "revalidated_at": "2026-10-15T13:30:54+00:00"
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
     },
     {
       "asin": "B0HF4DQ1ZM",
@@ -2377,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20156913",
       "published_at": "2026-10-14T14:01:21+00:00",
-      "revalidated_at": "2026-10-15T13:30:54+00:00"
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
     },
     {
       "asin": "B001E5E0SI",
@@ -2443,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20153772",
       "published_at": "2026-10-14T13:46:22+00:00",
-      "revalidated_at": "2026-10-15T13:30:54+00:00"
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
     },
     {
       "asin": "B0DHC1PF9V",
@@ -2465,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20154033",
       "published_at": "2026-10-14T13:46:22+00:00",
-      "revalidated_at": "2026-10-15T13:30:54+00:00"
+      "revalidated_at": "2026-10-15T15:30:50+00:00"
     },
     {
       "asin": "B0DQQFZPW2",
@@ -2598,50 +2620,6 @@
       "deal_key": "sd:20154618",
       "published_at": "2026-10-14T12:46:25+00:00",
       "revalidated_at": "2026-10-15T14:15:41+00:00"
-    },
-    {
-      "asin": "B07WH56Q6X",
-      "title": "Smithsonian: Battles that Changed History (DK History Changers) (eBook) by DK",
-      "title_es": "eBook Smithsonian: Battles that Changed History (DK History Changers) por DK",
-      "headline": null,
-      "post": "\"Battles that Changed History\" de Smithsonian y DK es un fascinante eBook que explora momentos clave de la historia a través de sus batallas más influyentes. Perfecto para entusiastas de la historia y lectores que buscan comprender el impacto de los conflictos en el mundo. 📚",
-      "post_en": "\"Battles that Changed History\" by Smithsonian and DK is a fascinating eBook that explores key historical moments through its most influential battles. Perfect for history enthusiasts and readers looking to understand the impact of conflicts on the world. 📚",
-      "price_new": 2.99,
-      "price_old": 12.99,
-      "currency": "USD",
-      "discount_pct": 77.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21957804.thumb",
-      "url": "https://amazon.com/dp/B07WH56Q6X/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20156739",
-      "published_at": "2026-10-14T12:28:33+00:00",
-      "revalidated_at": "2026-10-15T14:14:27+00:00"
-    },
-    {
-      "asin": "B0DJ1BV2TX",
-      "title": "204-Piece LEGO Harry Potter: Philosopher's Stone - Hogwarts Castle: Charms Class (76442, 2025) at Amazon",
-      "title_es": "LEGO Harry Potter: La Piedra Filosofal - Clase de Encantamientos del Castillo de Hogwarts (76442, 2025) de 204 piezas",
-      "headline": null,
-      "post": "Sumérgete en el mundo mágico con este set LEGO Harry Potter de 204 piezas, recreando la Clase de Encantamientos en el Castillo de Hogwarts. Es un regalo ideal para jóvenes y adultos fans de la saga que disfrutan construyendo y coleccionando.",
-      "post_en": "Immerse yourself in the magical world with this 204-piece LEGO Harry Potter set, recreating the Charms Class in Hogwarts Castle. It's an ideal gift for young and adult fans of the saga who enjoy building and collecting.",
-      "price_new": 11.99,
-      "price_old": 19.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.9,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81zTexg-o7L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DJ1BV2TX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20155980",
-      "published_at": "2026-10-14T12:28:33+00:00",
-      "revalidated_at": "2026-10-15T14:14:27+00:00"
     }
   ]
 }
