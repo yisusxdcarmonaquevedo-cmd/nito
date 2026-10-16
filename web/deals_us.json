@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T16:30:48+00:00",
+  "generated_at": "2026-10-16T16:45:46+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B07P3JJ2YK",
@@ -124,11 +124,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 34.3,
-      "rating": null,
+      "rating": 4.2,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/5/8/2/5/6/8/8/450x450/21983109.thumb",
+      "image": "https://m.media-amazon.com/images/I/61yNHZPTLeL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CZ72C3LH/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20165295",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20158134",
       "published_at": "2026-10-16T14:45:50+00:00",
-      "revalidated_at": "2026-10-16T14:45:50+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B0GWRGDSBB",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20152749",
       "published_at": "2026-10-16T14:45:50+00:00",
-      "revalidated_at": "2026-10-16T14:45:50+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B0C25TPK2K",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20149287",
       "published_at": "2026-10-16T12:45:54+00:00",
-      "revalidated_at": "2026-10-16T14:45:50+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B0D5F1HFY4",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163471",
       "published_at": "2026-10-16T10:30:50+00:00",
-      "revalidated_at": "2026-10-16T14:30:46+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B0D4X179B5",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20140383",
       "published_at": "2026-10-16T08:45:38+00:00",
-      "revalidated_at": "2026-10-16T14:30:46+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B0H2J7L3M4",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163369",
       "published_at": "2026-10-16T03:00:43+00:00",
-      "revalidated_at": "2026-10-16T14:30:46+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B0FVLMM5P5",
@@ -1541,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163747",
       "published_at": "2026-10-16T02:45:45+00:00",
-      "revalidated_at": "2026-10-16T14:30:46+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B0H1BRCKP5",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20142453",
       "published_at": "2026-10-16T02:45:45+00:00",
-      "revalidated_at": "2026-10-16T14:30:46+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B0CG7WB74W",
@@ -1585,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20165466",
       "published_at": "2026-10-16T02:45:45+00:00",
-      "revalidated_at": "2026-10-16T14:30:46+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B0FRMCJKJ9",
@@ -1696,28 +1696,6 @@
       "deal_key": "sd:20164950",
       "published_at": "2026-10-16T01:30:46+00:00",
       "revalidated_at": "2026-10-16T15:00:49+00:00"
-    },
-    {
-      "asin": "B0D2V4XM3D",
-      "title": "3-Tier MALACASA 12\" Porcelain Serving Tray Stand (White)",
-      "title_es": "Soporte de porcelana MALACASA de 3 niveles para servir (blanco)",
-      "headline": null,
-      "post": "Este elegante soporte de porcelana de tres niveles es ideal para presentar postres, aperitivos o frutas en cualquier reunión. Su diseño clásico y funcional lo hace perfecto para anfitriones que buscan añadir un toque de sofisticación a su mesa.",
-      "post_en": "This elegant three-tier porcelain serving stand is perfect for presenting desserts, appetizers, or fruits at any gathering. Its classic and functional design makes it ideal for hosts looking to add a touch of sophistication to their table.",
-      "price_new": 18.0,
-      "price_old": 37.99,
-      "currency": "USD",
-      "discount_pct": 52.6,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "FKFDTBIS",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61L2wZO+mBL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D2V4XM3D/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20153412",
-      "published_at": "2026-10-16T00:45:34+00:00",
-      "revalidated_at": "2026-10-16T14:30:46+00:00"
     },
     {
       "asin": "B0H62KT98P",
@@ -1915,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163909",
       "published_at": "2026-10-15T23:15:35+00:00",
-      "revalidated_at": "2026-10-16T14:30:46+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B00ZFWAA7G",
@@ -1937,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20153457",
       "published_at": "2026-10-15T23:00:39+00:00",
-      "revalidated_at": "2026-10-16T14:30:46+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B0H8N8M6Q8",
@@ -2267,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20159919",
       "published_at": "2026-10-15T21:30:55+00:00",
-      "revalidated_at": "2026-10-16T14:30:46+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B0CZQ8NF5V",
@@ -2289,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20164620",
       "published_at": "2026-10-15T21:30:55+00:00",
-      "revalidated_at": "2026-10-16T14:30:46+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B08YR9CMXX",
@@ -2311,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146119",
       "published_at": "2026-10-15T21:15:48+00:00",
-      "revalidated_at": "2026-10-16T14:30:46+00:00"
+      "revalidated_at": "2026-10-16T16:45:46+00:00"
     },
     {
       "asin": "B0H2YVJT58",
