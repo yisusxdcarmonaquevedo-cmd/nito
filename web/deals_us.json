@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-16T10:15:46+00:00",
+  "generated_at": "2026-10-16T10:30:50+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0DTT5LV77",
+      "title": "The Secret of Secrets: A Novel (Robert Langdon Book 6) (eBook) by Dan Brown",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.99,
+      "price_old": 14.99,
+      "currency": "USD",
+      "discount_pct": 80.1,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21987270.thumb",
+      "url": "https://amazon.com/dp/B0DTT5LV77/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20166786",
+      "published_at": "2026-10-16T10:30:50+00:00",
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
+    },
+    {
+      "asin": "B0FP4PLF48",
+      "title": "ThermoMaven One-Tap Max Fire Propane Torch",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 23.9,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 31.7,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/3/4/2/9/3/0/8/450x450/21977406.thumb",
+      "url": "https://amazon.com/dp/B0FP4PLF48/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20163471",
+      "published_at": "2026-10-16T10:30:50+00:00",
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
+    },
     {
       "asin": "B0D4X179B5",
       "title": "The Watchers (4K Ultra HD)",
@@ -133,29 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20140383",
       "published_at": "2026-10-16T08:45:38+00:00",
-      "revalidated_at": "2026-10-16T08:45:38+00:00"
-    },
-    {
-      "asin": "B0GLFPN4F5",
-      "title": "SIXTHGU 20,000mAh 140W 3-Port Portable Laptop Power Bank (Grey)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 64.99,
-      "price_old": 149.99,
-      "currency": "USD",
-      "discount_pct": 56.7,
-      "rating": null,
-      "condition": "code",
-      "code": "EFQ2CSC9",
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21939258.thumb",
-      "url": "https://amazon.com/dp/B0GLFPN4F5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20149971",
-      "published_at": "2026-10-16T08:45:38+00:00",
-      "revalidated_at": "2026-10-16T08:45:38+00:00"
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
     },
     {
       "asin": "B0H2J7L3M4",
@@ -617,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163369",
       "published_at": "2026-10-16T03:00:43+00:00",
-      "revalidated_at": "2026-10-16T08:45:38+00:00"
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
     },
     {
       "asin": "B0FVLMM5P5",
@@ -1035,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163909",
       "published_at": "2026-10-15T23:15:35+00:00",
-      "revalidated_at": "2026-10-16T08:45:38+00:00"
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
     },
     {
       "asin": "B00ZFWAA7G",
@@ -1387,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20159919",
       "published_at": "2026-10-15T21:30:55+00:00",
-      "revalidated_at": "2026-10-16T08:45:38+00:00"
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
     },
     {
       "asin": "B0CZQ8NF5V",
@@ -1409,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20164620",
       "published_at": "2026-10-15T21:30:55+00:00",
-      "revalidated_at": "2026-10-16T08:45:38+00:00"
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
     },
     {
       "asin": "B08YR9CMXX",
@@ -1563,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20144673",
       "published_at": "2026-10-15T19:30:56+00:00",
-      "revalidated_at": "2026-10-16T08:45:38+00:00"
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
     },
     {
       "asin": "B0CN31XNKJ",
@@ -1585,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20146212",
       "published_at": "2026-10-15T19:30:56+00:00",
-      "revalidated_at": "2026-10-16T08:45:38+00:00"
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
     },
     {
       "asin": "B0FKVWSM3N",
@@ -1607,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163228",
       "published_at": "2026-10-15T19:30:56+00:00",
-      "revalidated_at": "2026-10-16T08:45:38+00:00"
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
     },
     {
       "asin": "B0G7FYR9Y6",
@@ -1629,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163837",
       "published_at": "2026-10-15T19:16:01+00:00",
-      "revalidated_at": "2026-10-16T08:30:54+00:00"
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
     },
     {
       "asin": "B0FDWSTC96",
@@ -1651,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20161323",
       "published_at": "2026-10-15T19:00:56+00:00",
-      "revalidated_at": "2026-10-16T08:30:54+00:00"
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
     },
     {
       "asin": "B0DZNQT7JW",
@@ -1893,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20153661",
       "published_at": "2026-10-15T17:45:48+00:00",
-      "revalidated_at": "2026-10-16T08:45:38+00:00"
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
     },
     {
       "asin": "B0G643W2GN",
@@ -1915,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20134860",
       "published_at": "2026-10-15T17:30:57+00:00",
-      "revalidated_at": "2026-10-16T08:45:38+00:00"
+      "revalidated_at": "2026-10-16T10:30:50+00:00"
     },
     {
       "asin": "B0GS4ZT6XX",
@@ -2598,50 +2620,6 @@
       "deal_key": "sd:20157216",
       "published_at": "2026-10-15T11:46:23+00:00",
       "revalidated_at": "2026-10-16T09:45:45+00:00"
-    },
-    {
-      "asin": "B0H8R98NZP",
-      "title": "Lefant Robot Vacuum and Mop, 75-Day Self-Emptying, 6000Pa, LiDAR Navigation",
-      "title_es": "Robot aspirador y mopa Lefant con autovaciado de 75 días, 6000Pa y navegación LiDAR",
-      "headline": null,
-      "post": "Simplifica la limpieza de tu hogar con el robot aspirador y mopa Lefant. Ofrece 75 días de autovaciado, una potente succión de 6000Pa y navegación LiDAR inteligente para una cobertura eficiente.",
-      "post_en": "Simplify your home cleaning with the Lefant Robot Vacuum and Mop. It offers 75 days of self-emptying, powerful 6000Pa suction, and smart LiDAR navigation for efficient coverage.",
-      "price_new": 119.0,
-      "price_old": 219.99,
-      "currency": "USD",
-      "discount_pct": 45.9,
-      "rating": 4.1,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71Vn6lXMYIL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H8R98NZP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20142777",
-      "published_at": "2026-10-15T11:46:23+00:00",
-      "revalidated_at": "2026-10-16T09:45:45+00:00"
-    },
-    {
-      "asin": "B0GBX1WPJP",
-      "title": "BougeRV 9\" 20000mAh Rechargeable Camping Fan w/ Light & App Control (3 colors)",
-      "title_es": "Ventilador de camping recargable BougeRV de 9\" y 20000mAh con luz y control por app",
-      "headline": null,
-      "post": "Mantente fresco y con luz en tus aventuras con el ventilador de camping recargable BougeRV de 9\". Con 20000mAh de batería, luz integrada y control por app, es ideal para exteriores.",
-      "post_en": "Stay cool and illuminated on your adventures with the BougeRV 9\" 20000mAh Rechargeable Camping Fan. Featuring an integrated light and app control, it's perfect for outdoor use.",
-      "price_new": 42.49,
-      "price_old": 79.99,
-      "currency": "USD",
-      "discount_pct": 46.9,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "BOUGERVF0199",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71VAPZFUUkL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GBX1WPJP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20146131",
-      "published_at": "2026-10-15T11:31:20+00:00",
-      "revalidated_at": "2026-10-16T09:06:38+00:00"
     }
   ]
 }
