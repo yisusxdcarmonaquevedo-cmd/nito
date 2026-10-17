@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-17T23:20:49+00:00",
+  "generated_at": "2026-10-17T23:30:33+00:00",
   "market": "us",
-  "count": 119,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B0FSNXD7YR",
+      "title": "DeWALT Keyring Bit Holder Set for 1/4\" Hex Bits",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.5,
+      "price_old": 19.99,
+      "currency": "USD",
+      "discount_pct": 32.5,
+      "rating": 4.5,
+      "condition": "coupon",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/71nCMbUdtpL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FSNXD7YR/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20169552",
+      "published_at": "2026-10-17T23:30:33+00:00",
+      "revalidated_at": "2026-10-17T23:30:33+00:00"
+    },
     {
       "asin": "B0GR979N56",
       "title": "Tuyluxe Solar Lanterns Outdoor Waterproof, Metal Hanging Lights, 2 Pack",
@@ -155,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20172276",
       "published_at": "2026-10-17T21:45:51+00:00",
-      "revalidated_at": "2026-10-17T21:45:51+00:00"
+      "revalidated_at": "2026-10-17T23:30:33+00:00"
     },
     {
       "asin": "B0DJ19VGDH",
@@ -177,29 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20172444",
       "published_at": "2026-10-17T21:45:51+00:00",
-      "revalidated_at": "2026-10-17T21:45:51+00:00"
-    },
-    {
-      "asin": "B08VNFX7CB",
-      "title": "EGUKU Rechargeable Headlamp, 230° Wide Beam 1200LM 5 modes LED Head Lamp for Adults",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 7.62,
-      "price_old": 16.99,
-      "currency": "USD",
-      "discount_pct": 55.2,
-      "rating": 4.4,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61gH5yRnQiS._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B08VNFX7CB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20172333",
-      "published_at": "2026-10-17T21:45:51+00:00",
-      "revalidated_at": "2026-10-17T21:45:51+00:00"
+      "revalidated_at": "2026-10-17T23:30:33+00:00"
     },
     {
       "asin": "B0D928X61B",
@@ -397,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20170692",
       "published_at": "2026-10-17T19:45:46+00:00",
-      "revalidated_at": "2026-10-17T21:45:51+00:00"
+      "revalidated_at": "2026-10-17T23:30:33+00:00"
     },
     {
       "asin": "B0DJ19VGDD",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20172405",
       "published_at": "2026-10-17T19:45:46+00:00",
-      "revalidated_at": "2026-10-17T21:45:51+00:00"
+      "revalidated_at": "2026-10-17T23:30:33+00:00"
     },
     {
       "asin": "B0DS2389H1",
@@ -620,28 +620,6 @@
       "revalidated_at": "2026-10-17T22:00:41+00:00"
     },
     {
-      "asin": "B0FQNNW5HT",
-      "title": "DEEBYCOO MFi Certified Apple Find My Wallet Tracker Card w/ Wireless Charging & IP68 Waterproofing",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 8.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 75.7,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "BEST1015",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71supeA0fwL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FQNNW5HT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20172204",
-      "published_at": "2026-10-17T18:00:43+00:00",
-      "revalidated_at": "2026-10-17T21:45:51+00:00"
-    },
-    {
       "asin": "B07JMJDGKL",
       "title": "Adecorty 192-LED Purple Meteor Shower Halloween Icicle Lights (8 Tubes, 23 Ft)",
       "title_es": null,
@@ -727,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20157711",
       "published_at": "2026-10-17T17:45:50+00:00",
-      "revalidated_at": "2026-10-17T21:30:50+00:00"
+      "revalidated_at": "2026-10-17T23:30:33+00:00"
     },
     {
       "asin": "B0829PGDQR",
@@ -947,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20171802",
       "published_at": "2026-10-17T15:45:37+00:00",
-      "revalidated_at": "2026-10-17T21:30:50+00:00"
+      "revalidated_at": "2026-10-17T23:30:33+00:00"
     },
     {
       "asin": "B0DJ197M66",
@@ -969,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20171637",
       "published_at": "2026-10-17T15:45:37+00:00",
-      "revalidated_at": "2026-10-17T21:30:50+00:00"
+      "revalidated_at": "2026-10-17T23:30:33+00:00"
     },
     {
       "asin": "B0F5Q2VJZ5",
@@ -1211,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163885",
       "published_at": "2026-10-17T12:15:40+00:00",
-      "revalidated_at": "2026-10-17T21:45:51+00:00"
+      "revalidated_at": "2026-10-17T23:30:33+00:00"
     },
     {
       "asin": "B0C4V9XJDM",
@@ -1233,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20170458",
       "published_at": "2026-10-17T12:00:46+00:00",
-      "revalidated_at": "2026-10-17T21:30:50+00:00"
+      "revalidated_at": "2026-10-17T23:30:33+00:00"
     },
     {
       "asin": "B07KHG79Z8",
@@ -1475,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20167305",
       "published_at": "2026-10-17T08:30:47+00:00",
-      "revalidated_at": "2026-10-17T21:45:51+00:00"
+      "revalidated_at": "2026-10-17T23:30:33+00:00"
     },
     {
       "asin": "B0BLNQK22D",
@@ -1607,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20152713",
       "published_at": "2026-10-17T04:45:53+00:00",
-      "revalidated_at": "2026-10-17T21:45:51+00:00"
+      "revalidated_at": "2026-10-17T23:30:33+00:00"
     },
     {
       "asin": "B0H875HMKS",
@@ -2443,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20169327",
       "published_at": "2026-10-16T22:15:48+00:00",
-      "revalidated_at": "2026-10-17T21:30:50+00:00"
+      "revalidated_at": "2026-10-17T23:30:33+00:00"
     },
     {
       "asin": "B07T91KFMP",
