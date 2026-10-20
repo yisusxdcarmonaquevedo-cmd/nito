@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-20T09:00:45+00:00",
+  "generated_at": "2026-10-20T09:15:42+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B088TDQG67",
+      "title": "Shift: Book Two of the Silo Series by Hugh Howey (eBook)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.0,
+      "price_old": 19.99,
+      "currency": "USD",
+      "discount_pct": 85.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/2/0/5/0/6/0/2/4/450x450/21981384.thumb",
+      "url": "https://amazon.com/dp/B088TDQG67/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20164623",
+      "published_at": "2026-10-20T09:15:42+00:00",
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
+    },
+    {
+      "asin": "B0DSBXPC78",
+      "title": "4-Pack HW 1.5V 1300mWh AAA USB-C Rechargeable Lithium Batteries w/ 4-in-1 Cable",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.42,
+      "price_old": 14.99,
+      "currency": "USD",
+      "discount_pct": 50.5,
+      "rating": 4.2,
+      "condition": "code",
+      "code": "TA6KHTL5",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71nxI5R58wL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DSBXPC78/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20166084",
+      "published_at": "2026-10-20T09:15:42+00:00",
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
+    },
     {
       "asin": "B003KIQIW8",
       "title": "32-Oz Rust-Oleum Whink Heavy-Duty Rust & Iron Stain Remover",
@@ -309,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20154621",
       "published_at": "2026-10-20T05:30:41+00:00",
-      "revalidated_at": "2026-10-20T07:30:53+00:00"
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
     },
     {
       "asin": "B0CN6SSC17",
@@ -639,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20168055",
       "published_at": "2026-10-20T01:45:50+00:00",
-      "revalidated_at": "2026-10-20T07:30:53+00:00"
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
     },
     {
       "asin": "B0FMS7YJFM",
@@ -661,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20177625",
       "published_at": "2026-10-20T01:45:50+00:00",
-      "revalidated_at": "2026-10-20T07:30:53+00:00"
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
     },
     {
       "asin": "B07YJCN2ML",
@@ -683,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20180343",
       "published_at": "2026-10-20T01:45:50+00:00",
-      "revalidated_at": "2026-10-20T07:30:53+00:00"
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
     },
     {
       "asin": "B0G3WPQBMF",
@@ -705,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20168955",
       "published_at": "2026-10-20T01:45:50+00:00",
-      "revalidated_at": "2026-10-20T07:30:53+00:00"
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
     },
     {
       "asin": "B00213KDYC",
@@ -1497,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20179347",
       "published_at": "2026-10-19T21:15:48+00:00",
-      "revalidated_at": "2026-10-20T07:30:53+00:00"
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
     },
     {
       "asin": "B0FP1W6Z3V",
@@ -1893,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20172180",
       "published_at": "2026-10-19T17:30:51+00:00",
-      "revalidated_at": "2026-10-20T07:30:53+00:00"
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
     },
     {
       "asin": "B08QCXLVP8",
@@ -1915,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20157843",
       "published_at": "2026-10-19T17:30:51+00:00",
-      "revalidated_at": "2026-10-20T07:30:53+00:00"
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
     },
     {
       "asin": "B0HG9PFPY4",
@@ -1959,29 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20178219",
       "published_at": "2026-10-19T17:15:50+00:00",
-      "revalidated_at": "2026-10-20T07:30:53+00:00"
-    },
-    {
-      "asin": "B0GMPCXD64",
-      "title": "18-Oz GEARWRENCH Dead Blow Hammer",
-      "title_es": "Martillo de Golpe Muerto GEARWRENCH de 18 Oz",
-      "headline": null,
-      "post": "El martillo de golpe muerto GEARWRENCH de 18 Oz minimiza el rebote y reduce el daño a las superficies. Es una herramienta esencial para trabajos de automoción, carpintería y otras tareas que requieren un impacto controlado.",
-      "post_en": "The 18-Oz GEARWRENCH Dead Blow Hammer minimizes rebound and reduces damage to surfaces. It's an essential tool for automotive work, carpentry, and other tasks requiring controlled impact.",
-      "price_new": 17.2,
-      "price_old": 32.99,
-      "currency": "USD",
-      "discount_pct": 47.9,
-      "rating": 5.0,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51GKc6xa6GL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GMPCXD64/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20176980",
-      "published_at": "2026-10-19T16:45:41+00:00",
-      "revalidated_at": "2026-10-20T07:30:53+00:00"
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
     },
     {
       "asin": "B0FDTR3KTP",
@@ -2179,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20177139",
       "published_at": "2026-10-19T15:00:54+00:00",
-      "revalidated_at": "2026-10-20T07:30:53+00:00"
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
     },
     {
       "asin": "B0B56CHMSC",
@@ -2289,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20176965",
       "published_at": "2026-10-19T14:15:55+00:00",
-      "revalidated_at": "2026-10-20T07:15:54+00:00"
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
     },
     {
       "asin": "B0FHXY8DW4",
@@ -2399,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20159022",
       "published_at": "2026-10-19T12:45:38+00:00",
-      "revalidated_at": "2026-10-20T07:15:54+00:00"
+      "revalidated_at": "2026-10-20T09:15:42+00:00"
     },
     {
       "asin": "B06Y5ZCFHX",
@@ -2598,50 +2620,6 @@
       "deal_key": "sd:20167515",
       "published_at": "2026-10-19T11:00:53+00:00",
       "revalidated_at": "2026-10-20T07:30:53+00:00"
-    },
-    {
-      "asin": "B0CWL4HS5G",
-      "title": "22\" x 19\" Silicone Under Sink Mat Cabinet Liner (Gray)",
-      "title_es": "Protector de Silicona para Armario bajo Fregadero (22\" x 19\", Gris)",
-      "headline": null,
-      "post": "Protege tus armarios bajo el fregadero de derrames y fugas con esta alfombrilla de silicona duradera y fácil de limpiar. Es un accesorio práctico para mantener tu cocina o baño organizado y libre de daños por humedad.",
-      "post_en": "Protect your under-sink cabinets from spills and leaks with this durable and easy-to-clean silicone mat. It's a practical accessory to keep your kitchen or bathroom organized and free from moisture damage.",
-      "price_new": 8.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 74.3,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/21970065.thumb",
-      "url": "https://amazon.com/dp/B0CWL4HS5G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20161059",
-      "published_at": "2026-10-19T11:00:53+00:00",
-      "revalidated_at": "2026-10-20T07:45:36+00:00"
-    },
-    {
-      "asin": "B0D2Z2BVHW",
-      "title": "Brooks Women’s Glycerin 22 Neutral Running Shoe (X-Wide) at Amazon",
-      "title_es": "Zapatillas de Running Neutras Brooks Glycerin 22 para Mujer (Ancho X)",
-      "headline": null,
-      "post": "Las zapatillas Brooks Glycerin 22 ofrecen amortiguación superior y un ajuste cómodo, ideales para corredoras que buscan suavidad en cada pisada. Su diseño neutro y ancho extra las hace perfectas para largas distancias y máxima confort. 🏃‍♀️",
-      "post_en": "The Brooks Glycerin 22 shoes offer superior cushioning and a comfortable fit, ideal for female runners seeking softness with every stride. Their neutral and extra-wide design makes them perfect for long distances and maximum comfort. 🏃‍♀️",
-      "price_new": 79.95,
-      "price_old": 164.95,
-      "currency": "USD",
-      "discount_pct": 51.5,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/81Fy+uYXaDL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D2Z2BVHW/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20174901",
-      "published_at": "2026-10-19T11:00:53+00:00",
-      "revalidated_at": "2026-10-20T07:45:36+00:00"
     }
   ]
 }
