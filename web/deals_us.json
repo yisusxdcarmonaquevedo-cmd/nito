@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:16:13+00:00",
+  "generated_at": "2026-10-20T00:30:28+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -36,11 +36,11 @@
       "price_old": 39.95,
       "currency": "USD",
       "discount_pct": 70.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22022616.thumb",
+      "image": "https://m.media-amazon.com/images/I/51QuReBGoLL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0C832WMLR/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20180562",
@@ -102,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 54.3,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/22020750.thumb",
+      "image": "https://m.media-amazon.com/images/I/61neLOvrlwL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FHWZC82X/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20179662",
@@ -124,11 +124,11 @@
       "price_old": 57.0,
       "currency": "USD",
       "discount_pct": 42.1,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22012953.thumb",
+      "image": "https://m.media-amazon.com/images/I/816-NhGrSrL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B072QKHDRB/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20177148",
@@ -168,11 +168,11 @@
       "price_old": 14.99,
       "currency": "USD",
       "discount_pct": 40.0,
-      "rating": null,
+      "rating": 4.8,
       "condition": "code",
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/21994545.thumb",
+      "image": "https://m.media-amazon.com/images/I/61MNMBAc4qL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H6W6JMCX/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20169402",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20160516",
       "published_at": "2026-10-19T22:15:39+00:00",
-      "revalidated_at": "2026-10-19T22:15:39+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B08L614R6K",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163813",
       "published_at": "2026-10-19T22:00:41+00:00",
-      "revalidated_at": "2026-10-19T22:00:42+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B002S537TG",
@@ -424,10 +424,10 @@
     {
       "asin": "B0GVZ3NPHT",
       "title": "BOSTANTEN Wide Casual Mary Jane Sneakers w/ Hook-and-Loop Strap (Beige, Light Grey, Sizes 7-7.5 to 8.5-9)",
-      "title_es": null,
+      "title_es": "Zapatillas BOSTANTEN Mary Jane Casual Anchas con Correa de Velcro",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estas zapatillas BOSTANTEN ofrecen un estilo casual y cómodo con su diseño Mary Jane ancho y cierre de velcro. Son ideales para quienes buscan un calzado práctico y fácil de ajustar para el día a día. 👟",
+      "post_en": "These BOSTANTEN sneakers offer a casual and comfortable style with their wide Mary Jane design and hook-and-loop strap. They are ideal for those looking for practical and easy-to-adjust footwear for everyday wear. 👟",
       "price_new": 19.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -446,10 +446,10 @@
     {
       "asin": "B0FRNF72VP",
       "title": "$6.64 S&S AMAZON   Dove Men+Care Thick & Strong 2-in-1 Shampoo + Conditioner  28oz Pump Bottle",
-      "title_es": null,
+      "title_es": "Dove Men+Care Thick & Strong 2-in-1 Champú + Acondicionador 28oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este champú y acondicionador 2 en 1 de Dove Men+Care está diseñado para fortalecer el cabello masculino y darle un aspecto más grueso. Es perfecto para hombres que buscan una solución de cuidado capilar completa y eficaz en un solo producto.",
+      "post_en": "This Dove Men+Care 2-in-1 shampoo and conditioner is designed to strengthen men's hair and give it a thicker appearance. It's perfect for men seeking a complete and effective hair care solution in one product.",
       "price_new": 6.64,
       "price_old": 60.0,
       "currency": "USD",
@@ -468,10 +468,10 @@
     {
       "asin": "B0G241ZP3B",
       "title": "LISEN 5000mAh 0.38\" Ultra-Slim Qi2 15W Magnetic Wireless Power Bank for iPhone w/ 22.5W USB-C Fast Charging (Ice Grey)",
-      "title_es": null,
+      "title_es": "Batería Externa Magnética LISEN 5000mAh Qi2 15W Ultra-Fina para iPhone",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta batería externa LISEN es ultra-fina y magnética, compatible con Qi2 de 15W para iPhone y carga rápida USB-C de 22.5W. Ideal para mantener tus dispositivos cargados en cualquier lugar sin añadir volumen extra. 🔋",
+      "post_en": "This LISEN power bank is ultra-slim and magnetic, compatible with Qi2 15W for iPhone and 22.5W USB-C fast charging. It's ideal for keeping your devices charged anywhere without adding extra bulk. 🔋",
       "price_new": 16.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -490,10 +490,10 @@
     {
       "asin": "B0H8N7M38Z",
       "title": "3\" NEXHOME PRO Dual-Layer Cooling Gel Memory Foam Mattress Topper w/ Bamboo Pillow Top (King)",
-      "title_es": null,
+      "title_es": "Cubrecolchón NEXHOME PRO de Espuma Viscoelástica con Gel Refrigerante y Capa Superior de Bambú (King)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Transforma tu cama con este cubrecolchón NEXHOME PRO de 3 pulgadas, que combina espuma viscoelástica con gel refrigerante y una capa superior de bambú. Proporciona un confort superior y ayuda a regular la temperatura para un descanso más fresco.",
+      "post_en": "Transform your bed with this 3-inch NEXHOME PRO mattress topper, combining cooling gel memory foam and a bamboo pillow top. It provides superior comfort and helps regulate temperature for a cooler rest.",
       "price_new": 49.99,
       "price_old": 99.99,
       "currency": "USD",
@@ -512,10 +512,10 @@
     {
       "asin": "B0GQ3TNJFN",
       "title": "[Prime] Cleer ARC 5 Open-Ear Wireless Earbuds w/ Dolby Atmos & THX Spatial Audio (2 Colors)",
-      "title_es": null,
+      "title_es": "Auriculares Inalámbricos Abiertos Cleer ARC 5 con Dolby Atmos y THX Spatial Audio",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Los auriculares Cleer ARC 5 ofrecen una experiencia de sonido inmersiva con Dolby Atmos y THX Spatial Audio, manteniendo tus oídos abiertos al entorno. Son perfectos para quienes buscan calidad de audio premium sin aislarse completamente. 🎧",
+      "post_en": "The Cleer ARC 5 earbuds offer an immersive sound experience with Dolby Atmos and THX Spatial Audio, while keeping your ears open to the surroundings. They are perfect for those seeking premium audio quality without complete isolation. 🎧",
       "price_new": 114.56,
       "price_old": 219.99,
       "currency": "USD",
@@ -534,10 +534,10 @@
     {
       "asin": "B0G1M9LS6H",
       "title": "Merach 3D Motion Rocking Stepper w/ Resistance Bands",
-      "title_es": null,
+      "title_es": "Stepper Merach 3D Motion con Bandas de Resistencia",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este stepper Merach 3D Motion te permite realizar un entrenamiento completo en casa, activando múltiples músculos con su movimiento oscilante y bandas de resistencia. Es ideal para mejorar tu fitness y tonificar el cuerpo de forma práctica.",
+      "post_en": "This Merach 3D Motion stepper allows you to perform a full-body workout at home, activating multiple muscles with its rocking motion and resistance bands. It's ideal for improving your fitness and toning your body conveniently.",
       "price_new": 36.0,
       "price_old": 60.0,
       "currency": "USD",
@@ -556,10 +556,10 @@
     {
       "asin": "B001ECQPUW",
       "title": "Plano 1354-02 -by Rack System 3500 Size Tackle Box, Premium Tackle Storage",
-      "title_es": null,
+      "title_es": "Caja de Pesca Plano 1354-02 -by Rack System 3500, Almacenamiento Premium",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La caja de pesca Plano 1354-02 ofrece un sistema de almacenamiento premium para tu equipo de pesca, con múltiples compartimentos para mantenerlo organizado. Es esencial para pescadores que buscan durabilidad y orden en sus accesorios.",
+      "post_en": "The Plano 1354-02 tackle box offers a premium storage system for your fishing gear, with multiple compartments to keep it organized. It's essential for anglers seeking durability and order for their accessories.",
       "price_new": 23.98,
       "price_old": 39.99,
       "currency": "USD",
@@ -578,10 +578,10 @@
     {
       "asin": "B0H7J5DP37",
       "title": "Ekouaer Family Christmas Pajamas Matching Pjs Sets for Women, Men and Kids",
-      "title_es": null,
+      "title_es": "Pijamas Navideños Familiares Ekouaer a Juego para Mujeres, Hombres y Niños",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estos sets de pijamas navideños Ekouaer a juego son perfectos para toda la familia, creando un ambiente festivo y acogedor. Son ideales para fotos navideñas o simplemente para disfrutar de la temporada con estilo y comodidad. 🎄",
+      "post_en": "These Ekouaer matching family Christmas pajama sets are perfect for the whole family, creating a festive and cozy atmosphere. They are ideal for holiday photos or simply enjoying the season in style and comfort. 🎄",
       "price_new": 12.99,
       "price_old": 44.64,
       "currency": "USD",
@@ -600,10 +600,10 @@
     {
       "asin": "B0DHLHMK9V",
       "title": "267-Pc LEGO Speed Champions Mercedes-AMG F1 W15 Race Car Building Toy",
-      "title_es": null,
+      "title_es": "Juguete de Construcción LEGO Speed Champions Mercedes-AMG F1 W15 Race Car (267 Piezas)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Construye tu propio coche de carreras Mercedes-AMG F1 W15 con este set LEGO Speed Champions de 267 piezas. Es un regalo fantástico para aficionados a la Fórmula 1 y entusiastas de LEGO de todas las edades. 🏎️",
+      "post_en": "Build your own Mercedes-AMG F1 W15 race car with this 267-piece LEGO Speed Champions set. It's a fantastic gift for Formula 1 fans and LEGO enthusiasts of all ages. 🏎️",
       "price_new": 19.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -622,10 +622,10 @@
     {
       "asin": "B0FP1W6Z3V",
       "title": "wegear 45W Dual-Port GaN USB-C Wall Charger w/ PPS & Foldable Prongs (2 Colors)",
-      "title_es": null,
+      "title_es": "Cargador de Pared wegear GaN USB-C de Doble Puerto 45W con PPS y Clavijas Plegables",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este cargador de pared wegear GaN de 45W ofrece carga rápida con doble puerto USB-C y tecnología PPS, ideal para múltiples dispositivos. Su diseño compacto con clavijas plegables lo hace perfecto para viajes y uso diario.",
+      "post_en": "This wegear 45W GaN wall charger offers fast charging with dual USB-C ports and PPS technology, ideal for multiple devices. Its compact design with foldable prongs makes it perfect for travel and daily use.",
       "price_new": 8.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20178270",
       "published_at": "2026-10-19T20:00:44+00:00",
-      "revalidated_at": "2026-10-19T22:00:42+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B0CG5GNGYB",
@@ -864,10 +864,10 @@
     {
       "asin": "B0HM36F6DY",
       "title": "32\" DUMOS Computer Desk (Black)",
-      "title_es": null,
+      "title_es": "Escritorio para ordenador DUMOS de 32\" (Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este escritorio compacto DUMOS de 32\" es ideal para espacios pequeños, ofreciendo una superficie funcional para tu ordenador. Su diseño sencillo y color negro lo hacen versátil para cualquier oficina en casa o rincón de estudio.",
+      "post_en": "This compact 32\" DUMOS computer desk is ideal for small spaces, offering a functional surface for your computer. Its simple design and black color make it versatile for any home office or study nook.",
       "price_new": 20.0,
       "price_old": 35.0,
       "currency": "USD",
@@ -886,10 +886,10 @@
     {
       "asin": "B084NQLFMP",
       "title": "14.5\" Plano Guide Series 3500 Tackle Bag w/ No Slip Base, Dropzone Magnetic Top and Included Stows",
-      "title_es": null,
+      "title_es": "Bolsa de pesca Plano Guide Series 3500 de 14.5\" con base antideslizante, tapa magnética Dropzone y estuches incluidos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La bolsa de pesca Plano Guide Series 3500 es perfecta para organizar tu equipo con su base antideslizante y tapa magnética Dropzone. Incluye estuches para que los pescadores mantengan todo su material ordenado y accesible.",
+      "post_en": "The Plano Guide Series 3500 tackle bag is perfect for organizing your gear with its non-slip base and Dropzone magnetic top. It includes stows, allowing anglers to keep all their equipment tidy and accessible.",
       "price_new": 57.37,
       "price_old": 94.96,
       "currency": "USD",
@@ -908,10 +908,10 @@
     {
       "asin": "B0FJRPX37X",
       "title": "5-Pack Little Beauty Men's Plaid Flannel Hooded Button-Down Shirt Jacket",
-      "title_es": null,
+      "title_es": "Pack de 5 chaquetas-camisa de franela a cuadros Little Beauty para hombre con capucha y botones",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 5 chaquetas-camisa de franela a cuadros Little Beauty ofrece comodidad y estilo informal para hombres. Con capucha y cierre de botones, son perfectas para el uso diario en climas frescos.",
+      "post_en": "This 5-pack of Little Beauty Men's Plaid Flannel Hooded Button-Down Shirt Jackets offers comfort and casual style. Featuring a hood and button closure, they are perfect for everyday wear in cooler weather.",
       "price_new": 5.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -930,10 +930,10 @@
     {
       "asin": "B0FR9L7BDG",
       "title": "WK75 Wireless Mechanical Keyboard, Pink Creamy Keyboard with Knob - 34.99",
-      "title_es": null,
+      "title_es": "Teclado mecánico inalámbrico WK75, Pink Creamy con perilla",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El teclado mecánico inalámbrico WK75 en tono Pink Creamy combina estética y funcionalidad, ideal para gamers y profesionales. Su perilla integrada permite un control rápido del volumen o funciones multimedia. ⌨️",
+      "post_en": "The WK75 Wireless Mechanical Keyboard in Pink Creamy combines aesthetics and functionality, ideal for gamers and professionals. Its integrated knob allows for quick volume or multimedia control. ⌨️",
       "price_new": 34.99,
       "price_old": 49.99,
       "currency": "USD",
@@ -952,10 +952,10 @@
     {
       "asin": "B0G1ZFKB98",
       "title": "Nightcrawler - Limited Edition Steelbook [4K Ultra HD]",
-      "title_es": null,
+      "title_es": "Nightcrawler - Edición limitada Steelbook [4K Ultra HD]",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de la aclamada película Nightcrawler en esta impresionante edición limitada Steelbook en 4K Ultra HD. Es una pieza imprescindible para coleccionistas y amantes del cine que buscan la mejor calidad de imagen.",
+      "post_en": "Enjoy the acclaimed film Nightcrawler in this stunning Limited Edition Steelbook in 4K Ultra HD. It's a must-have for collectors and film enthusiasts seeking the best image quality.",
       "price_new": 20.99,
       "price_old": 57.0,
       "currency": "USD",
@@ -974,10 +974,10 @@
     {
       "asin": "B0DJ19PWQF",
       "title": "799-Piece LEGO Icons: Formula 1 - Williams Racing FW14B & Nigel Mansell (10353, 2025) at Amazon",
-      "title_es": null,
+      "title_es": "LEGO Icons: Formula 1 - Williams Racing FW14B y Nigel Mansell (10353, 2025) de 799 piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Construye el icónico Williams Racing FW14B de Formula 1 y la figura de Nigel Mansell con este set LEGO Icons de 799 piezas. Es un regalo perfecto para entusiastas de la F1 y coleccionistas de LEGO mayores de 18 años.",
+      "post_en": "Build the iconic Formula 1 Williams Racing FW14B and Nigel Mansell figure with this 799-piece LEGO Icons set. It's a perfect gift for F1 enthusiasts and adult LEGO collectors.",
       "price_new": 47.99,
       "price_old": 79.99,
       "currency": "USD",
@@ -996,10 +996,10 @@
     {
       "asin": "B0043M4ZAC",
       "title": "Sleepers (eBook) by Lorenzo Carcaterra",
-      "title_es": null,
+      "title_es": "Sleepers (eBook) de Lorenzo Carcaterra",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en la intensa narrativa de \"Sleepers\", el aclamado eBook de Lorenzo Carcaterra. Ideal para lectores que disfrutan de thrillers judiciales y dramas basados en historias reales.",
+      "post_en": "Immerse yourself in the intense narrative of \"Sleepers,\" the acclaimed eBook by Lorenzo Carcaterra. It's ideal for readers who enjoy legal thrillers and dramas based on true stories.",
       "price_new": 1.99,
       "price_old": 9.99,
       "currency": "USD",
@@ -1018,10 +1018,10 @@
     {
       "asin": "B0CJM4JPBB",
       "title": "24\" VIGRUE 4000 PSI 2-in-1 Undercarriage Pressure Washer & Water Broom Attachment w/ 7 Nozzles & 3 Extension Wands",
-      "title_es": null,
+      "title_es": "Limpiador a presión VIGRUE 2 en 1 para bajos y cepillo de agua de 24\" y 4000 PSI con 7 boquillas y 3 varillas de extensión",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este accesorio VIGRUE 2 en 1 es un potente limpiador a presión para bajos y cepillo de agua, ideal para la limpieza profunda de vehículos y superficies. Incluye 7 boquillas y 3 varillas de extensión para una mayor versatilidad y alcance.",
+      "post_en": "This VIGRUE 2-in-1 attachment is a powerful undercarriage pressure washer and water broom, ideal for deep cleaning vehicles and surfaces. It includes 7 nozzles and 3 extension wands for increased versatility and reach.",
       "price_new": 29.59,
       "price_old": 78.99,
       "currency": "USD",
@@ -1040,10 +1040,10 @@
     {
       "asin": "B0DKS89T75",
       "title": "SUPVAN E11 Keyboard & Bluetooth Label Maker Machine with 4 Tapes",
-      "title_es": null,
+      "title_es": "Etiquetadora SUPVAN E11 con teclado y Bluetooth, incluye 4 cintas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La etiquetadora SUPVAN E11 con teclado y conectividad Bluetooth es perfecta para organizar tu hogar u oficina de forma sencilla. Viene con 4 cintas para que empieces a etiquetar al instante.",
+      "post_en": "The SUPVAN E11 Label Maker Machine with a keyboard and Bluetooth connectivity is perfect for easily organizing your home or office. It comes with 4 tapes, so you can start labeling instantly.",
       "price_new": 18.0,
       "price_old": 39.99,
       "currency": "USD",
@@ -1062,10 +1062,10 @@
     {
       "asin": "B08QCXLVP8",
       "title": "Amazon – SANTINY Women's Drawstring Joggers -",
-      "title_es": null,
+      "title_es": "Pantalones deportivos SANTINY con cordón para mujer",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estos pantalones deportivos SANTINY con cordón para mujer ofrecen comodidad y estilo para el día a día o tus sesiones de ejercicio. Son ideales para quienes buscan ropa versátil y relajada.",
+      "post_en": "These SANTINY Women's Drawstring Joggers offer comfort and style for everyday wear or your workout sessions. They are ideal for those looking for versatile and relaxed clothing.",
       "price_new": 14.84,
       "price_old": 33.99,
       "currency": "USD",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163411",
       "published_at": "2026-10-19T16:15:53+00:00",
-      "revalidated_at": "2026-10-19T22:15:39+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B0GKP3QXQB",
@@ -1233,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20164572",
       "published_at": "2026-10-19T16:15:53+00:00",
-      "revalidated_at": "2026-10-19T22:15:39+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B0G2T39CMJ",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20178789",
       "published_at": "2026-10-19T16:15:53+00:00",
-      "revalidated_at": "2026-10-19T22:15:39+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B0D8CXHSVL",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20178720",
       "published_at": "2026-10-19T16:00:45+00:00",
-      "revalidated_at": "2026-10-19T22:00:42+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B0DPH7421K",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163786",
       "published_at": "2026-10-19T16:00:45+00:00",
-      "revalidated_at": "2026-10-19T22:00:42+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B0GH74B9RQ",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20159829",
       "published_at": "2026-10-19T16:00:45+00:00",
-      "revalidated_at": "2026-10-19T22:00:42+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B0H4V2C14Q",
@@ -1431,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20170188",
       "published_at": "2026-10-19T14:30:44+00:00",
-      "revalidated_at": "2026-10-19T22:15:39+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B07PHKTHN7",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20170221",
       "published_at": "2026-10-19T14:15:55+00:00",
-      "revalidated_at": "2026-10-19T22:00:42+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B0D4DQ66XZ",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20176875",
       "published_at": "2026-10-19T10:00:46+00:00",
-      "revalidated_at": "2026-10-19T22:00:42+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B0CGXZ79WH",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20175906",
       "published_at": "2026-10-19T02:15:59+00:00",
-      "revalidated_at": "2026-10-19T22:00:42+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B0F13G467P",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20167344",
       "published_at": "2026-10-19T02:15:59+00:00",
-      "revalidated_at": "2026-10-19T22:00:42+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B0GFHYKS3Z",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20167257",
       "published_at": "2026-10-19T02:15:59+00:00",
-      "revalidated_at": "2026-10-19T22:00:42+00:00"
+      "revalidated_at": "2026-10-20T00:30:28+00:00"
     },
     {
       "asin": "B0FF417Z6S",
