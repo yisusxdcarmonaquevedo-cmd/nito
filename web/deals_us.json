@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-20T01:15:45+00:00",
+  "generated_at": "2026-10-20T01:31:00+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B00213KDYC",
+      "title": "StarTech 15ft CAT6 Ethernet Cable at Amazon",
+      "title_es": "Cable Ethernet CAT6 StarTech de 15 pies",
+      "headline": null,
+      "post": "Este cable Ethernet CAT6 de 15 pies de StarTech es ideal para conexiones de red fiables en casa u oficina. Ofrece alta velocidad y estabilidad para tu internet o dispositivos conectados. 🔌",
+      "post_en": "This 15ft StarTech CAT6 Ethernet cable is perfect for reliable network connections at home or the office. It provides high speed and stability for your internet or connected devices. 🔌",
+      "price_new": 5.59,
+      "price_old": 11.99,
+      "currency": "USD",
+      "discount_pct": 53.4,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22023108.thumb",
+      "url": "https://amazon.com/dp/B00213KDYC/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20180772",
+      "published_at": "2026-10-20T01:31:00+00:00",
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
+    },
+    {
+      "asin": "B000E3FKTE",
+      "title": "Plano 1364 4-By Rack System 3650 Size Tackle Box, Premium Tackle Storage",
+      "title_es": "Caja de aparejos Plano 1364 4-By Rack System",
+      "headline": null,
+      "post": "La caja de aparejos Plano 1364 4-By Rack System ofrece almacenamiento premium y organizado para tus accesorios de pesca. Es ideal para pescadores que buscan mantener su equipo ordenado y accesible. 🎣",
+      "post_en": "The Plano 1364 4-By Rack System tackle box provides premium, organized storage for your fishing accessories. It's ideal for anglers looking to keep their gear tidy and accessible. 🎣",
+      "price_new": 35.98,
+      "price_old": 59.99,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/1/1/9/9/5/2/5/2/450x450/22016100.thumb",
+      "url": "https://amazon.com/dp/B000E3FKTE/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20178360",
+      "published_at": "2026-10-20T01:31:00+00:00",
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
+    },
+    {
+      "asin": "B0CL3V864M",
+      "title": "2' Atlantic Heavy Duty Garden Hose Extension (5/8\", Green)",
+      "title_es": "Extensión de manguera de jardín Atlantic de 2 pies (Servicio Pesado)",
+      "headline": null,
+      "post": "Esta extensión de manguera de jardín Atlantic de 2 pies es resistente y duradera, perfecta para tareas de riego en tu jardín. Ideal para quienes necesitan un alcance extra sin complicaciones.",
+      "post_en": "This 2' Atlantic Heavy Duty Garden Hose Extension is robust and durable, perfect for watering tasks in your garden. It's ideal for those needing extra reach without hassle.",
+      "price_new": 8.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 77.1,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/51+zyFv2+qL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CL3V864M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20164872",
+      "published_at": "2026-10-20T01:31:00+00:00",
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
+    },
+    {
+      "asin": "B0D76BH4HX",
+      "title": "Daran NEOK2 288Wh 600W LiFePO4 Portable Battery Powered Station",
+      "title_es": "Estación de energía portátil Daran NEOK2 LiFePO4 288Wh 600W",
+      "headline": null,
+      "post": "La estación de energía portátil Daran NEOK2 LiFePO4 de 288Wh y 600W ofrece una fuente de energía fiable para tus dispositivos fuera de casa. Perfecta para viajes, camping o como respaldo de emergencia. 🔋",
+      "post_en": "The Daran NEOK2 288Wh 600W LiFePO4 Portable Battery Powered Station provides a reliable power source for your devices on the go. Perfect for travel, camping, or as an emergency backup. 🔋",
+      "price_new": 125.0,
+      "price_old": 249.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "677Z5CXN",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81qxI84VesL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0D76BH4HX/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20178330",
+      "published_at": "2026-10-20T01:31:00+00:00",
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
+    },
     {
       "asin": "B0GR1J6T45",
       "title": "13-Inch Apple MacBook Air Laptop with M5 chip (16GB RAM, 512GB SSD, Starlight) at Amazon",
@@ -353,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163726",
       "published_at": "2026-10-19T23:15:42+00:00",
-      "revalidated_at": "2026-10-19T23:15:42+00:00"
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
     },
     {
       "asin": "B0H14NRQ35",
@@ -705,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20177847",
       "published_at": "2026-10-19T21:15:48+00:00",
-      "revalidated_at": "2026-10-19T23:15:42+00:00"
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
     },
     {
       "asin": "B0DHLHMK9V",
@@ -727,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20179347",
       "published_at": "2026-10-19T21:15:48+00:00",
-      "revalidated_at": "2026-10-19T23:15:42+00:00"
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
     },
     {
       "asin": "B0FP1W6Z3V",
@@ -1145,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20178201",
       "published_at": "2026-10-19T17:30:51+00:00",
-      "revalidated_at": "2026-10-19T23:15:42+00:00"
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
     },
     {
       "asin": "B0DKS89T75",
@@ -1651,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20176860",
       "published_at": "2026-10-19T13:30:50+00:00",
-      "revalidated_at": "2026-10-19T23:00:44+00:00"
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
     },
     {
       "asin": "B071CWXLY5",
@@ -1673,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20175114",
       "published_at": "2026-10-19T13:15:41+00:00",
-      "revalidated_at": "2026-10-19T23:00:44+00:00"
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
     },
     {
       "asin": "B0D66RP3R5",
@@ -1695,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20169201",
       "published_at": "2026-10-19T13:15:41+00:00",
-      "revalidated_at": "2026-10-19T23:00:44+00:00"
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
     },
     {
       "asin": "B0B9SN48PY",
@@ -1893,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20177361",
       "published_at": "2026-10-19T11:30:50+00:00",
-      "revalidated_at": "2026-10-19T23:00:44+00:00"
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
     },
     {
       "asin": "B0HFCZ4424",
@@ -1937,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20161059",
       "published_at": "2026-10-19T11:00:53+00:00",
-      "revalidated_at": "2026-10-19T23:00:44+00:00"
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
     },
     {
       "asin": "B0D2Z2BVHW",
@@ -1959,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20174901",
       "published_at": "2026-10-19T11:00:53+00:00",
-      "revalidated_at": "2026-10-19T23:00:44+00:00"
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
     },
     {
       "asin": "B0GRK5D3RW",
@@ -2003,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20175105",
       "published_at": "2026-10-19T09:30:37+00:00",
-      "revalidated_at": "2026-10-19T23:00:44+00:00"
+      "revalidated_at": "2026-10-20T01:31:00+00:00"
     },
     {
       "asin": "B00BTKAPUU",
@@ -2554,94 +2642,6 @@
       "deal_key": "sd:20175843",
       "published_at": "2026-10-19T01:46:21+00:00",
       "revalidated_at": "2026-10-19T23:45:46+00:00"
-    },
-    {
-      "asin": "B0FP7CL37H",
-      "title": "MSI Forge GK110 Combo US – Gaming RGB Keyboard & Mouse Set, 26-Key Anti-Ghosting, 12800 DPI Optical Sensor",
-      "title_es": "Combo MSI Forge GK110 US – Teclado y ratón RGB gaming, anti-ghosting de 26 teclas, sensor óptico de 12800 DPI",
-      "headline": null,
-      "post": "Mejora tu experiencia de juego con el combo MSI Forge GK110, que incluye un teclado RGB con anti-ghosting y un ratón de alta precisión. Este set es ideal para gamers que buscan rendimiento y estilo en sus periféricos.",
-      "post_en": "Enhance your gaming experience with the MSI Forge GK110 combo, featuring an RGB keyboard with anti-ghosting and a high-precision mouse. This set is ideal for gamers seeking performance and style in their peripherals.",
-      "price_new": 24.99,
-      "price_old": 44.99,
-      "currency": "USD",
-      "discount_pct": 44.5,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71NxxnpwwhL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FP7CL37H/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20176074",
-      "published_at": "2026-10-19T01:46:21+00:00",
-      "revalidated_at": "2026-10-19T23:45:46+00:00"
-    },
-    {
-      "asin": "B0H45524XN",
-      "title": "360° Bendable Flexible Lisen MagSafe Magnetic Car Phone Mount",
-      "title_es": "Soporte magnético flexible Lisen MagSafe para coche de 360°",
-      "headline": null,
-      "post": "Este soporte magnético Lisen MagSafe para coche ofrece una sujeción segura y flexible para tu teléfono, con un brazo que se dobla 360°. Es ideal para conductores que buscan mantener su dispositivo visible y accesible de forma segura durante la conducción.",
-      "post_en": "This Lisen MagSafe magnetic car mount provides a secure and flexible hold for your phone, featuring a 360° bendable arm. It's ideal for drivers who want to keep their device visible and safely accessible while driving.",
-      "price_new": 14.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 57.2,
-      "rating": null,
-      "condition": "code",
-      "code": "FIB1NC7G",
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/22009890.thumb",
-      "url": "https://amazon.com/dp/B0H45524XN/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20175864",
-      "published_at": "2026-10-19T01:46:21+00:00",
-      "revalidated_at": "2026-10-19T23:45:46+00:00"
-    },
-    {
-      "asin": "B0B1PXQ6HK",
-      "title": "Donginbi Red Ginseng Essential Care Set",
-      "title_es": "Set de Cuidado Esencial Donginbi Red Ginseng",
-      "headline": null,
-      "post": "El set Donginbi Red Ginseng Essential Care ofrece una rutina completa de cuidado facial con los beneficios del ginseng rojo. Ideal para quienes buscan revitalizar su piel y mejorar su aspecto general.",
-      "post_en": "The Donginbi Red Ginseng Essential Care Set provides a complete facial care routine with the benefits of red ginseng. It's ideal for those looking to revitalize their skin and improve its overall appearance.",
-      "price_new": 45.5,
-      "price_old": 129.99,
-      "currency": "USD",
-      "discount_pct": 65.0,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "10DZ9FGC2",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71XUrSrzPCL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0B1PXQ6HK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20097117",
-      "published_at": "2026-10-19T01:15:37+00:00",
-      "revalidated_at": "2026-10-20T01:15:45+00:00"
-    },
-    {
-      "asin": "B0F3XY3KVW",
-      "title": "11-Compartment Sunhanny Divided Snackle Box Charcuterie Tray w/ Handle (Pink)",
-      "title_es": "Bandeja Organizadora Sunhanny con 11 Compartimentos para Aperitivos y Charcutería con Asa (Rosa)",
-      "headline": null,
-      "post": "Esta bandeja organizadora Sunhanny con 11 compartimentos es ideal para servir aperitivos y charcutería de forma práctica. Su diseño con asa la hace perfecta para reuniones o para llevar tus snacks favoritos.",
-      "post_en": "This 11-compartment Sunhanny organizer tray is ideal for serving snacks and charcuterie practically. Its design with a handle makes it perfect for gatherings or carrying your favorite snacks.",
-      "price_new": 9.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.5,
-      "rating": null,
-      "condition": "code",
-      "code": "KNYIYT8D",
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/21981519.thumb",
-      "url": "https://amazon.com/dp/B0F3XY3KVW/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20164653",
-      "published_at": "2026-10-19T00:45:51+00:00",
-      "revalidated_at": "2026-10-20T00:45:39+00:00"
     }
   ]
 }
