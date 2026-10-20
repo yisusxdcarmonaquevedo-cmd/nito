@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:45:39+00:00",
+  "generated_at": "2026-10-20T01:00:46+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -256,11 +256,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 70.2,
-      "rating": null,
+      "rating": 3.9,
       "condition": "code",
       "code": "LJJ3DOE2",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/22018770.thumb",
+      "image": "https://m.media-amazon.com/images/I/71LGB5dA2-L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GX9Y5RL4/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20179125",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20169291",
       "published_at": "2026-10-19T20:45:51+00:00",
-      "revalidated_at": "2026-10-19T22:45:31+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B0GFYJ2WYD",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20175132",
       "published_at": "2026-10-19T20:45:51+00:00",
-      "revalidated_at": "2026-10-19T22:45:31+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B0GSMN1PPQ",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20178000",
       "published_at": "2026-10-19T20:30:59+00:00",
-      "revalidated_at": "2026-10-19T22:45:31+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B07PPXNVB8",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20179290",
       "published_at": "2026-10-19T20:30:59+00:00",
-      "revalidated_at": "2026-10-19T22:45:31+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B0GZZLCDLT",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20179251",
       "published_at": "2026-10-19T19:00:54+00:00",
-      "revalidated_at": "2026-10-19T22:45:31+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B0FR9L7BDG",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20164053",
       "published_at": "2026-10-19T19:00:54+00:00",
-      "revalidated_at": "2026-10-19T22:45:31+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B0G1ZFKB98",
@@ -1233,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20161908",
       "published_at": "2026-10-19T16:30:45+00:00",
-      "revalidated_at": "2026-10-19T22:30:36+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B0F9FS822W",
@@ -1568,10 +1568,10 @@
     {
       "asin": "B0GR1G1FY7",
       "title": "16.2″ Apple 2026 MacBook Pro Laptop with Apple M5 Max chip (36GB | 2TB, Space Black) at Amazon",
-      "title_es": null,
+      "title_es": "MacBook Pro Apple 2026 de 16.2″ con chip M5 Max (36GB | 2TB, Negro Espacial)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este portátil de alto rendimiento es ideal para profesionales creativos y usuarios exigentes. Ofrece una potencia excepcional con el chip Apple M5 Max, 36GB de RAM y 2TB de almacenamiento en un elegante diseño Space Black.",
+      "post_en": "This high-performance laptop is ideal for creative professionals and demanding users. It offers exceptional power with the Apple M5 Max chip, 36GB of RAM, and 2TB of storage in a sleek Space Black design.",
       "price_new": 349.0,
       "price_old": 716.0,
       "currency": "USD",
@@ -1590,10 +1590,10 @@
     {
       "asin": "B071CWXLY5",
       "title": "$8.54 S&S AMAZON,  Hair Cutting Scissors, ULG Professional Hair Scissors 6.5 inch Right-Hand Razor Edge Barber Shears",
-      "title_es": null,
+      "title_es": "Tijeras de peluquería ULG Professional Hair Scissors de 6.5 pulgadas para diestros",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estas tijeras profesionales de 6.5 pulgadas son perfectas para cortar el cabello en casa o para uso en barberías. Su filo de navaja garantiza cortes precisos y limpios, ideales para diestros.",
+      "post_en": "These professional 6.5-inch scissors are perfect for home hair cutting or barbershop use. Their razor edge ensures precise and clean cuts, ideal for right-handed users.",
       "price_new": 8.54,
       "price_old": 57.0,
       "currency": "USD",
@@ -1612,10 +1612,10 @@
     {
       "asin": "B0D66RP3R5",
       "title": "IPYNBAP Outdoor Chair Cushions Set of 4 -Waterproof 19-inch x 19-inch x 3-inch",
-      "title_es": null,
+      "title_es": "Cojines impermeables IPYNBAP para sillas de exterior (Set de 4)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set de cuatro cojines IPYNBAP es ideal para renovar tus sillas de exterior con comodidad y estilo. Son impermeables y tienen dimensiones de 19x19x3 pulgadas, perfectos para patios y jardines.",
+      "post_en": "This set of four IPYNBAP cushions is ideal for renewing your outdoor chairs with comfort and style. They are waterproof and measure 19x19x3 inches, perfect for patios and gardens.",
       "price_new": 24.99,
       "price_old": 59.99,
       "currency": "USD",
@@ -1634,10 +1634,10 @@
     {
       "asin": "B0B9SN48PY",
       "title": "Big Two-Hearted River: The Centennial Edition by Ernest Hemingway (Kindle ebook)",
-      "title_es": null,
+      "title_es": "Big Two-Hearted River: The Centennial Edition de Ernest Hemingway (eBook Kindle)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de esta edición centenaria del clásico relato de Ernest Hemingway, 'Big Two-Hearted River'. Una lectura esencial para amantes de la literatura y la naturaleza, disponible en formato eBook Kindle.",
+      "post_en": "Enjoy this centennial edition of Ernest Hemingway's classic short story, 'Big Two-Hearted River'. An essential read for literature and nature lovers, available as a Kindle eBook.",
       "price_new": 2.99,
       "price_old": 25.0,
       "currency": "USD",
@@ -1651,15 +1651,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20159022",
       "published_at": "2026-10-19T12:45:38+00:00",
-      "revalidated_at": "2026-10-19T22:30:36+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B06Y5ZCFHX",
       "title": "Nikon D7500 DX-Format Digital SLR, w/ 18-140mm VR Lens",
-      "title_es": null,
+      "title_es": "Cámara réflex digital Nikon D7500 DX-Format con objetivo VR de 18-140mm",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La Nikon D7500 es una cámara réflex digital versátil para entusiastas de la fotografía que buscan calidad. Incluye un objetivo 18-140mm VR, ideal para capturar desde paisajes hasta retratos con gran detalle.",
+      "post_en": "The Nikon D7500 is a versatile digital SLR camera for photography enthusiasts seeking quality. It includes an 18-140mm VR lens, ideal for capturing everything from landscapes to portraits with great detail.",
       "price_new": 696.95,
       "price_old": 996.95,
       "currency": "USD",
@@ -1673,15 +1673,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20177313",
       "published_at": "2026-10-19T12:45:38+00:00",
-      "revalidated_at": "2026-10-19T22:30:36+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B0F5Q2WKJG",
       "title": "3-Pack Oeago Microfiber Hair Towel Wraps (Blue/Grey/Pink)",
-      "title_es": null,
+      "title_es": "Pack de 3 turbantes de microfibra Oeago para el cabello (Azul/Gris/Rosa)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estos turbantes de microfibra Oeago son perfectos para secar tu cabello de forma rápida y suave. El pack incluye tres colores (azul, gris, rosa), ideales para reducir el frizz y el tiempo de secado.",
+      "post_en": "These Oeago microfiber hair towel wraps are perfect for drying your hair quickly and gently. The pack includes three colors (blue, grey, pink), ideal for reducing frizz and drying time.",
       "price_new": 4.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -1700,10 +1700,10 @@
     {
       "asin": "B0C7C5NFJ3",
       "title": "2-Pack LOHAS Dimmable LED Plug-In Night Light w/ Dusk to Dawn Sensor (Soft White)",
-      "title_es": null,
+      "title_es": "Pack de 2 luces nocturnas LED regulables LOHAS con sensor crepuscular (Blanco Suave)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Ilumina tus espacios con este pack de dos luces nocturnas LED LOHAS, ideales para pasillos o dormitorios. Cuentan con sensor crepuscular y luz regulable en tono blanco suave, ofreciendo comodidad y eficiencia. ✨",
+      "post_en": "Illuminate your spaces with this 2-pack of LOHAS dimmable LED night lights, ideal for hallways or bedrooms. They feature a dusk-to-dawn sensor and soft white dimmable light, offering comfort and efficiency. ✨",
       "price_new": 5.99,
       "price_old": 15.99,
       "currency": "USD",
@@ -1722,10 +1722,10 @@
     {
       "asin": "B0GV6WMF5X",
       "title": "Amazon – TOPOINT Bluetooth 5.4 Sleep Mask w/ Headphones -",
-      "title_es": null,
+      "title_es": "Antifaz para dormir TOPOINT Bluetooth 5.4 con auriculares",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este antifaz para dormir TOPOINT integra auriculares Bluetooth 5.4 para una experiencia de descanso inmersiva. Es ideal para relajarse, meditar o conciliar el sueño escuchando tu música favorita sin molestias.",
+      "post_en": "This TOPOINT sleep mask integrates Bluetooth 5.4 headphones for an immersive resting experience. It's ideal for relaxing, meditating, or falling asleep listening to your favorite music undisturbed.",
       "price_new": 13.99,
       "price_old": 35.99,
       "currency": "USD",
@@ -1744,10 +1744,10 @@
     {
       "asin": "B0GZNSCZF3",
       "title": "2PACK Polarized Aviator Sunglasses for Women Tangle Free Trendy Shades -",
-      "title_es": null,
+      "title_es": "Pack de 2 gafas de sol polarizadas estilo aviador para mujer",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Consigue un look moderno y protege tus ojos con este pack de dos gafas de sol polarizadas estilo aviador para mujer. Son un accesorio de moda versátil que ofrece protección UV y comodidad.",
+      "post_en": "Achieve a trendy look and protect your eyes with this 2-pack of polarized aviator sunglasses for women. They are a versatile fashion accessory offering UV protection and comfort.",
       "price_new": 8.38,
       "price_old": 15.97,
       "currency": "USD",
@@ -1766,10 +1766,10 @@
     {
       "asin": "B0189HLEOQ",
       "title": "4-Oz Balmex Complete Protection Baby Diaper Rash Cream w/ Zinc Oxide",
-      "title_es": null,
+      "title_es": "Crema Balmex Complete Protection de 4 oz para rozaduras de bebé con óxido de zinc",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La crema Balmex Complete Protection es esencial para el cuidado de la piel del bebé, previniendo y tratando las rozaduras del pañal. Su fórmula con óxido de zinc ofrece una barrera protectora eficaz.",
+      "post_en": "Balmex Complete Protection cream is essential for baby skin care, preventing and treating diaper rash. Its zinc oxide formula provides an effective protective barrier.",
       "price_new": 2.7,
       "price_old": 35.0,
       "currency": "USD",
@@ -1788,10 +1788,10 @@
     {
       "asin": "B07S3HVSZK",
       "title": "Yaheetech Armless PU Leather Desk Chair (Black)",
-      "title_es": null,
+      "title_es": "Silla de Escritorio Yaheetech sin Brazos de Cuero PU (Negra)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta silla de oficina sin brazos Yaheetech, con tapizado de cuero PU, es perfecta para espacios reducidos o para quienes prefieren mayor libertad de movimiento. Su diseño compacto y ergonómico la hace ideal para estudiantes o trabajadores que buscan comodidad y funcionalidad.",
+      "post_en": "This Yaheetech armless office chair, upholstered in PU leather, is perfect for small spaces or those who prefer more freedom of movement. Its compact and ergonomic design makes it ideal for students or workers seeking comfort and functionality.",
       "price_new": 46.91,
       "price_old": 73.99,
       "currency": "USD",
@@ -1810,10 +1810,10 @@
     {
       "asin": "B0DRW58R6K",
       "title": "665-Piece LEGO Minecraft - The Pillager Outpost and Ravager",
-      "title_es": null,
+      "title_es": "LEGO Minecraft - El Puesto de los Saqueadores y el Devastador (665 piezas)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Recrea emocionantes batallas del universo Minecraft con este set LEGO que incluye el Puesto de los Saqueadores y un Devastador. Es ideal para fans de Minecraft y LEGO que disfrutan construyendo y reviviendo aventuras.",
+      "post_en": "Recreate exciting battles from the Minecraft universe with this LEGO set, featuring The Pillager Outpost and a Ravager. It's ideal for Minecraft and LEGO fans who enjoy building and reliving adventures.",
       "price_new": 51.99,
       "price_old": 79.99,
       "currency": "USD",
@@ -1832,10 +1832,10 @@
     {
       "asin": "B0HFCZ4424",
       "title": "Standing Computer Gaming Office Desk - 48 x 24 Inches Adjustable Stand-Up Electric Height Rising w/ Memory Presets",
-      "title_es": null,
+      "title_es": "Escritorio de Oficina y Gaming Ajustable Eléctrico (48x24 pulgadas)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este escritorio eléctrico de altura ajustable permite alternar entre trabajar sentado o de pie, mejorando la ergonomía y la productividad. Con sus presets de memoria, es perfecto para gamers y profesionales que buscan flexibilidad en su espacio de trabajo.",
+      "post_en": "This electric height-adjustable desk allows you to alternate between sitting and standing, improving ergonomics and productivity. With its memory presets, it's perfect for gamers and professionals seeking flexibility in their workspace.",
       "price_new": 99.99,
       "price_old": 449.99,
       "currency": "USD",
@@ -1854,10 +1854,10 @@
     {
       "asin": "B0CWL4HS5G",
       "title": "22\" x 19\" Silicone Under Sink Mat Cabinet Liner (Gray)",
-      "title_es": null,
+      "title_es": "Protector de Silicona para Armario bajo Fregadero (22\" x 19\", Gris)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Protege tus armarios bajo el fregadero de derrames y fugas con esta alfombrilla de silicona duradera y fácil de limpiar. Es un accesorio práctico para mantener tu cocina o baño organizado y libre de daños por humedad.",
+      "post_en": "Protect your under-sink cabinets from spills and leaks with this durable and easy-to-clean silicone mat. It's a practical accessory to keep your kitchen or bathroom organized and free from moisture damage.",
       "price_new": 8.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1876,10 +1876,10 @@
     {
       "asin": "B0D2Z2BVHW",
       "title": "Brooks Women’s Glycerin 22 Neutral Running Shoe (X-Wide) at Amazon",
-      "title_es": null,
+      "title_es": "Zapatillas de Running Neutras Brooks Glycerin 22 para Mujer (Ancho X)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Las zapatillas Brooks Glycerin 22 ofrecen amortiguación superior y un ajuste cómodo, ideales para corredoras que buscan suavidad en cada pisada. Su diseño neutro y ancho extra las hace perfectas para largas distancias y máxima confort. 🏃‍♀️",
+      "post_en": "The Brooks Glycerin 22 shoes offer superior cushioning and a comfortable fit, ideal for female runners seeking softness with every stride. Their neutral and extra-wide design makes them perfect for long distances and maximum comfort. 🏃‍♀️",
       "price_new": 79.95,
       "price_old": 164.95,
       "currency": "USD",
@@ -1898,10 +1898,10 @@
     {
       "asin": "B0GRK5D3RW",
       "title": "65\" LG C6 OLED evo 4K Smart TV at Amazon",
-      "title_es": null,
+      "title_es": "Smart TV LG C6 OLED evo 4K de 65 pulgadas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de una calidad de imagen impresionante con el Smart TV LG C6 OLED evo 4K, que ofrece colores vibrantes y negros puros en 65 pulgadas. Es ideal para cinéfilos y amantes del entretenimiento que buscan una experiencia visual inmersiva en su hogar.",
+      "post_en": "Enjoy stunning image quality with the LG C6 OLED evo 4K Smart TV, offering vibrant colors and pure blacks on its 65-inch screen. It's ideal for cinephiles and entertainment lovers seeking an immersive visual experience at home.",
       "price_new": 139.0,
       "price_old": 773.0,
       "currency": "USD",
@@ -1920,10 +1920,10 @@
     {
       "asin": "B0CGXZ79WH",
       "title": "215-Piece LEGO Star Wars Clone Trooper & Battle Droid Battle (75372)",
-      "title_es": null,
+      "title_es": "LEGO Star Wars Batalla de Soldados Clon y Droides de Combate (75372, 215 piezas)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en el universo Star Wars con este set LEGO que recrea una batalla épica entre Soldados Clon y Droides de Combate. Es perfecto para jóvenes fans de Star Wars que disfrutan construyendo y creando sus propias aventuras galácticas.",
+      "post_en": "Dive into the Star Wars universe with this LEGO set, recreating an epic battle between Clone Troopers and Battle Droids. It's perfect for young Star Wars fans who enjoy building and creating their own galactic adventures.",
       "price_new": 20.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1942,10 +1942,10 @@
     {
       "asin": "B00BTKAPUU",
       "title": "Coway Mighty Air Home LED Purifier w/ HEPA Air Filter (Black or White)",
-      "title_es": null,
+      "title_es": "Purificador de Aire Coway Mighty con Filtro HEPA y LED (Negro o Blanco)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mejora la calidad del aire en tu hogar con el purificador Coway Mighty, equipado con filtro HEPA para capturar alérgenos y contaminantes. Es una excelente opción para personas con alergias o para cualquiera que desee un ambiente más limpio y saludable.",
+      "post_en": "Improve your home's air quality with the Coway Mighty purifier, equipped with a HEPA filter to capture allergens and pollutants. It's an excellent choice for allergy sufferers or anyone seeking a cleaner, healthier environment.",
       "price_new": 155.0,
       "price_old": 229.99,
       "currency": "USD",
@@ -1964,10 +1964,10 @@
     {
       "asin": "B0CQPHLQYH",
       "title": "15W Lisen MagSafe Magnetic Wireless Car Mount Charger w/ Dashboard & Vent Mounting (Blk/ Grey)",
-      "title_es": null,
+      "title_es": "Cargador Inalámbrico Magnético Lisen MagSafe para Coche (15W, Negro/Gris)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este cargador inalámbrico magnético Lisen MagSafe de 15W ofrece una carga rápida y segura para tu teléfono mientras conduces. Con opciones de montaje para salpicadero o rejilla de ventilación, es ideal para usuarios de iPhone que buscan comodidad y funcionalidad en el coche.",
+      "post_en": "This 15W Lisen MagSafe magnetic wireless charger provides fast and secure charging for your phone while driving. With dashboard and vent mounting options, it's ideal for iPhone users seeking convenience and functionality in their car.",
       "price_new": 11.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1986,10 +1986,10 @@
     {
       "asin": "059383612X",
       "title": "Dungeons & Dragons: Young Adventurer's Collection Book Set 2 (4-Paperback Set)",
-      "title_es": null,
+      "title_es": "Dungeons & Dragons: Colección para Jóvenes Aventureros, Set 2 (4 Libros)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Introduce a los más jóvenes al mundo de Dungeons & Dragons con este set de 4 libros de tapa blanda, diseñado para nuevos aventureros. Es perfecto para niños y adolescentes interesados en la fantasía, la estrategia y la creación de historias. 📚",
+      "post_en": "Introduce young adventurers to the world of Dungeons & Dragons with this 4-paperback book set, designed for new players. It's perfect for kids and teens interested in fantasy, strategy, and storytelling. 📚",
       "price_new": 12.45,
       "price_old": 34.99,
       "currency": "USD",
@@ -2157,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20151651",
       "published_at": "2026-10-19T04:45:41+00:00",
-      "revalidated_at": "2026-10-19T22:30:36+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B0FPDYN9T9",
@@ -2179,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20162553",
       "published_at": "2026-10-19T04:45:41+00:00",
-      "revalidated_at": "2026-10-19T22:30:36+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B09FP387V2",
@@ -2201,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20164803",
       "published_at": "2026-10-19T04:45:41+00:00",
-      "revalidated_at": "2026-10-19T22:30:36+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B0F292PFNB",
@@ -2597,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20175765",
       "published_at": "2026-10-19T00:45:51+00:00",
-      "revalidated_at": "2026-10-19T22:30:36+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B01M4OZ94W",
@@ -2619,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20169702",
       "published_at": "2026-10-19T00:45:51+00:00",
-      "revalidated_at": "2026-10-19T22:30:36+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     },
     {
       "asin": "B08V7G5GYH",
@@ -2641,7 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20175687",
       "published_at": "2026-10-19T00:30:32+00:00",
-      "revalidated_at": "2026-10-19T22:30:36+00:00"
+      "revalidated_at": "2026-10-20T01:00:46+00:00"
     }
   ]
 }
