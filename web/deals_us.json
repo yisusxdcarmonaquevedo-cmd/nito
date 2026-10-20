@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-20T22:00:43+00:00",
+  "generated_at": "2026-10-20T22:15:38+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B0B2JM5XY2",
+      "title": "Kipswiza Oversized Wearable Blanket Hoodie (Dark Grey)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.71,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 60.8,
+      "rating": null,
+      "condition": "code",
+      "code": "QRWTLNQS",
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/1/1/3/3/5/6/0/450x450/22030086.thumb",
+      "url": "https://amazon.com/dp/B0B2JM5XY2/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20183691",
+      "published_at": "2026-10-20T22:15:38+00:00",
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
+    },
+    {
+      "asin": "B07DGFQN1R",
+      "title": "Casio Men's GW-7900-1CR G-Shock Digital Display Quartz 50mm Watch at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 99.0,
+      "price_old": 180.0,
+      "currency": "USD",
+      "discount_pct": 45.0,
+      "rating": 4.6,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/61-+ZKC2+yL._AC_SL1109_.jpg",
+      "url": "https://amazon.com/dp/B07DGFQN1R/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20182497",
+      "published_at": "2026-10-20T22:15:38+00:00",
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
+    },
     {
       "asin": "B0C3QCB343",
       "title": "Alpharan Book-Shaped Clear Acrylic Flower Vase",
@@ -353,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20182053",
       "published_at": "2026-10-20T20:15:51+00:00",
-      "revalidated_at": "2026-10-20T20:15:51+00:00"
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
     },
     {
       "asin": "B0GFSDX92Y",
@@ -463,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20183664",
       "published_at": "2026-10-20T18:15:49+00:00",
-      "revalidated_at": "2026-10-20T20:15:51+00:00"
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
     },
     {
       "asin": "B0006FUE7I",
@@ -639,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20179065",
       "published_at": "2026-10-20T16:30:52+00:00",
-      "revalidated_at": "2026-10-20T20:15:51+00:00"
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
     },
     {
       "asin": "B0FZKTK836",
@@ -661,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20183382",
       "published_at": "2026-10-20T16:30:52+00:00",
-      "revalidated_at": "2026-10-20T20:15:51+00:00"
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
     },
     {
       "asin": "B0FYFDD1WW",
@@ -1035,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20157444",
       "published_at": "2026-10-20T14:15:59+00:00",
-      "revalidated_at": "2026-10-20T20:00:43+00:00"
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
     },
     {
       "asin": "B0GRK8MJ8R",
@@ -1057,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20177184",
       "published_at": "2026-10-20T14:15:59+00:00",
-      "revalidated_at": "2026-10-20T20:00:43+00:00"
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
     },
     {
       "asin": "B004FQX5CK",
@@ -1519,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20182146",
       "published_at": "2026-10-20T10:30:39+00:00",
-      "revalidated_at": "2026-10-20T20:00:43+00:00"
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
     },
     {
       "asin": "B0FMSBH9FS",
@@ -1563,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20160354",
       "published_at": "2026-10-20T10:15:56+00:00",
-      "revalidated_at": "2026-10-20T20:00:43+00:00"
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
     },
     {
       "asin": "B088TDQG67",
@@ -1630,28 +1674,6 @@
       "deal_key": "sd:20179038",
       "published_at": "2026-10-20T09:00:45+00:00",
       "revalidated_at": "2026-10-20T20:30:41+00:00"
-    },
-    {
-      "asin": "B0FWRHVM15",
-      "title": "Amazon – Schliersee Decorative Acoustic Wall Panels -",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 59.99,
-      "price_old": 99.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 3.6,
-      "condition": "code",
-      "code": "KPAYS3AN",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81L3x00hs9L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FWRHVM15/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20167785",
-      "published_at": "2026-10-20T08:30:48+00:00",
-      "revalidated_at": "2026-10-20T20:00:43+00:00"
     },
     {
       "asin": "B0HLDR26Y7",
@@ -1805,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20179671",
       "published_at": "2026-10-20T06:30:56+00:00",
-      "revalidated_at": "2026-10-20T20:00:43+00:00"
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
     },
     {
       "asin": "B015EYVWPI",
@@ -1827,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20181315",
       "published_at": "2026-10-20T06:30:56+00:00",
-      "revalidated_at": "2026-10-20T20:00:43+00:00"
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
     },
     {
       "asin": "B0CLVSGC3B",
@@ -2003,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20166045",
       "published_at": "2026-10-20T04:30:42+00:00",
-      "revalidated_at": "2026-10-20T20:00:43+00:00"
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
     },
     {
       "asin": "B0FNWWGLP9",
@@ -2597,29 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20176890",
       "published_at": "2026-10-20T00:16:13+00:00",
-      "revalidated_at": "2026-10-20T20:00:43+00:00"
-    },
-    {
-      "asin": "B0GX9Y5RL4",
-      "title": "67-in-1 STREBITO Magnetic Ratcheting Screwdriver Set w/ Detachable T-Handle & S2 Steel Bits",
-      "title_es": "Set de destornilladores de carraca magnéticos STREBITO 67 en 1 con mango en T y puntas de acero S2",
-      "headline": null,
-      "post": "Este completo set de destornilladores incluye 67 puntas de acero S2 y un mango de carraca magnético con opción de mango en T. Es ideal para entusiastas del bricolaje y profesionales que buscan versatilidad en sus herramientas.",
-      "post_en": "This comprehensive screwdriver set includes 67 S2 steel bits and a magnetic ratcheting handle with a detachable T-handle. It's perfect for DIY enthusiasts and professionals seeking versatility in their tools.",
-      "price_new": 10.44,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 70.2,
-      "rating": 3.9,
-      "condition": "code",
-      "code": "LJJ3DOE2",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71LGB5dA2-L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GX9Y5RL4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20179125",
-      "published_at": "2026-10-19T23:45:46+00:00",
-      "revalidated_at": "2026-10-20T21:45:36+00:00"
+      "revalidated_at": "2026-10-20T22:15:38+00:00"
     }
   ]
 }
