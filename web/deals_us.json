@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-21T10:15:41+00:00",
+  "generated_at": "2026-10-21T10:31:04+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0GCL8FDLX",
+      "title": "4-Pack 20FT HOBAYS 60-LED Battery Operated Fairy String Lights (Multicolor)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.68,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 78.1,
+      "rating": 4.3,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81fEOMgHnBL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GCL8FDLX/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20186745",
+      "published_at": "2026-10-21T10:31:04+00:00",
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
+    },
+    {
+      "asin": "B0D7HDS64Y",
+      "title": "Bad Boys Ultimate 4 Movie Collection Blu Ray",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 25.15,
+      "price_old": 57.0,
+      "currency": "USD",
+      "discount_pct": 55.9,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://m.media-amazon.com/images/I/71kLBmjwCWL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0D7HDS64Y/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20170908",
+      "published_at": "2026-10-21T10:31:04+00:00",
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
+    },
     {
       "asin": "B0GXV39Z59",
       "title": "8-Pack 10x8x2\" Onarieer Stainless Steel Loaf Pans",
@@ -67,7 +111,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20174907",
       "published_at": "2026-10-21T08:45:36+00:00",
-      "revalidated_at": "2026-10-21T08:45:36+00:00"
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
     },
     {
       "asin": "B0BK7JTDYW",
@@ -265,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20181471",
       "published_at": "2026-10-21T04:45:47+00:00",
-      "revalidated_at": "2026-10-21T08:45:36+00:00"
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
     },
     {
       "asin": "B08DBT9YC7",
@@ -441,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20185314",
       "published_at": "2026-10-21T03:00:52+00:00",
-      "revalidated_at": "2026-10-21T08:45:36+00:00"
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
     },
     {
       "asin": "B0H4Q29MM7",
@@ -463,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20185257",
       "published_at": "2026-10-21T03:00:52+00:00",
-      "revalidated_at": "2026-10-21T08:45:36+00:00"
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
     },
     {
       "asin": "B0F3CR2RP4",
@@ -485,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20184156",
       "published_at": "2026-10-21T03:00:52+00:00",
-      "revalidated_at": "2026-10-21T08:45:36+00:00"
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
     },
     {
       "asin": "B0CGGLZ8YT",
@@ -507,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20181405",
       "published_at": "2026-10-21T03:00:52+00:00",
-      "revalidated_at": "2026-10-21T08:45:36+00:00"
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
     },
     {
       "asin": "B0F9FBGDQT",
@@ -1079,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20184132",
       "published_at": "2026-10-20T23:15:54+00:00",
-      "revalidated_at": "2026-10-21T08:45:36+00:00"
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
     },
     {
       "asin": "B0GTX49CB4",
@@ -1101,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20171736",
       "published_at": "2026-10-20T23:15:54+00:00",
-      "revalidated_at": "2026-10-21T08:45:36+00:00"
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
     },
     {
       "asin": "B0B6G9TPNQ",
@@ -1400,11 +1444,11 @@
       "price_old": 17.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "728SSOKN",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/22031334.thumb",
+      "image": "https://m.media-amazon.com/images/I/6132MnNukWL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CD7FYFK8/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20184207",
@@ -1422,11 +1466,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 44.7,
-      "rating": null,
+      "rating": 4.9,
       "condition": "code",
       "code": "X97K17CJ",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/22018005.thumb",
+      "image": "https://m.media-amazon.com/images/I/819SnQYvloL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FWR3J2JR/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20178933",
@@ -1453,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20161305",
       "published_at": "2026-10-20T21:00:42+00:00",
-      "revalidated_at": "2026-10-21T08:45:36+00:00"
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
     },
     {
       "asin": "B0B4SL5C2X",
@@ -1475,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20179950",
       "published_at": "2026-10-20T21:00:42+00:00",
-      "revalidated_at": "2026-10-21T08:45:36+00:00"
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
     },
     {
       "asin": "B0D7PSK9PM",
@@ -1488,11 +1532,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 71.5,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "PAUWERRUG",
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/22022097.thumb",
+      "image": "https://m.media-amazon.com/images/I/81NWcXjWwOL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D7PSK9PM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20180301",
@@ -1510,11 +1554,11 @@
       "price_old": 59.99,
       "currency": "USD",
       "discount_pct": 41.7,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/6/7/9/8/5/450x450/21977154.thumb",
+      "image": "https://m.media-amazon.com/images/I/71BpFHlxd-L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H6HDLP1R/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20163393",
@@ -1783,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20160819",
       "published_at": "2026-10-20T17:15:52+00:00",
-      "revalidated_at": "2026-10-21T08:45:36+00:00"
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
     },
     {
       "asin": "B0FT995SPF",
@@ -1805,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20177013",
       "published_at": "2026-10-20T17:15:52+00:00",
-      "revalidated_at": "2026-10-21T08:45:36+00:00"
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
     },
     {
       "asin": "B0H3PCZP6W",
@@ -2597,51 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20167317",
       "published_at": "2026-10-20T12:00:54+00:00",
-      "revalidated_at": "2026-10-21T08:30:42+00:00"
-    },
-    {
-      "asin": "B08B12P6CS",
-      "title": "GTPLAYER Gaming Chair with Footrest and Lumbar Support (Black)",
-      "title_es": "Silla gaming GTPLAYER con reposapiés y soporte lumbar (Negra)",
-      "headline": null,
-      "post": "La silla gaming GTPLAYER ofrece comodidad superior con su reposapiés extensible y soporte lumbar ajustable. Perfecta para largas sesiones de juego o trabajo, garantizando una postura ergonómica.",
-      "post_en": "The GTPLAYER gaming chair offers superior comfort with its extendable footrest and adjustable lumbar support. Perfect for long gaming or work sessions, ensuring an ergonomic posture.",
-      "price_new": 99.99,
-      "price_old": 169.99,
-      "currency": "USD",
-      "discount_pct": 41.2,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/3/6/0/0/8/3/1/0/450x450/21994647.thumb",
-      "url": "https://amazon.com/dp/B08B12P6CS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20169459",
-      "published_at": "2026-10-20T12:00:54+00:00",
-      "revalidated_at": "2026-10-21T08:45:36+00:00"
-    },
-    {
-      "asin": "B0CSQ37TN1",
-      "title": "hand2mind Numberblocks Puzzle Solver, Logic Puzzle for Kids",
-      "title_es": "Puzzle de lógica Numberblocks Puzzle Solver de hand2mind para niños",
-      "headline": null,
-      "post": "Este puzzle de lógica Numberblocks Puzzle Solver de hand2mind es una forma divertida de desarrollar habilidades matemáticas y de resolución de problemas en niños. Ideal para el aprendizaje interactivo y el entretenimiento educativo.",
-      "post_en": "This hand2mind Numberblocks Puzzle Solver logic puzzle is a fun way to develop math and problem-solving skills in children. Ideal for interactive learning and educational entertainment.",
-      "price_new": 8.52,
-      "price_old": 17.99,
-      "currency": "USD",
-      "discount_pct": 52.6,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/2/8/2/1/1/2/1/8/450x450/22006554.thumb",
-      "url": "https://amazon.com/dp/B0CSQ37TN1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20174217",
-      "published_at": "2026-10-20T11:45:34+00:00",
-      "revalidated_at": "2026-10-21T10:15:41+00:00"
+      "revalidated_at": "2026-10-21T10:31:04+00:00"
     }
   ]
 }
