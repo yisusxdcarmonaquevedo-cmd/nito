@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-21T13:45:59+00:00",
+  "generated_at": "2026-10-21T14:00:58+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "0063392933",
+      "title": "The Lord of the Rings Deluxe Illustrated Box Set (Hardcover) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 101.26,
+      "price_old": 325.0,
+      "currency": "USD",
+      "discount_pct": 68.8,
+      "rating": 4.8,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/9176YGv77nL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/0063392933/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20186313",
+      "published_at": "2026-10-21T14:00:58+00:00",
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
+    },
+    {
+      "asin": "B0H4DYF7XH",
+      "title": "Woanger 34-Piece Halloween Mantle & Tabletop Decoration Set",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 71.5,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81hF6ljxLWL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0H4DYF7XH/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20186778",
+      "published_at": "2026-10-21T14:00:58+00:00",
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
+    },
+    {
+      "asin": "B0B8Y5VY45",
+      "title": "8-Pack YANGTE Extra Large Christmas Gift Tote Bags (16.9\" x 12.6\" x 6.8\")",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 10.79,
+      "price_old": 21.99,
+      "currency": "USD",
+      "discount_pct": 50.9,
+      "rating": 4.8,
+      "condition": "code",
+      "code": "SPISBA3F",
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/81LCZtePqsL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0B8Y5VY45/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20179074",
+      "published_at": "2026-10-21T14:00:58+00:00",
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
+    },
+    {
+      "asin": "B0HFHHDKT9",
+      "title": "Jenkoon Women's Long Faux Wool Pea Coat w/ Button Closure & Pockets (XS-XL, Various Colors)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 28.79,
+      "price_old": 59.98,
+      "currency": "USD",
+      "discount_pct": 52.0,
+      "rating": 4.4,
+      "condition": "code",
+      "code": "FKUMLPXW",
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/61apfa9fQhL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0HFHHDKT9/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20187342",
+      "published_at": "2026-10-21T14:00:58+00:00",
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
+    },
     {
       "asin": "B0GF1QX9JX",
       "title": "MFVLP 1.85\" AMOLED IP68 Waterproof Smart Watch w/ Bluetooth Calling & 120+ Sports Modes (Various Colors)",
@@ -331,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20186853",
       "published_at": "2026-10-21T12:00:53+00:00",
-      "revalidated_at": "2026-10-21T12:00:53+00:00"
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
     },
     {
       "asin": "B0GYQW41DW",
@@ -353,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20186667",
       "published_at": "2026-10-21T12:00:53+00:00",
-      "revalidated_at": "2026-10-21T12:00:53+00:00"
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
     },
     {
       "asin": "B06X3TR53X",
@@ -596,28 +684,6 @@
       "deal_key": "sd:20170908",
       "published_at": "2026-10-21T10:31:04+00:00",
       "revalidated_at": "2026-10-21T12:30:49+00:00"
-    },
-    {
-      "asin": "B0GXV39Z59",
-      "title": "8-Pack 10x8x2\" Onarieer Stainless Steel Loaf Pans",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.94,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.6,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61zyjQGkpGL._AC_SL1254_.jpg",
-      "url": "https://amazon.com/dp/B0GXV39Z59/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20186661",
-      "published_at": "2026-10-21T10:00:41+00:00",
-      "revalidated_at": "2026-10-21T12:00:53+00:00"
     },
     {
       "asin": "B0BFBVJZ89",
@@ -1233,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20184501",
       "published_at": "2026-10-21T02:16:03+00:00",
-      "revalidated_at": "2026-10-21T11:46:10+00:00"
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
     },
     {
       "asin": "B08D9SY2T2",
@@ -1255,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20184267",
       "published_at": "2026-10-21T02:16:03+00:00",
-      "revalidated_at": "2026-10-21T11:46:10+00:00"
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
     },
     {
       "asin": "B0G41G51D1",
@@ -1277,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20158152",
       "published_at": "2026-10-21T02:16:03+00:00",
-      "revalidated_at": "2026-10-21T11:46:10+00:00"
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
     },
     {
       "asin": "B09KC7GWCD",
@@ -1805,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20184483",
       "published_at": "2026-10-20T22:30:40+00:00",
-      "revalidated_at": "2026-10-21T11:46:10+00:00"
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
     },
     {
       "asin": "B00VEIPK7A",
@@ -1827,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20182323",
       "published_at": "2026-10-20T22:30:40+00:00",
-      "revalidated_at": "2026-10-21T11:46:10+00:00"
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
     },
     {
       "asin": "B0B2JM5XY2",
@@ -2135,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20175261",
       "published_at": "2026-10-20T20:30:41+00:00",
-      "revalidated_at": "2026-10-21T11:46:10+00:00"
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
     },
     {
       "asin": "B0092K7C1O",
@@ -2465,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20183382",
       "published_at": "2026-10-20T16:30:52+00:00",
-      "revalidated_at": "2026-10-21T11:46:10+00:00"
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
     },
     {
       "asin": "B0FYFDD1WW",
@@ -2509,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20179545",
       "published_at": "2026-10-20T16:15:51+00:00",
-      "revalidated_at": "2026-10-21T11:46:10+00:00"
+      "revalidated_at": "2026-10-21T14:00:58+00:00"
     },
     {
       "asin": "B0GX58KJFL",
@@ -2554,94 +2620,6 @@
       "deal_key": "sd:20163717",
       "published_at": "2026-10-20T16:00:49+00:00",
       "revalidated_at": "2026-10-21T12:00:53+00:00"
-    },
-    {
-      "asin": "B0CTS3BBM2",
-      "title": "9-Oz Chex Mix Muddy Buddies OREO Cookies & Cream Snack Mix",
-      "title_es": "Snack Mix Chex Mix Muddy Buddies OREO Cookies & Cream de 9 oz",
-      "headline": null,
-      "post": "Date un capricho con el delicioso snack mix Chex Mix Muddy Buddies OREO Cookies & Cream de 9 oz. Es la combinación perfecta de dulzura y textura crujiente, ideal para compartir o disfrutar en cualquier momento del día.",
-      "post_en": "Treat yourself to the delicious 9-oz Chex Mix Muddy Buddies OREO Cookies & Cream snack mix. It's the perfect combination of sweetness and crunchy texture, ideal for sharing or enjoying at any time of day.",
-      "price_new": 2.77,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 92.1,
-      "rating": 4.4,
-      "condition": "prime",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81otnN3F-TL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CTS3BBM2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20181252",
-      "published_at": "2026-10-20T15:46:07+00:00",
-      "revalidated_at": "2026-10-21T13:31:06+00:00"
-    },
-    {
-      "asin": "B00008H2LB",
-      "title": "Linkin Park: Meteora (Audio CD w/ AutoRip MP3) at Amazon",
-      "title_es": "Linkin Park: Meteora (Audio CD con AutoRip MP3)",
-      "headline": null,
-      "post": "Revive la energía de Linkin Park con el álbum \"Meteora\" en Audio CD, que incluye AutoRip MP3 para mayor comodidad. Es una pieza esencial para los fans de la banda y coleccionistas de música que aprecian el formato físico y digital.",
-      "post_en": "Relive the energy of Linkin Park with the \"Meteora\" album on Audio CD, which includes AutoRip MP3 for added convenience. It's an essential piece for band fans and music collectors who appreciate both physical and digital formats.",
-      "price_new": 7.64,
-      "price_old": 13.98,
-      "currency": "USD",
-      "discount_pct": 45.4,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71-nhMkC-vL._SL1425_.jpg",
-      "url": "https://amazon.com/dp/B00008H2LB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20181411",
-      "published_at": "2026-10-20T15:46:07+00:00",
-      "revalidated_at": "2026-10-21T13:45:59+00:00"
-    },
-    {
-      "asin": "B0002FTH66",
-      "title": "3M Scotch Box Sealing Tape Hand Dispenser H180 for 2\" Tape, Gray at Amazon",
-      "title_es": "Dispensador manual de cinta 3M Scotch H180 para cinta de 2\", gris",
-      "headline": null,
-      "post": "Este dispensador manual 3M Scotch H180 facilita el sellado de cajas con cinta de 2 pulgadas. Es una herramienta robusta y eficiente, ideal para embalajes en hogares o pequeñas oficinas.",
-      "post_en": "This 3M Scotch H180 hand dispenser makes sealing boxes with 2-inch tape easy. It's a robust and efficient tool, perfect for packaging in homes or small offices.",
-      "price_new": 15.13,
-      "price_old": 33.13,
-      "currency": "USD",
-      "discount_pct": 54.3,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/614UX0JAO4L._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0002FTH66/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20181690",
-      "published_at": "2026-10-20T15:46:07+00:00",
-      "revalidated_at": "2026-10-21T13:45:59+00:00"
-    },
-    {
-      "asin": "B09L77YZZQ",
-      "title": "7.08\" x 7.08\" Giant Stickerless 3x3 Magic Cube Puzzle",
-      "title_es": "Cubo Mágico Gigante 3x3 sin pegatinas de 7.08\" x 7.08\"",
-      "headline": null,
-      "post": "Descubre este cubo mágico 3x3 gigante y sin pegatinas, perfecto para los amantes de los rompecabezas. Ofrece una experiencia de juego suave y duradera, ideal para practicar o exhibir.",
-      "post_en": "Discover this giant, stickerless 3x3 magic cube, perfect for puzzle enthusiasts. It offers a smooth and durable play experience, ideal for practice or display.",
-      "price_new": 17.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 48.6,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "17B97LPI",
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71cbEibwrML._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09L77YZZQ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20181183",
-      "published_at": "2026-10-20T15:46:07+00:00",
-      "revalidated_at": "2026-10-21T11:46:10+00:00"
     }
   ]
 }
