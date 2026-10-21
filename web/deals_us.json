@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T18:30:52+00:00",
+  "generated_at": "2026-10-21T18:45:49+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0GR6YYMC5",
@@ -58,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 74.3,
-      "rating": null,
+      "rating": 4.7,
       "condition": "prime",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/7/4/7/9/3/450x450/22041321.thumb",
+      "image": "https://m.media-amazon.com/images/I/81mlqNOh-kL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B077CRSPPT/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20187996",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187894",
       "published_at": "2026-10-21T16:45:59+00:00",
-      "revalidated_at": "2026-10-21T16:45:59+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     },
     {
       "asin": "B0F1XGB66G",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187327",
       "published_at": "2026-10-21T16:45:59+00:00",
-      "revalidated_at": "2026-10-21T16:45:59+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     },
     {
       "asin": "B0H6HRBQBD",
@@ -642,28 +642,6 @@
       "revalidated_at": "2026-10-21T17:00:50+00:00"
     },
     {
-      "asin": "B00AHAJDQU",
-      "title": "65-Count Crayola Pip-Squeaks Washable Markers & Paper Set",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 8.92,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 74.5,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/91ZzqsbYWWL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00AHAJDQU/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20182857",
-      "published_at": "2026-10-21T14:45:40+00:00",
-      "revalidated_at": "2026-10-21T16:45:59+00:00"
-    },
-    {
       "asin": "B0GYHWMDM7",
       "title": "Makes Women's Crossbody Bag (Various Colors)",
       "title_es": null,
@@ -683,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20170545",
       "published_at": "2026-10-21T14:45:40+00:00",
-      "revalidated_at": "2026-10-21T16:45:59+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     },
     {
       "asin": "B0CHB5FYKJ",
@@ -705,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20180529",
       "published_at": "2026-10-21T14:45:40+00:00",
-      "revalidated_at": "2026-10-21T16:45:59+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     },
     {
       "asin": "B0FS1N4TXY",
@@ -1101,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187045",
       "published_at": "2026-10-21T13:00:59+00:00",
-      "revalidated_at": "2026-10-21T16:45:59+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     },
     {
       "asin": "B0DJ1BV2TX",
@@ -1123,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20186415",
       "published_at": "2026-10-21T13:00:59+00:00",
-      "revalidated_at": "2026-10-21T16:45:59+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     },
     {
       "asin": "B0DFYLB767",
@@ -1387,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20183601",
       "published_at": "2026-10-21T11:01:14+00:00",
-      "revalidated_at": "2026-10-21T16:45:59+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     },
     {
       "asin": "B0H29GYQFK",
@@ -1453,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20182839",
       "published_at": "2026-10-21T10:45:46+00:00",
-      "revalidated_at": "2026-10-21T16:45:59+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     },
     {
       "asin": "B0GCL8FDLX",
@@ -1849,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20183880",
       "published_at": "2026-10-21T03:16:03+00:00",
-      "revalidated_at": "2026-10-21T16:45:59+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     },
     {
       "asin": "B0DG89KNHC",
@@ -1937,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20185257",
       "published_at": "2026-10-21T03:00:52+00:00",
-      "revalidated_at": "2026-10-21T16:31:08+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     },
     {
       "asin": "B0F3CR2RP4",
@@ -2333,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20182914",
       "published_at": "2026-10-21T00:45:36+00:00",
-      "revalidated_at": "2026-10-21T16:31:08+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     },
     {
       "asin": "B00JEZ20GO",
@@ -2355,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20173575",
       "published_at": "2026-10-21T00:45:36+00:00",
-      "revalidated_at": "2026-10-21T16:31:08+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     },
     {
       "asin": "B0FMYX39ZT",
@@ -2619,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20181762",
       "published_at": "2026-10-20T23:00:48+00:00",
-      "revalidated_at": "2026-10-21T16:31:08+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     },
     {
       "asin": "0593820258",
@@ -2641,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20184711",
       "published_at": "2026-10-20T23:00:48+00:00",
-      "revalidated_at": "2026-10-21T16:31:08+00:00"
+      "revalidated_at": "2026-10-21T18:45:49+00:00"
     }
   ]
 }
