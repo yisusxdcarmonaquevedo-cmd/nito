@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T01:30:57+00:00",
+  "generated_at": "2026-10-21T01:45:38+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B09KC7GWCD",
@@ -58,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 82.9,
-      "rating": null,
+      "rating": 4.8,
       "condition": "code",
       "code": "58Z5XXLX",
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/22009206.thumb",
+      "image": "https://m.media-amazon.com/images/I/71acF1iwk4L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GWGR39R4/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20175543",
@@ -80,11 +80,11 @@
       "price_old": 29.98,
       "currency": "USD",
       "discount_pct": 49.9,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/2/5/6/3/8/450x450/22034385.thumb",
+      "image": "https://m.media-amazon.com/images/I/71Fpt7X651L._SL1500_.jpg",
       "url": "https://amazon.com/dp/B09BSZXY6M/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20185053",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20175627",
       "published_at": "2026-10-20T22:00:43+00:00",
-      "revalidated_at": "2026-10-21T00:01:45+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     },
     {
       "asin": "B0F9KNLFX7",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20158602",
       "published_at": "2026-10-20T22:00:43+00:00",
-      "revalidated_at": "2026-10-21T00:01:45+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     },
     {
       "asin": "0063280779",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20156955",
       "published_at": "2026-10-20T21:45:36+00:00",
-      "revalidated_at": "2026-10-21T00:01:45+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     },
     {
       "asin": "B0H71BCL7B",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20183595",
       "published_at": "2026-10-20T19:45:51+00:00",
-      "revalidated_at": "2026-10-21T00:01:45+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     },
     {
       "asin": "B0H9VJ3KCY",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20170170",
       "published_at": "2026-10-20T18:00:43+00:00",
-      "revalidated_at": "2026-10-21T00:01:45+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     },
     {
       "asin": "B0B1Z3MN35",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20160765",
       "published_at": "2026-10-20T17:55:55+00:00",
-      "revalidated_at": "2026-10-21T00:01:45+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     },
     {
       "asin": "B0DDH186BL",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20179545",
       "published_at": "2026-10-20T16:15:51+00:00",
-      "revalidated_at": "2026-10-21T00:01:45+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     },
     {
       "asin": "B0GX58KJFL",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163789",
       "published_at": "2026-10-20T16:15:51+00:00",
-      "revalidated_at": "2026-10-21T00:01:45+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     },
     {
       "asin": "B0FRMS8VDC",
@@ -1321,29 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20163717",
       "published_at": "2026-10-20T16:00:49+00:00",
-      "revalidated_at": "2026-10-21T00:01:45+00:00"
-    },
-    {
-      "asin": "B0C4V9XJDM",
-      "title": "All-Clad 8\" Forged German Stainless Steel Chef's Knife at Amazon",
-      "title_es": "Cuchillo de Chef All-Clad de Acero Inoxidable Alemán Forjado de 8\"",
-      "headline": null,
-      "post": "Prepara tus comidas con precisión usando este cuchillo de chef All-Clad de acero inoxidable alemán forjado de 8 pulgadas. Su diseño robusto y afilado lo hace indispensable para cocineros caseros y profesionales que buscan durabilidad y rendimiento.",
-      "post_en": "Prepare your meals with precision using this 8-inch All-Clad forged German stainless steel chef's knife. Its robust and sharp design makes it indispensable for home cooks and professionals seeking durability and performance.",
-      "price_new": 46.05,
-      "price_old": 99.99,
-      "currency": "USD",
-      "discount_pct": 53.9,
-      "rating": 4.1,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/31MiTEL7t7L._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B0C4V9XJDM/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20181972",
-      "published_at": "2026-10-20T16:00:49+00:00",
-      "revalidated_at": "2026-10-21T00:01:45+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     },
     {
       "asin": "B0CTS3BBM2",
@@ -2025,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20174217",
       "published_at": "2026-10-20T11:45:34+00:00",
-      "revalidated_at": "2026-10-20T23:45:42+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     },
     {
       "asin": "B0H9YQ9WGV",
@@ -2399,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20171046",
       "published_at": "2026-10-20T05:45:41+00:00",
-      "revalidated_at": "2026-10-20T23:45:42+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     },
     {
       "asin": "B07D45W364",
@@ -2421,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20175858",
       "published_at": "2026-10-20T05:45:41+00:00",
-      "revalidated_at": "2026-10-20T23:45:42+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     },
     {
       "asin": "B0F64LVLWP",
@@ -2619,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20160444",
       "published_at": "2026-10-20T04:00:34+00:00",
-      "revalidated_at": "2026-10-20T23:45:42+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     },
     {
       "asin": "B0HBVDQ7XN",
@@ -2641,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20171595",
       "published_at": "2026-10-20T03:45:46+00:00",
-      "revalidated_at": "2026-10-20T23:45:42+00:00"
+      "revalidated_at": "2026-10-21T01:45:38+00:00"
     }
   ]
 }
