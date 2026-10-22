@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-22T18:15:50+00:00",
+  "generated_at": "2026-10-22T18:30:52+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0FCY8CNN4",
+      "title": "Amazon LEGO Lucky Cat 40813",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 18.0,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 70.0,
+      "rating": 4.9,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/71ROJT3qkKL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FCY8CNN4/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20193948",
+      "published_at": "2026-10-22T18:30:52+00:00",
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
+    },
+    {
+      "asin": "B08X44GGBQ",
+      "title": "Phomemo M02 Portable Bluetooth Mini Thermal Sticker Printer w/ 3 Paper Rolls (Green)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 16.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 51.5,
+      "rating": null,
+      "condition": "code",
+      "code": "ZLYGRJKF",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/22054062.thumb",
+      "url": "https://amazon.com/dp/B08X44GGBQ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20193156",
+      "published_at": "2026-10-22T18:30:52+00:00",
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
+    },
     {
       "asin": "B01J8DLGU2",
       "title": "Prime: AstroAI 150PSI Digital Tire Pressure Gauge w/ Backlit LCD & Nozzle Light",
@@ -102,11 +146,11 @@
       "price_old": 17.99,
       "currency": "USD",
       "discount_pct": 45.6,
-      "rating": null,
+      "rating": 4.5,
       "condition": "coupon",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/0/4/4/1/0/9/7/450x450/22046706.thumb",
+      "image": "https://m.media-amazon.com/images/I/61u6RWd2ElL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D2VVX6HP/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20189988",
@@ -463,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191935",
       "published_at": "2026-10-22T16:15:58+00:00",
-      "revalidated_at": "2026-10-22T16:15:58+00:00"
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
     },
     {
       "asin": "B0CWJT6LQK",
@@ -727,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20190555",
       "published_at": "2026-10-22T14:30:54+00:00",
-      "revalidated_at": "2026-10-22T16:15:58+00:00"
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
     },
     {
       "asin": "B0053HBJBE",
@@ -749,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20192475",
       "published_at": "2026-10-22T14:30:54+00:00",
-      "revalidated_at": "2026-10-22T16:15:58+00:00"
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
     },
     {
       "asin": "B00HHVIZT8",
@@ -1189,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191752",
       "published_at": "2026-10-22T12:30:49+00:00",
-      "revalidated_at": "2026-10-22T16:15:58+00:00"
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
     },
     {
       "asin": "B000GAYQLI",
@@ -1211,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191818",
       "published_at": "2026-10-22T12:30:49+00:00",
-      "revalidated_at": "2026-10-22T16:15:58+00:00"
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
     },
     {
       "asin": "B09N6YCT3Y",
@@ -1233,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191632",
       "published_at": "2026-10-22T12:30:49+00:00",
-      "revalidated_at": "2026-10-22T16:15:58+00:00"
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
     },
     {
       "asin": "B0HJFBFMYB",
@@ -1849,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191113",
       "published_at": "2026-10-22T06:45:38+00:00",
-      "revalidated_at": "2026-10-22T16:15:58+00:00"
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
     },
     {
       "asin": "B07WXL6MXM",
@@ -2135,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20188989",
       "published_at": "2026-10-22T05:00:38+00:00",
-      "revalidated_at": "2026-10-22T16:15:58+00:00"
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
     },
     {
       "asin": "B0C68MGFN2",
@@ -2157,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20189028",
       "published_at": "2026-10-22T04:45:31+00:00",
-      "revalidated_at": "2026-10-22T16:15:58+00:00"
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
     },
     {
       "asin": "B0C6WTWQRM",
@@ -2201,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20188773",
       "published_at": "2026-10-22T04:30:51+00:00",
-      "revalidated_at": "2026-10-22T16:15:58+00:00"
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
     },
     {
       "asin": "B0FM8WWZ6X",
@@ -2223,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20183028",
       "published_at": "2026-10-22T04:30:51+00:00",
-      "revalidated_at": "2026-10-22T16:15:58+00:00"
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
     },
     {
       "asin": "B01MSBOBM7",
@@ -2333,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20189634",
       "published_at": "2026-10-22T02:46:00+00:00",
-      "revalidated_at": "2026-10-22T16:15:58+00:00"
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
     },
     {
       "asin": "B0DK3FJZ79",
@@ -2421,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20189103",
       "published_at": "2026-10-22T02:30:43+00:00",
-      "revalidated_at": "2026-10-22T16:15:58+00:00"
+      "revalidated_at": "2026-10-22T18:30:52+00:00"
     },
     {
       "asin": "B0H3TVX1S3",
@@ -2598,50 +2642,6 @@
       "deal_key": "sd:20188764",
       "published_at": "2026-10-22T00:30:51+00:00",
       "revalidated_at": "2026-10-22T18:01:47+00:00"
-    },
-    {
-      "asin": "B01LYQK0YX",
-      "title": "SUNGAIT Ultra Lightweight Rectangular UV400 Polarized Sunglasses (various colors) from",
-      "title_es": "Gafas de sol polarizadas rectangulares ultraligeras SUNGAIT UV400",
-      "headline": null,
-      "post": "Estas gafas de sol SUNGAIT son ultraligeras, polarizadas y ofrecen protección UV400 para tus ojos. Su diseño rectangular las hace ideales para el uso diario o actividades al aire libre.",
-      "post_en": "These SUNGAIT sunglasses are ultra-lightweight, polarized, and offer UV400 protection for your eyes. Their rectangular design makes them ideal for daily wear or outdoor activities.",
-      "price_new": 6.62,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 81.1,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "FIQC7XV1",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/51BDws-WvKL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B01LYQK0YX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20189163",
-      "published_at": "2026-10-22T00:30:51+00:00",
-      "revalidated_at": "2026-10-22T16:00:49+00:00"
-    },
-    {
-      "asin": "B0HDYJ7PX9",
-      "title": "MixShe Women's Asymmetrical Lightweight Long Sleeve Color Block Sweater  (Various)",
-      "title_es": "Jersey ligero de manga larga asimétrico con bloques de color MixShe para mujer",
-      "headline": null,
-      "post": "Este jersey ligero de manga larga MixShe para mujer presenta un moderno diseño asimétrico y bloques de color. Es una prenda cómoda y versátil para añadir un toque de estilo a tu vestuario diario.",
-      "post_en": "This MixShe women's lightweight long sleeve sweater features a modern asymmetrical and color block design. It's a comfortable and versatile piece to add a touch of style to your daily wardrobe.",
-      "price_new": 7.91,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 77.4,
-      "rating": null,
-      "condition": "code",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/22038648.thumb",
-      "url": "https://amazon.com/dp/B0HDYJ7PX9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20186982",
-      "published_at": "2026-10-22T00:30:51+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
     }
   ]
 }
