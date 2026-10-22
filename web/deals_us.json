@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T22:40:59+00:00",
+  "generated_at": "2026-10-22T22:45:38+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0DHLGFRV3",
@@ -36,11 +36,11 @@
       "price_old": 729.0,
       "currency": "USD",
       "discount_pct": 75.6,
-      "rating": null,
+      "rating": 4.1,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/22013292.thumb",
+      "image": "https://m.media-amazon.com/images/I/71x-CHOr+QL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0C4MY34GW/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20177223",
@@ -80,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 60.6,
-      "rating": null,
+      "rating": 4.7,
       "condition": "code",
       "code": "FF8JK5MC",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/22036644.thumb",
+      "image": "https://m.media-amazon.com/images/I/61xo-Ls-vhL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CKR4KLM2/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20186133",
@@ -212,11 +212,11 @@
       "price_old": 12.99,
       "currency": "USD",
       "discount_pct": 77.0,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22055823.thumb",
+      "image": "https://m.media-amazon.com/images/I/81lijNtGCLL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B06XJTLJKW/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20193690",
@@ -256,11 +256,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 31.6,
-      "rating": null,
+      "rating": 4.9,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/5/5/7/3/6/2/450x450/22005744.thumb",
+      "image": "https://m.media-amazon.com/images/I/819fj0yZ4jL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G2T4BJDB/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20173848",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193384",
       "published_at": "2026-10-22T17:15:59+00:00",
-      "revalidated_at": "2026-10-22T21:01:03+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B0FMS6CHD9",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20188302",
       "published_at": "2026-10-22T17:15:59+00:00",
-      "revalidated_at": "2026-10-22T21:01:03+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B0HH8637X8",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20182932",
       "published_at": "2026-10-22T15:31:07+00:00",
-      "revalidated_at": "2026-10-22T21:01:03+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B0B7C327LK",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20186265",
       "published_at": "2026-10-22T15:31:07+00:00",
-      "revalidated_at": "2026-10-22T21:01:03+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B07Z7VY4PC",
@@ -1519,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191824",
       "published_at": "2026-10-22T13:30:53+00:00",
-      "revalidated_at": "2026-10-22T21:01:03+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B0D3BSKHLV",
@@ -1541,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191905",
       "published_at": "2026-10-22T13:30:53+00:00",
-      "revalidated_at": "2026-10-22T21:01:03+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B000OCXMAE",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191299",
       "published_at": "2026-10-22T13:30:53+00:00",
-      "revalidated_at": "2026-10-22T21:01:03+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B0013OJUY4",
@@ -1651,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191758",
       "published_at": "2026-10-22T13:16:04+00:00",
-      "revalidated_at": "2026-10-22T21:01:03+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B0G523STF2",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20188635",
       "published_at": "2026-10-22T13:16:04+00:00",
-      "revalidated_at": "2026-10-22T21:01:03+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B0BXYYBPBC",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20190282",
       "published_at": "2026-10-22T13:16:04+00:00",
-      "revalidated_at": "2026-10-22T21:01:03+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B08T79RQBM",
@@ -1761,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187726",
       "published_at": "2026-10-22T12:46:03+00:00",
-      "revalidated_at": "2026-10-22T20:46:02+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B0F4LWCCCJ",
@@ -1783,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191902",
       "published_at": "2026-10-22T12:46:03+00:00",
-      "revalidated_at": "2026-10-22T20:46:02+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B0GH8K82JK",
@@ -1959,29 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20183613",
       "published_at": "2026-10-22T11:15:53+00:00",
-      "revalidated_at": "2026-10-22T21:01:03+00:00"
-    },
-    {
-      "asin": "B097CPFTSV",
-      "title": "Cap Olympic Open Trap Bar | Hex, Shrug, Deadlift at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 116.11,
-      "price_old": 199.99,
-      "currency": "USD",
-      "discount_pct": 41.9,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22046364.thumb",
-      "url": "https://amazon.com/dp/B097CPFTSV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20189784",
-      "published_at": "2026-10-22T10:45:51+00:00",
-      "revalidated_at": "2026-10-22T20:46:02+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B0GX68Q8Q4",
@@ -2003,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20188782",
       "published_at": "2026-10-22T10:45:51+00:00",
-      "revalidated_at": "2026-10-22T20:46:02+00:00"
+      "revalidated_at": "2026-10-22T22:45:38+00:00"
     },
     {
       "asin": "B0FMS7CRHX",
