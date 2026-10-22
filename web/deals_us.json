@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-22T04:15:52+00:00",
+  "generated_at": "2026-10-22T04:30:51+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0C6WTWQRM",
+      "title": "6-Pack Br Halloween LED Skeleton Hand Candle Yard Stake Lights",
+      "title_es": "Pack de 6 estacas LED de Halloween con mano de esqueleto y vela para jardín",
+      "headline": null,
+      "post": "Ilumina tu jardín con este pack de 6 estacas LED con forma de mano de esqueleto y vela para Halloween. Son perfectas para crear un ambiente festivo y espeluznante en tu exterior.",
+      "post_en": "Light up your yard with this 6-pack of LED skeleton hand candle stake lights for Halloween. They are perfect for creating a festive and spooky atmosphere outdoors.",
+      "price_new": 9.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 71.5,
+      "rating": null,
+      "condition": "code",
+      "code": "AED92X78",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/3/7/4/7/9/3/450x450/22044132.thumb",
+      "url": "https://amazon.com/dp/B0C6WTWQRM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20189139",
+      "published_at": "2026-10-22T04:30:51+00:00",
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
+    },
+    {
+      "asin": "B01N9M32TA",
+      "title": "TP-Link UE330 USB 3.0 to Gigabit Ethernet Adapter w/ 3-Port USB Hub",
+      "title_es": "Adaptador TP-Link UE330 USB 3.0 a Gigabit Ethernet con hub USB de 3 puertos",
+      "headline": null,
+      "post": "El TP-Link UE330 es un adaptador USB 3.0 a Gigabit Ethernet que incluye un hub de 3 puertos USB adicionales. Ideal para dispositivos sin puerto Ethernet o para expandir las conexiones USB disponibles.",
+      "post_en": "The TP-Link UE330 is a USB 3.0 to Gigabit Ethernet adapter that includes a 3-port USB hub. It's ideal for devices without an Ethernet port or for expanding available USB connections.",
+      "price_new": 12.28,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 64.9,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/5/7/4/5/9/6/3/450x450/22043331.thumb",
+      "url": "https://amazon.com/dp/B01N9M32TA/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20188773",
+      "published_at": "2026-10-22T04:30:51+00:00",
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
+    },
+    {
+      "asin": "B0FM8WWZ6X",
+      "title": "Snoopy & The Great Mystery Club (Nintendo Switch) at Amazon",
+      "title_es": "Snoopy & The Great Mystery Club (Nintendo Switch)",
+      "headline": null,
+      "post": "Disfruta de una aventura con Snoopy y sus amigos en \"Snoopy & The Great Mystery Club\" para Nintendo Switch. Este juego es perfecto para los fans de Peanuts que buscan misterio y diversión.",
+      "post_en": "Enjoy an adventure with Snoopy and friends in \"Snoopy & The Great Mystery Club\" for Nintendo Switch. This game is perfect for Peanuts fans looking for mystery and fun.",
+      "price_new": 19.93,
+      "price_old": 39.99,
+      "currency": "USD",
+      "discount_pct": 50.2,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/816zWvU+NlL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FM8WWZ6X/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20183028",
+      "published_at": "2026-10-22T04:30:51+00:00",
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
+    },
+    {
+      "asin": "B0DFD4CCB5",
+      "title": "MySims Cozy Bundle (Nintendo Switch)",
+      "title_es": "MySims Cozy Bundle (Nintendo Switch)",
+      "headline": null,
+      "post": "Consigue el \"MySims Cozy Bundle\" para Nintendo Switch, una colección de juegos que te invita a construir y gestionar tu propio mundo. Ideal para quienes disfrutan de la creatividad y la simulación.",
+      "post_en": "Get the \"MySims Cozy Bundle\" for Nintendo Switch, a collection of games that invites you to build and manage your own world. It's ideal for those who enjoy creativity and simulation.",
+      "price_new": 22.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 35.7,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61nGbXzhoYL._SL1004_.jpg",
+      "url": "https://amazon.com/dp/B0DFD4CCB5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20182662",
+      "published_at": "2026-10-22T04:30:51+00:00",
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
+    },
     {
       "asin": "B01MSBOBM7",
       "title": "12-Count BIC Gelocity Quick Dry 0.7mm Medium Retractable Gel Pens (Black)",
@@ -221,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20189103",
       "published_at": "2026-10-22T02:30:43+00:00",
-      "revalidated_at": "2026-10-22T02:30:43+00:00"
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
     },
     {
       "asin": "B0H3TVX1S3",
@@ -243,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20178141",
       "published_at": "2026-10-22T02:30:43+00:00",
-      "revalidated_at": "2026-10-22T02:30:43+00:00"
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
     },
     {
       "asin": "B00FZR1IHC",
@@ -265,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20186802",
       "published_at": "2026-10-22T02:30:43+00:00",
-      "revalidated_at": "2026-10-22T02:30:43+00:00"
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
     },
     {
       "asin": "B0FX7X8W3F",
@@ -551,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20186982",
       "published_at": "2026-10-22T00:30:51+00:00",
-      "revalidated_at": "2026-10-22T02:15:51+00:00"
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
     },
     {
       "asin": "B06W5JQP8S",
@@ -573,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20189574",
       "published_at": "2026-10-22T00:30:51+00:00",
-      "revalidated_at": "2026-10-22T02:15:51+00:00"
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
     },
     {
       "asin": "B0F6N88NHD",
@@ -595,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187804",
       "published_at": "2026-10-22T00:30:51+00:00",
-      "revalidated_at": "2026-10-22T02:15:51+00:00"
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
     },
     {
       "asin": "B0HC74T3FH",
@@ -947,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20180397",
       "published_at": "2026-10-21T22:30:42+00:00",
-      "revalidated_at": "2026-10-22T02:15:51+00:00"
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
     },
     {
       "asin": "B0H3KKKDTS",
@@ -1299,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20186172",
       "published_at": "2026-10-21T20:30:47+00:00",
-      "revalidated_at": "2026-10-22T02:15:51+00:00"
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
     },
     {
       "asin": "B0GH8JXYX9",
@@ -1651,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187168",
       "published_at": "2026-10-21T18:30:52+00:00",
-      "revalidated_at": "2026-10-22T02:15:51+00:00"
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
     },
     {
       "asin": "B0DJ19R8H7",
@@ -1915,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187441",
       "published_at": "2026-10-21T16:15:57+00:00",
-      "revalidated_at": "2026-10-22T02:15:51+00:00"
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
     },
     {
       "asin": "B09VSYLWXM",
@@ -2531,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20184210",
       "published_at": "2026-10-21T13:45:58+00:00",
-      "revalidated_at": "2026-10-22T02:15:51+00:00"
+      "revalidated_at": "2026-10-22T04:30:51+00:00"
     },
     {
       "asin": "0762463546",
@@ -2554,72 +2642,6 @@
       "deal_key": "sd:20186808",
       "published_at": "2026-10-21T13:31:06+00:00",
       "revalidated_at": "2026-10-22T04:00:44+00:00"
-    },
-    {
-      "asin": "B07K2KN7D7",
-      "title": "CRAFTSMAN V20 MAX Cordless Drill & Impact Driver w/ 2 Batteries + Charger at Amazon",
-      "title_es": "Taladro y Atornillador de Impacto Inalámbricos CRAFTSMAN V20 MAX con 2 Baterías + Cargador",
-      "headline": null,
-      "post": "Este set CRAFTSMAN V20 MAX incluye un taladro y un atornillador de impacto inalámbricos, perfectos para trabajos domésticos y profesionales. Viene con dos baterías y un cargador para que siempre tengas energía.",
-      "post_en": "This CRAFTSMAN V20 MAX set includes a cordless drill and impact driver, perfect for home and professional tasks. It comes with two batteries and a charger so you always have power.",
-      "price_new": 99.0,
-      "price_old": 169.0,
-      "currency": "USD",
-      "discount_pct": 41.4,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71cTPk6tJML._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07K2KN7D7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20177532",
-      "published_at": "2026-10-21T13:31:06+00:00",
-      "revalidated_at": "2026-10-22T04:00:44+00:00"
-    },
-    {
-      "asin": "B07WJY5SKG",
-      "title": "Cleer Enduro 100 Bluetooth Over-Ear Headphones (2 Colors)",
-      "title_es": "Auriculares Over-Ear Bluetooth Cleer Enduro 100 (2 Colores)",
-      "headline": null,
-      "post": "Los auriculares Cleer Enduro 100 ofrecen una experiencia de audio inmersiva con su diseño over-ear y conectividad Bluetooth. Son ideales para quienes buscan comodidad y calidad de sonido durante largas sesiones de escucha.",
-      "post_en": "The Cleer Enduro 100 over-ear headphones offer an immersive audio experience with their over-ear design and Bluetooth connectivity. They are ideal for those seeking comfort and sound quality during long listening sessions.",
-      "price_new": 62.99,
-      "price_old": 89.99,
-      "currency": "USD",
-      "discount_pct": 30.0,
-      "rating": null,
-      "condition": "code",
-      "code": "ENDURO100DC",
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/22018449.thumb",
-      "url": "https://amazon.com/dp/B07WJY5SKG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20179041",
-      "published_at": "2026-10-21T13:31:06+00:00",
-      "revalidated_at": "2026-10-22T04:15:52+00:00"
-    },
-    {
-      "asin": "B09CCVFYVT",
-      "title": "ELEGRP 3-Port USB Wall Outlet, 30W 6.0A, 15 Amp, Type C, 10 Pack, Matte Gray",
-      "title_es": "Pack de 10 Tomas de Corriente ELEGRP de Pared con 3 Puertos USB (Tipo C)",
-      "headline": null,
-      "post": "Moderniza tus enchufes con este pack de 10 tomas de corriente ELEGRP de pared, que incluyen 3 puertos USB (uno Tipo C) para cargar tus dispositivos. Son ideales para hogares y oficinas que necesitan múltiples opciones de carga.",
-      "post_en": "Modernize your outlets with this 10-pack of ELEGRP 3-Port USB Wall Outlets, featuring 3 USB ports (one Type C) for charging your devices. They are ideal for homes and offices needing multiple charging options.",
-      "price_new": 61.33,
-      "price_old": 139.99,
-      "currency": "USD",
-      "discount_pct": 56.2,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/8/6/7/1/9/450x450/22036029.thumb",
-      "url": "https://amazon.com/dp/B09CCVFYVT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20185878",
-      "published_at": "2026-10-21T13:15:51+00:00",
-      "revalidated_at": "2026-10-22T03:00:47+00:00"
     }
   ]
 }
