@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-22T18:30:52+00:00",
+  "generated_at": "2026-10-22T18:46:02+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0FPCZ9BLW",
+      "title": "4-Pk Linkind Outdoor A19 Dusk-to-Dawn LED Light Bulbs w/ Automatic On/Off",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.5,
+      "price_old": 16.99,
+      "currency": "USD",
+      "discount_pct": 55.9,
+      "rating": null,
+      "condition": "code",
+      "code": "3RKMC6WQ",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/22051023.thumb",
+      "url": "https://amazon.com/dp/B0FPCZ9BLW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20192259",
+      "published_at": "2026-10-22T18:46:02+00:00",
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
+    },
     {
       "asin": "B0FCY8CNN4",
       "title": "Amazon LEGO Lucky Cat 40813",
@@ -36,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 51.5,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "ZLYGRJKF",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/22054062.thumb",
+      "image": "https://m.media-amazon.com/images/I/718Lz89HpJL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B08X44GGBQ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20193156",
@@ -80,11 +102,11 @@
       "price_old": 12.99,
       "currency": "USD",
       "discount_pct": 77.0,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22051626.thumb",
+      "image": "https://m.media-amazon.com/images/I/81TnEzRbNvL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B003EY7JGM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20192406",
@@ -124,11 +146,11 @@
       "price_old": 60.0,
       "currency": "USD",
       "discount_pct": 65.0,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/22053486.thumb",
+      "image": "https://m.media-amazon.com/images/I/61LrkeMas4L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B000IXG44U/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20192940",
@@ -466,28 +488,6 @@
       "revalidated_at": "2026-10-22T17:15:59+00:00"
     },
     {
-      "asin": "B0FL1JKD8X",
-      "title": "18-Pair YEEZII Gold Hoop Earrings Set for Women",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 5.48,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 84.3,
-      "rating": null,
-      "condition": "code",
-      "code": "JIWY5UVN",
-      "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/22009452.thumb",
-      "url": "https://amazon.com/dp/B0FL1JKD8X/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20175684",
-      "published_at": "2026-10-22T16:30:59+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
-    },
-    {
       "asin": "B0HH8637X8",
       "title": "G Gradual Men's Fleece Lightweight Hoodie Gym Hooded Sweatshirt",
       "title_es": null,
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191884",
       "published_at": "2026-10-22T15:00:56+00:00",
-      "revalidated_at": "2026-10-22T16:45:57+00:00"
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
     },
     {
       "asin": "B0DJ19J283",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20190072",
       "published_at": "2026-10-22T14:46:00+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
     },
     {
       "asin": "B0GXDW665J",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20178621",
       "published_at": "2026-10-22T14:46:00+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
     },
     {
       "asin": "B0HFMR24GF",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20168013",
       "published_at": "2026-10-22T14:46:00+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
     },
     {
       "asin": "B0DP422YWW",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20192301",
       "published_at": "2026-10-22T14:46:00+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
     },
     {
       "asin": "B0CM3DCWQY",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20190432",
       "published_at": "2026-10-22T12:46:03+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
     },
     {
       "asin": "B007JZD754",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191746",
       "published_at": "2026-10-22T12:46:03+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
     },
     {
       "asin": "1454961791",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187726",
       "published_at": "2026-10-22T12:46:03+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
     },
     {
       "asin": "B0F4LWCCCJ",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20190237",
       "published_at": "2026-10-22T02:46:00+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
     },
     {
       "asin": "B07MQNC6ZX",
@@ -2421,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20170164",
       "published_at": "2026-10-22T02:46:00+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
     },
     {
       "asin": "B0FMXST3J9",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187318",
       "published_at": "2026-10-22T02:46:00+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
     },
     {
       "asin": "B0FRNQ8T7P",
@@ -2487,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20178141",
       "published_at": "2026-10-22T02:30:43+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
     },
     {
       "asin": "B0FX7X8W3F",
@@ -2597,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20189496",
       "published_at": "2026-10-22T01:00:40+00:00",
-      "revalidated_at": "2026-10-22T16:30:59+00:00"
+      "revalidated_at": "2026-10-22T18:46:02+00:00"
     },
     {
       "asin": "B0FDGB1VRM",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20185881",
       "published_at": "2026-10-22T00:45:37+00:00",
       "revalidated_at": "2026-10-22T16:45:57+00:00"
-    },
-    {
-      "asin": "B0H9KCGGLR",
-      "title": "10' Rocoren 60W Starlink Mini Car Power Adapter w/ 45W USB-C & 30W USB-A",
-      "title_es": "Adaptador de corriente para coche Rocoren 60W Starlink Mini con USB-C 45W y USB-A 30W",
-      "headline": null,
-      "post": "Este adaptador de corriente para coche Rocoren permite cargar tu Starlink Mini y otros dispositivos en el vehículo. Cuenta con puertos USB-C de 45W y USB-A de 30W para una carga rápida y versátil.",
-      "post_en": "This Rocoren car power adapter allows you to charge your Starlink Mini and other devices in your vehicle. It features 45W USB-C and 30W USB-A ports for fast and versatile charging.",
-      "price_new": 8.74,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 75.0,
-      "rating": 5.0,
-      "condition": "code",
-      "code": "S0X8FVPA",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71dnGdX4N8L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H9KCGGLR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20188764",
-      "published_at": "2026-10-22T00:30:51+00:00",
-      "revalidated_at": "2026-10-22T18:01:47+00:00"
     }
   ]
 }
