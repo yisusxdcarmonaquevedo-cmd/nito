@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-23T04:15:34+00:00",
+  "generated_at": "2026-10-23T04:30:30+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B07PFYHB69",
+      "title": "Nintendo Mario Kart 8 - Luigi",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.12,
+      "price_old": 13.89,
+      "currency": "USD",
+      "discount_pct": 34.3,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/3/1/3/1/8/7/0/450x450/22041318.thumb",
+      "url": "https://amazon.com/dp/B07PFYHB69/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20187990",
+      "published_at": "2026-10-23T04:30:30+00:00",
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
+    },
     {
       "asin": "B08P1NVJDW",
       "title": "G Gradual Men's Sweatpants with Zipper Pockets Athletic Pants Training Track Pants Joggers for Men Soccer, Running, Workout(Black,L)",
@@ -36,11 +58,11 @@
       "price_old": 30.98,
       "currency": "USD",
       "discount_pct": 40.0,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "9WHLI7Y2",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/21991425.thumb",
+      "image": "https://m.media-amazon.com/images/I/81-bdbpl4CL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GXDV1RMZ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20168190",
@@ -102,11 +124,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 97.5,
-      "rating": null,
+      "rating": 4.8,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/22059528.thumb",
+      "image": "https://m.media-amazon.com/images/I/71LnildLkUL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B00IFWO8PI/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20195316",
@@ -529,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194308",
       "published_at": "2026-10-23T00:30:34+00:00",
-      "revalidated_at": "2026-10-23T02:30:31+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B0GYWQLZBD",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193570",
       "published_at": "2026-10-22T22:40:59+00:00",
-      "revalidated_at": "2026-10-23T02:30:31+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B0C4MY34GW",
@@ -969,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194194",
       "published_at": "2026-10-22T20:46:02+00:00",
-      "revalidated_at": "2026-10-23T02:30:31+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B00004Z459",
@@ -991,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194152",
       "published_at": "2026-10-22T20:46:02+00:00",
-      "revalidated_at": "2026-10-23T02:30:31+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B0FYKGVZZ1",
@@ -1013,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193903",
       "published_at": "2026-10-22T20:31:00+00:00",
-      "revalidated_at": "2026-10-23T02:30:31+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B0FXBJHMTF",
@@ -1211,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20184063",
       "published_at": "2026-10-22T19:01:03+00:00",
-      "revalidated_at": "2026-10-23T02:30:31+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B0FPQSHCNZ",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193762",
       "published_at": "2026-10-22T19:01:03+00:00",
-      "revalidated_at": "2026-10-23T02:30:31+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B0D4X3TCNC",
@@ -1255,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20185236",
       "published_at": "2026-10-22T19:01:03+00:00",
-      "revalidated_at": "2026-10-23T02:30:31+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B002JWSNIS",
@@ -1299,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20192259",
       "published_at": "2026-10-22T18:46:02+00:00",
-      "revalidated_at": "2026-10-23T02:30:31+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B08X44GGBQ",
@@ -1871,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191884",
       "published_at": "2026-10-22T15:00:56+00:00",
-      "revalidated_at": "2026-10-23T02:30:31+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B0DJ19J283",
@@ -1915,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20190072",
       "published_at": "2026-10-22T14:46:00+00:00",
-      "revalidated_at": "2026-10-23T02:30:31+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B0GXDW665J",
@@ -1937,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20178621",
       "published_at": "2026-10-22T14:46:00+00:00",
-      "revalidated_at": "2026-10-23T02:30:31+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B0HFMR24GF",
@@ -1959,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20168013",
       "published_at": "2026-10-22T14:46:00+00:00",
-      "revalidated_at": "2026-10-23T02:30:31+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B0DP422YWW",
@@ -2509,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191632",
       "published_at": "2026-10-22T12:30:49+00:00",
-      "revalidated_at": "2026-10-23T02:15:58+00:00"
+      "revalidated_at": "2026-10-23T04:30:30+00:00"
     },
     {
       "asin": "B0HJFBFMYB",
@@ -2619,28 +2641,6 @@
       "source": "slickdeals",
       "deal_key": "sd:20183613",
       "published_at": "2026-10-22T11:15:53+00:00",
-      "revalidated_at": "2026-10-23T03:15:43+00:00"
-    },
-    {
-      "asin": "B0GX68Q8Q4",
-      "title": "iVANKY 13-in-1 M6, M5 Pro, M4 Mac Mini Docking Station w/ M.2 SSD NVMe Enclosure",
-      "title_es": "Estación de acoplamiento iVANKY 13 en 1 para Mac Mini (M6, M5 Pro, M4) con carcasa M.2 SSD NVMe",
-      "headline": null,
-      "post": "Esta estación de acoplamiento iVANKY 13 en 1 amplía las capacidades de tu Mac Mini (M6, M5 Pro, M4), incluyendo una carcasa para M.2 SSD NVMe. Ideal para organizar tu espacio de trabajo y conectar múltiples periféricos.",
-      "post_en": "This iVANKY 13-in-1 docking station expands your Mac Mini's capabilities (M6, M5 Pro, M4), including an M.2 SSD NVMe enclosure. It's ideal for organizing your workspace and connecting multiple peripherals.",
-      "price_new": 45.99,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 34.3,
-      "rating": 4.3,
-      "condition": "code",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71lw54SBWfL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GX68Q8Q4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20188782",
-      "published_at": "2026-10-22T10:45:51+00:00",
       "revalidated_at": "2026-10-23T03:15:43+00:00"
     }
   ]
