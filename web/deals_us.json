@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-23T08:45:41+00:00",
+  "generated_at": "2026-10-23T09:01:50+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0H3NT9XRS",
+      "title": "Amazon – Facecozy Women's Wide-Brim Sun Hat w/ Neck Flap -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.45,
+      "price_old": 14.9,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": "code",
+      "code": "VEZBQ4BZ",
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/22051230.thumb",
+      "url": "https://amazon.com/dp/B0H3NT9XRS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20192268",
+      "published_at": "2026-10-23T09:01:50+00:00",
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
+    },
     {
       "asin": "B0B82Y74HR",
       "title": "15.6\" Lovevook Laptop Backpack w/ 40-Oz Tumbler Holder (Beige/ Black/ Brown)",
@@ -36,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 89.1,
-      "rating": null,
+      "rating": 4.6,
       "condition": "coupon",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/4/9/0/0/1/2/450x450/22060968.thumb",
+      "image": "https://m.media-amazon.com/images/I/71J59u-I70L._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FMHYG7TR/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20195868",
@@ -58,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 84.6,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "UPCJGIS9",
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/3/1/1/9/6/7/1/6/450x450/22052517.thumb",
+      "image": "https://m.media-amazon.com/images/I/617JDohDRCL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0714JYF2Y/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20192706",
@@ -80,11 +102,11 @@
       "price_old": 33.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.0,
       "condition": "code",
       "code": "K6WMTXT6",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/5/3/4/7/0/450x450/22060035.thumb",
+      "image": "https://m.media-amazon.com/images/I/61PNz5-8cwL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GY4DDJS5/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20195514",
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20195838",
       "published_at": "2026-10-23T05:15:42+00:00",
-      "revalidated_at": "2026-10-23T07:00:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     },
     {
       "asin": "0358713684",
@@ -375,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20195040",
       "published_at": "2026-10-23T05:15:42+00:00",
-      "revalidated_at": "2026-10-23T07:00:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     },
     {
       "asin": "B0FWRN8L79",
@@ -397,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20184804",
       "published_at": "2026-10-23T05:15:42+00:00",
-      "revalidated_at": "2026-10-23T07:00:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     },
     {
       "asin": "B08P1NVJDW",
@@ -529,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20195079",
       "published_at": "2026-10-23T03:15:43+00:00",
-      "revalidated_at": "2026-10-23T07:00:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     },
     {
       "asin": "B09XQX77YT",
@@ -551,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194374",
       "published_at": "2026-10-23T03:15:43+00:00",
-      "revalidated_at": "2026-10-23T07:00:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     },
     {
       "asin": "B0F6V1VWMP",
@@ -573,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187807",
       "published_at": "2026-10-23T03:15:43+00:00",
-      "revalidated_at": "2026-10-23T07:00:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     },
     {
       "asin": "B0F62PGJSM",
@@ -1321,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193633",
       "published_at": "2026-10-22T21:16:02+00:00",
-      "revalidated_at": "2026-10-23T06:45:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     },
     {
       "asin": "B0G2T4BJDB",
@@ -1343,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20173848",
       "published_at": "2026-10-22T21:16:02+00:00",
-      "revalidated_at": "2026-10-23T06:45:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     },
     {
       "asin": "B0B28G5Y4R",
@@ -1981,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20192955",
       "published_at": "2026-10-22T17:31:09+00:00",
-      "revalidated_at": "2026-10-23T06:45:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     },
     {
       "asin": "B0GK6FBNZP",
@@ -2003,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20190507",
       "published_at": "2026-10-22T17:31:09+00:00",
-      "revalidated_at": "2026-10-23T06:45:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     },
     {
       "asin": "B0GSQSXXF7",
@@ -2025,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20182419",
       "published_at": "2026-10-22T17:31:09+00:00",
-      "revalidated_at": "2026-10-23T06:45:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     },
     {
       "asin": "B0DT5KXM1B",
@@ -2575,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191299",
       "published_at": "2026-10-22T13:30:53+00:00",
-      "revalidated_at": "2026-10-23T06:45:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     },
     {
       "asin": "B0013OJUY4",
@@ -2597,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20192007",
       "published_at": "2026-10-22T13:16:04+00:00",
-      "revalidated_at": "2026-10-23T06:45:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     },
     {
       "asin": "B09TRZCCGK",
@@ -2619,29 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20178261",
       "published_at": "2026-10-22T13:16:04+00:00",
-      "revalidated_at": "2026-10-23T06:45:40+00:00"
-    },
-    {
-      "asin": "B0HJHRSBPX",
-      "title": "G10 Handheld Steamer for Clothes, 5S Fast Heat Up, Big Iron Panel steam iron 2-in-1 Travel Size 0.9 lbs, 100ml Tank",
-      "title_es": "Vaporizador de Ropa Portátil G10 2 en 1 (Calentamiento Rápido, Depósito de 100ml)",
-      "headline": null,
-      "post": "El vaporizador de ropa portátil G10 es un dispositivo 2 en 1 que calienta en solo 5 segundos, ideal para viajes o retoques rápidos. Su depósito de 100 ml y tamaño compacto lo hacen muy práctico para mantener tu ropa impecable.",
-      "post_en": "The G10 handheld clothes steamer is a 2-in-1 device that heats up in just 5 seconds, perfect for travel or quick touch-ups. Its 100ml tank and compact size make it very practical for keeping your clothes wrinkle-free.",
-      "price_new": 12.99,
-      "price_old": 39.99,
-      "currency": "USD",
-      "discount_pct": 67.5,
-      "rating": 4.4,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51-2lS8XHlL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0HJHRSBPX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20185584",
-      "published_at": "2026-10-22T13:16:04+00:00",
-      "revalidated_at": "2026-10-23T06:45:40+00:00"
+      "revalidated_at": "2026-10-23T09:01:50+00:00"
     }
   ]
 }
