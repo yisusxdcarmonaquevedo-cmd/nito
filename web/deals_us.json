@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-23T05:00:32+00:00",
+  "generated_at": "2026-10-23T05:15:42+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0DSQSKB3Q",
+      "title": "Flight Risk - Steelbook 4K ULTRA HD + Blu Ray + Digital",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.04,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 79.9,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/8/2/8/3/4/450x450/22060908.thumb",
+      "url": "https://amazon.com/dp/B0DSQSKB3Q/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20195838",
+      "published_at": "2026-10-23T05:15:42+00:00",
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
+    },
+    {
+      "asin": "0358713684",
+      "title": "My First Curious George 3-Book Box Set",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.23,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 67.9,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/22059054.thumb",
+      "url": "https://amazon.com/dp/0358713684/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20195040",
+      "published_at": "2026-10-23T05:15:42+00:00",
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
+    },
+    {
+      "asin": "B0FWRN8L79",
+      "title": "Volnamal Diaper Caddy with Wipe Dispenser One-Handed Access",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.99,
+      "price_old": 19.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.5,
+      "condition": "coupon",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81uFZG1eb-L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FWRN8L79/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20184804",
+      "published_at": "2026-10-23T05:15:42+00:00",
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
+    },
     {
       "asin": "B0CTNMJL8G",
       "title": "JBL Clip 5 Portable Bluetooth Speaker (Blue)",
@@ -36,11 +102,11 @@
       "price_old": 13.89,
       "currency": "USD",
       "discount_pct": 34.3,
-      "rating": null,
+      "rating": 4.1,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/3/1/3/1/8/7/0/450x450/22041318.thumb",
+      "image": "https://m.media-amazon.com/images/I/7136U0zSQeL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B07PFYHB69/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20187990",
@@ -177,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20195079",
       "published_at": "2026-10-23T03:15:43+00:00",
-      "revalidated_at": "2026-10-23T03:15:43+00:00"
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
     },
     {
       "asin": "B09XQX77YT",
@@ -199,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194374",
       "published_at": "2026-10-23T03:15:43+00:00",
-      "revalidated_at": "2026-10-23T03:15:43+00:00"
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
     },
     {
       "asin": "B0F6V1VWMP",
@@ -221,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187807",
       "published_at": "2026-10-23T03:15:43+00:00",
-      "revalidated_at": "2026-10-23T03:15:43+00:00"
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
     },
     {
       "asin": "B0F62PGJSM",
@@ -485,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194965",
       "published_at": "2026-10-23T01:15:34+00:00",
-      "revalidated_at": "2026-10-23T03:15:43+00:00"
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
     },
     {
       "asin": "B000WMIROM",
@@ -903,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194038",
       "published_at": "2026-10-22T21:30:57+00:00",
-      "revalidated_at": "2026-10-23T03:15:43+00:00"
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
     },
     {
       "asin": "B07BK4YVB3",
@@ -925,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20185764",
       "published_at": "2026-10-22T21:30:57+00:00",
-      "revalidated_at": "2026-10-23T03:15:43+00:00"
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
     },
     {
       "asin": "B06XJTLJKW",
@@ -1629,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20185410",
       "published_at": "2026-10-22T17:46:06+00:00",
-      "revalidated_at": "2026-10-23T03:15:43+00:00"
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
     },
     {
       "asin": "B0DJ7FTH28",
@@ -1651,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193402",
       "published_at": "2026-10-22T17:46:06+00:00",
-      "revalidated_at": "2026-10-23T03:15:43+00:00"
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
     },
     {
       "asin": "B007HAE5GQ",
@@ -1739,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20184720",
       "published_at": "2026-10-22T17:31:09+00:00",
-      "revalidated_at": "2026-10-23T03:15:43+00:00"
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
     },
     {
       "asin": "B0FHJ7TKZM",
@@ -2157,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187444",
       "published_at": "2026-10-22T14:00:53+00:00",
-      "revalidated_at": "2026-10-23T03:15:43+00:00"
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
     },
     {
       "asin": "B0GVYDC9S1",
@@ -2421,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20190432",
       "published_at": "2026-10-22T12:46:03+00:00",
-      "revalidated_at": "2026-10-23T03:01:38+00:00"
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
     },
     {
       "asin": "B007JZD754",
@@ -2443,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191746",
       "published_at": "2026-10-22T12:46:03+00:00",
-      "revalidated_at": "2026-10-23T03:01:38+00:00"
+      "revalidated_at": "2026-10-23T05:15:42+00:00"
     },
     {
       "asin": "1454961791",
@@ -2576,72 +2642,6 @@
       "deal_key": "sd:20191617",
       "published_at": "2026-10-22T12:01:03+00:00",
       "revalidated_at": "2026-10-23T03:30:40+00:00"
-    },
-    {
-      "asin": "B0F254WH9P",
-      "title": "[AC] adidas Finger Crossbody Bag (Impact Yellow/Glory Blue/Colombia)",
-      "title_es": "Bolso bandolera adidas Finger Crossbody (Impact Yellow/Glory Blue/Colombia)",
-      "headline": null,
-      "post": "Descubre este vibrante bolso bandolera adidas Finger Crossbody con un diseño llamativo en Impact Yellow, Glory Blue y Colombia. Es el accesorio perfecto para llevar tus esenciales con estilo y comodidad.",
-      "post_en": "Discover this vibrant adidas Finger Crossbody Bag featuring a striking design in Impact Yellow, Glory Blue, and Colombia. It's the perfect accessory to carry your essentials with style and comfort.",
-      "price_new": 10.01,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.4,
-      "rating": 4.8,
-      "condition": "coupon",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71N801M9z1L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F254WH9P/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20174973",
-      "published_at": "2026-10-22T11:30:57+00:00",
-      "revalidated_at": "2026-10-23T03:30:40+00:00"
-    },
-    {
-      "asin": "B0GR19X8DC",
-      "title": "13-Inch Apple MacBook Air Laptop with M5 chip (16GB RAM, 512GB SSD, Silver) at Amazon",
-      "title_es": "Portátil Apple MacBook Air de 13 pulgadas con chip M5 (16GB RAM, 512GB SSD, Silver)",
-      "headline": null,
-      "post": "Un potente Apple MacBook Air de 13 pulgadas, equipado con el chip M5, 16GB de RAM y un SSD de 512GB en color Silver. Ideal para trabajo, estudio y entretenimiento con gran rendimiento.",
-      "post_en": "A powerful 13-inch Apple MacBook Air laptop, equipped with the M5 chip, 16GB RAM, and a 512GB SSD in Silver. Perfect for work, study, and entertainment with great performance.",
-      "price_new": 114.0,
-      "price_old": 719.0,
-      "currency": "USD",
-      "discount_pct": 84.1,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22049637.thumb",
-      "url": "https://amazon.com/dp/B0GR19X8DC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20191437",
-      "published_at": "2026-10-22T11:30:57+00:00",
-      "revalidated_at": "2026-10-23T03:30:40+00:00"
-    },
-    {
-      "asin": "B07KHG79Z8",
-      "title": "14-Piece Craftsman Drill Bit Set w/ Gold Oxide Coating at Amazon",
-      "title_es": "Set de 14 brocas Craftsman con recubrimiento de óxido dorado",
-      "headline": null,
-      "post": "Este juego de 14 brocas Craftsman cuenta con un recubrimiento de óxido dorado para mayor durabilidad y resistencia. Es esencial para cualquier caja de herramientas, ideal para perforaciones en diversos materiales.",
-      "post_en": "This 14-piece Craftsman drill bit set features a gold oxide coating for enhanced durability and resistance. It's an essential addition to any toolbox, perfect for drilling into various materials.",
-      "price_new": 9.98,
-      "price_old": 17.07,
-      "currency": "USD",
-      "discount_pct": 41.5,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81ozXpzLspL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07KHG79Z8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20191308",
-      "published_at": "2026-10-22T11:30:57+00:00",
-      "revalidated_at": "2026-10-23T03:45:55+00:00"
     }
   ]
 }
