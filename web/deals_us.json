@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-23T09:45:44+00:00",
+  "generated_at": "2026-10-23T10:02:56+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0G3CW46BP",
+      "title": "All-Clad HA1 Expert Nonstick , 2-Piece Fry Pans Set, Induction Ready at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 69.99,
+      "price_old": 99.99,
+      "currency": "USD",
+      "discount_pct": 30.0,
+      "rating": 4.5,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61Jcqsu9EpL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0G3CW46BP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20196204",
+      "published_at": "2026-10-23T10:02:56+00:00",
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
+    },
     {
       "asin": "B0GFMSXXS9",
       "title": "Dokhbem 365nm 3-LED UV Black Light USB-C Rechargeable Flashlight w/ LCD Display",
@@ -177,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20196114",
       "published_at": "2026-10-23T08:01:01+00:00",
-      "revalidated_at": "2026-10-23T08:01:01+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B0CCRZPKR1",
@@ -199,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187852",
       "published_at": "2026-10-23T08:01:01+00:00",
-      "revalidated_at": "2026-10-23T08:01:01+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B0GWTLP99W",
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20195751",
       "published_at": "2026-10-23T06:00:44+00:00",
-      "revalidated_at": "2026-10-23T08:01:01+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B0GBXGJF7H",
@@ -630,11 +652,11 @@
       "price_old": 26.96,
       "currency": "USD",
       "discount_pct": 65.3,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "0UXWXEJ3",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/22040832.thumb",
+      "image": "https://m.media-amazon.com/images/I/71VVnQ3u0WL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F6V1VWMP/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20187807",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20184594",
       "published_at": "2026-10-23T02:15:58+00:00",
-      "revalidated_at": "2026-10-23T08:01:01+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B0FFRR3FTC",
@@ -683,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193096",
       "published_at": "2026-10-23T02:15:58+00:00",
-      "revalidated_at": "2026-10-23T08:01:01+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B0D9H9WQXQ",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193426",
       "published_at": "2026-10-23T02:15:58+00:00",
-      "revalidated_at": "2026-10-23T08:01:01+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B01E140XWA",
@@ -727,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194506",
       "published_at": "2026-10-23T02:15:58+00:00",
-      "revalidated_at": "2026-10-23T08:01:01+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B0GXDW4WHH",
@@ -749,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193249",
       "published_at": "2026-10-23T02:15:58+00:00",
-      "revalidated_at": "2026-10-23T08:01:01+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B086RNZX13",
@@ -784,11 +806,11 @@
       "price_old": 69.99,
       "currency": "USD",
       "discount_pct": 43.0,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "CUKTECH43",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/22053183.thumb",
+      "image": "https://m.media-amazon.com/images/I/51zFD9uYSYL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GHHDV7Y9/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20192847",
@@ -806,11 +828,11 @@
       "price_old": 44.99,
       "currency": "USD",
       "discount_pct": 35.0,
-      "rating": null,
+      "rating": 4.2,
       "condition": "code",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/22056909.thumb",
+      "image": "https://m.media-amazon.com/images/I/711iBZ3n-uL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F18C5HMC/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20194110",
@@ -1189,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20177223",
       "published_at": "2026-10-22T22:30:53+00:00",
-      "revalidated_at": "2026-10-23T08:01:01+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B0GYN55V12",
@@ -1827,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20192940",
       "published_at": "2026-10-22T18:15:50+00:00",
-      "revalidated_at": "2026-10-23T07:45:58+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B0D2VVX6HP",
@@ -1849,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20189988",
       "published_at": "2026-10-22T18:15:50+00:00",
-      "revalidated_at": "2026-10-23T07:45:58+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B0D3RRFXHW",
@@ -1937,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193456",
       "published_at": "2026-10-22T18:01:47+00:00",
-      "revalidated_at": "2026-10-23T08:01:01+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B0GGZ6B346",
@@ -1959,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20192316",
       "published_at": "2026-10-22T18:01:47+00:00",
-      "revalidated_at": "2026-10-23T08:01:01+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B0GF7VTHSL",
@@ -1981,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193219",
       "published_at": "2026-10-22T18:01:47+00:00",
-      "revalidated_at": "2026-10-23T08:01:01+00:00"
+      "revalidated_at": "2026-10-23T10:02:56+00:00"
     },
     {
       "asin": "B0F8MDDY2R",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:20191905",
       "published_at": "2026-10-22T13:30:53+00:00",
       "revalidated_at": "2026-10-23T08:45:41+00:00"
-    },
-    {
-      "asin": "B000OCXMAE",
-      "title": "Linkin Park: Minutes to Midnight (Audio CD w/ AutoRip MP3) at Amazon",
-      "title_es": "Linkin Park: Minutes to Midnight (CD de Audio con AutoRip MP3)",
-      "headline": null,
-      "post": "Disfruta del icónico álbum \"Minutes to Midnight\" de Linkin Park en formato CD de audio, que incluye la descarga digital AutoRip MP3. Es una oportunidad fantástica para fans de la banda y coleccionistas de música. 🎶",
-      "post_en": "Enjoy Linkin Park's iconic album \"Minutes to Midnight\" on audio CD, which includes the AutoRip MP3 digital download. This is a fantastic opportunity for band fans and music collectors. 🎶",
-      "price_new": 9.18,
-      "price_old": 13.98,
-      "currency": "USD",
-      "discount_pct": 34.3,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/51-Y5SuKWfL._SL1200_.jpg",
-      "url": "https://amazon.com/dp/B000OCXMAE/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20191299",
-      "published_at": "2026-10-22T13:30:53+00:00",
-      "revalidated_at": "2026-10-23T09:01:50+00:00"
     }
   ]
 }
