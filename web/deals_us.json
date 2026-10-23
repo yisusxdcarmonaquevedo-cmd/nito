@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T19:15:48+00:00",
+  "generated_at": "2026-10-23T19:30:50+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0FKFQ9C5P",
@@ -36,11 +36,11 @@
       "price_old": 146.99,
       "currency": "USD",
       "discount_pct": 59.2,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/9/5/3/2/3/450x450/22065393.thumb",
+      "image": "https://m.media-amazon.com/images/I/718sPPLRBAL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CRRKRJ2S/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20197590",
@@ -58,11 +58,11 @@
       "price_old": 55.99,
       "currency": "USD",
       "discount_pct": 57.2,
-      "rating": null,
+      "rating": 3.8,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22067214.thumb",
+      "image": "https://m.media-amazon.com/images/I/81KOxAB-gHL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CP3N6RDQ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20198121",
@@ -102,11 +102,11 @@
       "price_old": 714.0,
       "currency": "USD",
       "discount_pct": 80.5,
-      "rating": null,
+      "rating": 3.1,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22067697.thumb",
+      "image": "https://m.media-amazon.com/images/I/714mf1PUL4L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GR16Y1WM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20198316",
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20197935",
       "published_at": "2026-10-23T17:30:55+00:00",
-      "revalidated_at": "2026-10-23T17:30:55+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B0F6333KFG",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20192775",
       "published_at": "2026-10-23T15:31:11+00:00",
-      "revalidated_at": "2026-10-23T17:30:55+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B08T5WPC53",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20191371",
       "published_at": "2026-10-23T13:32:01+00:00",
-      "revalidated_at": "2026-10-23T17:30:55+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B07ZNCPPN7",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20192619",
       "published_at": "2026-10-23T13:32:01+00:00",
-      "revalidated_at": "2026-10-23T17:30:55+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B0H1MCNZKP",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20195691",
       "published_at": "2026-10-23T13:32:01+00:00",
-      "revalidated_at": "2026-10-23T17:30:55+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B0FL26TWWQ",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194056",
       "published_at": "2026-10-23T13:32:01+00:00",
-      "revalidated_at": "2026-10-23T17:30:55+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B07VRFN6RY",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20189229",
       "published_at": "2026-10-23T05:45:41+00:00",
-      "revalidated_at": "2026-10-23T17:30:55+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B0DSQSKB3Q",
@@ -1585,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20184090",
       "published_at": "2026-10-23T03:45:55+00:00",
-      "revalidated_at": "2026-10-23T17:30:55+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B0GXDV1RMZ",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20168190",
       "published_at": "2026-10-23T03:45:55+00:00",
-      "revalidated_at": "2026-10-23T17:30:55+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B0FT1DGSW1",
@@ -1739,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20187807",
       "published_at": "2026-10-23T03:15:43+00:00",
-      "revalidated_at": "2026-10-23T17:25:19+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B0F62PGJSM",
@@ -1937,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194893",
       "published_at": "2026-10-23T01:31:11+00:00",
-      "revalidated_at": "2026-10-23T17:25:19+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B00PXVTU5C",
@@ -1959,29 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194071",
       "published_at": "2026-10-23T01:31:11+00:00",
-      "revalidated_at": "2026-10-23T17:25:19+00:00"
-    },
-    {
-      "asin": "B0H7XH7DBR",
-      "title": "L'AGRATY Oversized Wearable Blanket Christmas Hoodie for Men or Women",
-      "title_es": "L'AGRATY Sudadera Manta Ponible Extragrande Navideña para Hombre o Mujer",
-      "headline": null,
-      "post": "Esta sudadera con capucha extragrande y ponible L'AGRATY combina la calidez de una manta con la comodidad de una sudadera, ideal para relajarse en casa. Es perfecta para hombres y mujeres que buscan máxima comodidad y un toque festivo, especialmente durante las fiestas navideñas.",
-      "post_en": "This L'AGRATY oversized wearable blanket hoodie combines the warmth of a blanket with the comfort of a sweatshirt, perfect for relaxing at home. It's ideal for men and women seeking ultimate coziness and a festive touch, especially during the Christmas season.",
-      "price_new": 16.49,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 45.0,
-      "rating": 4.8,
-      "condition": "code",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61fYp0jkHCL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H7XH7DBR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20194965",
-      "published_at": "2026-10-23T01:15:34+00:00",
-      "revalidated_at": "2026-10-23T17:25:19+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B000WMIROM",
@@ -2465,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193633",
       "published_at": "2026-10-22T21:16:02+00:00",
-      "revalidated_at": "2026-10-23T17:25:19+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B0G2T4BJDB",
@@ -2487,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20173848",
       "published_at": "2026-10-22T21:16:02+00:00",
-      "revalidated_at": "2026-10-23T17:25:19+00:00"
+      "revalidated_at": "2026-10-23T19:30:50+00:00"
     },
     {
       "asin": "B0B28G5Y4R",
