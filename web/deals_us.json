@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-23T18:30:49+00:00",
+  "generated_at": "2026-10-23T18:45:49+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0GR16Y1WM",
+      "title": "13-Inch Apple MacBook Air Laptop with M5 chip (16GB RAM, 1TB SSD, Starlight) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 139.0,
+      "price_old": 714.0,
+      "currency": "USD",
+      "discount_pct": 80.5,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22067697.thumb",
+      "url": "https://amazon.com/dp/B0GR16Y1WM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20198316",
+      "published_at": "2026-10-23T18:45:49+00:00",
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
+    },
+    {
+      "asin": "B0DHLHWZT7",
+      "title": "275-Pc LEGO Speed Champions Ferrari SF-24 F1 Race Car Building Set (77242) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 15.39,
+      "price_old": 26.99,
+      "currency": "USD",
+      "discount_pct": 43.0,
+      "rating": 4.9,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81SIAvPac3L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DHLHWZT7/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20197899",
+      "published_at": "2026-10-23T18:45:49+00:00",
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
+    },
+    {
+      "asin": "B0C3VNL29M",
+      "title": "Amazon – Solar Automatic Drip Irrigation Kit System, JIYANG Solar Powered -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.99,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": "code",
+      "code": "CJBNF8WT",
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/22066152.thumb",
+      "url": "https://amazon.com/dp/B0C3VNL29M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20197809",
+      "published_at": "2026-10-23T18:45:49+00:00",
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
+    },
     {
       "asin": "B0F9FK667T",
       "title": "2-Count Keyroal Stretch Dining Room Chair Slipcovers (Select Colors)",
@@ -14,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 92.9,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "DILV9N96",
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/22065699.thumb",
+      "image": "https://m.media-amazon.com/images/I/51ZFmPYK3sL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F9FK667T/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20197731",
@@ -80,11 +146,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 60.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/7/4/7/9/3/450x450/22066563.thumb",
+      "image": "https://m.media-amazon.com/images/I/91Ih2G6U8-L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DTYW5Y14/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20197935",
@@ -155,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20197008",
       "published_at": "2026-10-23T16:46:50+00:00",
-      "revalidated_at": "2026-10-23T16:46:50+00:00"
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
     },
     {
       "asin": "B0F6WG7SM9",
@@ -177,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20196930",
       "published_at": "2026-10-23T16:46:50+00:00",
-      "revalidated_at": "2026-10-23T16:46:50+00:00"
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
     },
     {
       "asin": "B0D1VHT3S6",
@@ -199,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20197503",
       "published_at": "2026-10-23T16:46:50+00:00",
-      "revalidated_at": "2026-10-23T16:46:50+00:00"
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
     },
     {
       "asin": "B08HV3MPFD",
@@ -705,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20196120",
       "published_at": "2026-10-23T12:32:01+00:00",
-      "revalidated_at": "2026-10-23T16:46:50+00:00"
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
     },
     {
       "asin": "B09HGML369",
@@ -727,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20196519",
       "published_at": "2026-10-23T12:19:32+00:00",
-      "revalidated_at": "2026-10-23T16:46:50+00:00"
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
     },
     {
       "asin": "B0DGZLGMX1",
@@ -749,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20195847",
       "published_at": "2026-10-23T12:19:32+00:00",
-      "revalidated_at": "2026-10-23T16:46:50+00:00"
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
     },
     {
       "asin": "0358359929",
@@ -771,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20192229",
       "published_at": "2026-10-23T12:19:32+00:00",
-      "revalidated_at": "2026-10-23T16:46:50+00:00"
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
     },
     {
       "asin": "B000GB1RAU",
@@ -793,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20196132",
       "published_at": "2026-10-23T12:19:32+00:00",
-      "revalidated_at": "2026-10-23T16:46:50+00:00"
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
     },
     {
       "asin": "B0FP4L5Z3H",
@@ -1057,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20192268",
       "published_at": "2026-10-23T09:01:50+00:00",
-      "revalidated_at": "2026-10-23T16:46:50+00:00"
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
     },
     {
       "asin": "B0B82Y74HR",
@@ -1079,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20195682",
       "published_at": "2026-10-23T08:45:41+00:00",
-      "revalidated_at": "2026-10-23T16:46:50+00:00"
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
     },
     {
       "asin": "B0714JYF2Y",
@@ -2377,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194152",
       "published_at": "2026-10-22T20:46:02+00:00",
-      "revalidated_at": "2026-10-23T16:15:48+00:00"
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
     },
     {
       "asin": "B0FYKGVZZ1",
@@ -2399,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193903",
       "published_at": "2026-10-22T20:31:00+00:00",
-      "revalidated_at": "2026-10-23T16:15:48+00:00"
+      "revalidated_at": "2026-10-23T18:45:49+00:00"
     },
     {
       "asin": "B0FXBJHMTF",
@@ -2576,50 +2642,6 @@
       "deal_key": "sd:20193762",
       "published_at": "2026-10-22T19:01:03+00:00",
       "revalidated_at": "2026-10-23T16:46:50+00:00"
-    },
-    {
-      "asin": "B0D4X3TCNC",
-      "title": "Thermaltake ASTRIA 200 Single Tower ARGB CPU Cooler at Amazon",
-      "title_es": "Disipador de CPU de Torre Única ARGB Thermaltake ASTRIA 200",
-      "headline": null,
-      "post": "El Thermaltake ASTRIA 200 es un potente disipador de CPU de torre única con iluminación ARGB, diseñado para mantener tu procesador fresco. Es una excelente opción para entusiastas del PC que buscan rendimiento y estética.",
-      "post_en": "The Thermaltake ASTRIA 200 is a powerful single-tower CPU cooler with ARGB lighting, designed to keep your processor cool. It's a great option for PC enthusiasts looking for both performance and aesthetics.",
-      "price_new": 19.99,
-      "price_old": 34.99,
-      "currency": "USD",
-      "discount_pct": 42.9,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61BWUtIzE9L._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D4X3TCNC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20185236",
-      "published_at": "2026-10-22T19:01:03+00:00",
-      "revalidated_at": "2026-10-23T17:16:01+00:00"
-    },
-    {
-      "asin": "B002JWSNIS",
-      "title": "45-Pc DEWALT Screwdriver Bit Set w/ Tough Case at Amazon",
-      "title_es": "Set de 45 Puntas de Destornillador DEWALT con Estuche Resistente",
-      "headline": null,
-      "post": "Este completo set DEWALT incluye 45 puntas de destornillador de alta calidad, presentadas en un estuche resistente para una organización y transporte sencillos. Imprescindible para cualquier aficionado al bricolaje o profesional que necesite versatilidad y durabilidad.",
-      "post_en": "This comprehensive DEWALT set includes 45 high-quality screwdriver bits, presented in a tough case for easy organization and transport. Essential for any DIY enthusiast or professional needing versatility and durability.",
-      "price_new": 9.98,
-      "price_old": 14.99,
-      "currency": "USD",
-      "discount_pct": 33.4,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81FHQxKgs7L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B002JWSNIS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20193834",
-      "published_at": "2026-10-22T19:01:03+00:00",
-      "revalidated_at": "2026-10-23T17:16:01+00:00"
     }
   ]
 }
