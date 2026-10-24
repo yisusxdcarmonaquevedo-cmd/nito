@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-24T03:15:43+00:00",
+  "generated_at": "2026-10-24T03:30:32+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0H3KQ1DM5",
+      "title": "Amazon - Scary Halloween Hanging Decorations Outdoor,4.6FT Hanging Swing Girl Doll -",
+      "title_es": "Decoración colgante de Halloween espeluznante para exteriores, muñeca de niña columpio de 4.6 pies",
+      "headline": null,
+      "post": "Esta muñeca colgante de 4.6 pies es una decoración espeluznante ideal para exteriores en Halloween. Perfecta para quienes buscan añadir un toque terrorífico y festivo a la entrada o jardín de su hogar durante la temporada.",
+      "post_en": "This 4.6FT hanging doll is a spooky outdoor decoration perfect for Halloween. Ideal for those looking to add a terrifying and festive touch to their home's entrance or garden during the season.",
+      "price_new": 21.99,
+      "price_old": 43.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/8/9/8/9/5/2/450x450/22051470.thumb",
+      "url": "https://amazon.com/dp/B0H3KQ1DM5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20192355",
+      "published_at": "2026-10-24T03:30:32+00:00",
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
+    },
     {
       "asin": "0141196882",
       "title": "Dracula (Penguin Clothbound Classics)",
@@ -617,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20199249",
       "published_at": "2026-10-23T23:45:47+00:00",
-      "revalidated_at": "2026-10-24T01:30:27+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "B0CQN2PKQR",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193513",
       "published_at": "2026-10-23T23:45:47+00:00",
-      "revalidated_at": "2026-10-24T01:30:27+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "B0GTZ86XRY",
@@ -652,16 +674,16 @@
       "price_old": 32.99,
       "currency": "USD",
       "discount_pct": 45.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "J07HOADA",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/22065705.thumb",
+      "image": "https://m.media-amazon.com/images/I/81P-j99Y3JL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GTZ86XRY/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20197671",
       "published_at": "2026-10-23T23:45:47+00:00",
-      "revalidated_at": "2026-10-24T01:30:27+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "B0738B8SQS",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20181696",
       "published_at": "2026-10-23T21:45:46+00:00",
-      "revalidated_at": "2026-10-24T01:30:27+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "B0H3T8234C",
@@ -1145,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20198538",
       "published_at": "2026-10-23T19:54:52+00:00",
-      "revalidated_at": "2026-10-24T01:30:27+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "B07T85L1TJ",
@@ -1167,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20196192",
       "published_at": "2026-10-23T19:54:52+00:00",
-      "revalidated_at": "2026-10-24T01:30:27+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "B0H3V8PN1H",
@@ -1409,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20196648",
       "published_at": "2026-10-23T18:00:55+00:00",
-      "revalidated_at": "2026-10-24T01:30:27+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "B0DTYW5Y14",
@@ -1541,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20197395",
       "published_at": "2026-10-23T15:52:41+00:00",
-      "revalidated_at": "2026-10-24T01:30:27+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "B09NXTVF8B",
@@ -1563,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194917",
       "published_at": "2026-10-23T15:52:41+00:00",
-      "revalidated_at": "2026-10-24T01:30:27+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "B0DR4Y6DXJ",
@@ -1695,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20196642",
       "published_at": "2026-10-23T14:16:04+00:00",
-      "revalidated_at": "2026-10-24T01:30:27+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "0143138871",
@@ -1717,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20192313",
       "published_at": "2026-10-23T14:16:04+00:00",
-      "revalidated_at": "2026-10-24T01:30:27+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "B0G29RKZ1H",
@@ -1739,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20190081",
       "published_at": "2026-10-23T14:00:58+00:00",
-      "revalidated_at": "2026-10-24T01:30:27+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "B0C7GGNQ3V",
@@ -1915,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20194056",
       "published_at": "2026-10-23T13:32:01+00:00",
-      "revalidated_at": "2026-10-24T01:29:35+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "B07VRFN6RY",
@@ -2201,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20195955",
       "published_at": "2026-10-23T11:28:28+00:00",
-      "revalidated_at": "2026-10-24T01:29:35+00:00"
+      "revalidated_at": "2026-10-24T03:30:32+00:00"
     },
     {
       "asin": "B0H8SLXBFY",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:20168169",
       "published_at": "2026-10-23T06:30:41+00:00",
       "revalidated_at": "2026-10-24T02:30:42+00:00"
-    },
-    {
-      "asin": "B0CHMJF78X",
-      "title": "Amazon – COONCXEN 10-Ft. 60W USB-C to USB-C Cable -",
-      "title_es": "COONCXEN Cable USB-C a USB-C de 3 Metros y 60W",
-      "headline": null,
-      "post": "Este es un cable COONCXEN USB-C a USB-C de 3 metros de longitud, capaz de entregar hasta 60W de potencia. Es perfecto para cargar rápidamente dispositivos compatibles y transferir datos, ofreciendo gran versatilidad para tu setup.",
-      "post_en": "This is a COONCXEN USB-C to USB-C cable, 10 feet long, capable of delivering up to 60W of power. It's perfect for fast charging compatible devices and transferring data, offering great versatility for your setup.",
-      "price_new": 4.49,
-      "price_old": 8.99,
-      "currency": "USD",
-      "discount_pct": 50.1,
-      "rating": 4.7,
-      "condition": "code",
-      "code": "GF67M3IV",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71Cdsm2wfWL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CHMJF78X/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20189229",
-      "published_at": "2026-10-23T05:45:41+00:00",
-      "revalidated_at": "2026-10-24T01:29:35+00:00"
     }
   ]
 }
