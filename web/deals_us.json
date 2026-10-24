@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-24T11:45:40+00:00",
+  "generated_at": "2026-10-24T12:01:13+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B01GW3M6EQ",
+      "title": "8-Oz High Brew Cold Brew Coffee (Double Espresso): 24-Pk",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.35,
+      "price_old": 23.95,
+      "currency": "USD",
+      "discount_pct": 52.6,
+      "rating": 4.3,
+      "condition": "sns",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81sxxZoX22L._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B01GW3M6EQ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20200629",
+      "published_at": "2026-10-24T12:01:13+00:00",
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
+    },
     {
       "asin": "B0DJ1BM44B",
       "title": "247-Piece LEGO Minecraft - The Armadillo Mine Expedition (21269, 2025) at Amazon",
@@ -312,28 +334,6 @@
       "revalidated_at": "2026-10-24T10:30:32+00:00"
     },
     {
-      "asin": "B07QWLN1JV",
-      "title": "10-Ct 0.67-Oz Air Wick Plug-In Scented Oil Refills (Summer Delights)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 12.4,
-      "price_old": 21.98,
-      "currency": "USD",
-      "discount_pct": 43.6,
-      "rating": 4.6,
-      "condition": "sns",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/811HWti8gnL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07QWLN1JV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20197521",
-      "published_at": "2026-10-24T06:15:46+00:00",
-      "revalidated_at": "2026-10-24T10:00:35+00:00"
-    },
-    {
       "asin": "B00NLVFO2O",
       "title": "Maxwell House K-Cup® Coffee Pods, 84 ct Box, House Blend Medium Roast or Maxwell House K-Cup Coffee Pods, 84 ct Box, Breakfast Blend Mild Roast",
       "title_es": null,
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20183589",
       "published_at": "2026-10-24T06:15:46+00:00",
-      "revalidated_at": "2026-10-24T10:00:35+00:00"
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
     },
     {
       "asin": "B0GVD88B6V",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20195484",
       "published_at": "2026-10-24T06:15:46+00:00",
-      "revalidated_at": "2026-10-24T10:00:35+00:00"
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
     },
     {
       "asin": "B0CH366CN3",
@@ -573,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20199504",
       "published_at": "2026-10-24T02:15:48+00:00",
-      "revalidated_at": "2026-10-24T10:00:35+00:00"
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
     },
     {
       "asin": "B0FTC9S9SS",
@@ -595,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20199816",
       "published_at": "2026-10-24T02:15:48+00:00",
-      "revalidated_at": "2026-10-24T10:00:35+00:00"
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
     },
     {
       "asin": "B000FZX93K",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20199930",
       "published_at": "2026-10-24T02:15:48+00:00",
-      "revalidated_at": "2026-10-24T10:00:35+00:00"
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
     },
     {
       "asin": "B0F9Y6R1XH",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20197227",
       "published_at": "2026-10-24T02:15:48+00:00",
-      "revalidated_at": "2026-10-24T10:00:35+00:00"
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
     },
     {
       "asin": "B0FBG5MMRR",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20197797",
       "published_at": "2026-10-23T22:30:56+00:00",
-      "revalidated_at": "2026-10-24T09:45:40+00:00"
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
     },
     {
       "asin": "B0CGZJDY84",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20196171",
       "published_at": "2026-10-23T22:30:56+00:00",
-      "revalidated_at": "2026-10-24T09:45:40+00:00"
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
     },
     {
       "asin": "B07DGSY91R",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20198700",
       "published_at": "2026-10-23T20:31:00+00:00",
-      "revalidated_at": "2026-10-24T09:45:40+00:00"
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
     },
     {
       "asin": "B07T85L1TJ",
@@ -1717,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20198316",
       "published_at": "2026-10-23T18:45:49+00:00",
-      "revalidated_at": "2026-10-24T09:45:40+00:00"
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
     },
     {
       "asin": "B0DHLHWZT7",
@@ -1739,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20197899",
       "published_at": "2026-10-23T18:45:49+00:00",
-      "revalidated_at": "2026-10-24T09:45:40+00:00"
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
     },
     {
       "asin": "B0C3VNL29M",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20197209",
       "published_at": "2026-10-23T18:30:49+00:00",
-      "revalidated_at": "2026-10-24T09:45:40+00:00"
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
     },
     {
       "asin": "B08VJP18XN",
@@ -2597,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20195955",
       "published_at": "2026-10-23T11:28:28+00:00",
-      "revalidated_at": "2026-10-24T09:45:40+00:00"
+      "revalidated_at": "2026-10-24T12:01:13+00:00"
     },
     {
       "asin": "B0H8SLXBFY",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20192661",
       "published_at": "2026-10-23T11:15:46+00:00",
       "revalidated_at": "2026-10-24T11:45:40+00:00"
-    },
-    {
-      "asin": "B0975HFFMM",
-      "title": "Hawanik Men's RFID Minimalist Wallet w/ Airtag Holder (Various colors) from",
-      "title_es": "Cartera Minimalista RFID Hawanik para Hombre con Soporte para Airtag (Varios Colores)",
-      "headline": null,
-      "post": "La cartera Hawanik es un accesorio minimalista con protección RFID y un práctico soporte para Airtag, ideal para hombres que valoran la seguridad y la organización. Disponible en varios colores, combina estilo y funcionalidad en un diseño compacto.",
-      "post_en": "The Hawanik wallet is a minimalist accessory with RFID protection and a practical Airtag holder, perfect for men who value security and organization. Available in various colors, it combines style and functionality in a compact design.",
-      "price_new": 5.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 84.3,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "RM3H0ZFS",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/711i6JnEHbL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0975HFFMM/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20195016",
-      "published_at": "2026-10-23T10:46:00+00:00",
-      "revalidated_at": "2026-10-24T10:15:41+00:00"
     }
   ]
 }
