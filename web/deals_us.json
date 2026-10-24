@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T16:15:55+00:00",
+  "generated_at": "2026-10-24T16:31:00+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B07DQ5B2MP",
@@ -36,11 +36,11 @@
       "price_old": 9.49,
       "currency": "USD",
       "discount_pct": 45.0,
-      "rating": null,
+      "rating": 4.8,
       "condition": "code",
       "code": "JC3TECCS",
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/22052958.thumb",
+      "image": "https://m.media-amazon.com/images/I/81OoABgFuwL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D7P73ZZY/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20192796",
@@ -124,11 +124,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 31.5,
-      "rating": null,
+      "rating": 4.8,
       "condition": "code",
       "code": "CZWPMSTJ",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/22074495.thumb",
+      "image": "https://m.media-amazon.com/images/I/715g6XlFXtL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H36CLN9Q/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20201580",
@@ -190,11 +190,11 @@
       "price_old": 75.91,
       "currency": "USD",
       "discount_pct": 58.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": "coupon",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/5/1/9/1/1/6/9/450x450/22074090.thumb",
+      "image": "https://m.media-amazon.com/images/I/81NwoFJIhTL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FQT7S14V/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20201430",
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20201349",
       "published_at": "2026-10-24T14:45:46+00:00",
-      "revalidated_at": "2026-10-24T14:45:46+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "B0169YYQL4",
@@ -256,11 +256,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 87.8,
-      "rating": null,
+      "rating": 4.4,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/22070172.thumb",
+      "image": "https://m.media-amazon.com/images/I/71X0lcmuhKL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0169YYQL4/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20199300",
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20184900",
       "published_at": "2026-10-24T12:46:12+00:00",
-      "revalidated_at": "2026-10-24T14:45:46+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "B074N8ZYLX",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20200782",
       "published_at": "2026-10-24T12:46:12+00:00",
-      "revalidated_at": "2026-10-24T14:45:46+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "B000ZMIWTE",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20200527",
       "published_at": "2026-10-24T12:46:12+00:00",
-      "revalidated_at": "2026-10-24T14:45:46+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "0670013110",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20199987",
       "published_at": "2026-10-24T08:30:51+00:00",
-      "revalidated_at": "2026-10-24T14:30:55+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "B0D3631X1B",
@@ -881,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20196090",
       "published_at": "2026-10-24T06:30:36+00:00",
-      "revalidated_at": "2026-10-24T14:30:55+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "B00NLVFO2O",
@@ -992,28 +992,6 @@
       "deal_key": "sd:20199699",
       "published_at": "2026-10-24T05:30:25+00:00",
       "revalidated_at": "2026-10-24T15:00:38+00:00"
-    },
-    {
-      "asin": "B0H2M223NL",
-      "title": "Lyeasw 7\" Solar Outdoor Miniature Goose Garden Statue",
-      "title_es": "Lyeasw Estatua de Jardín de Ganso Miniatura Solar de 7\"",
-      "headline": null,
-      "post": "Esta encantadora estatua de ganso en miniatura, con iluminación solar, es perfecta para añadir un toque decorativo a tu jardín o patio. Fabricada para exteriores, se carga con la luz del sol y se ilumina automáticamente al anochecer.",
-      "post_en": "This charming miniature goose statue, featuring solar lighting, is perfect for adding a decorative touch to your garden or patio. Designed for outdoor use, it charges with sunlight and illuminates automatically at dusk.",
-      "price_new": 10.0,
-      "price_old": 19.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "UFGLXK1U",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/713XC0hi-3L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H2M223NL/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20197314",
-      "published_at": "2026-10-24T04:45:32+00:00",
-      "revalidated_at": "2026-10-24T14:45:46+00:00"
     },
     {
       "asin": "B0GVTT1Z5K",
@@ -1299,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20199348",
       "published_at": "2026-10-24T01:15:48+00:00",
-      "revalidated_at": "2026-10-24T14:45:46+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "B0GZ2BNW4D",
@@ -1321,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20192427",
       "published_at": "2026-10-24T01:15:48+00:00",
-      "revalidated_at": "2026-10-24T14:45:46+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "B0CKN1N2YH",
@@ -1453,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20199276",
       "published_at": "2026-10-24T00:30:52+00:00",
-      "revalidated_at": "2026-10-24T14:30:55+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "B0H14ZLHY5",
@@ -1475,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20199303",
       "published_at": "2026-10-24T00:30:52+00:00",
-      "revalidated_at": "2026-10-24T14:30:55+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "B0GC6P7X89",
@@ -1497,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20198574",
       "published_at": "2026-10-24T00:30:52+00:00",
-      "revalidated_at": "2026-10-24T14:30:55+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "B0H2JFSNYF",
@@ -1519,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20199381",
       "published_at": "2026-10-24T00:30:52+00:00",
-      "revalidated_at": "2026-10-24T14:30:55+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "B0F9XSHF3G",
@@ -1739,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20189379",
       "published_at": "2026-10-23T22:45:54+00:00",
-      "revalidated_at": "2026-10-24T14:30:55+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "B0DRYPMFPP",
@@ -2047,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20198931",
       "published_at": "2026-10-23T20:45:58+00:00",
-      "revalidated_at": "2026-10-24T14:30:55+00:00"
+      "revalidated_at": "2026-10-24T16:31:00+00:00"
     },
     {
       "asin": "B09XW9ZPCT",
