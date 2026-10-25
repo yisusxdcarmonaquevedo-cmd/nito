@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-25T17:45:42+00:00",
+  "generated_at": "2026-10-25T18:16:01+00:00",
   "market": "us",
-  "count": 118,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B00H7GWBVQ",
+      "title": "Amazon: Apple 30-pin to USB Cable (Reg",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.33,
+      "price_old": 14.99,
+      "currency": "USD",
+      "discount_pct": 77.8,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/41TxQxdqP8L._SL1024_.jpg",
+      "url": "https://amazon.com/dp/B00H7GWBVQ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20205099",
+      "published_at": "2026-10-25T18:16:01+00:00",
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
+    },
+    {
+      "asin": "B0FM4CMVR3",
+      "title": "TWO Pairs Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Wireless Over-Ear Bluetooth, 40H Long ANC Playtime（White & Blue）",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 46.73,
+      "price_old": 139.98,
+      "currency": "USD",
+      "discount_pct": 66.6,
+      "rating": 5.0,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61Z9CnCbDiL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FM4CMVR3/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20205291",
+      "published_at": "2026-10-25T18:16:01+00:00",
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
+    },
+    {
+      "asin": "B0CS3V8M9H",
+      "title": "Ninja Air Fryer XL with MaxCrisp, 6.5 Qt, 6-in-1, Grey, AF181 at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 99.99,
+      "price_old": 179.99,
+      "currency": "USD",
+      "discount_pct": 44.4,
+      "rating": 4.3,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61TH-Ig6i-L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CS3V8M9H/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20204469",
+      "published_at": "2026-10-25T18:16:01+00:00",
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
+    },
+    {
+      "asin": "B09HRKRR87",
+      "title": "Greenworks 24V 13in Push Lawn Mower, 4.0 Ah Battery and Charger at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 149.99,
+      "price_old": 259.99,
+      "currency": "USD",
+      "discount_pct": 42.3,
+      "rating": 4.3,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71VKx8xPG8L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09HRKRR87/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20203677",
+      "published_at": "2026-10-25T18:16:01+00:00",
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
+    },
     {
       "asin": "B0H6H2D3JF",
       "title": "Pre-order Magic: The Gathering Star Trek Play Booster Box",
@@ -573,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20203470",
       "published_at": "2026-10-25T12:15:46+00:00",
-      "revalidated_at": "2026-10-25T16:00:52+00:00"
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
     },
     {
       "asin": "B0BQX55FSH",
@@ -925,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20177871",
       "published_at": "2026-10-25T08:45:39+00:00",
-      "revalidated_at": "2026-10-25T16:00:52+00:00"
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
     },
     {
       "asin": "B08SYJ32T3",
@@ -1343,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20174088",
       "published_at": "2026-10-25T03:01:04+00:00",
-      "revalidated_at": "2026-10-25T16:00:52+00:00"
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
     },
     {
       "asin": "B0CV7M7VJB",
@@ -1365,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20183331",
       "published_at": "2026-10-25T03:01:04+00:00",
-      "revalidated_at": "2026-10-25T16:00:52+00:00"
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
     },
     {
       "asin": "B0DHRFYWX7",
@@ -1387,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20203017",
       "published_at": "2026-10-25T03:01:04+00:00",
-      "revalidated_at": "2026-10-25T16:00:52+00:00"
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
     },
     {
       "asin": "B0DC1KZL88",
@@ -1409,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20200242",
       "published_at": "2026-10-25T03:01:04+00:00",
-      "revalidated_at": "2026-10-25T16:00:52+00:00"
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
     },
     {
       "asin": "B003L7DK60",
@@ -1563,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20202660",
       "published_at": "2026-10-25T01:00:55+00:00",
-      "revalidated_at": "2026-10-25T16:00:52+00:00"
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
     },
     {
       "asin": "B0GX7MK7JB",
@@ -1585,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20202633",
       "published_at": "2026-10-25T01:00:55+00:00",
-      "revalidated_at": "2026-10-25T16:00:52+00:00"
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
     },
     {
       "asin": "B0F637YDTD",
@@ -1695,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20201916",
       "published_at": "2026-10-25T00:30:46+00:00",
-      "revalidated_at": "2026-10-25T15:45:38+00:00"
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
     },
     {
       "asin": "B07G824Z3V",
@@ -2025,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20202486",
       "published_at": "2026-10-24T22:30:40+00:00",
-      "revalidated_at": "2026-10-25T15:45:38+00:00"
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
     },
     {
       "asin": "B0FQ5S774H",
@@ -2245,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20201310",
       "published_at": "2026-10-24T20:47:13+00:00",
-      "revalidated_at": "2026-10-25T15:45:38+00:00"
+      "revalidated_at": "2026-10-25T18:16:01+00:00"
     },
     {
       "asin": "B0GVPMW9DL",
@@ -2553,50 +2641,6 @@
       "source": "slickdeals",
       "deal_key": "sd:20201724",
       "published_at": "2026-10-24T18:30:51+00:00",
-      "revalidated_at": "2026-10-25T16:00:52+00:00"
-    },
-    {
-      "asin": "B0F2HVC47R",
-      "title": "Amazon – Soothfeel Women's 3\" Running Shorts -",
-      "title_es": "Shorts de running Soothfeel de 3\" para mujer",
-      "headline": null,
-      "post": "Disfruta de la comodidad al correr con estos shorts Soothfeel de 3\" para mujer. Su diseño ligero y transpirable es ideal para tus entrenamientos o actividades deportivas.",
-      "post_en": "Enjoy comfort while running with these Soothfeel 3\" women's running shorts. Their lightweight and breathable design is ideal for your workouts or sports activities.",
-      "price_new": 9.99,
-      "price_old": 25.99,
-      "currency": "USD",
-      "discount_pct": 61.6,
-      "rating": 4.2,
-      "condition": "code",
-      "code": "7O53W3TE",
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/71NCH7wzGzL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F2HVC47R/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20201934",
-      "published_at": "2026-10-24T18:15:58+00:00",
-      "revalidated_at": "2026-10-25T15:45:38+00:00"
-    },
-    {
-      "asin": "B0FMWZNRHN",
-      "title": "Criusia 40.2\" Underbed Gift Wrapping Paper Organizer Storage Bag w/ Removable Dividers (Grey)",
-      "title_es": "Organizador de papel de regalo Criusia de 40.2\" para debajo de la cama con divisores (Gris)",
-      "headline": null,
-      "post": "Mantén tu papel de regalo y accesorios ordenados con este organizador Criusia para debajo de la cama. Sus divisores removibles te permiten personalizar el espacio, ideal para guardar de forma compacta.",
-      "post_en": "Keep your gift wrapping paper and accessories tidy with this Criusia underbed organizer. Its removable dividers allow you to customize the space, ideal for compact storage.",
-      "price_new": 13.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 61.5,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "D4S393C8",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81VWL7PbluL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FMWZNRHN/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20201553",
-      "published_at": "2026-10-24T18:15:58+00:00",
       "revalidated_at": "2026-10-25T16:00:52+00:00"
     }
   ]
