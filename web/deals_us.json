@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-26T23:17:50+00:00",
+  "generated_at": "2026-10-26T23:45:52+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0GJ6QGQDM",
+      "title": "Amazon – ST38 Outdoor String Lights,54FT Waterproof LED Patio Lights Dimmable -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 17.99,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": null,
+      "condition": "code",
+      "code": "30J0HDJ0",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/22064814.thumb",
+      "url": "https://amazon.com/dp/B0GJ6QGQDM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20197452",
+      "published_at": "2026-10-26T23:45:52+00:00",
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
+    },
+    {
+      "asin": "B0DWSVPY33",
+      "title": "10\" Tramontina Tempo Tri-Ply Base Stainless Steel Frying Pan",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 22.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 37.1,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/4/1/3/2/6/0/450x450/22086447.thumb",
+      "url": "https://amazon.com/dp/B0DWSVPY33/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20207589",
+      "published_at": "2026-10-26T23:45:52+00:00",
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
+    },
     {
       "asin": "B0D7V7QFGK",
       "title": "Geeneu 4500A Jump Box for Car Battery Portable Jumper Cables with Battery Pack and 150PSI Air Pump",
@@ -58,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 70.9,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "B5CJ7RSA",
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/22099692.thumb",
+      "image": "https://m.media-amazon.com/images/I/91z-A4TbjiL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F99F8RLM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20212851",
@@ -80,11 +124,11 @@
       "price_old": 199.95,
       "currency": "USD",
       "discount_pct": 45.5,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22099614.thumb",
+      "image": "https://m.media-amazon.com/images/I/71LTIRFhluL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F4LZ79KZ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20212812",
@@ -224,28 +268,6 @@
       "revalidated_at": "2026-10-26T21:50:36+00:00"
     },
     {
-      "asin": "B0D4WM61JN",
-      "title": "Casio WS-B1000 Men's Digital Sport Watch w/ Step Tracker & 100M Water Resistance (Black) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 23.88,
-      "price_old": 64.95,
-      "currency": "USD",
-      "discount_pct": 63.2,
-      "rating": 4.1,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61RjPrhZiML._AC_SL1102_.jpg",
-      "url": "https://amazon.com/dp/B0D4WM61JN/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20212497",
-      "published_at": "2026-10-26T21:45:55+00:00",
-      "revalidated_at": "2026-10-26T21:45:55+00:00"
-    },
-    {
       "asin": "B0C9RV75BF",
       "title": "Ekouaer Christmas Onesie for Women Hooded Jumpsuit Sexy One Piece Pajamas",
       "title_es": null,
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20211945",
       "published_at": "2026-10-26T21:45:55+00:00",
-      "revalidated_at": "2026-10-26T21:45:55+00:00"
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
     },
     {
       "asin": "B0BKR54R6S",
@@ -507,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20210694",
       "published_at": "2026-10-26T19:45:50+00:00",
-      "revalidated_at": "2026-10-26T21:45:55+00:00"
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
     },
     {
       "asin": "B0HB4ZPDF4",
@@ -683,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20209917",
       "published_at": "2026-10-26T17:45:36+00:00",
-      "revalidated_at": "2026-10-26T21:45:55+00:00"
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
     },
     {
       "asin": "B0H3PFMWLZ",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20210517",
       "published_at": "2026-10-26T17:45:36+00:00",
-      "revalidated_at": "2026-10-26T21:45:55+00:00"
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
     },
     {
       "asin": "B0FQWNGY9F",
@@ -969,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20210247",
       "published_at": "2026-10-26T16:00:59+00:00",
-      "revalidated_at": "2026-10-26T21:45:55+00:00"
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
     },
     {
       "asin": "B07PFYHB69",
@@ -991,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20209365",
       "published_at": "2026-10-26T16:00:59+00:00",
-      "revalidated_at": "2026-10-26T21:45:55+00:00"
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
     },
     {
       "asin": "B01E3UIR02",
@@ -1805,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20208027",
       "published_at": "2026-10-26T09:54:20+00:00",
-      "revalidated_at": "2026-10-26T21:45:55+00:00"
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
     },
     {
       "asin": "B0CLYPSRXY",
@@ -1871,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20182509",
       "published_at": "2026-10-26T07:31:00+00:00",
-      "revalidated_at": "2026-10-26T21:45:55+00:00"
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
     },
     {
       "asin": "B08C73KK4R",
@@ -1893,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20207271",
       "published_at": "2026-10-26T07:31:00+00:00",
-      "revalidated_at": "2026-10-26T21:45:55+00:00"
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
     },
     {
       "asin": "B0GG15FQ8B",
@@ -2047,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20206641",
       "published_at": "2026-10-26T03:49:16+00:00",
-      "revalidated_at": "2026-10-26T21:45:55+00:00"
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
     },
     {
       "asin": "B0GTZZ6ZGK",
@@ -2465,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20205594",
       "published_at": "2026-10-26T01:16:11+00:00",
-      "revalidated_at": "2026-10-26T21:31:06+00:00"
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
     },
     {
       "asin": "B01CKIZ8BA",
@@ -2597,51 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20205879",
       "published_at": "2026-10-26T01:03:38+00:00",
-      "revalidated_at": "2026-10-26T21:31:06+00:00"
-    },
-    {
-      "asin": "B08SRSRN7G",
-      "title": "12-Pack Premier Protein 30g Chocolate Peanut Butter Protein Shakes",
-      "title_es": "Pack de 12 batidos de proteínas Premier Protein 30g sabor Chocolate Peanut Butter",
-      "headline": null,
-      "post": "Consigue este pack de 12 batidos de proteínas Premier Protein de 30g con sabor a chocolate y mantequilla de cacahuete. Son una opción práctica y deliciosa para complementar tu dieta o recuperarte después del ejercicio.",
-      "post_en": "Get this 12-pack of Premier Protein 30g Chocolate Peanut Butter Protein Shakes. They are a practical and delicious option to supplement your diet or recover after exercise.",
-      "price_new": 19.75,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 43.6,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71cBQQgE7HL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B08SRSRN7G/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20206374",
-      "published_at": "2026-10-26T01:03:38+00:00",
-      "revalidated_at": "2026-10-26T21:31:06+00:00"
-    },
-    {
-      "asin": "B0H3KQ984C",
-      "title": "Coolife Carry-On 100% PC Hardshell Expandable Luggage with GlideSpring Wheels",
-      "title_es": "Maleta de cabina Coolife Hardshell 100% PC expandible con ruedas GlideSpring",
-      "headline": null,
-      "post": "Prepárate para tus viajes con la maleta de cabina Coolife Hardshell 100% PC, expandible y con ruedas GlideSpring. Su diseño resistente y funcional la hace ideal para viajes cortos y como equipaje de mano.",
-      "post_en": "Get ready for your travels with the Coolife Carry-On 100% PC Hardshell Expandable Luggage with GlideSpring Wheels. Its durable and functional design makes it ideal for short trips and as carry-on baggage.",
-      "price_new": 63.79,
-      "price_old": 109.99,
-      "currency": "USD",
-      "discount_pct": 42.0,
-      "rating": 4.3,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71ags43Li8L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H3KQ984C/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20206248",
-      "published_at": "2026-10-26T01:03:38+00:00",
-      "revalidated_at": "2026-10-26T21:45:55+00:00"
+      "revalidated_at": "2026-10-26T23:45:52+00:00"
     }
   ]
 }
