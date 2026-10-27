@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-27T18:45:47+00:00",
+  "generated_at": "2026-10-27T19:00:51+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0DTBFNLCJ",
+      "title": "Lenovo IdeaPad Pro 5-2025 - 16\" OLED 2880 x 1800 120Hz Display - 16GB - 1 TB - Ryzen AI 7 350 - NVIDIA RTX 5050 - Win 11 Home - Luna Grey",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 109.0,
+      "price_old": 844.0,
+      "currency": "USD",
+      "discount_pct": 87.1,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/22111413.thumb",
+      "url": "https://amazon.com/dp/B0DTBFNLCJ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20217999",
+      "published_at": "2026-10-27T19:00:51+00:00",
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
+    },
     {
       "asin": "B0F3X9P337",
       "title": "DCK 58V 26\" Cordless Brushless Hedge Trimmer w/ 2.5Ah Battery & 5A Fast Charger",
@@ -58,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 42.9,
-      "rating": null,
+      "rating": 4.5,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/0/4/3/8/5/9/5/450x450/22110264.thumb",
+      "image": "https://m.media-amazon.com/images/I/712qDPeAHpL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FM8S7W9W/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20217510",
@@ -243,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20211867",
       "published_at": "2026-10-27T17:15:57+00:00",
-      "revalidated_at": "2026-10-27T17:15:57+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B000NWDSAE",
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20216439",
       "published_at": "2026-10-27T17:15:57+00:00",
-      "revalidated_at": "2026-10-27T17:15:57+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B0F9YDZKL1",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20217612",
       "published_at": "2026-10-27T17:15:57+00:00",
-      "revalidated_at": "2026-10-27T17:15:57+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B0D5Y98VLG",
@@ -309,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20216976",
       "published_at": "2026-10-27T17:15:57+00:00",
-      "revalidated_at": "2026-10-27T17:15:57+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B0F4DKZRGQ",
@@ -595,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20216415",
       "published_at": "2026-10-27T15:15:45+00:00",
-      "revalidated_at": "2026-10-27T17:15:57+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B07DGFQN1R",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20215206",
       "published_at": "2026-10-27T13:15:49+00:00",
-      "revalidated_at": "2026-10-27T17:15:57+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B0CCWDTSKW",
@@ -925,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20212914",
       "published_at": "2026-10-27T13:15:49+00:00",
-      "revalidated_at": "2026-10-27T17:15:57+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B0FRNF72VP",
@@ -1651,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20210946",
       "published_at": "2026-10-27T03:16:04+00:00",
-      "revalidated_at": "2026-10-27T17:00:54+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B0DS6KHL3G",
@@ -1673,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20213454",
       "published_at": "2026-10-27T03:16:04+00:00",
-      "revalidated_at": "2026-10-27T17:00:54+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B0FZKGLSPM",
@@ -1695,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20213820",
       "published_at": "2026-10-27T03:16:04+00:00",
-      "revalidated_at": "2026-10-27T17:00:54+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B0GV2S6GTZ",
@@ -1739,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20211015",
       "published_at": "2026-10-27T01:30:53+00:00",
-      "revalidated_at": "2026-10-27T17:00:54+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B0GW89SYZ2",
@@ -1915,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20197452",
       "published_at": "2026-10-26T23:45:52+00:00",
-      "revalidated_at": "2026-10-27T17:00:54+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B0DWSVPY33",
@@ -1937,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20207589",
       "published_at": "2026-10-26T23:45:52+00:00",
-      "revalidated_at": "2026-10-27T17:15:57+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B0D7V7QFGK",
@@ -1959,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20211201",
       "published_at": "2026-10-26T23:17:50+00:00",
-      "revalidated_at": "2026-10-27T17:15:57+00:00"
+      "revalidated_at": "2026-10-27T19:00:51+00:00"
     },
     {
       "asin": "B0DK2H7G5G",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:20204703",
       "published_at": "2026-10-26T17:00:56+00:00",
       "revalidated_at": "2026-10-27T18:30:47+00:00"
-    },
-    {
-      "asin": "B089X2NKFV",
-      "title": "Shark Cordless Vacuum Cleaner, Red, IZ362H | HEPA Filter, Lightweight, Pet Hair Pickup, Removable Handheld, Crevice, Upholstery & Dusting Brush Included, 40-Min Runtime",
-      "title_es": "Aspiradora Inalámbrica Shark IZ362H con Filtro HEPA y Accesorios",
-      "headline": null,
-      "post": "La aspiradora inalámbrica Shark IZ362H es ligera y potente, ideal para hogares con mascotas gracias a su filtro HEPA y accesorios específicos. Ofrece hasta 40 minutos de autonomía y se convierte en aspiradora de mano para una limpieza versátil.",
-      "post_en": "The Shark IZ362H cordless vacuum cleaner is lightweight and powerful, perfect for pet owners thanks to its HEPA filter and specialized attachments. It offers up to 40 minutes of runtime and converts to a handheld vacuum for versatile cleaning.",
-      "price_new": 199.99,
-      "price_old": 349.99,
-      "currency": "USD",
-      "discount_pct": 42.9,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71kO-pMnPIL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B089X2NKFV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20208339",
-      "published_at": "2026-10-26T16:45:48+00:00",
-      "revalidated_at": "2026-10-27T18:11:55+00:00"
     }
   ]
 }
