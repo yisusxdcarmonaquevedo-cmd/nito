@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-28T21:00:49+00:00",
+  "generated_at": "2026-10-28T21:15:46+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0H2MJWFCZ",
+      "title": "VEKK 6000mAh Rechargeable 3-Speed Neck Fan w/ LED Display",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 77.2,
+      "rating": null,
+      "condition": "code",
+      "code": "YRVDXHG9",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/22125129.thumb",
+      "url": "https://amazon.com/dp/B0H2MJWFCZ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20223642",
+      "published_at": "2026-10-28T21:15:46+00:00",
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
+    },
     {
       "asin": "B0H1H9Z1D1",
       "title": "2-Pc Arenarug Scalloped Wavy Lattice Kitchen Mat Set (4 colors, 17.3\"x30\" + 17.3\"x47\")",
@@ -102,11 +124,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 71.5,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "9YKMNVHN",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/22044864.thumb",
+      "image": "https://m.media-amazon.com/images/I/61p4m2HMtJL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BYYV2DTH/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20189358",
@@ -134,28 +156,6 @@
       "deal_key": "sd:20218818",
       "published_at": "2026-10-28T19:45:44+00:00",
       "revalidated_at": "2026-10-28T19:45:44+00:00"
-    },
-    {
-      "asin": "B00SOU6LR4",
-      "title": "DeWALT 20V Max XR Oscillating Multi-Tool Kit w/ 2Ah Battery/Charger at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 99.0,
-      "price_old": 299.0,
-      "currency": "USD",
-      "discount_pct": 66.9,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22124796.thumb",
-      "url": "https://amazon.com/dp/B00SOU6LR4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20223522",
-      "published_at": "2026-10-28T19:30:44+00:00",
-      "revalidated_at": "2026-10-28T19:30:44+00:00"
     },
     {
       "asin": "B0HHWNJBJD",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20223306",
       "published_at": "2026-10-28T17:30:36+00:00",
-      "revalidated_at": "2026-10-28T19:30:44+00:00"
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
     },
     {
       "asin": "B0DT6W8ZFC",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20222484",
       "published_at": "2026-10-28T15:30:57+00:00",
-      "revalidated_at": "2026-10-28T19:30:44+00:00"
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
     },
     {
       "asin": "B0H1MDGTBY",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20222361",
       "published_at": "2026-10-28T15:30:57+00:00",
-      "revalidated_at": "2026-10-28T19:30:44+00:00"
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
     },
     {
       "asin": "B0DJ1BV2TX",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20220837",
       "published_at": "2026-10-28T15:30:57+00:00",
-      "revalidated_at": "2026-10-28T19:30:44+00:00"
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
     },
     {
       "asin": "B0FMS9ST4S",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20221665",
       "published_at": "2026-10-28T15:30:57+00:00",
-      "revalidated_at": "2026-10-28T19:30:44+00:00"
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
     },
     {
       "asin": "B0GCCYHWNR",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20216952",
       "published_at": "2026-10-28T09:46:03+00:00",
-      "revalidated_at": "2026-10-28T19:30:44+00:00"
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
     },
     {
       "asin": "B0F79TXG3M",
@@ -1475,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20219229",
       "published_at": "2026-10-28T09:46:03+00:00",
-      "revalidated_at": "2026-10-28T19:30:44+00:00"
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
     },
     {
       "asin": "B0CZSBYB5V",
@@ -1739,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20218200",
       "published_at": "2026-10-28T05:30:32+00:00",
-      "revalidated_at": "2026-10-28T19:15:44+00:00"
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
     },
     {
       "asin": "B0HJC54TGR",
@@ -1893,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20219529",
       "published_at": "2026-10-28T03:30:41+00:00",
-      "revalidated_at": "2026-10-28T19:30:44+00:00"
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
     },
     {
       "asin": "B0HHPBTH6P",
@@ -1915,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20220015",
       "published_at": "2026-10-28T03:15:43+00:00",
-      "revalidated_at": "2026-10-28T19:30:44+00:00"
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
     },
     {
       "asin": "B0GQJM6T48",
@@ -1937,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20219814",
       "published_at": "2026-10-28T03:15:43+00:00",
-      "revalidated_at": "2026-10-28T19:30:44+00:00"
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
     },
     {
       "asin": "B0F8HJGL3B",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20218092",
       "published_at": "2026-10-28T01:16:10+00:00",
-      "revalidated_at": "2026-10-28T19:15:44+00:00"
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
     },
     {
       "asin": "B0F8H9KVT8",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20217690",
       "published_at": "2026-10-28T01:16:10+00:00",
-      "revalidated_at": "2026-10-28T19:15:44+00:00"
+      "revalidated_at": "2026-10-28T21:15:46+00:00"
     },
     {
       "asin": "B0DZ2BCZY4",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20219058",
       "published_at": "2026-10-28T00:30:40+00:00",
       "revalidated_at": "2026-10-28T20:30:49+00:00"
-    },
-    {
-      "asin": "B0015B5AJY",
-      "title": "RIDGID 19238 NaviTrack Scout Locator, Underground Pipe Locator and Underground Cable Location Device Small",
-      "title_es": "Localizador de tuberías y cables subterráneos RIDGID 19238 NaviTrack Scout",
-      "headline": null,
-      "post": "El RIDGID NaviTrack Scout es un localizador subterráneo diseñado para detectar tuberías y cables. Es ideal para profesionales y aficionados al bricolaje que necesitan identificar la ubicación exacta de infraestructuras ocultas con precisión.",
-      "post_en": "The RIDGID NaviTrack Scout is an underground locator designed to detect pipes and cables. It's ideal for professionals and serious DIYers who need to accurately identify the exact location of hidden infrastructure.",
-      "price_new": 143.0,
-      "price_old": 712.0,
-      "currency": "USD",
-      "discount_pct": 79.9,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/22113624.thumb",
-      "url": "https://amazon.com/dp/B0015B5AJY/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20219103",
-      "published_at": "2026-10-28T00:15:50+00:00",
-      "revalidated_at": "2026-10-28T20:00:43+00:00"
     }
   ]
 }
