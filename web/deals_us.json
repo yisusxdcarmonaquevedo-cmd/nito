@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-29T19:30:42+00:00",
+  "generated_at": "2026-10-29T19:45:41+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B004JHYRAO",
+      "title": "The Caves of Steel (The Robot Series Book 1) (eBook) by Isaac Asimov",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.99,
+      "price_old": 6.99,
+      "currency": "USD",
+      "discount_pct": 57.2,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22137261.thumb",
+      "url": "https://amazon.com/dp/B004JHYRAO/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20227710",
+      "published_at": "2026-10-29T19:45:41+00:00",
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
+    },
+    {
+      "asin": "B0BX3LBB5M",
+      "title": "Amazon – TOYOCO 35% VLT Ceramic Car Window Tint Film -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.39,
+      "price_old": 10.79,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": "code",
+      "code": "HN1OFJL5",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/22108275.thumb",
+      "url": "https://amazon.com/dp/B0BX3LBB5M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20216709",
+      "published_at": "2026-10-29T19:45:41+00:00",
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
+    },
     {
       "asin": "B0000302YN",
       "title": "Dremel 290-02 120-Volt Engraver Rotary Tool w/ Stencils at Amazon",
@@ -58,11 +102,11 @@
       "price_old": 17.99,
       "currency": "USD",
       "discount_pct": 30.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "ZMKG22QU",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/2/4/9/0/7/0/8/450x450/22109076.thumb",
+      "image": "https://m.media-amazon.com/images/I/51MhQa1NGfL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0HCBS1Q7K/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20216988",
@@ -155,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20227581",
       "published_at": "2026-10-29T17:45:35+00:00",
-      "revalidated_at": "2026-10-29T17:45:35+00:00"
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
     },
     {
       "asin": "B0DHY9DTRX",
@@ -397,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20212545",
       "published_at": "2026-10-29T16:00:46+00:00",
-      "revalidated_at": "2026-10-29T17:45:35+00:00"
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
     },
     {
       "asin": "B002KS94PW",
@@ -683,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20225790",
       "published_at": "2026-10-29T14:00:36+00:00",
-      "revalidated_at": "2026-10-29T17:45:35+00:00"
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
     },
     {
       "asin": "B01K1K7ONO",
@@ -705,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20224668",
       "published_at": "2026-10-29T13:45:46+00:00",
-      "revalidated_at": "2026-10-29T17:45:35+00:00"
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
     },
     {
       "asin": "B0GR19X8DC",
@@ -815,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20226426",
       "published_at": "2026-10-29T11:45:34+00:00",
-      "revalidated_at": "2026-10-29T17:45:35+00:00"
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
     },
     {
       "asin": "B07KHG79Z8",
@@ -837,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20226240",
       "published_at": "2026-10-29T11:45:34+00:00",
-      "revalidated_at": "2026-10-29T17:45:35+00:00"
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
     },
     {
       "asin": "B0HBPKXMS9",
@@ -969,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20221944",
       "published_at": "2026-10-29T06:15:26+00:00",
-      "revalidated_at": "2026-10-29T17:45:35+00:00"
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
     },
     {
       "asin": "B0FWBTVTCL",
@@ -1123,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20223324",
       "published_at": "2026-10-29T02:30:32+00:00",
-      "revalidated_at": "2026-10-29T17:45:35+00:00"
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
     },
     {
       "asin": "B0FZKBL6WJ",
@@ -1431,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20224845",
       "published_at": "2026-10-29T00:30:44+00:00",
-      "revalidated_at": "2026-10-29T17:45:35+00:00"
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
     },
     {
       "asin": "B09LRGF5L3",
@@ -1453,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20224683",
       "published_at": "2026-10-29T00:15:35+00:00",
-      "revalidated_at": "2026-10-29T17:45:35+00:00"
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
     },
     {
       "asin": "B0H3KSDYVT",
@@ -2509,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20219430",
       "published_at": "2026-10-28T14:30:52+00:00",
-      "revalidated_at": "2026-10-29T17:30:40+00:00"
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
     },
     {
       "asin": "B0BS1PSMLH",
@@ -2531,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20217276",
       "published_at": "2026-10-28T14:24:02+00:00",
-      "revalidated_at": "2026-10-29T17:30:40+00:00"
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
     },
     {
       "asin": "B0GRVFV1ZH",
@@ -2575,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20222370",
       "published_at": "2026-10-28T14:15:54+00:00",
-      "revalidated_at": "2026-10-29T17:30:40+00:00"
+      "revalidated_at": "2026-10-29T19:45:41+00:00"
     },
     {
       "asin": "B0DRW3KMXK",
@@ -2598,50 +2642,6 @@
       "deal_key": "sd:20221524",
       "published_at": "2026-10-28T14:15:54+00:00",
       "revalidated_at": "2026-10-29T17:45:35+00:00"
-    },
-    {
-      "asin": "B0F9F6B875",
-      "title": "2-Count Linkind Matter Smart Color-Changing B11 E12 Candelabra LED Light Bulbs",
-      "title_es": "Pack de 2 bombillas LED inteligentes Linkind Matter B11 E12 Candelabra",
-      "headline": null,
-      "post": "Este pack de 2 bombillas LED inteligentes Linkind Matter B11 E12 Candelabra permite cambiar de color y se integra con sistemas domóticos. Son perfectas para crear ambientes personalizados en cualquier habitación.",
-      "post_en": "This 2-pack of Linkind Matter B11 E12 Candelabra smart LED bulbs allows for color changing and integrates with home automation systems. They are perfect for creating personalized ambiances in any room.",
-      "price_new": 5.0,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 85.7,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "UAWKZ4F4",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61cOj-EHrxL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F9F6B875/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20222331",
-      "published_at": "2026-10-28T14:00:42+00:00",
-      "revalidated_at": "2026-10-29T19:15:47+00:00"
-    },
-    {
-      "asin": "B0F3CNT95D",
-      "title": "CINCOM Cordless Leg Massager Recovery System w/ 5-Zone Air Compression, LCD Control & Carry Bag (S-L)",
-      "title_es": "Masajeador de piernas inalámbrico CINCOM con compresión de aire de 5 zonas",
-      "headline": null,
-      "post": "Este sistema de masajeador de piernas inalámbrico CINCOM utiliza compresión de aire de 5 zonas para mejorar la recuperación y aliviar la fatiga. Incluye control LCD y bolsa de transporte, ideal para deportistas o para relajarse en casa.",
-      "post_en": "This CINCOM cordless leg massager system uses 5-zone air compression to enhance recovery and relieve fatigue. It includes LCD control and a carry bag, ideal for athletes or for relaxing at home.",
-      "price_new": 145.0,
-      "price_old": 599.99,
-      "currency": "USD",
-      "discount_pct": 75.8,
-      "rating": 4.8,
-      "condition": "code",
-      "code": "18KWMZUR",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81VjBQkP-1L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F3CNT95D/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20216337",
-      "published_at": "2026-10-28T13:30:45+00:00",
-      "revalidated_at": "2026-10-29T18:30:40+00:00"
     }
   ]
 }
