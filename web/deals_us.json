@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T18:15:39+00:00",
+  "generated_at": "2026-10-30T18:30:33+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0D3Q99Q4Y",
@@ -58,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 48.6,
-      "rating": null,
+      "rating": 3.9,
       "condition": "code",
       "code": "5KBL1PWV",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/22125882.thumb",
+      "image": "https://m.media-amazon.com/images/I/61kryx1VIxL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F82HHZYB/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20223891",
@@ -114,28 +114,6 @@
       "revalidated_at": "2026-10-30T16:45:55+00:00"
     },
     {
-      "asin": "B0H9QLTSL2",
-      "title": "RUIXUE Winter Gloves for Men Women, Warm Touchscreen for running,cycing(Black,XL)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.72,
-      "price_old": 28.33,
-      "currency": "USD",
-      "discount_pct": 65.7,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/81+v8JASCtL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H9QLTSL2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20230494",
-      "published_at": "2026-10-30T16:30:42+00:00",
-      "revalidated_at": "2026-10-30T16:30:43+00:00"
-    },
-    {
       "asin": "B0CF2KTHDS",
       "title": "Weepong Christmas Lights Outdoor Falling Rain Meteor Shower Lights 12-inch 8 Tube 192 LED",
       "title_es": null,
@@ -155,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20199447",
       "published_at": "2026-10-30T16:30:42+00:00",
-      "revalidated_at": "2026-10-30T16:30:43+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B0H76FTGKX",
@@ -375,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20229285",
       "published_at": "2026-10-30T14:30:39+00:00",
-      "revalidated_at": "2026-10-30T16:30:43+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B0DFH46JNB",
@@ -397,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20225715",
       "published_at": "2026-10-30T14:30:39+00:00",
-      "revalidated_at": "2026-10-30T16:30:43+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B09JL8D41T",
@@ -617,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20228208",
       "published_at": "2026-10-30T12:45:41+00:00",
-      "revalidated_at": "2026-10-30T16:30:43+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B005Z186AK",
@@ -815,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20197569",
       "published_at": "2026-10-30T10:45:44+00:00",
-      "revalidated_at": "2026-10-30T16:30:43+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B0F4QKD4PP",
@@ -837,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20211729",
       "published_at": "2026-10-30T10:45:44+00:00",
-      "revalidated_at": "2026-10-30T16:30:43+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B0DF49W8YS",
@@ -859,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20226567",
       "published_at": "2026-10-30T10:45:44+00:00",
-      "revalidated_at": "2026-10-30T16:30:43+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B0GWQWV88H",
@@ -1079,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20198970",
       "published_at": "2026-10-30T03:00:54+00:00",
-      "revalidated_at": "2026-10-30T16:30:43+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B091MMRXCK",
@@ -1101,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20206140",
       "published_at": "2026-10-30T03:00:54+00:00",
-      "revalidated_at": "2026-10-30T16:30:43+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B0FH4QDSJF",
@@ -1805,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20227851",
       "published_at": "2026-10-29T21:00:45+00:00",
-      "revalidated_at": "2026-10-30T16:15:57+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B0939ZH2VL",
@@ -1827,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20213892",
       "published_at": "2026-10-29T21:00:45+00:00",
-      "revalidated_at": "2026-10-30T16:30:43+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B004JHYRAO",
@@ -1915,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20201703",
       "published_at": "2026-10-29T19:15:47+00:00",
-      "revalidated_at": "2026-10-30T16:15:57+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B0HCBS1Q7K",
@@ -2157,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20227062",
       "published_at": "2026-10-29T16:45:39+00:00",
-      "revalidated_at": "2026-10-30T16:15:57+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B0GNCLK5T8",
@@ -2421,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20195151",
       "published_at": "2026-10-29T15:00:50+00:00",
-      "revalidated_at": "2026-10-30T16:15:57+00:00"
+      "revalidated_at": "2026-10-30T18:30:33+00:00"
     },
     {
       "asin": "B0FS762ZSN",
