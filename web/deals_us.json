@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-30T02:15:53+00:00",
+  "generated_at": "2026-10-30T02:30:50+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0072LWQ6Q",
+      "title": "Heavier Than Heaven: A Biography of Kurt Cobain (eBook) by Charles R. Cross",
+      "title_es": "Heavier Than Heaven: Una Biografía de Kurt Cobain (eBook) de Charles R. Cross",
+      "headline": null,
+      "post": "Sumérgete en la vida de Kurt Cobain con esta aclamada biografía que explora su trayectoria musical y personal. Ideal para fans de Nirvana y amantes de la música que buscan una lectura profunda.",
+      "post_en": "Delve into the life of Kurt Cobain with this acclaimed biography that explores his musical and personal journey. Perfect for Nirvana fans and music lovers seeking an insightful read.",
+      "price_new": 2.99,
+      "price_old": 17.99,
+      "currency": "USD",
+      "discount_pct": 83.4,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81CPpWq4qDL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0072LWQ6Q/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20227716",
+      "published_at": "2026-10-30T02:30:50+00:00",
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
+    },
+    {
+      "asin": "B00H6JBFOS",
+      "title": "Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time (eBook) by Keith Ferrazzi, Tahl Raz",
+      "title_es": "Never Eat Alone, Ampliado y Actualizado: Y Otros Secretos para el Éxito, Una Relación a la Vez (eBook) de Keith Ferrazzi, Tahl Raz",
+      "headline": null,
+      "post": "Descubre estrategias clave para el éxito profesional y personal a través de la creación de relaciones significativas. Este libro es una guía esencial para quienes buscan mejorar su networking y habilidades de comunicación.",
+      "post_en": "Discover key strategies for professional and personal success through building meaningful relationships. This book is an essential guide for those looking to improve their networking and communication skills.",
+      "price_new": 1.99,
+      "price_old": 11.99,
+      "currency": "USD",
+      "discount_pct": 83.4,
+      "rating": 4.5,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/71HQKsGG5yL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B00H6JBFOS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20227698",
+      "published_at": "2026-10-30T02:30:50+00:00",
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
+    },
+    {
+      "asin": "B00Y4QBJAQ",
+      "title": "24-Pack 24-Count Crayola Crayons Packs",
+      "title_es": "Pack de 24 Cajas de Ceras Crayola de 24 Unidades",
+      "headline": null,
+      "post": "Asegura horas de creatividad con este gran paquete de ceras Crayola, perfectas para dibujar y colorear. Un básico ideal para niños en edad escolar o para cualquier aficionado al arte. 🎨",
+      "post_en": "Ensure hours of creativity with this large pack of Crayola crayons, perfect for drawing and coloring. An ideal staple for school-aged children or any art enthusiast. 🎨",
+      "price_new": 12.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 65.7,
+      "rating": 4.8,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81RbpFFQRxL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B00Y4QBJAQ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20221722",
+      "published_at": "2026-10-30T02:30:50+00:00",
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
+    },
     {
       "asin": "B0GFJ2FH23",
       "title": "$15.59 at checkout w 40% off AMAZON LED Desk Lamp, Eye-Caring Table Lights for Home Office",
@@ -14,11 +80,11 @@
       "price_old": 57.0,
       "currency": "USD",
       "discount_pct": 72.6,
-      "rating": null,
+      "rating": 4.2,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/22099065.thumb",
+      "image": "https://m.media-amazon.com/images/I/71d4FrNM-TL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GFJ2FH23/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20212560",
@@ -58,11 +124,11 @@
       "price_old": 19.99,
       "currency": "USD",
       "discount_pct": 60.0,
-      "rating": null,
+      "rating": 4.8,
       "condition": "code",
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/5/1/9/1/1/6/9/450x450/22068294.thumb",
+      "image": "https://m.media-amazon.com/images/I/71HqtXrqIXL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0HD7352WP/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20198577",
@@ -177,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20227671",
       "published_at": "2026-10-30T00:45:36+00:00",
-      "revalidated_at": "2026-10-30T00:45:36+00:00"
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
     },
     {
       "asin": "B0F7HHMR8B",
@@ -661,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20223267",
       "published_at": "2026-10-29T21:00:45+00:00",
-      "revalidated_at": "2026-10-30T00:45:36+00:00"
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
     },
     {
       "asin": "B0HFLYF2H3",
@@ -683,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20227851",
       "published_at": "2026-10-29T21:00:45+00:00",
-      "revalidated_at": "2026-10-30T00:45:36+00:00"
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
     },
     {
       "asin": "B0939ZH2VL",
@@ -705,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20213892",
       "published_at": "2026-10-29T21:00:45+00:00",
-      "revalidated_at": "2026-10-30T00:45:36+00:00"
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
     },
     {
       "asin": "B004JHYRAO",
@@ -947,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20225922",
       "published_at": "2026-10-29T17:00:47+00:00",
-      "revalidated_at": "2026-10-30T00:45:36+00:00"
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
     },
     {
       "asin": "B0DB6KW9SQ",
@@ -969,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20219136",
       "published_at": "2026-10-29T17:00:47+00:00",
-      "revalidated_at": "2026-10-30T00:45:36+00:00"
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
     },
     {
       "asin": "B0DJLK8TD2",
@@ -991,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20227896",
       "published_at": "2026-10-29T17:00:47+00:00",
-      "revalidated_at": "2026-10-30T00:45:36+00:00"
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
     },
     {
       "asin": "B08G85BDWL",
@@ -1959,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20220954",
       "published_at": "2026-10-29T01:31:22+00:00",
-      "revalidated_at": "2026-10-30T00:30:43+00:00"
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
     },
     {
       "asin": "B0H1T3SBRW",
@@ -2025,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20222988",
       "published_at": "2026-10-29T01:16:01+00:00",
-      "revalidated_at": "2026-10-30T00:30:43+00:00"
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
     },
     {
       "asin": "B0G7P9MMCP",
@@ -2047,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20197275",
       "published_at": "2026-10-29T01:16:01+00:00",
-      "revalidated_at": "2026-10-30T00:30:43+00:00"
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
     },
     {
       "asin": "B0G5MXZYMY",
@@ -2069,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20222667",
       "published_at": "2026-10-29T01:16:01+00:00",
-      "revalidated_at": "2026-10-30T00:30:43+00:00"
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
     },
     {
       "asin": "B0H78BB9TY",
@@ -2091,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20193660",
       "published_at": "2026-10-29T01:16:01+00:00",
-      "revalidated_at": "2026-10-30T00:30:43+00:00"
+      "revalidated_at": "2026-10-30T02:30:50+00:00"
     },
     {
       "asin": "B07PDTXFCY",
@@ -2576,72 +2642,6 @@
       "deal_key": "sd:20223876",
       "published_at": "2026-10-28T18:45:58+00:00",
       "revalidated_at": "2026-10-30T02:15:53+00:00"
-    },
-    {
-      "asin": "B0HBBHSHG1",
-      "title": "[Prime] 24-Pack BUCASA Solar Candy Cane Christmas Pathway Lights w/ 144 LEDs & 10 Modes",
-      "title_es": "Luces solares de Navidad BUCASA Candy Cane (24 unidades) con 144 LEDs y 10 modos",
-      "headline": null,
-      "post": "Ilumina tu jardín esta Navidad con estas 24 luces solares BUCASA en forma de bastón de caramelo. Cuentan con 144 LEDs y 10 modos de iluminación para crear un ambiente festivo y acogedor sin necesidad de cables. 🎄",
-      "post_en": "Brighten your garden this Christmas with these 24 BUCASA solar candy cane lights. They feature 144 LEDs and 10 lighting modes to create a festive and cozy atmosphere without the need for wires. 🎄",
-      "price_new": 29.99,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 57.2,
-      "rating": 4.8,
-      "condition": "code",
-      "code": "1GLWOQPG",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81xXKsvVoxL._AC_SL1254_.jpg",
-      "url": "https://amazon.com/dp/B0HBBHSHG1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20223456",
-      "published_at": "2026-10-28T18:45:58+00:00",
-      "revalidated_at": "2026-10-30T02:15:53+00:00"
-    },
-    {
-      "asin": "B0FJMCHS8S",
-      "title": "Amazon – AlpsWolf 4000mAh Rechargeable Camping Lantern/Flashlight -",
-      "title_es": "Linterna/foco de camping recargable AlpsWolf 4000mAh",
-      "headline": null,
-      "post": "Esta linterna y foco de camping AlpsWolf 4000mAh es ideal para tus aventuras al aire libre. Ofrece una iluminación potente y versátil, perfecta para acampadas, senderismo o emergencias.",
-      "post_en": "This AlpsWolf 4000mAh rechargeable camping lantern and flashlight is ideal for your outdoor adventures. It offers powerful and versatile illumination, perfect for camping, hiking, or emergencies.",
-      "price_new": 11.49,
-      "price_old": 34.49,
-      "currency": "USD",
-      "discount_pct": 66.7,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "S2672SLF",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71Q6XkzJHTL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FJMCHS8S/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20210613",
-      "published_at": "2026-10-28T18:16:07+00:00",
-      "revalidated_at": "2026-10-30T01:30:32+00:00"
-    },
-    {
-      "asin": "B0GXCBJG9L",
-      "title": "Magic: The Gathering | The Hobbit Play Booster Box | 30 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game at Amazon",
-      "title_es": "Magic: The Gathering | The Hobbit Play Booster Box | 30 sobres + 1 carta Foil Box Topper",
-      "headline": null,
-      "post": "Sumérgete en la Tierra Media con esta caja de sobres Magic: The Gathering The Hobbit Play Booster. Incluye 30 sobres y una carta Foil Box Topper, perfecta para coleccionistas y jugadores del famoso juego de cartas.",
-      "post_en": "Immerse yourself in Middle-earth with this Magic: The Gathering The Hobbit Play Booster Box. It includes 30 packs and one Foil Box Topper card, perfect for collectors and players of the famous trading card game.",
-      "price_new": 139.99,
-      "price_old": 204.95,
-      "currency": "USD",
-      "discount_pct": 31.7,
-      "rating": 4.0,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71eEmTeMSuL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GXCBJG9L/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20216616",
-      "published_at": "2026-10-28T18:00:43+00:00",
-      "revalidated_at": "2026-10-30T01:15:44+00:00"
     }
   ]
 }
