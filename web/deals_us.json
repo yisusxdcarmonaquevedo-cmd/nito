@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-31T00:15:41+00:00",
+  "generated_at": "2026-10-31T00:30:39+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0HG9VS8HN",
+      "title": "Dual Lens Instant Print Camera w/ 1080P Video & Thermal Printing for Kids",
+      "title_es": "Cámara Instantánea para Niños con Doble Lente y Video 1080P",
+      "headline": null,
+      "post": "Esta cámara de impresión instantánea con doble lente permite a los niños capturar fotos y vídeos 1080P, imprimiéndolos al instante sin tinta gracias a su tecnología térmica. Es ideal para pequeños exploradores que desean documentar sus aventuras de forma creativa y tangible.",
+      "post_en": "This dual-lens instant print camera allows children to capture 1080P photos and videos, printing them instantly without ink thanks to its thermal technology. It's perfect for young explorers who want to creatively and tangibly document their adventures.",
+      "price_new": 11.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 65.7,
+      "rating": 5.0,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71-ibTmLYjL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0HG9VS8HN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20231082",
+      "published_at": "2026-10-31T00:30:39+00:00",
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
+    },
     {
       "asin": "B0DJ1BLT51",
       "title": "1039-Pc LEGO Star Wars: Ahsoka Chopper (C1-10P) Astromech Droid Set at Amazon",
@@ -67,7 +89,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20233740",
       "published_at": "2026-10-30T22:45:42+00:00",
-      "revalidated_at": "2026-10-30T22:45:42+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B09N72CTKW",
@@ -146,11 +168,11 @@
       "price_old": 56.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/6/7/9/8/5/450x450/22153002.thumb",
+      "image": "https://m.media-amazon.com/images/I/71A+5PNtsLL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FKBDD4FF/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20232978",
@@ -248,10 +270,10 @@
     {
       "asin": "B0H8RMNVVG",
       "title": "Ecoeve Permanent Outdoor Lights",
-      "title_es": null,
+      "title_es": "Luces Exteriores Permanentes Ecoeve",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estas luces Ecoeve están diseñadas para iluminar tus espacios exteriores de forma duradera. Son ideales para crear un ambiente acogedor en jardines o fachadas durante todo el año. ✨",
+      "post_en": "These Ecoeve lights are designed to illuminate your outdoor spaces durably. They are ideal for creating a cozy atmosphere in gardens or facades all year round. ✨",
       "price_new": 30.0,
       "price_old": 60.0,
       "currency": "USD",
@@ -270,10 +292,10 @@
     {
       "asin": "B09VPDBMS6",
       "title": "Ekouaer Maternity Nightgown",
-      "title_es": null,
+      "title_es": "Camisón de Maternidad Ekouaer",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este camisón Ekouaer ofrece comodidad y practicidad para futuras mamás. Su diseño es perfecto tanto para el embarazo como para la lactancia.",
+      "post_en": "This Ekouaer nightgown offers comfort and practicality for expectant mothers. Its design is perfect for both pregnancy and breastfeeding.",
       "price_new": 9.99,
       "price_old": 19.99,
       "currency": "USD",
@@ -292,10 +314,10 @@
     {
       "asin": "B0H3ZMJ9C1",
       "title": "3-Pc Bedsure Queen Ruffle Comforter Set (Pink)",
-      "title_es": null,
+      "title_es": "Juego de Edredón Bedsure Queen Ruffle de 3 Piezas (Rosa)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Renueva tu dormitorio con este juego de edredón Bedsure de 3 piezas en tamaño Queen. Incluye un edredón con volantes y fundas a juego para un toque elegante y suave.",
+      "post_en": "Refresh your bedroom with this 3-piece Bedsure Queen Ruffle Comforter Set. It includes a ruffled comforter and matching shams for an elegant and soft touch.",
       "price_new": 22.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -314,10 +336,10 @@
     {
       "asin": "B0FHFWJ2F5",
       "title": "MONNCHA Halloween Trick or Treat Bags Candy Bucket Basket Decoration",
-      "title_es": null,
+      "title_es": "Bolsas MONNCHA de Halloween para Dulces y Decoración",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Prepara la noche de Halloween con estas divertidas bolsas y cestas MONNCHA para dulces. Son perfectas para que los niños recojan sus golosinas o como decoración festiva. 🎃",
+      "post_en": "Get ready for Halloween night with these fun MONNCHA trick or treat bags and baskets. They are perfect for kids to collect their sweets or as festive decoration. 🎃",
       "price_new": 7.74,
       "price_old": 18.98,
       "currency": "USD",
@@ -336,10 +358,10 @@
     {
       "asin": "B0HCMYQ47B",
       "title": "Solar Christmas Pathway Lights Outdoor, Tree & Candy Cane Lights, 10 Pack",
-      "title_es": null,
+      "title_es": "Luces Solares Navideñas para Caminos Exteriores, Árbol y Bastón de Caramelo, 10 Unidades",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Ilumina tu jardín esta Navidad con este pack de 10 luces solares para caminos. Incluye diseños de árbol y bastón de caramelo, ideales para una decoración festiva y sin cables.",
+      "post_en": "Light up your garden this Christmas with this 10-pack of solar pathway lights. It includes tree and candy cane designs, perfect for a festive and wireless decoration.",
       "price_new": 26.45,
       "price_old": 45.99,
       "currency": "USD",
@@ -358,10 +380,10 @@
     {
       "asin": "B0F9P3JG9M",
       "title": "2-Pack COSY HOMEER 20x32\"+20x48\" Non-Slip Washable Kitchen Rugs",
-      "title_es": null,
+      "title_es": "Pack de 2 Alfombras de Cocina COSY HOMEER Antideslizantes y Lavables (20x32\"+20x48\")",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de dos alfombras COSY HOMEER ofrece comodidad y seguridad en tu cocina. Son antideslizantes, lavables y vienen en dos tamaños útiles para diferentes áreas.",
+      "post_en": "This two-pack of COSY HOMEER kitchen rugs offers comfort and safety in your kitchen. They are non-slip, washable, and come in two useful sizes for different areas.",
       "price_new": 14.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -380,10 +402,10 @@
     {
       "asin": "B0H8N7M38Z",
       "title": "3\" NEXHOME PRO Dual-Layer Cooling Gel Memory Foam Mattress Topper w/ Bamboo Pillow Top (King)",
-      "title_es": null,
+      "title_es": "Topper de Colchón NEXHOME PRO de 3\" con Doble Capa de Gel Refrigerante y Espuma Viscoelástica con Cubierta de Bambú (King)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mejora tu descanso con este topper de colchón NEXHOME PRO King de 3 pulgadas. Su doble capa de gel refrigerante y espuma viscoelástica con cubierta de bambú proporciona un confort superior.",
+      "post_en": "Enhance your sleep with this 3-inch NEXHOME PRO King mattress topper. Its dual-layer cooling gel memory foam with a bamboo pillow top provides superior comfort.",
       "price_new": 49.99,
       "price_old": 99.99,
       "currency": "USD",
@@ -402,10 +424,10 @@
     {
       "asin": "B0G5YDYYD7",
       "title": "2-Pack 45W Dual-Port USB-C Super Fast Charging Block w/ 10' USB-C to C Cable",
-      "title_es": null,
+      "title_es": "Pack de 2 Cargadores Rápidos USB-C de Doble Puerto de 45W con Cable USB-C a C de 10'",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Carga tus dispositivos rápidamente con este pack de dos cargadores de 45W con doble puerto USB-C. Incluye un cable USB-C a C de 10 pies, ideal para una carga eficiente en casa o de viaje.",
+      "post_en": "Charge your devices quickly with this two-pack of 45W dual-port USB-C chargers. It includes a 10-foot USB-C to C cable, perfect for efficient charging at home or on the go.",
       "price_new": 11.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -424,10 +446,10 @@
     {
       "asin": "B0H3FDRDZG",
       "title": "32\" x 48\" Vaukki Fall Pumpkin Entryway Doormat",
-      "title_es": null,
+      "title_es": "Felpudo de Entrada Vaukki de Calabaza de Otoño (32\" x 48\")",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Dale la bienvenida al otoño con este felpudo Vaukki de calabaza para tu entrada. Su diseño temático y tamaño de 32\" x 48\" lo hacen perfecto para decorar tu hogar.",
+      "post_en": "Welcome autumn with this Vaukki fall pumpkin entryway doormat. Its themed design and 32\" x 48\" size make it perfect for decorating your home.",
       "price_new": 8.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -446,10 +468,10 @@
     {
       "asin": "B0FBG27Y5Y",
       "title": "L LOHAS LED Plug-In Night Light: Halloween or Bubble Style (Various)",
-      "title_es": null,
+      "title_es": "Luz Nocturna LED Enchufable L LOHAS: Estilo Halloween o Burbuja (Varios)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Añade un toque de luz ambiental con estas luces nocturnas LED L LOHAS enchufables. Disponibles en estilos Halloween o burbuja, son perfectas para cualquier habitación.",
+      "post_en": "Add a touch of ambient light with these L LOHAS LED plug-in night lights. Available in Halloween or bubble styles, they are perfect for any room.",
       "price_new": 5.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -485,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20226996",
       "published_at": "2026-10-30T20:45:43+00:00",
-      "revalidated_at": "2026-10-30T22:45:42+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B0DTQDLGZ6",
@@ -683,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20212728",
       "published_at": "2026-10-30T19:00:37+00:00",
-      "revalidated_at": "2026-10-30T22:45:42+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B0F2MM5XFB",
@@ -705,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20233140",
       "published_at": "2026-10-30T19:00:37+00:00",
-      "revalidated_at": "2026-10-30T22:45:42+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B0B6G9TPNQ",
@@ -727,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20212692",
       "published_at": "2026-10-30T18:45:33+00:00",
-      "revalidated_at": "2026-10-30T22:45:42+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B0D3Q99Q4Y",
@@ -837,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20223216",
       "published_at": "2026-10-30T16:45:55+00:00",
-      "revalidated_at": "2026-10-30T22:45:42+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B0CF2KTHDS",
@@ -1035,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20232342",
       "published_at": "2026-10-30T14:45:44+00:00",
-      "revalidated_at": "2026-10-30T22:45:42+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B0FX4SLBS5",
@@ -1128,10 +1150,10 @@
     {
       "asin": "B0GBW3GKKZ",
       "title": "LOKITHOR JPD400 3000A 10000mAh Jump Starter w/ 150 PSI Air Compressor & Deflator",
-      "title_es": null,
+      "title_es": "Arrancador LOKITHOR JPD400 3000A 10000mAh con compresor de aire 150 PSI y desinflador",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este arrancador de coche portátil LOKITHOR JPD400 es una herramienta esencial para tu vehículo. Combina un potente arrancador de 3000A con un compresor de aire de 150 PSI y desinflador, ideal para emergencias en carretera y mantenimiento de neumáticos.",
+      "post_en": "This LOKITHOR JPD400 portable car jump starter is an essential tool for your vehicle. It combines a powerful 3000A jump starter with a 150 PSI air compressor and deflator, perfect for roadside emergencies and tire maintenance.",
       "price_new": 54.97,
       "price_old": 99.95,
       "currency": "USD",
@@ -1150,10 +1172,10 @@
     {
       "asin": "B0HDS299PH",
       "title": "Women's Workout Athletic Lightweight Hoodie UPF 50+",
-      "title_es": null,
+      "title_es": "Sudadera ligera deportiva para mujer UPF 50+",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta sudadera ligera es perfecta para tus entrenamientos, ofreciendo comodidad y protección solar UPF 50+. Su diseño atlético y transpirable la hace ideal para actividades al aire libre o el gimnasio.",
+      "post_en": "This lightweight hoodie is perfect for your workouts, offering comfort and UPF 50+ sun protection. Its athletic and breathable design makes it ideal for outdoor activities or the gym.",
       "price_new": 10.99,
       "price_old": 24.99,
       "currency": "USD",
@@ -1172,10 +1194,10 @@
     {
       "asin": "B0G87CB5VB",
       "title": "Magic: The Gathering Marvel Super Heroes Bundle, 9 Play Boosters & Exclusive Accessories at Amazon",
-      "title_es": null,
+      "title_es": "Magic: The Gathering Marvel Super Heroes Bundle, 9 Play Boosters y accesorios exclusivos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Descubre el emocionante Magic: The Gathering Marvel Super Heroes Bundle, que incluye 9 Play Boosters y accesorios exclusivos. Es perfecto para fans de Magic y Marvel que buscan expandir su colección con un toque heroico. 🃏",
+      "post_en": "Discover the exciting Magic: The Gathering Marvel Super Heroes Bundle, including 9 Play Boosters and exclusive accessories. It's perfect for Magic and Marvel fans looking to expand their collection with a heroic touch. 🃏",
       "price_new": 44.99,
       "price_old": 70.0,
       "currency": "USD",
@@ -1194,10 +1216,10 @@
     {
       "asin": "B0D9LQNPJL",
       "title": "9‑in‑1 FASIUCHOI Multi‑Function Adjustable Wire Stripper, Cutter & Crimping Tool at Amazon",
-      "title_es": null,
+      "title_es": "Herramienta multifunción FASIUCHOI 9 en 1: pelacables, cortador y crimpador ajustable",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta herramienta FASIUCHOI 9 en 1 es indispensable para cualquier caja de herramientas, combinando pelacables, cortador y crimpador en un solo diseño ajustable. Es ideal para trabajos eléctricos y de bricolaje, ofreciendo versatilidad y eficiencia.",
+      "post_en": "This FASIUCHOI 9-in-1 tool is essential for any toolbox, combining a wire stripper, cutter, and crimping tool in one adjustable design. It's perfect for electrical and DIY tasks, offering versatility and efficiency.",
       "price_new": 5.69,
       "price_old": 57.0,
       "currency": "USD",
@@ -1211,15 +1233,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20215866",
       "published_at": "2026-10-30T13:00:50+00:00",
-      "revalidated_at": "2026-10-30T22:45:42+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B0H3L2H18X",
       "title": "Women Long Sleeve Lightweight Button Up Slim Fit Waffle Knit Shirts",
-      "title_es": null,
+      "title_es": "Camisa de manga larga ligera de punto waffle con botones para mujer",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta camisa de punto waffle de manga larga y corte ajustado es una prenda versátil y cómoda para el día a día. Su diseño ligero con botones la hace perfecta para combinar con diferentes estilos en cualquier temporada.",
+      "post_en": "This long-sleeve, slim-fit waffle knit shirt is a versatile and comfortable everyday garment. Its lightweight, button-up design makes it perfect for pairing with various styles in any season.",
       "price_new": 7.5,
       "price_old": 19.99,
       "currency": "USD",
@@ -1233,15 +1255,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20226867",
       "published_at": "2026-10-30T13:00:50+00:00",
-      "revalidated_at": "2026-10-30T22:45:42+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B0H5RLCXG8",
       "title": "Bose QuietComfort Headphones (2nd Gen) at Amazon",
-      "title_es": null,
+      "title_es": "Auriculares Bose QuietComfort (2.ª generación)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de una experiencia auditiva inmersiva con los auriculares Bose QuietComfort (2.ª generación), conocidos por su excepcional cancelación de ruido. Son ideales para viajar, trabajar o simplemente relajarte con tu música favorita.",
+      "post_en": "Enjoy an immersive listening experience with the Bose QuietComfort Headphones (2nd Gen), renowned for their exceptional noise cancellation. They are ideal for travel, work, or simply relaxing with your favorite music.",
       "price_new": 199.0,
       "price_old": 359.0,
       "currency": "USD",
@@ -1255,15 +1277,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20231022",
       "published_at": "2026-10-30T13:00:50+00:00",
-      "revalidated_at": "2026-10-30T22:45:42+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B01MTB55WH",
       "title": "Anker soundcore 2 Portable Bluetooth Speaker, 24-Hour Playtime, IPX7",
-      "title_es": null,
+      "title_es": "Altavoz Bluetooth portátil Anker soundcore 2 con 24 horas de autonomía y IPX7",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El altavoz portátil Anker soundcore 2 ofrece un sonido impresionante con hasta 24 horas de autonomía y resistencia al agua IPX7. Es perfecto para llevar la música a todas partes, desde la playa hasta la ducha. 🎶",
+      "post_en": "The Anker soundcore 2 portable speaker delivers impressive sound with up to 24 hours of playtime and IPX7 water resistance. It's perfect for taking your music everywhere, from the beach to the shower. 🎶",
       "price_new": 29.98,
       "price_old": 44.99,
       "currency": "USD",
@@ -1282,10 +1304,10 @@
     {
       "asin": "B005Z186AK",
       "title": "Champion Weather Resistant Storage Cover for 2800-4750W Portable Generators at Amazon",
-      "title_es": null,
+      "title_es": "Funda de almacenamiento Champion resistente a la intemperie para generadores portátiles 2800-4750W",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Protege tu generador portátil de 2800-4750W con esta funda de almacenamiento Champion resistente a la intemperie. Es esencial para mantener tu equipo seguro y prolongar su vida útil frente a las inclemencias del tiempo.",
+      "post_en": "Protect your 2800-4750W portable generator with this Champion weather-resistant storage cover. It's essential for keeping your equipment safe and extending its lifespan against harsh weather conditions.",
       "price_new": 11.97,
       "price_old": 21.99,
       "currency": "USD",
@@ -1304,10 +1326,10 @@
     {
       "asin": "B0F248WNNN",
       "title": "52-in-1 Wesdut Precision S2 Alloy Steel Magnetic Screwdriver & Electronics Repair Kit (Orange or Blue)",
-      "title_es": null,
+      "title_es": "Kit de reparación electrónica y destornillador de precisión magnético Wesdut 52 en 1 de acero S2",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este kit de reparación electrónica Wesdut 52 en 1, con destornilladores magnéticos de acero S2, es indispensable para cualquier aficionado o profesional. Incluye una amplia variedad de puntas para reparar dispositivos electrónicos con precisión.",
+      "post_en": "This Wesdut 52-in-1 electronics repair kit, featuring S2 alloy steel magnetic screwdrivers, is indispensable for any hobbyist or professional. It includes a wide variety of bits for precise electronic device repairs.",
       "price_new": 5.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1326,10 +1348,10 @@
     {
       "asin": "B0H8N51GD2",
       "title": "100W GaN III Wegear 3-Port USB-C Wall Charger (Silver or Black)",
-      "title_es": null,
+      "title_es": "Cargador de pared Wegear GaN III de 100W con 3 puertos USB-C",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Carga tus dispositivos rápidamente con el cargador de pared Wegear GaN III de 100W, que cuenta con tres puertos USB-C. Es compacto y potente, ideal para usuarios que necesitan cargar múltiples aparatos simultáneamente en casa o de viaje.",
+      "post_en": "Charge your devices rapidly with the Wegear 100W GaN III wall charger, featuring three USB-C ports. It's compact and powerful, ideal for users who need to charge multiple gadgets simultaneously at home or while traveling.",
       "price_new": 19.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1348,10 +1370,10 @@
     {
       "asin": "B0FPF1QJFJ",
       "title": "iPhone 17/18 Pro Translucent Matte Case (Pink)",
-      "title_es": null,
+      "title_es": "Funda Transparente Mate Rosa para iPhone 17/18 Pro",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Protege tu iPhone 17/18 Pro con esta funda translúcida mate en color rosa. Ofrece un agarre cómodo y un estilo discreto, ideal para el uso diario.",
+      "post_en": "Protect your iPhone 17/18 Pro with this translucent matte pink case. It offers a comfortable grip and a discreet style, perfect for daily use.",
       "price_new": 1.36,
       "price_old": 35.0,
       "currency": "USD",
@@ -1370,10 +1392,10 @@
     {
       "asin": "B0FJC51J12",
       "title": "Shark Stratos Robot Vacuum & Mop Combo, 60-Day Self-Empty, White, AV2700ZE | LiDAR Mapping & AutoLift for Carpet & Hard Floors",
-      "title_es": null,
+      "title_es": "Robot Aspirador y Fregasuelos Shark Stratos Combo AV2700ZE con Vaciado Automático",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El Shark Stratos AV2700ZE es un robot aspirador y fregasuelos con vaciado automático de 60 días. Su mapeo LiDAR y la función AutoLift son perfectos para limpiar eficazmente alfombras y suelos duros.",
+      "post_en": "The Shark Stratos AV2700ZE is a robot vacuum and mop combo with a 60-day self-empty base. Its LiDAR mapping and AutoLift feature are perfect for efficiently cleaning carpets and hard floors.",
       "price_new": 399.99,
       "price_old": 999.99,
       "currency": "USD",
@@ -1392,10 +1414,10 @@
     {
       "asin": "B0012YVR1O",
       "title": "uni-ball Vision Stick Roller Ball Pens, Fine Point, Black Ink, Pack of 4~$6.60 With S&S @ Amazon",
-      "title_es": null,
+      "title_es": "Bolígrafos uni-ball Vision Stick, Punta Fina, Tinta Negra (Pack de 4)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 4 bolígrafos uni-ball Vision Stick de punta fina y tinta negra es ideal para una escritura precisa y fluida. Son perfectos para estudiantes y profesionales que buscan fiabilidad en su material de oficina.",
+      "post_en": "This 4-pack of uni-ball Vision Stick rollerball pens with fine point and black ink is ideal for precise, smooth writing. They are perfect for students and professionals seeking reliable office supplies.",
       "price_new": 6.6,
       "price_old": 60.0,
       "currency": "USD",
@@ -1409,15 +1431,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20209926",
       "published_at": "2026-10-30T11:00:52+00:00",
-      "revalidated_at": "2026-10-30T22:45:42+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B0FZP43ZXJ",
       "title": "Champion Men's Pullover Jersey T-Shirt Hoodie, 3 Colors (Size Small ONLY)",
-      "title_es": null,
+      "title_es": "Sudadera con Capucha Champion de Jersey para Hombre (Talla Pequeña)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta sudadera con capucha Champion de jersey ofrece comodidad y estilo informal para hombres. Es una prenda versátil, ideal para el día a día o para capas ligeras.",
+      "post_en": "This Champion men's pullover jersey T-shirt hoodie offers comfort and casual style. It's a versatile garment, ideal for everyday wear or light layering.",
       "price_new": 15.5,
       "price_old": 45.0,
       "currency": "USD",
@@ -1436,10 +1458,10 @@
     {
       "asin": "B0DWFBKVPW",
       "title": "Amazon – PADOOR-Waffle Bath Mat-Super Absorbent Bath Mats for Bathroom, -",
-      "title_es": null,
+      "title_es": "Alfombra de Baño PADOOR de Nido de Abeja Súper Absorbente",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La alfombra de baño PADOOR con textura de nido de abeja es súper absorbente y suave al tacto. Es perfecta para mantener tu baño seco y añadir un toque de confort.",
+      "post_en": "The PADOOR waffle bath mat is super absorbent and soft to the touch. It's perfect for keeping your bathroom dry and adding a touch of comfort.",
       "price_new": 8.99,
       "price_old": 31.19,
       "currency": "USD",
@@ -1458,10 +1480,10 @@
     {
       "asin": "B0F4QKD4PP",
       "title": "AOUNQ Purple Halloween Solar Lights Outdoor with Flickering Flame, 16 Pack | Halloween Decorations Solar Torch Lights",
-      "title_es": null,
+      "title_es": "Pack de 16 Antorchas Solares AOUNQ Moradas con Llama Parpadeante para Halloween",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Crea un ambiente espeluznante con este pack de 16 antorchas solares AOUNQ moradas, con efecto de llama parpadeante. Son perfectas para decorar tu jardín en Halloween sin necesidad de cables. 🎃",
+      "post_en": "Create a spooky ambiance with this 16-pack of AOUNQ purple solar torch lights, featuring a flickering flame effect. They are perfect for decorating your yard for Halloween without any wires. 🎃",
       "price_new": 34.99,
       "price_old": 69.99,
       "currency": "USD",
@@ -1480,10 +1502,10 @@
     {
       "asin": "B0DF49W8YS",
       "title": "20-Oz Owala SmoothSip Slider Insulated Stainless Steel Coffee Tumbler (Beachy Breeze)",
-      "title_es": null,
+      "title_es": "Vaso Térmico de Café Owala SmoothSip Slider de Acero Inoxidable (20 oz, Beachy Breeze)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este vaso térmico Owala SmoothSip Slider de 20 oz mantiene tus bebidas calientes o frías por más tiempo. Su tapa deslizante facilita beber y es ideal para llevar tu café o té a cualquier parte.",
+      "post_en": "This 20-oz Owala SmoothSip Slider insulated tumbler keeps your drinks hot or cold for longer. Its slider lid makes drinking easy and it's ideal for taking your coffee or tea anywhere.",
       "price_new": 23.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1502,10 +1524,10 @@
     {
       "asin": "B0GWQWV88H",
       "title": "Amazon – Gaiatop 2-Pack Magnetic Penguin Hand Warmers -",
-      "title_es": null,
+      "title_es": "Pack de 2 Calentadores de Manos Magnéticos Gaiatop con Diseño de Pingüino",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mantén tus manos calientes con este divertido pack de 2 calentadores magnéticos Gaiatop con diseño de pingüino. Son reutilizables y perfectos para los días fríos o para llevar en excursiones.",
+      "post_en": "Keep your hands warm with this fun 2-pack of Gaiatop magnetic penguin hand warmers. They are reusable and perfect for cold days or taking on outdoor adventures.",
       "price_new": 8.99,
       "price_old": 19.99,
       "currency": "USD",
@@ -1524,10 +1546,10 @@
     {
       "asin": "B01464GUOU",
       "title": "40-Lb CAP Barbell Adjustable Weighted Vest w/ Removable Weight Packets at Amazon",
-      "title_es": null,
+      "title_es": "Chaleco Lastrado Ajustable CAP Barbell de 40 lb con Pesos Extraíbles",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mejora tus entrenamientos con este chaleco lastrado ajustable CAP Barbell de 40 lb. Los paquetes de peso extraíbles permiten personalizar la intensidad, ideal para fitness y fuerza.",
+      "post_en": "Enhance your workouts with this 40-lb CAP Barbell adjustable weighted vest. Removable weight packets allow for customizable intensity, ideal for fitness and strength training.",
       "price_new": 41.97,
       "price_old": 69.99,
       "currency": "USD",
@@ -1546,10 +1568,10 @@
     {
       "asin": "B07SRJWYB6",
       "title": "48mm Casio Men's Classic Analog Digital Display Quartz Watch w/ Black Dial (Tan) at Amazon",
-      "title_es": null,
+      "title_es": "Reloj Casio Clásico de Cuarzo para Hombre con Pantalla Analógica Digital (48mm, Esfera Negra, Correa Marrón)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este reloj Casio clásico de 48mm combina la elegancia analógica con la funcionalidad digital. Es un accesorio versátil para hombres que buscan un estilo atemporal y práctico.",
+      "post_en": "This 48mm Casio Classic watch combines analog elegance with digital functionality. It's a versatile accessory for men seeking a timeless and practical style.",
       "price_new": 32.97,
       "price_old": 54.95,
       "currency": "USD",
@@ -2399,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20223267",
       "published_at": "2026-10-29T21:00:45+00:00",
-      "revalidated_at": "2026-10-30T22:30:48+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B0HFLYF2H3",
@@ -2421,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20227851",
       "published_at": "2026-10-29T21:00:45+00:00",
-      "revalidated_at": "2026-10-30T22:45:42+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B0939ZH2VL",
@@ -2553,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20216988",
       "published_at": "2026-10-29T18:45:45+00:00",
-      "revalidated_at": "2026-10-30T22:30:48+00:00"
+      "revalidated_at": "2026-10-31T00:30:39+00:00"
     },
     {
       "asin": "B0F5Q765RR",
@@ -2619,28 +2641,6 @@
       "source": "slickdeals",
       "deal_key": "sd:20227581",
       "published_at": "2026-10-29T17:45:35+00:00",
-      "revalidated_at": "2026-10-30T23:30:41+00:00"
-    },
-    {
-      "asin": "B0DHY9DTRX",
-      "title": "The Science of Flavor: Unlock the Secrets of Flavorful Cooking (The Science of Food) (eBook) by Dr. Stuart Farrimond",
-      "title_es": "eBook The Science of Flavor: Unlock the Secrets of Flavorful Cooking por Dr. Stuart Farrimond",
-      "headline": null,
-      "post": "\"The Science of Flavor\" es un eBook fascinante que desvela los secretos detrás de una cocina sabrosa. Ideal para cocineros caseros y profesionales que buscan entender y mejorar sus habilidades culinarias.",
-      "post_en": "\"The Science of Flavor\" is a fascinating eBook that uncovers the secrets behind flavorful cooking. Ideal for home cooks and professionals looking to understand and enhance their culinary skills.",
-      "price_new": 1.99,
-      "price_old": 12.99,
-      "currency": "USD",
-      "discount_pct": 84.7,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81FBPaz91ZL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DHY9DTRX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20227413",
-      "published_at": "2026-10-29T17:30:40+00:00",
       "revalidated_at": "2026-10-30T23:30:41+00:00"
     }
   ]
