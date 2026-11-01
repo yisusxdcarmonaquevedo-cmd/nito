@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-01T13:30:35+00:00",
+  "generated_at": "2026-11-01T13:45:34+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0FHWXNLGH",
+      "title": "Sports Camp: A 35-Game Adventure (Nintendo Switch)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 15.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 57.1,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81HvuO1KJ-L._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FHWXNLGH/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20230833",
+      "published_at": "2026-11-01T13:45:34+00:00",
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
+    },
     {
       "asin": "B0FHJ4ZY62",
       "title": "Philips Norelco Head Shaver Pro 9000, 360° Flexing Head, 90-Min Runtime (HS9980/40) at Amazon",
@@ -134,28 +156,6 @@
       "deal_key": "sd:20239365",
       "published_at": "2026-11-01T12:00:42+00:00",
       "revalidated_at": "2026-11-01T12:00:42+00:00"
-    },
-    {
-      "asin": "B0F1FMY6MS",
-      "title": "Amazon – Eaciy Colorful Initial Necklace -",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 3.99,
-      "price_old": 9.99,
-      "currency": "USD",
-      "discount_pct": 60.1,
-      "rating": 4.7,
-      "condition": "code",
-      "code": "0O5F6LPM",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61RDxGuXQ7L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F1FMY6MS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20204619",
-      "published_at": "2026-11-01T11:45:35+00:00",
-      "revalidated_at": "2026-11-01T11:45:35+00:00"
     },
     {
       "asin": "B0GSQPHGHQ",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20222187",
       "published_at": "2026-11-01T08:00:35+00:00",
-      "revalidated_at": "2026-11-01T11:45:35+00:00"
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
     },
     {
       "asin": "B07C2LZC23",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20237028",
       "published_at": "2026-11-01T04:00:34+00:00",
-      "revalidated_at": "2026-11-01T11:45:35+00:00"
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
     },
     {
       "asin": "B015VBRIXE",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20223927",
       "published_at": "2026-11-01T00:15:54+00:00",
-      "revalidated_at": "2026-11-01T11:45:35+00:00"
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
     },
     {
       "asin": "B0FFTR95H3",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20204472",
       "published_at": "2026-11-01T00:15:54+00:00",
-      "revalidated_at": "2026-11-01T11:45:35+00:00"
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
     },
     {
       "asin": "B07B64T9B3",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20235771",
       "published_at": "2026-11-01T00:15:54+00:00",
-      "revalidated_at": "2026-11-01T11:45:35+00:00"
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
     },
     {
       "asin": "B0FKCXCHRP",
@@ -1475,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20228880",
       "published_at": "2026-10-31T18:45:47+00:00",
-      "revalidated_at": "2026-11-01T11:45:35+00:00"
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
     },
     {
       "asin": "B0GRKGQ8HH",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20233896",
       "published_at": "2026-10-31T18:30:52+00:00",
-      "revalidated_at": "2026-11-01T11:45:35+00:00"
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
     },
     {
       "asin": "B0D1FZW65X",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20235795",
       "published_at": "2026-10-31T16:30:36+00:00",
-      "revalidated_at": "2026-11-01T11:45:35+00:00"
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
     },
     {
       "asin": "B00OCN96FQ",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20224218",
       "published_at": "2026-10-31T11:00:42+00:00",
-      "revalidated_at": "2026-11-01T11:45:35+00:00"
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
     },
     {
       "asin": "B00SOU6LR4",
@@ -2025,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20235216",
       "published_at": "2026-10-31T07:15:43+00:00",
-      "revalidated_at": "2026-11-01T11:45:35+00:00"
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
     },
     {
       "asin": "B000E3C3LC",
@@ -2047,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20234457",
       "published_at": "2026-10-31T07:15:43+00:00",
-      "revalidated_at": "2026-11-01T11:45:35+00:00"
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
     },
     {
       "asin": "B0FKTH4V7V",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20232879",
       "published_at": "2026-10-31T04:30:32+00:00",
-      "revalidated_at": "2026-11-01T11:30:28+00:00"
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
     },
     {
       "asin": "B0D3YSJ9GP",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20234106",
       "published_at": "2026-10-31T03:15:41+00:00",
-      "revalidated_at": "2026-11-01T11:45:35+00:00"
+      "revalidated_at": "2026-11-01T13:45:34+00:00"
     },
     {
       "asin": "B08HV6V49V",
@@ -2618,28 +2618,6 @@
       "url": "https://amazon.com/dp/B0DPQTNJHP/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20232909",
-      "published_at": "2026-10-30T22:15:51+00:00",
-      "revalidated_at": "2026-11-01T13:15:34+00:00"
-    },
-    {
-      "asin": "B0831BF1FH",
-      "title": "Stylus Pen for iPad 6th-11th Generation",
-      "title_es": "Lápiz óptico para iPad (6ª a 11ª generación)",
-      "headline": null,
-      "post": "Este lápiz óptico es compatible con iPads de 6ª a 11ª generación, ofreciendo precisión para escribir, dibujar y navegar. Ideal para estudiantes, artistas o profesionales que buscan maximizar la funcionalidad de su tablet.",
-      "post_en": "This stylus pen is compatible with 6th to 11th generation iPads, offering precision for writing, drawing, and navigation. It's ideal for students, artists, or professionals looking to maximize their tablet's functionality.",
-      "price_new": 5.99,
-      "price_old": 15.99,
-      "currency": "USD",
-      "discount_pct": 62.5,
-      "rating": 4.4,
-      "condition": "code",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/41AmZmm-HpL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0831BF1FH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20233008",
       "published_at": "2026-10-30T22:15:51+00:00",
       "revalidated_at": "2026-11-01T13:15:34+00:00"
     }
