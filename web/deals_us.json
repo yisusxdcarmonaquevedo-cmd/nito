@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-02T23:30:57+00:00",
+  "generated_at": "2026-11-02T23:45:43+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0DKW2H52M",
+      "title": "Resident Evil 2 (PlayStation 5) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 15.19,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 49.3,
+      "rating": 4.9,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81w7DlVxvDL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DKW2H52M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20240625",
+      "published_at": "2026-11-02T23:45:43+00:00",
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
+    },
+    {
+      "asin": "B0BFBVJZ89",
+      "title": "Amazon – LovinPet Doberman Pajamas",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.99,
+      "price_old": 24.99,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": 4.6,
+      "condition": "code",
+      "code": "HEVFHIIG",
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/71XS68nxwKL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0BFBVJZ89/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20223171",
+      "published_at": "2026-11-02T23:45:43+00:00",
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
+    },
     {
       "asin": "B09CCVFYVT",
       "title": "Lightning Deal: 10-Pack Elegrp 15A USB Wall Outlet w/ 3-Port 30W USB-C & USB-A (Grey)",
@@ -80,11 +124,11 @@
       "price_old": 14.99,
       "currency": "USD",
       "discount_pct": 30.0,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22168302.thumb",
+      "image": "https://m.media-amazon.com/images/I/81sNnJFZHPL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B07D4RN9NH/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20239224",
@@ -243,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20245161",
       "published_at": "2026-11-02T21:45:42+00:00",
-      "revalidated_at": "2026-11-02T21:45:42+00:00"
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
     },
     {
       "asin": "B0GF7NVHFZ",
@@ -265,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20229909",
       "published_at": "2026-11-02T21:45:42+00:00",
-      "revalidated_at": "2026-11-02T21:45:42+00:00"
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
     },
     {
       "asin": "B0H8Y16365",
@@ -441,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20245584",
       "published_at": "2026-11-02T19:49:16+00:00",
-      "revalidated_at": "2026-11-02T21:45:42+00:00"
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
     },
     {
       "asin": "B0F99DY1TV",
@@ -508,28 +552,6 @@
       "deal_key": "sd:20245293",
       "published_at": "2026-11-02T18:15:37+00:00",
       "revalidated_at": "2026-11-02T22:00:42+00:00"
-    },
-    {
-      "asin": "B0D8N1HP7F",
-      "title": "Imaginary Steelbook Edition 4K UHD + Blu Ray + Digital",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 10.45,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 65.2,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81QrPvm11vL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D8N1HP7F/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20244147",
-      "published_at": "2026-11-02T18:00:30+00:00",
-      "revalidated_at": "2026-11-02T21:45:42+00:00"
     },
     {
       "asin": "B0H4GGKZ5Z",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20244408",
       "published_at": "2026-11-02T16:00:48+00:00",
-      "revalidated_at": "2026-11-02T21:45:42+00:00"
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
     },
     {
       "asin": "B0FSF6CKJB",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20244213",
       "published_at": "2026-11-02T16:00:48+00:00",
-      "revalidated_at": "2026-11-02T21:45:42+00:00"
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
     },
     {
       "asin": "B0CG6NBJ61",
@@ -1717,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20232540",
       "published_at": "2026-11-02T02:15:35+00:00",
-      "revalidated_at": "2026-11-02T21:30:45+00:00"
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
     },
     {
       "asin": "B0033090D2",
@@ -1739,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20241477",
       "published_at": "2026-11-02T02:01:03+00:00",
-      "revalidated_at": "2026-11-02T21:30:45+00:00"
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
     },
     {
       "asin": "B0GX4ZBLZ7",
@@ -1761,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20241849",
       "published_at": "2026-11-02T02:01:03+00:00",
-      "revalidated_at": "2026-11-02T21:30:45+00:00"
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
     },
     {
       "asin": "1481497677",
@@ -1783,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20210532",
       "published_at": "2026-11-02T02:01:03+00:00",
-      "revalidated_at": "2026-11-02T21:30:45+00:00"
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
     },
     {
       "asin": "B0FTHZ6LGH",
@@ -1805,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20214360",
       "published_at": "2026-11-02T01:45:40+00:00",
-      "revalidated_at": "2026-11-02T21:30:45+00:00"
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
     },
     {
       "asin": "B0H637M2GX",
@@ -1827,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20240943",
       "published_at": "2026-11-02T01:45:40+00:00",
-      "revalidated_at": "2026-11-02T21:30:45+00:00"
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
     },
     {
       "asin": "B09HWGP8GL",
@@ -2069,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20222136",
       "published_at": "2026-11-02T00:16:03+00:00",
-      "revalidated_at": "2026-11-02T21:30:45+00:00"
+      "revalidated_at": "2026-11-02T23:45:43+00:00"
     },
     {
       "asin": "B08QTXNCKD",
@@ -2596,50 +2618,6 @@
       "url": "https://amazon.com/dp/B0DJ197M66/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20239617",
-      "published_at": "2026-11-01T18:30:36+00:00",
-      "revalidated_at": "2026-11-02T23:15:47+00:00"
-    },
-    {
-      "asin": "B0FMSD393S",
-      "title": "201-Piece LEGO Marvel Super Heroes: Spider-Man 3 - Epic Battle: Spider-Man vs. Sandman (76334)",
-      "title_es": "LEGO Marvel Super Heroes: Spider-Man 3 - Batalla Épica: Spider-Man vs. Sandman (76334) de 201 piezas",
-      "headline": null,
-      "post": "Recrea la emocionante Batalla Épica entre Spider-Man y Sandman con este set LEGO Marvel Super Heroes. Ideal para jóvenes fans del Hombre Araña que disfrutan de la acción y la construcción.",
-      "post_en": "Recreate the thrilling Epic Battle between Spider-Man and Sandman with this 201-piece LEGO Marvel Super Heroes set. Perfect for young Spider-Man fans who enjoy action and building.",
-      "price_new": 19.95,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 43.0,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/811rEPdArWL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FMSD393S/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20239410",
-      "published_at": "2026-11-01T18:30:36+00:00",
-      "revalidated_at": "2026-11-02T23:15:47+00:00"
-    },
-    {
-      "asin": "B0GWLTLPYQ",
-      "title": "Turtle Beach Rematch Wired Controller Goomba Stomp Nintendo Switch 2 at Amazon",
-      "title_es": "Mando con cable Turtle Beach Rematch Goomba Stomp para Nintendo Switch 2",
-      "headline": null,
-      "post": "Mejora tu experiencia de juego en Nintendo Switch con este mando con cable Turtle Beach Rematch. Ofrece precisión y comodidad para largas sesiones, ideal para jugadores que buscan un control fiable.",
-      "post_en": "Enhance your Nintendo Switch gaming experience with this Turtle Beach Rematch Wired Controller. It offers precision and comfort for long sessions, ideal for gamers seeking reliable control.",
-      "price_new": 19.99,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 33.3,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71vf2KHuRsL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GWLTLPYQ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20239149",
       "published_at": "2026-11-01T18:30:36+00:00",
       "revalidated_at": "2026-11-02T23:15:47+00:00"
     }
