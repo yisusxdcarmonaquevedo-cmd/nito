@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02T18:30:45+00:00",
+  "generated_at": "2026-11-02T18:45:37+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
     {
       "asin": "B0FM8QQ8JJ",
@@ -14,11 +14,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 91.4,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "7JM9M5CM",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/22182756.thumb",
+      "image": "https://m.media-amazon.com/images/I/91WdB2FtuNL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FM8QQ8JJ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20245293",
@@ -112,28 +112,6 @@
       "deal_key": "sd:20243505",
       "published_at": "2026-11-02T17:00:49+00:00",
       "revalidated_at": "2026-11-02T17:00:49+00:00"
-    },
-    {
-      "asin": "B0H4VPMFCD",
-      "title": "PINSPARK Quarter Zip Pullover Men Lightweight Long Sleeve Sweatshirt Tops",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 13.99,
-      "price_old": 19.99,
-      "currency": "USD",
-      "discount_pct": 30.0,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/91kmUw+SOKL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H4VPMFCD/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20237745",
-      "published_at": "2026-11-02T16:45:41+00:00",
-      "revalidated_at": "2026-11-02T16:45:41+00:00"
     },
     {
       "asin": "B0CVSGMRHJ",
@@ -708,28 +686,6 @@
       "revalidated_at": "2026-11-02T17:15:40+00:00"
     },
     {
-      "asin": "B0D4RJGFDT",
-      "title": "Metal Gear Solid Delta: Snake Eater Tactical Edition (PlayStation 5) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 25.0,
-      "price_old": 49.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/915Egnuk2uL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D4RJGFDT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20243424",
-      "published_at": "2026-11-02T12:46:15+00:00",
-      "revalidated_at": "2026-11-02T16:45:41+00:00"
-    },
-    {
       "asin": "B09T5T9HWD",
       "title": "The Offspring: Greatest Hits (Vinyl LP) at Amazon",
       "title_es": null,
@@ -749,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20242863",
       "published_at": "2026-11-02T12:46:15+00:00",
-      "revalidated_at": "2026-11-02T16:45:41+00:00"
+      "revalidated_at": "2026-11-02T18:45:37+00:00"
     },
     {
       "asin": "B0DWSVPY33",
@@ -859,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20228868",
       "published_at": "2026-11-02T10:45:30+00:00",
-      "revalidated_at": "2026-11-02T16:45:41+00:00"
+      "revalidated_at": "2026-11-02T18:45:37+00:00"
     },
     {
       "asin": "B002ROKQGA",
@@ -1233,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20234781",
       "published_at": "2026-11-02T02:46:05+00:00",
-      "revalidated_at": "2026-11-02T16:45:41+00:00"
+      "revalidated_at": "2026-11-02T18:45:37+00:00"
     },
     {
       "asin": "B0GFMGWS8N",
@@ -1255,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20241480",
       "published_at": "2026-11-02T02:46:05+00:00",
-      "revalidated_at": "2026-11-02T16:45:41+00:00"
+      "revalidated_at": "2026-11-02T18:45:37+00:00"
     },
     {
       "asin": "B0GHR5298M",
@@ -1475,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20213526",
       "published_at": "2026-11-02T01:15:39+00:00",
-      "revalidated_at": "2026-11-02T16:45:41+00:00"
+      "revalidated_at": "2026-11-02T18:45:37+00:00"
     },
     {
       "asin": "B002TOL40A",
@@ -1497,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20232036",
       "published_at": "2026-11-02T01:15:39+00:00",
-      "revalidated_at": "2026-11-02T16:45:41+00:00"
+      "revalidated_at": "2026-11-02T18:45:37+00:00"
     },
     {
       "asin": "B0GH8GV8TV",
@@ -1585,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20217105",
       "published_at": "2026-11-02T00:46:11+00:00",
-      "revalidated_at": "2026-11-02T16:30:35+00:00"
+      "revalidated_at": "2026-11-02T18:45:37+00:00"
     },
     {
       "asin": "B0F1P9LDB4",
@@ -1827,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20223084",
       "published_at": "2026-11-01T22:59:40+00:00",
-      "revalidated_at": "2026-11-02T16:45:41+00:00"
+      "revalidated_at": "2026-11-02T18:45:37+00:00"
     },
     {
       "asin": "B0CPYWHRXQ",
@@ -2003,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20239026",
       "published_at": "2026-11-01T21:16:17+00:00",
-      "revalidated_at": "2026-11-02T16:45:41+00:00"
+      "revalidated_at": "2026-11-02T18:45:37+00:00"
     },
     {
       "asin": "B0FJS4MBHK",
@@ -2025,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20240049",
       "published_at": "2026-11-01T20:45:49+00:00",
-      "revalidated_at": "2026-11-02T16:45:41+00:00"
+      "revalidated_at": "2026-11-02T18:45:37+00:00"
     },
     {
       "asin": "B0DQYLSHKF",
@@ -2047,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20237223",
       "published_at": "2026-11-01T20:30:53+00:00",
-      "revalidated_at": "2026-11-02T16:45:41+00:00"
+      "revalidated_at": "2026-11-02T18:45:37+00:00"
     },
     {
       "asin": "B07QQ8P5K6",
@@ -2069,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20238948",
       "published_at": "2026-11-01T20:30:53+00:00",
-      "revalidated_at": "2026-11-02T16:45:41+00:00"
+      "revalidated_at": "2026-11-02T18:45:37+00:00"
     },
     {
       "asin": "B0H3PCC2DY",
@@ -2597,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20239248",
       "published_at": "2026-11-01T15:45:51+00:00",
-      "revalidated_at": "2026-11-02T16:30:35+00:00"
+      "revalidated_at": "2026-11-02T18:45:37+00:00"
     },
     {
       "asin": "B0F6TK43JT",
