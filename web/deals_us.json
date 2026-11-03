@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-03T13:45:31+00:00",
+  "generated_at": "2026-11-03T14:00:33+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0BBQX7P5J",
+      "title": "Dreamegg Portable USB-C Rechargeable White Noise Machine (Classic White)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 10.5,
+      "price_old": 32.99,
+      "currency": "USD",
+      "discount_pct": 68.2,
+      "rating": 4.5,
+      "condition": "code",
+      "code": "2N4DCCEG",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71Il67Mwk-L._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0BBQX7P5J/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20246913",
+      "published_at": "2026-11-03T14:00:33+00:00",
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
+    },
     {
       "asin": "B00A73FORE",
       "title": "Basic Machines and How They Work (Kindle eBook)",
@@ -124,16 +146,16 @@
       "price_old": 60.0,
       "currency": "USD",
       "discount_pct": 40.9,
-      "rating": null,
+      "rating": 4.3,
       "condition": "sns",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/7/2/9/6/9/0/450x450/22154766.thumb",
+      "image": "https://m.media-amazon.com/images/I/916ARBddfUL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B000R7XED6/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20233641",
       "published_at": "2026-11-03T12:00:38+00:00",
-      "revalidated_at": "2026-11-03T12:00:38+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B0F8ZZP41G",
@@ -199,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20239041",
       "published_at": "2026-11-03T10:00:36+00:00",
-      "revalidated_at": "2026-11-03T12:00:38+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B0D281Q4QK",
@@ -595,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20245185",
       "published_at": "2026-11-03T02:16:07+00:00",
-      "revalidated_at": "2026-11-03T12:00:38+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B0GC3S8SMG",
@@ -617,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20246274",
       "published_at": "2026-11-03T02:16:07+00:00",
-      "revalidated_at": "2026-11-03T12:00:38+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B0GKDL8674",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20232258",
       "published_at": "2026-11-03T02:16:07+00:00",
-      "revalidated_at": "2026-11-03T12:00:38+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B0GSGHQ7RK",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20245848",
       "published_at": "2026-11-03T02:16:07+00:00",
-      "revalidated_at": "2026-11-03T12:00:38+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B0GTV163MD",
@@ -683,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20244720",
       "published_at": "2026-11-03T02:16:07+00:00",
-      "revalidated_at": "2026-11-03T12:00:38+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B00006IE8P",
@@ -881,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20240793",
       "published_at": "2026-11-03T00:31:02+00:00",
-      "revalidated_at": "2026-11-03T12:00:38+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B0GFF1JP2X",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20243034",
       "published_at": "2026-11-03T00:31:02+00:00",
-      "revalidated_at": "2026-11-03T12:00:38+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B0GH93123D",
@@ -925,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20227830",
       "published_at": "2026-11-03T00:31:02+00:00",
-      "revalidated_at": "2026-11-03T12:00:38+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B0DKW2H52M",
@@ -2377,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20230656",
       "published_at": "2026-11-02T04:00:43+00:00",
-      "revalidated_at": "2026-11-03T11:45:32+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B002DWA2NI",
@@ -2399,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20241816",
       "published_at": "2026-11-02T03:30:48+00:00",
-      "revalidated_at": "2026-11-03T11:45:32+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B01EKLL03A",
@@ -2421,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20241819",
       "published_at": "2026-11-02T03:30:48+00:00",
-      "revalidated_at": "2026-11-03T11:45:32+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B0H8W5MZ9P",
@@ -2443,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20228817",
       "published_at": "2026-11-02T03:30:48+00:00",
-      "revalidated_at": "2026-11-03T11:45:32+00:00"
+      "revalidated_at": "2026-11-03T14:00:33+00:00"
     },
     {
       "asin": "B0FMY7N2HD",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:20241477",
       "published_at": "2026-11-02T02:01:03+00:00",
       "revalidated_at": "2026-11-03T12:00:38+00:00"
-    },
-    {
-      "asin": "B0GX4ZBLZ7",
-      "title": "12-Cup Silicone Muffin Pan, Carbon Steel Frame, Non-stick, Easy Release",
-      "title_es": "Molde de Silicona para 12 Magdalenas, Marco de Acero al Carbono, Antiadherente, Fácil de Desmoldar",
-      "headline": null,
-      "post": "Este molde de silicona para 12 muffins cuenta con un marco de acero al carbono para mayor estabilidad y durabilidad. Su superficie antiadherente garantiza un desmolde fácil, ideal para tus creaciones de repostería casera. 🧁",
-      "post_en": "This 12-cup silicone muffin pan features a carbon steel frame for added stability and durability. Its non-stick surface ensures easy release, perfect for your homemade baking creations. 🧁",
-      "price_new": 8.99,
-      "price_old": 17.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.8,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71M7oQr8Z0L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GX4ZBLZ7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20241849",
-      "published_at": "2026-11-02T02:01:03+00:00",
-      "revalidated_at": "2026-11-03T12:15:32+00:00"
     }
   ]
 }
