@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T19:00:55+00:00",
+  "generated_at": "2026-11-03T19:15:43+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
     {
       "asin": "B0F3D11PQB",
@@ -14,11 +14,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 62.9,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "TDX5YJ54",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/22194534.thumb",
+      "image": "https://m.media-amazon.com/images/I/715VieCXlLL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F3D11PQB/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20249631",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20237469",
       "published_at": "2026-11-03T17:16:00+00:00",
-      "revalidated_at": "2026-11-03T17:16:00+00:00"
+      "revalidated_at": "2026-11-03T19:15:43+00:00"
     },
     {
       "asin": "B00009RF1E",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20224365",
       "published_at": "2026-11-03T17:16:00+00:00",
-      "revalidated_at": "2026-11-03T17:16:00+00:00"
+      "revalidated_at": "2026-11-03T19:15:43+00:00"
     },
     {
       "asin": "B0DHLFP4QN",
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20248719",
       "published_at": "2026-11-03T17:16:00+00:00",
-      "revalidated_at": "2026-11-03T17:16:00+00:00"
+      "revalidated_at": "2026-11-03T19:15:43+00:00"
     },
     {
       "asin": "B0DQY58FCD",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20248965",
       "published_at": "2026-11-03T15:15:43+00:00",
-      "revalidated_at": "2026-11-03T17:16:00+00:00"
+      "revalidated_at": "2026-11-03T19:15:43+00:00"
     },
     {
       "asin": "B0G5XYNLNC",
@@ -551,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20249550",
       "published_at": "2026-11-03T15:15:43+00:00",
-      "revalidated_at": "2026-11-03T17:16:00+00:00"
+      "revalidated_at": "2026-11-03T19:15:43+00:00"
     },
     {
       "asin": "B00FMHPPLU",
@@ -1038,28 +1038,6 @@
       "revalidated_at": "2026-11-03T19:00:55+00:00"
     },
     {
-      "asin": "B0009RF8KG",
-      "title": "30-Ct Emergen-C 1000mg Vitamin C Immune Support Powder (Raspberry)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 5.85,
-      "price_old": 12.99,
-      "currency": "USD",
-      "discount_pct": 55.0,
-      "rating": 4.8,
-      "condition": "sns",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/71L9RG5R-tL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0009RF8KG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20243880",
-      "published_at": "2026-11-03T11:00:43+00:00",
-      "revalidated_at": "2026-11-03T17:00:49+00:00"
-    },
-    {
       "asin": "B07ZK6PM4N",
       "title": "CRAFTSMAN 20V MAX Impact Driver Kit, 1/4 Inch, Battery and Charger Included (CMCF800C1) at Amazon",
       "title_es": null,
@@ -1299,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20246643",
       "published_at": "2026-11-03T05:15:42+00:00",
-      "revalidated_at": "2026-11-03T17:00:49+00:00"
+      "revalidated_at": "2026-11-03T19:15:43+00:00"
     },
     {
       "asin": "B0F6LV656P",
@@ -1651,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20245662",
       "published_at": "2026-11-03T01:30:51+00:00",
-      "revalidated_at": "2026-11-03T17:00:49+00:00"
+      "revalidated_at": "2026-11-03T19:15:43+00:00"
     },
     {
       "asin": "B0GY6YMQNQ",
@@ -1673,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20235111",
       "published_at": "2026-11-03T01:30:51+00:00",
-      "revalidated_at": "2026-11-03T17:00:49+00:00"
+      "revalidated_at": "2026-11-03T19:15:43+00:00"
     },
     {
       "asin": "B0DCVMN51Z",
@@ -1871,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20245428",
       "published_at": "2026-11-02T23:30:57+00:00",
-      "revalidated_at": "2026-11-03T17:00:49+00:00"
+      "revalidated_at": "2026-11-03T19:15:43+00:00"
     },
     {
       "asin": "B0FKX5PB5T",
@@ -1893,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20244927",
       "published_at": "2026-11-02T23:30:57+00:00",
-      "revalidated_at": "2026-11-03T17:00:49+00:00"
+      "revalidated_at": "2026-11-03T19:15:43+00:00"
     },
     {
       "asin": "B07D4RN9NH",
@@ -1915,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20239224",
       "published_at": "2026-11-02T23:30:57+00:00",
-      "revalidated_at": "2026-11-03T17:00:49+00:00"
+      "revalidated_at": "2026-11-03T19:15:43+00:00"
     },
     {
       "asin": "B0GCDB9KTQ",
@@ -2289,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20241219",
       "published_at": "2026-11-02T19:30:45+00:00",
-      "revalidated_at": "2026-11-03T17:00:49+00:00"
+      "revalidated_at": "2026-11-03T19:15:43+00:00"
     },
     {
       "asin": "B0FM8QQ8JJ",
@@ -2356,28 +2334,6 @@
       "deal_key": "sd:20242827",
       "published_at": "2026-11-02T17:15:40+00:00",
       "revalidated_at": "2026-11-03T17:16:00+00:00"
-    },
-    {
-      "asin": "B00DZR75G2",
-      "title": "Quest Nutrition White Chocolate Raspberry Protein Bars, 20g Protein, 1g Sugar, 5g Net Carb, High Fiber, Gluten Free, Keto Friendly, 12 Count~$18.88 With S&S @ Amazon",
-      "title_es": "Barritas de proteínas Quest Nutrition White Chocolate Raspberry, 12 unidades",
-      "headline": null,
-      "post": "Disfruta de las barritas Quest Nutrition White Chocolate Raspberry, con 20g de proteína, solo 1g de azúcar y 5g de carbohidratos netos, además de ser ricas en fibra, sin gluten y aptas para dieta keto. Son un snack delicioso y nutritivo para quienes cuidan su alimentación.",
-      "post_en": "Enjoy Quest Nutrition White Chocolate Raspberry protein bars, with 20g of protein, only 1g of sugar, and 5g net carbs, plus being high in fiber, gluten-free, and keto-friendly. They are a delicious and nutritious snack for those mindful of their diet.",
-      "price_new": 18.88,
-      "price_old": 59.0,
-      "currency": "USD",
-      "discount_pct": 68.0,
-      "rating": null,
-      "condition": "sns",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/7/2/9/6/9/0/450x450/22177632.thumb",
-      "url": "https://amazon.com/dp/B00DZR75G2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20243505",
-      "published_at": "2026-11-02T17:00:49+00:00",
-      "revalidated_at": "2026-11-03T17:00:49+00:00"
     },
     {
       "asin": "B0CVSGMRHJ",
@@ -2619,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20228169",
       "published_at": "2026-11-02T15:00:35+00:00",
-      "revalidated_at": "2026-11-03T17:00:49+00:00"
+      "revalidated_at": "2026-11-03T19:15:43+00:00"
     },
     {
       "asin": "B0GVTJZ5FF",
