@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:31:02+00:00",
+  "generated_at": "2026-11-03T00:45:37+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20221500",
       "published_at": "2026-11-02T22:45:48+00:00",
-      "revalidated_at": "2026-11-02T22:45:48+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B0DHYM39NY",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20245485",
       "published_at": "2026-11-02T22:45:48+00:00",
-      "revalidated_at": "2026-11-02T22:45:48+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B08K9DDWZY",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20246025",
       "published_at": "2026-11-02T22:45:48+00:00",
-      "revalidated_at": "2026-11-02T22:45:48+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B00JAP44MQ",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20229300",
       "published_at": "2026-11-02T20:46:17+00:00",
-      "revalidated_at": "2026-11-02T22:45:48+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B0GTN8NKN4",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20245704",
       "published_at": "2026-11-02T20:46:17+00:00",
-      "revalidated_at": "2026-11-02T22:45:48+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B0DS6LKM6G",
@@ -705,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20243505",
       "published_at": "2026-11-02T17:00:49+00:00",
-      "revalidated_at": "2026-11-02T22:45:48+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B0CVSGMRHJ",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20228169",
       "published_at": "2026-11-02T15:00:35+00:00",
-      "revalidated_at": "2026-11-02T22:45:48+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B0GVTJZ5FF",
@@ -1172,10 +1172,10 @@
     {
       "asin": "B00DG8EZKO",
       "title": "16.9-Oz NIVEA Intense Healing Body Lotion",
-      "title_es": null,
+      "title_es": "NIVEA Intense Healing Body Lotion 16.9-Oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta loción corporal NIVEA ofrece hidratación intensa para pieles muy secas. Su fórmula ayuda a restaurar la barrera cutánea, dejando la piel suave y nutrida. 🧴",
+      "post_en": "This NIVEA body lotion provides intense hydration for very dry skin. Its formula helps restore the skin barrier, leaving skin soft and nourished. 🧴",
       "price_new": 4.55,
       "price_old": 35.0,
       "currency": "USD",
@@ -1194,10 +1194,10 @@
     {
       "asin": "B0FWFJ5Q2Z",
       "title": "Ring Floodlight Cam 2K (newest model), Wired, Home or business security, Wide-Angle Retinal 2K Video, 6x Enhanced Zoom, Ultra-Bright Floodlights, White",
-      "title_es": null,
+      "title_es": "Ring Floodlight Cam 2K (modelo nuevo) con cable, blanca",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La Ring Floodlight Cam 2K es una cámara de seguridad cableada con vídeo 2K de gran angular y focos ultrabrillantes. Ideal para proteger tu hogar o negocio con vigilancia avanzada y zoom 6x.",
+      "post_en": "The Ring Floodlight Cam 2K is a wired security camera featuring wide-angle 2K video and ultra-bright floodlights. Perfect for protecting your home or business with advanced surveillance and 6x zoom.",
       "price_new": 99.99,
       "price_old": 199.99,
       "currency": "USD",
@@ -1216,10 +1216,10 @@
     {
       "asin": "B0DHLGFRV3",
       "title": "269-Pc LEGO Speed Champions McLaren F1 Team MCL38 Race Car at Amazon",
-      "title_es": null,
+      "title_es": "LEGO Speed Champions McLaren F1 Team MCL38 Race Car (269 piezas)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Construye el impresionante coche de carreras McLaren F1 Team MCL38 con este set de LEGO Speed Champions. Un regalo perfecto para entusiastas del automovilismo y fans de LEGO. 🏎️",
+      "post_en": "Build the impressive McLaren F1 Team MCL38 race car with this LEGO Speed Champions set. A perfect gift for motorsport enthusiasts and LEGO fans. 🏎️",
       "price_new": 15.39,
       "price_old": 26.99,
       "currency": "USD",
@@ -1238,10 +1238,10 @@
     {
       "asin": "B09T5T9HWD",
       "title": "The Offspring: Greatest Hits (Vinyl LP) at Amazon",
-      "title_es": null,
+      "title_es": "The Offspring: Greatest Hits (Vinilo LP)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Revive los éxitos de The Offspring con esta edición en vinilo LP. Imprescindible para coleccionistas y amantes del punk rock. 🎶",
+      "post_en": "Relive The Offspring's greatest hits with this Vinyl LP edition. A must-have for collectors and punk rock lovers. 🎶",
       "price_new": 18.1,
       "price_old": 27.98,
       "currency": "USD",
@@ -1260,10 +1260,10 @@
     {
       "asin": "B0DWSVPY33",
       "title": "10\" Tramontina Tempo Tri-Ply Base Stainless Steel Frying Pan",
-      "title_es": null,
+      "title_es": "Sartén Tramontina Tempo de acero inoxidable con base Tri-Ply de 10\"",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta sartén Tramontina Tempo de 10\" cuenta con una base Tri-Ply para una distribución uniforme del calor. Ideal para cocinar tus platos favoritos con eficiencia y durabilidad.",
+      "post_en": "This 10\" Tramontina Tempo frying pan features a Tri-Ply base for even heat distribution. Ideal for cooking your favorite dishes with efficiency and durability.",
       "price_new": 22.0,
       "price_old": 35.0,
       "currency": "USD",
@@ -1282,10 +1282,10 @@
     {
       "asin": "B0BZFGSY5W",
       "title": "Sonic Origins Plus (Nintendo Switch)",
-      "title_es": null,
+      "title_es": "Sonic Origins Plus (Nintendo Switch)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de la colección clásica de Sonic con Sonic Origins Plus para Nintendo Switch. Incluye nuevos personajes jugables y contenido adicional para horas de diversión. 🎮",
+      "post_en": "Enjoy the classic Sonic collection with Sonic Origins Plus for Nintendo Switch. It includes new playable characters and bonus content for hours of fun. 🎮",
       "price_new": 17.97,
       "price_old": 35.0,
       "currency": "USD",
@@ -1304,10 +1304,10 @@
     {
       "asin": "B0DYF81Q3T",
       "title": "2-Pack 6' 2-in-1 USB-C to USB-C & USB-A to USB-C 100W Nylon Braided Charging Cable",
-      "title_es": null,
+      "title_es": "Pack de 2 cables de carga trenzados de nailon 2 en 1 USB-C a USB-C y USB-A a USB-C de 100W (6')",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack incluye dos cables de carga trenzados de nailon de 6 pies, compatibles con USB-C a USB-C y USB-A a USB-C, con 100W de potencia. Son perfectos para cargar rápidamente una amplia gama de dispositivos.",
+      "post_en": "This pack includes two 6-foot nylon braided charging cables, compatible with USB-C to USB-C and USB-A to USB-C, offering 100W power. They are perfect for fast charging a wide range of devices.",
       "price_new": 4.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1326,10 +1326,10 @@
     {
       "asin": "B0FNCS2FZ2",
       "title": "YaberAuto 20-in-1 Jump Starter with Air Compressor 8000A 160PSI, Tool Kits",
-      "title_es": null,
+      "title_es": "Arrancador de coches YaberAuto 20 en 1 con compresor de aire 8000A 160PSI y kits de herramientas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El YaberAuto 20 en 1 es un arrancador de coches potente con compresor de aire integrado de 8000A y 160PSI. Incluye múltiples herramientas, siendo ideal para emergencias en carretera y mantenimiento básico del vehículo.",
+      "post_en": "The YaberAuto 20-in-1 is a powerful car jump starter with an integrated 8000A 160PSI air compressor. It includes multiple tool kits, making it ideal for roadside emergencies and basic vehicle maintenance.",
       "price_new": 70.19,
       "price_old": 116.99,
       "currency": "USD",
@@ -1343,15 +1343,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20239800",
       "published_at": "2026-11-02T11:00:29+00:00",
-      "revalidated_at": "2026-11-02T22:45:48+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B0F47CCRLX",
       "title": "ECOHUB 6 Piece Set Packing Cubes for Travel",
-      "title_es": null,
+      "title_es": "Set de 6 cubos de embalaje ECOHUB para viaje",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Organiza tu equipaje de forma eficiente con este set de 6 cubos de embalaje ECOHUB. Son ideales para mantener tu ropa y accesorios ordenados durante tus viajes. ✈️",
+      "post_en": "Organize your luggage efficiently with this 6-piece ECOHUB packing cube set. They are ideal for keeping your clothes and accessories tidy during your travels. ✈️",
       "price_new": 13.49,
       "price_old": 26.99,
       "currency": "USD",
@@ -1370,10 +1370,10 @@
     {
       "asin": "B002ROKQGA",
       "title": "What the Dog Saw: And Other Adventures (eBook) by Malcolm Gladwell",
-      "title_es": null,
+      "title_es": "What the Dog Saw: And Other Adventures (eBook) de Malcolm Gladwell",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Descubre una colección de ensayos perspicaces de Malcolm Gladwell en este eBook. Ideal para mentes curiosas interesadas en análisis sociales y psicológicos. 📚",
+      "post_en": "Discover a collection of insightful essays by Malcolm Gladwell in this eBook. Ideal for curious minds interested in social and psychological analyses. 📚",
       "price_new": 1.99,
       "price_old": 11.99,
       "currency": "USD",
@@ -1392,10 +1392,10 @@
     {
       "asin": "B0HBBZDPML",
       "title": "BEQOOL 3-Mode Hot Towel Warmer & Dispenser Machine w/ 44-Count Compressed Facial Towels",
-      "title_es": null,
+      "title_es": "Calentador y Dispensador de Toallas Calientes BEQOOL 3 Modos con 44 Toallas Faciales Comprimidas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este calentador y dispensador de toallas BEQOOL ofrece 3 modos para una experiencia de spa en casa. Incluye 44 toallas faciales comprimidas, ideal para relajación o rutinas de cuidado personal. ✨",
+      "post_en": "This BEQOOL towel warmer and dispenser features 3 modes for a relaxing spa experience at home. It comes with 44 compressed facial towels, perfect for personal care routines or a moment of relaxation. ✨",
       "price_new": 43.99,
       "price_old": 109.99,
       "currency": "USD",
@@ -1414,10 +1414,10 @@
     {
       "asin": "B0D9GPGTV6",
       "title": "PAPIFEED Dog Nail Grinder 3-Speed LCD Display Quiet Safe Pet Nail Trimmers",
-      "title_es": null,
+      "title_es": "Lima de Uñas para Perros PAPIFEED con Pantalla LCD de 3 Velocidades, Silenciosa y Segura",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La lima de uñas para perros PAPIFEED facilita el cuidado de las patas de tu mascota con su diseño silencioso y seguro. Cuenta con una pantalla LCD y 3 velocidades ajustables, ideal para un limado preciso y sin estrés. 🐾",
+      "post_en": "The PAPIFEED Dog Nail Grinder makes pet paw care easy with its quiet and safe design. Featuring an LCD display and 3 adjustable speeds, it's perfect for precise, stress-free nail trimming. 🐾",
       "price_new": 13.77,
       "price_old": 21.99,
       "currency": "USD",
@@ -2047,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20215095",
       "published_at": "2026-11-02T00:46:11+00:00",
-      "revalidated_at": "2026-11-02T22:30:34+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B08HH797BD",
@@ -2069,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20237841",
       "published_at": "2026-11-02T00:46:11+00:00",
-      "revalidated_at": "2026-11-02T22:30:34+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B0HF3H4W82",
@@ -2091,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20217105",
       "published_at": "2026-11-02T00:46:11+00:00",
-      "revalidated_at": "2026-11-02T22:30:34+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B0F1P9LDB4",
@@ -2245,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20241435",
       "published_at": "2026-11-02T00:16:03+00:00",
-      "revalidated_at": "2026-11-02T22:30:34+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B0H1MNZ56G",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20223084",
       "published_at": "2026-11-01T22:59:40+00:00",
-      "revalidated_at": "2026-11-02T22:30:34+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B0CPYWHRXQ",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20238957",
       "published_at": "2026-11-01T22:30:43+00:00",
-      "revalidated_at": "2026-11-02T22:30:34+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B0GQJPQ78T",
@@ -2377,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20238960",
       "published_at": "2026-11-01T22:15:40+00:00",
-      "revalidated_at": "2026-11-02T22:30:34+00:00"
+      "revalidated_at": "2026-11-03T00:45:37+00:00"
     },
     {
       "asin": "B098PGY72Q",
