@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-03T14:45:51+00:00",
+  "generated_at": "2026-11-03T15:00:55+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B00FMHPPLU",
+      "title": "Amazon: DEWALT Oscillating Tool Blade, Fast Cutting, Wood (DWA4206) (Reg",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.6,
+      "price_old": 17.79,
+      "currency": "USD",
+      "discount_pct": 57.3,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/5/3/8/0/3/450x450/22151721.thumb",
+      "url": "https://amazon.com/dp/B00FMHPPLU/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20232546",
+      "published_at": "2026-11-03T15:00:55+00:00",
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
+    },
+    {
+      "asin": "B0F4LSGPRF",
+      "title": "New Balance Men's Fresh Foam 520 v9 Running Shoes (various colors) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 48.99,
+      "price_old": 69.99,
+      "currency": "USD",
+      "discount_pct": 30.0,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://m.media-amazon.com/images/I/71d5H67c0SL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0F4LSGPRF/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20248494",
+      "published_at": "2026-11-03T15:00:55+00:00",
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
+    },
     {
       "asin": "B0D7PZSS7P",
       "title": "eSUN 1KG 1.75mm PLA+ Spoolless 3D Printer Refill Filament (Cold White)",
@@ -14,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 68.6,
-      "rating": null,
+      "rating": 4.5,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/3/1/1/9/6/7/1/6/450x450/22183809.thumb",
+      "image": "https://m.media-amazon.com/images/I/61609Fpe3rL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D7PZSS7P/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20245665",
@@ -463,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20246583",
       "published_at": "2026-11-03T11:00:43+00:00",
-      "revalidated_at": "2026-11-03T13:00:47+00:00"
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
     },
     {
       "asin": "B0009RF8KG",
@@ -485,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20243880",
       "published_at": "2026-11-03T11:00:43+00:00",
-      "revalidated_at": "2026-11-03T13:00:47+00:00"
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
     },
     {
       "asin": "B07ZK6PM4N",
@@ -727,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20246643",
       "published_at": "2026-11-03T05:15:42+00:00",
-      "revalidated_at": "2026-11-03T13:00:47+00:00"
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
     },
     {
       "asin": "B0F6LV656P",
@@ -1079,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20245662",
       "published_at": "2026-11-03T01:30:51+00:00",
-      "revalidated_at": "2026-11-03T13:00:47+00:00"
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
     },
     {
       "asin": "B0GY6YMQNQ",
@@ -1101,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20235111",
       "published_at": "2026-11-03T01:30:51+00:00",
-      "revalidated_at": "2026-11-03T13:00:47+00:00"
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
     },
     {
       "asin": "B0DCVMN51Z",
@@ -1299,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20245428",
       "published_at": "2026-11-02T23:30:57+00:00",
-      "revalidated_at": "2026-11-03T13:00:47+00:00"
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
     },
     {
       "asin": "B0FKX5PB5T",
@@ -1321,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20244927",
       "published_at": "2026-11-02T23:30:57+00:00",
-      "revalidated_at": "2026-11-03T13:00:47+00:00"
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
     },
     {
       "asin": "B07D4RN9NH",
@@ -1343,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20239224",
       "published_at": "2026-11-02T23:30:57+00:00",
-      "revalidated_at": "2026-11-03T13:00:47+00:00"
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
     },
     {
       "asin": "B0GCDB9KTQ",
@@ -1761,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20234493",
       "published_at": "2026-11-02T17:15:40+00:00",
-      "revalidated_at": "2026-11-03T12:45:47+00:00"
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
     },
     {
       "asin": "B0C4YTB56H",
@@ -1783,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20242827",
       "published_at": "2026-11-02T17:15:40+00:00",
-      "revalidated_at": "2026-11-03T12:45:47+00:00"
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
     },
     {
       "asin": "B00DZR75G2",
@@ -1896,28 +1940,6 @@
       "revalidated_at": "2026-11-03T13:00:47+00:00"
     },
     {
-      "asin": "B0CGYRH1J9",
-      "title": "430-Piece LEGO The Botanical Collection Cherry Blossoms",
-      "title_es": "LEGO The Botanical Collection Cherry Blossoms de 430 Piezas.",
-      "headline": null,
-      "post": "Crea una hermosa exhibición floral con este set LEGO The Botanical Collection Cherry Blossoms de 430 piezas. Es una forma relajante y creativa de disfrutar de la belleza de la naturaleza en casa. 🌸",
-      "post_en": "Create a beautiful floral display with this 430-piece LEGO The Botanical Collection Cherry Blossoms set. It's a relaxing and creative way to enjoy the beauty of nature at home. 🌸",
-      "price_new": 11.97,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 65.8,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81RPPKd0bAL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CGYRH1J9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20244231",
-      "published_at": "2026-11-02T15:31:00+00:00",
-      "revalidated_at": "2026-11-03T12:45:47+00:00"
-    },
-    {
       "asin": "B0CYF68811",
       "title": "24-Piece CRAFTSMAN 3/8 Inch Drive SAE Mechanics Tool Set at Amazon",
       "title_es": "Juego de Herramientas Mecánicas CRAFTSMAN de 24 Piezas, de 3/8 Pulgadas SAE.",
@@ -1937,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20238873",
       "published_at": "2026-11-02T15:16:00+00:00",
-      "revalidated_at": "2026-11-03T12:45:47+00:00"
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
     },
     {
       "asin": "B0D7HLVVY3",
@@ -2421,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20239800",
       "published_at": "2026-11-02T11:00:29+00:00",
-      "revalidated_at": "2026-11-03T12:45:47+00:00"
+      "revalidated_at": "2026-11-03T15:00:55+00:00"
     },
     {
       "asin": "B0F47CCRLX",
@@ -2598,50 +2620,6 @@
       "deal_key": "sd:20241927",
       "published_at": "2026-11-02T04:15:47+00:00",
       "revalidated_at": "2026-11-03T13:45:31+00:00"
-    },
-    {
-      "asin": "B0DYVCZRBS",
-      "title": "[Prime] 150psi Astroai L7 Mini Portable Tire Inflator Air Compressor (Orange)",
-      "title_es": "Mini compresor de aire portátil Astroai L7 de 150psi (Naranja)",
-      "headline": null,
-      "post": "Este mini compresor de aire portátil Astroai L7 de 150psi es una herramienta compacta y esencial para inflar neumáticos de coche, bicicleta o balones. Su diseño ligero lo hace fácil de transportar y usar en cualquier momento.",
-      "post_en": "This Astroai L7 150psi mini portable tire inflator air compressor is a compact and essential tool for inflating car tires, bicycle tires, or sports balls. Its lightweight design makes it easy to carry and use anytime.",
-      "price_new": 19.99,
-      "price_old": 49.99,
-      "currency": "USD",
-      "discount_pct": 60.0,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "7BOLCBVB",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71rZa5Wj1lL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DYVCZRBS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20225346",
-      "published_at": "2026-11-02T04:15:47+00:00",
-      "revalidated_at": "2026-11-03T14:30:57+00:00"
-    },
-    {
-      "asin": "B08DKC5XNK",
-      "title": "316-Count Funnlot Christmas Window Clings (8 Sheets)",
-      "title_es": "316 pegatinas navideñas Funnlot para ventanas (8 láminas)",
-      "headline": null,
-      "post": "Estas 8 láminas de pegatinas navideñas Funnlot para ventanas incluyen 316 diseños festivos para decorar tu hogar. Son fáciles de aplicar y remover, perfectas para crear un ambiente navideño sin esfuerzo.",
-      "post_en": "These 8 sheets of Funnlot Christmas window clings include 316 festive designs to decorate your home. They are easy to apply and remove, perfect for creating a Christmas atmosphere effortlessly.",
-      "price_new": 3.47,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 90.1,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "4H16CXCD",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/813l3NoIgzL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B08DKC5XNK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20241939",
-      "published_at": "2026-11-02T04:15:47+00:00",
-      "revalidated_at": "2026-11-03T14:30:57+00:00"
     }
   ]
 }
