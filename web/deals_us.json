@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-04T14:30:49+00:00",
+  "generated_at": "2026-11-04T14:45:56+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0FQVDTSQP",
+      "title": "Baseus E20 True Wireless Earbuds (White)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 74.3,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/0/6/6/3/5/5/9/450x450/22200918.thumb",
+      "url": "https://amazon.com/dp/B0FQVDTSQP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20251488",
+      "published_at": "2026-11-04T14:45:56+00:00",
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
+    },
     {
       "asin": "B001MS7HFU",
       "title": "1-Oz Neutrogena Healthy Skin Liquid Foundation SPF 20 (Buff, Classic Ivory, Fresh Beige & More)",
@@ -36,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 65.7,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "9DOHQNVQ",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/22135911.thumb",
+      "image": "https://m.media-amazon.com/images/I/61hxklfy0IL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GMH1TQ73/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20227368",
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20248599",
       "published_at": "2026-11-04T12:45:53+00:00",
-      "revalidated_at": "2026-11-04T12:45:53+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B0H82PFR7K",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20251815",
       "published_at": "2026-11-04T12:45:53+00:00",
-      "revalidated_at": "2026-11-04T12:45:53+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B0DFJ9PKK4",
@@ -309,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253570",
       "published_at": "2026-11-04T12:45:53+00:00",
-      "revalidated_at": "2026-11-04T12:45:53+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B0GQ6K2Z48",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20254134",
       "published_at": "2026-11-04T12:45:53+00:00",
-      "revalidated_at": "2026-11-04T12:45:53+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B0DLHC66DC",
@@ -969,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20252004",
       "published_at": "2026-11-04T06:00:42+00:00",
-      "revalidated_at": "2026-11-04T12:45:53+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B0HGPW7SJW",
@@ -991,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20251515",
       "published_at": "2026-11-04T05:45:41+00:00",
-      "revalidated_at": "2026-11-04T12:30:43+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B0HJJRC7YH",
@@ -1607,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20249748",
       "published_at": "2026-11-03T22:15:50+00:00",
-      "revalidated_at": "2026-11-04T12:30:43+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B0H8N51GD2",
@@ -1629,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20250759",
       "published_at": "2026-11-03T22:15:50+00:00",
-      "revalidated_at": "2026-11-04T12:30:43+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B0CR539MFC",
@@ -1849,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20211447",
       "published_at": "2026-11-03T20:00:48+00:00",
-      "revalidated_at": "2026-11-04T12:30:43+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B0CXPSBKVR",
@@ -2025,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20249646",
       "published_at": "2026-11-03T18:15:51+00:00",
-      "revalidated_at": "2026-11-04T12:30:43+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B0F663CWT8",
@@ -2047,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20248260",
       "published_at": "2026-11-03T18:15:51+00:00",
-      "revalidated_at": "2026-11-04T12:30:43+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B0B2DPX89K",
@@ -2069,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20239152",
       "published_at": "2026-11-03T17:45:58+00:00",
-      "revalidated_at": "2026-11-04T12:30:43+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B00IJ0ALYS",
@@ -2245,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20224023",
       "published_at": "2026-11-03T16:00:52+00:00",
-      "revalidated_at": "2026-11-04T12:30:43+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B000AN0UH0",
@@ -2267,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20242107",
       "published_at": "2026-11-03T15:45:42+00:00",
-      "revalidated_at": "2026-11-04T12:30:43+00:00"
+      "revalidated_at": "2026-11-04T14:45:56+00:00"
     },
     {
       "asin": "B0DJDRJZTK",
@@ -2618,28 +2640,6 @@
       "url": "https://amazon.com/dp/B0FMQV755D/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20233254",
-      "published_at": "2026-11-03T14:15:54+00:00",
-      "revalidated_at": "2026-11-04T12:45:53+00:00"
-    },
-    {
-      "asin": "B0C548MYF3",
-      "title": "Bose Smart Ultra Dolby Atmos Soundbar at Amazon",
-      "title_es": "Barra de Sonido Inteligente Bose Smart Ultra con Dolby Atmos",
-      "headline": null,
-      "post": "La barra de sonido inteligente Bose Smart Ultra con Dolby Atmos transforma tu experiencia de audio con un sonido envolvente e inmersivo. Es perfecta para cinéfilos y amantes de la música que buscan una calidad de sonido superior en su hogar. 🎶",
-      "post_en": "The Bose Smart Ultra Dolby Atmos Soundbar transforms your audio experience with immersive, enveloping sound. It's perfect for movie buffs and music lovers seeking superior sound quality in their home. 🎶",
-      "price_new": 649.0,
-      "price_old": 999.0,
-      "currency": "USD",
-      "discount_pct": 35.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22147686.thumb",
-      "url": "https://amazon.com/dp/B0C548MYF3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20231208",
       "published_at": "2026-11-03T14:15:54+00:00",
       "revalidated_at": "2026-11-04T12:45:53+00:00"
     }
