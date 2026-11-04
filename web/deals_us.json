@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T18:30:56+00:00",
+  "generated_at": "2026-11-04T18:45:54+00:00",
   "market": "us",
-  "count": 120,
+  "count": 117,
   "deals": [
     {
       "asin": "B0B69KPRPF",
@@ -212,11 +212,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 82.5,
-      "rating": null,
+      "rating": 5.0,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/22189707.thumb",
+      "image": "https://m.media-amazon.com/images/I/91qjqPffJgL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FWF4VXPM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20247972",
@@ -309,29 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20255163",
       "published_at": "2026-11-04T17:00:59+00:00",
-      "revalidated_at": "2026-11-04T17:00:59+00:00"
-    },
-    {
-      "asin": "B0CDRYW9M4",
-      "title": "BTFBM Women Faux Fur Coats Lapel Fleece Sherpa Jackets",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 25.99,
-      "price_old": 67.99,
-      "currency": "USD",
-      "discount_pct": 61.8,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/22201929.thumb",
-      "url": "https://amazon.com/dp/B0CDRYW9M4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20251872",
-      "published_at": "2026-11-04T17:00:59+00:00",
-      "revalidated_at": "2026-11-04T17:00:59+00:00"
+      "revalidated_at": "2026-11-04T18:45:54+00:00"
     },
     {
       "asin": "B01LZ40MT0",
@@ -708,28 +686,6 @@
       "revalidated_at": "2026-11-04T17:16:10+00:00"
     },
     {
-      "asin": "B0CB34NW5Z",
-      "title": "Shelf Bracket, Floating Shelf Brackets 6 inch Long, 6 Pack, Black",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.58,
-      "price_old": 16.99,
-      "currency": "USD",
-      "discount_pct": 43.6,
-      "rating": 4.7,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/819tcw3yMAL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CB34NW5Z/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20254593",
-      "published_at": "2026-11-04T15:00:54+00:00",
-      "revalidated_at": "2026-11-04T17:00:59+00:00"
-    },
-    {
       "asin": "B0FQVDTSQP",
       "title": "Baseus E20 True Wireless Earbuds (White)",
       "title_es": null,
@@ -950,28 +906,6 @@
       "revalidated_at": "2026-11-04T17:45:41+00:00"
     },
     {
-      "asin": "B0C22WJ4N6",
-      "title": "Bedsure Wearable Blanket Hoodie (Grey, Standard)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 14.84,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 57.6,
-      "rating": 4.7,
-      "condition": "code",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/91hwvqkfK+L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0C22WJ4N6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20254260",
-      "published_at": "2026-11-04T13:00:48+00:00",
-      "revalidated_at": "2026-11-04T17:00:59+00:00"
-    },
-    {
       "asin": "B0DYK7MWJ1",
       "title": "Sony BRAVIA 5 98 Inch TV, Mini LED, 4K Smart Google TV at Amazon",
       "title_es": null,
@@ -1035,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253570",
       "published_at": "2026-11-04T12:45:53+00:00",
-      "revalidated_at": "2026-11-04T17:00:59+00:00"
+      "revalidated_at": "2026-11-04T18:45:54+00:00"
     },
     {
       "asin": "B0GQ6K2Z48",
@@ -1057,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20254134",
       "published_at": "2026-11-04T12:45:53+00:00",
-      "revalidated_at": "2026-11-04T17:00:59+00:00"
+      "revalidated_at": "2026-11-04T18:45:54+00:00"
     },
     {
       "asin": "B0DLHC66DC",
@@ -1101,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253630",
       "published_at": "2026-11-04T12:30:43+00:00",
-      "revalidated_at": "2026-11-04T16:45:45+00:00"
+      "revalidated_at": "2026-11-04T18:45:54+00:00"
     },
     {
       "asin": "B0F5PTY7RF",
@@ -1211,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20243997",
       "published_at": "2026-11-04T10:15:46+00:00",
-      "revalidated_at": "2026-11-04T16:45:45+00:00"
+      "revalidated_at": "2026-11-04T18:45:54+00:00"
     },
     {
       "asin": "B0BRTC91SZ",
@@ -1233,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20248014",
       "published_at": "2026-11-04T10:15:46+00:00",
-      "revalidated_at": "2026-11-04T16:45:45+00:00"
+      "revalidated_at": "2026-11-04T18:45:54+00:00"
     },
     {
       "asin": "B0FMS5JG7T",
@@ -1255,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253657",
       "published_at": "2026-11-04T10:15:46+00:00",
-      "revalidated_at": "2026-11-04T16:45:45+00:00"
+      "revalidated_at": "2026-11-04T18:45:54+00:00"
     },
     {
       "asin": "B0GJDT5JR3",
@@ -1343,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20249760",
       "published_at": "2026-11-04T07:45:31+00:00",
-      "revalidated_at": "2026-11-04T16:45:45+00:00"
+      "revalidated_at": "2026-11-04T18:45:54+00:00"
     },
     {
       "asin": "B0GY4GMXGX",
@@ -2421,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20249823",
       "published_at": "2026-11-03T22:01:04+00:00",
-      "revalidated_at": "2026-11-04T16:45:45+00:00"
+      "revalidated_at": "2026-11-04T18:45:54+00:00"
     },
     {
       "asin": "B0CB3W9FRD",
@@ -2443,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20249124",
       "published_at": "2026-11-03T21:46:01+00:00",
-      "revalidated_at": "2026-11-04T16:45:45+00:00"
+      "revalidated_at": "2026-11-04T18:45:54+00:00"
     },
     {
       "asin": "B0FPLJQKMC",
@@ -2531,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20250741",
       "published_at": "2026-11-03T20:00:48+00:00",
-      "revalidated_at": "2026-11-04T16:45:45+00:00"
+      "revalidated_at": "2026-11-04T18:45:54+00:00"
     },
     {
       "asin": "B0BQNZ6RG9",
@@ -2553,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20250642",
       "published_at": "2026-11-03T20:00:48+00:00",
-      "revalidated_at": "2026-11-04T16:45:45+00:00"
+      "revalidated_at": "2026-11-04T18:45:54+00:00"
     },
     {
       "asin": "B0GF83Y7KG",
