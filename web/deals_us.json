@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-05T22:16:04+00:00",
+  "generated_at": "2026-11-05T22:30:55+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B07T9KS1DN",
+      "title": "10.5-Oz Amazon Saver Condensed Cream of Mushroom Soup",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 0.59,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 98.3,
+      "rating": 4.5,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71AgR2CPchL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07T9KS1DN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20257833",
+      "published_at": "2026-11-05T22:30:55+00:00",
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
+    },
+    {
+      "asin": "B0GV491F21",
+      "title": "4000A WOLFBOX 12V 24000mAh Portable Car Jump Starter w/ 65W Quick Charger",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 60.0,
+      "price_old": 110.0,
+      "currency": "USD",
+      "discount_pct": 45.5,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/9/5/3/2/3/450x450/22227177.thumb",
+      "url": "https://amazon.com/dp/B0GV491F21/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20260866",
+      "published_at": "2026-11-05T22:30:55+00:00",
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
+    },
     {
       "asin": "B0B64Q2R1K",
       "title": "Marcus Mumford \"Self-Titled\" (Vinyl LP)",
@@ -36,11 +80,11 @@
       "price_old": 139.99,
       "currency": "USD",
       "discount_pct": 35.7,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/22231320.thumb",
+      "image": "https://m.media-amazon.com/images/I/617cdlhLjyL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B09MZTP44L/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20262393",
@@ -58,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 31.5,
-      "rating": null,
+      "rating": 4.1,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/4/9/0/0/1/2/450x450/22158000.thumb",
+      "image": "https://m.media-amazon.com/images/I/61W2lZbEL6L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B002WVFGJU/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20234943",
@@ -353,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20261961",
       "published_at": "2026-11-05T20:30:49+00:00",
-      "revalidated_at": "2026-11-05T20:30:49+00:00"
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
     },
     {
       "asin": "B0FXXD1J16",
@@ -375,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20261835",
       "published_at": "2026-11-05T20:30:49+00:00",
-      "revalidated_at": "2026-11-05T20:30:49+00:00"
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
     },
     {
       "asin": "B0GMW7X8L2",
@@ -991,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20259897",
       "published_at": "2026-11-05T16:31:01+00:00",
-      "revalidated_at": "2026-11-05T20:15:39+00:00"
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
     },
     {
       "asin": "B083XNCRS3",
@@ -1211,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20260122",
       "published_at": "2026-11-05T14:15:50+00:00",
-      "revalidated_at": "2026-11-05T20:15:39+00:00"
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
     },
     {
       "asin": "B08JWKPPJT",
@@ -1233,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20259345",
       "published_at": "2026-11-05T14:15:50+00:00",
-      "revalidated_at": "2026-11-05T20:15:39+00:00"
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
     },
     {
       "asin": "B0GF7WZ5MR",
@@ -1255,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20257497",
       "published_at": "2026-11-05T14:15:50+00:00",
-      "revalidated_at": "2026-11-05T20:15:39+00:00"
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
     },
     {
       "asin": "B07VRS84D1",
@@ -1299,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20260422",
       "published_at": "2026-11-05T14:00:59+00:00",
-      "revalidated_at": "2026-11-05T20:15:39+00:00"
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
     },
     {
       "asin": "B0DSCGXCT4",
@@ -1321,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20260176",
       "published_at": "2026-11-05T14:00:59+00:00",
-      "revalidated_at": "2026-11-05T20:15:39+00:00"
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
     },
     {
       "asin": "B0H6GX9QQ6",
@@ -1343,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20260395",
       "published_at": "2026-11-05T14:00:59+00:00",
-      "revalidated_at": "2026-11-05T20:15:39+00:00"
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
     },
     {
       "asin": "B00EQ53HG4",
@@ -1871,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20259468",
       "published_at": "2026-11-05T10:00:41+00:00",
-      "revalidated_at": "2026-11-05T20:15:39+00:00"
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
     },
     {
       "asin": "B0HBWZY123",
@@ -1893,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20251005",
       "published_at": "2026-11-05T10:00:41+00:00",
-      "revalidated_at": "2026-11-05T20:15:39+00:00"
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
     },
     {
       "asin": "B0DXRKN7KY",
@@ -2531,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20243598",
       "published_at": "2026-11-05T01:45:52+00:00",
-      "revalidated_at": "2026-11-05T20:15:39+00:00"
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
     },
     {
       "asin": "B0H11T89CS",
@@ -2553,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20223255",
       "published_at": "2026-11-05T01:45:52+00:00",
-      "revalidated_at": "2026-11-05T20:15:39+00:00"
+      "revalidated_at": "2026-11-05T22:30:55+00:00"
     },
     {
       "asin": "B0007ZK5SK",
@@ -2598,28 +2642,6 @@
       "deal_key": "sd:20233152",
       "published_at": "2026-11-05T00:45:45+00:00",
       "revalidated_at": "2026-11-05T21:30:40+00:00"
-    },
-    {
-      "asin": "B0GDDTM4RZ",
-      "title": "Lamicall Car Visor Sunglasses Holder",
-      "title_es": "Soporte Lamicall para Gafas de Sol en Visera de Coche",
-      "headline": null,
-      "post": "Este soporte para gafas de sol se acopla cómodamente a la visera de tu coche, manteniendo tus lentes protegidas y al alcance. Es ideal para conductores que buscan organizar su vehículo y tener sus gafas siempre a mano.",
-      "post_en": "This sunglasses holder conveniently clips onto your car's sun visor, keeping your eyewear protected and within reach. It's perfect for drivers looking to organize their vehicle and have their glasses readily accessible.",
-      "price_new": 5.5,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 84.3,
-      "rating": 4.7,
-      "condition": "code",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71p3xGn37nL._AC_SL1300_.jpg",
-      "url": "https://amazon.com/dp/B0GDDTM4RZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20253348",
-      "published_at": "2026-11-05T00:30:40+00:00",
-      "revalidated_at": "2026-11-05T20:45:38+00:00"
     }
   ]
 }
