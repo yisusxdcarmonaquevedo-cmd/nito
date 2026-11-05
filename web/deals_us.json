@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-05T13:45:58+00:00",
+  "generated_at": "2026-11-05T14:00:59+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B07VRS84D1",
+      "title": "The Pragmatic Programmer 20th Anniversary Edition (Kindle ebook) by David Thomas and Andrew Hunt",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 3.99,
+      "price_old": 47.99,
+      "currency": "USD",
+      "discount_pct": 91.7,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/9/0/6/4/0/450x450/22223157.thumb",
+      "url": "https://amazon.com/dp/B07VRS84D1/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20259207",
+      "published_at": "2026-11-05T14:00:59+00:00",
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
+    },
+    {
+      "asin": "B0GYCXCSY6",
+      "title": "2-Pack Dntorx Wall-Mounted Baseball Hat Rack Organizer (Black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 82.9,
+      "rating": 4.1,
+      "condition": "coupon",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71CRuKrkJWL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GYCXCSY6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20260422",
+      "published_at": "2026-11-05T14:00:59+00:00",
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
+    },
+    {
+      "asin": "B0DSCGXCT4",
+      "title": "BITZEE Hamster Ball Interactive Toy Hamster Digital Pet at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.49,
+      "price_old": 43.99,
+      "currency": "USD",
+      "discount_pct": 69.3,
+      "rating": 4.6,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81E+JhzuIyL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DSCGXCT4/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20260176",
+      "published_at": "2026-11-05T14:00:59+00:00",
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
+    },
+    {
+      "asin": "B0H6GX9QQ6",
+      "title": "Ring Battery Doorbell 2nd Gen w/ Indoor Cam",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 49.99,
+      "price_old": 149.98,
+      "currency": "USD",
+      "discount_pct": 66.7,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/1/9/1/2/6/8/2/450x450/22225866.thumb",
+      "url": "https://amazon.com/dp/B0H6GX9QQ6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20260395",
+      "published_at": "2026-11-05T14:00:59+00:00",
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
+    },
+    {
+      "asin": "B00EQ53HG4",
+      "title": "DeWALT 20V MAX XR Brushless 3/8\" & 1/2\" Sealed Head Ratchet (Tool Only) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 194.99,
+      "price_old": 279.0,
+      "currency": "USD",
+      "discount_pct": 30.1,
+      "rating": 4.2,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61O7wKV1qHL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B00EQ53HG4/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20259906",
+      "published_at": "2026-11-05T14:00:59+00:00",
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
+    },
     {
       "asin": "B0DDKSLXSJ",
       "title": "7\" Golden Bird Fish Fillet Knife w/ Sheath",
@@ -287,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20258196",
       "published_at": "2026-11-05T12:00:52+00:00",
-      "revalidated_at": "2026-11-05T12:00:52+00:00"
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
     },
     {
       "asin": "B0GGRHK4T2",
@@ -309,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253999",
       "published_at": "2026-11-05T12:00:52+00:00",
-      "revalidated_at": "2026-11-05T12:00:52+00:00"
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
     },
     {
       "asin": "B0GH2PP5KK",
@@ -881,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20258127",
       "published_at": "2026-11-05T04:15:47+00:00",
-      "revalidated_at": "2026-11-05T12:00:52+00:00"
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
     },
     {
       "asin": "B0FCY4MHGD",
@@ -903,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20257599",
       "published_at": "2026-11-05T04:15:47+00:00",
-      "revalidated_at": "2026-11-05T12:00:52+00:00"
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
     },
     {
       "asin": "0143130722",
@@ -1343,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253348",
       "published_at": "2026-11-05T00:30:40+00:00",
-      "revalidated_at": "2026-11-05T12:00:52+00:00"
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
     },
     {
       "asin": "B0HH3CY84R",
@@ -1431,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20254131",
       "published_at": "2026-11-05T00:16:02+00:00",
-      "revalidated_at": "2026-11-05T11:45:41+00:00"
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
     },
     {
       "asin": "B0DM3K7VM9",
@@ -1453,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20255235",
       "published_at": "2026-11-05T00:16:02+00:00",
-      "revalidated_at": "2026-11-05T12:00:52+00:00"
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
     },
     {
       "asin": "B0DF85X82B",
@@ -2003,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20241108",
       "published_at": "2026-11-04T20:00:52+00:00",
-      "revalidated_at": "2026-11-05T11:45:41+00:00"
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
     },
     {
       "asin": "B0DH2FH1FQ",
@@ -2135,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20254455",
       "published_at": "2026-11-04T18:00:50+00:00",
-      "revalidated_at": "2026-11-05T11:45:41+00:00"
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
     },
     {
       "asin": "B00962GV2E",
@@ -2157,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20254101",
       "published_at": "2026-11-04T18:00:50+00:00",
-      "revalidated_at": "2026-11-05T11:45:41+00:00"
+      "revalidated_at": "2026-11-05T14:00:59+00:00"
     },
     {
       "asin": "B0H86XSQRS",
@@ -2531,94 +2641,6 @@
       "source": "slickdeals",
       "deal_key": "sd:20252415",
       "published_at": "2026-11-04T16:15:41+00:00",
-      "revalidated_at": "2026-11-05T12:15:41+00:00"
-    },
-    {
-      "asin": "B0F9YBMJDV",
-      "title": "[Prime] NDYIN N80 Portable Wireless Bluetooth Thermal Printer",
-      "title_es": "Impresora térmica inalámbrica portátil NDYIN N80 Bluetooth",
-      "headline": null,
-      "post": "La impresora térmica portátil NDYIN N80 ofrece una solución de impresión rápida y sin cables para tus necesidades diarias. Con conectividad Bluetooth, es ideal para imprimir recibos o etiquetas desde cualquier lugar.",
-      "post_en": "The NDYIN N80 Portable Wireless Bluetooth Thermal Printer offers a fast, cable-free printing solution for your daily needs. With Bluetooth connectivity, it's ideal for printing receipts or labels from anywhere.",
-      "price_new": 27.92,
-      "price_old": 41.99,
-      "currency": "USD",
-      "discount_pct": 33.5,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "1VCL2I1S",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71i3so9+vuL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F9YBMJDV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20251332",
-      "published_at": "2026-11-04T16:00:39+00:00",
-      "revalidated_at": "2026-11-05T13:45:58+00:00"
-    },
-    {
-      "asin": "B0GTVL6DJ3",
-      "title": "4-Count OREiN Matter BR30 Smart LED Light Bulbs (650 Lumens, RGBTW Color-Changing, Wi-Fi)",
-      "title_es": "Bombillas LED Inteligentes OREiN Matter BR30 (4 unidades, 650 Lúmenes, RGBTW, Wi-Fi)",
-      "headline": null,
-      "post": "Ilumina tu hogar con estas bombillas LED inteligentes OREiN Matter BR30 de 650 lúmenes. Ofrecen cambio de color RGBTW y conectividad Wi-Fi, ideales para personalizar el ambiente de cualquier habitación. 💡",
-      "post_en": "Light up your home with these 650-lumen OREiN Matter BR30 smart LED bulbs. They feature RGBTW color-changing capabilities and Wi-Fi connectivity, perfect for customizing the ambiance of any room. 💡",
-      "price_new": 2.75,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 92.1,
-      "rating": 4.1,
-      "condition": "code",
-      "code": "6A0KGNVB",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61bOH1mrKLL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GTVL6DJ3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20254893",
-      "published_at": "2026-11-04T15:45:45+00:00",
-      "revalidated_at": "2026-11-05T13:01:03+00:00"
-    },
-    {
-      "asin": "B0F2HS56NX",
-      "title": "WORKPRO 42-in-1 Mini Electric Precision Screwdriver Set w/ S2 Steel Bits, Pry Bars & LED Light",
-      "title_es": "Set de Destornillador Eléctrico de Precisión WORKPRO 42 en 1 con puntas S2 y luz LED",
-      "headline": null,
-      "post": "Este set WORKPRO incluye un mini destornillador eléctrico de precisión 42 en 1 con puntas de acero S2. Es perfecto para reparaciones de electrónica y pequeños dispositivos, con barras de palanca y luz LED integrada.",
-      "post_en": "This WORKPRO set features a 42-in-1 mini electric precision screwdriver with S2 steel bits. It's perfect for electronics and small device repairs, complete with pry bars and an integrated LED light.",
-      "price_new": 18.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 45.7,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "719LZQA1",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71Mk+7q+kUL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F2HS56NX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20254950",
-      "published_at": "2026-11-04T15:45:45+00:00",
-      "revalidated_at": "2026-11-05T13:15:40+00:00"
-    },
-    {
-      "asin": "B0CVXKVCZ7",
-      "title": "4\" Workpro Thin Jaws Stubby Wide Opening Adjustable Wrench",
-      "title_es": "Llave Inglesa Ajustable WORKPRO de 4\" con Mordazas Finas y Apertura Amplia",
-      "headline": null,
-      "post": "Esta llave ajustable WORKPRO de 4\" cuenta con mordazas finas y una amplia apertura para mayor versatilidad. Su diseño compacto la hace ideal para trabajar en espacios reducidos y tareas domésticas.",
-      "post_en": "This 4\" WORKPRO adjustable wrench features thin jaws and a wide opening for greater versatility. Its compact design makes it ideal for working in tight spaces and for household tasks.",
-      "price_new": 8.4,
-      "price_old": 13.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71ve59GYYQL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CVXKVCZ7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20254125",
-      "published_at": "2026-11-04T15:45:45+00:00",
       "revalidated_at": "2026-11-05T12:15:41+00:00"
     }
   ]
