@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-05T09:00:41+00:00",
+  "generated_at": "2026-11-05T09:15:42+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0DVTJY847",
+      "title": "TP-Link USB C Hub 5-in-1 Multiport Adapter (UH5020C) Plug and Play | 4K@60Hz HDMI, 100W PD, 1×USB-C, 2× USB-A Data Ports at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 10.87,
+      "price_old": 20.99,
+      "currency": "USD",
+      "discount_pct": 48.2,
+      "rating": 4.3,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/41s4ufFTnmL._AC_SL1000_.jpg",
+      "url": "https://amazon.com/dp/B0DVTJY847/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20258955",
+      "published_at": "2026-11-05T09:15:42+00:00",
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
+    },
     {
       "asin": "B07D4B3JF4",
       "title": "Clorox Toilet Bowl Brush & Plunger Combo Set w/ Storage Caddy at Amazon",
@@ -46,28 +68,6 @@
       "deal_key": "sd:20258973",
       "published_at": "2026-11-05T07:45:44+00:00",
       "revalidated_at": "2026-11-05T07:45:44+00:00"
-    },
-    {
-      "asin": "B0FPB3VP7S",
-      "title": "The Beard Club Beard Grooming Kit for Men - 8 pc Gift Set, Straight Razor5 Blades, Cedar and Sandalwood Beard Oil, Cedar Balm, Beard Shampoo, Boar Bristle Brush, Scissors",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 20.99,
-      "price_old": 49.99,
-      "currency": "USD",
-      "discount_pct": 58.0,
-      "rating": null,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/22213923.thumb",
-      "url": "https://amazon.com/dp/B0FPB3VP7S/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20255799",
-      "published_at": "2026-11-05T07:15:40+00:00",
-      "revalidated_at": "2026-11-05T07:15:40+00:00"
     },
     {
       "asin": "B0DK4LNJSF",
@@ -199,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20250060",
       "published_at": "2026-11-05T05:15:55+00:00",
-      "revalidated_at": "2026-11-05T07:15:40+00:00"
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
     },
     {
       "asin": "B0H2XFTPQM",
@@ -221,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20257518",
       "published_at": "2026-11-05T05:15:55+00:00",
-      "revalidated_at": "2026-11-05T07:15:40+00:00"
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
     },
     {
       "asin": "B0BRZM3JYZ",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20256093",
       "published_at": "2026-11-04T21:46:02+00:00",
-      "revalidated_at": "2026-11-05T07:15:40+00:00"
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
     },
     {
       "asin": "B002KENWZY",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20255505",
       "published_at": "2026-11-04T21:46:02+00:00",
-      "revalidated_at": "2026-11-05T07:15:40+00:00"
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
     },
     {
       "asin": "B0DY7WGT4G",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20256288",
       "published_at": "2026-11-04T21:46:02+00:00",
-      "revalidated_at": "2026-11-05T07:15:40+00:00"
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
     },
     {
       "asin": "B0DJ8GDPDQ",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253546",
       "published_at": "2026-11-04T19:45:55+00:00",
-      "revalidated_at": "2026-11-05T07:15:40+00:00"
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
     },
     {
       "asin": "B000WLEL70",
@@ -1629,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20255184",
       "published_at": "2026-11-04T17:45:41+00:00",
-      "revalidated_at": "2026-11-05T07:15:40+00:00"
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
     },
     {
       "asin": "B0H9SMPBT4",
@@ -2113,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253930",
       "published_at": "2026-11-04T15:30:52+00:00",
-      "revalidated_at": "2026-11-05T07:15:40+00:00"
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
     },
     {
       "asin": "B0FKTH4V7V",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20254851",
       "published_at": "2026-11-04T15:30:52+00:00",
-      "revalidated_at": "2026-11-05T07:15:40+00:00"
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
     },
     {
       "asin": "B0D9GJR4XM",
@@ -2157,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20241420",
       "published_at": "2026-11-04T15:30:52+00:00",
-      "revalidated_at": "2026-11-05T07:15:40+00:00"
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
     },
     {
       "asin": "B08T9PCF5Z",
@@ -2421,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253570",
       "published_at": "2026-11-04T12:45:53+00:00",
-      "revalidated_at": "2026-11-05T07:15:40+00:00"
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
     },
     {
       "asin": "B0GQ6K2Z48",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20254134",
       "published_at": "2026-11-04T12:45:53+00:00",
-      "revalidated_at": "2026-11-05T07:15:40+00:00"
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
     },
     {
       "asin": "B0DLHC66DC",
@@ -2465,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20254065",
       "published_at": "2026-11-04T12:30:43+00:00",
-      "revalidated_at": "2026-11-05T07:00:45+00:00"
+      "revalidated_at": "2026-11-05T09:15:42+00:00"
     },
     {
       "asin": "B0DZP21RXY",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20248014",
       "published_at": "2026-11-04T10:15:46+00:00",
       "revalidated_at": "2026-11-05T07:30:39+00:00"
-    },
-    {
-      "asin": "B0FMS5JG7T",
-      "title": "81-Pc LEGO City: Hot Rod Building Set at Amazon",
-      "title_es": "Set de Construcción LEGO City: Hot Rod de 81 Piezas",
-      "headline": null,
-      "post": "Construye tu propio coche clásico con el set LEGO City: Hot Rod de 81 piezas, ideal para jóvenes constructores. Es una excelente manera de fomentar la creatividad y las habilidades motoras finas.",
-      "post_en": "Build your own classic car with the 81-piece LEGO City: Hot Rod building set, perfect for young builders. It's a great way to encourage creativity and fine motor skills.",
-      "price_new": 5.99,
-      "price_old": 9.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71vzpZ65xLL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FMS5JG7T/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20253657",
-      "published_at": "2026-11-04T10:15:46+00:00",
-      "revalidated_at": "2026-11-05T07:45:44+00:00"
     }
   ]
 }
