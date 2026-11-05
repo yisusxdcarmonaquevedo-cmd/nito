@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:15:36+00:00",
+  "generated_at": "2026-11-05T01:30:34+00:00",
   "market": "us",
   "count": 119,
   "deals": [
@@ -58,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 84.3,
-      "rating": null,
+      "rating": 4.7,
       "condition": "code",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/5/8/2/5/6/8/8/450x450/22206177.thumb",
+      "image": "https://m.media-amazon.com/images/I/71p3xGn37nL._AC_SL1300_.jpg",
       "url": "https://amazon.com/dp/B0GDDTM4RZ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20253348",
@@ -102,11 +102,11 @@
       "price_old": 15.99,
       "currency": "USD",
       "discount_pct": 59.4,
-      "rating": null,
+      "rating": 4.9,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22207974.thumb",
+      "image": "https://m.media-amazon.com/images/I/71spHOeJcvL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CW262R9K/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20253828",
@@ -419,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20256093",
       "published_at": "2026-11-04T21:46:02+00:00",
-      "revalidated_at": "2026-11-04T23:30:53+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B002KENWZY",
@@ -441,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20255505",
       "published_at": "2026-11-04T21:46:02+00:00",
-      "revalidated_at": "2026-11-04T23:30:53+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B0DY7WGT4G",
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20256288",
       "published_at": "2026-11-04T21:46:02+00:00",
-      "revalidated_at": "2026-11-04T23:30:53+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B0DJ8GDPDQ",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253546",
       "published_at": "2026-11-04T19:45:55+00:00",
-      "revalidated_at": "2026-11-04T23:30:53+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B000WLEL70",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20255184",
       "published_at": "2026-11-04T17:45:41+00:00",
-      "revalidated_at": "2026-11-04T23:30:53+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B0H9SMPBT4",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20251332",
       "published_at": "2026-11-04T16:00:39+00:00",
-      "revalidated_at": "2026-11-04T23:30:53+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B0GTVL6DJ3",
@@ -2179,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20251851",
       "published_at": "2026-11-04T06:45:38+00:00",
-      "revalidated_at": "2026-11-04T23:30:53+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B00JHKSMIG",
@@ -2267,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253192",
       "published_at": "2026-11-04T06:30:48+00:00",
-      "revalidated_at": "2026-11-04T23:30:53+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B0HFJR62Q4",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20250768",
       "published_at": "2026-11-04T06:30:48+00:00",
-      "revalidated_at": "2026-11-04T23:30:53+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B0F917RFMN",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20232672",
       "published_at": "2026-11-04T06:30:48+00:00",
-      "revalidated_at": "2026-11-04T23:30:53+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B0HCBP4R71",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20249292",
       "published_at": "2026-11-04T06:30:48+00:00",
-      "revalidated_at": "2026-11-04T23:30:53+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B0HNNJDNB6",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253129",
       "published_at": "2026-11-04T06:15:39+00:00",
-      "revalidated_at": "2026-11-04T23:15:50+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B0GH8VNBQ7",
@@ -2377,15 +2377,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20252004",
       "published_at": "2026-11-04T06:00:42+00:00",
-      "revalidated_at": "2026-11-04T23:15:50+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B0HGPW7SJW",
       "title": "SURGOAL Men's Heated Ski Jacket w/ 7.4V Battery",
-      "title_es": null,
+      "title_es": "SURGOAL Chaqueta de Esquí Calentable para Hombre con Batería de 7.4V",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta chaqueta SURGOAL calentable es perfecta para mantener el calor en climas fríos, ideal para esquiar o actividades al aire libre. Incorpora una batería de 7.4V para una calefacción duradera, pensada para hombres que buscan confort en la nieve. ⛷️",
+      "post_en": "The SURGOAL Men's Heated Ski Jacket ensures warmth during cold weather, perfect for skiing and other outdoor adventures. Featuring a 7.4V battery for sustained heat, it's designed for men who prioritize comfort and protection in snowy conditions. ⛷️",
       "price_new": 49.99,
       "price_old": 99.99,
       "currency": "USD",
@@ -2399,15 +2399,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20251515",
       "published_at": "2026-11-04T05:45:41+00:00",
-      "revalidated_at": "2026-11-04T23:15:50+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B0HJJRC7YH",
       "title": "Crunchy Butter Squishy, Soft Squeeze Sensory Fidget Toy with Crunchy ASMR Texture",
-      "title_es": null,
+      "title_es": "Crunchy Butter Squishy, Juguete Sensorial Blando con Textura ASMR Crujiente",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este Crunchy Butter Squishy es un juguete sensorial blando que ofrece una experiencia táctil única y relajante. Su textura ASMR crujiente es ideal para aliviar el estrés y la ansiedad en niños y adultos. ✨",
+      "post_en": "The Crunchy Butter Squishy is a soft sensory fidget toy designed to provide a unique and calming tactile experience. With its satisfying crunchy ASMR texture, it's perfect for stress relief and anxiety reduction for both kids and adults. ✨",
       "price_new": 6.99,
       "price_old": 13.99,
       "currency": "USD",
@@ -2465,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20228847",
       "published_at": "2026-11-04T04:15:58+00:00",
-      "revalidated_at": "2026-11-04T23:30:53+00:00"
+      "revalidated_at": "2026-11-05T01:30:34+00:00"
     },
     {
       "asin": "B0DZ3VPNV5",
