@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-06T12:15:47+00:00",
+  "generated_at": "2026-11-06T12:30:50+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0H2J2QV5H",
+      "title": "Calamus BladeVolt Electric Fillet Knife Combo",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 56.69,
+      "price_old": 89.99,
+      "currency": "USD",
+      "discount_pct": 37.0,
+      "rating": 4.6,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71x9tfvjfYL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0H2J2QV5H/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20264970",
+      "published_at": "2026-11-06T12:30:50+00:00",
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
+    },
     {
       "asin": "B0DFJ9PKK4",
       "title": "CORSAIR 4000D RS ARGB Frame Modular Mid-Tower ATX PC Case w/ 3x Fans at Amazon",
@@ -58,11 +80,11 @@
       "price_old": 449.99,
       "currency": "USD",
       "discount_pct": 33.3,
-      "rating": null,
+      "rating": 4.2,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/22196103.thumb",
+      "image": "https://m.media-amazon.com/images/I/71HpYbrJ0IL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H4FRDS14/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20250063",
@@ -177,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20265852",
       "published_at": "2026-11-06T10:45:31+00:00",
-      "revalidated_at": "2026-11-06T10:45:31+00:00"
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
     },
     {
       "asin": "B0026RHHX8",
@@ -221,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20257221",
       "published_at": "2026-11-06T08:45:50+00:00",
-      "revalidated_at": "2026-11-06T10:45:31+00:00"
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
     },
     {
       "asin": "B0BDRP9B7M",
@@ -969,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20263677",
       "published_at": "2026-11-05T23:15:47+00:00",
-      "revalidated_at": "2026-11-06T10:45:31+00:00"
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
     },
     {
       "asin": "B003UDBSVY",
@@ -1255,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20262876",
       "published_at": "2026-11-05T21:15:48+00:00",
-      "revalidated_at": "2026-11-06T10:45:31+00:00"
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
     },
     {
       "asin": "B0F4QB5TY8",
@@ -1277,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20255208",
       "published_at": "2026-11-05T21:15:48+00:00",
-      "revalidated_at": "2026-11-06T10:45:31+00:00"
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
     },
     {
       "asin": "B0G1T6YNZ5",
@@ -1299,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20262924",
       "published_at": "2026-11-05T21:15:48+00:00",
-      "revalidated_at": "2026-11-06T10:45:31+00:00"
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
     },
     {
       "asin": "B07QPS38TC",
@@ -1541,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20243826",
       "published_at": "2026-11-05T19:15:50+00:00",
-      "revalidated_at": "2026-11-06T10:45:31+00:00"
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
     },
     {
       "asin": "B0G3YBXTR9",
@@ -1563,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20261676",
       "published_at": "2026-11-05T19:15:50+00:00",
-      "revalidated_at": "2026-11-06T10:45:31+00:00"
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
     },
     {
       "asin": "B0HKNLHHD9",
@@ -1874,28 +1896,6 @@
       "revalidated_at": "2026-11-06T11:36:19+00:00"
     },
     {
-      "asin": "B0H9DC6DD8",
-      "title": "Nespresso Vertuo Pop+ Deluxe Coffee & Espresso Maker by De'Longhi (White/ Gold)",
-      "title_es": "Cafetera Nespresso Vertuo Pop+ Deluxe de De'Longhi (Blanco/Oro)",
-      "headline": null,
-      "post": "La cafetera Nespresso Vertuo Pop+ Deluxe de De'Longhi prepara café y espresso con solo tocar un botón, en un elegante diseño blanco y oro. Es perfecta para amantes del café que buscan variedad y comodidad en su hogar. ☕",
-      "post_en": "The Nespresso Vertuo Pop+ Deluxe coffee and espresso maker by De'Longhi brews coffee and espresso at the touch of a button, in a stylish white and gold design. It's perfect for coffee lovers seeking variety and convenience at home. ☕",
-      "price_new": 99.99,
-      "price_old": 159.0,
-      "currency": "USD",
-      "discount_pct": 37.1,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61eOwCeEEKL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H9DC6DD8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20260413",
-      "published_at": "2026-11-05T17:15:46+00:00",
-      "revalidated_at": "2026-11-06T10:45:31+00:00"
-    },
-    {
       "asin": "B0H44FTSD7",
       "title": "Hotel Diffuser Oil Refill 250 ml 8.45 fl oz Aromatherapy Essential Oil- Lemon, Lavender & Wood Notes- Ideal for Ultrasonic and Waterless Diffusers",
       "title_es": "Recambio de aceite esencial para difusor Hotel Diffuser de 250 ml (Limón, Lavanda y Notas Amaderadas)",
@@ -1959,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20261616",
       "published_at": "2026-11-05T16:46:00+00:00",
-      "revalidated_at": "2026-11-06T10:30:42+00:00"
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
     },
     {
       "asin": "B0CPM5R9Q3",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20236740",
       "published_at": "2026-11-05T16:46:00+00:00",
-      "revalidated_at": "2026-11-06T10:30:42+00:00"
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
     },
     {
       "asin": "B0855B5Z6F",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20258448",
       "published_at": "2026-11-05T15:00:50+00:00",
-      "revalidated_at": "2026-11-06T10:45:31+00:00"
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
     },
     {
       "asin": "B0F6WG7SM9",
@@ -2201,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20255148",
       "published_at": "2026-11-05T14:30:55+00:00",
-      "revalidated_at": "2026-11-06T10:30:42+00:00"
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
     },
     {
       "asin": "B0DVM15GVP",
@@ -2245,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20257497",
       "published_at": "2026-11-05T14:15:50+00:00",
-      "revalidated_at": "2026-11-06T10:30:42+00:00"
+      "revalidated_at": "2026-11-06T12:30:50+00:00"
     },
     {
       "asin": "B07VRS84D1",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20258196",
       "published_at": "2026-11-05T12:00:52+00:00",
       "revalidated_at": "2026-11-06T11:15:36+00:00"
-    },
-    {
-      "asin": "B0GGRHK4T2",
-      "title": "Men's Libin Lightweight Sweatpants w/ Zipper Pockets (various colors/sizes)",
-      "title_es": "Pantalones de chándal ligeros Libin para hombre con bolsillos con cremallera.",
-      "headline": null,
-      "post": "Estos pantalones de chándal Libin son ligeros y cómodos, perfectos para el día a día o actividades deportivas. Cuentan con bolsillos con cremallera para guardar tus objetos de forma segura.",
-      "post_en": "These Libin sweatpants are lightweight and comfortable, perfect for daily wear or sports activities. They feature zipper pockets to securely store your belongings.",
-      "price_new": 12.5,
-      "price_old": 24.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.4,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71UA9YpTvyL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GGRHK4T2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20253999",
-      "published_at": "2026-11-05T12:00:52+00:00",
-      "revalidated_at": "2026-11-06T11:30:36+00:00"
     }
   ]
 }
