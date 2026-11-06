@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-06T16:15:44+00:00",
+  "generated_at": "2026-11-06T16:30:42+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B0FQ642ZGY",
+      "title": "Klein Tools 3-Piece Impact Swivel Socket Adapter Set (65813SW)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.97,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 65.8,
+      "rating": 4.8,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/51dsHvYmbXL._AC_SL1000_.jpg",
+      "url": "https://amazon.com/dp/B0FQ642ZGY/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20267571",
+      "published_at": "2026-11-06T16:30:42+00:00",
+      "revalidated_at": "2026-11-06T16:30:42+00:00"
+    },
+    {
+      "asin": "B0FHJGN2S6",
+      "title": "Magic: The Gathering, Avatar: The Last Airbender Beginner Box",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 17.7,
+      "price_old": 34.99,
+      "currency": "USD",
+      "discount_pct": 49.4,
+      "rating": 4.7,
+      "condition": "coupon",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/71Ad+G8XNRL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FHJGN2S6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20265759",
+      "published_at": "2026-11-06T16:30:42+00:00",
+      "revalidated_at": "2026-11-06T16:30:42+00:00"
+    },
+    {
+      "asin": "B0HBPKXMS9",
+      "title": "Amazon - HALHSAP 10-Pack Solar Christmas Pathway Lights",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 18.49,
+      "price_old": 36.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.4,
+      "condition": "code",
+      "code": "YOJOV7NV",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81Vps0NKn1L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0HBPKXMS9/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20233227",
+      "published_at": "2026-11-06T16:30:42+00:00",
+      "revalidated_at": "2026-11-06T16:30:42+00:00"
+    },
     {
       "asin": "B0B56CHMSC",
       "title": "9L Lifewit Insulated Lunch Bag",
@@ -290,50 +356,6 @@
       "revalidated_at": "2026-11-06T14:45:47+00:00"
     },
     {
-      "asin": "B0F2BWX7M8",
-      "title": "The North Face Reversible Highline Beanie (Summit Navy/Dusk Blue)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 12.57,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 64.1,
-      "rating": 4.4,
-      "condition": "prime",
-      "code": null,
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/81+gMPGBB7L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F2BWX7M8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20266791",
-      "published_at": "2026-11-06T14:30:52+00:00",
-      "revalidated_at": "2026-11-06T14:30:52+00:00"
-    },
-    {
-      "asin": "B07GD3V8D8",
-      "title": "DOZYANT 5' Stainless Steel Braided Propane Regulator & Hose w/ 3/8\" Female Flare (Type-1/QCC-1)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 11.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 67.2,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/7/4/7/9/3/450x450/22230933.thumb",
-      "url": "https://amazon.com/dp/B07GD3V8D8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20262279",
-      "published_at": "2026-11-06T14:30:52+00:00",
-      "revalidated_at": "2026-11-06T14:30:52+00:00"
-    },
-    {
       "asin": "B0GGGJ64PD",
       "title": "Baseus Picogo 5000mAh MagSafe Power Bank w/ USB-C Braided Cable (Various Colors)",
       "title_es": null,
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20266788",
       "published_at": "2026-11-06T14:30:52+00:00",
-      "revalidated_at": "2026-11-06T14:30:52+00:00"
+      "revalidated_at": "2026-11-06T16:30:42+00:00"
     },
     {
       "asin": "B0BBN9W3YR",
@@ -375,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20266656",
       "published_at": "2026-11-06T14:30:52+00:00",
-      "revalidated_at": "2026-11-06T14:30:52+00:00"
+      "revalidated_at": "2026-11-06T16:30:42+00:00"
     },
     {
       "asin": "B07BKMPNWB",
@@ -749,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20264970",
       "published_at": "2026-11-06T12:30:50+00:00",
-      "revalidated_at": "2026-11-06T14:30:52+00:00"
+      "revalidated_at": "2026-11-06T16:30:42+00:00"
     },
     {
       "asin": "B0DFJ9PKK4",
@@ -925,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20265852",
       "published_at": "2026-11-06T10:45:31+00:00",
-      "revalidated_at": "2026-11-06T14:30:52+00:00"
+      "revalidated_at": "2026-11-06T16:30:42+00:00"
     },
     {
       "asin": "B0FDL2C1VH",
@@ -947,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20257221",
       "published_at": "2026-11-06T08:45:50+00:00",
-      "revalidated_at": "2026-11-06T14:30:52+00:00"
+      "revalidated_at": "2026-11-06T16:30:42+00:00"
     },
     {
       "asin": "B0BDRP9B7M",
@@ -1717,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20263401",
       "published_at": "2026-11-05T23:01:02+00:00",
-      "revalidated_at": "2026-11-06T14:15:44+00:00"
+      "revalidated_at": "2026-11-06T16:30:42+00:00"
     },
     {
       "asin": "B0DDWH4DNW",
@@ -2135,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20257848",
       "published_at": "2026-11-05T20:30:49+00:00",
-      "revalidated_at": "2026-11-06T14:15:44+00:00"
+      "revalidated_at": "2026-11-06T16:30:42+00:00"
     },
     {
       "asin": "B096SRYXMP",
@@ -2399,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20242704",
       "published_at": "2026-11-05T18:45:52+00:00",
-      "revalidated_at": "2026-11-06T14:15:44+00:00"
+      "revalidated_at": "2026-11-06T16:30:42+00:00"
     },
     {
       "asin": "B0GC6K9BW9",
@@ -2421,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20262069",
       "published_at": "2026-11-05T18:30:48+00:00",
-      "revalidated_at": "2026-11-06T14:15:44+00:00"
+      "revalidated_at": "2026-11-06T16:30:42+00:00"
     },
     {
       "asin": "B0DB6GQ3W2",
@@ -2443,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20261901",
       "published_at": "2026-11-05T18:30:48+00:00",
-      "revalidated_at": "2026-11-06T14:15:44+00:00"
+      "revalidated_at": "2026-11-06T16:30:42+00:00"
     },
     {
       "asin": "B0BXL5PNK4",
@@ -2576,72 +2598,6 @@
       "deal_key": "sd:20261034",
       "published_at": "2026-11-05T17:45:54+00:00",
       "revalidated_at": "2026-11-06T16:00:40+00:00"
-    },
-    {
-      "asin": "B0H44FTSD7",
-      "title": "Hotel Diffuser Oil Refill 250 ml 8.45 fl oz Aromatherapy Essential Oil- Lemon, Lavender & Wood Notes- Ideal for Ultrasonic and Waterless Diffusers",
-      "title_es": "Recambio de aceite esencial para difusor Hotel Diffuser de 250 ml (Limón, Lavanda y Notas Amaderadas)",
-      "headline": null,
-      "post": "Este recambio de aceite esencial Hotel Diffuser de 250 ml combina notas de limón, lavanda y madera para crear un ambiente relajante. Es ideal para difusores ultrasónicos y sin agua, transformando tu espacio en un oasis de calma.",
-      "post_en": "This 250 ml Hotel Diffuser essential oil refill blends lemon, lavender, and wood notes to create a relaxing atmosphere. It's ideal for ultrasonic and waterless diffusers, transforming your space into a calm oasis.",
-      "price_new": 6.99,
-      "price_old": 35.99,
-      "currency": "USD",
-      "discount_pct": 80.6,
-      "rating": 3.5,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/61yyZpd10bL._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B0H44FTSD7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20260860",
-      "published_at": "2026-11-05T17:00:47+00:00",
-      "revalidated_at": "2026-11-06T14:30:52+00:00"
-    },
-    {
-      "asin": "B0FXWLRJGP",
-      "title": "GTPLAYER ACE-PRO Footrest Gaming Chair w/ Built-in Speakers, App Support & Bluetooth Control (Cream)",
-      "title_es": "Silla gaming GTPLAYER ACE-PRO con reposapiés, altavoces y control Bluetooth (Crema)",
-      "headline": null,
-      "post": "Disfruta de una inmersión total con esta silla gaming GTPLAYER ACE-PRO, que incluye reposapiés, altavoces integrados y control por Bluetooth. Ideal para gamers que buscan comodidad y una experiencia de audio envolvente durante sus largas sesiones de juego. 🎮",
-      "post_en": "Immerse yourself fully with this GTPLAYER ACE-PRO gaming chair, featuring a footrest, built-in speakers, and Bluetooth control. Perfect for gamers seeking comfort and an immersive audio experience during long play sessions. 🎮",
-      "price_new": 129.99,
-      "price_old": 229.99,
-      "currency": "USD",
-      "discount_pct": 43.5,
-      "rating": 4.0,
-      "condition": "code",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61yzmKB0juL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FXWLRJGP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20260506",
-      "published_at": "2026-11-05T17:00:47+00:00",
-      "revalidated_at": "2026-11-06T14:30:52+00:00"
-    },
-    {
-      "asin": "B0FZ8J32LF",
-      "title": "4-Piece TABOUNTS Headlight Restoration Kit w/ Cleaning Spray, Ceramic Coating, Sponge & Towel",
-      "title_es": "Kit de restauración de faros TABOUNTS de 4 piezas con spray y revestimiento cerámico",
-      "headline": null,
-      "post": "Este kit TABOUNTS de 4 piezas te permite restaurar la claridad de tus faros de forma sencilla y efectiva. Incluye todo lo necesario para mejorar la visibilidad y la estética de tu vehículo. ✨",
-      "post_en": "This 4-piece TABOUNTS kit allows you to easily and effectively restore the clarity of your headlights. It includes everything needed to improve your vehicle's visibility and aesthetics. ✨",
-      "price_new": 8.0,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 77.1,
-      "rating": 4.1,
-      "condition": "code",
-      "code": "M7N7CTDH",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/719ePMshXuL._AC_SL1088_.jpg",
-      "url": "https://amazon.com/dp/B0FZ8J32LF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20261616",
-      "published_at": "2026-11-05T16:46:00+00:00",
-      "revalidated_at": "2026-11-06T14:45:47+00:00"
     }
   ]
 }
