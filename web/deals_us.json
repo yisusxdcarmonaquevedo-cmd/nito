@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T00:30:30+00:00",
+  "generated_at": "2026-11-07T00:45:25+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -36,11 +36,11 @@
       "price_old": 299.99,
       "currency": "USD",
       "discount_pct": 83.3,
-      "rating": null,
+      "rating": 4.4,
       "condition": "coupon",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/6/7/9/8/5/450x450/22248669.thumb",
+      "image": "https://m.media-amazon.com/images/I/61F1hlpStZL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0HNZPN24W/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20269041",
@@ -300,11 +300,11 @@
       "price_old": 997.0,
       "currency": "USD",
       "discount_pct": 88.1,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/7/9/3/8/8/9/1/450x450/22244964.thumb",
+      "image": "https://m.media-amazon.com/images/I/51RmYCbQVQL._AC_SL1000_.jpg",
       "url": "https://amazon.com/dp/B08G1T1CYZ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20267730",
@@ -432,11 +432,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 71.5,
-      "rating": null,
+      "rating": 4.7,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/22248717.thumb",
+      "image": "https://m.media-amazon.com/images/I/71B8ZEirHsL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0B7CBNNXC/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20269068",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253240",
       "published_at": "2026-11-06T21:00:38+00:00",
-      "revalidated_at": "2026-11-06T23:00:59+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B08C2LC3H2",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20267823",
       "published_at": "2026-11-06T19:00:42+00:00",
-      "revalidated_at": "2026-11-06T23:00:59+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B0FLTZ2SHM",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20267175",
       "published_at": "2026-11-06T17:15:53+00:00",
-      "revalidated_at": "2026-11-06T23:00:59+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B09YHPZ28V",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20267289",
       "published_at": "2026-11-06T17:15:53+00:00",
-      "revalidated_at": "2026-11-06T23:00:59+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B07HBYZVC8",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20235984",
       "published_at": "2026-11-06T17:00:40+00:00",
-      "revalidated_at": "2026-11-06T23:00:59+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B0BLCD42J7",
@@ -1365,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20267022",
       "published_at": "2026-11-06T15:15:59+00:00",
-      "revalidated_at": "2026-11-06T23:00:59+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B0H6P8B8SC",
@@ -1400,16 +1400,16 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 86.4,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "AM8W6C9S",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/22231833.thumb",
+      "image": "https://m.media-amazon.com/images/I/717PwzBh1-L._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H32MM5RV/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20262621",
       "published_at": "2026-11-06T15:00:54+00:00",
-      "revalidated_at": "2026-11-06T23:00:59+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B0GGDL8928",
@@ -1568,10 +1568,10 @@
     {
       "asin": "B01KW24RNQ",
       "title": "Harry Potter and Sorcerer's Stone (Special Edition/2 Disc/BD) + more",
-      "title_es": null,
+      "title_es": "Harry Potter y la Piedra Filosofal (Edición Especial/2 Discos/BD)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de la primera película de Harry Potter en esta edición especial de dos discos en Blu-ray. Ideal para coleccionistas y fans que quieran revivir el inicio de la magia en alta definición. ✨",
+      "post_en": "Enjoy the first Harry Potter movie in this special two-disc Blu-ray edition. Perfect for collectors and fans who want to relive the beginning of the magic in high definition. ✨",
       "price_new": 8.99,
       "price_old": 57.0,
       "currency": "USD",
@@ -1590,10 +1590,10 @@
     {
       "asin": "B0G5MZ23QB",
       "title": "ETENWOLF 12 Combo Vacuum Storage Bags for Travel with Wireless Pump",
-      "title_es": null,
+      "title_es": "Bolsas de Almacenamiento al Vacío ETENWOLF 12 Combo para Viaje con Bomba Inalámbrica",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Optimiza el espacio en tu maleta con este set de 12 bolsas de almacenamiento al vacío ETENWOLF, que incluye una práctica bomba inalámbrica. Perfectas para viajeros que buscan empacar más ropa de forma compacta y organizada.",
+      "post_en": "Optimize your suitcase space with this ETENWOLF 12 combo vacuum storage bag set, which includes a convenient wireless pump. Perfect for travelers looking to pack more clothes compactly and organized.",
       "price_new": 9.99,
       "price_old": 19.99,
       "currency": "USD",
@@ -1612,10 +1612,10 @@
     {
       "asin": "B0G86YW5XX",
       "title": "Magic The Gathering - Avengers Assemble Marvel Super Heroes Commander Deck at Amazon",
-      "title_es": null,
+      "title_es": "Magic The Gathering - Mazo Commander Marvel Super Heroes Avengers Assemble",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en el universo de Magic The Gathering con este mazo Commander temático de Marvel Super Heroes Avengers Assemble. Esencial para jugadores que buscan una nueva experiencia de juego con sus héroes favoritos.",
+      "post_en": "Dive into the Magic The Gathering universe with this Marvel Super Heroes Avengers Assemble themed Commander deck. Essential for players looking for a new gaming experience with their favorite heroes.",
       "price_new": 44.99,
       "price_old": 74.99,
       "currency": "USD",
@@ -1634,10 +1634,10 @@
     {
       "asin": "B0GLXGZWMY",
       "title": "UGREEN Nexode Pro 4-Port up to 160W Charger w/ Cable at Amazon",
-      "title_es": null,
+      "title_es": "Cargador UGREEN Nexode Pro de 4 Puertos hasta 160W con Cable",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Carga múltiples dispositivos simultáneamente con el cargador UGREEN Nexode Pro de 160W, que incluye cuatro puertos y un cable. Ideal para usuarios con varios gadgets que necesitan una solución de carga rápida y eficiente.",
+      "post_en": "Charge multiple devices simultaneously with the UGREEN Nexode Pro 160W charger, featuring four ports and an included cable. Ideal for users with several gadgets who need a fast and efficient charging solution.",
       "price_new": 94.99,
       "price_old": 149.99,
       "currency": "USD",
@@ -1656,10 +1656,10 @@
     {
       "asin": "B0CVYBGYBB",
       "title": "CRKD NEO S - Wireless Collectible Controller (Classic Clear) at Amazon",
-      "title_es": null,
+      "title_es": "Mando Inalámbrico Coleccionable CRKD NEO S (Classic Clear)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Experimenta el juego con el mando inalámbrico coleccionable CRKD NEO S en su diseño Classic Clear. Un accesorio único para gamers que valoran la estética y el rendimiento en sus controles.",
+      "post_en": "Experience gaming with the CRKD NEO S wireless collectible controller in its Classic Clear design. A unique accessory for gamers who value both aesthetics and performance in their controllers.",
       "price_new": 34.99,
       "price_old": 49.99,
       "currency": "USD",
@@ -1678,10 +1678,10 @@
     {
       "asin": "B07WNSBFR8",
       "title": "Tara Toy JoJo Siwa Kids' Necklace Making Activity Set at Amazon",
-      "title_es": null,
+      "title_es": "Set de Actividades Tara Toy JoJo Siwa para Hacer Collares para Niños",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Despierta la creatividad de los más pequeños con el set de actividades Tara Toy JoJo Siwa para hacer collares. Es perfecto para niños y niñas que disfrutan creando sus propias joyas y accesorios.",
+      "post_en": "Spark creativity in little ones with the Tara Toy JoJo Siwa Kids' Necklace Making Activity Set. It's perfect for children who enjoy creating their own jewelry and accessories.",
       "price_new": 3.99,
       "price_old": 12.99,
       "currency": "USD",
@@ -1700,10 +1700,10 @@
     {
       "asin": "B0G2D1R15Q",
       "title": "Ring Battery Doorbell 2K (Upgrade Model) at",
-      "title_es": null,
+      "title_es": "Timbre con Batería Ring Doorbell 2K (Modelo Mejorado)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mejora la seguridad de tu hogar con el timbre con batería Ring Doorbell 2K, un modelo mejorado para una vigilancia clara. Ideal para quienes buscan una solución de videovigilancia fácil de instalar y sin cables.",
+      "post_en": "Enhance your home security with the Ring Battery Doorbell 2K, an upgraded model for clear surveillance. Perfect for those looking for an easy-to-install, wire-free video surveillance solution.",
       "price_new": 39.99,
       "price_old": 99.99,
       "currency": "USD",
@@ -1722,10 +1722,10 @@
     {
       "asin": "B09C6HHC1Q",
       "title": "3-Pack 24-Count Advil Junior Strength Chewable Ibuprofen Tablets, Grape",
-      "title_es": null,
+      "title_es": "Pack de 3 Advil Junior Strength Ibuprofeno Masticable, Sabor Uva (24 Unidades)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Alivia el dolor y la fiebre en niños con este pack de 3 Advil Junior Strength en tabletas masticables sabor uva. Un básico en el botiquín familiar para el bienestar de los más pequeños.",
+      "post_en": "Relieve pain and fever in children with this 3-pack of Advil Junior Strength Chewable Ibuprofen Tablets, grape flavor. A family medicine cabinet staple for the well-being of little ones.",
       "price_new": 3.4,
       "price_old": 35.0,
       "currency": "USD",
@@ -1744,10 +1744,10 @@
     {
       "asin": "B00767LJYQ",
       "title": "12-Oz Aveeno Baby Daily Moisture 2-in-1 Wash & Shampoo",
-      "title_es": null,
+      "title_es": "Aveeno Baby Daily Moisture 2 en 1 Lavado y Champú (354 ml)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Cuida la delicada piel de tu bebé con el Aveeno Baby Daily Moisture 2 en 1 Lavado y Champú, que limpia e hidrata suavemente. Es la elección perfecta para padres que buscan productos hipoalergénicos y sin lágrimas.",
+      "post_en": "Care for your baby's delicate skin with Aveeno Baby Daily Moisture 2-in-1 Wash & Shampoo, which gently cleanses and moisturizes. It's the perfect choice for parents seeking hypoallergenic and tear-free products.",
       "price_new": 6.28,
       "price_old": 35.0,
       "currency": "USD",
@@ -1766,10 +1766,10 @@
     {
       "asin": "B0FCHG4YJL",
       "title": "DeWALT 10\" 20V MAX XR Cordless Dual Bevel Miter Saw (Tool Only) +",
-      "title_es": null,
+      "title_es": "Sierra de Inglete Inalámbrica DeWALT 10\" 20V MAX XR de Doble Bisel (Solo Herramienta)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Realiza cortes precisos con la sierra de inglete inalámbrica DeWALT 10\" 20V MAX XR de doble bisel. Una herramienta potente y versátil para profesionales y aficionados al bricolaje que necesitan movilidad.",
+      "post_en": "Make precise cuts with the DeWALT 10\" 20V MAX XR Cordless Dual Bevel Miter Saw. A powerful and versatile tool for professionals and DIY enthusiasts who need mobility.",
       "price_new": 10.0,
       "price_old": 299.0,
       "currency": "USD",
@@ -1783,15 +1783,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20265744",
       "published_at": "2026-11-06T12:45:43+00:00",
-      "revalidated_at": "2026-11-06T22:45:51+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B09VD26DVJ",
       "title": "CRAFTSMAN V20 Cordless Electric Pruner Kit w/ 2Ah Battery & Charger (CMCPR320C1)",
-      "title_es": null,
+      "title_es": "Tijera de Podar Eléctrica Inalámbrica CRAFTSMAN V20 (CMCPR320C1) con Batería y Cargador",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este kit incluye una tijera de podar eléctrica inalámbrica CRAFTSMAN V20, ideal para tareas de jardinería y poda sin esfuerzo. Viene con una batería de 2Ah y cargador, ofreciendo libertad de movimiento para aficionados y profesionales.",
+      "post_en": "This kit includes a CRAFTSMAN V20 cordless electric pruner, perfect for effortless gardening and pruning tasks. It comes with a 2Ah battery and charger, offering freedom of movement for both hobbyists and professionals.",
       "price_new": 91.05,
       "price_old": 135.16,
       "currency": "USD",
@@ -1810,10 +1810,10 @@
     {
       "asin": "B0H2J2QV5H",
       "title": "Calamus BladeVolt Electric Fillet Knife Combo",
-      "title_es": null,
+      "title_es": "Cuchillo Eléctrico de Filetear Calamus BladeVolt Combo",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El Calamus BladeVolt es un cuchillo eléctrico diseñado para filetear pescado de forma rápida y limpia. Su potente motor y cuchillas afiladas lo hacen perfecto para pescadores y amantes de la cocina que buscan eficiencia.",
+      "post_en": "The Calamus BladeVolt is an electric knife designed for quick and clean fish filleting. Its powerful motor and sharp blades make it perfect for anglers and cooking enthusiasts seeking efficiency.",
       "price_new": 56.69,
       "price_old": 89.99,
       "currency": "USD",
@@ -1832,10 +1832,10 @@
     {
       "asin": "B0DFJ9PKK4",
       "title": "CORSAIR 4000D RS ARGB Frame Modular Mid-Tower ATX PC Case w/ 3x Fans at Amazon",
-      "title_es": null,
+      "title_es": "Caja PC ATX CORSAIR 4000D RS ARGB Modular Mid-Tower con 3 Ventiladores",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta torre CORSAIR 4000D RS ARGB ofrece un diseño modular y excelente flujo de aire para tu PC, incluyendo tres ventiladores preinstalados. Ideal para entusiastas del gaming y constructores de PC que buscan estética ARGB y rendimiento.",
+      "post_en": "This CORSAIR 4000D RS ARGB mid-tower offers a modular design and excellent airflow for your PC, including three pre-installed fans. It's ideal for gaming enthusiasts and PC builders looking for ARGB aesthetics and performance.",
       "price_new": 74.99,
       "price_old": 124.99,
       "currency": "USD",
@@ -1854,10 +1854,10 @@
     {
       "asin": "B0FLYJ56H9",
       "title": "Bose QuietComfort Earbuds - True Wireless Bluetooth Earbuds with Active Noise Cancellation and Mic at Amazon",
-      "title_es": null,
+      "title_es": "Auriculares Bose QuietComfort Earbuds True Wireless con Cancelación de Ruido",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Los Bose QuietComfort Earbuds ofrecen una cancelación de ruido activa superior y sonido de alta fidelidad en un diseño totalmente inalámbrico. Son perfectos para quienes buscan sumergirse en su música o llamadas sin distracciones, con la comodidad del Bluetooth.",
+      "post_en": "Bose QuietComfort Earbuds deliver superior active noise cancellation and high-fidelity sound in a true wireless design. They are perfect for those looking to immerse themselves in music or calls without distractions, with Bluetooth convenience.",
       "price_new": 119.0,
       "price_old": 179.0,
       "currency": "USD",
@@ -1876,10 +1876,10 @@
     {
       "asin": "B0H4FRDS14",
       "title": "27\" Acer ProDesigner PE270K L1 4K UHD 144Hz Monitor",
-      "title_es": null,
+      "title_es": "Monitor 4K UHD 144Hz Acer ProDesigner PE270K L1 de 27\"",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El monitor Acer ProDesigner PE270K L1 de 27 pulgadas ofrece resolución 4K UHD y una tasa de refresco de 144Hz para una imagen nítida y fluida. Es ideal para diseñadores gráficos, editores de video y jugadores que demandan precisión de color y rendimiento.",
+      "post_en": "The 27-inch Acer ProDesigner PE270K L1 monitor features 4K UHD resolution and a 144Hz refresh rate for a sharp and fluid image. It's ideal for graphic designers, video editors, and gamers who demand color accuracy and performance.",
       "price_new": 299.99,
       "price_old": 449.99,
       "currency": "USD",
@@ -1898,10 +1898,10 @@
     {
       "asin": "B0F7J45MH9",
       "title": "11-Oz Neutrogena Ultra Gentle Face & Body Moisturizing Cream (Fragrance-Free)",
-      "title_es": null,
+      "title_es": "Crema Hidratante Neutrogena Ultra Gentle para Cara y Cuerpo (Sin Fragancia), 11 Oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta crema hidratante Neutrogena Ultra Gentle, sin fragancia, está formulada para hidratar profundamente la piel sensible de cara y cuerpo. Es una opción excelente para quienes buscan una hidratación suave y efectiva sin irritantes.",
+      "post_en": "This fragrance-free Neutrogena Ultra Gentle moisturizing cream is formulated to deeply hydrate sensitive face and body skin. It's an excellent choice for those seeking gentle yet effective hydration without irritants.",
       "price_new": 6.98,
       "price_old": 35.0,
       "currency": "USD",
@@ -1920,10 +1920,10 @@
     {
       "asin": "B0DRW5TL43",
       "title": "348-Pc LEGO Speed Champions Porsche 911 GT3 RS Super Car Building Set (77239)",
-      "title_es": null,
+      "title_es": "Set de Construcción LEGO Speed Champions Porsche 911 GT3 RS (77239) de 348 Piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Recrea el icónico Porsche 911 GT3 RS con este set LEGO Speed Champions de 348 piezas, que ofrece una experiencia de construcción detallada. Es perfecto para aficionados a los coches deportivos y coleccionistas de LEGO de todas las edades. 🏎️",
+      "post_en": "Recreate the iconic Porsche 911 GT3 RS with this 348-piece LEGO Speed Champions set, offering a detailed building experience. It's perfect for sports car enthusiasts and LEGO collectors of all ages. 🏎️",
       "price_new": 21.59,
       "price_old": 35.0,
       "currency": "USD",
@@ -1942,10 +1942,10 @@
     {
       "asin": "B0FJYHNRRY",
       "title": "Hello Kitty Island Adventure (Nintendo Switch)",
-      "title_es": null,
+      "title_es": "Hello Kitty Island Adventure (Nintendo Switch)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en el encantador mundo de Hello Kitty Island Adventure para Nintendo Switch, un juego lleno de exploración y amistad. Ideal para fans de Hello Kitty y jugadores que disfrutan de aventuras relajantes y creativas.",
+      "post_en": "Immerse yourself in the charming world of Hello Kitty Island Adventure for Nintendo Switch, a game full of exploration and friendship. It's ideal for Hello Kitty fans and players who enjoy relaxing, creative adventures.",
       "price_new": 24.0,
       "price_old": 35.0,
       "currency": "USD",
@@ -1964,10 +1964,10 @@
     {
       "asin": "B015BHMLIA",
       "title": "3-Oz McCormick Grill Mates Brown Sugar Bourbon Seasoning",
-      "title_es": null,
+      "title_es": "Sazonador McCormick Grill Mates Brown Sugar Bourbon de 3 Oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Dale un toque único a tus comidas con el sazonador McCormick Grill Mates Brown Sugar Bourbon, una mezcla dulce y ahumada perfecta para carnes. Es el condimento ideal para amantes de la parrilla y cocineros que buscan sabores intensos.",
+      "post_en": "Add a unique touch to your meals with McCormick Grill Mates Brown Sugar Bourbon seasoning, a sweet and smoky blend perfect for meats. It's the ideal condiment for grilling enthusiasts and cooks seeking intense flavors.",
       "price_new": 1.67,
       "price_old": 35.0,
       "currency": "USD",
@@ -1986,10 +1986,10 @@
     {
       "asin": "B000WLEL70",
       "title": "Campbell's Condensed Cream of Mushroom Soup, 10.5 oz Can~$0.47 With S&S @ Amazon",
-      "title_es": null,
+      "title_es": "Sopa Condensada de Crema de Champiñones Campbell's, Lata de 10.5 oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La sopa condensada de crema de champiñones Campbell's es un clásico versátil, perfecta para preparar platos reconfortantes o como base para recetas. Imprescindible en cualquier despensa para comidas rápidas y deliciosas.",
+      "post_en": "Campbell's Condensed Cream of Mushroom Soup is a versatile classic, perfect for preparing comforting dishes or as a base for recipes. It's a pantry essential for quick and delicious meals.",
       "price_new": 0.47,
       "price_old": 60.0,
       "currency": "USD",
@@ -2008,10 +2008,10 @@
     {
       "asin": "B0FDL2C1VH",
       "title": "24-Pack 10\" STYPOP Christmas Gift Bags w/ Tissue Paper",
-      "title_es": null,
+      "title_es": "Bolsas de regalo de Navidad STYPOP (24 unidades, 10\") con papel de seda",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este paquete de 24 bolsas de regalo STYPOP de 10\" es ideal para envolver tus presentes navideños con facilidad. Incluyen papel de seda a juego, perfectas para quienes buscan una solución rápida y elegante para sus obsequios. 🎁",
+      "post_en": "This 24-pack of 10\" STYPOP gift bags is ideal for easily wrapping your Christmas presents. They include matching tissue paper, perfect for those looking for a quick and elegant solution for their gifts. 🎁",
       "price_new": 13.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -2030,10 +2030,10 @@
     {
       "asin": "B0BDRP9B7M",
       "title": "M inch Quercetin Gummies with Bromelain, Elderberry, Zinc and Vitamin C - Chewable Quercetin 100mg Supplement for Immune, Respiratory & Antioxidant Support, 2 Pack",
-      "title_es": null,
+      "title_es": "Gominolas de Quercetina M inch con Bromelina, Saúco, Zinc y Vitamina C (2 unidades)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estas gominolas masticables M inch combinan quercetina de 100mg con bromelina, saúco, zinc y vitamina C para un apoyo completo. Son perfectas para quienes buscan reforzar su sistema inmune, respiratorio y antioxidante de forma deliciosa.",
+      "post_en": "These M inch chewable gummies combine 100mg quercetin with bromelain, elderberry, zinc, and vitamin C for comprehensive support. They are perfect for those looking to deliciously strengthen their immune, respiratory, and antioxidant systems.",
       "price_new": 12.59,
       "price_old": 39.99,
       "currency": "USD",
@@ -2047,15 +2047,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20265069",
       "published_at": "2026-11-06T08:30:38+00:00",
-      "revalidated_at": "2026-11-06T22:45:51+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B0FS1CFFRG",
       "title": "39-Piece Screwdriver Bit & Ratchet Set",
-      "title_es": null,
+      "title_es": "Set de puntas de destornillador y carraca de 39 piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set de 39 piezas incluye una variedad de puntas de destornillador y una carraca, esenciales para cualquier caja de herramientas. Es ideal para tareas domésticas generales o pequeños proyectos de bricolaje que requieran versatilidad y precisión.",
+      "post_en": "This 39-piece set includes a variety of screwdriver bits and a ratchet, essential for any toolbox. It's ideal for general household tasks or small DIY projects requiring versatility and precision.",
       "price_new": 12.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -2074,10 +2074,10 @@
     {
       "asin": "B0B2VTZ432",
       "title": "Shark Stratos Upright Vacuum Powered Lift-Away Ultra Powerful Suction & Hair Pickup at",
-      "title_es": null,
+      "title_es": "Aspiradora vertical Shark Stratos Lift-Away con succión ultra potente",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La aspiradora vertical Shark Stratos con tecnología Powered Lift-Away ofrece una succión ultra potente y una excelente recogida de pelo. Es perfecta para hogares con mascotas o para quienes necesitan una limpieza profunda y versátil en diferentes superficies.",
+      "post_en": "The Shark Stratos Upright Vacuum with Powered Lift-Away technology offers ultra-powerful suction and excellent hair pickup. It's perfect for homes with pets or for those who need deep, versatile cleaning on different surfaces.",
       "price_new": 264.98,
       "price_old": 529.99,
       "currency": "USD",
@@ -2096,10 +2096,10 @@
     {
       "asin": "B01LB1J9BW",
       "title": "Folgers Classic Roast Instant Coffee, 8 Oz. Jar",
-      "title_es": null,
+      "title_es": "Café instantáneo Folgers Classic Roast, tarro de 8 Oz.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta del sabor clásico del café instantáneo Folgers Classic Roast, presentado en un práctico tarro de 8 Oz. Es ideal para quienes buscan una taza de café rápida y consistente para empezar el día o disfrutar en cualquier momento. ☕",
+      "post_en": "Enjoy the classic taste of Folgers Classic Roast Instant Coffee, presented in a convenient 8 Oz. jar. It's ideal for those looking for a quick and consistent cup of coffee to start their day or enjoy anytime. ☕",
       "price_new": 4.49,
       "price_old": 9.49,
       "currency": "USD",
@@ -2118,10 +2118,10 @@
     {
       "asin": "B0DP9LW3PR",
       "title": "THE NORTH FACE Men's Thermoball Hooded Jacket (Large) at Amazon",
-      "title_es": null,
+      "title_es": "Chaqueta con capucha THE NORTH FACE Thermoball para hombre (Talla L)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La chaqueta con capucha THE NORTH FACE Thermoball ofrece calidez ligera y compresible, ideal para climas fríos. Es una prenda versátil para hombres que buscan protección y confort en sus aventuras al aire libre o en el día a día.",
+      "post_en": "The THE NORTH FACE Men's Thermoball Hooded Jacket offers lightweight, compressible warmth, ideal for cold climates. It's a versatile garment for men seeking protection and comfort in their outdoor adventures or daily life.",
       "price_new": 121.42,
       "price_old": 220.0,
       "currency": "USD",
@@ -2135,15 +2135,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20251641",
       "published_at": "2026-11-06T06:30:30+00:00",
-      "revalidated_at": "2026-11-06T22:45:51+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B0DYDZ6T4H",
       "title": "10' 1440J Trond Flat Plug Power Strip w/ Outlet Cover, 4 AC Outlets & 4 USB Ports (White)",
-      "title_es": null,
+      "title_es": "Regleta Trond de 10' con enchufe plano, 4 tomas AC y 4 puertos USB (Blanco)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta regleta Trond de 10 pies con enchufe plano y cubierta protectora cuenta con 4 tomas AC y 4 puertos USB. Es ideal para organizar y alimentar múltiples dispositivos electrónicos en casa u oficina, manteniendo el espacio ordenado.",
+      "post_en": "This 10-foot Trond flat plug power strip with an outlet cover features 4 AC outlets and 4 USB ports. It's ideal for organizing and powering multiple electronic devices at home or in the office, keeping your space tidy.",
       "price_new": 11.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -2162,10 +2162,10 @@
     {
       "asin": "B0CRRTR2BQ",
       "title": "ANRABESS 2 Piece Lounge sets for Women",
-      "title_es": null,
+      "title_es": "Conjunto de salón de 2 piezas ANRABESS para mujer",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este conjunto de salón ANRABESS de dos piezas está diseñado para ofrecer máxima comodidad y estilo en casa. Es perfecto para mujeres que buscan ropa suave y relajada para descansar o para un look casual y acogedor.",
+      "post_en": "This ANRABESS two-piece lounge set is designed to offer maximum comfort and style at home. It's perfect for women seeking soft, relaxed clothing for lounging or a casual, cozy look.",
       "price_new": 11.99,
       "price_old": 29.99,
       "currency": "USD",
@@ -2184,10 +2184,10 @@
     {
       "asin": "B095BZFX4L",
       "title": "JSAUX Magnetic Wireless MagSafe Charger",
-      "title_es": null,
+      "title_es": "Cargador inalámbrico magnético JSAUX MagSafe",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El cargador inalámbrico magnético JSAUX MagSafe proporciona una carga rápida y segura para dispositivos compatibles. Es ideal para usuarios de iPhone que buscan una solución de carga eficiente y sin cables, que se adhiere perfectamente.",
+      "post_en": "The JSAUX Magnetic Wireless MagSafe Charger provides fast and secure charging for compatible devices. It's ideal for iPhone users looking for an efficient, cable-free charging solution that attaches perfectly.",
       "price_new": 7.49,
       "price_old": 14.98,
       "currency": "USD",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20245821",
       "published_at": "2026-11-06T02:45:47+00:00",
-      "revalidated_at": "2026-11-06T22:45:51+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B0HNRSRX9V",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20264331",
       "published_at": "2026-11-06T02:45:47+00:00",
-      "revalidated_at": "2026-11-06T22:45:51+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B0HMS1RG92",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20239260",
       "published_at": "2026-11-06T02:30:52+00:00",
-      "revalidated_at": "2026-11-06T22:45:51+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B0DT9MYTZ1",
@@ -2377,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20261109",
       "published_at": "2026-11-06T02:30:52+00:00",
-      "revalidated_at": "2026-11-06T22:45:51+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B0GS1LYLW4",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20253591",
       "published_at": "2026-11-06T02:30:52+00:00",
-      "revalidated_at": "2026-11-06T22:45:51+00:00"
+      "revalidated_at": "2026-11-07T00:45:25+00:00"
     },
     {
       "asin": "B0G452L55M",
