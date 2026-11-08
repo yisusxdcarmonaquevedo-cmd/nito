@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-08T02:00:38+00:00",
+  "generated_at": "2026-11-08T02:15:35+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B0HFX2RQQF",
+      "title": "Cordless Infrared Heating Pad for Lower Back Knee Shoulder,",
+      "title_es": "Almohadilla Térmica Infrarroja Inalámbrica para Espalda Baja, Rodilla y Hombro",
+      "headline": null,
+      "post": "Esta almohadilla térmica infrarroja inalámbrica ofrece alivio dirigido para la zona lumbar, rodillas y hombros. Es ideal para quienes buscan una terapia de calor cómoda y portátil para aliviar dolores musculares.",
+      "post_en": "This cordless infrared heating pad provides targeted relief for the lower back, knees, and shoulders. It's ideal for anyone seeking comfortable, portable heat therapy to soothe muscle aches.",
+      "price_new": 34.99,
+      "price_old": 139.99,
+      "currency": "USD",
+      "discount_pct": 75.0,
+      "rating": 4.4,
+      "condition": "code",
+      "code": "GSLQC6I0",
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71SEJGg5cOL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0HFX2RQQF/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20255433",
+      "published_at": "2026-11-08T02:15:35+00:00",
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
+    },
     {
       "asin": "B0DHLFGNMM",
       "title": "251-Piece LEGO Speed Champions Oracle Red Bull Racing RB20 F1 Race Car Building Set (77243)",
@@ -92,28 +114,6 @@
       "revalidated_at": "2026-11-08T00:30:33+00:00"
     },
     {
-      "asin": "B075QRWRYP",
-      "title": "213-pc LEGO Classic Creative Suitcase Building Set (10713) at Amazon",
-      "title_es": "Set de Construcción LEGO Classic Maleta Creativa (10713)",
-      "headline": null,
-      "post": "Este set de construcción LEGO Classic en formato maleta ofrece 213 piezas para fomentar la creatividad y el juego imaginativo. Es ideal para niños que disfrutan construyendo y explorando un mundo de infinitas posibilidades. 🧱",
-      "post_en": "This LEGO Classic Creative Suitcase building set provides 213 pieces to encourage creativity and imaginative play. It's perfect for children who enjoy building and exploring a world of endless possibilities. 🧱",
-      "price_new": 11.89,
-      "price_old": 19.99,
-      "currency": "USD",
-      "discount_pct": 40.5,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/810suM5sWFL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B075QRWRYP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20247855",
-      "published_at": "2026-11-08T00:15:38+00:00",
-      "revalidated_at": "2026-11-08T00:15:38+00:00"
-    },
-    {
       "asin": "B0DWGHDFN4",
       "title": "50-Count NEURIVA Memory 3D Brain Supplement Capsules",
       "title_es": "NEURIVA Memory 3D Suplemento Cerebral (50 Cápsulas)",
@@ -133,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20273040",
       "published_at": "2026-11-08T00:15:38+00:00",
-      "revalidated_at": "2026-11-08T00:15:38+00:00"
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
     },
     {
       "asin": "B0B84FD7RC",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20272140",
       "published_at": "2026-11-07T22:30:51+00:00",
-      "revalidated_at": "2026-11-08T00:15:38+00:00"
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
     },
     {
       "asin": "B0HD632243",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20272461",
       "published_at": "2026-11-07T22:30:51+00:00",
-      "revalidated_at": "2026-11-08T00:15:38+00:00"
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
     },
     {
       "asin": "B0B6M6C7JP",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20271831",
       "published_at": "2026-11-07T20:30:48+00:00",
-      "revalidated_at": "2026-11-08T00:15:38+00:00"
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
     },
     {
       "asin": "B0FY4R1VL6",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20258532",
       "published_at": "2026-11-07T18:45:47+00:00",
-      "revalidated_at": "2026-11-08T00:15:38+00:00"
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
     },
     {
       "asin": "B0GJJMNYYP",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20268021",
       "published_at": "2026-11-07T15:00:55+00:00",
-      "revalidated_at": "2026-11-08T00:15:38+00:00"
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
     },
     {
       "asin": "B01M9A5MXK",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20271216",
       "published_at": "2026-11-07T14:45:56+00:00",
-      "revalidated_at": "2026-11-08T00:15:38+00:00"
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
     },
     {
       "asin": "B0HB3BC4M3",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20271045",
       "published_at": "2026-11-07T13:00:34+00:00",
-      "revalidated_at": "2026-11-08T00:15:38+00:00"
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
     },
     {
       "asin": "B09VX6PKST",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20267499",
       "published_at": "2026-11-07T01:30:46+00:00",
-      "revalidated_at": "2026-11-08T00:15:38+00:00"
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
     },
     {
       "asin": "B0GXC7RDHX",
@@ -1893,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20269515",
       "published_at": "2026-11-07T01:30:46+00:00",
-      "revalidated_at": "2026-11-08T00:15:38+00:00"
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
     },
     {
       "asin": "B0FWQYZXNN",
@@ -2245,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20266164",
       "published_at": "2026-11-06T22:30:44+00:00",
-      "revalidated_at": "2026-11-08T00:15:38+00:00"
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
     },
     {
       "asin": "B0FH4XF4D8",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20268063",
       "published_at": "2026-11-06T20:45:41+00:00",
-      "revalidated_at": "2026-11-08T00:15:38+00:00"
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
     },
     {
       "asin": "B07P3JJ2YK",
@@ -2465,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20267598",
       "published_at": "2026-11-06T20:15:46+00:00",
-      "revalidated_at": "2026-11-08T00:00:29+00:00"
+      "revalidated_at": "2026-11-08T02:15:35+00:00"
     },
     {
       "asin": "B083RTSYG5",
