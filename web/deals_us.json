@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-09T15:00:56+00:00",
+  "generated_at": "2026-11-09T15:15:59+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B0FJZP9WWY",
+      "title": "​Mattel Disney and Pixar Toy Story 5 Critter Talk Jessie at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 22.49,
+      "price_old": 35.99,
+      "currency": "USD",
+      "discount_pct": 37.5,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22264314.thumb",
+      "url": "https://amazon.com/dp/B0FJZP9WWY/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20276592",
+      "published_at": "2026-11-09T15:15:59+00:00",
+      "revalidated_at": "2026-11-09T15:15:59+00:00"
+    },
     {
       "asin": "B0012YVR1O",
       "title": "uni-ball Vision Stick Roller Ball Pens, Fine Point, Black Ink, Pack of 4~$6.60 With S&S @ Amazon",
@@ -36,11 +58,11 @@
       "price_old": 10.49,
       "currency": "USD",
       "discount_pct": 81.0,
-      "rating": null,
+      "rating": 4.2,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/2/8/7/3/8/5/0/450x450/22265991.thumb",
+      "image": "https://m.media-amazon.com/images/I/9152Yc1rKzL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B088RF3199/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20277396",
@@ -221,29 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20277837",
       "published_at": "2026-11-09T13:15:43+00:00",
-      "revalidated_at": "2026-11-09T13:15:43+00:00"
-    },
-    {
-      "asin": "B0GWCY3C9M",
-      "title": "Owala SmoothSip Slider Insulated Stainless Steel Coffee Tumbler, Reusable Iced Coffee Cup, Hot Coffee Travel Mug, BPA Free 12 oz, Off Road - Pack of 4",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 24.99,
-      "price_old": 49.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
-      "url": "https://amazon.com/dp/B0GWCY3C9M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20250549",
-      "published_at": "2026-11-09T13:15:43+00:00",
-      "revalidated_at": "2026-11-09T13:15:43+00:00"
+      "revalidated_at": "2026-11-09T15:15:59+00:00"
     },
     {
       "asin": "B0D3YSJ9GP",
@@ -532,28 +532,6 @@
       "revalidated_at": "2026-11-09T13:45:41+00:00"
     },
     {
-      "asin": "B0DTB3P91J",
-      "title": "Star Wars Non-Electronic Lightsabers Multipack (Darth Vader Lightsaber & The Mandalorian Darksaber)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 4.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 85.7,
-      "rating": 4.4,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/719yV5EWn1L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DTB3P91J/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20278140",
-      "published_at": "2026-11-09T11:15:50+00:00",
-      "revalidated_at": "2026-11-09T13:15:43+00:00"
-    },
-    {
       "asin": "B0H2N8KHQ1",
       "title": "Blink Outdoor XR+ 4-Camera System w/ Battery Video Doorbell 2K+ & Sync Module XR+",
       "title_es": null,
@@ -573,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20277180",
       "published_at": "2026-11-09T11:15:50+00:00",
-      "revalidated_at": "2026-11-09T13:15:43+00:00"
+      "revalidated_at": "2026-11-09T15:15:59+00:00"
     },
     {
       "asin": "B0GXDFGNFS",
@@ -595,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20277969",
       "published_at": "2026-11-09T11:15:50+00:00",
-      "revalidated_at": "2026-11-09T13:15:43+00:00"
+      "revalidated_at": "2026-11-09T15:15:59+00:00"
     },
     {
       "asin": "B0D5JZDKXB",
@@ -683,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276973",
       "published_at": "2026-11-09T05:30:30+00:00",
-      "revalidated_at": "2026-11-09T13:15:43+00:00"
+      "revalidated_at": "2026-11-09T15:15:59+00:00"
     },
     {
       "asin": "B0F6TM5LJR",
@@ -859,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20261346",
       "published_at": "2026-11-09T03:15:36+00:00",
-      "revalidated_at": "2026-11-09T13:00:41+00:00"
+      "revalidated_at": "2026-11-09T15:15:59+00:00"
     },
     {
       "asin": "B0G3NM8RFC",
@@ -1035,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20261217",
       "published_at": "2026-11-09T01:37:42+00:00",
-      "revalidated_at": "2026-11-09T13:15:43+00:00"
+      "revalidated_at": "2026-11-09T15:15:59+00:00"
     },
     {
       "asin": "B0H7J3QMQ8",
@@ -1057,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20275272",
       "published_at": "2026-11-09T01:30:40+00:00",
-      "revalidated_at": "2026-11-09T13:00:41+00:00"
+      "revalidated_at": "2026-11-09T15:15:59+00:00"
     },
     {
       "asin": "B0HF8L52H4",
@@ -1079,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20275152",
       "published_at": "2026-11-09T01:30:40+00:00",
-      "revalidated_at": "2026-11-09T13:15:43+00:00"
+      "revalidated_at": "2026-11-09T15:15:59+00:00"
     },
     {
       "asin": "B07ZS5ZFBP",
@@ -1277,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276421",
       "published_at": "2026-11-08T23:30:43+00:00",
-      "revalidated_at": "2026-11-09T13:15:43+00:00"
+      "revalidated_at": "2026-11-09T15:15:59+00:00"
     },
     {
       "asin": "B086J9T537",
@@ -1299,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276445",
       "published_at": "2026-11-08T23:30:43+00:00",
-      "revalidated_at": "2026-11-09T13:15:43+00:00"
+      "revalidated_at": "2026-11-09T15:15:59+00:00"
     },
     {
       "asin": "B0GVN2R8CZ",
@@ -1827,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20275623",
       "published_at": "2026-11-08T17:58:00+00:00",
-      "revalidated_at": "2026-11-09T13:15:43+00:00"
+      "revalidated_at": "2026-11-09T15:15:59+00:00"
     },
     {
       "asin": "B0FYPDB3WY",
@@ -2619,29 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20273355",
       "published_at": "2026-11-08T03:30:43+00:00",
-      "revalidated_at": "2026-11-09T13:00:41+00:00"
-    },
-    {
-      "asin": "B0FPPT8DKG",
-      "title": "VEVOR 3-Wheel Enclosed Mobility Scooter for Seniors Adults, 650lbs Capacity, 3-Seater 1500W Electric Recreational Mobility Scooter 37 Miles Long Range",
-      "title_es": "Scooter de movilidad eléctrico VEVOR de 3 ruedas para adultos mayores, 650 lbs de capacidad, 3 asientos y 37 millas de autonomía",
-      "headline": null,
-      "post": "Este scooter de movilidad eléctrico de 3 ruedas VEVOR está diseñado para ofrecer independencia a adultos mayores, con una capacidad de 650 lbs y autonomía de 37 millas. Es un vehículo recreativo con asiento para tres, ideal para desplazamientos cómodos y seguros.",
-      "post_en": "This VEVOR 3-wheel electric mobility scooter is designed to offer independence to senior adults, featuring a 650 lbs capacity and a 37-mile range. It's a recreational vehicle with a three-seater design, ideal for comfortable and safe commutes.",
-      "price_new": 419.0,
-      "price_old": 887.0,
-      "currency": "USD",
-      "discount_pct": 52.8,
-      "rating": 4.0,
-      "condition": null,
-      "code": null,
-      "category": "Salud",
-      "image": "https://m.media-amazon.com/images/I/7167L7O-9hL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FPPT8DKG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20273325",
-      "published_at": "2026-11-08T03:30:43+00:00",
-      "revalidated_at": "2026-11-09T13:00:41+00:00"
+      "revalidated_at": "2026-11-09T15:15:59+00:00"
     }
   ]
 }
