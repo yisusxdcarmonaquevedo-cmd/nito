@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09T17:46:08+00:00",
+  "generated_at": "2026-11-09T18:00:53+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
     {
       "asin": "B0D47122J9",
@@ -22,7 +22,8 @@
       "url": "https://amazon.com/dp/B0D47122J9/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20254992",
-      "published_at": "2026-11-09T17:46:08+00:00"
+      "published_at": "2026-11-09T17:46:08+00:00",
+      "revalidated_at": "2026-11-09T18:00:53+00:00"
     },
     {
       "asin": "B0GT4KLY12",
@@ -308,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278806",
       "published_at": "2026-11-09T16:00:53+00:00",
-      "revalidated_at": "2026-11-09T16:00:53+00:00"
+      "revalidated_at": "2026-11-09T18:00:53+00:00"
     },
     {
       "asin": "B0D1BTXSC4",
@@ -330,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20267628",
       "published_at": "2026-11-09T16:00:53+00:00",
-      "revalidated_at": "2026-11-09T16:00:53+00:00"
+      "revalidated_at": "2026-11-09T18:00:53+00:00"
     },
     {
       "asin": "B08HH797BD",
@@ -352,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20266896",
       "published_at": "2026-11-09T16:00:53+00:00",
-      "revalidated_at": "2026-11-09T16:00:53+00:00"
+      "revalidated_at": "2026-11-09T18:00:53+00:00"
     },
     {
       "asin": "B08J8DT362",
@@ -773,28 +774,6 @@
       "revalidated_at": "2026-11-09T16:15:46+00:00"
     },
     {
-      "asin": "B0GV3L4RFZ",
-      "title": "LED Gooseneck Desk Lamp w/ USB & Wireless Charging Ports (Black)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 12.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 62.9,
-      "rating": 4.3,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/718JEXQBORL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GV3L4RFZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20277483",
-      "published_at": "2026-11-09T12:00:43+00:00",
-      "revalidated_at": "2026-11-09T16:00:53+00:00"
-    },
-    {
       "asin": "B0H4GGKZ5Z",
       "title": "10-Pack 24.5\" BOSSERN Solar Christmas Tree Pathway Lights",
       "title_es": null,
@@ -814,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20277924",
       "published_at": "2026-11-09T12:00:43+00:00",
-      "revalidated_at": "2026-11-09T16:00:53+00:00"
+      "revalidated_at": "2026-11-09T18:00:53+00:00"
     },
     {
       "asin": "B0GK6HQ69H",
@@ -947,28 +926,6 @@
       "deal_key": "sd:20277969",
       "published_at": "2026-11-09T11:15:50+00:00",
       "revalidated_at": "2026-11-09T17:15:36+00:00"
-    },
-    {
-      "asin": "B0D5JZDKXB",
-      "title": "598-Piece LEGO Disney and Pixar ‘Up’ House Building Toy",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 38.38,
-      "price_old": 59.99,
-      "currency": "USD",
-      "discount_pct": 36.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/5/5/7/3/6/2/450x450/22267287.thumb",
-      "url": "https://amazon.com/dp/B0D5JZDKXB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20277852",
-      "published_at": "2026-11-09T10:00:38+00:00",
-      "revalidated_at": "2026-11-09T16:00:53+00:00"
     },
     {
       "asin": "B0H3KPKZ3R",
@@ -1232,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276625",
       "published_at": "2026-11-09T02:15:39+00:00",
-      "revalidated_at": "2026-11-09T16:00:53+00:00"
+      "revalidated_at": "2026-11-09T18:00:53+00:00"
     },
     {
       "asin": "B0FKGSDH9D",
@@ -1408,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276526",
       "published_at": "2026-11-09T00:01:07+00:00",
-      "revalidated_at": "2026-11-09T15:45:51+00:00"
+      "revalidated_at": "2026-11-09T18:00:53+00:00"
     },
     {
       "asin": "B007VC9DKI",
@@ -1430,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20243607",
       "published_at": "2026-11-09T00:01:07+00:00",
-      "revalidated_at": "2026-11-09T15:45:51+00:00"
+      "revalidated_at": "2026-11-09T18:00:53+00:00"
     },
     {
       "asin": "B01K152T3E",
@@ -1452,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276070",
       "published_at": "2026-11-09T00:01:07+00:00",
-      "revalidated_at": "2026-11-09T15:45:51+00:00"
+      "revalidated_at": "2026-11-09T18:00:53+00:00"
     },
     {
       "asin": "B0H36ZV7YP",
@@ -1474,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20275674",
       "published_at": "2026-11-09T00:01:07+00:00",
-      "revalidated_at": "2026-11-09T16:00:53+00:00"
+      "revalidated_at": "2026-11-09T18:00:53+00:00"
     },
     {
       "asin": "B0CN1JKSQ1",
@@ -1496,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276364",
       "published_at": "2026-11-09T00:01:07+00:00",
-      "revalidated_at": "2026-11-09T16:00:53+00:00"
+      "revalidated_at": "2026-11-09T18:00:53+00:00"
     },
     {
       "asin": "B0BQV8SP3P",
@@ -1518,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276511",
       "published_at": "2026-11-08T23:45:52+00:00",
-      "revalidated_at": "2026-11-09T15:30:57+00:00"
+      "revalidated_at": "2026-11-09T18:00:53+00:00"
     },
     {
       "asin": "B0G4XGHWQ3",
@@ -1804,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20258763",
       "published_at": "2026-11-08T20:00:46+00:00",
-      "revalidated_at": "2026-11-09T15:45:51+00:00"
+      "revalidated_at": "2026-11-09T18:00:53+00:00"
     },
     {
       "asin": "B00HNSSPHC",
