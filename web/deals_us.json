@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T00:30:26+00:00",
+  "generated_at": "2026-11-10T00:45:25+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -168,11 +168,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 78.6,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/22264953.thumb",
+      "image": "https://m.media-amazon.com/images/I/61PlOewfegL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BZ9VFZL6/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20276898",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20280576",
       "published_at": "2026-11-09T22:45:52+00:00",
-      "revalidated_at": "2026-11-09T22:45:52+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B07QPXSBLH",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279802",
       "published_at": "2026-11-09T20:45:35+00:00",
-      "revalidated_at": "2026-11-09T22:45:52+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B0C4L4ZY94",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278695",
       "published_at": "2026-11-09T20:45:35+00:00",
-      "revalidated_at": "2026-11-09T22:45:52+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B0FMS521QK",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278881",
       "published_at": "2026-11-09T16:30:55+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B0DW17ZH3X",
@@ -1123,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278722",
       "published_at": "2026-11-09T16:15:46+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B0HCMYC7NZ",
@@ -1145,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20277978",
       "published_at": "2026-11-09T16:15:46+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B09CKWB2Q9",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20277399",
       "published_at": "2026-11-09T14:15:55+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B0GF24P6J3",
@@ -1585,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20269266",
       "published_at": "2026-11-09T12:15:44+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B0FFH1DC25",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20277705",
       "published_at": "2026-11-09T12:15:44+00:00",
-      "revalidated_at": "2026-11-09T22:45:52+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B0H4GGKZ5Z",
@@ -1678,10 +1678,10 @@
     {
       "asin": "B0HCVNFR7Z",
       "title": "10-Piece Faninso Washing Machine Bag Set w/ 2 Chenille Shoe Bags",
-      "title_es": null,
+      "title_es": "Set de 10 Bolsas para Lavadora Faninso con 2 Bolsas de Chenilla para Zapatos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set Faninso incluye 10 bolsas de malla para proteger tu ropa delicada en la lavadora, junto con 2 bolsas de chenilla ideales para el calzado. Es perfecto para mantener tus prendas y zapatos organizados y cuidados durante el lavado. 🧺",
+      "post_en": "This Faninso set includes 10 mesh bags to protect your delicate clothes in the washing machine, along with 2 chenille bags ideal for footwear. It's perfect for keeping your garments and shoes organized and cared for during washing. 🧺",
       "price_new": 14.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1700,10 +1700,10 @@
     {
       "asin": "B0HCTX43PG",
       "title": "Pudolla Women's Outdoor Softshell Jacket Fleece Lined(Red-M) | Warm,Insulated,6 Pockets,Lightweight,Water-Resistant,Windproof,Travel,Hiking,Casual,Outdoor,Work,Fall,Winter",
-      "title_es": null,
+      "title_es": "Chaqueta Softshell para Mujer Pudolla con Forro Polar (Rojo-M)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta chaqueta softshell Pudolla para mujer, con forro polar, es ideal para actividades al aire libre gracias a su diseño cálido, ligero y resistente al agua y al viento. Cuenta con 6 bolsillos y es perfecta para viajes, senderismo o uso diario en otoño e invierno.",
+      "post_en": "This Pudolla women's softshell jacket, fleece-lined, is ideal for outdoor activities thanks to its warm, lightweight, water-resistant, and windproof design. It features 6 pockets and is perfect for travel, hiking, or daily use in autumn and winter.",
       "price_new": 29.99,
       "price_old": 52.99,
       "currency": "USD",
@@ -1722,10 +1722,10 @@
     {
       "asin": "B0H2N8KHQ1",
       "title": "Blink Outdoor XR+ 4-Camera System w/ Battery Video Doorbell 2K+ & Sync Module XR+",
-      "title_es": null,
+      "title_es": "Sistema de 4 Cámaras Blink Outdoor XR+ con Video Timbre 2K+ y Módulo Sync XR+",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este completo sistema de seguridad Blink Outdoor XR+ incluye 4 cámaras exteriores, un timbre con video 2K+ y un módulo Sync XR+ para una vigilancia integral. Es una solución inalámbrica y fácil de instalar para proteger tu hogar con visión de día y noche. 🏡",
+      "post_en": "This comprehensive Blink Outdoor XR+ security system includes 4 outdoor cameras, a 2K+ video doorbell, and a Sync Module XR+ for complete surveillance. It's a wireless and easy-to-install solution to protect your home with day and night vision. 🏡",
       "price_new": 121.99,
       "price_old": 419.98,
       "currency": "USD",
@@ -1744,10 +1744,10 @@
     {
       "asin": "B0GXDFGNFS",
       "title": "30\" Propane Weed Burner Torch w/ Handle",
-      "title_es": null,
+      "title_es": "Antorcha Quemador de Maleza de Propano de 30\" con Mango",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta antorcha quemador de maleza de propano de 30\" es una herramienta eficaz para eliminar malas hierbas sin químicos, utilizando calor. Su mango facilita el control y la hace ideal para jardinería y mantenimiento de caminos. 🔥",
+      "post_en": "This 30\" propane weed burner torch is an effective tool for eliminating weeds without chemicals, using heat. Its handle provides easy control, making it ideal for gardening and path maintenance. 🔥",
       "price_new": 18.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -1766,10 +1766,10 @@
     {
       "asin": "B0H3KPKZ3R",
       "title": "2-Pack 1100-Lumen Banral Dual-LED Rechargeable EDC Pocket Flashlight w/ Magnetic Base",
-      "title_es": null,
+      "title_es": "Pack de 2 Linternas de Bolsillo EDC Recargables Banral de Doble LED de 1100 Lúmenes con Base Magnética",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack incluye dos linternas de bolsillo Banral EDC recargables, con doble LED de 1100 lúmenes y una práctica base magnética. Son perfectas para tener a mano en cualquier situación, ofreciendo gran luminosidad y versatilidad.",
+      "post_en": "This pack includes two Banral rechargeable EDC pocket flashlights, featuring dual 1100-lumen LEDs and a practical magnetic base. They are perfect for having on hand in any situation, offering great brightness and versatility.",
       "price_new": 19.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1788,10 +1788,10 @@
     {
       "asin": "B09Z6VPFWD",
       "title": "50' Camco EvoFlex2 RV Drinking Water Hose w/ 5/8\" Diameter",
-      "title_es": null,
+      "title_es": "Manguera de Agua Potable para RV Camco EvoFlex2 de 50' y 5/8\" de Diámetro",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta manguera Camco EvoFlex2 de 50 pies y 5/8\" de diámetro está diseñada específicamente para agua potable en RVs, garantizando un suministro seguro y sin sabor. Su flexibilidad la hace fácil de usar y almacenar en tus viajes. 🚐",
+      "post_en": "This 50-foot, 5/8\" diameter Camco EvoFlex2 hose is specifically designed for RV drinking water, ensuring a safe and tasteless supply. Its flexibility makes it easy to use and store for your travels. 🚐",
       "price_new": 23.95,
       "price_old": 48.99,
       "currency": "USD",
@@ -2135,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276526",
       "published_at": "2026-11-09T00:01:07+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B007VC9DKI",
@@ -2157,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20243607",
       "published_at": "2026-11-09T00:01:07+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B0H36ZV7YP",
@@ -2179,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20275674",
       "published_at": "2026-11-09T00:01:07+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B0CN1JKSQ1",
@@ -2201,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276364",
       "published_at": "2026-11-09T00:01:07+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B0BQV8SP3P",
@@ -2223,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276511",
       "published_at": "2026-11-08T23:45:52+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B0G4XGHWQ3",
@@ -2509,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20258763",
       "published_at": "2026-11-08T20:00:46+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:45:25+00:00"
     },
     {
       "asin": "B00HNSSPHC",
