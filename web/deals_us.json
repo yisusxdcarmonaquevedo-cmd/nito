@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-10T15:15:45+00:00",
+  "generated_at": "2026-11-10T15:30:47+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0DQ68BLRT",
+      "title": "Moose Games Bluey Grannies Board Game (Ages 3+, 2-4 Players)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.47,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 78.7,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/22198050.thumb",
+      "url": "https://amazon.com/dp/B0DQ68BLRT/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20250654",
+      "published_at": "2026-11-10T15:30:47+00:00",
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
+    },
     {
       "asin": "0735265917",
       "title": "Narwhal and Jelly 1-3 Book Box Set w/ Poster (Paperback Books) at Amazon",
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20283387",
       "published_at": "2026-11-10T13:30:50+00:00",
-      "revalidated_at": "2026-11-10T13:30:50+00:00"
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
     },
     {
       "asin": "B0GNTJ7FGB",
@@ -366,16 +388,16 @@
       "price_old": 149.98,
       "currency": "USD",
       "discount_pct": 76.7,
-      "rating": null,
+      "rating": 4.1,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22281525.thumb",
+      "image": "https://m.media-amazon.com/images/I/61H2CidKZNL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GNTJ7FGB/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20283681",
       "published_at": "2026-11-10T13:30:50+00:00",
-      "revalidated_at": "2026-11-10T13:30:50+00:00"
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
     },
     {
       "asin": "B0DDPNMMF1",
@@ -397,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20281008",
       "published_at": "2026-11-10T13:30:50+00:00",
-      "revalidated_at": "2026-11-10T13:30:50+00:00"
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
     },
     {
       "asin": "B0H7STWGZY",
@@ -419,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20283558",
       "published_at": "2026-11-10T13:30:50+00:00",
-      "revalidated_at": "2026-11-10T13:30:50+00:00"
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
     },
     {
       "asin": "B0FY45N1FQ",
@@ -750,28 +772,6 @@
       "deal_key": "sd:20279028",
       "published_at": "2026-11-10T09:59:05+00:00",
       "revalidated_at": "2026-11-10T13:45:51+00:00"
-    },
-    {
-      "asin": "B0FQ642ZGY",
-      "title": "3-Pc Klein Tools Impact Swivel Socket Adapter Set (1/4\", 3/8\", 1/2\" Square Drive)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 11.97,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 65.8,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51dsHvYmbXL._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B0FQ642ZGY/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20283195",
-      "published_at": "2026-11-10T09:45:36+00:00",
-      "revalidated_at": "2026-11-10T13:30:50+00:00"
     },
     {
       "asin": "B0FZ9G3Q2F",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20281419",
       "published_at": "2026-11-10T02:00:42+00:00",
-      "revalidated_at": "2026-11-10T13:30:50+00:00"
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
     },
     {
       "asin": "B0HBPYLHVS",
@@ -1849,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20280801",
       "published_at": "2026-11-09T21:45:40+00:00",
-      "revalidated_at": "2026-11-10T13:15:53+00:00"
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
     },
     {
       "asin": "B0DJ19VGDH",
@@ -2047,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279517",
       "published_at": "2026-11-09T19:45:40+00:00",
-      "revalidated_at": "2026-11-10T13:15:53+00:00"
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
     },
     {
       "asin": "B0HFR4C6JS",
@@ -2069,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278875",
       "published_at": "2026-11-09T19:45:40+00:00",
-      "revalidated_at": "2026-11-10T13:15:53+00:00"
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
     },
     {
       "asin": "B0HHFGNWGN",
@@ -2399,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276121",
       "published_at": "2026-11-09T17:15:36+00:00",
-      "revalidated_at": "2026-11-10T13:15:53+00:00"
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
     },
     {
       "asin": "B0FB3BF591",
@@ -2421,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279457",
       "published_at": "2026-11-09T17:00:47+00:00",
-      "revalidated_at": "2026-11-10T13:15:53+00:00"
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
     },
     {
       "asin": "B0H87MX6WZ",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278887",
       "published_at": "2026-11-09T17:00:47+00:00",
-      "revalidated_at": "2026-11-10T13:15:53+00:00"
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
     },
     {
       "asin": "B0FCF8PTQ4",
@@ -2465,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279364",
       "published_at": "2026-11-09T16:46:01+00:00",
-      "revalidated_at": "2026-11-10T13:15:53+00:00"
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
     },
     {
       "asin": "B0FW8P948C",
@@ -2487,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20277489",
       "published_at": "2026-11-09T16:46:01+00:00",
-      "revalidated_at": "2026-11-10T13:15:53+00:00"
+      "revalidated_at": "2026-11-10T15:30:47+00:00"
     },
     {
       "asin": "B0DHLTCYWH",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20267628",
       "published_at": "2026-11-09T16:00:53+00:00",
       "revalidated_at": "2026-11-10T13:30:50+00:00"
-    },
-    {
-      "asin": "B08HH797BD",
-      "title": "Funko Pop! Moments Mandalorian & Grogu w/ Polar Mouse Droid Vinyl Figure",
-      "title_es": "Figura de vinilo Funko Pop! Moments Mandalorian y Grogu con Polar Mouse Droid",
-      "headline": null,
-      "post": "Celebra tus momentos favoritos de Star Wars con esta figura de vinilo Funko Pop! Moments de Mandalorian y Grogu junto al Polar Mouse Droid. Es un coleccionable imprescindible para cualquier fan de la saga. ✨",
-      "post_en": "Celebrate your favorite Star Wars moments with this Funko Pop! Moments vinyl figure of Mandalorian and Grogu with the Polar Mouse Droid. It's a must-have collectible for any fan of the saga. ✨",
-      "price_new": 19.84,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 43.3,
-      "rating": 4.9,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61qcjk30+kL._AC_SL1300_.jpg",
-      "url": "https://amazon.com/dp/B08HH797BD/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20266896",
-      "published_at": "2026-11-09T16:00:53+00:00",
-      "revalidated_at": "2026-11-10T13:45:51+00:00"
     }
   ]
 }
