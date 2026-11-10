@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-10T16:15:46+00:00",
+  "generated_at": "2026-11-10T16:30:27+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "1506754902",
+      "title": "Super Mario Galaxy: Rosalina's Storybook (Hardcover Book) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 10.62,
+      "price_old": 24.99,
+      "currency": "USD",
+      "discount_pct": 57.5,
+      "rating": 4.8,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81XfP0JrwrL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/1506754902/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20284110",
+      "published_at": "2026-11-10T16:30:27+00:00",
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
+    },
     {
       "asin": "0525648143",
       "title": "Dr. Seuss The Little Green Boxed Set of Bright and Early Board Books (4-Book Set)",
@@ -14,11 +36,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 80.9,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/9/1/2/6/8/2/450x450/22282902.thumb",
+      "image": "https://m.media-amazon.com/images/I/71Q2-t0kvVL._SL1500_.jpg",
       "url": "https://amazon.com/dp/0525648143/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20284158",
@@ -36,11 +58,11 @@
       "price_old": 19.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "ETQ82ZU1",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/22244877.thumb",
+      "image": "https://m.media-amazon.com/images/I/61liww0lJdL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BW36L7M3/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20267706",
@@ -102,11 +124,11 @@
       "price_old": 89.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "0ECELU3K",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/3/3/5/6/0/450x450/22276710.thumb",
+      "image": "https://m.media-amazon.com/images/I/71KAcPhRjhL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FT3J2P3F/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20281611",
@@ -168,11 +190,11 @@
       "price_old": 23.97,
       "currency": "USD",
       "discount_pct": 57.4,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22283055.thumb",
+      "image": "https://m.media-amazon.com/images/I/81ohJ9SG0ZL._SL1500_.jpg",
       "url": "https://amazon.com/dp/0735265917/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20284194",
@@ -243,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20283795",
       "published_at": "2026-11-10T14:30:40+00:00",
-      "revalidated_at": "2026-11-10T14:30:40+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B08FDB3LVR",
@@ -683,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20281398",
       "published_at": "2026-11-10T12:30:37+00:00",
-      "revalidated_at": "2026-11-10T14:30:40+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B07ZGDHXJG",
@@ -969,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20282445",
       "published_at": "2026-11-10T08:45:34+00:00",
-      "revalidated_at": "2026-11-10T14:30:40+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B0C7ZDC8DF",
@@ -1079,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20281599",
       "published_at": "2026-11-10T04:45:42+00:00",
-      "revalidated_at": "2026-11-10T14:30:40+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B0CTJGH5N6",
@@ -1101,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20282340",
       "published_at": "2026-11-10T04:45:42+00:00",
-      "revalidated_at": "2026-11-10T14:30:40+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B0H4DZJK9X",
@@ -1123,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20282448",
       "published_at": "2026-11-10T04:45:42+00:00",
-      "revalidated_at": "2026-11-10T14:30:40+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B01BESQYJW",
@@ -1189,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20275743",
       "published_at": "2026-11-10T04:30:58+00:00",
-      "revalidated_at": "2026-11-10T14:15:54+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B0DKW2H52M",
@@ -1299,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279808",
       "published_at": "2026-11-10T02:45:50+00:00",
-      "revalidated_at": "2026-11-10T14:30:40+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B0FSV8QX4V",
@@ -1321,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278629",
       "published_at": "2026-11-10T02:45:50+00:00",
-      "revalidated_at": "2026-11-10T14:30:40+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B00HEAMMIC",
@@ -1365,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278392",
       "published_at": "2026-11-10T02:30:30+00:00",
-      "revalidated_at": "2026-11-10T14:15:54+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B0D9HC31XC",
@@ -2267,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279859",
       "published_at": "2026-11-09T18:45:29+00:00",
-      "revalidated_at": "2026-11-10T14:15:54+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B0GCCWBWJB",
@@ -2289,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279412",
       "published_at": "2026-11-09T18:30:49+00:00",
-      "revalidated_at": "2026-11-10T14:15:54+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B0FHHKNQVH",
@@ -2311,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279832",
       "published_at": "2026-11-09T18:30:49+00:00",
-      "revalidated_at": "2026-11-10T14:15:54+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B0H6JCSZ1Q",
@@ -2333,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278800",
       "published_at": "2026-11-09T18:30:49+00:00",
-      "revalidated_at": "2026-11-10T14:15:54+00:00"
+      "revalidated_at": "2026-11-10T16:30:27+00:00"
     },
     {
       "asin": "B0GS1Y27ZS",
@@ -2619,28 +2641,6 @@
       "source": "slickdeals",
       "deal_key": "sd:20278881",
       "published_at": "2026-11-09T16:30:55+00:00",
-      "revalidated_at": "2026-11-10T14:45:35+00:00"
-    },
-    {
-      "asin": "B0DW17ZH3X",
-      "title": "Bluey 13\" Talking & Singing Plush Stuffed Toy",
-      "title_es": "Peluche Bluey de 13\" que habla y canta",
-      "headline": null,
-      "post": "Diviértete con este adorable peluche Bluey de 13 pulgadas que habla y canta, perfecto para los fans de la popular serie. Es el compañero ideal para juegos imaginativos y abrazos.",
-      "post_en": "Have fun with this adorable 13-inch Bluey talking and singing plush toy, perfect for fans of the popular series. It's the ideal companion for imaginative play and cuddles.",
-      "price_new": 6.47,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 81.5,
-      "rating": 4.8,
-      "condition": "coupon",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/718AhvAtdzL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DW17ZH3X/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20278722",
-      "published_at": "2026-11-09T16:15:46+00:00",
       "revalidated_at": "2026-11-10T14:45:35+00:00"
     }
   ]
