@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-10T21:45:46+00:00",
+  "generated_at": "2026-11-10T22:00:48+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "0744092639",
+      "title": "Marvel Studios Character Encyclopedia Updated Edition (Hardcover Book)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.9,
+      "price_old": 21.99,
+      "currency": "USD",
+      "discount_pct": 64.1,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81vBiVvXLiL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/0744092639/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20284230",
+      "published_at": "2026-11-10T22:00:48+00:00",
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
+    },
+    {
+      "asin": "B0GS62BDQS",
+      "title": "3-Port TALIX 20000mAh Laptop Power Bank w/ Built-in USB-C Cable (140W max, Up to 190W)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 29.99,
+      "price_old": 49.99,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "KCPDDRBM",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71ryyKStpZL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GS62BDQS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20285388",
+      "published_at": "2026-11-10T22:00:48+00:00",
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
+    },
+    {
+      "asin": "B0GJ4L24DJ",
+      "title": "ThermoMaven Propane Blow Torch w/ One-Touch Max Fire Propane Torch (The Patriot)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 23.9,
+      "price_old": 40.0,
+      "currency": "USD",
+      "discount_pct": 40.3,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/3/0/6/6/3/5/5/9/450x450/22286814.thumb",
+      "url": "https://amazon.com/dp/B0GJ4L24DJ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20285574",
+      "published_at": "2026-11-10T22:00:48+00:00",
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
+    },
     {
       "asin": "B0FWFMGJCP",
       "title": "1000-Piece Just Play LEGO Icons: Seasonal Santa's Post Office Jigsaw Puzzle",
@@ -58,11 +124,11 @@
       "price_old": 59.99,
       "currency": "USD",
       "discount_pct": 30.0,
-      "rating": null,
+      "rating": 5.0,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/5/5/7/3/6/2/450x450/22287432.thumb",
+      "image": "https://m.media-amazon.com/images/I/71XAotKCBaL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G2T5PP7W/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20285802",
@@ -265,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20285625",
       "published_at": "2026-11-10T20:00:49+00:00",
-      "revalidated_at": "2026-11-10T20:00:49+00:00"
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
     },
     {
       "asin": "B0DSHQXFB3",
@@ -287,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20285931",
       "published_at": "2026-11-10T20:00:49+00:00",
-      "revalidated_at": "2026-11-10T20:00:49+00:00"
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
     },
     {
       "asin": "B0G35F95F9",
@@ -507,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20264811",
       "published_at": "2026-11-10T18:00:41+00:00",
-      "revalidated_at": "2026-11-10T20:00:49+00:00"
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
     },
     {
       "asin": "B0FGCR9LSP",
@@ -837,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20284158",
       "published_at": "2026-11-10T16:15:46+00:00",
-      "revalidated_at": "2026-11-10T20:00:49+00:00"
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
     },
     {
       "asin": "B0BW36L7M3",
@@ -859,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20267706",
       "published_at": "2026-11-10T16:15:46+00:00",
-      "revalidated_at": "2026-11-10T20:00:49+00:00"
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
     },
     {
       "asin": "B0GH7B993V",
@@ -881,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20284746",
       "published_at": "2026-11-10T16:15:46+00:00",
-      "revalidated_at": "2026-11-10T20:00:49+00:00"
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
     },
     {
       "asin": "B0F2B8XZ17",
@@ -925,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20281611",
       "published_at": "2026-11-10T16:00:37+00:00",
-      "revalidated_at": "2026-11-10T19:45:53+00:00"
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
     },
     {
       "asin": "030797586X",
@@ -1145,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20263182",
       "published_at": "2026-11-10T14:00:49+00:00",
-      "revalidated_at": "2026-11-10T19:45:53+00:00"
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
     },
     {
       "asin": "1524884979",
@@ -1167,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20283282",
       "published_at": "2026-11-10T14:00:49+00:00",
-      "revalidated_at": "2026-11-10T19:45:53+00:00"
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
     },
     {
       "asin": "B0H7RR4NNM",
@@ -1189,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20283819",
       "published_at": "2026-11-10T14:00:49+00:00",
-      "revalidated_at": "2026-11-10T19:45:53+00:00"
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
     },
     {
       "asin": "B0D5JZDKXB",
@@ -1211,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20283690",
       "published_at": "2026-11-10T14:00:49+00:00",
-      "revalidated_at": "2026-11-10T19:45:53+00:00"
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
     },
     {
       "asin": "B01AKX8L0M",
@@ -2069,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20281419",
       "published_at": "2026-11-10T02:00:42+00:00",
-      "revalidated_at": "2026-11-10T19:45:53+00:00"
+      "revalidated_at": "2026-11-10T22:00:48+00:00"
     },
     {
       "asin": "B0HBPYLHVS",
@@ -2576,72 +2642,6 @@
       "deal_key": "sd:20280795",
       "published_at": "2026-11-09T22:15:51+00:00",
       "revalidated_at": "2026-11-10T20:30:51+00:00"
-    },
-    {
-      "asin": "B0DFLTVGP7",
-      "title": "440-Lb WESTHEY Digital Postal Shipping Scale w/ LED Display",
-      "title_es": "Báscula digital de envío WESTHEY de 440 Lb con pantalla LED",
-      "headline": null,
-      "post": "Esta báscula digital WESTHEY es ideal para envíos postales y paquetes grandes, soportando hasta 440 Lb con su pantalla LED de fácil lectura. Perfecta para negocios o uso doméstico que requieran mediciones de peso precisas.",
-      "post_en": "This WESTHEY digital scale is ideal for postal shipping and large packages, supporting up to 440 Lb with its easy-to-read LED display. Perfect for businesses or home use requiring precise weight measurements.",
-      "price_new": 23.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 31.5,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "54HYLUDL",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61PyJy-rkYL._SL1254_.jpg",
-      "url": "https://amazon.com/dp/B0DFLTVGP7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20280042",
-      "published_at": "2026-11-09T22:00:47+00:00",
-      "revalidated_at": "2026-11-10T20:00:49+00:00"
-    },
-    {
-      "asin": "B07KHG79Z8",
-      "title": "14-Piece CRAFTSMAN Gold Oxide Drill Bit Set",
-      "title_es": "Set de 14 brocas CRAFTSMAN Gold Oxide",
-      "headline": null,
-      "post": "Este set de 14 brocas CRAFTSMAN Gold Oxide ofrece durabilidad y rendimiento para tus proyectos de perforación. Esencial para aficionados al bricolaje y profesionales que buscan herramientas fiables.",
-      "post_en": "This 14-piece CRAFTSMAN Gold Oxide drill bit set offers durability and performance for your drilling projects. Essential for DIY enthusiasts and professionals seeking reliable tools.",
-      "price_new": 9.98,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.5,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81ozXpzLspL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07KHG79Z8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20280801",
-      "published_at": "2026-11-09T21:45:40+00:00",
-      "revalidated_at": "2026-11-10T19:45:53+00:00"
-    },
-    {
-      "asin": "B0DJ19VGDH",
-      "title": "LEGO Minecraft The Baby Pig House Toy Figures and Playset - 21268",
-      "title_es": "LEGO Minecraft La Casa del Cerdito Bebé - 21268",
-      "headline": null,
-      "post": "Construye La Casa del Cerdito Bebé de LEGO Minecraft (21268) con figuras de juguete y un playset lleno de diversión. Ideal para fans de Minecraft y LEGO que disfrutan de la creatividad y la aventura. 🐷",
-      "post_en": "Build LEGO Minecraft The Baby Pig House (21268) with toy figures and a fun playset. Ideal for Minecraft and LEGO fans who enjoy creativity and adventure. 🐷",
-      "price_new": 11.99,
-      "price_old": 19.92,
-      "currency": "USD",
-      "discount_pct": 39.8,
-      "rating": 4.9,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/817Z1AU+LRL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DJ19VGDH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20280645",
-      "published_at": "2026-11-09T21:30:46+00:00",
-      "revalidated_at": "2026-11-10T21:45:46+00:00"
     }
   ]
 }
