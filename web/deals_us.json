@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T00:16:02+00:00",
+  "generated_at": "2026-11-10T00:30:26+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -14,11 +14,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 76.5,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": "T5NJE25R",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/22273056.thumb",
+      "image": "https://m.media-amazon.com/images/I/71weIPf22OL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DZT4HWM1/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20280180",
@@ -551,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278395",
       "published_at": "2026-11-09T20:30:29+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0DJBB1XD2",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20251173",
       "published_at": "2026-11-09T18:45:29+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0FQFGGH58",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279859",
       "published_at": "2026-11-09T18:45:29+00:00",
-      "revalidated_at": "2026-11-09T22:30:41+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0GCCWBWJB",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279412",
       "published_at": "2026-11-09T18:30:49+00:00",
-      "revalidated_at": "2026-11-09T22:15:51+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0FHHKNQVH",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279832",
       "published_at": "2026-11-09T18:30:49+00:00",
-      "revalidated_at": "2026-11-09T22:15:51+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0H6JCSZ1Q",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278800",
       "published_at": "2026-11-09T18:30:49+00:00",
-      "revalidated_at": "2026-11-09T22:15:51+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0GS1Y27ZS",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279118",
       "published_at": "2026-11-09T18:30:49+00:00",
-      "revalidated_at": "2026-11-09T22:15:51+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0DRW6VY43",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279712",
       "published_at": "2026-11-09T18:30:49+00:00",
-      "revalidated_at": "2026-11-09T22:15:51+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0FXWDD1ND",
@@ -881,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279379",
       "published_at": "2026-11-09T18:30:49+00:00",
-      "revalidated_at": "2026-11-09T22:15:51+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0D47122J9",
@@ -1018,10 +1018,10 @@
     {
       "asin": "B0FCF8PTQ4",
       "title": "3-Piece toolant 1/4\" Hex Magnetic Drill Bit Extension Set w/ Anti-Wobble Design (2.5\", 4\" & 6\")",
-      "title_es": null,
+      "title_es": "Set de extensiones magnéticas toolant 1/4\" Hex para taladro (3 piezas)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set de 3 extensiones magnéticas toolant para taladro de 1/4\" Hex, con diseño anti-oscilación, es ideal para trabajos de bricolaje y profesionales que requieren precisión y alcance extra. Incluye tamaños de 2.5\", 4\" y 6\" para adaptarse a diversas necesidades.",
+      "post_en": "This 3-piece toolant 1/4\" Hex magnetic drill bit extension set, featuring an anti-wobble design, is perfect for DIYers and professionals needing precision and extra reach. It includes 2.5\", 4\", and 6\" sizes to suit various tasks.",
       "price_new": 8.44,
       "price_old": 35.0,
       "currency": "USD",
@@ -1040,10 +1040,10 @@
     {
       "asin": "B0FW8P948C",
       "title": "SONGMICS 3-Layer Glass Top Jewelry Box w/ 3 Drawers (Cream White)",
-      "title_es": null,
+      "title_es": "Joyero SONGMICS de 3 capas con tapa de cristal y 3 cajones (Blanco Crema)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este elegante joyero SONGMICS de 3 capas en blanco crema, con tapa de cristal y 3 cajones, ofrece un almacenamiento organizado para tus joyas. Es perfecto para mantener tus anillos, collares y pulseras protegidos y a la vista.",
+      "post_en": "This elegant SONGMICS 3-layer jewelry box in cream white, featuring a glass top and 3 drawers, provides organized storage for your precious items. It's perfect for keeping your rings, necklaces, and bracelets protected and visible.",
       "price_new": 11.89,
       "price_old": 35.0,
       "currency": "USD",
@@ -1062,10 +1062,10 @@
     {
       "asin": "B0DHLTCYWH",
       "title": "5-Cam Blink Outdoor 4 Wireless Security Camera System w/ Sync Module Core",
-      "title_es": null,
+      "title_es": "Sistema de seguridad inalámbrico Blink Outdoor 4 (5 cámaras) con Sync Module Core",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Protege tu hogar con este sistema de seguridad inalámbrico Blink Outdoor 4, que incluye 5 cámaras y un Sync Module Core. Es ideal para una vigilancia exterior completa, ofreciendo tranquilidad y fácil instalación.",
+      "post_en": "Secure your home with this Blink Outdoor 4 wireless security system, which includes 5 cameras and a Sync Module Core. It's ideal for comprehensive outdoor surveillance, offering peace of mind and easy installation.",
       "price_new": 104.99,
       "price_old": 299.99,
       "currency": "USD",
@@ -1084,10 +1084,10 @@
     {
       "asin": "B0H7G73QMC",
       "title": "Hot Bee Toddler Electric Train Set w/ Lights, Music, Magnetic Connection and Moving Ride Cars",
-      "title_es": null,
+      "title_es": "Tren eléctrico Hot Bee para niños pequeños con luces y música",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este tren eléctrico Hot Bee para niños pequeños, con luces, música y conexión magnética, ofrece horas de diversión interactiva. Sus coches móviles lo hacen un juguete ideal para estimular la imaginación y el juego. 🚂",
+      "post_en": "This Hot Bee electric train set for toddlers, featuring lights, music, and magnetic connections, offers hours of interactive fun. Its moving ride cars make it an ideal toy to stimulate imagination and play. 🚂",
       "price_new": 14.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1106,10 +1106,10 @@
     {
       "asin": "B0DW17ZH3X",
       "title": "Bluey 13\" Talking & Singing Plush Stuffed Toy",
-      "title_es": null,
+      "title_es": "Peluche Bluey de 13\" que habla y canta",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Diviértete con este adorable peluche Bluey de 13 pulgadas que habla y canta, perfecto para los fans de la popular serie. Es el compañero ideal para juegos imaginativos y abrazos.",
+      "post_en": "Have fun with this adorable 13-inch Bluey talking and singing plush toy, perfect for fans of the popular series. It's the ideal companion for imaginative play and cuddles.",
       "price_new": 6.47,
       "price_old": 35.0,
       "currency": "USD",
@@ -1128,10 +1128,10 @@
     {
       "asin": "B0HCMYC7NZ",
       "title": "100' HRANBOTY LED Outdoor Rope Lights w/ 8-Modes",
-      "title_es": null,
+      "title_es": "Tira de luces LED de exterior HRANBOTY de 100 pies con 8 modos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Ilumina tus espacios exteriores con esta tira de luces LED HRANBOTY de 100 pies, que ofrece 8 modos de iluminación. Es perfecta para decorar jardines, patios o eventos, creando un ambiente acogedor.",
+      "post_en": "Illuminate your outdoor spaces with this 100-foot HRANBOTY LED rope light, featuring 8 lighting modes. It's perfect for decorating gardens, patios, or events, creating a cozy atmosphere.",
       "price_new": 14.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1150,10 +1150,10 @@
     {
       "asin": "B09CKWB2Q9",
       "title": "2-Pack MGparty LED Light-Up Knitted Christmas Beanies w/ 3 Flashing Modes (Various, Ones Size Fits Most) from",
-      "title_es": null,
+      "title_es": "Pack de 2 gorros de Navidad MGparty LED con 3 modos de parpadeo",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Prepárate para las fiestas con este pack de 2 gorros de Navidad MGparty de punto con luces LED y 3 modos de parpadeo. Son un accesorio divertido y festivo para toda la familia, talla única.",
+      "post_en": "Get ready for the holidays with this 2-pack of MGparty LED light-up knitted Christmas beanies, featuring 3 flashing modes. They are a fun and festive accessory for the whole family, one size fits most.",
       "price_new": 7.67,
       "price_old": 35.0,
       "currency": "USD",
@@ -1172,10 +1172,10 @@
     {
       "asin": "B0D1BTXSC4",
       "title": "12-Divider ORDORA Expandable Under-Cabinet Pot, Pan & Lid Organizer (Black)",
-      "title_es": null,
+      "title_es": "Organizador expandible ORDORA para ollas y sartenes con 12 divisores (Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mantén tu cocina organizada con este organizador expandible ORDORA para ollas, sartenes y tapas, con 12 divisores ajustables. Se adapta perfectamente bajo el armario, optimizando el espacio y facilitando el acceso.",
+      "post_en": "Keep your kitchen organized with this expandable ORDORA pot, pan, and lid organizer, featuring 12 adjustable dividers. It fits perfectly under cabinets, optimizing space and making access easy.",
       "price_new": 12.95,
       "price_old": 35.0,
       "currency": "USD",
@@ -1194,10 +1194,10 @@
     {
       "asin": "B08HH797BD",
       "title": "Funko Pop! Moments Mandalorian & Grogu w/ Polar Mouse Droid Vinyl Figure",
-      "title_es": null,
+      "title_es": "Figura de vinilo Funko Pop! Moments Mandalorian y Grogu con Polar Mouse Droid",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Celebra tus momentos favoritos de Star Wars con esta figura de vinilo Funko Pop! Moments de Mandalorian y Grogu junto al Polar Mouse Droid. Es un coleccionable imprescindible para cualquier fan de la saga. ✨",
+      "post_en": "Celebrate your favorite Star Wars moments with this Funko Pop! Moments vinyl figure of Mandalorian and Grogu with the Polar Mouse Droid. It's a must-have collectible for any fan of the saga. ✨",
       "price_new": 19.84,
       "price_old": 35.0,
       "currency": "USD",
@@ -1216,10 +1216,10 @@
     {
       "asin": "B08J8DT362",
       "title": "2-Pack KitchenAid Silicone Oven Mitts (Gray)",
-      "title_es": null,
+      "title_es": "Pack de 2 manoplas de horno de silicona KitchenAid (Gris)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Protege tus manos al cocinar con este pack de 2 manoplas de horno de silicona KitchenAid en color gris. Son duraderas, resistentes al calor y esenciales para cualquier cocina moderna.",
+      "post_en": "Protect your hands while cooking with this 2-pack of KitchenAid silicone oven mitts in gray. They are durable, heat-resistant, and essential for any modern kitchen.",
       "price_new": 10.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -1238,10 +1238,10 @@
     {
       "asin": "B0GR6RRKXH",
       "title": "5-Piece Cuisinart Acacia Fusion Silicone Kitchen Tool Set (Tan)",
-      "title_es": null,
+      "title_es": "Set de 5 utensilios de cocina Cuisinart Acacia Fusion de silicona (Tan)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set de 5 utensilios Cuisinart combina mangos de madera de acacia con cabezales de silicona, ideales para cocinar sin rayar tus sartenes. Perfecto para cocineros que buscan herramientas duraderas y elegantes para el día a día.",
+      "post_en": "This 5-piece Cuisinart set combines acacia wood handles with silicone heads, perfect for cooking without scratching your pans. Ideal for home cooks seeking durable and stylish everyday kitchen tools.",
       "price_new": 15.95,
       "price_old": 35.0,
       "currency": "USD",
@@ -1260,10 +1260,10 @@
     {
       "asin": "B0DSM29KMF",
       "title": "18-Oz Progresso Pitmaster Sausage & Beer Cheese w/ Potatoes Canned Soup: 3 for",
-      "title_es": null,
+      "title_es": "Sopa enlatada Progresso Pitmaster Sausage & Beer Cheese con patatas (18 oz): 3 unidades",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de la sopa enlatada Progresso Pitmaster Sausage & Beer Cheese con patatas, una opción rápida y sabrosa para cualquier comida. Ideal para quienes buscan una solución conveniente y reconfortante para sus almuerzos o cenas.",
+      "post_en": "Enjoy Progresso Pitmaster Sausage & Beer Cheese with Potatoes canned soup, a quick and flavorful option for any meal. Perfect for those looking for a convenient and comforting solution for their lunches or dinners.",
       "price_new": 1.53,
       "price_old": 35.0,
       "currency": "USD",
@@ -1282,10 +1282,10 @@
     {
       "asin": "B0FJZP9WWY",
       "title": "​Mattel Disney and Pixar Toy Story 5 Critter Talk Jessie at Amazon",
-      "title_es": null,
+      "title_es": "Muñeca Mattel Disney y Pixar Toy Story 5 Critter Talk Jessie",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta muñeca Mattel Disney y Pixar Toy Story 5 Critter Talk Jessie cobra vida con frases y sonidos interactivos. Es el juguete perfecto para los pequeños fans de Toy Story que quieren recrear sus aventuras favoritas.",
+      "post_en": "This Mattel Disney and Pixar Toy Story 5 Critter Talk Jessie doll comes to life with interactive phrases and sounds. It's the perfect toy for young Toy Story fans eager to recreate their favorite adventures.",
       "price_new": 22.49,
       "price_old": 35.99,
       "currency": "USD",
@@ -1304,10 +1304,10 @@
     {
       "asin": "B088RF3199",
       "title": "The Rise and Fall of D.O.D.O. (Kindle ebook)",
-      "title_es": null,
+      "title_es": "The Rise and Fall of D.O.D.O. (eBook Kindle)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en \"The Rise and Fall of D.O.D.O.\", una fascinante novela de ciencia ficción y fantasía sobre viajes en el tiempo. Ideal para lectores que disfrutan de historias complejas y originales en formato digital.",
+      "post_en": "Dive into \"The Rise and Fall of D.O.D.O.\", a fascinating science fiction and fantasy novel about time travel. Perfect for readers who enjoy complex and original stories in digital format.",
       "price_new": 1.99,
       "price_old": 10.49,
       "currency": "USD",
@@ -1326,10 +1326,10 @@
     {
       "asin": "B0DJ17WGMB",
       "title": "92-Piece LEGO City F1 Williams Racing & Haas F1 Race Car Building Set",
-      "title_es": null,
+      "title_es": "Set de construcción LEGO City F1 Williams Racing & Haas F1 Race Car (92 piezas)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Construye dos icónicos coches de carreras con el set LEGO City F1 Williams Racing & Haas F1, que incluye 92 piezas para horas de diversión. Fantástico para entusiastas de LEGO y fans de la Fórmula 1 a partir de 5 años. 🏎️",
+      "post_en": "Build two iconic race cars with the 92-piece LEGO City F1 Williams Racing & Haas F1 building set, offering hours of fun. Great for LEGO enthusiasts and Formula 1 fans aged 5 and up. 🏎️",
       "price_new": 11.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1348,10 +1348,10 @@
     {
       "asin": "B0BB2B4DJ5",
       "title": "72-Pack O-Maraco Gold Foil Christmas Gift Tags w/ String (24 Designs)",
-      "title_es": null,
+      "title_es": "Pack de 72 etiquetas de regalo navideñas O-Maraco Gold Foil con cuerda (24 diseños)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Prepara tus regalos navideños con este pack de 72 etiquetas O-Maraco Gold Foil, que incluye 24 diseños festivos y cuerda para un toque elegante. Son perfectas para añadir un detalle especial y personalizado a todos tus presentes.",
+      "post_en": "Prepare your holiday gifts with this 72-pack of O-Maraco Gold Foil Christmas tags, featuring 24 festive designs and string for an elegant touch. They are perfect for adding a special, personalized detail to all your presents.",
       "price_new": 2.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1370,10 +1370,10 @@
     {
       "asin": "B08PDTSY7D",
       "title": "HOMCOM Foldable Wall Mounted Desk with Chalkboard",
-      "title_es": null,
+      "title_es": "Escritorio plegable de pared HOMCOM con pizarra",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El escritorio plegable de pared HOMCOM es una solución de ahorro de espacio que se transforma en una pizarra cuando no está en uso. Ideal para apartamentos pequeños o habitaciones que necesitan una estación de trabajo versátil y discreta.",
+      "post_en": "The HOMCOM Foldable Wall Mounted Desk is a space-saving solution that transforms into a chalkboard when not in use. Perfect for small apartments or rooms needing a versatile and discreet workstation.",
       "price_new": 102.59,
       "price_old": 159.99,
       "currency": "USD",
@@ -1392,10 +1392,10 @@
     {
       "asin": "B0DV4WPXNM",
       "title": "2-Camera Blink Outdoor 4 XR Wireless Security Camera System",
-      "title_es": null,
+      "title_es": "Sistema de cámaras de seguridad inalámbricas Blink Outdoor 4 XR (2 cámaras)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Protege tu hogar con el sistema de seguridad inalámbrico Blink Outdoor 4 XR de 2 cámaras, diseñado para exteriores y fácil de instalar. Es la elección perfecta para quienes buscan vigilancia fiable y sin complicaciones.",
+      "post_en": "Protect your home with the 2-camera Blink Outdoor 4 XR wireless security system, designed for outdoor use and easy installation. It's the perfect choice for those seeking reliable and hassle-free surveillance.",
       "price_new": 58.99,
       "price_old": 169.99,
       "currency": "USD",
@@ -1414,10 +1414,10 @@
     {
       "asin": "B0GF24P6J3",
       "title": "GOXAWEE 45\" Stand Up Weed Puller Tool w/ 4-Claw Steel Head & Adjustable Handle",
-      "title_es": null,
+      "title_es": "Herramienta GOXAWEE 45\" para arrancar malas hierbas de pie con cabezal de 4 garras y mango ajustable",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Elimina las malas hierbas sin esfuerzo y sin agacharte con la herramienta GOXAWEE de 45\", equipada con un cabezal de acero de 4 garras y mango ajustable. Es ideal para jardineros que buscan una solución cómoda y eficaz para mantener su jardín impecable.",
+      "post_en": "Remove weeds effortlessly and without bending over with the 45\" GOXAWEE tool, featuring a 4-claw steel head and adjustable handle. It's perfect for gardeners seeking a comfortable and effective solution to keep their garden pristine.",
       "price_new": 4.98,
       "price_old": 35.0,
       "currency": "USD",
@@ -1436,10 +1436,10 @@
     {
       "asin": "B07SK5F16D",
       "title": "Immortals Fenyx Rising (Xbox Series X, Xbox One) -",
-      "title_es": null,
+      "title_es": "Immortals Fenyx Rising (Xbox Series X, Xbox One)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Embárcate en una épica aventura mitológica con Immortals Fenyx Rising para Xbox Series X y Xbox One, un juego de acción y rol de mundo abierto. Ideal para jugadores que disfrutan de historias fantásticas, exploración y combates dinámicos.",
+      "post_en": "Embark on an epic mythological adventure with Immortals Fenyx Rising for Xbox Series X and Xbox One, an open-world action RPG. Perfect for gamers who enjoy fantastic stories, exploration, and dynamic combat.",
       "price_new": 7.99,
       "price_old": 14.99,
       "currency": "USD",
@@ -1458,10 +1458,10 @@
     {
       "asin": "B0D3YSJ9GP",
       "title": "NIIMBOT D110 Bluetooth Thermal Label Maker (White)",
-      "title_es": null,
+      "title_es": "Impresora de etiquetas térmica Bluetooth NIIMBOT D110 (Blanca)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta impresora térmica NIIMBOT D110 te permite crear etiquetas personalizadas desde tu móvil vía Bluetooth. Es ideal para organizar tu hogar u oficina de forma sencilla y eficiente.",
+      "post_en": "This NIIMBOT D110 thermal printer allows you to create custom labels from your phone via Bluetooth. It's ideal for organizing your home or office simply and efficiently.",
       "price_new": 7.59,
       "price_old": 35.0,
       "currency": "USD",
@@ -1480,10 +1480,10 @@
     {
       "asin": "B01F36JBDM",
       "title": "12-Piece Makeup Brush Set w/ Blending Sponges",
-      "title_es": null,
+      "title_es": "Set de 12 brochas de maquillaje con esponjas difuminadoras",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este completo set incluye 12 brochas de maquillaje esenciales y esponjas para difuminar, cubriendo todas tus necesidades de aplicación. Perfecto para entusiastas del maquillaje que buscan herramientas versátiles y de calidad.",
+      "post_en": "This complete set includes 12 essential makeup brushes and blending sponges, covering all your application needs. Perfect for makeup enthusiasts looking for versatile and quality tools.",
       "price_new": 4.79,
       "price_old": 8.99,
       "currency": "USD",
@@ -1502,10 +1502,10 @@
     {
       "asin": "B0CX19H8MM",
       "title": "2-Pack Auh RV Slide-Out Support Jack Stands w/ Drill & Manual Adjust (16.65\" - 36.06\")",
-      "title_es": null,
+      "title_es": "Pack de 2 soportes Auh para extensiones de RV con ajuste manual y taladro (16.65\" - 36.06\")",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de dos soportes Auh está diseñado para estabilizar las extensiones de tu RV, ofreciendo un ajuste versátil. Son esenciales para propietarios de vehículos recreativos que buscan seguridad y durabilidad.",
+      "post_en": "This pack of two Auh supports is designed to stabilize your RV's slide-outs, offering versatile adjustment. They are essential for RV owners looking for safety and durability.",
       "price_new": 37.99,
       "price_old": 79.99,
       "currency": "USD",
@@ -1524,10 +1524,10 @@
     {
       "asin": "B09WVBWPNB",
       "title": "18-in-1 Dusor Snowflake Multitool (Black)",
-      "title_es": null,
+      "title_es": "Multiherramienta copo de nieve 18 en 1 Dusor (Negra)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La multiherramienta Dusor en forma de copo de nieve ofrece 18 funciones prácticas en un diseño compacto y portátil. Es un gadget versátil para cualquier persona que necesite herramientas básicas al alcance de la mano.",
+      "post_en": "The Dusor snowflake multitool offers 18 practical functions in a compact and portable design. It's a versatile gadget for anyone who needs basic tools readily available.",
       "price_new": 4.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -1546,10 +1546,10 @@
     {
       "asin": "B0GTQ5LBKZ",
       "title": "AA Audio Accessory 6' Star Quad Dual-Shielded XLR Cable",
-      "title_es": null,
+      "title_es": "Cable XLR AA Audio Accessory Star Quad de 6' con doble blindaje",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este cable XLR AA Audio Accessory de 6 pies cuenta con diseño Star Quad y doble blindaje para una transmisión de audio superior. Ideal para músicos y técnicos de sonido que buscan una conexión fiable y sin interferencias.",
+      "post_en": "This 6-foot AA Audio Accessory XLR cable features a Star Quad design and dual shielding for superior audio transmission. Ideal for musicians and sound engineers seeking a reliable, interference-free connection.",
       "price_new": 12.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1568,10 +1568,10 @@
     {
       "asin": "B07X1HW96F",
       "title": "100-Count 8-Oz Amazon Saver Classic Black Tea Bags",
-      "title_es": null,
+      "title_es": "100 bolsitas de té negro clásico Amazon Saver de 8 oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de 100 bolsitas de té negro clásico Amazon Saver, perfectas para tu ritual diario o para ofrecer a tus invitados. Una opción sencilla y reconfortante para los amantes del té. ☕",
+      "post_en": "Enjoy 100 Amazon Saver Classic Black Tea Bags, perfect for your daily ritual or for offering to guests. A simple and comforting choice for tea lovers. ☕",
       "price_new": 0.02,
       "price_old": 35.0,
       "currency": "USD",
@@ -1590,10 +1590,10 @@
     {
       "asin": "B0FFH1DC25",
       "title": "Hot Wheels Racing Formula 1 Grid Start Track Set and 2 Toy Cars",
-      "title_es": null,
+      "title_es": "Set de pista Hot Wheels Racing Formula 1 Grid Start con 2 coches de juguete",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set Hot Wheels Racing Formula 1 incluye una pista de salida y dos coches de juguete para emocionantes carreras. Es el regalo perfecto para los pequeños aficionados a la velocidad y los coches de carreras.",
+      "post_en": "This Hot Wheels Racing Formula 1 set includes a grid start track and two toy cars for exciting races. It's the perfect gift for young speed enthusiasts and race car lovers.",
       "price_new": 11.33,
       "price_old": 35.0,
       "currency": "USD",
@@ -1612,10 +1612,10 @@
     {
       "asin": "B0H4GGKZ5Z",
       "title": "10-Pack 24.5\" BOSSERN Solar Christmas Tree Pathway Lights",
-      "title_es": null,
+      "title_es": "Pack de 10 luces solares BOSSERN de 24.5\" para caminos con forma de árbol de Navidad",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Ilumina tu jardín con este pack de 10 luces solares BOSSERN en forma de árbol de Navidad, ideales para decorar caminos. Son perfectas para crear un ambiente festivo y acogedor durante las fiestas.",
+      "post_en": "Illuminate your garden with this 10-pack of BOSSERN solar Christmas tree pathway lights, ideal for decorating paths. They are perfect for creating a festive and cozy atmosphere during the holidays.",
       "price_new": 19.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -1634,10 +1634,10 @@
     {
       "asin": "B0GK6HQ69H",
       "title": "[Prime] 8-Pack Ahaorigin Solar LED Pathway Lights Outdoor w/ 2 Lighting Modes",
-      "title_es": null,
+      "title_es": "Pack de 8 luces solares LED Ahaorigin para caminos exteriores con 2 modos de iluminación",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 8 luces solares LED Ahaorigin es ideal para iluminar caminos exteriores con dos modos de iluminación. Son una solución eficiente y decorativa para jardines y senderos.",
+      "post_en": "This 8-pack of Ahaorigin Solar LED Pathway Lights is ideal for illuminating outdoor paths with two lighting modes. They are an efficient and decorative solution for gardens and walkways.",
       "price_new": 2.99,
       "price_old": 23.99,
       "currency": "USD",
@@ -1656,10 +1656,10 @@
     {
       "asin": "B000SRM8JQ",
       "title": "2-Count Reynolds Kitchens Turkey Size Oven Roasting Bags (19\" x 23.5\", Holds Up to 24 lbs)",
-      "title_es": null,
+      "title_es": "Pack de 2 bolsas para asar al horno Reynolds Kitchens tamaño pavo (19\" x 23.5\", hasta 24 lbs)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estas dos bolsas para asar Reynolds Kitchens son perfectas para pavos grandes y otras carnes, facilitando una cocción jugosa y limpia. Ideales para quienes buscan resultados perfectos en sus asados festivos.",
+      "post_en": "These two Reynolds Kitchens roasting bags are perfect for large turkeys and other meats, ensuring juicy and clean cooking. Ideal for those seeking perfect results in their festive roasts.",
       "price_new": 2.5,
       "price_old": 35.0,
       "currency": "USD",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276640",
       "published_at": "2026-11-09T11:45:42+00:00",
-      "revalidated_at": "2026-11-09T22:15:51+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0HCVNFR7Z",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278137",
       "published_at": "2026-11-09T11:45:42+00:00",
-      "revalidated_at": "2026-11-09T22:15:51+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0HCTX43PG",
@@ -1717,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20277381",
       "published_at": "2026-11-09T11:45:42+00:00",
-      "revalidated_at": "2026-11-09T22:15:51+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0H2N8KHQ1",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20267589",
       "published_at": "2026-11-09T02:00:32+00:00",
-      "revalidated_at": "2026-11-09T22:15:51+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0083QZ8IM",
@@ -2245,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20242305",
       "published_at": "2026-11-08T23:45:52+00:00",
-      "revalidated_at": "2026-11-09T22:15:51+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0FFSZP9LK",
@@ -2377,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20250999",
       "published_at": "2026-11-08T21:56:46+00:00",
-      "revalidated_at": "2026-11-09T22:15:51+00:00"
+      "revalidated_at": "2026-11-10T00:30:26+00:00"
     },
     {
       "asin": "B0FWJ6ZB2K",
