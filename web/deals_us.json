@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-10T08:30:29+00:00",
+  "generated_at": "2026-11-10T08:45:34+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0H7WZXW5N",
+      "title": "6-Pack EMOMAS Heavy-Duty Moving Bags w/ Handles (27\" x 13.5\" x 15\")",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 61.5,
+      "rating": 4.9,
+      "condition": "code",
+      "code": "2JKBQU3T",
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/8191oODqWGL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0H7WZXW5N/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20282445",
+      "published_at": "2026-11-10T08:45:34+00:00",
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
+    },
     {
       "asin": "B0C7ZDC8DF",
       "title": "6-Pack 90L Cosy Family Heavy Duty Extra Large Moving & Storage Bags (Grey)",
@@ -111,7 +133,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20281599",
       "published_at": "2026-11-10T04:45:42+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B0CTJGH5N6",
@@ -133,7 +155,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20282340",
       "published_at": "2026-11-10T04:45:42+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B0H4DZJK9X",
@@ -155,7 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20282448",
       "published_at": "2026-11-10T04:45:42+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B01BESQYJW",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279808",
       "published_at": "2026-11-10T02:45:50+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B0FSV8QX4V",
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278629",
       "published_at": "2026-11-10T02:45:50+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B00HEAMMIC",
@@ -375,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20281494",
       "published_at": "2026-11-10T02:45:50+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B0DRW5YPVY",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20281371",
       "published_at": "2026-11-09T23:00:56+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B0F3MMK1J4",
@@ -1101,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20280243",
       "published_at": "2026-11-09T21:00:33+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B0HGFMMR6W",
@@ -1277,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279949",
       "published_at": "2026-11-09T19:13:26+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B0HK3PWQG5",
@@ -1299,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279862",
       "published_at": "2026-11-09T19:13:26+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B0H6ZKRDRJ",
@@ -1598,11 +1620,11 @@
       "price_old": 19.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/22270038.thumb",
+      "image": "https://m.media-amazon.com/images/I/61HSeWwqzLL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H87MX6WZ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20278887",
@@ -1620,11 +1642,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 75.9,
-      "rating": null,
+      "rating": 4.2,
       "condition": "code",
       "code": "XKKEMK2J",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/22271142.thumb",
+      "image": "https://m.media-amazon.com/images/I/61ajTYgTWSL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FCF8PTQ4/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20279364",
@@ -1642,11 +1664,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 66.0,
-      "rating": null,
+      "rating": 4.1,
       "condition": "code",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/3/5/8/2/5/6/8/8/450x450/22266150.thumb",
+      "image": "https://m.media-amazon.com/images/I/71+jkVlMtbL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FW8P948C/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20277489",
@@ -1664,11 +1686,11 @@
       "price_old": 299.99,
       "currency": "USD",
       "discount_pct": 65.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/5/5/7/3/6/2/450x450/22260690.thumb",
+      "image": "https://m.media-amazon.com/images/I/51ISKD8iPHL._SL1000_.jpg",
       "url": "https://amazon.com/dp/B0DHLTCYWH/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20274570",
@@ -2003,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20277399",
       "published_at": "2026-11-09T14:15:55+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B0GF24P6J3",
@@ -2267,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276640",
       "published_at": "2026-11-09T11:45:42+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B0HCVNFR7Z",
@@ -2289,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20278137",
       "published_at": "2026-11-09T11:45:42+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B0HCTX43PG",
@@ -2311,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20277381",
       "published_at": "2026-11-09T11:45:42+00:00",
-      "revalidated_at": "2026-11-10T06:45:31+00:00"
+      "revalidated_at": "2026-11-10T08:45:34+00:00"
     },
     {
       "asin": "B0H2N8KHQ1",
@@ -2618,28 +2640,6 @@
       "url": "https://amazon.com/dp/B09Z73MZNN/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20276610",
-      "published_at": "2026-11-09T01:45:48+00:00",
-      "revalidated_at": "2026-11-10T08:30:29+00:00"
-    },
-    {
-      "asin": "B0DD5V3GY4",
-      "title": "47mm Garmin fenix E Multisport GPS Smartwatch (Slate Gray)",
-      "title_es": "Smartwatch GPS multideporte Garmin fenix E de 47mm (Gris Pizarra)",
-      "headline": null,
-      "post": "Este smartwatch GPS Garmin fenix E multisport de 47mm es ideal para atletas y aventureros que necesitan un seguimiento avanzado de su rendimiento. Ofrece funciones inteligentes y una gran resistencia para tus actividades al aire libre.",
-      "post_en": "This 47mm Garmin fenix E multisport GPS smartwatch is ideal for athletes and adventurers needing advanced performance tracking. It offers smart features and robust durability for your outdoor activities.",
-      "price_new": 399.0,
-      "price_old": 719.95,
-      "currency": "USD",
-      "discount_pct": 44.6,
-      "rating": 5.0,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/710VFIZXonL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DD5V3GY4/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20264430",
       "published_at": "2026-11-09T01:45:48+00:00",
       "revalidated_at": "2026-11-10T08:30:29+00:00"
     }
