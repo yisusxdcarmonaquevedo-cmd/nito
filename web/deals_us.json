@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-11T23:00:48+00:00",
+  "generated_at": "2026-11-11T23:15:52+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B01B1V10KA",
+      "title": "$27ac FS for ALL AMAZON: Melissa & Doug Wooden Scoop & Serve Ice Cream Counter, Pretend Play Store, 28 Toy Food & Play Kitchen Accessories,",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 27.0,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 55.0,
+      "rating": 4.9,
+      "condition": "coupon",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/7106ox8f2jL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B01B1V10KA/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20292264",
+      "published_at": "2026-11-11T23:15:52+00:00",
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
+    },
+    {
+      "asin": "B0FS1KQ7Y9",
+      "title": "toolant 10-Pack 4\" PH2 Phillips Magnetic Impact Driver Bit Set",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.89,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 66.0,
+      "rating": null,
+      "condition": "code",
+      "code": "RG4PL55O",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/8/3/9/2/450x450/22305537.thumb",
+      "url": "https://amazon.com/dp/B0FS1KQ7Y9/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20292480",
+      "published_at": "2026-11-11T23:15:52+00:00",
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
+    },
     {
       "asin": "B0GFN8Z5T8",
       "title": "Uineer Tri-Mode Wireless Gaming Mouse w/ 6 Programmable Buttons & 12800 DPI (Black)",
@@ -36,11 +80,11 @@
       "price_old": 15.99,
       "currency": "USD",
       "discount_pct": 56.3,
-      "rating": null,
+      "rating": 4.5,
       "condition": "coupon",
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/2/1/7/8/3/1/2/4/450x450/22305342.thumb",
+      "image": "https://m.media-amazon.com/images/I/71OOqRlfUjL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H71SB6WR/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20292363",
@@ -683,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20286369",
       "published_at": "2026-11-11T17:00:40+00:00",
-      "revalidated_at": "2026-11-11T21:15:49+00:00"
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
     },
     {
       "asin": "B0CR13ZQMD",
@@ -840,28 +884,6 @@
       "revalidated_at": "2026-11-11T22:00:49+00:00"
     },
     {
-      "asin": "B075QRWRYP",
-      "title": "213-Piece LEGO Classic Creative Suitcase Building Kit",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 11.89,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 66.0,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/810suM5sWFL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B075QRWRYP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20289168",
-      "published_at": "2026-11-11T15:00:40+00:00",
-      "revalidated_at": "2026-11-11T21:15:49+00:00"
-    },
-    {
       "asin": "B0CSY92HXS",
       "title": "Spin Master Games, SolidRoots Escaping Extinction, Cooperative Strategy Board Game at Amazon",
       "title_es": null,
@@ -881,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20290383",
       "published_at": "2026-11-11T15:00:40+00:00",
-      "revalidated_at": "2026-11-11T21:15:49+00:00"
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
     },
     {
       "asin": "B0B2ZPTMW6",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20290215",
       "published_at": "2026-11-11T15:00:40+00:00",
-      "revalidated_at": "2026-11-11T21:15:49+00:00"
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
     },
     {
       "asin": "B0GRZVVSH5",
@@ -1211,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20288310",
       "published_at": "2026-11-11T13:00:43+00:00",
-      "revalidated_at": "2026-11-11T21:15:49+00:00"
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
     },
     {
       "asin": "B0DHLHWZT7",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20289222",
       "published_at": "2026-11-11T13:00:43+00:00",
-      "revalidated_at": "2026-11-11T21:15:49+00:00"
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
     },
     {
       "asin": "B0GQM8RW3W",
@@ -1673,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20267646",
       "published_at": "2026-11-11T06:45:43+00:00",
-      "revalidated_at": "2026-11-11T21:00:53+00:00"
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
     },
     {
       "asin": "B0GYN8JXXB",
@@ -2003,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20286927",
       "published_at": "2026-11-11T03:00:54+00:00",
-      "revalidated_at": "2026-11-11T21:00:53+00:00"
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
     },
     {
       "asin": "B0FF4NMSJM",
@@ -2025,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20287110",
       "published_at": "2026-11-11T03:00:54+00:00",
-      "revalidated_at": "2026-11-11T21:00:53+00:00"
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
     },
     {
       "asin": "B08FXPFXD9",
@@ -2047,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20287131",
       "published_at": "2026-11-11T03:00:54+00:00",
-      "revalidated_at": "2026-11-11T21:00:53+00:00"
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
     },
     {
       "asin": "B0DPL5TRYD",
@@ -2201,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20285919",
       "published_at": "2026-11-11T00:45:47+00:00",
-      "revalidated_at": "2026-11-11T21:00:53+00:00"
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
     },
     {
       "asin": "B0FMS6NP4Q",
@@ -2267,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20264136",
       "published_at": "2026-11-11T00:30:39+00:00",
-      "revalidated_at": "2026-11-11T21:00:53+00:00"
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
     },
     {
       "asin": "B0H3721MHS",
@@ -2289,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20285859",
       "published_at": "2026-11-11T00:30:39+00:00",
-      "revalidated_at": "2026-11-11T21:00:53+00:00"
+      "revalidated_at": "2026-11-11T23:15:52+00:00"
     },
     {
       "asin": "B0G4FNNYT6",
@@ -2597,28 +2619,6 @@
       "source": "slickdeals",
       "deal_key": "sd:20286747",
       "published_at": "2026-11-10T23:15:55+00:00",
-      "revalidated_at": "2026-11-11T21:15:49+00:00"
-    },
-    {
-      "asin": "B0D5Y87B5T",
-      "title": "JMEXSUSS 163ft 500 LED Blue and White Christmas Lights with 8 Modes String Lights Plug in with Remote Control, Clear Wire Christmas String Lights",
-      "title_es": "Luces de Navidad JMEXSUSS 500 LED (Azul y Blanco, 163ft)",
-      "headline": null,
-      "post": "Ilumina tu hogar con estas luces de Navidad JMEXSUSS de 500 LED en azul y blanco, con 8 modos y control remoto. Perfectas para crear un ambiente festivo y mágico en interiores o exteriores.",
-      "post_en": "Brighten your home with these JMEXSUSS 500 LED Christmas lights in blue and white, featuring 8 modes and a remote control. Ideal for creating a festive and magical atmosphere indoors or outdoors.",
-      "price_new": 16.18,
-      "price_old": 30.99,
-      "currency": "USD",
-      "discount_pct": 47.8,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81TFsygvb1L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D5Y87B5T/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20253150",
-      "published_at": "2026-11-10T23:00:56+00:00",
       "revalidated_at": "2026-11-11T21:15:49+00:00"
     }
   ]
