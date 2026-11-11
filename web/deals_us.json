@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11T10:00:42+00:00",
+  "generated_at": "2026-11-11T10:15:34+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
     {
       "asin": "B0DSM3HFRG",
@@ -14,11 +14,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 95.6,
-      "rating": null,
+      "rating": 4.4,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/22294212.thumb",
+      "image": "https://m.media-amazon.com/images/I/81bIsPTxI7L._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DSM3HFRG/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20288481",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20287638",
       "published_at": "2026-11-11T06:30:40+00:00",
-      "revalidated_at": "2026-11-11T08:30:28+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     },
     {
       "asin": "B0GYN8JXXB",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20285151",
       "published_at": "2026-11-11T06:30:40+00:00",
-      "revalidated_at": "2026-11-11T08:30:28+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     },
     {
       "asin": "B0FKVQLBPM",
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20287365",
       "published_at": "2026-11-11T04:30:56+00:00",
-      "revalidated_at": "2026-11-11T08:30:28+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     },
     {
       "asin": "B0DV4MK8YT",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20285922",
       "published_at": "2026-11-11T04:30:56+00:00",
-      "revalidated_at": "2026-11-11T08:30:28+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     },
     {
       "asin": "B0GJR7ZPPY",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20287713",
       "published_at": "2026-11-11T04:30:56+00:00",
-      "revalidated_at": "2026-11-11T08:30:28+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     },
     {
       "asin": "B0CWNRVYQN",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20286765",
       "published_at": "2026-11-11T04:30:56+00:00",
-      "revalidated_at": "2026-11-11T08:30:28+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     },
     {
       "asin": "B0GPVQYD21",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20287086",
       "published_at": "2026-11-11T02:30:34+00:00",
-      "revalidated_at": "2026-11-11T08:30:28+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     },
     {
       "asin": "B0HBWNCBCG",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20285919",
       "published_at": "2026-11-11T00:45:47+00:00",
-      "revalidated_at": "2026-11-11T08:30:28+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     },
     {
       "asin": "B095WS16NM",
@@ -1180,11 +1180,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 82.5,
-      "rating": null,
+      "rating": 4.5,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/5/9/0/8/1/7/9/450x450/22287951.thumb",
+      "image": "https://m.media-amazon.com/images/I/61hzH60NXvL._SL1400_.jpg",
       "url": "https://amazon.com/dp/0762464402/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20286042",
@@ -1202,11 +1202,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 78.6,
-      "rating": null,
+      "rating": 4.8,
       "condition": "code",
       "code": "BZNGD439",
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/22289130.thumb",
+      "image": "https://m.media-amazon.com/images/I/71fJqoHgREL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GYZ1V6WS/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20286756",
@@ -1224,11 +1224,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 71.5,
-      "rating": null,
+      "rating": 4.3,
       "condition": "code",
       "code": "NAGMIGTP",
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/22289481.thumb",
+      "image": "https://m.media-amazon.com/images/I/61mycwJymkL._AC_SL1200_.jpg",
       "url": "https://amazon.com/dp/B0FMQDST3N/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20286687",
@@ -2091,29 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20276178",
       "published_at": "2026-11-10T17:00:54+00:00",
-      "revalidated_at": "2026-11-11T08:30:28+00:00"
-    },
-    {
-      "asin": "B0F8BQSQDT",
-      "title": "12\" Yojoker Memory Foam Bed Wedge Pillow w/ Removable Cover",
-      "title_es": "Almohada de cuña Yojoker de espuma viscoelástica de 30 cm con funda extraíble",
-      "headline": null,
-      "post": "Esta almohada de cuña Yojoker de 30 cm de espuma viscoelástica proporciona un soporte ergonómico para dormir o leer. Su funda extraíble facilita la limpieza, garantizando comodidad e higiene.",
-      "post_en": "This 12\" Yojoker Memory Foam Bed Wedge Pillow provides ergonomic support for sleeping or reading. Its removable cover makes cleaning easy, ensuring comfort and hygiene.",
-      "price_new": 16.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 52.9,
-      "rating": null,
-      "condition": "code",
-      "code": "YTCWSQUI",
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/22286058.thumb",
-      "url": "https://amazon.com/dp/B0F8BQSQDT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20285142",
-      "published_at": "2026-11-10T17:00:54+00:00",
-      "revalidated_at": "2026-11-11T08:30:28+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     },
     {
       "asin": "B0D9W46W82",
@@ -2399,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20284311",
       "published_at": "2026-11-10T14:45:35+00:00",
-      "revalidated_at": "2026-11-11T08:15:31+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     },
     {
       "asin": "B000GAYQKO",
@@ -2465,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20282892",
       "published_at": "2026-11-10T14:15:54+00:00",
-      "revalidated_at": "2026-11-11T08:15:31+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     },
     {
       "asin": "B0FBWVK2Z1",
@@ -2487,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20263182",
       "published_at": "2026-11-10T14:00:49+00:00",
-      "revalidated_at": "2026-11-11T08:15:31+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     },
     {
       "asin": "1524884979",
@@ -2509,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20283282",
       "published_at": "2026-11-10T14:00:49+00:00",
-      "revalidated_at": "2026-11-11T08:30:28+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     },
     {
       "asin": "B0H7RR4NNM",
@@ -2641,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20281008",
       "published_at": "2026-11-10T13:30:50+00:00",
-      "revalidated_at": "2026-11-11T08:15:31+00:00"
+      "revalidated_at": "2026-11-11T10:15:34+00:00"
     }
   ]
 }
