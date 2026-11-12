@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-12T13:30:39+00:00",
+  "generated_at": "2026-11-12T13:45:45+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0BBL55GT7",
+      "title": "Kettle Brand 6.5-Oz Air Fried Sea Salt & Vinegar Potato Chips",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 2.69,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 92.3,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/22315617.thumb",
+      "url": "https://amazon.com/dp/B0BBL55GT7/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20296311",
+      "published_at": "2026-11-12T13:45:45+00:00",
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
+    },
+    {
+      "asin": "B0B6ZZVGNX",
+      "title": "5-Pair SIMIYA Merino Wool Blend Cushioned Hiking Crew Socks (7–13, Multicolor)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 65.7,
+      "rating": 4.5,
+      "condition": "code",
+      "code": "EI95Y527",
+      "category": "Deporte y Fitness",
+      "image": "https://m.media-amazon.com/images/I/81yovAF-qKL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0B6ZZVGNX/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20293428",
+      "published_at": "2026-11-12T13:45:45+00:00",
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
+    },
+    {
+      "asin": "B0DHLGNGWP",
+      "title": "242-Piece Lego Speed Champions MoneyGram Haas F1 Team Vf-24 Race Car Building Set",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 15.39,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 56.0,
+      "rating": 4.9,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81bby29cM0L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DHLGNGWP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20289216",
+      "published_at": "2026-11-12T13:45:45+00:00",
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
+    },
+    {
+      "asin": "B0CV9JD3FM",
+      "title": "2-Pc Klein Tools Compact Folding Hex Key Kit (SAE & Metric)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.98,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 57.2,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/5/5/7/3/6/2/450x450/22316205.thumb",
+      "url": "https://amazon.com/dp/B0CV9JD3FM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20296509",
+      "published_at": "2026-11-12T13:45:45+00:00",
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
+    },
+    {
+      "asin": "B01GKRH49G",
+      "title": "26-Pc Milwaukee Shockwave Drive & Fasten Electric Tool Bit Set at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 21.88,
+      "price_old": 38.21,
+      "currency": "USD",
+      "discount_pct": 42.7,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/61BsxbDB73L._AC_SL1000_.jpg",
+      "url": "https://amazon.com/dp/B01GKRH49G/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20295612",
+      "published_at": "2026-11-12T13:45:45+00:00",
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
+    },
     {
       "asin": "B0H6BVQVMP",
       "title": "Women's Long Sleeve Workout Top (various colors/sizes) -",
@@ -36,11 +146,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 47.2,
-      "rating": null,
+      "rating": 4.0,
       "condition": "code",
       "code": "OF4IB4LI",
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/22305963.thumb",
+      "image": "https://m.media-amazon.com/images/I/91r27LdybcL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FDF5ZWFK/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20292612",
@@ -243,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20290767",
       "published_at": "2026-11-12T12:00:48+00:00",
-      "revalidated_at": "2026-11-12T12:00:48+00:00"
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
     },
     {
       "asin": "B0FMYX39ZT",
@@ -265,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20296113",
       "published_at": "2026-11-12T12:00:48+00:00",
-      "revalidated_at": "2026-11-12T12:00:48+00:00"
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
     },
     {
       "asin": "B0F42TZ2FY",
@@ -485,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20291571",
       "published_at": "2026-11-12T10:00:56+00:00",
-      "revalidated_at": "2026-11-12T12:00:48+00:00"
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
     },
     {
       "asin": "B0GV62WP9J",
@@ -1981,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20291811",
       "published_at": "2026-11-11T19:30:52+00:00",
-      "revalidated_at": "2026-11-12T11:45:34+00:00"
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
     },
     {
       "asin": "B0B62V291P",
@@ -2025,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20291364",
       "published_at": "2026-11-11T19:15:49+00:00",
-      "revalidated_at": "2026-11-12T11:45:34+00:00"
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
     },
     {
       "asin": "B0FKTH4V7V",
@@ -2047,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20291292",
       "published_at": "2026-11-11T19:00:55+00:00",
-      "revalidated_at": "2026-11-12T11:45:34+00:00"
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
     },
     {
       "asin": "B0FCDTXSWK",
@@ -2069,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20292117",
       "published_at": "2026-11-11T19:00:55+00:00",
-      "revalidated_at": "2026-11-12T11:45:34+00:00"
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
     },
     {
       "asin": "B0FHB7CJKT",
@@ -2091,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20291853",
       "published_at": "2026-11-11T19:00:55+00:00",
-      "revalidated_at": "2026-11-12T11:45:34+00:00"
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
     },
     {
       "asin": "B0DT3C5ZFY",
@@ -2113,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20260677",
       "published_at": "2026-11-11T17:45:39+00:00",
-      "revalidated_at": "2026-11-12T11:45:34+00:00"
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
     },
     {
       "asin": "B0FKSJ5613",
@@ -2135,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20291406",
       "published_at": "2026-11-11T17:15:57+00:00",
-      "revalidated_at": "2026-11-12T11:45:34+00:00"
+      "revalidated_at": "2026-11-12T13:45:45+00:00"
     },
     {
       "asin": "B0FQHS1QKV",
@@ -2532,116 +2642,6 @@
       "deal_key": "sd:20289537",
       "published_at": "2026-11-11T14:30:36+00:00",
       "revalidated_at": "2026-11-12T13:09:35+00:00"
-    },
-    {
-      "asin": "B002UZ5JQ8",
-      "title": "A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments (eBook) by David Foster Wallace",
-      "title_es": "A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments (eBook) de David Foster Wallace.",
-      "headline": null,
-      "post": "Este eBook de David Foster Wallace es una colección de ensayos y argumentos que invitan a la reflexión, característicos de su estilo único. Es una lectura imprescindible para los amantes de la literatura contemporánea y el pensamiento crítico. 📚",
-      "post_en": "This eBook by David Foster Wallace is a thought-provoking collection of essays and arguments, characteristic of his unique style. It's an essential read for lovers of contemporary literature and critical thinking. 📚",
-      "price_new": 1.99,
-      "price_old": 11.99,
-      "currency": "USD",
-      "discount_pct": 83.4,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22298349.thumb",
-      "url": "https://amazon.com/dp/B002UZ5JQ8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20289939",
-      "published_at": "2026-11-11T14:00:48+00:00",
-      "revalidated_at": "2026-11-12T12:30:52+00:00"
-    },
-    {
-      "asin": "B0GCBX4B8R",
-      "title": "18-Pack BAGSMART Vacuum Storage Bags for Clothing w/ Rechargeable Air Pump",
-      "title_es": "Pack de 18 bolsas de almacenamiento al vacío BAGSMART para ropa con bomba de aire recargable.",
-      "headline": null,
-      "post": "Este pack BAGSMART incluye 18 bolsas de almacenamiento al vacío para ropa y una bomba de aire recargable, perfectas para maximizar el espacio en armarios y maletas. Son ideales para organizar y proteger tus prendas del polvo y la humedad.",
-      "post_en": "This BAGSMART pack includes 18 vacuum storage bags for clothing and a rechargeable air pump, perfect for maximizing space in closets and suitcases. They are ideal for organizing and protecting your garments from dust and moisture.",
-      "price_new": 9.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.5,
-      "rating": 4.4,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71lHQXVfojL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GCBX4B8R/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20285415",
-      "published_at": "2026-11-11T14:00:48+00:00",
-      "revalidated_at": "2026-11-12T12:45:40+00:00"
-    },
-    {
-      "asin": "B0CT8LWV74",
-      "title": "PlayStation God of War Ragnarok Atreus 6\" Deluxe Figure at Amazon",
-      "title_es": "Figura Deluxe de Atreus de 6\" de PlayStation God of War Ragnarok.",
-      "headline": null,
-      "post": "Una figura Deluxe de Atreus de 6 pulgadas, inspirada en el aclamado juego PlayStation God of War Ragnarok, perfecta para coleccionistas. Captura fielmente los detalles del personaje, ideal para fans del universo God of War.",
-      "post_en": "A 6-inch Deluxe Atreus figure, inspired by the acclaimed PlayStation God of War Ragnarok game, perfect for collectors. It faithfully captures the character's details, ideal for fans of the God of War universe.",
-      "price_new": 6.49,
-      "price_old": 15.69,
-      "currency": "USD",
-      "discount_pct": 58.6,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81oWeD8AZFL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CT8LWV74/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20288757",
-      "published_at": "2026-11-11T14:00:48+00:00",
-      "revalidated_at": "2026-11-12T12:45:40+00:00"
-    },
-    {
-      "asin": "B0FRLCF5NH",
-      "title": "60-Count iMATCHME 30:1 Beet Root Gummies w/ Grape Seed & L-Theanine (Strawberry)",
-      "title_es": "60 gominolas iMATCHME de raíz de remolacha 30:1 con semilla de uva y L-Teanina (fresa).",
-      "headline": null,
-      "post": "Estas gominolas iMATCHME de fresa contienen raíz de remolacha 30:1, semilla de uva y L-Teanina, ofreciendo un suplemento nutritivo. Son una forma deliciosa y fácil de incorporar estos ingredientes a tu dieta diaria.",
-      "post_en": "These strawberry iMATCHME gummies contain 30:1 beet root, grape seed, and L-Theanine, offering a nutritious supplement. They are a delicious and easy way to incorporate these ingredients into your daily diet.",
-      "price_new": 5.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 82.9,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "UMSYZZUV",
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/71bMBG-GP4L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FRLCF5NH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20285874",
-      "published_at": "2026-11-11T13:45:50+00:00",
-      "revalidated_at": "2026-11-12T12:00:48+00:00"
-    },
-    {
-      "asin": "B09ZF2VD2Z",
-      "title": "4-Pc DeWALT Magnetic Screwdriver Set (DWHT65200) at Amazon",
-      "title_es": "Juego de 4 destornilladores magnéticos DeWALT (DWHT65200).",
-      "headline": null,
-      "post": "Este set DeWALT incluye 4 destornilladores magnéticos (DWHT65200), diseñados para ofrecer un agarre seguro y facilitar el trabajo. Son herramientas duraderas y esenciales para cualquier tarea de bricolaje o reparación.",
-      "post_en": "This DeWALT set includes 4 magnetic screwdrivers (DWHT65200), designed to provide a secure grip and facilitate work. They are durable and essential tools for any DIY or repair task.",
-      "price_new": 9.99,
-      "price_old": 15.69,
-      "currency": "USD",
-      "discount_pct": 36.3,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/518RyxtV3QL._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B09ZF2VD2Z/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20289825",
-      "published_at": "2026-11-11T13:45:50+00:00",
-      "revalidated_at": "2026-11-12T12:00:48+00:00"
     }
   ]
 }
