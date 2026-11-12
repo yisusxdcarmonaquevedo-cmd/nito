@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:45:41+00:00",
+  "generated_at": "2026-11-12T01:01:34+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -58,11 +58,11 @@
       "price_old": 37.35,
       "currency": "USD",
       "discount_pct": 77.5,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/3/0/4/6/9/4/2/0/450x450/22300287.thumb",
+      "image": "https://m.media-amazon.com/images/I/81v-P38nYAL._SL1500_.jpg",
       "url": "https://amazon.com/dp/1510780947/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20290671",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20292264",
       "published_at": "2026-11-11T23:15:52+00:00",
-      "revalidated_at": "2026-11-11T23:15:52+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0FS1KQ7Y9",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20292480",
       "published_at": "2026-11-11T23:15:52+00:00",
-      "revalidated_at": "2026-11-11T23:15:52+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0GFN8Z5T8",
@@ -388,11 +388,11 @@
       "price_old": 39.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.3,
       "condition": "coupon",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/6/7/9/8/5/450x450/22306710.thumb",
+      "image": "https://m.media-amazon.com/images/I/61Otj2MPhuL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0HHJLY5VV/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20292765",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20286369",
       "published_at": "2026-11-11T17:00:40+00:00",
-      "revalidated_at": "2026-11-11T23:15:52+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0CR13ZQMD",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20290383",
       "published_at": "2026-11-11T15:00:40+00:00",
-      "revalidated_at": "2026-11-11T23:15:52+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0B2ZPTMW6",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20290215",
       "published_at": "2026-11-11T15:00:40+00:00",
-      "revalidated_at": "2026-11-11T23:15:52+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0GRZVVSH5",
@@ -1475,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20288310",
       "published_at": "2026-11-11T13:00:43+00:00",
-      "revalidated_at": "2026-11-11T23:15:52+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0DHLHWZT7",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20289222",
       "published_at": "2026-11-11T13:00:43+00:00",
-      "revalidated_at": "2026-11-11T23:15:52+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0GQM8RW3W",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20288748",
       "published_at": "2026-11-11T10:30:35+00:00",
-      "revalidated_at": "2026-11-11T23:00:48+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0DSM3HFRG",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20288211",
       "published_at": "2026-11-11T08:45:31+00:00",
-      "revalidated_at": "2026-11-11T23:00:48+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0BVSRNZSB",
@@ -1876,10 +1876,10 @@
     {
       "asin": "B0DB1753RZ",
       "title": "Soundcore Select 4 Go Bluetooth Shower Speaker by Anker, IP67 20H Playtime, Floatable, Dustproof, Ultra-Portable Bluetooth Speaker",
-      "title_es": null,
+      "title_es": "Altavoz Bluetooth Soundcore Select 4 Go de Anker, IP67, 20H, flotante y resistente.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este altavoz Bluetooth ultraportátil de Anker es perfecto para llevar tu música a todas partes, incluso a la ducha o la piscina. Con certificación IP67, es flotante, resistente al polvo y ofrece hasta 20 horas de reproducción. 🔊",
+      "post_en": "This ultra-portable Bluetooth speaker by Anker is perfect for taking your music everywhere, even to the shower or pool. With IP67 certification, it's floatable, dustproof, and offers up to 20 hours of playtime. 🔊",
       "price_new": 22.99,
       "price_old": 34.99,
       "currency": "USD",
@@ -1898,10 +1898,10 @@
     {
       "asin": "B0092K7C1O",
       "title": "Gillette Mach3 Men's Razor Handle w/ 1 Blade Refill",
-      "title_es": null,
+      "title_es": "Maquinilla de afeitar Gillette Mach3 para hombre con 1 recambio.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La maquinilla Gillette Mach3 ofrece un afeitado apurado y suave gracias a sus tres hojas duraderas. Incluye un mango ergonómico y un recambio, ideal para un uso diario cómodo.",
+      "post_en": "The Gillette Mach3 razor provides a close and smooth shave thanks to its three durable blades. It includes an ergonomic handle and one refill, ideal for comfortable daily use.",
       "price_new": 5.79,
       "price_old": 35.0,
       "currency": "USD",
@@ -1915,15 +1915,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20288598",
       "published_at": "2026-11-11T06:45:43+00:00",
-      "revalidated_at": "2026-11-11T23:00:48+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0HBCC4977",
       "title": "Maledan Clear MagSafe Case for iPhone [18 Pro / 17 Pro] for",
-      "title_es": null,
+      "title_es": "Funda transparente Maledan MagSafe para iPhone Pro.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Protege tu iPhone Pro con esta funda transparente Maledan compatible con MagSafe, que permite una carga inalámbrica eficiente. Su diseño delgado y claro realza la estética de tu dispositivo mientras lo mantiene seguro.",
+      "post_en": "Protect your iPhone Pro with this clear Maledan MagSafe-compatible case, allowing for efficient wireless charging. Its slim and transparent design enhances your device's aesthetics while keeping it secure.",
       "price_new": 5.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1937,15 +1937,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20267646",
       "published_at": "2026-11-11T06:45:43+00:00",
-      "revalidated_at": "2026-11-11T23:15:52+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0GYN8JXXB",
       "title": "ULANZI MT44M Auto Open Magnetic Phone Tripod, 59\" Selfie Stick with Remote- Tripod Stand 2-in-1 Dual Mount&1/4\" Screw for Phone&Camera",
-      "title_es": null,
+      "title_es": "Trípode magnético ULANZI MT44M para móvil y cámara, con selfie stick y mando.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este versátil trípode ULANZI MT44M funciona como selfie stick de 59 pulgadas y soporte para móvil o cámara, con montaje dual y tornillo de 1/4\". Es perfecto para creadores de contenido o para capturar fotos y vídeos estables con facilidad.",
+      "post_en": "This versatile ULANZI MT44M tripod functions as a 59-inch selfie stick and a stand for phone or camera, featuring dual mount and a 1/4\" screw. It's perfect for content creators or for capturing stable photos and videos with ease.",
       "price_new": 18.89,
       "price_old": 26.99,
       "currency": "USD",
@@ -1964,10 +1964,10 @@
     {
       "asin": "B0FKVQLBPM",
       "title": "GUND Disney Official Minnie Mouse Toothpick 15-Inch Plush Toy for Ages 1+ at Amazon",
-      "title_es": null,
+      "title_es": "Peluche GUND Disney Minnie Mouse Toothpick de 15 pulgadas.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El peluche oficial GUND Disney Minnie Mouse Toothpick es un compañero suave y adorable de 15 pulgadas, ideal para niños a partir de 1 año. Su diseño clásico de Minnie lo convierte en un regalo encantador para cualquier fan de Disney.",
+      "post_en": "The official GUND Disney Minnie Mouse Toothpick plush toy is a soft and adorable 15-inch companion, ideal for children aged 1 and up. Its classic Minnie design makes it a charming gift for any Disney fan.",
       "price_new": 7.99,
       "price_old": 13.81,
       "currency": "USD",
@@ -1986,10 +1986,10 @@
     {
       "asin": "B00EJ2DFZ2",
       "title": "National Tree Company 9ft Pre-Lit Crestwood Spruce Christmas Garland",
-      "title_es": null,
+      "title_es": "Guirnalda de Navidad National Tree Company Crestwood Spruce pre-iluminada de 9 pies.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Decora tu hogar con esta hermosa guirnalda navideña National Tree Company Crestwood Spruce de 9 pies, que viene pre-iluminada para una instalación sencilla. Aporta un toque festivo y acogedor a cualquier espacio durante las fiestas. ✨",
+      "post_en": "Decorate your home with this beautiful 9ft National Tree Company Pre-Lit Crestwood Spruce Christmas Garland, designed for easy setup. It adds a festive and cozy touch to any space during the holidays. ✨",
       "price_new": 32.97,
       "price_old": 49.99,
       "currency": "USD",
@@ -2008,10 +2008,10 @@
     {
       "asin": "B07VDCRW8Q",
       "title": "2-Pack LOTTS Stackable Metal Wire Storage Baskets w/ Handles (Black)",
-      "title_es": null,
+      "title_es": "Pack de 2 cestas de almacenamiento metálicas apilables LOTTS con asas (Negras).",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Organiza tu hogar con este práctico pack de 2 cestas de almacenamiento metálicas LOTTS, diseñadas para ser apilables y ahorrar espacio. Son ideales para guardar alimentos, revistas o artículos de baño, añadiendo un toque moderno.",
+      "post_en": "Organize your home with this practical 2-pack of LOTTS stackable metal wire storage baskets, designed to save space. They are ideal for storing food, magazines, or bathroom items, adding a modern touch.",
       "price_new": 14.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -2030,10 +2030,10 @@
     {
       "asin": "B0F8YNHPQM",
       "title": "Nisocy 100' Waterproof LED Christmas String Lights w/ 8 Lighting Modes & Timer",
-      "title_es": null,
+      "title_es": "Guirnalda de luces LED de Navidad Nisocy de 100 pies, impermeable, con 8 modos y temporizador.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Ilumina tus fiestas con esta guirnalda de luces LED Nisocy de 100 pies, perfecta para uso interior y exterior gracias a su resistencia al agua. Ofrece 8 modos de iluminación y función de temporizador para crear el ambiente perfecto.",
+      "post_en": "Brighten up your holidays with these 100ft Nisocy Waterproof LED Christmas String Lights, perfect for indoor and outdoor use. They offer 8 lighting modes and a timer function to create the perfect ambiance.",
       "price_new": 7.79,
       "price_old": 35.0,
       "currency": "USD",
@@ -2052,10 +2052,10 @@
     {
       "asin": "B0FNRS6MVR",
       "title": "6-Pack 11-Oz Eight O'Clock The Original Medium Roast Whole Bean Coffee",
-      "title_es": null,
+      "title_es": "Pack de 6 cafés en grano Eight O'Clock The Original Medium Roast de 11 oz.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta del sabor clásico con este pack de 6 cafés en grano Eight O'Clock The Original Medium Roast, ideal para los amantes del café recién molido. Cada paquete de 11 oz asegura un aroma y gusto equilibrados para tu taza diaria. ☕",
+      "post_en": "Enjoy the classic taste with this 6-pack of Eight O'Clock The Original Medium Roast Whole Bean Coffee, ideal for fresh-ground coffee lovers. Each 11-oz pack ensures a balanced aroma and flavor for your daily cup. ☕",
       "price_new": 5.72,
       "price_old": 35.0,
       "currency": "USD",
@@ -2074,10 +2074,10 @@
     {
       "asin": "B0FP4DNTGY",
       "title": "5.5\" Masters of the Universe Power Sword Slash He-Man Action Figure Toy",
-      "title_es": null,
+      "title_es": "Figura de acción He-Man Masters of the Universe Power Sword Slash de 5.5 pulgadas.",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Revive la nostalgia con esta figura de acción He-Man Masters of the Universe Power Sword Slash de 5.5 pulgadas, perfecta para coleccionistas y fans. Con su espada icónica, es ideal para recrear batallas épicas o exhibir.",
+      "post_en": "Relive the nostalgia with this 5.5\" Masters of the Universe Power Sword Slash He-Man Action Figure, perfect for collectors and fans. With his iconic sword, it's ideal for recreating epic battles or display.",
       "price_new": 5.0,
       "price_old": 15.99,
       "currency": "USD",
@@ -2179,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20286765",
       "published_at": "2026-11-11T04:30:56+00:00",
-      "revalidated_at": "2026-11-11T23:00:48+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0GPVQYD21",
@@ -2267,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20286927",
       "published_at": "2026-11-11T03:00:54+00:00",
-      "revalidated_at": "2026-11-11T23:15:52+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0FF4NMSJM",
@@ -2289,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20287110",
       "published_at": "2026-11-11T03:00:54+00:00",
-      "revalidated_at": "2026-11-11T23:15:52+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B08FXPFXD9",
@@ -2355,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20287086",
       "published_at": "2026-11-11T02:30:34+00:00",
-      "revalidated_at": "2026-11-11T23:00:48+00:00"
+      "revalidated_at": "2026-11-12T01:01:34+00:00"
     },
     {
       "asin": "B0HBWNCBCG",
