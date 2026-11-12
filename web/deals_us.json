@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-12T07:45:28+00:00",
+  "generated_at": "2026-11-12T08:00:36+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0DRW7WRX3",
+      "title": "832 Pcs LEGO Harry Potter Book Nook: Hogwarts Express (76450)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 50.0,
+      "price_old": 99.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/22313112.thumb",
+      "url": "https://amazon.com/dp/B0DRW7WRX3/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20295318",
+      "published_at": "2026-11-12T08:00:36+00:00",
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
+    },
     {
       "asin": "B00Q5JSX2W",
       "title": "16-Pc DeWALT Multi-TPI Bi-Metal Reciprocating Saw Blades w/ Case",
@@ -58,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": "prime",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/22311039.thumb",
+      "image": "https://m.media-amazon.com/images/I/61TL5OEe2vL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GLVC5Z6P/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20294628",
@@ -80,11 +102,11 @@
       "price_old": 89.99,
       "currency": "USD",
       "discount_pct": 30.2,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/4/2/8/1/6/450x450/22313343.thumb",
+      "image": "https://m.media-amazon.com/images/I/61GQsmF+tpL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FQ86P56C/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20294448",
@@ -243,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20294298",
       "published_at": "2026-11-12T06:00:38+00:00",
-      "revalidated_at": "2026-11-12T06:00:38+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "B0C5N7BF5P",
@@ -463,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20292453",
       "published_at": "2026-11-12T02:15:48+00:00",
-      "revalidated_at": "2026-11-12T06:00:38+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "B0FP1YT84W",
@@ -485,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20270751",
       "published_at": "2026-11-12T02:15:48+00:00",
-      "revalidated_at": "2026-11-12T06:00:38+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "B0GKD3FG9Y",
@@ -749,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20292870",
       "published_at": "2026-11-12T00:15:50+00:00",
-      "revalidated_at": "2026-11-12T06:00:38+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "B0FBWG3459",
@@ -771,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20292579",
       "published_at": "2026-11-12T00:15:50+00:00",
-      "revalidated_at": "2026-11-12T06:00:38+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "B0HGLRZ4WT",
@@ -1079,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20292654",
       "published_at": "2026-11-11T22:30:42+00:00",
-      "revalidated_at": "2026-11-12T06:00:38+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "B0CWHZWW41",
@@ -1761,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20290935",
       "published_at": "2026-11-11T16:00:45+00:00",
-      "revalidated_at": "2026-11-12T06:00:38+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "B0HPG3X4J5",
@@ -1783,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20290437",
       "published_at": "2026-11-11T16:00:45+00:00",
-      "revalidated_at": "2026-11-12T06:00:38+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "B0D7SGVN46",
@@ -1981,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20289939",
       "published_at": "2026-11-11T14:00:48+00:00",
-      "revalidated_at": "2026-11-12T06:00:38+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "B0GCBX4B8R",
@@ -2399,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20266830",
       "published_at": "2026-11-11T09:30:34+00:00",
-      "revalidated_at": "2026-11-12T05:45:31+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "B0CN1JKSQ1",
@@ -2421,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20288655",
       "published_at": "2026-11-11T09:30:34+00:00",
-      "revalidated_at": "2026-11-12T05:45:31+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "B0GYCW93BD",
@@ -2443,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20272866",
       "published_at": "2026-11-11T09:15:35+00:00",
-      "revalidated_at": "2026-11-12T05:45:31+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "B0GPSFR1Q4",
@@ -2487,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20288277",
       "published_at": "2026-11-11T07:45:43+00:00",
-      "revalidated_at": "2026-11-12T05:45:31+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "B09MR5HFPB",
@@ -2509,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20288031",
       "published_at": "2026-11-11T07:45:43+00:00",
-      "revalidated_at": "2026-11-12T05:45:31+00:00"
+      "revalidated_at": "2026-11-12T08:00:36+00:00"
     },
     {
       "asin": "0307988295",
@@ -2619,28 +2641,6 @@
       "source": "slickdeals",
       "deal_key": "sd:20285151",
       "published_at": "2026-11-11T06:30:40+00:00",
-      "revalidated_at": "2026-11-12T06:45:39+00:00"
-    },
-    {
-      "asin": "B0FKVQLBPM",
-      "title": "GUND Disney Official Minnie Mouse Toothpick 15-Inch Plush Toy for Ages 1+ at Amazon",
-      "title_es": "Peluche GUND Disney Minnie Mouse Toothpick de 15 pulgadas.",
-      "headline": null,
-      "post": "El peluche oficial GUND Disney Minnie Mouse Toothpick es un compañero suave y adorable de 15 pulgadas, ideal para niños a partir de 1 año. Su diseño clásico de Minnie lo convierte en un regalo encantador para cualquier fan de Disney.",
-      "post_en": "The official GUND Disney Minnie Mouse Toothpick plush toy is a soft and adorable 15-inch companion, ideal for children aged 1 and up. Its classic Minnie design makes it a charming gift for any Disney fan.",
-      "price_new": 7.99,
-      "price_old": 13.81,
-      "currency": "USD",
-      "discount_pct": 42.1,
-      "rating": 4.9,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71BDIsitwHL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FKVQLBPM/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20288442",
-      "published_at": "2026-11-11T06:15:37+00:00",
       "revalidated_at": "2026-11-12T06:45:39+00:00"
     }
   ]
