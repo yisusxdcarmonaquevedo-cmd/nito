@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T08:15:29+00:00",
+  "generated_at": "2026-11-12T08:30:30+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
     {
       "asin": "B0DRW7WRX3",
@@ -14,11 +14,11 @@
       "price_old": 99.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.9,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/22313112.thumb",
+      "image": "https://m.media-amazon.com/images/I/81aPEEGNjfL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DRW7WRX3/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20295318",
@@ -177,29 +177,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20259168",
       "published_at": "2026-11-12T06:30:52+00:00",
-      "revalidated_at": "2026-11-12T06:30:52+00:00"
-    },
-    {
-      "asin": "B0G2T5PP7W",
-      "title": "761 Pcs LEGO Up-Scaled Santa Minifigure (40820)  at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 28.0,
-      "price_old": 59.99,
-      "currency": "USD",
-      "discount_pct": 53.3,
-      "rating": 5.0,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71XAotKCBaL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G2T5PP7W/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20295117",
-      "published_at": "2026-11-12T06:30:52+00:00",
-      "revalidated_at": "2026-11-12T06:30:52+00:00"
+      "revalidated_at": "2026-11-12T08:30:30+00:00"
     },
     {
       "asin": "B0HC6QQ2T6",
@@ -221,7 +199,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20289702",
       "published_at": "2026-11-12T06:30:52+00:00",
-      "revalidated_at": "2026-11-12T06:30:52+00:00"
+      "revalidated_at": "2026-11-12T08:30:30+00:00"
     },
     {
       "asin": "B0HP6VQLZ5",
@@ -410,11 +388,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 35.7,
-      "rating": null,
+      "rating": 4.8,
       "condition": "coupon",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/22309644.thumb",
+      "image": "https://m.media-amazon.com/images/I/71wiJoG71NL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GN8KDS1Q/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20294037",
@@ -454,11 +432,11 @@
       "price_old": 29.99,
       "currency": "USD",
       "discount_pct": 52.5,
-      "rating": null,
+      "rating": 4.5,
       "condition": "coupon",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/6/7/9/8/5/450x450/22309008.thumb",
+      "image": "https://m.media-amazon.com/images/I/61Lbmqmvi+L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H5J7RBC1/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20293722",
@@ -564,11 +542,11 @@
       "price_old": 25.0,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22308822.thumb",
+      "image": "https://m.media-amazon.com/images/I/51UK5GT1e-L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GC7XBJHR/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20293599",
@@ -705,29 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20292237",
       "published_at": "2026-11-12T00:45:41+00:00",
-      "revalidated_at": "2026-11-12T06:30:52+00:00"
-    },
-    {
-      "asin": "B00IRSUU5M",
-      "title": "2-Pk Retevis H-777 Rechargeable Walkie Talkies w/ LED Flashlight",
-      "title_es": "Pack de 2 walkie talkies recargables Retevis H-777 con linterna LED.",
-      "headline": null,
-      "post": "Este pack de dos walkie talkies Retevis H-777 recargables es perfecto para mantener la comunicación en actividades al aire libre o en casa. Incluyen una práctica linterna LED, ofreciendo una herramienta versátil para diversas situaciones.",
-      "post_en": "This pack of two rechargeable Retevis H-777 walkie talkies is perfect for staying connected during outdoor activities or at home. They include a practical LED flashlight, offering a versatile tool for various situations.",
-      "price_new": 16.2,
-      "price_old": 32.99,
-      "currency": "USD",
-      "discount_pct": 50.9,
-      "rating": 4.4,
-      "condition": "code",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81lrBX+9ydL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00IRSUU5M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20291724",
-      "published_at": "2026-11-12T00:45:41+00:00",
-      "revalidated_at": "2026-11-12T06:30:52+00:00"
+      "revalidated_at": "2026-11-12T08:30:30+00:00"
     },
     {
       "asin": "1510780947",
@@ -1013,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20292591",
       "published_at": "2026-11-11T23:00:48+00:00",
-      "revalidated_at": "2026-11-12T06:30:52+00:00"
+      "revalidated_at": "2026-11-12T08:30:30+00:00"
     },
     {
       "asin": "B0H71SB6WR",
@@ -1035,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20292363",
       "published_at": "2026-11-11T23:00:48+00:00",
-      "revalidated_at": "2026-11-12T06:30:52+00:00"
+      "revalidated_at": "2026-11-12T08:30:30+00:00"
     },
     {
       "asin": "B0C858GPF9",
@@ -1695,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20289828",
       "published_at": "2026-11-11T16:45:47+00:00",
-      "revalidated_at": "2026-11-12T06:30:52+00:00"
+      "revalidated_at": "2026-11-12T08:30:30+00:00"
     },
     {
       "asin": "B00HGCJZEC",
@@ -1717,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20271006",
       "published_at": "2026-11-11T16:45:47+00:00",
-      "revalidated_at": "2026-11-12T06:30:52+00:00"
+      "revalidated_at": "2026-11-12T08:30:30+00:00"
     },
     {
       "asin": "B0HBQHGL36",
@@ -1739,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20291085",
       "published_at": "2026-11-11T16:30:46+00:00",
-      "revalidated_at": "2026-11-12T06:30:52+00:00"
+      "revalidated_at": "2026-11-12T08:30:30+00:00"
     },
     {
       "asin": "B0BQ1DLLCM",
@@ -1761,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20290449",
       "published_at": "2026-11-11T16:30:46+00:00",
-      "revalidated_at": "2026-11-12T06:30:52+00:00"
+      "revalidated_at": "2026-11-12T08:30:30+00:00"
     },
     {
       "asin": "B0D49N8JXM",
@@ -1893,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20288142",
       "published_at": "2026-11-11T14:45:30+00:00",
-      "revalidated_at": "2026-11-12T06:30:52+00:00"
+      "revalidated_at": "2026-11-12T08:30:30+00:00"
     },
     {
       "asin": "B0DRZCYXN3",
@@ -1937,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20289336",
       "published_at": "2026-11-11T14:30:36+00:00",
-      "revalidated_at": "2026-11-12T06:30:52+00:00"
+      "revalidated_at": "2026-11-12T08:30:30+00:00"
     },
     {
       "asin": "B0DBLPFMGX",
@@ -2289,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20287170",
       "published_at": "2026-11-11T12:00:41+00:00",
-      "revalidated_at": "2026-11-12T06:15:44+00:00"
+      "revalidated_at": "2026-11-12T08:30:30+00:00"
     },
     {
       "asin": "B0FJMBJKB9",
@@ -2377,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20288481",
       "published_at": "2026-11-11T10:00:42+00:00",
-      "revalidated_at": "2026-11-12T06:15:44+00:00"
+      "revalidated_at": "2026-11-12T08:30:30+00:00"
     },
     {
       "asin": "B0F65ZBSXY",
