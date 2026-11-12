@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-12T17:45:44+00:00",
+  "generated_at": "2026-11-12T18:00:52+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B0F21ZW8ZW",
+      "title": "Glocusent Portable White Noise Machine with Night Light w/ 62 Soothing Sounds and 9 Colors",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 85.7,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/22322160.thumb",
+      "url": "https://amazon.com/dp/B0F21ZW8ZW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20298039",
+      "published_at": "2026-11-12T18:00:52+00:00",
+      "revalidated_at": "2026-11-12T18:00:52+00:00"
+    },
+    {
+      "asin": "B0GHTGTRP5",
+      "title": "True Religion Men's Small Crossbody Sling Bag (Blue)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 67.2,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/22314834.thumb",
+      "url": "https://amazon.com/dp/B0GHTGTRP5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20295915",
+      "published_at": "2026-11-12T18:00:52+00:00",
+      "revalidated_at": "2026-11-12T18:00:52+00:00"
+    },
     {
       "asin": "B0CSFH8VQS",
       "title": "The Great Mental Models, Volume 1: General Thinking Concepts (eBook) by Shane Parrish, Rhiannon Beaubien",
@@ -168,11 +212,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 95.7,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "4HLKY8OA",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/22319256.thumb",
+      "image": "https://m.media-amazon.com/images/I/81CTaHlFeQL._AC_SL1254_.jpg",
       "url": "https://amazon.com/dp/B0HBJNWY2R/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20297394",
@@ -463,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20297127",
       "published_at": "2026-11-12T16:00:50+00:00",
-      "revalidated_at": "2026-11-12T16:00:50+00:00"
+      "revalidated_at": "2026-11-12T18:00:52+00:00"
     },
     {
       "asin": "B0F485YW97",
@@ -485,51 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20296620",
       "published_at": "2026-11-12T16:00:50+00:00",
-      "revalidated_at": "2026-11-12T16:00:50+00:00"
-    },
-    {
-      "asin": "B0BFBVM14C",
-      "title": "LovinPet Large Dog  Dog Jammies; Dog Pajamas",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 14.99,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.5,
-      "condition": "code",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71FOi+jnqTL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0BFBVM14C/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20297019",
-      "published_at": "2026-11-12T15:45:56+00:00",
-      "revalidated_at": "2026-11-12T15:45:56+00:00"
-    },
-    {
-      "asin": "B0DS2HDSXK",
-      "title": "Maternity Dress Pants with Pockets | Comfortable & Stretchy for Mom-to-Be!",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 13.49,
-      "price_old": 24.98,
-      "currency": "USD",
-      "discount_pct": 46.0,
-      "rating": null,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/6/0/6/5/4/4/2/450x450/22284981.thumb",
-      "url": "https://amazon.com/dp/B0DS2HDSXK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20284764",
-      "published_at": "2026-11-12T15:45:56+00:00",
-      "revalidated_at": "2026-11-12T15:45:56+00:00"
+      "revalidated_at": "2026-11-12T18:00:52+00:00"
     },
     {
       "asin": "B01CRHGJDU",
@@ -551,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20297247",
       "published_at": "2026-11-12T15:45:56+00:00",
-      "revalidated_at": "2026-11-12T15:45:56+00:00"
+      "revalidated_at": "2026-11-12T18:00:52+00:00"
     },
     {
       "asin": "B0DLHC66DC",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20296311",
       "published_at": "2026-11-12T13:45:45+00:00",
-      "revalidated_at": "2026-11-12T15:45:56+00:00"
+      "revalidated_at": "2026-11-12T18:00:52+00:00"
     },
     {
       "asin": "B0B6ZZVGNX",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20293428",
       "published_at": "2026-11-12T13:45:45+00:00",
-      "revalidated_at": "2026-11-12T15:45:56+00:00"
+      "revalidated_at": "2026-11-12T18:00:52+00:00"
     },
     {
       "asin": "B0DHLGNGWP",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20289216",
       "published_at": "2026-11-12T13:45:45+00:00",
-      "revalidated_at": "2026-11-12T15:45:56+00:00"
+      "revalidated_at": "2026-11-12T18:00:52+00:00"
     },
     {
       "asin": "B0CV9JD3FM",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20296509",
       "published_at": "2026-11-12T13:45:45+00:00",
-      "revalidated_at": "2026-11-12T15:45:56+00:00"
+      "revalidated_at": "2026-11-12T18:00:52+00:00"
     },
     {
       "asin": "B01GKRH49G",
@@ -2069,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20293203",
       "published_at": "2026-11-12T01:45:46+00:00",
-      "revalidated_at": "2026-11-12T15:30:52+00:00"
+      "revalidated_at": "2026-11-12T18:00:52+00:00"
     },
     {
       "asin": "B0GC7XBJHR",
@@ -2091,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20293599",
       "published_at": "2026-11-12T01:45:46+00:00",
-      "revalidated_at": "2026-11-12T15:30:52+00:00"
+      "revalidated_at": "2026-11-12T18:00:52+00:00"
     },
     {
       "asin": "B082F1QH7S",
@@ -2421,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20290389",
       "published_at": "2026-11-11T23:31:03+00:00",
-      "revalidated_at": "2026-11-12T15:30:52+00:00"
+      "revalidated_at": "2026-11-12T18:00:52+00:00"
     },
     {
       "asin": "B09156YD8P",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20293404",
       "published_at": "2026-11-11T23:31:03+00:00",
-      "revalidated_at": "2026-11-12T15:30:52+00:00"
+      "revalidated_at": "2026-11-12T18:00:52+00:00"
     },
     {
       "asin": "B01B1V10KA",
@@ -2598,50 +2598,6 @@
       "deal_key": "sd:20292654",
       "published_at": "2026-11-11T22:30:42+00:00",
       "revalidated_at": "2026-11-12T16:30:45+00:00"
-    },
-    {
-      "asin": "B0CWHZWW41",
-      "title": "Timex Unisex Q LCA 35mm Digital Watch (Gray)",
-      "title_es": "Reloj digital Timex Unisex Q LCA 35mm (gris)",
-      "headline": null,
-      "post": "El reloj digital Timex Unisex Q LCA de 35mm en color gris es un accesorio con estilo retro y funcionalidad moderna. Es ideal para quienes buscan un toque vintage en su muñeca con la fiabilidad de Timex.",
-      "post_en": "The Timex Unisex Q LCA 35mm digital watch in gray is an accessory with retro style and modern functionality. It's ideal for those looking for a vintage touch on their wrist with Timex reliability.",
-      "price_new": 39.9,
-      "price_old": 57.0,
-      "currency": "USD",
-      "discount_pct": 30.0,
-      "rating": 3.7,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61qiV7tb-CL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CWHZWW41/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20292231",
-      "published_at": "2026-11-11T22:30:42+00:00",
-      "revalidated_at": "2026-11-12T16:30:45+00:00"
-    },
-    {
-      "asin": "B08DXHFKB1",
-      "title": "Phomemo D30 Bluetooth Mini Thermal Label Maker Printer (3 Colors)",
-      "title_es": "Impresora de etiquetas térmica mini Bluetooth Phomemo D30 (3 colores)",
-      "headline": null,
-      "post": "La impresora Phomemo D30 es una mini etiquetadora térmica Bluetooth, disponible en 3 colores. Es perfecta para organizar tu hogar u oficina, imprimiendo etiquetas desde tu móvil de forma rápida y sencilla.",
-      "post_en": "The Phomemo D30 printer is a mini Bluetooth thermal label maker, available in 3 colors. It's perfect for organizing your home or office, printing labels from your phone quickly and easily.",
-      "price_new": 7.98,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 77.2,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "JE5DLCEK",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71Y6XZPSv1L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B08DXHFKB1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20291718",
-      "published_at": "2026-11-11T22:15:32+00:00",
-      "revalidated_at": "2026-11-12T15:30:52+00:00"
     }
   ]
 }
