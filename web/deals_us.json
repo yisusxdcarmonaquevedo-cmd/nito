@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-13T18:00:46+00:00",
+  "generated_at": "2026-11-13T18:15:46+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0H6NZJCBB",
+      "title": "[Prime] 8\" Brightown Solar Stacked Snowman Garden Statue Light",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.99,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 66.7,
+      "rating": null,
+      "condition": "code",
+      "code": "XT8TH27H",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/22325856.thumb",
+      "url": "https://amazon.com/dp/B0H6NZJCBB/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20299371",
+      "published_at": "2026-11-13T18:15:46+00:00",
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
+    },
     {
       "asin": "B09HHHDWN2",
       "title": "6-Pack 12.5-Oz Amazon Essentials 2-in-1 Dandruff Shampoo & Conditioner",
@@ -14,11 +36,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 94.5,
-      "rating": null,
+      "rating": 4.6,
       "condition": "coupon",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/3/5/6/4/5/1/8/7/450x450/22330821.thumb",
+      "image": "https://m.media-amazon.com/images/I/71RYz4bjxsL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B09HHHDWN2/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20301165",
@@ -309,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20301024",
       "published_at": "2026-11-13T16:15:47+00:00",
-      "revalidated_at": "2026-11-13T16:15:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B0FFSJKSSG",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20288406",
       "published_at": "2026-11-13T16:15:47+00:00",
-      "revalidated_at": "2026-11-13T16:15:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B0H7RK6T5P",
@@ -353,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20303316",
       "published_at": "2026-11-13T16:15:47+00:00",
-      "revalidated_at": "2026-11-13T16:15:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B0FKG6TDRR",
@@ -375,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20302134",
       "published_at": "2026-11-13T16:15:47+00:00",
-      "revalidated_at": "2026-11-13T16:15:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B0GZW2VK3B",
@@ -397,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20302077",
       "published_at": "2026-11-13T16:15:47+00:00",
-      "revalidated_at": "2026-11-13T16:15:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B0DSLTYZ91",
@@ -815,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20283009",
       "published_at": "2026-11-13T14:15:41+00:00",
-      "revalidated_at": "2026-11-13T16:15:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B0F2M65H3S",
@@ -947,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20302530",
       "published_at": "2026-11-13T14:00:55+00:00",
-      "revalidated_at": "2026-11-13T16:00:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B0H9CLDCGV",
@@ -1409,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20298507",
       "published_at": "2026-11-13T06:00:56+00:00",
-      "revalidated_at": "2026-11-13T16:00:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B0B1DJWFTF",
@@ -1431,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20299926",
       "published_at": "2026-11-13T06:00:56+00:00",
-      "revalidated_at": "2026-11-13T16:00:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B0CVXGGHVV",
@@ -1453,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20288970",
       "published_at": "2026-11-13T06:00:56+00:00",
-      "revalidated_at": "2026-11-13T16:00:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B0DQLZHS5Z",
@@ -2421,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20298783",
       "published_at": "2026-11-12T22:00:43+00:00",
-      "revalidated_at": "2026-11-13T16:00:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B0HDZ1N4L2",
@@ -2465,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20299578",
       "published_at": "2026-11-12T21:45:45+00:00",
-      "revalidated_at": "2026-11-13T16:00:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B07Z4G612W",
@@ -2487,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20295621",
       "published_at": "2026-11-12T21:45:45+00:00",
-      "revalidated_at": "2026-11-13T16:00:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B01N4P1PKT",
@@ -2509,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20295732",
       "published_at": "2026-11-12T21:45:45+00:00",
-      "revalidated_at": "2026-11-13T16:00:47+00:00"
+      "revalidated_at": "2026-11-13T18:15:46+00:00"
     },
     {
       "asin": "B0DZ1ZTPSM",
@@ -2618,28 +2640,6 @@
       "url": "https://amazon.com/dp/B0GD72DW6Q/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20285640",
-      "published_at": "2026-11-12T21:00:47+00:00",
-      "revalidated_at": "2026-11-13T17:15:53+00:00"
-    },
-    {
-      "asin": "B0H6WVMXWD",
-      "title": "SeasonBliss 8 Pack Large Reusable Christmas Gift Bags with Handles,Tote Bags",
-      "title_es": "Pack de 8 Bolsas de Regalo Grandes Reutilizables SeasonBliss con Asas (Navidad)",
-      "headline": null,
-      "post": "Estas 8 bolsas de regalo grandes SeasonBliss son perfectas para envolver tus presentes navideños de forma sostenible. Con asas, son reutilizables y muy prácticas para cualquier celebración festiva. 🎁",
-      "post_en": "These 8 large SeasonBliss gift bags are perfect for wrapping your Christmas presents sustainably. With handles, they are reusable and very practical for any festive celebration. 🎁",
-      "price_new": 7.49,
-      "price_old": 15.99,
-      "currency": "USD",
-      "discount_pct": 53.2,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/81aRlqizu4L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H6WVMXWD/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20298897",
       "published_at": "2026-11-12T21:00:47+00:00",
       "revalidated_at": "2026-11-13T17:15:53+00:00"
     }
