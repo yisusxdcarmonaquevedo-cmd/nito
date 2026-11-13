@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-13T16:00:47+00:00",
+  "generated_at": "2026-11-13T16:15:47+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0D3T1SPT4",
+      "title": "[S&S] VEV Multi Collagen Peptides Powder, Types I, II, III, V & X, 41 Servings NSF Certified, Hydrolyzed Collagen with Hyaluronic Acid, Biotin & Vitamin C, Unflavored, 16 oz",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.99,
+      "price_old": 24.99,
+      "currency": "USD",
+      "discount_pct": 76.0,
+      "rating": 4.6,
+      "condition": "sns",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/810gAUkFxEL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0D3T1SPT4/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20301024",
+      "published_at": "2026-11-13T16:15:47+00:00",
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
+    },
+    {
+      "asin": "B0FFSJKSSG",
+      "title": "ORICO 6-in-1 USB-C Hub w/ 4K@30Hz",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 77.2,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "VXFCPTEO",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/611h5sXnIvL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FFSJKSSG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20288406",
+      "published_at": "2026-11-13T16:15:47+00:00",
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
+    },
+    {
+      "asin": "B0H7RK6T5P",
+      "title": "2-Piece Fisoew Women's Long Sleeve Collared V Neck Pullover Top and High Waist Ruffled Mini Skirt Set (Various)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 62.9,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/22337466.thumb",
+      "url": "https://amazon.com/dp/B0H7RK6T5P/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20303316",
+      "published_at": "2026-11-13T16:15:47+00:00",
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
+    },
+    {
+      "asin": "B0FKG6TDRR",
+      "title": "CMF by Nothing Headphone Pro ANC Wireless Headphones at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 49.0,
+      "price_old": 79.0,
+      "currency": "USD",
+      "discount_pct": 38.0,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61GgFT3p9QL._AC_SL1496_.jpg",
+      "url": "https://amazon.com/dp/B0FKG6TDRR/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20302134",
+      "published_at": "2026-11-13T16:15:47+00:00",
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
+    },
+    {
+      "asin": "B0GZW2VK3B",
+      "title": "Nothing Ear (3a) Wireless ANC Earbuds (4 Colors) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 69.0,
+      "price_old": 99.0,
+      "currency": "USD",
+      "discount_pct": 30.3,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22333932.thumb",
+      "url": "https://amazon.com/dp/B0GZW2VK3B/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20302077",
+      "published_at": "2026-11-13T16:15:47+00:00",
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
+    },
     {
       "asin": "B0DSLTYZ91",
       "title": "Champion Luna 19.2L Laptop Backpack (Clever Sage)",
@@ -419,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20283009",
       "published_at": "2026-11-13T14:15:41+00:00",
-      "revalidated_at": "2026-11-13T14:15:41+00:00"
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
     },
     {
       "asin": "B0F2M65H3S",
@@ -441,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20302089",
       "published_at": "2026-11-13T14:15:41+00:00",
-      "revalidated_at": "2026-11-13T14:15:41+00:00"
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
     },
     {
       "asin": "B0D7PZSS7P",
@@ -573,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20298834",
       "published_at": "2026-11-13T14:00:55+00:00",
-      "revalidated_at": "2026-11-13T14:00:55+00:00"
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
     },
     {
       "asin": "B09VKS2T67",
@@ -752,28 +862,6 @@
       "revalidated_at": "2026-11-13T14:45:48+00:00"
     },
     {
-      "asin": "B0FLX8M1ZZ",
-      "title": "2.75\" Kizer Beaver 2  D2 Clip Point Fixed Blade Knife w/ Sheath (Various) from",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 24.0,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 31.4,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/22336224.thumb",
-      "url": "https://amazon.com/dp/B0FLX8M1ZZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20302710",
-      "published_at": "2026-11-13T12:15:43+00:00",
-      "revalidated_at": "2026-11-13T14:15:41+00:00"
-    },
-    {
       "asin": "B0HGF4FVVZ",
       "title": "Logitech M196 Bluetooth Wireless Mouse (Blue Grey)",
       "title_es": null,
@@ -793,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20302002",
       "published_at": "2026-11-13T12:00:44+00:00",
-      "revalidated_at": "2026-11-13T14:00:55+00:00"
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
     },
     {
       "asin": "B0D4M581B3",
@@ -903,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20298441",
       "published_at": "2026-11-13T10:15:32+00:00",
-      "revalidated_at": "2026-11-13T14:15:41+00:00"
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
     },
     {
       "asin": "B0F2GW62RY",
@@ -1717,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20297181",
       "published_at": "2026-11-13T00:16:25+00:00",
-      "revalidated_at": "2026-11-13T14:15:41+00:00"
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
     },
     {
       "asin": "B0CWJ34129",
@@ -1739,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20296368",
       "published_at": "2026-11-13T00:16:25+00:00",
-      "revalidated_at": "2026-11-13T14:15:41+00:00"
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
     },
     {
       "asin": "B0HBPKXMS9",
@@ -1761,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20296968",
       "published_at": "2026-11-13T00:16:25+00:00",
-      "revalidated_at": "2026-11-13T14:15:41+00:00"
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
     },
     {
       "asin": "B0BV71QDZY",
@@ -1783,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20296338",
       "published_at": "2026-11-13T00:16:25+00:00",
-      "revalidated_at": "2026-11-13T14:15:41+00:00"
+      "revalidated_at": "2026-11-13T16:15:47+00:00"
     },
     {
       "asin": "B0CVXLXGRP",
@@ -2532,116 +2620,6 @@
       "deal_key": "sd:20297145",
       "published_at": "2026-11-12T19:30:46+00:00",
       "revalidated_at": "2026-11-13T15:45:58+00:00"
-    },
-    {
-      "asin": "B0H3BF9KX5",
-      "title": "COPYLEAF Women's High-Rise Wide Leg Yoga Pants w/ 2 Pockets (2 Colors)",
-      "title_es": "Pantalones de Yoga COPYLEAF de Mujer de Cintura Alta y Pierna Ancha con 2 Bolsillos (2 Colores)",
-      "headline": null,
-      "post": "Estos pantalones de yoga COPYLEAF de cintura alta y pierna ancha son ideales para tu rutina de ejercicio o para relajarte en casa. Su diseño cómodo incluye dos prácticos bolsillos, perfectos para quienes buscan funcionalidad y estilo.",
-      "post_en": "These COPYLEAF high-rise, wide-leg yoga pants are ideal for your workout routine or for relaxing at home. Their comfortable design includes two practical pockets, perfect for those seeking functionality and style.",
-      "price_new": 9.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.5,
-      "rating": 4.7,
-      "condition": "code",
-      "code": "UGHS9IES",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51m1l-ii0iL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H3BF9KX5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20297937",
-      "published_at": "2026-11-12T19:16:13+00:00",
-      "revalidated_at": "2026-11-13T15:45:58+00:00"
-    },
-    {
-      "asin": "B0FVD1HLP9",
-      "title": "F-Caw-F Mug 11oz – Funny Chicken Coffee Cup Gag Gift",
-      "title_es": "Taza F-Caw-F de 11oz – Taza de Café Divertida de Pollo para Regalo",
-      "headline": null,
-      "post": "La taza F-Caw-F de 11oz es un regalo divertido y original para los amantes del café con sentido del humor. Su diseño de pollo sacará una sonrisa a cualquiera que la use, perfecta para empezar el día con alegría. 😄",
-      "post_en": "The F-Caw-F 11oz mug is a fun and original gift for coffee lovers with a sense of humor. Its chicken design will bring a smile to anyone who uses it, perfect for starting the day cheerfully. 😄",
-      "price_new": 4.99,
-      "price_old": 9.99,
-      "currency": "USD",
-      "discount_pct": 50.1,
-      "rating": 4.4,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/716x9T750zL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FVD1HLP9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20297049",
-      "published_at": "2026-11-12T19:16:13+00:00",
-      "revalidated_at": "2026-11-13T16:00:47+00:00"
-    },
-    {
-      "asin": "B0FJDQ1NPH",
-      "title": "Soothfeel Joggers for Men Golf Joggers Pants with Pockets",
-      "title_es": "Joggers Soothfeel para Hombre – Pantalones de Golf con Bolsillos",
-      "headline": null,
-      "post": "Los joggers Soothfeel para hombre son perfectos para jugar al golf o para un look casual y cómodo. Cuentan con prácticos bolsillos, ofreciendo funcionalidad y un estilo moderno para el día a día.",
-      "post_en": "Soothfeel joggers for men are perfect for golfing or for a casual and comfortable look. They feature practical pockets, offering functionality and a modern style for everyday wear.",
-      "price_new": 14.99,
-      "price_old": 34.99,
-      "currency": "USD",
-      "discount_pct": 57.2,
-      "rating": 4.2,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71KJa9lw3xL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FJDQ1NPH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20297037",
-      "published_at": "2026-11-12T19:00:45+00:00",
-      "revalidated_at": "2026-11-13T15:00:48+00:00"
-    },
-    {
-      "asin": "B0F9F6B875",
-      "title": "[Prime] 2-Count Linkind Matter Smart Color-Changing B11 E12 Candelabra LED Light Bulbs",
-      "title_es": "[Prime] Pack de 2 Bombillas LED Inteligentes Linkind Matter B11 E12 Candelabro con Cambio de Color",
-      "headline": null,
-      "post": "Moderniza tu hogar con este pack de 2 bombillas LED inteligentes Linkind Matter B11 E12 que cambian de color. Son ideales para crear ambientes personalizados y controlar la iluminación desde tu dispositivo, compatibles con sistemas Matter.",
-      "post_en": "Modernize your home with this 2-pack of Linkind Matter Smart Color-Changing B11 E12 Candelabra LED Light Bulbs. They are ideal for creating personalized ambiances and controlling lighting from your device, compatible with Matter systems.",
-      "price_new": 5.0,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 85.7,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "ET72PRRP",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61cOj-EHrxL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F9F6B875/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20296905",
-      "published_at": "2026-11-12T18:45:33+00:00",
-      "revalidated_at": "2026-11-13T14:30:54+00:00"
-    },
-    {
-      "asin": "B004DCNN64",
-      "title": "Clarks Men's Bushacre 2 Chukka Boots (Beeswax) at Amazon",
-      "title_es": "Botas Chukka Clarks Bushacre 2 para Hombre (Beeswax)",
-      "headline": null,
-      "post": "Las botas Chukka Clarks Bushacre 2 en color Beeswax son un clásico atemporal para el armario masculino. Ofrecen comodidad y un estilo versátil, perfectas para combinar con looks casuales o semi-formales.",
-      "post_en": "The Clarks Men's Bushacre 2 Chukka Boots in Beeswax are a timeless classic for the male wardrobe. They offer comfort and versatile style, perfect for pairing with casual or semi-formal looks.",
-      "price_new": 42.99,
-      "price_old": 110.0,
-      "currency": "USD",
-      "discount_pct": 60.9,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71xaPkLCWQL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B004DCNN64/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20297568",
-      "published_at": "2026-11-12T18:30:41+00:00",
-      "revalidated_at": "2026-11-13T14:30:54+00:00"
     }
   ]
 }
