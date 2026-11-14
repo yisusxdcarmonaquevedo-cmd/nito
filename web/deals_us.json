@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-14T07:01:33+00:00",
+  "generated_at": "2026-11-14T07:16:13+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0918VD8MV",
+      "title": "12-Pack 0.88-Oz LesserEvil Himalayan Pink Salt Organic Popcorn",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 0.53,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 98.5,
+      "rating": 4.6,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/71h7lwFYIpL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0918VD8MV/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20307639",
+      "published_at": "2026-11-14T07:16:13+00:00",
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
+    },
+    {
+      "asin": "B0F9MPVT38",
+      "title": "Alienware Aurora Gaming Desktop w/ Intel Core Ultra 9 285, RTX 5080 16GB, 32GB DDR5 RAM & 1TB SSD",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 279.0,
+      "price_old": 941.0,
+      "currency": "USD",
+      "discount_pct": 70.4,
+      "rating": 4.2,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71MvbQRvOuL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0F9MPVT38/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20307807",
+      "published_at": "2026-11-14T07:16:13+00:00",
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
+    },
+    {
+      "asin": "B0F8BH28ZF",
+      "title": "vansoet 200W Car Power Inverter DC 12V to 110V AC Converter w/ 2x AC Outlets, 2x USB-C & 2x USB-A Ports",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.94,
+      "price_old": 34.99,
+      "currency": "USD",
+      "discount_pct": 57.3,
+      "rating": 4.6,
+      "condition": "code",
+      "code": "PCM7KQHV",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71mAucK+KOL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0F8BH28ZF/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20307594",
+      "published_at": "2026-11-14T07:16:13+00:00",
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
+    },
+    {
+      "asin": "B0FPXDFMGT",
+      "title": "Threekey 3-in-1 Foldable MagSafe Charging Station for Apple Devices, Qi2 25W & Made for Apple Watch / 45W Adapter –",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 35.99,
+      "price_old": 69.99,
+      "currency": "USD",
+      "discount_pct": 48.6,
+      "rating": 4.4,
+      "condition": "code",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61OjxV35cCL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FPXDFMGT/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20290989",
+      "published_at": "2026-11-14T07:16:13+00:00",
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
+    },
+    {
+      "asin": "B085284YHK",
+      "title": "CRAFTSMAN Electric Pressure Washer, Cold Water, 2100-PSI, 1.2 GPM, Corded (CMEPW2100) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 167.3,
+      "price_old": 239.0,
+      "currency": "USD",
+      "discount_pct": 30.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22334319.thumb",
+      "url": "https://amazon.com/dp/B085284YHK/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20302179",
+      "published_at": "2026-11-14T07:16:13+00:00",
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
+    },
     {
       "asin": "B0G86Z6QYF",
       "title": "60-Card Magic: The Gathering Secrets of Strixhaven Eerie Theme Deck",
@@ -969,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20300658",
       "published_at": "2026-11-13T23:15:50+00:00",
-      "revalidated_at": "2026-11-14T05:15:35+00:00"
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
     },
     {
       "asin": "B0G6GCK9QZ",
@@ -991,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20302263",
       "published_at": "2026-11-13T23:15:50+00:00",
-      "revalidated_at": "2026-11-14T05:15:35+00:00"
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
     },
     {
       "asin": "B0BRTDS1L1",
@@ -1013,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20302548",
       "published_at": "2026-11-13T23:15:50+00:00",
-      "revalidated_at": "2026-11-14T05:15:35+00:00"
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
     },
     {
       "asin": "B0DBLYXPBC",
@@ -1255,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20297802",
       "published_at": "2026-11-13T21:15:56+00:00",
-      "revalidated_at": "2026-11-14T05:15:35+00:00"
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
     },
     {
       "asin": "B0D95CLB9W",
@@ -1321,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20297412",
       "published_at": "2026-11-13T21:01:00+00:00",
-      "revalidated_at": "2026-11-14T05:15:35+00:00"
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
     },
     {
       "asin": "B0G252JT4R",
@@ -1343,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20305491",
       "published_at": "2026-11-13T21:01:00+00:00",
-      "revalidated_at": "2026-11-14T05:15:35+00:00"
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
     },
     {
       "asin": "B091GRQ7PK",
@@ -2355,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20303052",
       "published_at": "2026-11-13T14:30:54+00:00",
-      "revalidated_at": "2026-11-14T05:00:28+00:00"
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
     },
     {
       "asin": "B0D9Q98N6B",
@@ -2377,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20299815",
       "published_at": "2026-11-13T14:30:54+00:00",
-      "revalidated_at": "2026-11-14T05:00:28+00:00"
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
     },
     {
       "asin": "B0BYH67RXC",
@@ -2399,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20283009",
       "published_at": "2026-11-13T14:15:41+00:00",
-      "revalidated_at": "2026-11-14T05:00:28+00:00"
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
     },
     {
       "asin": "B0F2M65H3S",
@@ -2509,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20302530",
       "published_at": "2026-11-13T14:00:55+00:00",
-      "revalidated_at": "2026-11-14T05:00:28+00:00"
+      "revalidated_at": "2026-11-14T07:16:13+00:00"
     },
     {
       "asin": "B0H9CLDCGV",
@@ -2532,116 +2642,6 @@
       "deal_key": "sd:20298834",
       "published_at": "2026-11-13T14:00:55+00:00",
       "revalidated_at": "2026-11-14T05:15:35+00:00"
-    },
-    {
-      "asin": "B09VKS2T67",
-      "title": "2-Pack 6'  ABCCANOPY Stretch Spandex Table Covers (Blacklead)",
-      "title_es": "Pack de 2 fundas elásticas ABCCANOPY de spandex para mesas de 6' (Blacklead)",
-      "headline": null,
-      "post": "Este pack incluye dos fundas elásticas ABCCANOPY de spandex para mesas de 6 pies, ideales para eventos, ferias o uso doméstico. Proporcionan un ajuste elegante y profesional, fáciles de colocar y mantener.",
-      "post_en": "This pack includes two ABCCANOPY 6-foot stretch spandex table covers, ideal for events, trade shows, or home use. They provide a sleek and professional fit, easy to set up and maintain.",
-      "price_new": 9.11,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 74.0,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61lM-lwmjRL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09VKS2T67/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20302674",
-      "published_at": "2026-11-13T13:30:54+00:00",
-      "revalidated_at": "2026-11-14T06:15:44+00:00"
-    },
-    {
-      "asin": "B0G6GCP3TJ",
-      "title": "Osprey Axis Laptop Backpack w/ Laptop Sleeve, Water Bottle Pockets & Compression Straps (4 Colors)",
-      "title_es": "Mochila para portátil Osprey Axis con compartimento para portátil, bolsillos para botella y correas de compresión (4 colores)",
-      "headline": null,
-      "post": "La mochila Osprey Axis es ideal para llevar tu portátil de forma segura, con bolsillos laterales para botellas y correas de compresión. Disponible en varios colores, combina funcionalidad y comodidad para el día a día o viajes cortos.",
-      "post_en": "The Osprey Axis laptop backpack is ideal for securely carrying your laptop, featuring side water bottle pockets and compression straps. Available in multiple colors, it combines functionality and comfort for daily use or short trips.",
-      "price_new": 51.0,
-      "price_old": 85.0,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/22335861.thumb",
-      "url": "https://amazon.com/dp/B0G6GCP3TJ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20302593",
-      "published_at": "2026-11-13T13:30:54+00:00",
-      "revalidated_at": "2026-11-14T06:15:44+00:00"
-    },
-    {
-      "asin": "B0BTTSFDNK",
-      "title": "9/64\" Drill America Cobalt Quick-Change Hex Shank Drill Bit (COHEX9/64)",
-      "title_es": "Broca de cobalto de cambio rápido Drill America de 9/64\" con vástago hexagonal (COHEX9/64)",
-      "headline": null,
-      "post": "Esta broca de cobalto Drill America de 9/64\" con vástago hexagonal ofrece un cambio rápido y es ideal para perforar materiales duros. Es una herramienta duradera y eficiente para trabajos de bricolaje o profesionales.",
-      "post_en": "This Drill America 9/64\" cobalt quick-change hex shank drill bit is ideal for drilling tough materials. It's a durable and efficient tool for DIY projects or professional use.",
-      "price_new": 2.6,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 92.6,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/22335627.thumb",
-      "url": "https://amazon.com/dp/B0BTTSFDNK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20302524",
-      "published_at": "2026-11-13T13:15:45+00:00",
-      "revalidated_at": "2026-11-14T06:00:32+00:00"
-    },
-    {
-      "asin": "B08V57P86Z",
-      "title": "Instant Pot Vortex 5.7QT 4-in-1 Air Fryer with EvenCrisp Technology, Black at Amazon",
-      "title_es": "Freidora de aire Instant Pot Vortex 5.7QT 4 en 1 con tecnología EvenCrisp, Negra",
-      "headline": null,
-      "post": "Esta freidora de aire multifuncional Instant Pot Vortex de 5.7QT te permite freír, asar, hornear y recalentar con menos aceite. Su tecnología EvenCrisp asegura resultados crujientes y uniformes, ideal para cocinar de forma más saludable en tu hogar.",
-      "post_en": "This multifunctional Instant Pot Vortex 5.7QT air fryer allows you to air fry, roast, bake, and reheat with less oil. Its EvenCrisp technology ensures crispy and even results, perfect for healthier cooking at home.",
-      "price_new": 59.99,
-      "price_old": 139.99,
-      "currency": "USD",
-      "discount_pct": 57.1,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61Y-wVzY4YL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B08V57P86Z/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20301663",
-      "published_at": "2026-11-13T13:15:45+00:00",
-      "revalidated_at": "2026-11-14T06:15:44+00:00"
-    },
-    {
-      "asin": "B0G87CB5VB",
-      "title": "Magic: The Gathering Marvel Super Heroes Bundle at Amazon",
-      "title_es": "Pack Magic: The Gathering Marvel Super Heroes",
-      "headline": null,
-      "post": "Descubre el emocionante crossover con este pack de Magic: The Gathering Marvel Super Heroes, que combina el universo de Marvel con el juego de cartas. Es perfecto para coleccionistas y jugadores que buscan expandir sus mazos con personajes icónicos.",
-      "post_en": "Discover the exciting crossover with this Magic: The Gathering Marvel Super Heroes Bundle, combining the Marvel universe with the card game. It's perfect for collectors and players looking to expand their decks with iconic characters.",
-      "price_new": 44.99,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 35.7,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/7187j9sgLsL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G87CB5VB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20302269",
-      "published_at": "2026-11-13T13:00:49+00:00",
-      "revalidated_at": "2026-11-14T05:45:31+00:00"
     }
   ]
 }
