@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T00:23:14+00:00",
+  "generated_at": "2026-11-15T00:30:24+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -243,7 +243,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20305725",
       "published_at": "2026-11-14T22:45:49+00:00",
-      "revalidated_at": "2026-11-14T22:45:49+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B0GDXTS4HZ",
@@ -265,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20290680",
       "published_at": "2026-11-14T22:45:49+00:00",
-      "revalidated_at": "2026-11-14T22:45:49+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B079TKWFJQ",
@@ -287,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20310300",
       "published_at": "2026-11-14T22:45:49+00:00",
-      "revalidated_at": "2026-11-14T22:45:49+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B09NRBRZKW",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20273766",
       "published_at": "2026-11-14T20:45:41+00:00",
-      "revalidated_at": "2026-11-14T22:45:49+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B0002KO0DQ",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20295243",
       "published_at": "2026-11-14T17:00:44+00:00",
-      "revalidated_at": "2026-11-14T22:45:49+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B0CN34Q58Y",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20309163",
       "published_at": "2026-11-14T17:00:44+00:00",
-      "revalidated_at": "2026-11-14T22:45:49+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B0GK26GH3W",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20309490",
       "published_at": "2026-11-14T17:00:44+00:00",
-      "revalidated_at": "2026-11-14T22:45:49+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B0CYM2Y154",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20309376",
       "published_at": "2026-11-14T17:00:44+00:00",
-      "revalidated_at": "2026-11-14T22:45:49+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B0GKC1DJCK",
@@ -1541,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20308113",
       "published_at": "2026-11-14T13:15:42+00:00",
-      "revalidated_at": "2026-11-14T22:45:49+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B0G8DP77DK",
@@ -1590,10 +1590,10 @@
     {
       "asin": "B0FDGTG8HP",
       "title": "EF ECOFLOW Rapid Pro 146W 4-Port GaN Charging Block (3x USB-C + USB-A) at Amazon",
-      "title_es": null,
+      "title_es": "Bloque de carga GaN EF ECOFLOW Rapid Pro 146W de 4 puertos (3x USB-C + USB-A)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este cargador GaN de alta potencia es ideal para cargar múltiples dispositivos rápidamente. Cuenta con 3 puertos USB-C y 1 USB-A, perfecto para viajeros y usuarios con muchos gadgets.",
+      "post_en": "This high-power GaN charger is ideal for quickly charging multiple devices. It features 3 USB-C and 1 USB-A port, perfect for travelers and users with many gadgets.",
       "price_new": 37.99,
       "price_old": 66.11,
       "currency": "USD",
@@ -1612,10 +1612,10 @@
     {
       "asin": "B083TCZDMT",
       "title": "Contigo Byron Vacuum-Insulated Stainless Steel Travel Mug, Licorice, 16oz",
-      "title_es": null,
+      "title_es": "Taza de viaje Contigo Byron de acero inoxidable con aislamiento al vacío, Licorice, 16oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mantén tus bebidas calientes o frías durante horas con esta taza de viaje Contigo Byron. Su diseño a prueba de derrames la hace ideal para el día a día o tus desplazamientos.",
+      "post_en": "Keep your drinks hot or cold for hours with this Contigo Byron travel mug. Its spill-proof design makes it ideal for daily use or your commutes.",
       "price_new": 12.49,
       "price_old": 19.49,
       "currency": "USD",
@@ -1634,10 +1634,10 @@
     {
       "asin": "B0GHVXWTL2",
       "title": "Solar-Powered Succulent Turtle Garden Statue w/ 7 LED Lights (Various)",
-      "title_es": null,
+      "title_es": "Estatua de tortuga con suculentas y energía solar con 7 luces LED",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Decora tu jardín con esta encantadora estatua de tortuga con suculentas que se ilumina al anochecer. Funciona con energía solar y añade un toque especial a cualquier espacio exterior.",
+      "post_en": "Decorate your garden with this charming succulent turtle statue that lights up at dusk. It's solar-powered and adds a special touch to any outdoor space.",
       "price_new": 12.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -1656,10 +1656,10 @@
     {
       "asin": "B0DNYKC7BQ",
       "title": "Lepunuo Women's Sleeveless Flowy Wide Leg Pants 2-Piece Matching Set (Variou) from",
-      "title_es": null,
+      "title_es": "Conjunto de 2 piezas Lepunuo sin mangas con pantalones anchos fluidos para mujer",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este conjunto elegante y cómodo de Lepunuo es perfecto para un look casual o de verano. Incluye una parte superior sin mangas y pantalones anchos fluidos, ideal para cualquier ocasión.",
+      "post_en": "This elegant and comfortable Lepunuo set is perfect for a casual or summer look. It includes a sleeveless top and flowy wide-leg pants, ideal for any occasion.",
       "price_new": 14.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1678,10 +1678,10 @@
     {
       "asin": "B0FMS727XH",
       "title": "412-Piece LEGO Seasonal: Looney Tunes - Sweetheart Tweety Bird (40824, 2025) at Amazon",
-      "title_es": null,
+      "title_es": "LEGO Seasonal: Looney Tunes - Piolín Enamorado (40824, 2025) de 412 piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Construye al adorable Piolín Enamorado con este set LEGO Seasonal de Looney Tunes. Es un regalo perfecto para fans de LEGO y de los clásicos dibujos animados. 💖",
+      "post_en": "Build the adorable Sweetheart Tweety Bird with this LEGO Seasonal Looney Tunes set. It's a perfect gift for LEGO and classic cartoon fans. 💖",
       "price_new": 24.49,
       "price_old": 34.99,
       "currency": "USD",
@@ -1700,10 +1700,10 @@
     {
       "asin": "B0H75HN3RZ",
       "title": "Roadbox Men's Quarter-Zip Fleece-Lined Thermal Golf Pullover",
-      "title_es": null,
+      "title_es": "Sudadera de golf térmica Roadbox de hombre con forro polar y cremallera de cuarto",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mantente abrigado en el campo de golf con esta sudadera térmica Roadbox con forro polar. Su diseño de cremallera de cuarto ofrece comodidad y estilo para tus actividades al aire libre.",
+      "post_en": "Stay warm on the golf course with this Roadbox thermal pullover featuring a fleece lining. Its quarter-zip design offers comfort and style for your outdoor activities.",
       "price_new": 9.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1722,10 +1722,10 @@
     {
       "asin": "B0D14G7L3Z",
       "title": "65W Max 3-Port EF ECOFLOW USB-C GaN Charger w/ 100W 3.3' Cable at Amazon",
-      "title_es": null,
+      "title_es": "Cargador GaN EF ECOFLOW USB-C de 65W Max con 3 puertos y cable de 100W de 1m",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Carga tus dispositivos rápidamente con este compacto cargador GaN de EF ECOFLOW de 65W con 3 puertos USB-C. Incluye un cable de 100W, ideal para laptops y smartphones.",
+      "post_en": "Charge your devices quickly with this compact 65W EF ECOFLOW GaN charger featuring 3 USB-C ports. It includes a 100W cable, ideal for laptops and smartphones.",
       "price_new": 16.99,
       "price_old": 29.99,
       "currency": "USD",
@@ -1744,10 +1744,10 @@
     {
       "asin": "B0DTZT8VNB",
       "title": "Craftsman High-Visibility Folding Utility Knife",
-      "title_es": null,
+      "title_es": "Cuchillo utilitario plegable de alta visibilidad Craftsman",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este cuchillo utilitario plegable Craftsman es una herramienta esencial para el hogar o el trabajo. Su diseño de alta visibilidad facilita encontrarlo y su hoja es ideal para cortes precisos.",
+      "post_en": "This Craftsman folding utility knife is an essential tool for home or work. Its high-visibility design makes it easy to find, and its blade is ideal for precise cuts.",
       "price_new": 7.98,
       "price_old": 35.0,
       "currency": "USD",
@@ -1766,10 +1766,10 @@
     {
       "asin": "B0HPT1ZV7Q",
       "title": "MRGLAS Magnetic Mini Tripod Selfie Stick for iPhone - 4.5\" Pocket Stand with Wireless Remote, Detachable Clamp, 360° Rotatable for MagSafe",
-      "title_es": null,
+      "title_es": "Trípode magnético mini MRGLAS Selfie Stick para iPhone con control remoto y MagSafe",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Captura los mejores momentos con este trípode y palo selfie magnético MRGLAS, compatible con MagSafe y iPhones. Incluye control remoto inalámbrico y un diseño compacto para llevar a todas partes.",
+      "post_en": "Capture the best moments with this MRGLAS magnetic mini tripod and selfie stick, compatible with MagSafe and iPhones. It includes a wireless remote and a compact design to take everywhere.",
       "price_new": 17.99,
       "price_old": 36.99,
       "currency": "USD",
@@ -1788,10 +1788,10 @@
     {
       "asin": "B095W26MM8",
       "title": "5-Piece Decute Stainless Steel Cuticle Trimmer Set w/ Pusher & Scissors (Green or Pink)",
-      "title_es": null,
+      "title_es": "Set de 5 piezas Decute de acero inoxidable para cutículas con empujador y tijeras",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Cuida tus uñas con este completo set de manicura Decute de 5 piezas de acero inoxidable. Incluye herramientas esenciales como empujador y tijeras para un acabado profesional en casa.",
+      "post_en": "Take care of your nails with this complete 5-piece Decute stainless steel manicure set. It includes essential tools like a pusher and scissors for a professional finish at home.",
       "price_new": 4.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20307393",
       "published_at": "2026-11-14T07:30:44+00:00",
-      "revalidated_at": "2026-11-14T22:45:49+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B0FJZMKVBY",
@@ -1827,15 +1827,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20293926",
       "published_at": "2026-11-14T07:30:44+00:00",
-      "revalidated_at": "2026-11-14T22:45:49+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B0DP18BZHP",
       "title": "Matagot Saltfjord Strategy Board Game (1-4 Players)",
-      "title_es": null,
+      "title_es": "Juego de Mesa de Estrategia Matagot Saltfjord (1-4 Jugadores)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en el mundo nórdico con Saltfjord, un juego de mesa de estrategia de Matagot para 1 a 4 jugadores. Construye tu imperio y gestiona recursos en este desafiante título que promete horas de diversión táctica.",
+      "post_en": "Dive into the Nordic world with Saltfjord, a strategy board game by Matagot for 1 to 4 players. Build your empire and manage resources in this challenging title that promises hours of tactical fun.",
       "price_new": 37.99,
       "price_old": 65.99,
       "currency": "USD",
@@ -1849,15 +1849,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20307471",
       "published_at": "2026-11-14T07:30:44+00:00",
-      "revalidated_at": "2026-11-14T22:45:49+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B0918VD8MV",
       "title": "12-Pack 0.88-Oz LesserEvil Himalayan Pink Salt Organic Popcorn",
-      "title_es": null,
+      "title_es": "Pack de 12 LesserEvil Palomitas Orgánicas con Sal Rosa del Himalaya (0.88 oz cada una)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de un snack saludable con este pack de 12 bolsas de palomitas orgánicas LesserEvil. Con sal rosa del Himalaya, son perfectas para llevar o para una tarde de cine en casa.",
+      "post_en": "Enjoy a healthy snack with this 12-pack of LesserEvil organic popcorn bags. Featuring Himalayan pink salt, they are perfect for on-the-go or a movie night at home.",
       "price_new": 0.53,
       "price_old": 35.0,
       "currency": "USD",
@@ -1876,10 +1876,10 @@
     {
       "asin": "B0F8BH28ZF",
       "title": "vansoet 200W Car Power Inverter DC 12V to 110V AC Converter w/ 2x AC Outlets, 2x USB-C & 2x USB-A Ports",
-      "title_es": null,
+      "title_es": "Inversor de Corriente vansoet de 200W para Coche (DC 12V a 110V AC) con 2 Tomas AC, 2 USB-C y 2 USB-A",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El inversor de corriente vansoet de 200W convierte la energía de tu coche (12V DC) a 110V AC. Cuenta con múltiples puertos (2 AC, 2 USB-C, 2 USB-A) para cargar todos tus dispositivos en tus viajes.",
+      "post_en": "The vansoet 200W car power inverter converts your car's 12V DC power to 110V AC. It features multiple ports (2 AC, 2 USB-C, 2 USB-A) to charge all your devices on your travels.",
       "price_new": 14.94,
       "price_old": 34.99,
       "currency": "USD",
@@ -1898,10 +1898,10 @@
     {
       "asin": "B0FPXDFMGT",
       "title": "Threekey 3-in-1 Foldable MagSafe Charging Station for Apple Devices, Qi2 25W & Made for Apple Watch / 45W Adapter –",
-      "title_es": null,
+      "title_es": "Estación de Carga Plegable Threekey 3 en 1 MagSafe para Dispositivos Apple, Qi2 25W y Made for Apple Watch (Adaptador 45W)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Carga tus dispositivos Apple de forma simultánea y eficiente con la estación Threekey 3 en 1. Es plegable, compatible con MagSafe y Made for Apple Watch, ideal para organizar tu espacio o llevar de viaje. 🔋",
+      "post_en": "Charge your Apple devices simultaneously and efficiently with the Threekey 3-in-1 station. It's foldable, MagSafe compatible, and Made for Apple Watch, perfect for organizing your space or traveling. 🔋",
       "price_new": 35.99,
       "price_old": 69.99,
       "currency": "USD",
@@ -1920,10 +1920,10 @@
     {
       "asin": "B085284YHK",
       "title": "CRAFTSMAN Electric Pressure Washer, Cold Water, 2100-PSI, 1.2 GPM, Corded (CMEPW2100) at Amazon",
-      "title_es": null,
+      "title_es": "Hidrolavadora Eléctrica CRAFTSMAN de Agua Fría, 2100-PSI, 1.2 GPM (CMEPW2100)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La hidrolavadora eléctrica CRAFTSMAN CMEPW2100 ofrece una potente limpieza con 2100 PSI y 1.2 GPM. Es perfecta para tareas de limpieza en exteriores como patios, vehículos y fachadas.",
+      "post_en": "The CRAFTSMAN CMEPW2100 electric pressure washer offers powerful cleaning with 2100 PSI and 1.2 GPM. It's perfect for outdoor cleaning tasks like patios, vehicles, and facades.",
       "price_new": 167.3,
       "price_old": 239.0,
       "currency": "USD",
@@ -1942,10 +1942,10 @@
     {
       "asin": "B0G86Z6QYF",
       "title": "60-Card Magic: The Gathering Secrets of Strixhaven Eerie Theme Deck",
-      "title_es": null,
+      "title_es": "Mazo Temático Eerie de 60 Cartas Magic: The Gathering Secrets of Strixhaven",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Expande tu colección o inicia tu aventura en Magic: The Gathering con este mazo temático Eerie de 60 cartas de Secrets of Strixhaven. Es una excelente opción para nuevos jugadores o para quienes buscan añadir un toque místico a sus partidas.",
+      "post_en": "Expand your collection or start your Magic: The Gathering adventure with this 60-card Eerie theme deck from Secrets of Strixhaven. It's an excellent choice for new players or those looking to add a mystical touch to their games.",
       "price_new": 13.29,
       "price_old": 35.0,
       "currency": "USD",
@@ -1964,10 +1964,10 @@
     {
       "asin": "B0F17W75ZF",
       "title": "YXOTJHS Kids Watercolor Paint with Water Coloring Book Set",
-      "title_es": null,
+      "title_es": "Set YXOTJHS de Pintura de Acuarela con Agua y Libro para Colorear para Niños",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Fomenta la creatividad de los más pequeños con el set YXOTJHS de acuarelas con agua y libro para colorear. Es una actividad divertida y sin desorden, ideal para desarrollar habilidades artísticas. 🎨",
+      "post_en": "Foster children's creativity with the YXOTJHS watercolor paint with water and coloring book set. It's a fun, mess-free activity, ideal for developing artistic skills. 🎨",
       "price_new": 4.79,
       "price_old": 35.0,
       "currency": "USD",
@@ -1986,10 +1986,10 @@
     {
       "asin": "B0F911KQDP",
       "title": "2-Pack 6\" Stainless Steel Baseball Cap Hat Rack Wall Mount Organizer",
-      "title_es": null,
+      "title_es": "Pack de 2 Organizadores de Pared de Acero Inoxidable de 6\" para Gorras de Béisbol",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mantén tus gorras organizadas y a la vista con este pack de 2 organizadores de pared de acero inoxidable de 6\". Son ideales para cualquier aficionado a las gorras que busque una solución de almacenamiento elegante y funcional.",
+      "post_en": "Keep your caps organized and on display with this 2-pack of 6\" stainless steel wall mount organizers. They are ideal for any cap enthusiast looking for a stylish and functional storage solution.",
       "price_new": 4.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -2008,10 +2008,10 @@
     {
       "asin": "B0BX5ZT7FN",
       "title": "19\" x 12\" Padoor Absorbent Pet Feeding Mat w/ Non-Slip Backing (Dark Grey)",
-      "title_es": null,
+      "title_es": "Alfombrilla Absorbente Padoor de 19\" x 12\" para Comederos de Mascotas con Base Antideslizante (Gris Oscuro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Evita derrames y mantén el área de alimentación de tu mascota limpia con la alfombrilla absorbente Padoor de 19\" x 12\". Su base antideslizante asegura que los cuencos permanezcan en su lugar.",
+      "post_en": "Prevent spills and keep your pet's feeding area clean with the 19\" x 12\" Padoor absorbent pet feeding mat. Its non-slip backing ensures bowls stay in place.",
       "price_new": 5.27,
       "price_old": 35.0,
       "currency": "USD",
@@ -2030,10 +2030,10 @@
     {
       "asin": "B0FCY1Y4RB",
       "title": "ESR Classic Hybrid for iPhone 18 Pro Max/17 Pro Max Case with Flex Stand",
-      "title_es": null,
+      "title_es": "Funda ESR Classic Hybrid para iPhone 18 Pro Max/17 Pro Max con Soporte Flexible",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta funda ESR Classic Hybrid ofrece protección robusta para tu iPhone 18 Pro Max o 17 Pro Max, incorporando un práctico soporte flexible. Es ideal para quienes buscan seguridad y comodidad para ver contenido en su dispositivo.",
+      "post_en": "This ESR Classic Hybrid case provides robust protection for your iPhone 18 Pro Max or 17 Pro Max, featuring a practical flex stand. It's ideal for users seeking security and convenience for viewing content on their device.",
       "price_new": 20.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -2052,10 +2052,10 @@
     {
       "asin": "B0H8BS4NTL",
       "title": "WISELIFE 24 Pack Bulk Christmas Gift Bags with Handles, Reusable Non-Woven Tote Bags with 4 Festive Designs",
-      "title_es": null,
+      "title_es": "Paquete de 24 Bolsas de Regalo de Navidad WISELIFE con Asas, Reutilizables y 4 Diseños Festivos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este paquete WISELIFE incluye 24 bolsas de regalo de Navidad reutilizables con asas, perfectas para envolver tus presentes con estilo. Con 4 diseños festivos, son una opción ecológica y práctica para las celebraciones navideñas. 🎄",
+      "post_en": "This WISELIFE pack includes 24 reusable Christmas gift bags with handles, perfect for wrapping your presents with style. Featuring 4 festive designs, they are an eco-friendly and practical option for holiday celebrations. 🎄",
       "price_new": 12.5,
       "price_old": 24.99,
       "currency": "USD",
@@ -2074,10 +2074,10 @@
     {
       "asin": "B08F9RFJ2K",
       "title": "SKIL 15 Amp 10-Inch Jobsite Table Saw with Folding Stand-TS6307-00",
-      "title_es": null,
+      "title_es": "Sierra de Mesa para Obra SKIL 15 Amp 10 Pulgadas con Soporte Plegable - TS6307-00",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La sierra de mesa SKIL TS6307-00 es una herramienta potente de 15 amperios con una hoja de 10 pulgadas, ideal para trabajos en obra. Su soporte plegable facilita el transporte y almacenamiento, siendo perfecta para profesionales o aficionados al bricolaje con proyectos exigentes.",
+      "post_en": "The SKIL TS6307-00 jobsite table saw is a powerful 15-amp tool with a 10-inch blade, ideal for construction site work. Its folding stand makes transport and storage easy, perfect for professionals or DIY enthusiasts with demanding projects.",
       "price_new": 33.39,
       "price_old": 265.61,
       "currency": "USD",
@@ -2553,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20306514",
       "published_at": "2026-11-14T01:00:48+00:00",
-      "revalidated_at": "2026-11-14T22:45:49+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B09MGB275D",
@@ -2597,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20306352",
       "published_at": "2026-11-14T00:45:46+00:00",
-      "revalidated_at": "2026-11-14T22:31:08+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B0H1J49PCW",
@@ -2619,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20292786",
       "published_at": "2026-11-14T00:45:46+00:00",
-      "revalidated_at": "2026-11-14T22:31:08+00:00"
+      "revalidated_at": "2026-11-15T00:30:24+00:00"
     },
     {
       "asin": "B0B8Y754PS",
