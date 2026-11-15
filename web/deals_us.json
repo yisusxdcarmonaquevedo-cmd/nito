@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T00:15:39+00:00",
+  "generated_at": "2026-11-15T00:23:14+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -14,11 +14,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 82.0,
-      "rating": null,
+      "rating": 4.6,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/3/5/8/6/2/3/450x450/22354842.thumb",
+      "image": "https://m.media-amazon.com/images/I/61a-CSSkCvL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FGFM22K3/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20309940",
@@ -309,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20308848",
       "published_at": "2026-11-14T22:31:08+00:00",
-      "revalidated_at": "2026-11-14T22:31:08+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B0H9SD3RTV",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20305197",
       "published_at": "2026-11-14T22:31:08+00:00",
-      "revalidated_at": "2026-11-14T22:31:08+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B0DF98NCSJ",
@@ -930,10 +930,10 @@
     {
       "asin": "B0GK26GH3W",
       "title": "3-Pk 64-Oz Armor All Ultra Shine Car Wash & Wax at Amazon",
-      "title_es": null,
+      "title_es": "Pack de 3 Armor All Ultra Shine Car Wash & Wax (64 oz)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 3 lavados y ceras Armor All Ultra Shine es ideal para mantener tu coche reluciente. Ofrece una limpieza profunda y un acabado brillante, perfecto para entusiastas del automóvil que buscan facilidad y eficacia. ✨",
+      "post_en": "This 3-pack of Armor All Ultra Shine Car Wash & Wax is ideal for keeping your car sparkling. It provides a deep clean and a brilliant finish, perfect for car enthusiasts seeking ease and effectiveness. ✨",
       "price_new": 8.55,
       "price_old": 30.84,
       "currency": "USD",
@@ -952,10 +952,10 @@
     {
       "asin": "B0CYM2Y154",
       "title": "608-Piece LEGO Icons: Botanical Collection - Poinsettia (10370, 2024) at Amazon",
-      "title_es": null,
+      "title_es": "LEGO Icons: Botanical Collection - Flor de Pascua (10370, 608 piezas)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Crea una hermosa Flor de Pascua LEGO con este set de la Botanical Collection. Es un proyecto de construcción relajante y una pieza decorativa única para amantes de las plantas y LEGO.",
+      "post_en": "Create a beautiful LEGO Poinsettia with this set from the Botanical Collection. It's a relaxing building project and a unique decorative piece for plant and LEGO enthusiasts.",
       "price_new": 28.49,
       "price_old": 49.99,
       "currency": "USD",
@@ -974,10 +974,10 @@
     {
       "asin": "B0GKC1DJCK",
       "title": "Nespresso Vertuo Next Coffee Machine with Milk Frother, Creamy White at Amazon",
-      "title_es": null,
+      "title_es": "Cafetera Nespresso Vertuo Next con espumador de leche, Blanco Cremoso",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de una variedad de cafés con la cafetera Nespresso Vertuo Next y su espumador de leche integrado. Prepara desde un espresso hasta un café largo con espuma, ideal para amantes del café que buscan comodidad.",
+      "post_en": "Enjoy a variety of coffees with the Nespresso Vertuo Next coffee machine and its integrated milk frother. Prepare anything from an espresso to a long coffee with foam, ideal for coffee lovers seeking convenience.",
       "price_new": 154.96,
       "price_old": 239.95,
       "currency": "USD",
@@ -991,15 +991,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20308278",
       "published_at": "2026-11-14T16:45:46+00:00",
-      "revalidated_at": "2026-11-14T22:31:08+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B0B11NG8XM",
       "title": "4-Piece Klein Tools 80067 Electrical Test Kit",
-      "title_es": null,
+      "title_es": "Kit de prueba eléctrica Klein Tools 80067 de 4 piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este kit de prueba eléctrica Klein Tools 80067 es esencial para profesionales y aficionados al bricolaje. Incluye las herramientas clave para verificar circuitos y realizar mediciones eléctricas con seguridad.",
+      "post_en": "This 4-piece Klein Tools 80067 Electrical Test Kit is essential for professionals and DIY enthusiasts. It includes key tools for checking circuits and performing electrical measurements safely.",
       "price_new": 72.0,
       "price_old": 119.99,
       "currency": "USD",
@@ -1018,10 +1018,10 @@
     {
       "asin": "B0GQ6K2Z48",
       "title": "Final Fantasy VII: Rebirth (Nintendo Switch 2, Game-Key Card) at Amazon",
-      "title_es": null,
+      "title_es": "Final Fantasy VII: Rebirth (Nintendo Switch 2, Tarjeta con código de juego)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en la épica aventura de Final Fantasy VII: Rebirth para Nintendo Switch 2. Este título ofrece una historia cautivadora y gráficos impresionantes para los fans de los RPG.",
+      "post_en": "Immerse yourself in the epic adventure of Final Fantasy VII: Rebirth for Nintendo Switch 2. This title offers a captivating story and stunning graphics for RPG fans.",
       "price_new": 34.99,
       "price_old": 49.99,
       "currency": "USD",
@@ -1040,10 +1040,10 @@
     {
       "asin": "B07FBL5K1C",
       "title": "WANDF Personal Item Travel Bag, Carry On Duffle Bag for Women (18x14x8 inches)",
-      "title_es": null,
+      "title_es": "Bolsa de viaje WANDF para artículo personal, estilo duffle (18x14x8 pulgadas)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta bolsa de viaje WANDF está diseñada para ser tu artículo personal en el avión, cumpliendo con las medidas de cabina. Es ligera y espaciosa, perfecta para escapadas cortas o como complemento de equipaje.",
+      "post_en": "This WANDF travel bag is designed as a personal item for flights, complying with cabin dimensions. It's lightweight and spacious, perfect for short getaways or as supplementary luggage.",
       "price_new": 5.99,
       "price_old": 11.99,
       "currency": "USD",
@@ -1062,10 +1062,10 @@
     {
       "asin": "B07C8V4FDR",
       "title": "Cuisinart Compact 2 Lb. Automatic Programmable Bread Maker, CBK-110NAS | Bread maker with 12 programs, 3 loaf sizes, 3 crust shades",
-      "title_es": null,
+      "title_es": "Panificadora automática programable Cuisinart Compact CBK-110NAS (2 lb)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Prepara pan casero fresco con la panificadora Cuisinart Compact CBK-110NAS, que ofrece 12 programas y 3 tamaños de pan. Es ideal para quienes disfrutan del pan recién hecho con mínimo esfuerzo.",
+      "post_en": "Bake fresh homemade bread with the Cuisinart Compact CBK-110NAS automatic programmable bread maker, offering 12 programs and 3 loaf sizes. It's ideal for those who enjoy fresh bread with minimal effort.",
       "price_new": 106.79,
       "price_old": 169.95,
       "currency": "USD",
@@ -1084,10 +1084,10 @@
     {
       "asin": "B07PBCTN92",
       "title": "12-Pack 20-Oz vitaminwater Zero Sugar Flavored Water (Strawberry Lemonade) 2 for",
-      "title_es": null,
+      "title_es": "Pack de 12 vitaminwater Zero Sugar (20 oz, Fresa Limonada)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de la hidratación refrescante con este pack de 12 botellas de vitaminwater Zero Sugar sabor Fresa Limonada. Es una opción deliciosa y sin azúcar para mantenerse hidratado durante el día.",
+      "post_en": "Enjoy refreshing hydration with this 12-pack of vitaminwater Zero Sugar in Strawberry Lemonade flavor. It's a delicious, sugar-free option to stay hydrated throughout the day.",
       "price_new": 16.7,
       "price_old": 34.98,
       "currency": "USD",
@@ -1106,10 +1106,10 @@
     {
       "asin": "B0GRH2YJ6D",
       "title": "TuyLuxe 4-Pack 326-LED Solar Motion Sensor Outdoor Security Flood Lights",
-      "title_es": null,
+      "title_es": "Pack de 4 focos de seguridad solares TuyLuxe con sensor de movimiento (326-LED)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Ilumina y protege tu hogar con este pack de 4 focos solares TuyLuxe con sensor de movimiento para exteriores. Son fáciles de instalar y proporcionan una iluminación potente y eficiente para mayor seguridad.",
+      "post_en": "Illuminate and secure your home with this 4-pack of TuyLuxe solar motion sensor outdoor security flood lights. They are easy to install and provide powerful, efficient lighting for enhanced safety.",
       "price_new": 25.49,
       "price_old": 52.99,
       "currency": "USD",
@@ -1128,10 +1128,10 @@
     {
       "asin": "B0GYN6S2X9",
       "title": "2-Pack 3/8-Inch Drive 10mm Deep Socket, 6-Point, CR-V Steel with Detachable Key Ring",
-      "title_es": null,
+      "title_es": "Pack de 2 vasos profundos de 10 mm (3/8 pulgadas, 6 puntas, acero CR-V) con llavero",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 2 vasos profundos de 10 mm es perfecto para trabajos de mecánica y bricolaje que requieren mayor alcance. Fabricados en acero CR-V, son duraderos y vienen con un práctico llavero.",
+      "post_en": "This 2-pack of 10mm deep sockets is perfect for mechanical and DIY tasks requiring extended reach. Made from CR-V steel, they are durable and come with a practical detachable key ring.",
       "price_new": 4.99,
       "price_old": 9.99,
       "currency": "USD",
@@ -1150,10 +1150,10 @@
     {
       "asin": "B0CV9QG1D3",
       "title": "Kasa HS200 Smart Wi-Fi Single Pole Light Switch (Black) at Amazon",
-      "title_es": null,
+      "title_es": "Interruptor de Luz Inteligente Kasa HS200 Wi-Fi Unipolar (Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Moderniza tu hogar con este interruptor de luz inteligente Kasa HS200, que permite controlar la iluminación desde cualquier lugar a través de Wi-Fi. Es ideal para quienes buscan automatizar su hogar y añadir comodidad con un dispositivo fácil de instalar.",
+      "post_en": "Upgrade your home with this Kasa HS200 smart light switch, allowing you to control your lighting from anywhere via Wi-Fi. It's ideal for those looking to automate their home and add convenience with an easy-to-install device.",
       "price_new": 10.99,
       "price_old": 15.99,
       "currency": "USD",
@@ -1172,10 +1172,10 @@
     {
       "asin": "B0B4YKDJTK",
       "title": "14-Piece Snapware Total Solutions Plastic Food Storage Set (28-Total Piece, Mixed Sizes)",
-      "title_es": null,
+      "title_es": "Set de 14 Recipientes de Almacenamiento Snapware Total Solutions (28 Piezas, Tamaños Surtidos)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Organiza tu cocina con este set de 14 recipientes Snapware Total Solutions, que incluye 28 piezas en total (recipientes y tapas) de tamaños variados. Perfecto para almacenar alimentos de forma segura y mantener tu despensa ordenada.",
+      "post_en": "Organize your kitchen with this 14-piece Snapware Total Solutions storage set, including 28 total pieces (containers and lids) in mixed sizes. It's perfect for safely storing food and keeping your pantry tidy.",
       "price_new": 14.56,
       "price_old": 35.0,
       "currency": "USD",
@@ -1189,15 +1189,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20304879",
       "published_at": "2026-11-14T15:00:41+00:00",
-      "revalidated_at": "2026-11-14T22:31:08+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B081NJCKJL",
       "title": "The School for Good and Evil: The Complete 6-Book Collection (Kindle Edition)",
-      "title_es": null,
+      "title_es": "The School for Good and Evil: Colección Completa de 6 Libros (Edición Kindle)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Sumérgete en el mundo mágico de The School for Good and Evil con esta colección completa de 6 libros en edición Kindle. Ideal para jóvenes lectores y fans de la fantasía que buscan una saga emocionante y llena de aventuras. 📚",
+      "post_en": "Dive into the magical world of The School for Good and Evil with this complete 6-book collection in Kindle edition. It's ideal for young readers and fantasy fans looking for an exciting and adventure-filled saga. 📚",
       "price_new": 5.99,
       "price_old": 28.43,
       "currency": "USD",
@@ -1216,10 +1216,10 @@
     {
       "asin": "B0GZVJJ3MN",
       "title": "Beet Root Capsules - Nitric Oxide Booster for Men and Women, Beetroot Supplements 1000 mg w/ L-Citrulline",
-      "title_es": null,
+      "title_es": "Cápsulas de Remolacha - Potenciador de Óxido Nítrico para Hombres y Mujeres, 1000 mg con L-Citrulina",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mejora tu rendimiento y salud cardiovascular con estas cápsulas de remolacha, diseñadas como potenciador de óxido nítrico para hombres y mujeres. Contienen 1000 mg de remolacha con L-Citrulina, ideales para quienes buscan un suplemento natural para la energía y la circulación.",
+      "post_en": "Enhance your performance and cardiovascular health with these Beet Root Capsules, designed as a nitric oxide booster for men and women. They contain 1000 mg of beetroot with L-Citrulline, ideal for those seeking a natural supplement for energy and circulation.",
       "price_new": 9.89,
       "price_old": 34.99,
       "currency": "USD",
@@ -1238,10 +1238,10 @@
     {
       "asin": "B0FMS6SHX5",
       "title": "176 Pcs LEGO Friends Heartlake City Convenience Store (42680)",
-      "title_es": null,
+      "title_es": "LEGO Friends Heartlake City Tienda de Conveniencia (42680) de 176 Piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Construye y juega con el set LEGO Friends Heartlake City Tienda de Conveniencia (42680), que incluye 176 piezas para horas de diversión. Es perfecto para niños y niñas que disfrutan de los juegos de rol y las construcciones creativas.",
+      "post_en": "Build and play with the LEGO Friends Heartlake City Convenience Store (42680) set, featuring 176 pieces for hours of fun. It's perfect for children who enjoy role-playing games and creative building.",
       "price_new": 11.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1260,10 +1260,10 @@
     {
       "asin": "B0DZXG1BYQ",
       "title": "Ecovacs Deebot N20e+ Robot Vacuum & Mop w/ Bagless Self-Emptying Base (Black)",
-      "title_es": null,
+      "title_es": "Robot Aspirador y Fregasuelos Ecovacs Deebot N20e+ con Base de Vaciado Automático sin Bolsa (Negro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mantén tu hogar impecable con el robot aspirador y fregasuelos Ecovacs Deebot N20e+, que cuenta con una práctica base de vaciado automático sin bolsa. Este dispositivo es ideal para quienes buscan una limpieza eficiente y sin esfuerzo en su día a día.",
+      "post_en": "Keep your home spotless with the Ecovacs Deebot N20e+ Robot Vacuum & Mop, featuring a convenient bagless self-emptying base. This device is ideal for those seeking efficient and effortless cleaning in their daily lives.",
       "price_new": 188.99,
       "price_old": 399.99,
       "currency": "USD",
@@ -1282,10 +1282,10 @@
     {
       "asin": "B0DTKKB937",
       "title": "PUMA Women's Doer Sling Backpack, Granola, One Size | Adjustable Strap, Water Bottle Pocket and Zip Pockets, variouse colors",
-      "title_es": null,
+      "title_es": "Mochila Bandolera PUMA Doer para Mujer, Granola, Talla Única",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Lleva tus esenciales con estilo en esta mochila bandolera PUMA Doer, que ofrece una correa ajustable, bolsillo para botella de agua y compartimentos con cremallera. Es un accesorio versátil y práctico para el día a día, disponible en varios colores.",
+      "post_en": "Carry your essentials in style with this PUMA Doer Sling Backpack, offering an adjustable strap, water bottle pocket, and zip pockets. It's a versatile and practical accessory for daily use, available in various colors.",
       "price_new": 10.26,
       "price_old": 19.23,
       "currency": "USD",
@@ -1304,10 +1304,10 @@
     {
       "asin": "B0C5YHX4KS",
       "title": "Bosch T307BFP 3 pc. 4-1/2 in. 12 TPI Precision for Hardwood Jig Saw Blades",
-      "title_es": null,
+      "title_es": "Cuchillas de Sierra de Calar Bosch T307BFP de Precisión para Madera Dura, 3 Piezas (4-1/2 pulg., 12 TPI)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Consigue cortes precisos en madera dura con este set de 3 cuchillas de sierra de calar Bosch T307BFP de 4-1/2 pulgadas y 12 TPI. Son herramientas esenciales para profesionales y entusiastas del bricolaje que buscan calidad y durabilidad.",
+      "post_en": "Achieve precise cuts in hardwood with this set of 3 Bosch T307BFP Jig Saw Blades, 4-1/2 inches and 12 TPI. These are essential tools for professionals and DIY enthusiasts seeking quality and durability.",
       "price_new": 6.15,
       "price_old": 11.48,
       "currency": "USD",
@@ -1326,10 +1326,10 @@
     {
       "asin": "B0B816VMG9",
       "title": "2-qt Victoria Cast Iron Saucepan at Amazon",
-      "title_es": null,
+      "title_es": "Cacerola de Hierro Fundido Victoria de 2 Cuartos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Prepara tus salsas y guisos favoritos en esta duradera cacerola de hierro fundido Victoria de 2 cuartos de capacidad. Es ideal para cocineros que valoran la retención de calor superior y la versatilidad en la cocina. 🍲",
+      "post_en": "Prepare your favorite sauces and stews in this durable 2-quart Victoria Cast Iron Saucepan. It's ideal for cooks who value superior heat retention and versatility in the kitchen. 🍲",
       "price_new": 11.99,
       "price_old": 19.99,
       "currency": "USD",
@@ -1348,10 +1348,10 @@
     {
       "asin": "B0BW9S8X3R",
       "title": "Delta Children Kids' CoComelon Draw & Play Desk w/ 10 Markers & Coloring Book (Blue)",
-      "title_es": null,
+      "title_es": "Escritorio Infantil Delta Children CoComelon para Dibujar y Jugar con 10 Marcadores y Libro para Colorear (Azul)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Fomenta la creatividad de los más pequeños con este escritorio infantil Delta Children CoComelon, que incluye 10 marcadores y un libro para colorear. Es perfecto para que los niños dibujen, jueguen y aprendan en un espacio propio y divertido.",
+      "post_en": "Encourage little ones' creativity with this Delta Children Kids' CoComelon Draw & Play Desk, which includes 10 markers and a coloring book. It's perfect for children to draw, play, and learn in their own fun space.",
       "price_new": 23.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1365,15 +1365,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20307672",
       "published_at": "2026-11-14T14:46:03+00:00",
-      "revalidated_at": "2026-11-14T22:31:08+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B0CW7D3VTN",
       "title": "Amazon Brand - Happy Belly English Breakfast Tea Bags, 20 Count (Pack of 2)~$",
-      "title_es": null,
+      "title_es": "Amazon Brand - Happy Belly Té Negro English Breakfast, 20 Bolsitas (Pack de 2)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta de un clásico té negro English Breakfast con este pack de dos cajas de Happy Belly. Ideal para empezar el día con energía o para una pausa reconfortante. ☕",
+      "post_en": "Enjoy a classic English Breakfast black tea with this pack of two Happy Belly boxes. Perfect for starting your day with energy or for a comforting break. ☕",
       "price_new": 2.59,
       "price_old": 60.0,
       "currency": "USD",
@@ -1392,10 +1392,10 @@
     {
       "asin": "B0FB8YTXXQ",
       "title": "Asmodee Forest Shuffle: Exploration Card Game Expansion",
-      "title_es": null,
+      "title_es": "Asmodee Forest Shuffle: Expansión del Juego de Cartas Exploración",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Amplía tu experiencia de juego con la expansión Exploración para Asmodee Forest Shuffle. Añade nuevas cartas y estrategias para los amantes de los juegos de mesa.",
+      "post_en": "Expand your gaming experience with the Exploration expansion for Asmodee Forest Shuffle. It adds new cards and strategies for board game enthusiasts.",
       "price_new": 8.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -1414,10 +1414,10 @@
     {
       "asin": "B008OC18JS",
       "title": "Citizen Men's Eco-Drive Weekender Watch in Stainless Steel with Black Polyurethane strap, Black Dial, 44mm (Model: AW1150-07E)",
-      "title_es": null,
+      "title_es": "Reloj Citizen Eco-Drive Weekender para Hombre, Acero Inoxidable y Correa de Poliuretano Negra, Esfera Negra, 44mm (AW1150-07E)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este reloj Citizen Eco-Drive para hombre cuenta con una correa de poliuretano negra y esfera a juego, alimentado por luz. Es un accesorio elegante y funcional para el día a día.",
+      "post_en": "This Citizen Eco-Drive men's watch features a black polyurethane strap and matching dial, powered by light. It's a stylish and functional accessory for everyday wear.",
       "price_new": 179.5,
       "price_old": 325.02,
       "currency": "USD",
@@ -1436,10 +1436,10 @@
     {
       "asin": "B00CAPLRX2",
       "title": "GEARWRENCH 33-1/4\" Telescoping Magnetic Pickup Tool (5-lb Capacity) at Amazon",
-      "title_es": null,
+      "title_es": "Herramienta Magnética Telescópica GEARWRENCH de 33-1/4\" (Capacidad 5 lb)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Una práctica herramienta magnética telescópica GEARWRENCH, perfecta para recoger objetos metálicos en lugares de difícil acceso. Imprescindible en cualquier caja de herramientas.",
+      "post_en": "A handy GEARWRENCH telescoping magnetic pickup tool, perfect for retrieving metal objects in hard-to-reach places. An essential addition to any toolbox.",
       "price_new": 9.97,
       "price_old": 18.99,
       "currency": "USD",
@@ -1458,10 +1458,10 @@
     {
       "asin": "B07B3GG8SK",
       "title": "Citizen Quartz Mens Watch, Stainless Steel, Classic",
-      "title_es": null,
+      "title_es": "Reloj de Cuarzo Citizen para Hombre, Acero Inoxidable, Clásico",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Elegante reloj de cuarzo Citizen para hombre con caja de acero inoxidable y diseño clásico. Ideal para quienes buscan un accesorio atemporal y fiable.",
+      "post_en": "Elegant Citizen quartz watch for men with a stainless steel case and classic design. Perfect for those seeking a timeless and reliable accessory.",
       "price_new": 111.95,
       "price_old": 190.0,
       "currency": "USD",
@@ -1480,10 +1480,10 @@
     {
       "asin": "B0DM2L1Q2J",
       "title": "Idea Nuova DC Comics Batman 9\" x 5\" LED Neon Wall Light",
-      "title_es": null,
+      "title_es": "Lámpara de Pared LED Neón Batman DC Comics Idea Nuova 9\" x 5\"",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Ilumina tu espacio con esta divertida lámpara de pared LED neón de Batman de DC Comics. Perfecta para fans del superhéroe que quieren un toque original en su habitación o sala de juegos.",
+      "post_en": "Light up your space with this fun DC Comics Batman LED neon wall light. Perfect for superhero fans who want an original touch in their room or game area.",
       "price_new": 13.78,
       "price_old": 35.0,
       "currency": "USD",
@@ -1502,10 +1502,10 @@
     {
       "asin": "B0GWD1FY41",
       "title": "FOGFIRE Mens Sweatpants Joggers with Zipper Pocket Black Medium | Casual Athletic Workout Lightweight Tapered Track Pants for Running Gym",
-      "title_es": null,
+      "title_es": "Pantalones Jogger FOGFIRE para Hombre con Bolsillo con Cremallera, Negros, Talla M",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Cómodos pantalones jogger FOGFIRE para hombre, ideales para entrenar, correr o para un look casual. Su diseño ligero y ajuste cónico los hacen muy versátiles.",
+      "post_en": "Comfortable FOGFIRE men's jogger pants, ideal for training, running, or a casual look. Their lightweight design and tapered fit make them very versatile.",
       "price_new": 9.99,
       "price_old": 19.99,
       "currency": "USD",
@@ -1524,10 +1524,10 @@
     {
       "asin": "B0GFXQ363H",
       "title": "BOSCH GBR18V-15SN18X 18V 5 In. Concrete Surface Grinder at Amazon",
-      "title_es": null,
+      "title_es": "Lijadora de Superficie de Hormigón BOSCH GBR18V-15SN18X 18V 5 Pulgadas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Potente lijadora de superficie de hormigón BOSCH GBR18V-15SN18X de 18V y 5 pulgadas, diseñada para trabajos profesionales. Ofrece un rendimiento eficiente para acabados en superficies duras.",
+      "post_en": "Powerful BOSCH GBR18V-15SN18X 18V 5-inch concrete surface grinder, designed for professional tasks. It offers efficient performance for finishing hard surfaces.",
       "price_new": 391.63,
       "price_old": 735.0,
       "currency": "USD",
@@ -1546,10 +1546,10 @@
     {
       "asin": "B0G8DP77DK",
       "title": "2-Pack Yecaye 80L Under Bed Storage Containers w/ Wheels (Light Grey)",
-      "title_es": null,
+      "title_es": "Pack de 2 Contenedores de Almacenamiento Bajo Cama Yecaye 80L con Ruedas (Gris Claro)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Maximiza el espacio con este pack de dos contenedores de almacenamiento bajo cama Yecaye de 80L con ruedas. Son perfectos para guardar ropa de temporada o ropa de cama, manteniendo tu hogar organizado.",
+      "post_en": "Maximize space with this 2-pack of Yecaye 80L under-bed storage containers with wheels. They are perfect for storing seasonal clothes or bedding, keeping your home organized.",
       "price_new": 9.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1563,15 +1563,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20303769",
       "published_at": "2026-11-14T13:00:59+00:00",
-      "revalidated_at": "2026-11-14T22:31:08+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B093RQ7S3T",
       "title": "3-Count 3.6-Oz N-Bone Puppy Teething Rings (Peanut Butter)",
-      "title_es": null,
+      "title_es": "Pack de 3 Anillos para la Dentición de Cachorros N-Bone de 3.6 oz (Sabor Mantequilla de Cacahuete)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estos anillos N-Bone con sabor a mantequilla de cacahuete son ideales para cachorros en etapa de dentición. Ayudan a aliviar las molestias y son un delicioso premio. 🐶",
+      "post_en": "These N-Bone peanut butter flavored rings are ideal for teething puppies. They help soothe discomfort and make a delicious treat. 🐶",
       "price_new": 3.5,
       "price_old": 35.0,
       "currency": "USD",
@@ -1651,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20307504",
       "published_at": "2026-11-14T11:00:55+00:00",
-      "revalidated_at": "2026-11-14T22:31:08+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B0DNYKC7BQ",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20307540",
       "published_at": "2026-11-14T11:00:55+00:00",
-      "revalidated_at": "2026-11-14T22:31:08+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B0FMS727XH",
@@ -1739,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20308263",
       "published_at": "2026-11-14T08:45:39+00:00",
-      "revalidated_at": "2026-11-14T22:15:36+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B0DTZT8VNB",
@@ -1871,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20307639",
       "published_at": "2026-11-14T07:16:13+00:00",
-      "revalidated_at": "2026-11-14T22:31:08+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B0F8BH28ZF",
@@ -1959,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20307234",
       "published_at": "2026-11-14T07:01:33+00:00",
-      "revalidated_at": "2026-11-14T22:31:08+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B0F17W75ZF",
@@ -2113,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20295627",
       "published_at": "2026-11-14T04:45:36+00:00",
-      "revalidated_at": "2026-11-14T22:15:36+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B07TQYRTG8",
@@ -2245,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20302083",
       "published_at": "2026-11-14T02:45:34+00:00",
-      "revalidated_at": "2026-11-14T22:15:36+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B07BKY4Y3T",
@@ -2531,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20301540",
       "published_at": "2026-11-14T01:00:48+00:00",
-      "revalidated_at": "2026-11-14T22:31:08+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B0D22BG524",
@@ -2575,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20300709",
       "published_at": "2026-11-14T00:45:46+00:00",
-      "revalidated_at": "2026-11-14T22:15:36+00:00"
+      "revalidated_at": "2026-11-15T00:23:14+00:00"
     },
     {
       "asin": "B0FW5RBNWJ",
