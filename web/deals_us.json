@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-15T15:00:55+00:00",
+  "generated_at": "2026-11-15T15:15:50+00:00",
   "market": "us",
-  "count": 118,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0FQ642ZGY",
+      "title": "3-Pc Klein Tools Impact Swivel Socket Adapter Set (1/4\", 3/8\", 1/2\" Square Drive)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.17,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 76.7,
+      "rating": 4.8,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/51dsHvYmbXL._AC_SL1000_.jpg",
+      "url": "https://amazon.com/dp/B0FQ642ZGY/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20314149",
+      "published_at": "2026-11-15T15:15:50+00:00",
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
+    },
+    {
+      "asin": "B0FR93MVXR",
+      "title": "Nepagz MagSafe 5-Card RFID iPhone Wallet w/ Adjustable Stand (Black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 6.18,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 82.3,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/2/8/3/7/2/3/1/450x450/22357230.thumb",
+      "url": "https://amazon.com/dp/B0FR93MVXR/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20311008",
+      "published_at": "2026-11-15T15:15:50+00:00",
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
+    },
+    {
+      "asin": "B0D9R3FGD1",
+      "title": "JBL PartyLight Beam Party Light Bluetooth Projection - Black at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 89.95,
+      "price_old": 164.95,
+      "currency": "USD",
+      "discount_pct": 45.5,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81JQrl5q5+L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0D9R3FGD1/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20312415",
+      "published_at": "2026-11-15T15:15:50+00:00",
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
+    },
+    {
+      "asin": "B09LD8VFS1",
+      "title": "Philips Sonicare 4100 Rechargeable Electric Toothbrush at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 29.99,
+      "price_old": 49.96,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71oj36xw89L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09LD8VFS1/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20312604",
+      "published_at": "2026-11-15T15:15:50+00:00",
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
+    },
+    {
+      "asin": "B0DPJKFD81",
+      "title": "UGG Nita Throw Blanket, Fluffy & Soft Fleece, 50\" x 70\", Charcoal Grey | Plush Fleece Face, White UGGfluff Reverse, Box Stitched Fill, Oversized Throw Blanket, for",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 50.0,
+      "price_old": 72.0,
+      "currency": "USD",
+      "discount_pct": 30.6,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/9/2/3/2/7/8/3/450x450/22362609.thumb",
+      "url": "https://amazon.com/dp/B0DPJKFD81/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20313018",
+      "published_at": "2026-11-15T15:15:50+00:00",
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
+    },
     {
       "asin": "B000T9YBX4",
       "title": "Fresca Citrus Soda Soft Drink 12 fl oz cans, 12 Pack",
@@ -14,11 +124,11 @@
       "price_old": 57.0,
       "currency": "USD",
       "discount_pct": 90.9,
-      "rating": null,
+      "rating": 4.7,
       "condition": "coupon",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+      "image": "https://m.media-amazon.com/images/I/81rUNG55IML._SL1500_.jpg",
       "url": "https://amazon.com/dp/B000T9YBX4/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20314137",
@@ -309,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20309700",
       "published_at": "2026-11-15T13:30:51+00:00",
-      "revalidated_at": "2026-11-15T13:30:51+00:00"
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
     },
     {
       "asin": "B0FVPNJKBH",
@@ -331,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20312592",
       "published_at": "2026-11-15T13:30:51+00:00",
-      "revalidated_at": "2026-11-15T13:30:51+00:00"
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
     },
     {
       "asin": "B00KJLUTQU",
@@ -353,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20311542",
       "published_at": "2026-11-15T13:30:51+00:00",
-      "revalidated_at": "2026-11-15T13:30:51+00:00"
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
     },
     {
       "asin": "B0DF85X82B",
@@ -1585,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20306448",
       "published_at": "2026-11-15T01:30:57+00:00",
-      "revalidated_at": "2026-11-15T13:15:35+00:00"
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
     },
     {
       "asin": "B0GR1K5HK1",
@@ -1607,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20311254",
       "published_at": "2026-11-15T01:30:57+00:00",
-      "revalidated_at": "2026-11-15T13:15:35+00:00"
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
     },
     {
       "asin": "B0CP4DCK45",
@@ -2289,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20310285",
       "published_at": "2026-11-14T21:15:44+00:00",
-      "revalidated_at": "2026-11-15T13:15:35+00:00"
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
     },
     {
       "asin": "B0GX719TRW",
@@ -2311,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20294394",
       "published_at": "2026-11-14T21:00:55+00:00",
-      "revalidated_at": "2026-11-15T13:15:35+00:00"
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
     },
     {
       "asin": "B0045VI3RC",
@@ -2333,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20299248",
       "published_at": "2026-11-14T21:00:55+00:00",
-      "revalidated_at": "2026-11-15T13:15:35+00:00"
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
     },
     {
       "asin": "B004QW0R2O",
@@ -2355,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20291196",
       "published_at": "2026-11-14T21:00:55+00:00",
-      "revalidated_at": "2026-11-15T13:15:35+00:00"
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
     },
     {
       "asin": "B0CT8PX93R",
@@ -2465,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20310336",
       "published_at": "2026-11-14T19:45:49+00:00",
-      "revalidated_at": "2026-11-15T13:15:35+00:00"
+      "revalidated_at": "2026-11-15T15:15:50+00:00"
     },
     {
       "asin": "B0H9Q6G426",
@@ -2532,72 +2642,6 @@
       "deal_key": "sd:20309880",
       "published_at": "2026-11-14T18:15:50+00:00",
       "revalidated_at": "2026-11-15T13:45:43+00:00"
-    },
-    {
-      "asin": "B0GV7SYS8D",
-      "title": "$4.50 Amz 190Pcs Self Drilling Drywall Anchors with Screws Kit, Metal Self Drilling Anchor Screws, 6 Sizes Silver Drywall Grip Anchors and Screws for Sheetrock, Hollow Wall, Pictur",
-      "title_es": "Kit de 190 anclajes autoperforantes para paneles de yeso con tornillos Amz",
-      "headline": null,
-      "post": "Este completo kit Amz de 190 anclajes autoperforantes es esencial para fijar objetos en paredes de yeso y huecas. Incluye tornillos de 6 tamaños para diversas necesidades de montaje en el hogar.",
-      "post_en": "This comprehensive Amz kit of 190 self-drilling drywall anchors is essential for fixing objects to drywall and hollow walls. It includes screws in 6 sizes for various home mounting needs.",
-      "price_new": 4.5,
-      "price_old": 56.0,
-      "currency": "USD",
-      "discount_pct": 92.0,
-      "rating": 4.4,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81ukdWyMLiL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GV7SYS8D/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20308368",
-      "published_at": "2026-11-14T18:15:50+00:00",
-      "revalidated_at": "2026-11-15T14:00:37+00:00"
-    },
-    {
-      "asin": "B0CB742CG7",
-      "title": "Osprey Sojourn Porter 30L Travel Backpack (Brindle Brown)",
-      "title_es": "Mochila de viaje Osprey Sojourn Porter 30L (Brindle Brown)",
-      "headline": null,
-      "post": "La mochila Osprey Sojourn Porter 30L es ideal para viajeros que buscan comodidad y organización. Su diseño robusto y capacidad de 30 litros la hacen perfecta para escapadas cortas o como equipaje de mano.",
-      "post_en": "The Osprey Sojourn Porter 30L backpack is ideal for travelers seeking comfort and organization. Its robust design and 30-liter capacity make it perfect for short getaways or as carry-on luggage.",
-      "price_new": 111.14,
-      "price_old": 180.0,
-      "currency": "USD",
-      "discount_pct": 38.3,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/51neaX9bNWL._AC_SL1280_.jpg",
-      "url": "https://amazon.com/dp/B0CB742CG7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20305137",
-      "published_at": "2026-11-14T18:15:50+00:00",
-      "revalidated_at": "2026-11-15T14:00:37+00:00"
-    },
-    {
-      "asin": "B0FQB77ZHC",
-      "title": "8-Count RUSEMLE Aromatherapy Shower Steamers w/ Essential Oils & Flower Petals",
-      "title_es": "8 pastillas efervescentes de ducha RUSEMLE para aromaterapia con aceites esenciales y pétalos",
-      "headline": null,
-      "post": "Transforma tu ducha en una experiencia de spa con estas pastillas RUSEMLE de aromaterapia. Contienen aceites esenciales y pétalos para un momento relajante y revitalizante. 🌸",
-      "post_en": "Transform your shower into a spa experience with these RUSEMLE aromatherapy shower steamers. They contain essential oils and flower petals for a relaxing and revitalizing moment. 🌸",
-      "price_new": 2.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 91.5,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "KYRZMQ2Z",
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/71SSEHyZdJL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FQB77ZHC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20309472",
-      "published_at": "2026-11-14T18:00:46+00:00",
-      "revalidated_at": "2026-11-15T14:00:37+00:00"
     }
   ]
 }
