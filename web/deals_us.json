@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-15T03:16:01+00:00",
+  "generated_at": "2026-11-15T03:31:04+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0DKK4R6R9",
+      "title": "Spirograph Kit w/ Markers Drawing Set for Kids (19 Wheels, 2 Rings & 8 Markers)",
+      "title_es": "Kit de dibujo Spirograph con marcadores para niños",
+      "headline": null,
+      "post": "Este kit de dibujo Spirograph ofrece horas de diversión creativa para niños, incluyendo 19 ruedas, 2 anillos y 8 marcadores. Es ideal para desarrollar la motricidad fina y la imaginación a través de diseños geométricos.",
+      "post_en": "This Spirograph drawing kit offers hours of creative fun for kids, including 19 wheels, 2 rings, and 8 markers. It's ideal for developing fine motor skills and imagination through geometric designs.",
+      "price_new": 10.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 68.6,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81Xwt+LCqML._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DKK4R6R9/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20310567",
+      "published_at": "2026-11-15T03:31:04+00:00",
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
+    },
+    {
+      "asin": "B0H6X1R4TC",
+      "title": "KIRUNDO 3 Piece Lounge Sets for Women Airport Travel Outfit",
+      "title_es": "Conjunto de 3 piezas KIRUNDO para mujer (ropa de viaje/estar)",
+      "headline": null,
+      "post": "Este conjunto de 3 piezas KIRUNDO para mujer es perfecto para viajar o relajarse en casa, ofreciendo comodidad y estilo. Incluye prendas versátiles para crear un atuendo coordinado y confortable.",
+      "post_en": "This KIRUNDO 3-piece lounge set for women is perfect for travel or relaxing at home, offering both comfort and style. It includes versatile pieces to create a coordinated and comfortable outfit.",
+      "price_new": 24.19,
+      "price_old": 62.99,
+      "currency": "USD",
+      "discount_pct": 61.6,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/71eWljq4lFL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0H6X1R4TC/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20299275",
+      "published_at": "2026-11-15T03:31:04+00:00",
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
+    },
+    {
+      "asin": "B0DPQB928P",
+      "title": "SpaceHacks 1-Pack Over the Door Large Capacity Hanging Storage Room Organizer with 40 lb Capacity",
+      "title_es": "Organizador colgante SpaceHacks de gran capacidad para puerta",
+      "headline": null,
+      "post": "Este organizador colgante SpaceHacks para puerta maximiza el espacio de almacenamiento con su gran capacidad y soporta hasta 40 lb. Es ideal para mantener ordenados dormitorios, baños o armarios con facilidad.",
+      "post_en": "This SpaceHacks over-the-door hanging organizer maximizes storage space with its large capacity and holds up to 40 lb. It's ideal for easily keeping bedrooms, bathrooms, or closets tidy.",
+      "price_new": 11.99,
+      "price_old": 23.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.7,
+      "condition": "coupon",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71Ex3K+BBrL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DPQB928P/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20305644",
+      "published_at": "2026-11-15T03:31:04+00:00",
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
+    },
+    {
+      "asin": "B0FYKP3VF2",
+      "title": "2-Pack 0.35-Oz Aquaphor Lip Repair Ointment Tubes",
+      "title_es": "Pack de 2 tubos de bálsamo labial Aquaphor Lip Repair",
+      "headline": null,
+      "post": "Este paquete doble de Aquaphor Lip Repair Ointment ofrece un alivio intensivo para labios secos y agrietados, restaurando su suavidad. Es un esencial para el cuidado personal que hidrata y protege eficazmente.",
+      "post_en": "This 2-pack of Aquaphor Lip Repair Ointment provides intensive relief for dry and chapped lips, restoring their softness. It's a personal care essential that effectively hydrates and protects.",
+      "price_new": 4.98,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 85.8,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/81RV1islAsL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FYKP3VF2/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20311548",
+      "published_at": "2026-11-15T03:31:04+00:00",
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
+    },
     {
       "asin": "B0GVXS4YZV",
       "title": "WASTROYAL 100FT Warm White LED Fairy String Lights w/ Timer & 8 Modes",
@@ -177,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20306448",
       "published_at": "2026-11-15T01:30:57+00:00",
-      "revalidated_at": "2026-11-15T01:30:57+00:00"
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
     },
     {
       "asin": "B0GR1K5HK1",
@@ -199,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20311254",
       "published_at": "2026-11-15T01:30:57+00:00",
-      "revalidated_at": "2026-11-15T01:30:57+00:00"
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
     },
     {
       "asin": "B0CP4DCK45",
@@ -815,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20304528",
       "published_at": "2026-11-14T21:45:58+00:00",
-      "revalidated_at": "2026-11-15T01:30:57+00:00"
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
     },
     {
       "asin": "B0H33MNQK5",
@@ -837,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20309685",
       "published_at": "2026-11-14T21:45:58+00:00",
-      "revalidated_at": "2026-11-15T01:30:57+00:00"
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
     },
     {
       "asin": "B0FV9X14VY",
@@ -859,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20298534",
       "published_at": "2026-11-14T21:45:58+00:00",
-      "revalidated_at": "2026-11-15T01:30:57+00:00"
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
     },
     {
       "asin": "B0H7YTYLNH",
@@ -1057,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20292555",
       "published_at": "2026-11-14T20:01:09+00:00",
-      "revalidated_at": "2026-11-15T01:30:57+00:00"
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
     },
     {
       "asin": "B0CXDXNPZF",
@@ -1079,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20310237",
       "published_at": "2026-11-14T20:01:09+00:00",
-      "revalidated_at": "2026-11-15T01:30:57+00:00"
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
     },
     {
       "asin": "B0FHB7CJKT",
@@ -1475,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20308686",
       "published_at": "2026-11-14T15:53:13+00:00",
-      "revalidated_at": "2026-11-15T01:15:43+00:00"
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
     },
     {
       "asin": "B07PBCTN92",
@@ -2465,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20305500",
       "published_at": "2026-11-14T06:00:32+00:00",
-      "revalidated_at": "2026-11-15T01:15:43+00:00"
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
     },
     {
       "asin": "B08F9RFJ2K",
@@ -2487,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20287791",
       "published_at": "2026-11-14T05:45:31+00:00",
-      "revalidated_at": "2026-11-15T01:15:43+00:00"
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
     },
     {
       "asin": "B08RSR2TPQ",
@@ -2553,95 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20290245",
       "published_at": "2026-11-14T04:00:45+00:00",
-      "revalidated_at": "2026-11-15T01:15:43+00:00"
-    },
-    {
-      "asin": "B0H42KZBF7",
-      "title": "Evil Dead Burn (4K Ultra HD + Digital)",
-      "title_es": "Evil Dead Burn (4K Ultra HD + Digital)",
-      "headline": null,
-      "post": "Sumérgete en el terror con Evil Dead Burn en formato 4K Ultra HD, que incluye también una copia digital para mayor flexibilidad. Disfruta de una experiencia cinematográfica de alta definición con esta popular entrega.",
-      "post_en": "Dive into terror with Evil Dead Burn in 4K Ultra HD format, also including a digital copy for added flexibility. Enjoy a high-definition cinematic experience with this popular installment.",
-      "price_new": 13.0,
-      "price_old": 27.95,
-      "currency": "USD",
-      "discount_pct": 53.5,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71f85-Ltc8L._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H42KZBF7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20302908",
-      "published_at": "2026-11-14T04:00:45+00:00",
-      "revalidated_at": "2026-11-15T01:30:57+00:00"
-    },
-    {
-      "asin": "B0FNRXHL41",
-      "title": "191-Piece LEGO Botanicals Sunflowers Building Set (40524)",
-      "title_es": "Set de Construcción LEGO Botanicals Girasoles (40524) de 191 piezas",
-      "headline": null,
-      "post": "Este set LEGO de 191 piezas permite construir un ramo de girasoles, ideal para aficionados a la construcción y amantes de la decoración floral. Es perfecto para añadir un toque de color y creatividad a cualquier espacio o como un regalo original. 🌻",
-      "post_en": "This 191-piece LEGO set allows you to build a beautiful sunflower bouquet, perfect for building enthusiasts and flower decoration lovers. It's an excellent way to add a touch of color and creativity to any space or as a unique gift. 🌻",
-      "price_new": 8.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 74.3,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71RUAdpRlQL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FNRXHL41/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20307018",
-      "published_at": "2026-11-14T03:30:41+00:00",
-      "revalidated_at": "2026-11-15T01:15:43+00:00"
-    },
-    {
-      "asin": "B09QM6GZ4R",
-      "title": "KEZKALS 9-in-1 Aluminum Multitool Pen (Yellow)",
-      "title_es": "Bolígrafo Multiusos de Aluminio KEZKALS 9 en 1 (Amarillo)",
-      "headline": null,
-      "post": "Este bolígrafo multitool de aluminio 9 en 1 combina varias herramientas útiles en un diseño compacto y portátil. Es ideal para estudiantes, profesionales o cualquier persona que necesite funcionalidad extra a mano para pequeñas tareas diarias.",
-      "post_en": "This 9-in-1 aluminum multitool pen combines several useful tools into a compact and portable design. It's perfect for students, professionals, or anyone needing extra functionality at hand for small daily tasks.",
-      "price_new": 5.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 84.3,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "KEVPV3J9",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71V-jiMQ9CL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09QM6GZ4R/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20305494",
-      "published_at": "2026-11-14T03:30:41+00:00",
-      "revalidated_at": "2026-11-15T01:15:43+00:00"
-    },
-    {
-      "asin": "B01C9RIACG",
-      "title": "Coway Airmega 400 True HEPA Smart Air Purifier (White) at Amazon",
-      "title_es": "Purificador de aire inteligente Coway Airmega 400 True HEPA (Blanco)",
-      "headline": null,
-      "post": "Este purificador de aire inteligente con filtro True HEPA mejora la calidad del ambiente en tu hogar, eliminando alérgenos y contaminantes. Es ideal para quienes buscan un aire más limpio y saludable en espacios amplios.",
-      "post_en": "This smart air purifier with a True HEPA filter improves indoor air quality by removing allergens and pollutants. It's ideal for those seeking cleaner, healthier air in large spaces.",
-      "price_new": 343.99,
-      "price_old": 633.69,
-      "currency": "USD",
-      "discount_pct": 45.7,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81RY4oDOPCL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B01C9RIACG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20302083",
-      "published_at": "2026-11-14T02:45:34+00:00",
-      "revalidated_at": "2026-11-15T02:30:37+00:00"
+      "revalidated_at": "2026-11-15T03:31:04+00:00"
     }
   ]
 }
