@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-16T23:30:36+00:00",
+  "generated_at": "2026-11-16T23:45:48+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0F37P5WGR",
+      "title": "14-Count toolant ANSI Z87.1 Safety Glasses w/ UV400 Protection & Scratch-Resistant Lenses (Clear & Smoke Grey)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 0.81,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 97.7,
+      "rating": 4.5,
+      "condition": "code",
+      "code": "LISTED",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71taD867vfL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0F37P5WGR/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20322093",
+      "published_at": "2026-11-16T23:45:48+00:00",
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
+    },
+    {
+      "asin": "B09NZJNBVP",
+      "title": "2-Pack KitchenAid Beacon Mini Oven Mitt Set (Blue or Navy)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 72.9,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/9/1/2/6/8/2/450x450/22379688.thumb",
+      "url": "https://amazon.com/dp/B09NZJNBVP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20320350",
+      "published_at": "2026-11-16T23:45:48+00:00",
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
+    },
+    {
+      "asin": "B07C8V4FDR",
+      "title": "Cuisinart 2-Lb Compact Automatic Bread Maker (CBK-110P1)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 85.56,
+      "price_old": 169.95,
+      "currency": "USD",
+      "discount_pct": 49.7,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://m.media-amazon.com/images/I/71uyMn9SkuL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07C8V4FDR/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20321496",
+      "published_at": "2026-11-16T23:45:48+00:00",
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
+    },
+    {
+      "asin": "B0H6DCHBMW",
+      "title": "Stelle Women's Crisscross Back Sports Bra, Medium Support U-Neck Workout Bra",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.0,
+      "price_old": 22.99,
+      "currency": "USD",
+      "discount_pct": 43.5,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/22376403.thumb",
+      "url": "https://amazon.com/dp/B0H6DCHBMW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20319327",
+      "published_at": "2026-11-16T23:45:48+00:00",
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
+    },
+    {
+      "asin": "B0DSRHTGYG",
+      "title": "TCL 75 Inch QM6K Series QLED Mini LED 4K HDR Smart Google TV, 75QM6K, 144Hz  Latest Model, High Brightness, IMAX Enhanced, HDR10",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 697.99,
+      "price_old": 999.99,
+      "currency": "USD",
+      "discount_pct": 30.2,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/22385097.thumb",
+      "url": "https://amazon.com/dp/B0DSRHTGYG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20322315",
+      "published_at": "2026-11-16T23:45:48+00:00",
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
+    },
     {
       "asin": "B07DQ46CLX",
       "title": "40-Count 1-Oz Lay's Salt & Vinegar Potato Chips",
@@ -265,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20321622",
       "published_at": "2026-11-16T21:45:50+00:00",
-      "revalidated_at": "2026-11-16T21:45:50+00:00"
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
     },
     {
       "asin": "B0GYMR7XKV",
@@ -287,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20321826",
       "published_at": "2026-11-16T21:45:50+00:00",
-      "revalidated_at": "2026-11-16T21:45:50+00:00"
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
     },
     {
       "asin": "B0C5N5KH2M",
@@ -309,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20320848",
       "published_at": "2026-11-16T21:45:50+00:00",
-      "revalidated_at": "2026-11-16T21:45:50+00:00"
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
     },
     {
       "asin": "B0GVHDMD4M",
@@ -331,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20320665",
       "published_at": "2026-11-16T21:45:50+00:00",
-      "revalidated_at": "2026-11-16T21:45:50+00:00"
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
     },
     {
       "asin": "B0G4NRDQB8",
@@ -683,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20321607",
       "published_at": "2026-11-16T19:46:00+00:00",
-      "revalidated_at": "2026-11-16T21:45:50+00:00"
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
     },
     {
       "asin": "B06XF4YD9Y",
@@ -705,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20321523",
       "published_at": "2026-11-16T19:46:00+00:00",
-      "revalidated_at": "2026-11-16T21:45:50+00:00"
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
     },
     {
       "asin": "B0HC3BC78M",
@@ -727,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20321007",
       "published_at": "2026-11-16T19:46:00+00:00",
-      "revalidated_at": "2026-11-16T21:45:50+00:00"
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
     },
     {
       "asin": "B0FYLP1W1X",
@@ -749,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20303778",
       "published_at": "2026-11-16T19:46:00+00:00",
-      "revalidated_at": "2026-11-16T21:45:50+00:00"
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
     },
     {
       "asin": "B09XTCXGGJ",
@@ -2223,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20317776",
       "published_at": "2026-11-16T11:15:54+00:00",
-      "revalidated_at": "2026-11-16T21:30:39+00:00"
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
     },
     {
       "asin": "B0GJFNMH79",
@@ -2399,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20317416",
       "published_at": "2026-11-16T09:00:47+00:00",
-      "revalidated_at": "2026-11-16T21:30:39+00:00"
+      "revalidated_at": "2026-11-16T23:45:48+00:00"
     },
     {
       "asin": "B0C87LLNKP",
@@ -2532,94 +2642,6 @@
       "deal_key": "sd:20317401",
       "published_at": "2026-11-16T07:15:46+00:00",
       "revalidated_at": "2026-11-16T22:00:41+00:00"
-    },
-    {
-      "asin": "B09SW6GCGL",
-      "title": "Gran Turismo 7 (PlayStation 5) -",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 30.0,
-      "price_old": 56.0,
-      "currency": "USD",
-      "discount_pct": 46.4,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81zKmfAPBmL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09SW6GCGL/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20317380",
-      "published_at": "2026-11-16T07:00:48+00:00",
-      "revalidated_at": "2026-11-16T21:30:39+00:00"
-    },
-    {
-      "asin": "B0BQJ1CQXW",
-      "title": "EUCOS 62\" Tripod for iPhone, Sturdy Selfie Stick Tripod with Remote & Lightweight Phone Stand, Solidest Portable Cell Phone Tripod, Compatible iPhone Pro Max/Android [White]",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 15.49,
-      "price_old": 30.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/22325712.thumb",
-      "url": "https://amazon.com/dp/B0BQJ1CQXW/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20299314",
-      "published_at": "2026-11-16T06:45:47+00:00",
-      "revalidated_at": "2026-11-16T21:30:39+00:00"
-    },
-    {
-      "asin": "B0H8N51GD2",
-      "title": "100W wegear GaN 3-Port Slim Foldable Wall Charger",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 18.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 45.7,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "AHD9PT1B",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71GEOdAo5vL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H8N51GD2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20317317",
-      "published_at": "2026-11-16T06:30:42+00:00",
-      "revalidated_at": "2026-11-16T23:30:36+00:00"
-    },
-    {
-      "asin": "B0HFB8JYK3",
-      "title": "Sony WH-CH530 Wireless On-Ear Bluetooth Headphone, Black($38)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 38.0,
-      "price_old": 69.75,
-      "currency": "USD",
-      "discount_pct": 45.5,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61l8zKF6+OL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0HFB8JYK3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20317104",
-      "published_at": "2026-11-16T06:09:06+00:00",
-      "revalidated_at": "2026-11-16T22:45:41+00:00"
     }
   ]
 }
