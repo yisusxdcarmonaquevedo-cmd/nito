@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-17T10:15:46+00:00",
+  "generated_at": "2026-11-17T10:30:53+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0CPJDWCHW",
+      "title": "KRTALS MagSafe Magnetic Wallet Card Holder w/ RFID Blocking (Various Colors)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 85.7,
+      "rating": 4.3,
+      "condition": "code",
+      "code": "560IX7PC",
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/616lpvs0fsL._AC_SL1387_.jpg",
+      "url": "https://amazon.com/dp/B0CPJDWCHW/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20322453",
+      "published_at": "2026-11-17T10:30:53+00:00",
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
+    },
+    {
+      "asin": "B0GY89X4PJ",
+      "title": "Baseus Bowie MC2 Open Ear CloudComfort Clip-On Bluetooth Earbuds",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 39.99,
+      "price_old": 79.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.5,
+      "condition": "code",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/51XTCmhmMSL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GY89X4PJ/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20323089",
+      "published_at": "2026-11-17T10:30:53+00:00",
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
+    },
+    {
+      "asin": "B0H2DPBQLK",
+      "title": "D DACCKIT 1408-Card 16-Pocket Ringless Trading Card Binder Album (Various Colors)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 18.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 47.2,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/91bWobhdtnL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0H2DPBQLK/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20313336",
+      "published_at": "2026-11-17T10:30:53+00:00",
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
+    },
+    {
+      "asin": "B0CXVKC3MD",
+      "title": "40oz. Contigo Streeterville Double-Wall Stainless Steel Tumbler (Inkycap)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.2,
+      "price_old": 24.4,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/8/6/6/3/0/450x450/22395498.thumb",
+      "url": "https://amazon.com/dp/B0CXVKC3MD/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20318043",
+      "published_at": "2026-11-17T10:30:53+00:00",
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
+    },
+    {
+      "asin": "B0B5HQZ4QB",
+      "title": "Oral-B Rechargeable Electric Toothbrush, iO3 Limited Deep Clean, 3 Cleaning Modes (Various Colors) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 59.99,
+      "price_old": 109.99,
+      "currency": "USD",
+      "discount_pct": 45.5,
+      "rating": 4.3,
+      "condition": null,
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71NW+2qwqGL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0B5HQZ4QB/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20325690",
+      "published_at": "2026-11-17T10:30:53+00:00",
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
+    },
     {
       "asin": "B0FFRR3FTC",
       "title": "[Prime] KopBeau 1500W Portable PTC Ceramic Space Heater w/ Adjustable Thermostat & 4 Modes",
@@ -155,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20323917",
       "published_at": "2026-11-17T08:31:47+00:00",
-      "revalidated_at": "2026-11-17T08:31:47+00:00"
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
     },
     {
       "asin": "B0978Z1YFT",
@@ -617,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20323065",
       "published_at": "2026-11-17T04:45:54+00:00",
-      "revalidated_at": "2026-11-17T08:31:47+00:00"
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
     },
     {
       "asin": "B0F18YCFDL",
@@ -947,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20323692",
       "published_at": "2026-11-17T02:45:44+00:00",
-      "revalidated_at": "2026-11-17T08:31:47+00:00"
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
     },
     {
       "asin": "B0H47279LX",
@@ -1189,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20321832",
       "published_at": "2026-11-17T00:46:13+00:00",
-      "revalidated_at": "2026-11-17T08:31:47+00:00"
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
     },
     {
       "asin": "B0FNQPZZVX",
@@ -1233,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20322699",
       "published_at": "2026-11-17T00:30:44+00:00",
-      "revalidated_at": "2026-11-17T08:31:47+00:00"
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
     },
     {
       "asin": "B0D2VP4FGB",
@@ -1387,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20322969",
       "published_at": "2026-11-16T23:00:42+00:00",
-      "revalidated_at": "2026-11-17T08:31:47+00:00"
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
     },
     {
       "asin": "B0H24Y4FZG",
@@ -1409,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20320896",
       "published_at": "2026-11-16T22:45:41+00:00",
-      "revalidated_at": "2026-11-17T08:31:47+00:00"
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
     },
     {
       "asin": "B0F22H14JC",
@@ -1431,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20322312",
       "published_at": "2026-11-16T22:45:41+00:00",
-      "revalidated_at": "2026-11-17T08:31:47+00:00"
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
     },
     {
       "asin": "B0DRW88QG9",
@@ -1849,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20319087",
       "published_at": "2026-11-16T20:16:03+00:00",
-      "revalidated_at": "2026-11-17T08:15:51+00:00"
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
     },
     {
       "asin": "B07C4916LS",
@@ -2465,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20318403",
       "published_at": "2026-11-16T17:45:46+00:00",
-      "revalidated_at": "2026-11-17T08:15:51+00:00"
+      "revalidated_at": "2026-11-17T10:30:53+00:00"
     },
     {
       "asin": "B0CSF3GWJJ",
@@ -2532,116 +2642,6 @@
       "deal_key": "sd:20318316",
       "published_at": "2026-11-16T17:00:51+00:00",
       "revalidated_at": "2026-11-17T09:30:50+00:00"
-    },
-    {
-      "asin": "B0GXYFQ1P5",
-      "title": "[Prime] TALIX 240W USB-C to USB-C Fast Charging Cable (Black)",
-      "title_es": "Cable de carga rápida TALIX USB-C a USB-C de 240W (negro)",
-      "headline": null,
-      "post": "Este cable USB-C a USB-C de TALIX ofrece una carga ultrarrápida de hasta 240W, ideal para dispositivos modernos que requieren alta potencia. Esencial para quienes necesitan cargar rápidamente su portátil, tablet o smartphone compatible.",
-      "post_en": "This TALIX USB-C to USB-C cable provides ultra-fast charging up to 240W, perfect for modern devices requiring high power. Essential for users who need to quickly charge their compatible laptop, tablet, or smartphone.",
-      "price_new": 6.49,
-      "price_old": 9.5,
-      "currency": "USD",
-      "discount_pct": 31.7,
-      "rating": 4.9,
-      "condition": "code",
-      "code": "1PMR6NVL",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/619PCHntAJL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GXYFQ1P5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20319900",
-      "published_at": "2026-11-16T16:45:52+00:00",
-      "revalidated_at": "2026-11-17T09:00:53+00:00"
-    },
-    {
-      "asin": "B0FVXNP9Y6",
-      "title": "Nepagz MagSafe Leather Look RFID-Blocking Card Holder Wallet (Jet Black)",
-      "title_es": "Tarjetero Nepagz MagSafe con aspecto de cuero y bloqueo RFID (Jet Black)",
-      "headline": null,
-      "post": "Mantén tus tarjetas seguras y a mano con este tarjetero compatible con MagSafe, que ofrece un diseño elegante de aspecto de cuero y protección RFID. Ideal para usuarios de iPhone que buscan una solución compacta y segura para sus esenciales.",
-      "post_en": "Keep your cards secure and handy with this MagSafe-compatible card holder, offering a stylish leather-look design and RFID blocking protection. Ideal for iPhone users looking for a compact and secure solution for their essentials.",
-      "price_new": 3.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 90.0,
-      "rating": 4.4,
-      "condition": "prime",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/810ud58n1nL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FVXNP9Y6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20319396",
-      "published_at": "2026-11-16T16:30:52+00:00",
-      "revalidated_at": "2026-11-17T09:15:47+00:00"
-    },
-    {
-      "asin": "B0FYJB9ZG9",
-      "title": "WHAT DO YOU MEME? Jackpot Roll Casino Dice Game",
-      "title_es": "Juego de dados WHAT DO YOU MEME? Jackpot Roll Casino",
-      "headline": null,
-      "post": "Diviértete con amigos y familiares con este emocionante juego de dados estilo casino, diseñado para risas y momentos inolvidables. Perfecto para noches de juego o reuniones informales, garantizando entretenimiento para todos.",
-      "post_en": "Have fun with friends and family with this exciting casino-style dice game, designed for laughs and unforgettable moments. Perfect for game nights or casual gatherings, guaranteeing entertainment for everyone.",
-      "price_new": 4.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 85.7,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/22370580.thumb",
-      "url": "https://amazon.com/dp/B0FYJB9ZG9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20316648",
-      "published_at": "2026-11-16T16:16:13+00:00",
-      "revalidated_at": "2026-11-17T08:46:18+00:00"
-    },
-    {
-      "asin": "B0CZ6WCHGF",
-      "title": "$7.99 Now – Mini Portable Label Printer",
-      "title_es": "Mini impresora de etiquetas portátil",
-      "headline": null,
-      "post": "Organiza tu hogar u oficina con esta práctica mini impresora de etiquetas, compacta y fácil de usar en cualquier lugar. Es la herramienta perfecta para quienes necesitan etiquetar objetos, carpetas o recipientes de forma rápida y eficiente.",
-      "post_en": "Organize your home or office with this handy mini portable label printer, compact and easy to use anywhere. It's the perfect tool for those who need to quickly and efficiently label items, folders, or containers.",
-      "price_new": 7.99,
-      "price_old": 15.94,
-      "currency": "USD",
-      "discount_pct": 49.9,
-      "rating": 4.5,
-      "condition": "code",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/61S4E7ff38L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CZ6WCHGF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20319528",
-      "published_at": "2026-11-16T16:16:13+00:00",
-      "revalidated_at": "2026-11-17T09:15:47+00:00"
-    },
-    {
-      "asin": "B0GHNFCRMB",
-      "title": "[Prime] ATHMILE Minimalist Zero Drop Barefoot Walking Shoes w/  Wide Toe Box (White)",
-      "title_es": "Zapatillas minimalistas ATHMILE Zero Drop Barefoot para caminar con puntera ancha (blanco)",
-      "headline": null,
-      "post": "Experimenta la sensación natural al caminar con estas zapatillas minimalistas, diseñadas con un drop cero y una puntera ancha para mayor comodidad. Ideales para quienes buscan fortalecer sus pies y disfrutar de un calzado más ergonómico.",
-      "post_en": "Experience a natural walking sensation with these minimalist shoes, designed with zero drop and a wide toe box for enhanced comfort. Ideal for those looking to strengthen their feet and enjoy more ergonomic footwear.",
-      "price_new": 19.99,
-      "price_old": 39.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.3,
-      "condition": "code",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/817sh1J5IkL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GHNFCRMB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20319630",
-      "published_at": "2026-11-16T15:46:02+00:00",
-      "revalidated_at": "2026-11-17T08:15:51+00:00"
     }
   ]
 }
