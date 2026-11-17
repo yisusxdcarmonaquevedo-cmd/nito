@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-17T07:30:43+00:00",
+  "generated_at": "2026-11-17T07:45:49+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B00HNSSPHC",
+      "title": "1.7-Oz Neutrogena Triple Age Repair SPF 25 Anti-Aging Face Moisturizer",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.88,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 66.1,
+      "rating": 4.5,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71yyGzmuTnL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B00HNSSPHC/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20323881",
+      "published_at": "2026-11-17T07:45:49+00:00",
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
+    },
     {
       "asin": "B0FHQ2XQPH",
       "title": "HYH 10ft 310-LED Multicolor Christmas Ladder Lights w/ Santa Claus Decoration",
@@ -243,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20320461",
       "published_at": "2026-11-17T05:46:01+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
     },
     {
       "asin": "B09V7KDV69",
@@ -265,7 +287,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20323998",
       "published_at": "2026-11-17T05:46:01+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
     },
     {
       "asin": "B001W91J8K",
@@ -287,7 +309,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20324487",
       "published_at": "2026-11-17T05:46:01+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
     },
     {
       "asin": "B00006IE9J",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20320551",
       "published_at": "2026-11-17T03:45:55+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
     },
     {
       "asin": "B0GQDGRG3W",
@@ -771,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20323521",
       "published_at": "2026-11-17T01:45:47+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
     },
     {
       "asin": "B0D7CXBNM4",
@@ -793,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20316978",
       "published_at": "2026-11-17T01:45:47+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
     },
     {
       "asin": "B071J6PDRB",
@@ -815,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20323572",
       "published_at": "2026-11-17T01:45:47+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
     },
     {
       "asin": "B075F8TD2L",
@@ -837,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20320101",
       "published_at": "2026-11-17T01:45:47+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
     },
     {
       "asin": "B0DB5DWQNM",
@@ -1126,28 +1148,6 @@
       "revalidated_at": "2026-11-17T07:30:43+00:00"
     },
     {
-      "asin": "B07C8V4FDR",
-      "title": "Cuisinart 2-Lb Compact Automatic Bread Maker (CBK-110P1)",
-      "title_es": "Panificadora automática compacta Cuisinart CBK-110P1 (2 lb)",
-      "headline": null,
-      "post": "Prepara pan casero fresco con esta panificadora automática compacta Cuisinart CBK-110P1, capaz de hacer hogazas de hasta 2 libras. Es perfecta para quienes buscan la comodidad de hornear su propio pan con facilidad.",
-      "post_en": "Make fresh homemade bread with this compact Cuisinart CBK-110P1 automatic bread maker, capable of baking loaves up to 2 lbs. It's perfect for those seeking the convenience of baking their own bread with ease.",
-      "price_new": 85.56,
-      "price_old": 169.95,
-      "currency": "USD",
-      "discount_pct": 49.7,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/71uyMn9SkuL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07C8V4FDR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20321496",
-      "published_at": "2026-11-16T23:45:48+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
-    },
-    {
       "asin": "B0H6DCHBMW",
       "title": "Stelle Women's Crisscross Back Sports Bra, Medium Support U-Neck Workout Bra",
       "title_es": "Sujetador deportivo Stelle con espalda cruzada y soporte medio",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20319327",
       "published_at": "2026-11-16T23:45:48+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
     },
     {
       "asin": "B0DSRHTGYG",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20322315",
       "published_at": "2026-11-16T23:45:48+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
     },
     {
       "asin": "B0G2T2742B",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20321688",
       "published_at": "2026-11-16T22:00:41+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
     },
     {
       "asin": "B0H3VP1TY6",
@@ -2553,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20306670",
       "published_at": "2026-11-16T15:15:52+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
     },
     {
       "asin": "B0GT4X4X13",
@@ -2575,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20305602",
       "published_at": "2026-11-16T15:15:52+00:00",
-      "revalidated_at": "2026-11-17T05:46:01+00:00"
+      "revalidated_at": "2026-11-17T07:45:49+00:00"
     },
     {
       "asin": "B0C9L8ZR6Q",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20319504",
       "published_at": "2026-11-16T14:45:58+00:00",
       "revalidated_at": "2026-11-17T07:15:50+00:00"
-    },
-    {
-      "asin": "B09D9F795R",
-      "title": "Bavcieu Multicolor RGB Sunset Lamp LED Projector w/ Remote & APP Control",
-      "title_es": "Lámpara Proyector LED Bavcieu Sunset RGB Multicolor",
-      "headline": null,
-      "post": "Crea ambientes únicos con esta lámpara proyector LED Bavcieu Sunset que simula atardeceres y ofrece múltiples colores RGB. Controlable por mando o app, es ideal para fotografía, decoración o simplemente para relajarse. 🌅",
-      "post_en": "Create unique atmospheres with this Bavcieu Sunset LED projector lamp that simulates sunsets and offers multiple RGB colors. Controllable by remote or app, it's ideal for photography, decoration, or simply relaxing. 🌅",
-      "price_new": 9.17,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 73.8,
-      "rating": 4.2,
-      "condition": "code",
-      "code": "WL7NAR58",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81WHyezjSgL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09D9F795R/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20280837",
-      "published_at": "2026-11-16T14:45:58+00:00",
-      "revalidated_at": "2026-11-17T07:30:43+00:00"
     }
   ]
 }
