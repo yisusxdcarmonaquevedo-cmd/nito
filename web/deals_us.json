@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-18T15:16:35+00:00",
+  "generated_at": "2026-11-18T15:30:58+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B01BUX7Z6M",
+      "title": "Metallica: Ride The Lightning (Audio CD)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 85.7,
+      "rating": 4.8,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71jyH5WtmFL._SL1425_.jpg",
+      "url": "https://amazon.com/dp/B01BUX7Z6M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20332800",
+      "published_at": "2026-11-18T15:30:58+00:00",
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
+    },
+    {
+      "asin": "B0HFZTVKNP",
+      "title": "WIHOLL Women's Hip Length Lightweight Cardigan Sweater (Various)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 74.3,
+      "rating": null,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/22418946.thumb",
+      "url": "https://amazon.com/dp/B0HFZTVKNP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20333841",
+      "published_at": "2026-11-18T15:30:58+00:00",
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
+    },
+    {
+      "asin": "B0GWY2DTL3",
+      "title": "Anyyuk 5-in-1 Wireless Induction Bluetooth Speaker w/ 3000mAh Power Bank, Phone Stand & RGB Light",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 74.3,
+      "rating": null,
+      "condition": "code",
+      "code": "HSE1W23D",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/3/7/1/0/1/3/4/450x450/22400802.thumb",
+      "url": "https://amazon.com/dp/B0GWY2DTL3/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20327826",
+      "published_at": "2026-11-18T15:30:58+00:00",
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
+    },
+    {
+      "asin": "B0DYJRYRCY",
+      "title": "100W Baseus 3-Port USB-C GaN Wall Charger (2x USB-C & USB-A)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 21.39,
+      "price_old": 49.99,
+      "currency": "USD",
+      "discount_pct": 57.2,
+      "rating": 4.6,
+      "condition": "code",
+      "code": "MMYWFIR6",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/51tHeaYfI3L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DYJRYRCY/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20329311",
+      "published_at": "2026-11-18T15:30:58+00:00",
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
+    },
+    {
+      "asin": "B0CHF7LXVS",
+      "title": "TISTAYA Pull-Out Under Sink Organizer w/ 7-Tier Adjustable Shelves (Black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.79,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 60.6,
+      "rating": null,
+      "condition": "code",
+      "code": "1FN18YYM",
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/22412481.thumb",
+      "url": "https://amazon.com/dp/B0CHF7LXVS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20331768",
+      "published_at": "2026-11-18T15:30:58+00:00",
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
+    },
     {
       "asin": "B0HHR2MVY1",
       "title": "Dracula - Steelbook [4K UHD]",
@@ -837,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20332272",
       "published_at": "2026-11-18T09:15:31+00:00",
-      "revalidated_at": "2026-11-18T13:15:45+00:00"
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
     },
     {
       "asin": "B0CYP921DD",
@@ -1145,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20330598",
       "published_at": "2026-11-18T05:30:30+00:00",
-      "revalidated_at": "2026-11-18T13:15:45+00:00"
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
     },
     {
       "asin": "B00X22FRJ2",
@@ -1981,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20330337",
       "published_at": "2026-11-18T01:30:45+00:00",
-      "revalidated_at": "2026-11-18T13:15:45+00:00"
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
     },
     {
       "asin": "B0GQ9RKF6C",
@@ -2003,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20328789",
       "published_at": "2026-11-18T01:30:45+00:00",
-      "revalidated_at": "2026-11-18T13:15:45+00:00"
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
     },
     {
       "asin": "B0C99W1Z9Q",
@@ -2025,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20329377",
       "published_at": "2026-11-18T01:30:45+00:00",
-      "revalidated_at": "2026-11-18T13:15:45+00:00"
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
     },
     {
       "asin": "B0DQ3B2Q31",
@@ -2179,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20326392",
       "published_at": "2026-11-18T00:30:59+00:00",
-      "revalidated_at": "2026-11-18T13:15:45+00:00"
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
     },
     {
       "asin": "B08DXKBY6N",
@@ -2201,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20313087",
       "published_at": "2026-11-18T00:30:59+00:00",
-      "revalidated_at": "2026-11-18T13:15:45+00:00"
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
     },
     {
       "asin": "B01LXW28II",
@@ -2223,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20326071",
       "published_at": "2026-11-18T00:30:59+00:00",
-      "revalidated_at": "2026-11-18T13:15:45+00:00"
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
     },
     {
       "asin": "B0DS6MHFB1",
@@ -2355,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20325342",
       "published_at": "2026-11-17T23:30:49+00:00",
-      "revalidated_at": "2026-11-18T13:15:45+00:00"
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
     },
     {
       "asin": "B0GXDVBBDL",
@@ -2421,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20318070",
       "published_at": "2026-11-17T23:00:54+00:00",
-      "revalidated_at": "2026-11-18T13:15:45+00:00"
+      "revalidated_at": "2026-11-18T15:30:58+00:00"
     },
     {
       "asin": "B07NY3PDYQ",
@@ -2532,94 +2642,6 @@
       "deal_key": "sd:20327988",
       "published_at": "2026-11-17T22:15:50+00:00",
       "revalidated_at": "2026-11-18T14:00:50+00:00"
-    },
-    {
-      "asin": "B0GYT95J1H",
-      "title": "8-Piece Calphalon Oven-Safe Stainless Steel Cookware Set at Amazon",
-      "title_es": "Set de Batería de Cocina Calphalon de Acero Inoxidable de 8 Piezas para Horno",
-      "headline": null,
-      "post": "Este set de 8 piezas Calphalon de acero inoxidable es apto para horno y duradero, perfecto para equipar tu cocina. Incluye las piezas esenciales para cocinar una variedad de platos con calidad profesional.",
-      "post_en": "This 8-piece Calphalon stainless steel cookware set is oven-safe and durable, perfect for equipping your kitchen. It includes essential pieces for cooking a variety of dishes with professional quality.",
-      "price_new": 149.99,
-      "price_old": 249.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/611x54DaCyL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GYT95J1H/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20312886",
-      "published_at": "2026-11-17T22:01:05+00:00",
-      "revalidated_at": "2026-11-18T13:46:01+00:00"
-    },
-    {
-      "asin": "B0C9F7VC3S",
-      "title": "Lowrance ActiveTarget 2 kit Includes Module,Transducer with 25 ft Cable, and Mounts, 000-15959-001",
-      "title_es": "Kit Lowrance ActiveTarget 2 con Módulo, Transductor y Soportes, 000-15959-001",
-      "headline": null,
-      "post": "El kit Lowrance ActiveTarget 2 mejora tu experiencia de pesca con imágenes de sonda en vivo de alta resolución. Es ideal para pescadores que buscan detectar peces y estructuras en tiempo real bajo el agua.",
-      "post_en": "The Lowrance ActiveTarget 2 kit enhances your fishing experience with high-resolution live sonar images. It's ideal for anglers looking to detect fish and underwater structures in real-time.",
-      "price_new": 109.0,
-      "price_old": 791.0,
-      "currency": "USD",
-      "discount_pct": 86.2,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51E-yj98swL._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B0C9F7VC3S/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20327130",
-      "published_at": "2026-11-17T21:46:53+00:00",
-      "revalidated_at": "2026-11-18T13:46:01+00:00"
-    },
-    {
-      "asin": "B001LUKTEA",
-      "title": "Hyper Pet Wildlife Critters Rabbit Plush Squeaker Dog Toy",
-      "title_es": "Juguete para Perro Hyper Pet Wildlife Critters Conejo de Peluche con Chirriador",
-      "headline": null,
-      "post": "Este juguete Hyper Pet Wildlife Critters en forma de conejo de peluche con chirriador es perfecto para mantener a tu perro entretenido. Su material suave y el sonido incorporado lo hacen ideal para juegos interactivos y masticación ligera. 🐾",
-      "post_en": "This Hyper Pet Wildlife Critters rabbit plush squeaker dog toy is perfect for keeping your dog entertained. Its soft material and built-in sound make it ideal for interactive play and light chewing. 🐾",
-      "price_new": 8.35,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 76.1,
-      "rating": null,
-      "condition": "coupon",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/2/1/6/8/2/2/0/450x450/22402572.thumb",
-      "url": "https://amazon.com/dp/B001LUKTEA/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20328399",
-      "published_at": "2026-11-17T21:46:53+00:00",
-      "revalidated_at": "2026-11-18T13:46:01+00:00"
-    },
-    {
-      "asin": "B0FDB3H3S3",
-      "title": "300-Count Arofum Omega-3 Fish Oil Softgels w/ Vitamin D3, K2, CoQ10 & Astaxanthin (Lemon)",
-      "title_es": "Arofum Omega-3 Fish Oil Softgels con D3, K2, CoQ10 y Astaxantina (Limón), 300 Cápsulas",
-      "headline": null,
-      "post": "Estas cápsulas de Arofum Omega-3 con vitaminas D3, K2, CoQ10 y Astaxantina ofrecen un soporte completo para la salud cardiovascular y el bienestar general. Su sabor a limón las hace más agradables, ideales para quienes buscan un suplemento integral.",
-      "post_en": "These Arofum Omega-3 softgels with D3, K2, CoQ10, and Astaxanthin offer comprehensive support for cardiovascular health and overall well-being. Their lemon flavor makes them more pleasant, ideal for those seeking an all-in-one supplement.",
-      "price_new": 8.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 74.3,
-      "rating": 4.7,
-      "condition": "code",
-      "code": "20E3SXU6",
-      "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/717YD27J1YL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FDB3H3S3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20328435",
-      "published_at": "2026-11-17T21:31:14+00:00",
-      "revalidated_at": "2026-11-18T13:30:37+00:00"
     }
   ]
 }
