@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-18T04:00:48+00:00",
+  "generated_at": "2026-11-18T04:16:16+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0H941SQ5W",
+      "title": "68% OFF COCOMARTS Jelly Bras for Women No Underwire Full Coverage",
+      "title_es": "Sujetadores COCOMARTS Jelly sin aros de cobertura completa para mujer",
+      "headline": null,
+      "post": "Estos sujetadores COCOMARTS Jelly ofrecen comodidad sin aros y una cobertura completa, ideales para el día a día. Su diseño está pensado para proporcionar soporte suave y discreto bajo cualquier prenda. ✨",
+      "post_en": "These COCOMARTS Jelly bras offer wireless comfort and full coverage, ideal for everyday wear. Their design is intended to provide soft, discreet support under any outfit. ✨",
+      "price_new": 8.99,
+      "price_old": 27.99,
+      "currency": "USD",
+      "discount_pct": 67.9,
+      "rating": null,
+      "condition": "code",
+      "code": "IS9NZHV8",
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/2/1/7/8/3/1/2/4/450x450/22409823.thumb",
+      "url": "https://amazon.com/dp/B0H941SQ5W/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20330766",
+      "published_at": "2026-11-18T04:16:16+00:00",
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
+    },
+    {
+      "asin": "B0FJ2ZFQ6H",
+      "title": "[Prime] 24-Oz ENCOOL Insulated Stainless Steel Water Bottle w/ Straw (Various) from",
+      "title_es": "Botella de agua ENCOOL de acero inoxidable aislada de 24 oz con pajita (varios colores)",
+      "headline": null,
+      "post": "Mantén tus bebidas frías o calientes durante horas con esta botella ENCOOL de acero inoxidable aislada. Incluye una pajita para facilitar la hidratación en cualquier momento, perfecta para el gimnasio o la oficina. 💧",
+      "post_en": "Keep your drinks cold or hot for hours with this ENCOOL insulated stainless steel water bottle. It includes a straw for easy hydration anytime, perfect for the gym or the office. 💧",
+      "price_new": 8.49,
+      "price_old": 24.99,
+      "currency": "USD",
+      "discount_pct": 66.0,
+      "rating": null,
+      "condition": "code",
+      "code": "V7VTS47D",
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/22401171.thumb",
+      "url": "https://amazon.com/dp/B0FJ2ZFQ6H/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20327985",
+      "published_at": "2026-11-18T04:16:16+00:00",
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
+    },
+    {
+      "asin": "B08YXCTZ4J",
+      "title": "Snatch (4K UHD + Blu-ray + Digital)",
+      "title_es": "Snatch (4K UHD + Blu-ray + Digital)",
+      "headline": null,
+      "post": "Disfruta del clásico cinematográfico Snatch en máxima calidad con este pack que incluye 4K UHD, Blu-ray y copia digital. Una opción excelente para los amantes del cine y coleccionistas. 🎬",
+      "post_en": "Enjoy the cinematic classic Snatch in maximum quality with this pack that includes 4K UHD, Blu-ray, and a digital copy. An excellent option for film lovers and collectors. 🎬",
+      "price_new": 15.39,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 56.0,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81FVFU1W+HL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B08YXCTZ4J/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20328423",
+      "published_at": "2026-11-18T04:16:16+00:00",
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
+    },
+    {
+      "asin": "B0DJGDC3BD",
+      "title": "Amazon Fire TV Stick w/ Alexa Voice Remote (2nd Gen, 2026)",
+      "title_es": "Amazon Fire TV Stick con Mando por Voz Alexa (2ª Gen)",
+      "headline": null,
+      "post": "Transforma tu televisor en una Smart TV con el Amazon Fire TV Stick, que incluye el mando por voz Alexa. Accede a tus apps y contenido favorito de forma sencilla y rápida. 📺",
+      "post_en": "Transform your TV into a Smart TV with the Amazon Fire TV Stick, which includes the Alexa Voice Remote. Access your favorite apps and content simply and quickly. 📺",
+      "price_new": 15.99,
+      "price_old": 39.99,
+      "currency": "USD",
+      "discount_pct": 60.0,
+      "rating": 4.1,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61LP1QmRroL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DJGDC3BD/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20328819",
+      "published_at": "2026-11-18T04:16:16+00:00",
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
+    },
     {
       "asin": "B0GWCWXN7Q",
       "title": "3-Port 70W Baseus Enerfill USB-C Charger w/ Foldable Plug",
@@ -58,11 +146,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 71.6,
-      "rating": null,
+      "rating": 4.4,
       "condition": "prime",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/6/3/5/4/7/1/450x450/22390224.thumb",
+      "image": "https://m.media-amazon.com/images/I/612MiwqE18L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DTKLLH1B/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20324004",
@@ -397,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20327781",
       "published_at": "2026-11-18T02:16:31+00:00",
-      "revalidated_at": "2026-11-18T02:16:31+00:00"
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
     },
     {
       "asin": "B0GHNT577H",
@@ -419,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20311569",
       "published_at": "2026-11-18T02:16:31+00:00",
-      "revalidated_at": "2026-11-18T02:16:31+00:00"
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
     },
     {
       "asin": "B0GPY78838",
@@ -441,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20328126",
       "published_at": "2026-11-18T02:16:31+00:00",
-      "revalidated_at": "2026-11-18T02:16:31+00:00"
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
     },
     {
       "asin": "B00S732WJE",
@@ -463,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20328006",
       "published_at": "2026-11-18T02:16:31+00:00",
-      "revalidated_at": "2026-11-18T02:16:31+00:00"
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
     },
     {
       "asin": "B0DRJGHJ74",
@@ -485,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20326938",
       "published_at": "2026-11-18T02:16:31+00:00",
-      "revalidated_at": "2026-11-18T02:16:31+00:00"
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
     },
     {
       "asin": "B07X3BX7WM",
@@ -507,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20328354",
       "published_at": "2026-11-18T02:16:31+00:00",
-      "revalidated_at": "2026-11-18T02:16:31+00:00"
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
     },
     {
       "asin": "B0DTHHGTN4",
@@ -529,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20328561",
       "published_at": "2026-11-18T02:16:31+00:00",
-      "revalidated_at": "2026-11-18T02:16:31+00:00"
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
     },
     {
       "asin": "B0GLNRX3LM",
@@ -551,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20328492",
       "published_at": "2026-11-18T02:16:31+00:00",
-      "revalidated_at": "2026-11-18T02:16:31+00:00"
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
     },
     {
       "asin": "B0HDZ6GVZX",
@@ -1805,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20327898",
       "published_at": "2026-11-17T18:00:58+00:00",
-      "revalidated_at": "2026-11-18T02:01:12+00:00"
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
     },
     {
       "asin": "B08KSJZW4T",
@@ -1959,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20322942",
       "published_at": "2026-11-17T16:31:42+00:00",
-      "revalidated_at": "2026-11-18T02:01:12+00:00"
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
     },
     {
       "asin": "B0FRL4RSZK",
@@ -2355,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20322063",
       "published_at": "2026-11-17T14:01:10+00:00",
-      "revalidated_at": "2026-11-18T02:01:12+00:00"
+      "revalidated_at": "2026-11-18T04:16:16+00:00"
     },
     {
       "asin": "B0CQ6RKSBF",
@@ -2554,94 +2642,6 @@
       "deal_key": "sd:20326155",
       "published_at": "2026-11-17T13:01:01+00:00",
       "revalidated_at": "2026-11-18T03:30:30+00:00"
-    },
-    {
-      "asin": "B0D4WM61JN",
-      "title": "41.5mm Casio Illuminator Men's Quartz Watch w/ Bluetooth at Amazon",
-      "title_es": "Reloj de cuarzo Casio Illuminator de 41.5mm para hombre con Bluetooth",
-      "headline": null,
-      "post": "Este reloj Casio Illuminator de 41.5mm combina estilo clásico con funcionalidad moderna. Incorpora Bluetooth para conectividad inteligente, ideal para el día a día.",
-      "post_en": "This 41.5mm Casio Illuminator watch blends classic style with modern functionality. It features Bluetooth for smart connectivity, perfect for daily wear.",
-      "price_new": 23.88,
-      "price_old": 64.95,
-      "currency": "USD",
-      "discount_pct": 63.2,
-      "rating": 4.1,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61RjPrhZiML._AC_SL1102_.jpg",
-      "url": "https://amazon.com/dp/B0D4WM61JN/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20326281",
-      "published_at": "2026-11-17T12:45:52+00:00",
-      "revalidated_at": "2026-11-18T03:00:44+00:00"
-    },
-    {
-      "asin": "B075BF6V58",
-      "title": "Honeywell 7 Day Programmable Wi-Fi Smart Color Thermostat at Amazon",
-      "title_es": "Termostato inteligente Wi-Fi programable 7 días Honeywell Smart Color",
-      "headline": null,
-      "post": "Controla la temperatura de tu hogar de forma inteligente con el termostato Honeywell Smart Color. Es programable para 7 días y compatible con Wi-Fi, optimizando tu confort y energía.",
-      "post_en": "Smartly control your home's temperature with the Honeywell Smart Color thermostat. It's 7-day programmable and Wi-Fi compatible, optimizing your comfort and energy.",
-      "price_new": 79.99,
-      "price_old": 179.99,
-      "currency": "USD",
-      "discount_pct": 55.6,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81hUVLEKqvL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B075BF6V58/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20326302",
-      "published_at": "2026-11-17T12:45:52+00:00",
-      "revalidated_at": "2026-11-18T03:00:44+00:00"
-    },
-    {
-      "asin": "B0CDC6H66Y",
-      "title": "45mm Garmin Venu 3 Fitness GPS Smartwatch (Black) at Amazon",
-      "title_es": "Smartwatch GPS Garmin Venu 3 de 45mm para fitness (Negro)",
-      "headline": null,
-      "post": "El Garmin Venu 3 es un smartwatch GPS de 45mm diseñado para entusiastas del fitness. Monitoriza tu actividad y salud con precisión, ofreciendo funciones inteligentes en tu muñeca.",
-      "post_en": "The Garmin Venu 3 is a 45mm GPS smartwatch designed for fitness enthusiasts. It precisely monitors your activity and health, offering smart functions right on your wrist.",
-      "price_new": 298.9,
-      "price_old": 449.99,
-      "currency": "USD",
-      "discount_pct": 33.6,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71Y53xvUAEL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CDC6H66Y/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20326233",
-      "published_at": "2026-11-17T12:45:52+00:00",
-      "revalidated_at": "2026-11-18T03:00:44+00:00"
-    },
-    {
-      "asin": "B0DYJGP9DB",
-      "title": "3.3' iVANKY 120Gbps (up to) 240W PD Intel Certified Thunderbolt 5 Cable",
-      "title_es": "Cable Thunderbolt 5 iVANKY de 3.3' (hasta 120Gbps, 240W PD) certificado Intel",
-      "headline": null,
-      "post": "Este cable iVANKY Thunderbolt 5 ofrece transferencias ultrarrápidas de hasta 120Gbps y carga PD de 240W. Es ideal para profesionales que necesitan máxima eficiencia y rendimiento en sus conexiones.",
-      "post_en": "This iVANKY Thunderbolt 5 cable offers ultra-fast transfers up to 120Gbps and 240W PD charging. It's ideal for professionals needing maximum efficiency and performance in their connections.",
-      "price_new": 18.99,
-      "price_old": 32.49,
-      "currency": "USD",
-      "discount_pct": 41.6,
-      "rating": 4.8,
-      "condition": "code",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/715RgbtjlfL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DYJGP9DB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20323068",
-      "published_at": "2026-11-17T12:30:49+00:00",
-      "revalidated_at": "2026-11-18T03:00:44+00:00"
     }
   ]
 }
