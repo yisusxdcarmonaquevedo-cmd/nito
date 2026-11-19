@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-19T21:31:18+00:00",
+  "generated_at": "2026-11-19T21:46:01+00:00",
   "market": "us",
-  "count": 118,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0D2LXGRVR",
+      "title": "Citizen Men's Eco-Drive Donald Duck 90th Anniversary Limited Edition Watch (AW1691-66W)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 245.05,
+      "price_old": 525.0,
+      "currency": "USD",
+      "discount_pct": 53.3,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/2/1/6/8/2/2/0/450x450/22464870.thumb",
+      "url": "https://amazon.com/dp/B0D2LXGRVR/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20347422",
+      "published_at": "2026-11-19T21:46:01+00:00",
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
+    },
+    {
+      "asin": "B0F5WDTFT1",
+      "title": "6-Pack SummitFlare Extra Large Water-Resistant Moving Bags",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 14.99,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": "code",
+      "code": "D00CCB5C",
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/22404297.thumb",
+      "url": "https://amazon.com/dp/B0F5WDTFT1/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20329032",
+      "published_at": "2026-11-19T21:46:01+00:00",
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
+    },
+    {
+      "asin": "B09KT9XNML",
+      "title": "XTOOL A30M V2, All-System Bidirectional Diagnostic Tool with 26+ Resets",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 121.94,
+      "price_old": 179.99,
+      "currency": "USD",
+      "discount_pct": 32.3,
+      "rating": 4.3,
+      "condition": "code",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/6187fx9xDML._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09KT9XNML/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20348454",
+      "published_at": "2026-11-19T21:46:01+00:00",
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
+    },
+    {
+      "asin": "B09C5RG6KV",
+      "title": "Anker 735 Nano II 65W 3-Port USB-C Charger (Black)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 23.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 31.5,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/22439919.thumb",
+      "url": "https://amazon.com/dp/B09C5RG6KV/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20339937",
+      "published_at": "2026-11-19T21:46:01+00:00",
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
+    },
+    {
+      "asin": "B0GF1J99S4",
+      "title": "GL.iNet GL-MT3600BE Beryl 7 Dual-Band Wi-Fi 7 Travel Router",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 90.99,
+      "price_old": 129.99,
+      "currency": "USD",
+      "discount_pct": 30.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/22439013.thumb",
+      "url": "https://amazon.com/dp/B0GF1J99S4/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20339622",
+      "published_at": "2026-11-19T21:46:01+00:00",
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
+    },
     {
       "asin": "B07BKLQR7R",
       "title": "Cuisinart Smart Stick 2-Speed Hand Blender, Immersion Blender, CSB-175SVP1 at Amazon",
@@ -463,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20340165",
       "published_at": "2026-11-19T19:46:52+00:00",
-      "revalidated_at": "2026-11-19T19:46:52+00:00"
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
     },
     {
       "asin": "B0DYJLWLWB",
@@ -485,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20345775",
       "published_at": "2026-11-19T19:46:52+00:00",
-      "revalidated_at": "2026-11-19T19:46:52+00:00"
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
     },
     {
       "asin": "B0CPLT3HFH",
@@ -507,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20347803",
       "published_at": "2026-11-19T19:46:52+00:00",
-      "revalidated_at": "2026-11-19T19:46:52+00:00"
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
     },
     {
       "asin": "B0BWPX5LJC",
@@ -1057,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20346450",
       "published_at": "2026-11-19T17:31:12+00:00",
-      "revalidated_at": "2026-11-19T19:46:52+00:00"
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
     },
     {
       "asin": "B0FDMJ8VVV",
@@ -1079,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20343363",
       "published_at": "2026-11-19T17:31:12+00:00",
-      "revalidated_at": "2026-11-19T19:46:52+00:00"
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
     },
     {
       "asin": "B00HDSSJKU",
@@ -1101,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20340309",
       "published_at": "2026-11-19T17:31:12+00:00",
-      "revalidated_at": "2026-11-19T19:46:52+00:00"
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
     },
     {
       "asin": "B0CNBF85SZ",
@@ -1123,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20346315",
       "published_at": "2026-11-19T17:31:12+00:00",
-      "revalidated_at": "2026-11-19T19:46:52+00:00"
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
     },
     {
       "asin": "B0FQX4FRGB",
@@ -1145,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20281422",
       "published_at": "2026-11-19T17:31:12+00:00",
-      "revalidated_at": "2026-11-19T19:46:52+00:00"
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
     },
     {
       "asin": "B07RC8P4NT",
@@ -1167,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20343432",
       "published_at": "2026-11-19T17:31:12+00:00",
-      "revalidated_at": "2026-11-19T19:46:52+00:00"
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
     },
     {
       "asin": "B0DSCKGVN2",
@@ -2157,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20327469",
       "published_at": "2026-11-19T14:47:13+00:00",
-      "revalidated_at": "2026-11-19T19:31:14+00:00"
+      "revalidated_at": "2026-11-19T21:46:01+00:00"
     },
     {
       "asin": "B0FG7TKW97",
@@ -2532,72 +2642,6 @@
       "deal_key": "sd:20341908",
       "published_at": "2026-11-19T13:46:01+00:00",
       "revalidated_at": "2026-11-19T20:30:55+00:00"
-    },
-    {
-      "asin": "B0GR19T81S",
-      "title": "13-Inch Apple MacBook Air Laptop with M5 chip (24GB RAM, 1TB SSD) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 154.0,
-      "price_old": 746.0,
-      "currency": "USD",
-      "discount_pct": 79.4,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22450590.thumb",
-      "url": "https://amazon.com/dp/B0GR19T81S/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20342619",
-      "published_at": "2026-11-19T13:46:01+00:00",
-      "revalidated_at": "2026-11-19T20:30:55+00:00"
-    },
-    {
-      "asin": "B0DZ1VY3TL",
-      "title": "Olight iMini 2 50-Lumen Rechargeable EDC Keychain Flashlight (Dream Blue)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 11.99,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 65.7,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61QkKsqVpOL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DZ1VY3TL/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20340264",
-      "published_at": "2026-11-19T13:46:01+00:00",
-      "revalidated_at": "2026-11-19T20:45:46+00:00"
-    },
-    {
-      "asin": "B0CW1YJVSZ",
-      "title": "Marshall Emberton II Portable Bluetooth Waterproof Speaker - Black & Steel at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 89.99,
-      "price_old": 179.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/22453905.thumb",
-      "url": "https://amazon.com/dp/B0CW1YJVSZ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20343708",
-      "published_at": "2026-11-19T13:46:01+00:00",
-      "revalidated_at": "2026-11-19T20:45:46+00:00"
     }
   ]
 }
