@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-19T10:15:53+00:00",
+  "generated_at": "2026-11-19T10:31:04+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B09743F8P6",
+      "title": "Elden Ring - PlayStation 5 at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.99,
+      "price_old": 49.99,
+      "currency": "USD",
+      "discount_pct": 60.0,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81h2WhI4dtL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09743F8P6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20339709",
+      "published_at": "2026-11-19T10:31:04+00:00",
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
+    },
     {
       "asin": "B0H832JH4Z",
       "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Obsidian + 10% Back w/ Prime Visa Card ($300 extra for your Trade-in) at Amazon",
@@ -14,11 +36,11 @@
       "price_old": 749.0,
       "currency": "USD",
       "discount_pct": 59.9,
-      "rating": null,
+      "rating": 3.7,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22439928.thumb",
+      "image": "https://m.media-amazon.com/images/I/71JsJOCSuTL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0H832JH4Z/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20339931",
@@ -36,11 +58,11 @@
       "price_old": 269.99,
       "currency": "USD",
       "discount_pct": 40.0,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22439166.thumb",
+      "image": "https://m.media-amazon.com/images/I/91WCfmG+A3L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DJDDY334/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20339742",
@@ -58,11 +80,11 @@
       "price_old": 28.0,
       "currency": "USD",
       "discount_pct": 60.9,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22443525.thumb",
+      "image": "https://m.media-amazon.com/images/I/71cXIb6DLZL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B072M77MZD/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20340843",
@@ -80,11 +102,11 @@
       "price_old": 12.95,
       "currency": "USD",
       "discount_pct": 44.5,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/22418856.thumb",
+      "image": "https://m.media-amazon.com/images/I/71FnGeaiaYL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DG9WB1WM/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20333787",
@@ -243,7 +265,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20338221",
       "published_at": "2026-11-19T06:30:41+00:00",
-      "revalidated_at": "2026-11-19T08:30:38+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B0G2MCFTQB",
@@ -375,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20337498",
       "published_at": "2026-11-19T04:30:38+00:00",
-      "revalidated_at": "2026-11-19T08:30:38+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B0DQY86FJF",
@@ -859,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20334981",
       "published_at": "2026-11-19T00:45:53+00:00",
-      "revalidated_at": "2026-11-19T08:30:38+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B0CR3F9F4F",
@@ -881,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20319597",
       "published_at": "2026-11-19T00:45:53+00:00",
-      "revalidated_at": "2026-11-19T08:30:38+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B0F91SXLWP",
@@ -903,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20336217",
       "published_at": "2026-11-19T00:45:53+00:00",
-      "revalidated_at": "2026-11-19T08:30:38+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B0CLZJ8GS4",
@@ -1497,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20334312",
       "published_at": "2026-11-18T20:46:26+00:00",
-      "revalidated_at": "2026-11-19T08:30:38+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B0GVT7MWY4",
@@ -1519,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20332938",
       "published_at": "2026-11-18T20:46:26+00:00",
-      "revalidated_at": "2026-11-19T08:30:38+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B0F6CG8M4Q",
@@ -1541,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20320425",
       "published_at": "2026-11-18T20:30:51+00:00",
-      "revalidated_at": "2026-11-19T08:30:38+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B08LR3HN72",
@@ -1563,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20331138",
       "published_at": "2026-11-18T20:30:51+00:00",
-      "revalidated_at": "2026-11-19T08:30:38+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B0BCTNCR2G",
@@ -1761,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20332341",
       "published_at": "2026-11-18T18:46:06+00:00",
-      "revalidated_at": "2026-11-19T08:30:38+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B0GQZ4WJDC",
@@ -1937,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20333814",
       "published_at": "2026-11-18T17:45:58+00:00",
-      "revalidated_at": "2026-11-19T08:15:50+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B01DUT41M0",
@@ -1959,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20333883",
       "published_at": "2026-11-18T17:45:58+00:00",
-      "revalidated_at": "2026-11-19T08:15:50+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B0H87JYXF9",
@@ -1981,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20329875",
       "published_at": "2026-11-18T17:45:58+00:00",
-      "revalidated_at": "2026-11-19T08:15:50+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B0FMRPKN3G",
@@ -2443,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20328225",
       "published_at": "2026-11-18T16:00:47+00:00",
-      "revalidated_at": "2026-11-19T08:30:38+00:00"
+      "revalidated_at": "2026-11-19T10:31:04+00:00"
     },
     {
       "asin": "B0DFXW1G8G",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:20331768",
       "published_at": "2026-11-18T15:30:58+00:00",
       "revalidated_at": "2026-11-19T08:45:34+00:00"
-    },
-    {
-      "asin": "B0HHR2MVY1",
-      "title": "Dracula - Steelbook [4K UHD]",
-      "title_es": "Dracula - Steelbook [4K UHD].",
-      "headline": null,
-      "post": "Revive el clásico del terror con \"Dracula\" en formato Steelbook 4K UHD, ideal para coleccionistas y amantes del cine. Disfruta de la máxima calidad de imagen y sonido en una edición exclusiva que no puede faltar en tu estantería. 🧛‍♂️",
-      "post_en": "Relive the horror classic with \"Dracula\" in 4K UHD Steelbook format, ideal for collectors and film enthusiasts. Enjoy the highest image and sound quality in an exclusive edition that can't be missed from your shelf. 🧛‍♂️",
-      "price_new": 29.96,
-      "price_old": 57.0,
-      "currency": "USD",
-      "discount_pct": 47.4,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/8/2/8/3/4/450x450/22416117.thumb",
-      "url": "https://amazon.com/dp/B0HHR2MVY1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20332875",
-      "published_at": "2026-11-18T15:16:35+00:00",
-      "revalidated_at": "2026-11-19T09:45:38+00:00"
     }
   ]
 }
