@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-19T17:01:05+00:00",
+  "generated_at": "2026-11-19T17:16:09+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0FHK81GJP",
+      "title": "6\" McFarlane Toys DC Retro Bizarro Batman Super Friends Action Figure",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 74.3,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/22456743.thumb",
+      "url": "https://amazon.com/dp/B0FHK81GJP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20344584",
+      "published_at": "2026-11-19T17:16:09+00:00",
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
+    },
+    {
+      "asin": "B0DSCKGVN2",
+      "title": "Ms. Rachel Goodnight Frankie Bedtime Plush Toy w/ Sleeping Bag & Accessories",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 71.5,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/3/5/6/4/5/1/8/7/450x450/22442721.thumb",
+      "url": "https://amazon.com/dp/B0DSCKGVN2/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20340696",
+      "published_at": "2026-11-19T17:16:09+00:00",
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
+    },
+    {
+      "asin": "B0D1VN2VB7",
+      "title": "Marshall Major V Wireless On-Ear Bluetooth Headphones - Black at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 49.99,
+      "price_old": 129.99,
+      "currency": "USD",
+      "discount_pct": 61.5,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/22453407.thumb",
+      "url": "https://amazon.com/dp/B0D1VN2VB7/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20343555",
+      "published_at": "2026-11-19T17:16:09+00:00",
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
+    },
+    {
+      "asin": "B0DHXYLD1W",
+      "title": "GRACE KARIN Burgundy Long Sweater Cardigan Casual Long Knit Cardigan Dusters Coats with Pockets Christmas Cardigan",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.82,
+      "price_old": 31.99,
+      "currency": "USD",
+      "discount_pct": 59.9,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/22459776.thumb",
+      "url": "https://amazon.com/dp/B0DHXYLD1W/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20345625",
+      "published_at": "2026-11-19T17:16:09+00:00",
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
+    },
+    {
+      "asin": "B0G5Y3LN8M",
+      "title": "Dreame D20 Air Plus 20,000Pa Robot Vacuum & Mop w/ Auto-Empty Dock",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 190.0,
+      "price_old": 349.99,
+      "currency": "USD",
+      "discount_pct": 45.7,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/8/6/3/2/3/2/450x450/22464309.thumb",
+      "url": "https://amazon.com/dp/B0G5Y3LN8M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20304948",
+      "published_at": "2026-11-19T17:16:09+00:00",
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
+    },
     {
       "asin": "B071GL7PKV",
       "title": "16-Oz Nature's Eats Raw Shelled Walnut Halves & Pieces",
@@ -925,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20343486",
       "published_at": "2026-11-19T14:47:13+00:00",
-      "revalidated_at": "2026-11-19T14:47:13+00:00"
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
     },
     {
       "asin": "B0FB18RJ6M",
@@ -947,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20343069",
       "published_at": "2026-11-19T14:47:13+00:00",
-      "revalidated_at": "2026-11-19T14:47:13+00:00"
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
     },
     {
       "asin": "B0G5YDVR99",
@@ -969,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20279385",
       "published_at": "2026-11-19T14:47:13+00:00",
-      "revalidated_at": "2026-11-19T14:47:13+00:00"
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
     },
     {
       "asin": "B0GWGWKLDX",
@@ -991,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20327469",
       "published_at": "2026-11-19T14:47:13+00:00",
-      "revalidated_at": "2026-11-19T14:47:13+00:00"
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
     },
     {
       "asin": "B0FG7TKW97",
@@ -1739,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20341917",
       "published_at": "2026-11-19T12:46:01+00:00",
-      "revalidated_at": "2026-11-19T14:47:13+00:00"
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
     },
     {
       "asin": "B0D4DLXNR1",
@@ -1761,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20323989",
       "published_at": "2026-11-19T12:46:01+00:00",
-      "revalidated_at": "2026-11-19T14:47:13+00:00"
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
     },
     {
       "asin": "B09YWTW649",
@@ -1783,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20342913",
       "published_at": "2026-11-19T12:46:01+00:00",
-      "revalidated_at": "2026-11-19T14:47:13+00:00"
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
     },
     {
       "asin": "B0FY9YW365",
@@ -1805,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20342592",
       "published_at": "2026-11-19T12:46:01+00:00",
-      "revalidated_at": "2026-11-19T14:47:13+00:00"
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
     },
     {
       "asin": "B0DRW69H11",
@@ -2245,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20339709",
       "published_at": "2026-11-19T10:31:04+00:00",
-      "revalidated_at": "2026-11-19T14:47:13+00:00"
+      "revalidated_at": "2026-11-19T17:16:09+00:00"
     },
     {
       "asin": "B0H832JH4Z",
@@ -2446,28 +2556,6 @@
       "revalidated_at": "2026-11-19T15:15:55+00:00"
     },
     {
-      "asin": "B0H3913QSG",
-      "title": "O-SEN Silicone Magnetic Apple Watch Sport Band (38mm-49mm, Various Colors) from",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 2.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 92.9,
-      "rating": 4.4,
-      "condition": "code",
-      "code": "IHSUBOFT",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61FLA+fT9iL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H3913QSG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20338221",
-      "published_at": "2026-11-19T06:30:41+00:00",
-      "revalidated_at": "2026-11-19T14:47:13+00:00"
-    },
-    {
       "asin": "B0G2MCFTQB",
       "title": "GudeKeen Adjustable Propane Weed Torch Burner w/ Detachable 30\" Handle",
       "title_es": "Antorcha quemador de malas hierbas GudeKeen ajustable de propano con mango desmontable de 30\"",
@@ -2532,116 +2620,6 @@
       "deal_key": "sd:20334900",
       "published_at": "2026-11-19T05:16:01+00:00",
       "revalidated_at": "2026-11-19T15:15:55+00:00"
-    },
-    {
-      "asin": "B00GIBKC3K",
-      "title": "15-Piece Cuisinart Stainless Steel Knife Block Set",
-      "title_es": "Set de 15 cuchillos de acero inoxidable Cuisinart con bloque.",
-      "headline": null,
-      "post": "Este set de cuchillos Cuisinart de acero inoxidable de 15 piezas incluye un bloque de madera para almacenamiento seguro y accesible. Es ideal para equipar cualquier cocina con herramientas esenciales de corte, desde chefs caseros hasta principiantes.",
-      "post_en": "This 15-piece Cuisinart stainless steel knife set includes a wooden block for safe and accessible storage. It's ideal for equipping any kitchen with essential cutting tools, from home chefs to beginners.",
-      "price_new": 59.99,
-      "price_old": 99.95,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61QQopILMFL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00GIBKC3K/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20334333",
-      "published_at": "2026-11-19T05:16:01+00:00",
-      "revalidated_at": "2026-11-19T15:31:01+00:00"
-    },
-    {
-      "asin": "B0DQVLQ1QK",
-      "title": "3.4-Oz Emporio Armani Stronger With You Men's Parfum",
-      "title_es": "Perfume Emporio Armani Stronger With You para hombre de 3.4 oz.",
-      "headline": null,
-      "post": "Este perfume Emporio Armani Stronger With You para hombre de 3.4 onzas es una fragancia distintiva con notas amaderadas y especiadas. Es perfecto para quienes buscan un aroma sofisticado y duradero para uso diario o eventos especiales.",
-      "post_en": "This 3.4-oz Emporio Armani Stronger With You men's parfum is a distinctive fragrance with woody and spicy notes. It's perfect for those seeking a sophisticated and long-lasting scent for daily wear or special occasions.",
-      "price_new": 87.0,
-      "price_old": 145.0,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Belleza y Cuidado Personal",
-      "image": "https://m.media-amazon.com/images/I/61EEmKuG0rL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DQVLQ1QK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20333502",
-      "published_at": "2026-11-19T05:16:01+00:00",
-      "revalidated_at": "2026-11-19T15:45:58+00:00"
-    },
-    {
-      "asin": "B0DXHXXW92",
-      "title": "Clarks Collection Steadwell Step Men's Slip-On Shoes (Various Sizes)",
-      "title_es": "Zapatos sin cordones Clarks Collection Steadwell Step para hombre",
-      "headline": null,
-      "post": "Descubre la comodidad y el estilo casual de estos zapatos Clarks Collection Steadwell Step, diseñados para un calce fácil y un uso diario. Son perfectos para hombres que buscan un calzado práctico y elegante para diversas ocasiones.",
-      "post_en": "Discover the comfort and casual style of these Clarks Collection Steadwell Step slip-on shoes, designed for easy wear and daily use. They are perfect for men looking for practical and elegant footwear for various occasions.",
-      "price_new": 40.99,
-      "price_old": 105.0,
-      "currency": "USD",
-      "discount_pct": 61.0,
-      "rating": 4.3,
-      "condition": "prime",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71ftyB6AxsL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DXHXXW92/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20337498",
-      "published_at": "2026-11-19T04:30:38+00:00",
-      "revalidated_at": "2026-11-19T15:01:10+00:00"
-    },
-    {
-      "asin": "B0DQY86FJF",
-      "title": "64-Oz STANLEY Quencher H2.0 Flow State Insulated Tumbler (Various)",
-      "title_es": "STANLEY Quencher H2.0 Flow State Vaso Térmico Aislado de 64 Oz (Varios Colores)",
-      "headline": null,
-      "post": "Este vaso térmico STANLEY Quencher H2.0 de 64 oz mantiene tus bebidas frías durante horas gracias a su aislamiento de doble pared. Es ideal para quienes necesitan una gran capacidad de hidratación diaria, ya sea en casa, la oficina o de viaje.",
-      "post_en": "This 64-oz STANLEY Quencher H2.0 insulated tumbler keeps your drinks cold for hours thanks to its double-wall insulation. It's ideal for those who need a large daily hydration capacity, whether at home, the office, or on the go.",
-      "price_new": 30.0,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61EObgR9BBL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DQY86FJF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20317830",
-      "published_at": "2026-11-19T03:45:38+00:00",
-      "revalidated_at": "2026-11-19T15:45:58+00:00"
-    },
-    {
-      "asin": "B0GQSDKJ39",
-      "title": "DREAME D30 Ultra CE Robot Vacuum and Mop, 25,000Pa Powerful Suction at Amazon",
-      "title_es": "Robot Aspirador y Fregona DREAME D30 Ultra CE con 25,000Pa de Succión Potente",
-      "headline": null,
-      "post": "El DREAME D30 Ultra CE es un robot aspirador y fregona que ofrece una potente succión de 25,000Pa para una limpieza completa. Es ideal para quienes buscan automatizar el mantenimiento de su hogar con tecnología avanzada.",
-      "post_en": "The DREAME D30 Ultra CE is a robot vacuum and mop featuring powerful 25,000Pa suction for comprehensive cleaning. It's ideal for those looking to automate their home maintenance with advanced technology.",
-      "price_new": 349.99,
-      "price_old": 599.99,
-      "currency": "USD",
-      "discount_pct": 41.7,
-      "rating": 4.1,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61s+Q1jMuRL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GQSDKJ39/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20336979",
-      "published_at": "2026-11-19T03:30:40+00:00",
-      "revalidated_at": "2026-11-19T15:45:58+00:00"
     }
   ]
 }
