@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-20T20:45:51+00:00",
+  "generated_at": "2026-11-20T21:00:49+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B0D228DLMN",
+      "title": "Fanttik S1 Capsule Cordless Screwdriver, Electric Screwdriver (Grey/Pink) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 25.99,
+      "price_old": 39.99,
+      "currency": "USD",
+      "discount_pct": 35.0,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/22487676.thumb",
+      "url": "https://amazon.com/dp/B0D228DLMN/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20355564",
+      "published_at": "2026-11-20T21:00:49+00:00",
+      "revalidated_at": "2026-11-20T21:00:49+00:00"
+    },
     {
       "asin": "B0FPG1XX7M",
       "title": "FIT KING Air Compression Leg Massager, Cordless Recovery System with 3 Modes and 6 Intensities",
@@ -14,11 +36,11 @@
       "price_old": 199.99,
       "currency": "USD",
       "discount_pct": 63.5,
-      "rating": null,
+      "rating": 4.4,
       "condition": "code",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/22409277.thumb",
+      "image": "https://m.media-amazon.com/images/I/81CVYL0c-xL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FPG1XX7M/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20330532",
@@ -375,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20356008",
       "published_at": "2026-11-20T19:01:14+00:00",
-      "revalidated_at": "2026-11-20T19:01:14+00:00"
+      "revalidated_at": "2026-11-20T21:00:49+00:00"
     },
     {
       "asin": "B0FX3C86LW",
@@ -397,7 +419,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20356512",
       "published_at": "2026-11-20T19:01:14+00:00",
-      "revalidated_at": "2026-11-20T19:01:14+00:00"
+      "revalidated_at": "2026-11-20T21:00:49+00:00"
     },
     {
       "asin": "B0H6JCSZ1Q",
@@ -837,29 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20354436",
       "published_at": "2026-11-20T17:00:56+00:00",
-      "revalidated_at": "2026-11-20T19:01:14+00:00"
-    },
-    {
-      "asin": "B07P6HNDYX",
-      "title": "Leatherman Free K4X 9-in-1 Magnetic Locking EDC Multi-Tool (Silver)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 49.98,
-      "price_old": 99.95,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61Nu1OYJ6aL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07P6HNDYX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20350830",
-      "published_at": "2026-11-20T17:00:56+00:00",
-      "revalidated_at": "2026-11-20T19:01:14+00:00"
+      "revalidated_at": "2026-11-20T21:00:49+00:00"
     },
     {
       "asin": "B0F5QPFLRM",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20355495",
       "published_at": "2026-11-20T16:45:59+00:00",
-      "revalidated_at": "2026-11-20T19:01:14+00:00"
+      "revalidated_at": "2026-11-20T21:00:49+00:00"
     },
     {
       "asin": "B0DSBNWQS9",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20347368",
       "published_at": "2026-11-20T16:45:59+00:00",
-      "revalidated_at": "2026-11-20T19:01:14+00:00"
+      "revalidated_at": "2026-11-20T21:00:49+00:00"
     },
     {
       "asin": "B0CXS16KNF",
@@ -1126,28 +1126,6 @@
       "revalidated_at": "2026-11-20T19:16:11+00:00"
     },
     {
-      "asin": "B0FN11ZD52",
-      "title": "Reebok Men’s Byron Short Sleeve Crewneck T-Shirt, Standard Fit, Lightweight Poly Fabric, Vintage Moss Heather, Small",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 4.0,
-      "price_old": 15.54,
-      "currency": "USD",
-      "discount_pct": 74.3,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/717WvgxHhAL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FN11ZD52/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20355942",
-      "published_at": "2026-11-20T14:46:01+00:00",
-      "revalidated_at": "2026-11-20T19:01:14+00:00"
-    },
-    {
       "asin": "B0FQBYRSP1",
       "title": "UGREEN Qi2 15W 2-in-1 MagSafe-Compatible Wireless Charging Stand",
       "title_es": null,
@@ -1167,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20351721",
       "published_at": "2026-11-20T14:46:01+00:00",
-      "revalidated_at": "2026-11-20T19:01:14+00:00"
+      "revalidated_at": "2026-11-20T21:00:49+00:00"
     },
     {
       "asin": "B007Y6P7ZG",
@@ -1563,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20355588",
       "published_at": "2026-11-20T13:02:00+00:00",
-      "revalidated_at": "2026-11-20T19:01:14+00:00"
+      "revalidated_at": "2026-11-20T21:00:49+00:00"
     },
     {
       "asin": "B0D1YQKDML",
@@ -1585,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20355507",
       "published_at": "2026-11-20T13:02:00+00:00",
-      "revalidated_at": "2026-11-20T19:01:14+00:00"
+      "revalidated_at": "2026-11-20T21:00:49+00:00"
     },
     {
       "asin": "B07P7FKW8X",
@@ -1607,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20355330",
       "published_at": "2026-11-20T12:46:19+00:00",
-      "revalidated_at": "2026-11-20T19:01:14+00:00"
+      "revalidated_at": "2026-11-20T21:00:49+00:00"
     },
     {
       "asin": "B0FKPVD2MF",
@@ -1827,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20353140",
       "published_at": "2026-11-20T12:16:01+00:00",
-      "revalidated_at": "2026-11-20T18:46:05+00:00"
+      "revalidated_at": "2026-11-20T21:00:49+00:00"
     },
     {
       "asin": "B0GLKG4MYK",
@@ -2245,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20342601",
       "published_at": "2026-11-20T10:00:49+00:00",
-      "revalidated_at": "2026-11-20T18:46:05+00:00"
+      "revalidated_at": "2026-11-20T21:00:49+00:00"
     },
     {
       "asin": "B0BZJN14KF",
@@ -2575,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20309370",
       "published_at": "2026-11-20T08:00:56+00:00",
-      "revalidated_at": "2026-11-20T18:46:05+00:00"
+      "revalidated_at": "2026-11-20T21:00:49+00:00"
     },
     {
       "asin": "B0F5LYZRVL",
@@ -2620,28 +2598,6 @@
       "deal_key": "sd:20353293",
       "published_at": "2026-11-20T07:31:00+00:00",
       "revalidated_at": "2026-11-20T20:15:56+00:00"
-    },
-    {
-      "asin": "B0FSGGYHFL",
-      "title": "Yakuza Kiwami 3 & Dark Ties (PlayStation 5)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 20.0,
-      "price_old": 58.0,
-      "currency": "USD",
-      "discount_pct": 65.5,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81lDbLQZQWL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FSGGYHFL/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20339733",
-      "published_at": "2026-11-20T07:01:30+00:00",
-      "revalidated_at": "2026-11-20T19:46:01+00:00"
     }
   ]
 }
