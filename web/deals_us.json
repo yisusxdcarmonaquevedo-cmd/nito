@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-20T08:45:59+00:00",
+  "generated_at": "2026-11-20T09:00:57+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B088FSHMQ3",
+      "title": "2-Pack 6.6' Ainope USB-A to USB-C 90° Right Angle Fast Charging Cable (Grey)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.89,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 86.0,
+      "rating": 4.6,
+      "condition": "code",
+      "code": "LBOR8T42",
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71slGPTBJ9S._SL1200_.jpg",
+      "url": "https://amazon.com/dp/B088FSHMQ3/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20353443",
+      "published_at": "2026-11-20T09:00:57+00:00",
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
+    },
+    {
+      "asin": "B07Q9HNTBH",
+      "title": "BOSCH CO14B 14-Piece Cobalt Drill Bit Set",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 30.99,
+      "price_old": 144.89,
+      "currency": "USD",
+      "discount_pct": 78.6,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/8/6/7/1/9/450x450/22476087.thumb",
+      "url": "https://amazon.com/dp/B07Q9HNTBH/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20351493",
+      "published_at": "2026-11-20T09:00:57+00:00",
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
+    },
+    {
+      "asin": "B0DF1F3721",
+      "title": "$15.18 S&S AMZ INABA Salmon Churu Cat Treats, Lickable, Squeezable Creamy Purée Cat Treat with Green Tea Extract & Taurine, 0.5 Ounces Each Tube, 40 Tubes",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 15.18,
+      "price_old": 56.0,
+      "currency": "USD",
+      "discount_pct": 72.9,
+      "rating": null,
+      "condition": "sns",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/22439913.thumb",
+      "url": "https://amazon.com/dp/B0DF1F3721/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20339925",
+      "published_at": "2026-11-20T09:00:57+00:00",
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
+    },
+    {
+      "asin": "B0GGRKQ494",
+      "title": "Dell 27\" SE2726HG FHD 1920x1080 240Hz IPS Gaming Monitor",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 104.99,
+      "price_old": 149.99,
+      "currency": "USD",
+      "discount_pct": 30.0,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81j2qQfvoxL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GGRKQ494/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20344137",
+      "published_at": "2026-11-20T09:00:57+00:00",
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
+    },
+    {
+      "asin": "B0D1XLNWP2",
+      "title": "[Prime] UGREEN Revodok Pro 6-in-1 USB-C Hub w/ 4K 60Hz HDMI & 100W PD",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 15.33,
+      "price_old": 21.99,
+      "currency": "USD",
+      "discount_pct": 30.3,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/7/4/7/9/3/450x450/22469730.thumb",
+      "url": "https://amazon.com/dp/B0D1XLNWP2/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20349138",
+      "published_at": "2026-11-20T09:00:57+00:00",
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
+    },
     {
       "asin": "B0F3NZ12GL",
       "title": "Govee RGBIC Uplighter Floor Lamp w/ Ripple Projector",
@@ -111,7 +221,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20339733",
       "published_at": "2026-11-20T07:01:30+00:00",
-      "revalidated_at": "2026-11-20T07:01:30+00:00"
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
     },
     {
       "asin": "B00NOVNDW4",
@@ -397,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20307402",
       "published_at": "2026-11-20T05:00:53+00:00",
-      "revalidated_at": "2026-11-20T07:01:30+00:00"
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
     },
     {
       "asin": "B0DZCZBQYX",
@@ -419,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20345040",
       "published_at": "2026-11-20T05:00:53+00:00",
-      "revalidated_at": "2026-11-20T07:01:30+00:00"
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
     },
     {
       "asin": "B0BDKJFRX4",
@@ -1145,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20346759",
       "published_at": "2026-11-20T02:46:04+00:00",
-      "revalidated_at": "2026-11-20T07:01:30+00:00"
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
     },
     {
       "asin": "B0CW3DTWNG",
@@ -1167,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20346030",
       "published_at": "2026-11-20T02:46:04+00:00",
-      "revalidated_at": "2026-11-20T07:01:30+00:00"
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
     },
     {
       "asin": "B0GRJ8NJ35",
@@ -1189,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20346834",
       "published_at": "2026-11-20T02:46:04+00:00",
-      "revalidated_at": "2026-11-20T07:01:30+00:00"
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
     },
     {
       "asin": "B000FTADX0",
@@ -1211,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20346579",
       "published_at": "2026-11-20T02:46:04+00:00",
-      "revalidated_at": "2026-11-20T07:01:30+00:00"
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
     },
     {
       "asin": "B00SOU6LR4",
@@ -1321,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20350059",
       "published_at": "2026-11-20T02:31:06+00:00",
-      "revalidated_at": "2026-11-20T07:01:30+00:00"
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
     },
     {
       "asin": "B0GVW2FYHD",
@@ -1343,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20351844",
       "published_at": "2026-11-20T02:31:06+00:00",
-      "revalidated_at": "2026-11-20T07:01:30+00:00"
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
     },
     {
       "asin": "B0CPYSPHR1",
@@ -1915,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20346135",
       "published_at": "2026-11-20T00:30:58+00:00",
-      "revalidated_at": "2026-11-20T07:01:30+00:00"
+      "revalidated_at": "2026-11-20T09:00:57+00:00"
     },
     {
       "asin": "B00MYI0VYG",
@@ -2532,116 +2642,6 @@
       "deal_key": "sd:20348562",
       "published_at": "2026-11-19T22:01:04+00:00",
       "revalidated_at": "2026-11-20T08:45:59+00:00"
-    },
-    {
-      "asin": "B0FR8JDNC7",
-      "title": "27\" HP OMEN 27qs G2 1440p 280Hz IPS Gaming Monitor",
-      "title_es": "Monitor gaming HP OMEN 27qs G2 IPS de 27\" 1440p 280Hz",
-      "headline": null,
-      "post": "El monitor gaming HP OMEN 27qs G2 de 27\" ofrece una experiencia inmersiva con resolución 1440p y una tasa de refresco de 280Hz. Es ideal para jugadores que buscan fluidez y calidad visual en sus partidas.",
-      "post_en": "The 27\" HP OMEN 27qs G2 gaming monitor offers an immersive experience with 1440p resolution and a 280Hz refresh rate. It's ideal for gamers seeking fluidity and visual quality in their matches.",
-      "price_new": 169.99,
-      "price_old": 254.69,
-      "currency": "USD",
-      "discount_pct": 33.3,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/6/0/1/6/4/7/5/450x450/22445457.thumb",
-      "url": "https://amazon.com/dp/B0FR8JDNC7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20341335",
-      "published_at": "2026-11-19T22:01:04+00:00",
-      "revalidated_at": "2026-11-20T07:01:30+00:00"
-    },
-    {
-      "asin": "B0CT2NQ7WG",
-      "title": "Anker Prime 200W 6-Port GaN Desktop Charging Station",
-      "title_es": "Estación de Carga de Escritorio Anker Prime 200W GaN de 6 Puertos",
-      "headline": null,
-      "post": "Esta potente estación de carga Anker Prime GaN de 200W permite cargar múltiples dispositivos simultáneamente desde tu escritorio. Es ideal para organizar y alimentar todos tus gadgets, desde portátiles hasta smartphones, con alta eficiencia. 🔌",
-      "post_en": "This powerful Anker Prime 200W GaN charging station allows you to charge multiple devices simultaneously from your desktop. It's ideal for organizing and powering all your gadgets, from laptops to smartphones, with high efficiency. 🔌",
-      "price_new": 55.99,
-      "price_old": 79.99,
-      "currency": "USD",
-      "discount_pct": 30.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/22438731.thumb",
-      "url": "https://amazon.com/dp/B0CT2NQ7WG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20339811",
-      "published_at": "2026-11-19T22:01:04+00:00",
-      "revalidated_at": "2026-11-20T07:01:30+00:00"
-    },
-    {
-      "asin": "B0D2LXGRVR",
-      "title": "Citizen Men's Eco-Drive Donald Duck 90th Anniversary Limited Edition Watch (AW1691-66W)",
-      "title_es": "Reloj Citizen Eco-Drive Edición Limitada 90 Aniversario Pato Donald (AW1691-66W)",
-      "headline": null,
-      "post": "Celebra el 90 aniversario del Pato Donald con este exclusivo reloj Citizen Eco-Drive, que no necesita batería. Un accesorio único para coleccionistas y fans de Disney que buscan un toque de nostalgia y estilo. 🦆",
-      "post_en": "Celebrate Donald Duck's 90th anniversary with this exclusive Citizen Eco-Drive watch, which never needs a battery. A unique accessory for collectors and Disney fans looking for a touch of nostalgia and style. 🦆",
-      "price_new": 245.05,
-      "price_old": 525.0,
-      "currency": "USD",
-      "discount_pct": 53.3,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/2/1/6/8/2/2/0/450x450/22464870.thumb",
-      "url": "https://amazon.com/dp/B0D2LXGRVR/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20347422",
-      "published_at": "2026-11-19T21:46:01+00:00",
-      "revalidated_at": "2026-11-20T08:45:59+00:00"
-    },
-    {
-      "asin": "B0F5WDTFT1",
-      "title": "6-Pack SummitFlare Extra Large Water-Resistant Moving Bags",
-      "title_es": "Pack de 6 Bolsas de Mudanza SummitFlare Extra Grandes Resistentes al Agua",
-      "headline": null,
-      "post": "Estas bolsas SummitFlare extra grandes y resistentes al agua son perfectas para mudanzas o almacenamiento. Ofrecen una solución práctica y duradera para transportar ropa, ropa de cama o cualquier objeto voluminoso.",
-      "post_en": "These extra-large, water-resistant SummitFlare bags are perfect for moving or storage. They offer a practical and durable solution for transporting clothes, bedding, or any bulky items.",
-      "price_new": 14.99,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.6,
-      "condition": "code",
-      "code": "D00CCB5C",
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71my9pII9iL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F5WDTFT1/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20329032",
-      "published_at": "2026-11-19T21:46:01+00:00",
-      "revalidated_at": "2026-11-20T08:45:59+00:00"
-    },
-    {
-      "asin": "B09KT9XNML",
-      "title": "XTOOL A30M V2, All-System Bidirectional Diagnostic Tool with 26+ Resets",
-      "title_es": "Herramienta de Diagnóstico Bidireccional XTOOL A30M V2 con 26+ Resets",
-      "headline": null,
-      "post": "El XTOOL A30M V2 es una herramienta de diagnóstico automotriz profesional que permite realizar escaneos completos y funciones de reinicio. Es esencial para mecánicos y entusiastas del coche que buscan un control avanzado de su vehículo. 🚗",
-      "post_en": "The XTOOL A30M V2 is a professional automotive diagnostic tool that allows for comprehensive scans and reset functions. It's essential for mechanics and car enthusiasts seeking advanced control over their vehicle. 🚗",
-      "price_new": 121.94,
-      "price_old": 179.99,
-      "currency": "USD",
-      "discount_pct": 32.3,
-      "rating": 4.3,
-      "condition": "code",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/6187fx9xDML._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09KT9XNML/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20348454",
-      "published_at": "2026-11-19T21:46:01+00:00",
-      "revalidated_at": "2026-11-20T06:45:59+00:00"
     }
   ]
 }
