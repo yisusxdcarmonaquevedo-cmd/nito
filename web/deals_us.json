@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-20T09:30:47+00:00",
+  "generated_at": "2026-11-20T09:46:28+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0BZJN14KF",
+      "title": "14.75-Oz Amazon Grocery Canned Cream Style Corn",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 0.63,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 98.2,
+      "rating": 4.3,
+      "condition": "prime",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/71GBMdztndL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0BZJN14KF/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20354151",
+      "published_at": "2026-11-20T09:46:28+00:00",
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
+    },
+    {
+      "asin": "B0863M7C1L",
+      "title": "5-Port TP-Link LS1005G Litewave Gigabit Ethernet Switch",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 77.1,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/41ea4cmvqXL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0863M7C1L/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20354352",
+      "published_at": "2026-11-20T09:46:28+00:00",
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
+    },
+    {
+      "asin": "B0F6T6GCV8",
+      "title": "Thermalright TL-M12Q X3 120mm 3-Pack 2000RPM 68.9CFM",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 6.24,
+      "price_old": 18.71,
+      "currency": "USD",
+      "discount_pct": 66.6,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/3/4/1/4/5/2/0/2/450x450/22484010.thumb",
+      "url": "https://amazon.com/dp/B0F6T6GCV8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20354307",
+      "published_at": "2026-11-20T09:46:28+00:00",
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
+    },
+    {
+      "asin": "B0991Q94KP",
+      "title": "16.4' Govee RGBIC LED Indoor Strip Lights at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 9.99,
+      "price_old": 14.99,
+      "currency": "USD",
+      "discount_pct": 33.4,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22485996.thumb",
+      "url": "https://amazon.com/dp/B0991Q94KP/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20354964",
+      "published_at": "2026-11-20T09:46:28+00:00",
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
+    },
     {
       "asin": "B087HDPSK6",
       "title": "Nautica Girls' Full-Zip Fleece Jacket (Rose, Size 6)",
@@ -14,11 +102,11 @@
       "price_old": 28.32,
       "currency": "USD",
       "discount_pct": 70.0,
-      "rating": null,
+      "rating": 4.7,
       "condition": "prime",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/2/8/3/7/2/3/1/450x450/22475040.thumb",
+      "image": "https://m.media-amazon.com/images/I/81SAlq6xl3L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B087HDPSK6/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20350980",
@@ -58,11 +146,11 @@
       "price_old": 47.9,
       "currency": "USD",
       "discount_pct": 33.3,
-      "rating": null,
+      "rating": 4.4,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/4/1/4/5/2/0/2/450x450/22483062.thumb",
+      "image": "https://m.media-amazon.com/images/I/71NrNpFt2cL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DNQ89XXN/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20353989",
@@ -309,7 +397,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20354154",
       "published_at": "2026-11-20T07:45:57+00:00",
-      "revalidated_at": "2026-11-20T07:45:57+00:00"
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
     },
     {
       "asin": "B07ZQSL4BY",
@@ -529,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20342574",
       "published_at": "2026-11-20T05:45:59+00:00",
-      "revalidated_at": "2026-11-20T07:45:57+00:00"
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
     },
     {
       "asin": "B006T9B6R2",
@@ -551,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20344014",
       "published_at": "2026-11-20T05:45:59+00:00",
-      "revalidated_at": "2026-11-20T07:45:57+00:00"
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
     },
     {
       "asin": "B0H45524XN",
@@ -1123,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20348277",
       "published_at": "2026-11-20T03:31:00+00:00",
-      "revalidated_at": "2026-11-20T07:45:57+00:00"
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
     },
     {
       "asin": "B0F1MS548H",
@@ -1145,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20351541",
       "published_at": "2026-11-20T03:31:00+00:00",
-      "revalidated_at": "2026-11-20T07:45:57+00:00"
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
     },
     {
       "asin": "B0DPJKC2P4",
@@ -1167,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20348574",
       "published_at": "2026-11-20T03:31:00+00:00",
-      "revalidated_at": "2026-11-20T07:45:57+00:00"
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
     },
     {
       "asin": "B0C7J3YNC4",
@@ -1343,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20349204",
       "published_at": "2026-11-20T03:16:02+00:00",
-      "revalidated_at": "2026-11-20T07:31:00+00:00"
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
     },
     {
       "asin": "B0H97QC2SZ",
@@ -1365,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20350353",
       "published_at": "2026-11-20T03:16:02+00:00",
-      "revalidated_at": "2026-11-20T07:31:00+00:00"
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
     },
     {
       "asin": "B078GG3Q3C",
@@ -1893,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20350776",
       "published_at": "2026-11-20T01:01:31+00:00",
-      "revalidated_at": "2026-11-20T07:31:00+00:00"
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
     },
     {
       "asin": "B0CH155Q2X",
@@ -2135,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20350695",
       "published_at": "2026-11-20T00:47:45+00:00",
-      "revalidated_at": "2026-11-20T07:31:00+00:00"
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
     },
     {
       "asin": "B0CX1W5W41",
@@ -2201,7 +2289,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20339715",
       "published_at": "2026-11-20T00:30:58+00:00",
-      "revalidated_at": "2026-11-20T07:31:00+00:00"
+      "revalidated_at": "2026-11-20T09:46:28+00:00"
     },
     {
       "asin": "B0FJZP9WWY",
@@ -2554,94 +2642,6 @@
       "deal_key": "sd:20341842",
       "published_at": "2026-11-19T23:31:05+00:00",
       "revalidated_at": "2026-11-20T08:31:26+00:00"
-    },
-    {
-      "asin": "B09NMXBN8N",
-      "title": "Technivorm Moccamaster KBGV 10-Cup Coffee Maker (Various) at Amazon",
-      "title_es": "Cafetera Technivorm Moccamaster KBGV de 10 Tazas",
-      "headline": null,
-      "post": "La cafetera Technivorm Moccamaster KBGV prepara hasta 10 tazas de café con un sabor excepcional. Es ideal para los amantes del café que valoran la calidad, la durabilidad y un proceso de preparación óptimo.",
-      "post_en": "The Technivorm Moccamaster KBGV coffee maker brews up to 10 cups of exceptional-tasting coffee. It's ideal for coffee lovers who value quality, durability, and an optimal brewing process.",
-      "price_new": 247.95,
-      "price_old": 369.0,
-      "currency": "USD",
-      "discount_pct": 32.8,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22448310.thumb",
-      "url": "https://amazon.com/dp/B09NMXBN8N/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20342037",
-      "published_at": "2026-11-19T23:31:05+00:00",
-      "revalidated_at": "2026-11-20T08:31:26+00:00"
-    },
-    {
-      "asin": "B0GGDVG7GB",
-      "title": "Bosch GBL18V-450N18 18V Blower Kit, 450 CFM Air Flow, and 123 MPH Air Speed for (Includes: Blower, 8Ah Battery, Charger) for",
-      "title_es": "Kit Soplador Bosch GBL18V-450N18 18V (Soplador, Batería 8Ah, Cargador)",
-      "headline": null,
-      "post": "Este kit soplador Bosch GBL18V-450N18 incluye el soplador, batería de 8Ah y cargador, ofreciendo un flujo de aire de 450 CFM. Es una herramienta potente y versátil para tareas de limpieza en jardines y obras.",
-      "post_en": "This Bosch GBL18V-450N18 blower kit includes the blower, an 8Ah battery, and a charger, offering 450 CFM airflow. It's a powerful and versatile tool for garden and job site cleaning tasks.",
-      "price_new": 250.0,
-      "price_old": 360.0,
-      "currency": "USD",
-      "discount_pct": 30.6,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/9/2/3/2/7/8/3/450x450/22448049.thumb",
-      "url": "https://amazon.com/dp/B0GGDVG7GB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20341962",
-      "published_at": "2026-11-19T23:31:05+00:00",
-      "revalidated_at": "2026-11-20T08:31:26+00:00"
-    },
-    {
-      "asin": "B0H3MDHFPS",
-      "title": "800w Gourmia Countertop Blender w/ 56oz Pitcher",
-      "title_es": "Batidora de vaso Gourmia de 800W con jarra de 56oz",
-      "headline": null,
-      "post": "Esta batidora de vaso Gourmia de 800W es ideal para preparar batidos y salsas con facilidad en tu cocina. Incluye una jarra de 56oz, perfecta para el uso diario.",
-      "post_en": "This 800W Gourmia Countertop Blender is ideal for easily preparing smoothies and sauces in your kitchen. It includes a 56oz pitcher, perfect for daily use.",
-      "price_new": 25.63,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 57.3,
-      "rating": 4.0,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71LD8sKrdBL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0H3MDHFPS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20344086",
-      "published_at": "2026-11-19T23:15:59+00:00",
-      "revalidated_at": "2026-11-20T08:15:50+00:00"
-    },
-    {
-      "asin": "B0GCDB9KTQ",
-      "title": "TALIX 20000mAh 140W USB-C Laptop Power Bank w/ 3 Ports & PD 3.1",
-      "title_es": "Power Bank TALIX 20000mAh 140W USB-C para portátiles con 3 puertos y PD 3.1",
-      "headline": null,
-      "post": "El power bank TALIX de 20000mAh y 140W es perfecto para cargar tu portátil y otros dispositivos sobre la marcha. Ofrece carga rápida PD 3.1 a través de sus 3 puertos USB-C.",
-      "post_en": "The TALIX 20000mAh 140W power bank is perfect for charging your laptop and other devices on the go. It offers fast PD 3.1 charging through its 3 USB-C ports.",
-      "price_new": 37.99,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 45.7,
-      "rating": 4.3,
-      "condition": "code",
-      "code": "3NWMRKD0",
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61TOPjtlGmL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GCDB9KTQ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20346678",
-      "published_at": "2026-11-19T23:00:40+00:00",
-      "revalidated_at": "2026-11-20T08:15:50+00:00"
     }
   ]
 }
