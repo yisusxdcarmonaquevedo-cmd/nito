@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-21T02:46:01+00:00",
+  "generated_at": "2026-11-21T03:00:51+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B08P4QMDT8",
+      "title": "10,000mAh Anker Portable Charger w/ Silicone Cover (Pink)",
+      "title_es": "Cargador Portátil Anker de 10,000mAh con Funda de Silicona (Rosa)",
+      "headline": null,
+      "post": "Este cargador portátil Anker de 10,000mAh es ideal para mantener tus dispositivos cargados en cualquier lugar. Incluye una funda de silicona para protección, perfecto para quienes buscan una solución de energía fiable y compacta.",
+      "post_en": "This Anker 10,000mAh portable charger is ideal for keeping your devices powered up anywhere. It includes a silicone cover for protection, perfect for those seeking a reliable and compact power solution.",
+      "price_new": 9.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 71.5,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/61fW4DMrNqL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B08P4QMDT8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20360742",
+      "published_at": "2026-11-21T03:00:50+00:00",
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
+    },
+    {
+      "asin": "B0FB8QB54F",
+      "title": "Anker 100W 3-Port GaN USB-C Charger w/ Smart Display (2 Colors)",
+      "title_es": "Cargador USB-C GaN Anker de 100W con 3 Puertos y Pantalla Inteligente (2 Colores)",
+      "headline": null,
+      "post": "Carga tus dispositivos rápidamente con este cargador Anker GaN de 100W y tres puertos USB-C, ideal para ordenadores portátiles y smartphones. Su pantalla inteligente te permite monitorear la potencia de carga, perfecto para usuarios exigentes.",
+      "post_en": "Charge your devices rapidly with this Anker 100W 3-Port GaN USB-C charger, ideal for laptops and smartphones. Its smart display allows you to monitor charging power, perfect for demanding users.",
+      "price_new": 46.0,
+      "price_old": 69.99,
+      "currency": "USD",
+      "discount_pct": 34.3,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/22439688.thumb",
+      "url": "https://amazon.com/dp/B0FB8QB54F/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20339898",
+      "published_at": "2026-11-21T03:00:50+00:00",
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
+    },
+    {
+      "asin": "B0HKSJC3J5",
+      "title": "Ekouaer Women's Cap Sleeve Tank Top (Various)",
+      "title_es": "Camiseta sin Mangas con Manga Casquillo Ekouaer para Mujer (Varios)",
+      "headline": null,
+      "post": "Esta camiseta sin mangas Ekouaer con manga casquillo es una prenda básica y versátil para el armario femenino. Disponible en varios colores, es ideal para combinar con diferentes estilos o para uso casual diario.",
+      "post_en": "This Ekouaer women's cap sleeve tank top is a versatile basic for any female wardrobe. Available in various colors, it's ideal for pairing with different styles or for everyday casual wear.",
+      "price_new": 6.0,
+      "price_old": 18.99,
+      "currency": "USD",
+      "discount_pct": 68.4,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/6/2/0/0/0/9/450x450/22456011.thumb",
+      "url": "https://amazon.com/dp/B0HKSJC3J5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20344317",
+      "published_at": "2026-11-21T03:00:50+00:00",
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
+    },
+    {
+      "asin": "B0GS7BPZDV",
+      "title": "Darksiders Warmastered Edition (PS5)",
+      "title_es": "Darksiders Warmastered Edition (PS5)",
+      "headline": null,
+      "post": "Darksiders Warmastered Edition para PS5 ofrece una aventura de acción y rol remasterizada con gráficos mejorados y un rendimiento fluido. Es ideal para los fans de los juegos épicos y las batallas intensas en consolas de nueva generación.",
+      "post_en": "Darksiders Warmastered Edition for PS5 offers a remastered action RPG adventure with improved graphics and smooth performance. It's ideal for fans of epic games and intense battles on next-gen consoles.",
+      "price_new": 18.99,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 45.7,
+      "rating": 4.5,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/817c7CkjqNL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GS7BPZDV/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20340852",
+      "published_at": "2026-11-21T03:00:50+00:00",
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
+    },
     {
       "asin": "B0FVXZRVYR",
       "title": "4-Pk Ring Indoor Cam 2K Security Cameras",
@@ -639,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20352654",
       "published_at": "2026-11-21T00:46:13+00:00",
-      "revalidated_at": "2026-11-21T00:46:13+00:00"
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
     },
     {
       "asin": "B08T5QN2TR",
@@ -661,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20340477",
       "published_at": "2026-11-21T00:46:13+00:00",
-      "revalidated_at": "2026-11-21T00:46:13+00:00"
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
     },
     {
       "asin": "B0CPYSPHR1",
@@ -683,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20317866",
       "published_at": "2026-11-21T00:46:13+00:00",
-      "revalidated_at": "2026-11-21T00:46:13+00:00"
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
     },
     {
       "asin": "B0H1T8PXPZ",
@@ -705,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20354130",
       "published_at": "2026-11-21T00:46:13+00:00",
-      "revalidated_at": "2026-11-21T00:46:13+00:00"
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
     },
     {
       "asin": "B0CBNC8R5L",
@@ -727,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20342910",
       "published_at": "2026-11-21T00:46:13+00:00",
-      "revalidated_at": "2026-11-21T00:46:13+00:00"
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
     },
     {
       "asin": "B0G4RHHLPQ",
@@ -749,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20356131",
       "published_at": "2026-11-21T00:46:13+00:00",
-      "revalidated_at": "2026-11-21T00:46:13+00:00"
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
     },
     {
       "asin": "B0HJ6DMDFT",
@@ -771,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20359692",
       "published_at": "2026-11-21T00:46:13+00:00",
-      "revalidated_at": "2026-11-21T00:46:13+00:00"
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
     },
     {
       "asin": "B06VY6FXMM",
@@ -793,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20340006",
       "published_at": "2026-11-21T00:46:13+00:00",
-      "revalidated_at": "2026-11-21T00:46:13+00:00"
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
     },
     {
       "asin": "B0G8Y87HV8",
@@ -815,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20356965",
       "published_at": "2026-11-21T00:46:13+00:00",
-      "revalidated_at": "2026-11-21T00:46:13+00:00"
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
     },
     {
       "asin": "B0F6TM5LJR",
@@ -1079,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20355936",
       "published_at": "2026-11-20T23:00:45+00:00",
-      "revalidated_at": "2026-11-21T00:46:13+00:00"
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
     },
     {
       "asin": "B0BQDS9XFC",
@@ -1475,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20355564",
       "published_at": "2026-11-20T21:00:49+00:00",
-      "revalidated_at": "2026-11-21T00:46:13+00:00"
+      "revalidated_at": "2026-11-21T03:00:51+00:00"
     },
     {
       "asin": "B0FPG1XX7M",
@@ -2554,94 +2642,6 @@
       "deal_key": "sd:20355057",
       "published_at": "2026-11-20T14:15:59+00:00",
       "revalidated_at": "2026-11-21T02:46:01+00:00"
-    },
-    {
-      "asin": "B0DM3P9LB3",
-      "title": "Men's Brooks Ghost Max 3 Running Shoes (various colors/sizes) at Amazon",
-      "title_es": "Zapatillas Brooks Men’s Ghost Max 3 para Correr (Varios Colores/Tallas)",
-      "headline": null,
-      "post": "Las zapatillas Brooks Ghost Max 3 para hombre ofrecen una amortiguación superior y una pisada suave, perfectas para corredores que buscan comodidad y soporte en sus entrenamientos diarios o carreras largas. Su diseño versátil las hace adecuadas para una amplia variedad de actividades.",
-      "post_en": "The Brooks Ghost Max 3 men's running shoes offer superior cushioning and a smooth ride, perfect for runners seeking comfort and support in their daily training or long runs. Their versatile design makes them suitable for a wide range of activities.",
-      "price_new": 92.95,
-      "price_old": 159.95,
-      "currency": "USD",
-      "discount_pct": 41.9,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22484673.thumb",
-      "url": "https://amazon.com/dp/B0DM3P9LB3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20354559",
-      "published_at": "2026-11-20T14:15:59+00:00",
-      "revalidated_at": "2026-11-21T00:30:38+00:00"
-    },
-    {
-      "asin": "B0GP91FL59",
-      "title": "MSI MAG MT101G Gas Spring Single Monitor Stand Arm at Amazon",
-      "title_es": "Soporte de Monitor MSI MAG MT101G con Brazo de Resorte de Gas",
-      "headline": null,
-      "post": "Este soporte MSI MAG MT101G con brazo de resorte de gas permite ajustar tu monitor con facilidad para una ergonomía óptima, liberando espacio valioso en tu escritorio. Es ideal para gamers y profesionales que buscan flexibilidad y una configuración de trabajo más organizada.",
-      "post_en": "This MSI MAG MT101G gas spring monitor arm allows you to easily adjust your monitor for optimal ergonomics, freeing up valuable desk space. It's ideal for gamers and professionals looking for flexibility and a more organized workspace setup.",
-      "price_new": 29.99,
-      "price_old": 49.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": null,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22457358.thumb",
-      "url": "https://amazon.com/dp/B0GP91FL59/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20344779",
-      "published_at": "2026-11-20T14:15:59+00:00",
-      "revalidated_at": "2026-11-21T00:30:38+00:00"
-    },
-    {
-      "asin": "B07SNFK6TP",
-      "title": "Amazon Basics Refillable Medium Nib Fountain Pen w/ 2 Replacement Ink Cartridges (Black)",
-      "title_es": "Pluma Estilográfica Amazon Basics de Punta Media Recargable (Negro)",
-      "headline": null,
-      "post": "Esta pluma estilográfica Amazon Basics de punta media ofrece una experiencia de escritura suave y elegante, perfecta para uso diario o para dar un toque sofisticado a tus notas. Incluye dos cartuchos de tinta de repuesto, lista para usar.",
-      "post_en": "This Amazon Basics medium nib fountain pen offers a smooth and elegant writing experience, perfect for daily use or adding a sophisticated touch to your notes. It includes two replacement ink cartridges, ready to use.",
-      "price_new": 8.47,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 75.8,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/3/5/6/4/5/1/8/7/450x450/22482879.thumb",
-      "url": "https://amazon.com/dp/B07SNFK6TP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20353956",
-      "published_at": "2026-11-20T14:00:50+00:00",
-      "revalidated_at": "2026-11-21T00:30:38+00:00"
-    },
-    {
-      "asin": "B07GBZ4Q68",
-      "title": "$29.99 Logitech G502 HERO Wired Gaming Mouse, HERO 25K Sensor for PC/Mac at Amazon",
-      "title_es": "Ratón Gaming Logitech G502 HERO con Cable y Sensor HERO 25K",
-      "headline": null,
-      "post": "El ratón gaming Logitech G502 HERO es un clásico para jugadores, ofreciendo un sensor HERO 25K de alta precisión y botones programables para una experiencia de juego personalizable. Es ideal para quienes buscan rendimiento y durabilidad en PC y Mac.",
-      "post_en": "The Logitech G502 HERO gaming mouse is a classic for gamers, offering a high-precision HERO 25K sensor and programmable buttons for a customizable gaming experience. It's ideal for those seeking performance and durability on PC and Mac.",
-      "price_new": 29.99,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 57.2,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07GBZ4Q68/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20352321",
-      "published_at": "2026-11-20T14:00:50+00:00",
-      "revalidated_at": "2026-11-21T00:46:13+00:00"
     }
   ]
 }
