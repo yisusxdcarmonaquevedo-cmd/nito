@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-21T01:01:02+00:00",
+  "generated_at": "2026-11-21T01:16:10+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0FWK8XS97",
+      "title": "0.51-Oz K-SECRET SEOUL1988 Retinal Advanced Shot Serum w/ 22,275 Spicules",
+      "title_es": "K-SECRET SEOUL1988 Retinal Advanced Shot Serum con espículas",
+      "headline": null,
+      "post": "Este sérum K-SECRET SEOUL1988 con retinal y espículas ayuda a mejorar la textura de la piel. Es ideal para quienes buscan un cuidado facial avanzado con ingredientes activos.",
+      "post_en": "This K-SECRET SEOUL1988 serum with retinal and spicules helps improve skin texture. It's ideal for those seeking advanced facial care with active ingredients.",
+      "price_new": 11.0,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 68.6,
+      "rating": 4.4,
+      "condition": "prime",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/61io2Z852yL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FWK8XS97/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20352153",
+      "published_at": "2026-11-21T01:16:10+00:00",
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
+    },
+    {
+      "asin": "B0FYCYMVLG",
+      "title": "[Prime] SpaceHacks 5-Tier Over-the-Door Hanging Storage Organizer (Dark Grey)",
+      "title_es": "Organizador de almacenamiento colgante SpaceHacks de 5 niveles para puerta (Gris Oscuro)",
+      "headline": null,
+      "post": "Este organizador colgante SpaceHacks de 5 niveles es perfecto para maximizar el espacio detrás de cualquier puerta. Ideal para almacenar artículos pequeños en dormitorios, baños o despensas.",
+      "post_en": "This SpaceHacks 5-tier over-the-door hanging organizer is perfect for maximizing space behind any door. It's ideal for storing small items in bedrooms, bathrooms, or pantries.",
+      "price_new": 9.01,
+      "price_old": 18.99,
+      "currency": "USD",
+      "discount_pct": 52.6,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81gaHYJd47L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FYCYMVLG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20355366",
+      "published_at": "2026-11-21T01:16:10+00:00",
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
+    },
+    {
+      "asin": "B0GMPN17CC",
+      "title": "SILENT HILL: Townfall (PlayStation 5) -",
+      "title_es": "SILENT HILL: Townfall (PlayStation 5)",
+      "headline": null,
+      "post": "SILENT HILL: Townfall para PlayStation 5 ofrece una nueva experiencia en la aclamada saga de terror. Es un título imprescindible para los fans del género y de la franquicia.",
+      "post_en": "SILENT HILL: Townfall for PlayStation 5 offers a new experience in the acclaimed horror saga. It's a must-have title for fans of the genre and the franchise.",
+      "price_new": 29.99,
+      "price_old": 57.0,
+      "currency": "USD",
+      "discount_pct": 47.4,
+      "rating": 4.5,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81UNjoTx2xL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GMPN17CC/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20360130",
+      "published_at": "2026-11-21T01:16:10+00:00",
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
+    },
+    {
+      "asin": "B00006IFI3",
+      "title": "$6.64 Sharpie Permanent Markers, Ultra Fine Point, Black, 12 Count with S&S",
+      "title_es": "Rotuladores permanentes Sharpie, punta ultra fina, negros, paquete de 12",
+      "headline": null,
+      "post": "Este paquete de 12 rotuladores permanentes Sharpie de punta ultra fina es ideal para tareas de precisión. Son perfectos para la oficina, el estudio o proyectos creativos que requieren detalles finos.",
+      "post_en": "This 12-count pack of Sharpie Ultra Fine Point Permanent Markers is ideal for precision tasks. They are perfect for office, study, or creative projects requiring fine details.",
+      "price_new": 6.64,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 88.9,
+      "rating": 4.8,
+      "condition": "sns",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81irPgvolBL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B00006IFI3/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20355387",
+      "published_at": "2026-11-21T01:16:10+00:00",
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
+    },
     {
       "asin": "B0GZ2FBB8Z",
       "title": "[Prime] Auxmir Lighted Makeup Mirror w/ 76 LEDs, 3 Color Modes & 4000mAh Rechargeable Battery (White)",
@@ -14,11 +102,11 @@
       "price_old": 29.99,
       "currency": "USD",
       "discount_pct": 66.7,
-      "rating": null,
+      "rating": 4.4,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/8/3/9/2/450x450/22482894.thumb",
+      "image": "https://m.media-amazon.com/images/I/51rgoP3Q6QL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GZ2FBB8Z/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20347953",
@@ -36,11 +124,11 @@
       "price_old": 169.0,
       "currency": "USD",
       "discount_pct": 41.4,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/4/5/6/0/3/7/8/450x450/22485024.thumb",
+      "image": "https://m.media-amazon.com/images/I/71XLUYjPwRL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B09YXZ4L8T/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20354676",
@@ -80,11 +168,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 72.1,
-      "rating": null,
+      "rating": 4.7,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/22493565.thumb",
+      "image": "https://m.media-amazon.com/images/I/A1WsyLu+75L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G4XJBHJC/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20357592",
@@ -102,11 +190,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 81.5,
-      "rating": null,
+      "rating": 4.9,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/2/0/5/3/8/1/8/4/450x450/22478985.thumb",
+      "image": "https://m.media-amazon.com/images/I/81kW1WjrauL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FK5RPCY5/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20352654",
@@ -529,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20357559",
       "published_at": "2026-11-20T23:15:55+00:00",
-      "revalidated_at": "2026-11-20T23:15:55+00:00"
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
     },
     {
       "asin": "B00PXVU3GM",
@@ -903,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20356935",
       "published_at": "2026-11-20T21:16:05+00:00",
-      "revalidated_at": "2026-11-20T23:15:55+00:00"
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
     },
     {
       "asin": "B0FBWXH36X",
@@ -925,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20329521",
       "published_at": "2026-11-20T21:16:05+00:00",
-      "revalidated_at": "2026-11-20T23:15:55+00:00"
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
     },
     {
       "asin": "B0D228DLMN",
@@ -1343,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20356512",
       "published_at": "2026-11-20T19:01:14+00:00",
-      "revalidated_at": "2026-11-20T23:15:55+00:00"
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
     },
     {
       "asin": "B0H6JCSZ1Q",
@@ -1739,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20354436",
       "published_at": "2026-11-20T17:00:56+00:00",
-      "revalidated_at": "2026-11-20T23:15:55+00:00"
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
     },
     {
       "asin": "B0F5QPFLRM",
@@ -1783,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20355495",
       "published_at": "2026-11-20T16:45:59+00:00",
-      "revalidated_at": "2026-11-20T23:15:55+00:00"
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
     },
     {
       "asin": "B0DSBNWQS9",
@@ -1805,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20347368",
       "published_at": "2026-11-20T16:45:59+00:00",
-      "revalidated_at": "2026-11-20T23:15:55+00:00"
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
     },
     {
       "asin": "B0CXS16KNF",
@@ -2025,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20351721",
       "published_at": "2026-11-20T14:46:01+00:00",
-      "revalidated_at": "2026-11-20T23:15:55+00:00"
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
     },
     {
       "asin": "B007Y6P7ZG",
@@ -2421,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20355588",
       "published_at": "2026-11-20T13:02:00+00:00",
-      "revalidated_at": "2026-11-20T23:15:55+00:00"
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
     },
     {
       "asin": "B0D1YQKDML",
@@ -2443,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20355507",
       "published_at": "2026-11-20T13:02:00+00:00",
-      "revalidated_at": "2026-11-20T23:15:55+00:00"
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
     },
     {
       "asin": "B07P7FKW8X",
@@ -2465,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20355330",
       "published_at": "2026-11-20T12:46:19+00:00",
-      "revalidated_at": "2026-11-20T23:15:55+00:00"
+      "revalidated_at": "2026-11-21T01:16:10+00:00"
     },
     {
       "asin": "B0FKPVD2MF",
@@ -2554,94 +2642,6 @@
       "deal_key": "sd:20334999",
       "published_at": "2026-11-20T12:31:10+00:00",
       "revalidated_at": "2026-11-20T23:30:59+00:00"
-    },
-    {
-      "asin": "B079D72S2B",
-      "title": "12-Pk 12oz. Diet Pepsi Cola Soda Soft Drinks 3 for",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 11.5,
-      "price_old": 50.94,
-      "currency": "USD",
-      "discount_pct": 77.4,
-      "rating": 4.6,
-      "condition": "sns",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/91CGhuHlmpL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B079D72S2B/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20355228",
-      "published_at": "2026-11-20T12:16:01+00:00",
-      "revalidated_at": "2026-11-21T01:01:02+00:00"
-    },
-    {
-      "asin": "B0HGL5FZ4W",
-      "title": "[Prime] NB Ergonomic SmooVex Pro Mechanical Spring Monitor Arm (17\" -  32\" Monitors, Model A7)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 19.95,
-      "price_old": 49.9,
-      "currency": "USD",
-      "discount_pct": 60.0,
-      "rating": null,
-      "condition": "code",
-      "code": "Z3DGJIQE",
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/22482270.thumb",
-      "url": "https://amazon.com/dp/B0HGL5FZ4W/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20353731",
-      "published_at": "2026-11-20T12:16:01+00:00",
-      "revalidated_at": "2026-11-21T01:01:02+00:00"
-    },
-    {
-      "asin": "B0HB3BC4M3",
-      "title": "KAWA 3K Dash Cam Front, 360°Rotation, Voice Control, Wi-Fi Dashcam for Cars",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 34.99,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "D63KCODE",
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/61dh-mvoLpL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0HB3BC4M3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20352798",
-      "published_at": "2026-11-20T12:16:01+00:00",
-      "revalidated_at": "2026-11-21T01:01:02+00:00"
-    },
-    {
-      "asin": "B0F7RXTN1Y",
-      "title": "40\" Insignia F40 Series 1080p LED Smart Fire TV",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 84.98,
-      "price_old": 149.99,
-      "currency": "USD",
-      "discount_pct": 43.3,
-      "rating": 4.0,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81spJCljSqL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F7RXTN1Y/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20340993",
-      "published_at": "2026-11-20T12:16:01+00:00",
-      "revalidated_at": "2026-11-21T01:01:02+00:00"
     }
   ]
 }
