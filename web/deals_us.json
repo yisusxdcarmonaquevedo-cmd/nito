@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:15:41+00:00",
+  "generated_at": "2026-11-21T10:30:36+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -146,11 +146,11 @@
       "price_old": 28.0,
       "currency": "USD",
       "discount_pct": 30.0,
-      "rating": null,
+      "rating": 4.7,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/2/6/9/4/8/450x450/22496598.thumb",
+      "image": "https://m.media-amazon.com/images/I/51Skkj-PSHL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CZYMJS6J/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20358873",
@@ -168,11 +168,11 @@
       "price_old": 39.9,
       "currency": "USD",
       "discount_pct": 49.9,
-      "rating": null,
+      "rating": 4.5,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/1/7/1/9/9/0/1/450x450/22478169.thumb",
+      "image": "https://m.media-amazon.com/images/I/61lJRNNnPxL._AC_SL1403_.jpg",
       "url": "https://amazon.com/dp/B0G563G3TD/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20352537",
@@ -190,11 +190,11 @@
       "price_old": 68.99,
       "currency": "USD",
       "discount_pct": 48.3,
-      "rating": null,
+      "rating": 4.4,
       "condition": "coupon",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/3/0/4/4/1/0/9/7/450x450/22502736.thumb",
+      "image": "https://m.media-amazon.com/images/I/819KAhUqlXL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G4VC3WXS/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20361462",
@@ -331,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20360895",
       "published_at": "2026-11-21T08:30:37+00:00",
-      "revalidated_at": "2026-11-21T08:30:37+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B0GVTT1Z5K",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20360115",
       "published_at": "2026-11-21T04:45:35+00:00",
-      "revalidated_at": "2026-11-21T08:30:37+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B0DSCML33G",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20360514",
       "published_at": "2026-11-21T04:45:35+00:00",
-      "revalidated_at": "2026-11-21T08:30:37+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B0H714X1YH",
@@ -1013,7 +1013,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20339601",
       "published_at": "2026-11-21T04:31:00+00:00",
-      "revalidated_at": "2026-11-21T08:30:37+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B0GHXV5WDN",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20360586",
       "published_at": "2026-11-21T04:15:53+00:00",
-      "revalidated_at": "2026-11-21T08:15:28+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B0H294C51L",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20343072",
       "published_at": "2026-11-21T04:15:53+00:00",
-      "revalidated_at": "2026-11-21T08:15:28+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B0H68YCT1G",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20353308",
       "published_at": "2026-11-21T02:46:01+00:00",
-      "revalidated_at": "2026-11-21T08:30:37+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B0C3P2BBHS",
@@ -1563,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20359716",
       "published_at": "2026-11-21T02:30:42+00:00",
-      "revalidated_at": "2026-11-21T08:30:37+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B0CKYGLT5M",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20344203",
       "published_at": "2026-11-21T02:16:06+00:00",
-      "revalidated_at": "2026-11-21T08:15:28+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B0GJRJVCXF",
@@ -1629,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20360181",
       "published_at": "2026-11-21T02:16:06+00:00",
-      "revalidated_at": "2026-11-21T08:15:28+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B07RC8P4NT",
@@ -1651,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20351247",
       "published_at": "2026-11-21T02:16:06+00:00",
-      "revalidated_at": "2026-11-21T08:30:37+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B08J942JWY",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20360064",
       "published_at": "2026-11-21T02:16:06+00:00",
-      "revalidated_at": "2026-11-21T08:30:37+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B0GKP8HTRX",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20346969",
       "published_at": "2026-11-21T02:16:06+00:00",
-      "revalidated_at": "2026-11-21T08:30:37+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B0CJXVK5S6",
@@ -1717,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20353704",
       "published_at": "2026-11-21T02:16:06+00:00",
-      "revalidated_at": "2026-11-21T08:30:37+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B0FNSXRRDJ",
@@ -2619,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20358984",
       "published_at": "2026-11-20T22:16:20+00:00",
-      "revalidated_at": "2026-11-21T08:30:37+00:00"
+      "revalidated_at": "2026-11-21T10:30:36+00:00"
     },
     {
       "asin": "B0GH6HSYDK",
