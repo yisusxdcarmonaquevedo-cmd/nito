@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-22T21:31:15+00:00",
+  "generated_at": "2026-11-22T21:45:44+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B001E96OU6",
+      "title": "3-Pack 9.1-Oz Neutrogena Oil-Free Acne Face Wash w/ 2% Salicylic Acid",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.67,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 86.7,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/3/5/6/4/5/1/8/7/450x450/22408158.thumb",
+      "url": "https://amazon.com/dp/B001E96OU6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20330133",
+      "published_at": "2026-11-22T21:45:44+00:00",
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
+    },
+    {
+      "asin": "B0FSNPJV7H",
+      "title": "6.5-Oz OGX ProGrowth + Peptide Serum Mist",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 6.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 81.5,
+      "rating": 4.4,
+      "condition": "prime",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/6144sndOyYL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FSNPJV7H/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20366619",
+      "published_at": "2026-11-22T21:45:44+00:00",
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
+    },
+    {
+      "asin": "B0FMBTJLX6",
+      "title": "Canon PIXMA TS6520 Wireless Color Inkjet Printer, 1.42\" OLED Display, White at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 68.99,
+      "price_old": 140.99,
+      "currency": "USD",
+      "discount_pct": 51.1,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/51C2sIAqn2L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FMBTJLX6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20368197",
+      "published_at": "2026-11-22T21:45:44+00:00",
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
+    },
     {
       "asin": "B0HPGSTXXX",
       "title": "Apple 14\" MacBook Pro Laptop: M6 Chip, 16GB Memory, 1TB SSD at Amazon",
@@ -488,28 +554,6 @@
       "revalidated_at": "2026-11-22T20:01:01+00:00"
     },
     {
-      "asin": "B0GHR1NYG3",
-      "title": "300-Piece RoseArt Planet Cat: Movie Cats Jigsaw Puzzle",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 4.94,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 85.9,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/91crcf4Ka1L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GHR1NYG3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20370348",
-      "published_at": "2026-11-22T19:45:53+00:00",
-      "revalidated_at": "2026-11-22T19:45:53+00:00"
-    },
-    {
       "asin": "B0G8JLH4L3",
       "title": "4D Build KPop Demon Hunters Rumi in Ramyeon Cup 3D Puzzle Model Kit | 138 Premium EPS Foam Pieces at Amazon",
       "title_es": null,
@@ -529,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369874",
       "published_at": "2026-11-22T19:45:53+00:00",
-      "revalidated_at": "2026-11-22T19:45:53+00:00"
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
     },
     {
       "asin": "B0BXFLW8WY",
@@ -639,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369445",
       "published_at": "2026-11-22T19:30:28+00:00",
-      "revalidated_at": "2026-11-22T19:30:28+00:00"
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
     },
     {
       "asin": "B0G4XH2YRD",
@@ -828,11 +872,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 48.1,
-      "rating": null,
+      "rating": 4.8,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/22523499.thumb",
+      "image": "https://m.media-amazon.com/images/I/A1WYsOlyo6L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G3THX7H7/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20370414",
@@ -850,11 +894,11 @@
       "price_old": 199.95,
       "currency": "USD",
       "discount_pct": 45.5,
-      "rating": null,
+      "rating": 4.5,
       "condition": "prime",
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/3/4/1/4/5/2/0/2/450x450/22484076.thumb",
+      "image": "https://m.media-amazon.com/images/I/71FcuokfwCL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DM3MTXGK/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20354346",
@@ -1167,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369682",
       "published_at": "2026-11-22T17:31:18+00:00",
-      "revalidated_at": "2026-11-22T19:30:28+00:00"
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
     },
     {
       "asin": "B0HKNLWX6V",
@@ -1277,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20370498",
       "published_at": "2026-11-22T17:15:55+00:00",
-      "revalidated_at": "2026-11-22T19:30:28+00:00"
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
     },
     {
       "asin": "B0GQD9L6YL",
@@ -1717,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368893",
       "published_at": "2026-11-22T15:16:00+00:00",
-      "revalidated_at": "2026-11-22T19:30:28+00:00"
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
     },
     {
       "asin": "B0G1M3FD32",
@@ -1739,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20367138",
       "published_at": "2026-11-22T15:16:00+00:00",
-      "revalidated_at": "2026-11-22T19:30:28+00:00"
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
     },
     {
       "asin": "B0GMLLHCQR",
@@ -1761,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369829",
       "published_at": "2026-11-22T15:16:00+00:00",
-      "revalidated_at": "2026-11-22T19:30:28+00:00"
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
     },
     {
       "asin": "B0D1YL9TRK",
@@ -1783,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20354514",
       "published_at": "2026-11-22T15:16:00+00:00",
-      "revalidated_at": "2026-11-22T19:30:28+00:00"
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
     },
     {
       "asin": "B00939FV8K",
@@ -1805,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368785",
       "published_at": "2026-11-22T15:16:00+00:00",
-      "revalidated_at": "2026-11-22T19:30:28+00:00"
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
     },
     {
       "asin": "B0H8Q5JK5Y",
@@ -1827,7 +1871,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368554",
       "published_at": "2026-11-22T15:16:00+00:00",
-      "revalidated_at": "2026-11-22T19:30:28+00:00"
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
     },
     {
       "asin": "B0GMPPXXC9",
@@ -2553,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20340594",
       "published_at": "2026-11-22T12:45:59+00:00",
-      "revalidated_at": "2026-11-22T19:15:46+00:00"
+      "revalidated_at": "2026-11-22T21:45:44+00:00"
     },
     {
       "asin": "B0DJWPDYGZ",
@@ -2576,50 +2620,6 @@
       "deal_key": "sd:20367312",
       "published_at": "2026-11-22T12:31:19+00:00",
       "revalidated_at": "2026-11-22T21:00:53+00:00"
-    },
-    {
-      "asin": "B09VCRPR8V",
-      "title": "Ball Regular Mouth Pint (16 oz.) Mason Jars with Lids and Bands, for Canning or Drinkware, 8 Count at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 12.71,
-      "price_old": 28.17,
-      "currency": "USD",
-      "discount_pct": 54.9,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/61y6vj0iEeL._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B09VCRPR8V/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20368332",
-      "published_at": "2026-11-22T12:31:19+00:00",
-      "revalidated_at": "2026-11-22T21:15:44+00:00"
-    },
-    {
-      "asin": "B0FGTXSYRK",
-      "title": "Black Friday Deal + Extra 50% Off Coupon Code! Portable Tire Inflator Air Compressor",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 16.62,
-      "price_old": 33.24,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.5,
-      "condition": "code",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71S5t9fXFDL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FGTXSYRK/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20368404",
-      "published_at": "2026-11-22T12:31:19+00:00",
-      "revalidated_at": "2026-11-22T21:15:44+00:00"
     }
   ]
 }
