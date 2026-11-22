@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-22T19:15:46+00:00",
+  "generated_at": "2026-11-22T19:30:28+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B08BHHRSPK",
+      "title": "The Game of Life Board Game by Hasbro, Family Games for Kids Ages 8 and Up at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 10.0,
+      "price_old": 24.99,
+      "currency": "USD",
+      "discount_pct": 60.0,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81A0K5YsuxL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B08BHHRSPK/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20369445",
+      "published_at": "2026-11-22T19:30:28+00:00",
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
+    },
     {
       "asin": "B0G4XH2YRD",
       "title": "007 First Light - Collector's Edition - Xbox Series X at Amazon",
@@ -58,11 +80,11 @@
       "price_old": 189.99,
       "currency": "USD",
       "discount_pct": 33.2,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/5/5/7/3/6/2/450x450/22446309.thumb",
+      "image": "https://m.media-amazon.com/images/I/71MNutfFhXL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B07MXB85S3/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20341527",
@@ -80,11 +102,11 @@
       "price_old": 891.0,
       "currency": "USD",
       "discount_pct": 32.2,
-      "rating": null,
+      "rating": 3.7,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/22520406.thumb",
+      "image": "https://m.media-amazon.com/images/I/71dGh4Ws1nL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BVGYYK2F/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20368971",
@@ -551,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369682",
       "published_at": "2026-11-22T17:31:18+00:00",
-      "revalidated_at": "2026-11-22T17:31:18+00:00"
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
     },
     {
       "asin": "B0HKNLWX6V",
@@ -661,29 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20370498",
       "published_at": "2026-11-22T17:15:55+00:00",
-      "revalidated_at": "2026-11-22T17:15:55+00:00"
-    },
-    {
-      "asin": "B0BS76NRG3",
-      "title": "NutriBullet Pro+ 1200W Personal Blender (Matte Black)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 67.49,
-      "price_old": 134.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/719l2zu4Z7L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0BS76NRG3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20339580",
-      "published_at": "2026-11-22T17:15:55+00:00",
-      "revalidated_at": "2026-11-22T17:15:55+00:00"
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
     },
     {
       "asin": "B0GQD9L6YL",
@@ -1167,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368893",
       "published_at": "2026-11-22T15:16:00+00:00",
-      "revalidated_at": "2026-11-22T17:15:55+00:00"
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
     },
     {
       "asin": "B0G1M3FD32",
@@ -1189,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20367138",
       "published_at": "2026-11-22T15:16:00+00:00",
-      "revalidated_at": "2026-11-22T17:15:55+00:00"
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
     },
     {
       "asin": "B0GMLLHCQR",
@@ -1211,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369829",
       "published_at": "2026-11-22T15:16:00+00:00",
-      "revalidated_at": "2026-11-22T17:15:55+00:00"
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
     },
     {
       "asin": "B0D1YL9TRK",
@@ -1233,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20354514",
       "published_at": "2026-11-22T15:16:00+00:00",
-      "revalidated_at": "2026-11-22T17:15:55+00:00"
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
     },
     {
       "asin": "B00939FV8K",
@@ -1255,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368785",
       "published_at": "2026-11-22T15:16:00+00:00",
-      "revalidated_at": "2026-11-22T17:15:55+00:00"
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
     },
     {
       "asin": "B0H8Q5JK5Y",
@@ -1277,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368554",
       "published_at": "2026-11-22T15:16:00+00:00",
-      "revalidated_at": "2026-11-22T17:15:55+00:00"
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
     },
     {
       "asin": "B0GMPPXXC9",
@@ -2311,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20367948",
       "published_at": "2026-11-22T11:00:34+00:00",
-      "revalidated_at": "2026-11-22T17:15:55+00:00"
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
     },
     {
       "asin": "B0BDGMNF6V",
@@ -2333,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368563",
       "published_at": "2026-11-22T11:00:34+00:00",
-      "revalidated_at": "2026-11-22T17:15:55+00:00"
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
     },
     {
       "asin": "B00ZIEOJ0A",
@@ -2377,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20367906",
       "published_at": "2026-11-22T10:45:42+00:00",
-      "revalidated_at": "2026-11-22T17:15:55+00:00"
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
     },
     {
       "asin": "B0F6YD6HB6",
@@ -2421,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20322129",
       "published_at": "2026-11-22T10:30:46+00:00",
-      "revalidated_at": "2026-11-22T17:01:07+00:00"
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
     },
     {
       "asin": "B0BSMSYM9N",
@@ -2619,29 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20319930",
       "published_at": "2026-11-22T09:01:05+00:00",
-      "revalidated_at": "2026-11-22T17:15:55+00:00"
-    },
-    {
-      "asin": "B0CMK6M2K3",
-      "title": "Tissot Chemin des Tourelles, Swiss Powermatic 80, 39 mm, Silver Dial, Unisex Watch",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 512.5,
-      "price_old": 743.0,
-      "currency": "USD",
-      "discount_pct": 31.0,
-      "rating": 5.0,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/816HZbl3kEL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CMK6M2K3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20366220",
-      "published_at": "2026-11-22T09:01:05+00:00",
-      "revalidated_at": "2026-11-22T17:15:55+00:00"
+      "revalidated_at": "2026-11-22T19:30:28+00:00"
     }
   ]
 }
