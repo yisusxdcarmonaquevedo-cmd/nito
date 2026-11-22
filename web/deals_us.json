@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-22T23:00:48+00:00",
+  "generated_at": "2026-11-22T23:15:53+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B0FKVBWNY6",
+      "title": "GUND Sanrio Cinnamoroll 6\" Plush Toy (Rodeo Bull Outfit)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.83,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 83.3,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://slickdeals.net/attachment/3/0/4/6/9/4/2/0/450x450/22524210.thumb",
+      "url": "https://amazon.com/dp/B0FKVBWNY6/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20370867",
+      "published_at": "2026-11-22T23:15:53+00:00",
+      "revalidated_at": "2026-11-22T23:15:53+00:00"
+    },
+    {
+      "asin": "B0H6BJ4QNT",
+      "title": "Coolife 30L Carry On Flight Approved Travel Laptop Backpack for Men, Grey",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 43.99,
+      "price_old": 69.98,
+      "currency": "USD",
+      "discount_pct": 37.1,
+      "rating": null,
+      "condition": "code",
+      "code": "GQIAEXS7",
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/5/3/4/7/0/450x450/22430886.thumb",
+      "url": "https://amazon.com/dp/B0H6BJ4QNT/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20337870",
+      "published_at": "2026-11-22T23:15:53+00:00",
+      "revalidated_at": "2026-11-22T23:15:53+00:00"
+    },
     {
       "asin": "B0BT8B5QJ8",
       "title": "55-Pc BePuzzled Hedgehog Crystal 3D Brain Teaser Puzzle (Level 2)",
@@ -441,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371575",
       "published_at": "2026-11-22T21:31:15+00:00",
-      "revalidated_at": "2026-11-22T21:31:15+00:00"
+      "revalidated_at": "2026-11-22T23:15:53+00:00"
     },
     {
       "asin": "B0CHJF2DF5",
@@ -463,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20370084",
       "published_at": "2026-11-22T21:31:15+00:00",
-      "revalidated_at": "2026-11-22T21:31:15+00:00"
+      "revalidated_at": "2026-11-22T23:15:53+00:00"
     },
     {
       "asin": "B077XNFYM5",
@@ -530,28 +574,6 @@
       "deal_key": "sd:20369508",
       "published_at": "2026-11-22T21:31:15+00:00",
       "revalidated_at": "2026-11-22T21:31:15+00:00"
-    },
-    {
-      "asin": "B0GFNF7TZ9",
-      "title": "Soundcore Boom Go 3i Portable Bluetooth Speaker by Anker, 24H Playtime (Blue) at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 40.0,
-      "price_old": 80.0,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71iBjUiy86L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GFNF7TZ9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20362260",
-      "published_at": "2026-11-22T21:15:44+00:00",
-      "revalidated_at": "2026-11-22T21:15:44+00:00"
     },
     {
       "asin": "B0GVZWLWWF",
@@ -1101,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368884",
       "published_at": "2026-11-22T19:00:51+00:00",
-      "revalidated_at": "2026-11-22T21:15:44+00:00"
+      "revalidated_at": "2026-11-22T23:15:53+00:00"
     },
     {
       "asin": "B0F334DN9J",
@@ -1123,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20362308",
       "published_at": "2026-11-22T19:00:51+00:00",
-      "revalidated_at": "2026-11-22T21:15:44+00:00"
+      "revalidated_at": "2026-11-22T23:15:53+00:00"
     },
     {
       "asin": "B0CRTYZG5C",
@@ -1145,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20341359",
       "published_at": "2026-11-22T19:00:51+00:00",
-      "revalidated_at": "2026-11-22T21:15:44+00:00"
+      "revalidated_at": "2026-11-22T23:15:53+00:00"
     },
     {
       "asin": "B0CXBJ44N7",
@@ -1167,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369502",
       "published_at": "2026-11-22T19:00:51+00:00",
-      "revalidated_at": "2026-11-22T21:15:44+00:00"
+      "revalidated_at": "2026-11-22T23:15:53+00:00"
     },
     {
       "asin": "B07HCGMPZC",
@@ -1189,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20355222",
       "published_at": "2026-11-22T19:00:51+00:00",
-      "revalidated_at": "2026-11-22T21:15:44+00:00"
+      "revalidated_at": "2026-11-22T23:15:53+00:00"
     },
     {
       "asin": "B0G3THX7H7",
@@ -2311,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368752",
       "published_at": "2026-11-22T14:46:02+00:00",
-      "revalidated_at": "2026-11-22T21:15:44+00:00"
+      "revalidated_at": "2026-11-22T23:15:53+00:00"
     },
     {
       "asin": "B07FD68XG7",
@@ -2333,29 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20367135",
       "published_at": "2026-11-22T14:46:02+00:00",
-      "revalidated_at": "2026-11-22T21:15:44+00:00"
-    },
-    {
-      "asin": "B0G2SZXVHB",
-      "title": "1963 Pcs LEGO Fortnite Rave Cave Building Toy (77082)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 137.99,
-      "price_old": 229.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81jSVDnLpNL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G2SZXVHB/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20369613",
-      "published_at": "2026-11-22T14:46:02+00:00",
-      "revalidated_at": "2026-11-22T21:15:44+00:00"
+      "revalidated_at": "2026-11-22T23:15:53+00:00"
     },
     {
       "asin": "B0DBJDYQNR",
@@ -2443,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368053",
       "published_at": "2026-11-22T14:30:52+00:00",
-      "revalidated_at": "2026-11-22T21:00:53+00:00"
+      "revalidated_at": "2026-11-22T23:15:53+00:00"
     },
     {
       "asin": "B0GMLVTRTM",
@@ -2465,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369496",
       "published_at": "2026-11-22T14:30:52+00:00",
-      "revalidated_at": "2026-11-22T21:00:53+00:00"
+      "revalidated_at": "2026-11-22T23:15:53+00:00"
     },
     {
       "asin": "B0FPHLW75C",
@@ -2598,50 +2598,6 @@
       "deal_key": "sd:20352078",
       "published_at": "2026-11-22T14:01:10+00:00",
       "revalidated_at": "2026-11-22T22:30:52+00:00"
-    },
-    {
-      "asin": "B0FS9WH16L",
-      "title": "Metroid Prime 4: Beyond (Nintendo Switch Digital Code) & More at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 39.99,
-      "price_old": 59.99,
-      "currency": "USD",
-      "discount_pct": 33.3,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/81qPPAtkeYL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FS9WH16L/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20368227",
-      "published_at": "2026-11-22T14:01:10+00:00",
-      "revalidated_at": "2026-11-22T22:30:52+00:00"
-    },
-    {
-      "asin": "B0CG2GZB5P",
-      "title": "Hey! Play! Kids Exercise Equipment Collection: Strength Training, Cardio, Endurance, and Active Play Essentials - Kids Weight Bench Set",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 68.98,
-      "price_old": 99.99,
-      "currency": "USD",
-      "discount_pct": 31.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/71OBod3phAL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CG2GZB5P/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20366334",
-      "published_at": "2026-11-22T14:01:10+00:00",
-      "revalidated_at": "2026-11-22T22:45:40+00:00"
     }
   ]
 }
