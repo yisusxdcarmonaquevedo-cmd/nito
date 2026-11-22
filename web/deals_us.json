@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-22T07:01:12+00:00",
+  "generated_at": "2026-11-22T07:15:40+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B09HHBYQXY",
+      "title": "$1.78 S&S  Amazon Essentials Petroleum Jelly White Petrolatum Skin Protectant, Unscented, 3.75 Ounce, 1-Pack   (buy 4/save 10% Prime Promo)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.78,
+      "price_old": 59.0,
+      "currency": "USD",
+      "discount_pct": 97.0,
+      "rating": null,
+      "condition": "sns",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/22507206.thumb",
+      "url": "https://amazon.com/dp/B09HHBYQXY/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20363328",
+      "published_at": "2026-11-22T07:15:40+00:00",
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
+    },
+    {
+      "asin": "B00KVYBY8M",
+      "title": "Equinox International 6.5\" Professional Barber Hair Cutting Scissors w/ Japanese Stainless Steel Blades",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.9,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 74.6,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/2/0/5/3/8/1/8/4/450x450/22513755.thumb",
+      "url": "https://amazon.com/dp/B00KVYBY8M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20366274",
+      "published_at": "2026-11-22T07:15:40+00:00",
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
+    },
     {
       "asin": "B08XTRKWL5",
       "title": "Melissa & Doug PAW Patrol Take-Along Magnetic Jigsaw Puzzles (2 x 15-Piece)",
@@ -58,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 84.3,
-      "rating": null,
+      "rating": 4.1,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/6/3/5/4/7/1/450x450/22515546.thumb",
+      "image": "https://m.media-amazon.com/images/I/71D5DyT6VQL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B001TI5IIQ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20366946",
@@ -80,11 +124,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 62.7,
-      "rating": null,
+      "rating": 4.4,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/5/6/4/5/1/8/7/450x450/22512882.thumb",
+      "image": "https://m.media-amazon.com/images/I/616niCfBeYL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DHKSF81K/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20365842",
@@ -507,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20340114",
       "published_at": "2026-11-22T05:00:37+00:00",
-      "revalidated_at": "2026-11-22T05:00:37+00:00"
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
     },
     {
       "asin": "B0000ULZX6",
@@ -815,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20342700",
       "published_at": "2026-11-22T03:01:16+00:00",
-      "revalidated_at": "2026-11-22T05:00:37+00:00"
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
     },
     {
       "asin": "B00K4DS5KU",
@@ -837,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20366259",
       "published_at": "2026-11-22T03:01:16+00:00",
-      "revalidated_at": "2026-11-22T05:00:37+00:00"
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
     },
     {
       "asin": "B0F4KRCY47",
@@ -859,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20345472",
       "published_at": "2026-11-22T03:01:16+00:00",
-      "revalidated_at": "2026-11-22T05:00:37+00:00"
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
     },
     {
       "asin": "B09Q2TZC1W",
@@ -881,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20342751",
       "published_at": "2026-11-22T03:01:16+00:00",
-      "revalidated_at": "2026-11-22T05:00:37+00:00"
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
     },
     {
       "asin": "B0BRL9F8HV",
@@ -903,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20342178",
       "published_at": "2026-11-22T03:01:16+00:00",
-      "revalidated_at": "2026-11-22T05:00:37+00:00"
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
     },
     {
       "asin": "B0FY643KY4",
@@ -2113,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20361894",
       "published_at": "2026-11-21T19:16:08+00:00",
-      "revalidated_at": "2026-11-22T05:00:37+00:00"
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
     },
     {
       "asin": "B08SPLRCRV",
@@ -2135,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20364429",
       "published_at": "2026-11-21T19:16:08+00:00",
-      "revalidated_at": "2026-11-22T05:00:37+00:00"
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
     },
     {
       "asin": "B0GCJ178WR",
@@ -2179,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20341365",
       "published_at": "2026-11-21T19:00:58+00:00",
-      "revalidated_at": "2026-11-22T05:00:37+00:00"
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
     },
     {
       "asin": "B0CLSW18LT",
@@ -2201,7 +2245,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20354370",
       "published_at": "2026-11-21T19:00:58+00:00",
-      "revalidated_at": "2026-11-22T05:00:37+00:00"
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
     },
     {
       "asin": "B0DJGX8NJ9",
@@ -2531,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20354619",
       "published_at": "2026-11-21T16:30:50+00:00",
-      "revalidated_at": "2026-11-22T05:00:37+00:00"
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
     },
     {
       "asin": "B0GF8FM5Q9",
@@ -2553,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20361120",
       "published_at": "2026-11-21T16:30:50+00:00",
-      "revalidated_at": "2026-11-22T05:00:37+00:00"
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
     },
     {
       "asin": "B09SHHYHHT",
@@ -2597,51 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20344200",
       "published_at": "2026-11-21T16:15:44+00:00",
-      "revalidated_at": "2026-11-22T04:45:40+00:00"
-    },
-    {
-      "asin": "B0GMS2G4GQ",
-      "title": "Turtle Beach Rematch Wireless Controller for Nintendo Switch 2 (Mario & Luigi or Timmy & Tommy)",
-      "title_es": "Mando inalámbrico Turtle Beach Rematch para Nintendo Switch 2 (Mario & Luigi o Timmy & Tommy)",
-      "headline": null,
-      "post": "Este mando inalámbrico Turtle Beach Rematch para Nintendo Switch 2 ofrece diseños de Mario & Luigi o Timmy & Tommy para una experiencia de juego personalizada. Proporciona un control preciso y una conexión estable para tus aventuras favoritas.",
-      "post_en": "This Turtle Beach Rematch wireless controller for Nintendo Switch 2 offers Mario & Luigi or Timmy & Tommy designs for a personalized gaming experience. It provides precise control and a stable connection for your favorite adventures.",
-      "price_new": 39.99,
-      "price_old": 64.99,
-      "currency": "USD",
-      "discount_pct": 38.5,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61sP0xyyhKL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GMS2G4GQ/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20362020",
-      "published_at": "2026-11-21T16:15:44+00:00",
-      "revalidated_at": "2026-11-22T04:45:40+00:00"
-    },
-    {
-      "asin": "B07N3BX91L",
-      "title": "BOSCH GXS18V-11N25 CORE18V Starter Kit (2) 4.0Ah Batteries & Charger",
-      "title_es": "Kit de inicio BOSCH GXS18V-11N25 CORE18V (2 baterías 4.0Ah y cargador)",
-      "headline": null,
-      "post": "El kit de inicio BOSCH GXS18V-11N25 CORE18V incluye dos baterías de 4.0Ah y un cargador, esenciales para tus herramientas eléctricas. Ofrece la potencia y durabilidad que los profesionales y entusiastas del bricolaje necesitan para sus proyectos.",
-      "post_en": "The BOSCH GXS18V-11N25 CORE18V Starter Kit includes two 4.0Ah batteries and a charger, essential for your power tools. It provides the power and durability that professionals and DIY enthusiasts need for their projects.",
-      "price_new": 140.01,
-      "price_old": 245.0,
-      "currency": "USD",
-      "discount_pct": 42.9,
-      "rating": 4.3,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51Kmoa1f7iL._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B07N3BX91L/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20359674",
-      "published_at": "2026-11-21T16:00:45+00:00",
-      "revalidated_at": "2026-11-22T06:15:44+00:00"
+      "revalidated_at": "2026-11-22T07:15:40+00:00"
     }
   ]
 }
