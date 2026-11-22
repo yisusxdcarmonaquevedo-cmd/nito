@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-22T16:45:53+00:00",
+  "generated_at": "2026-11-22T17:01:07+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0GQD9L6YL",
+      "title": "ASUS ExpertCenter PN54-S1 Mini PC | Desktop Computer, 3Y Warranty | Ryzen 5 220 (16GB DDR5 RAM | 512GB NVMe SSD | Win 11 Pro) WiFi 7, Dual LAN, Toolless Design",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 549.99,
+      "price_old": 820.0,
+      "currency": "USD",
+      "discount_pct": 32.9,
+      "rating": 4.3,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71RX7e4R21L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GQD9L6YL/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20369061",
+      "published_at": "2026-11-22T17:01:07+00:00",
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
+    },
     {
       "asin": "B0FKPSWT7X",
       "title": "51-Piece Melissa & Doug USA Map Floor Puzzle",
@@ -14,11 +36,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 75.7,
-      "rating": null,
+      "rating": 3.7,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/5/5/7/3/6/2/450x450/22520451.thumb",
+      "image": "https://m.media-amazon.com/images/I/81PSaV6E+gL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FKPSWT7X/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20368989",
@@ -36,11 +58,11 @@
       "price_old": 17.99,
       "currency": "USD",
       "discount_pct": 68.1,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/22523037.thumb",
+      "image": "https://m.media-amazon.com/images/I/716x7HRINJL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0B4F2J7H9/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20370177",
@@ -58,11 +80,11 @@
       "price_old": 39.99,
       "currency": "USD",
       "discount_pct": 37.5,
-      "rating": null,
+      "rating": 4.3,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/22519455.thumb",
+      "image": "https://m.media-amazon.com/images/I/8164VBYC+WL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FMM8K5BC/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20368635",
@@ -300,11 +322,11 @@
       "price_old": 39.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22519065.thumb",
+      "image": "https://m.media-amazon.com/images/I/61mlv+wWIFL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BDGQ8B4J/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20368377",
@@ -617,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20366856",
       "published_at": "2026-11-22T15:00:49+00:00",
-      "revalidated_at": "2026-11-22T15:00:49+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B0FMYX39ZT",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369160",
       "published_at": "2026-11-22T15:00:49+00:00",
-      "revalidated_at": "2026-11-22T15:00:49+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B0000302YN",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20343081",
       "published_at": "2026-11-22T15:00:49+00:00",
-      "revalidated_at": "2026-11-22T15:00:49+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B00146I32G",
@@ -1211,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368932",
       "published_at": "2026-11-22T13:00:40+00:00",
-      "revalidated_at": "2026-11-22T15:00:49+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B096N28SZP",
@@ -1233,7 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20367804",
       "published_at": "2026-11-22T13:00:40+00:00",
-      "revalidated_at": "2026-11-22T15:00:49+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B0FH7CNJLW",
@@ -1343,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20340594",
       "published_at": "2026-11-22T12:45:59+00:00",
-      "revalidated_at": "2026-11-22T15:00:49+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B0DJWPDYGZ",
@@ -1717,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20365473",
       "published_at": "2026-11-22T10:45:42+00:00",
-      "revalidated_at": "2026-11-22T15:00:49+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B0G4F6ZCSV",
@@ -1761,7 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20337708",
       "published_at": "2026-11-22T10:30:46+00:00",
-      "revalidated_at": "2026-11-22T14:46:02+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B0GHX3WCV8",
@@ -1783,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20322129",
       "published_at": "2026-11-22T10:30:46+00:00",
-      "revalidated_at": "2026-11-22T14:46:02+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B0BSMSYM9N",
@@ -2135,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20366601",
       "published_at": "2026-11-22T08:30:35+00:00",
-      "revalidated_at": "2026-11-22T15:00:49+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B0D72RQCFZ",
@@ -2421,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20366946",
       "published_at": "2026-11-22T06:46:03+00:00",
-      "revalidated_at": "2026-11-22T15:00:49+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B0DHKSF81K",
@@ -2443,7 +2465,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20365842",
       "published_at": "2026-11-22T06:46:03+00:00",
-      "revalidated_at": "2026-11-22T15:00:49+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B0C74768G4",
@@ -2465,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20366253",
       "published_at": "2026-11-22T06:46:03+00:00",
-      "revalidated_at": "2026-11-22T15:00:49+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B0GXKRC4NC",
@@ -2487,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20361996",
       "published_at": "2026-11-22T06:46:03+00:00",
-      "revalidated_at": "2026-11-22T15:00:49+00:00"
+      "revalidated_at": "2026-11-22T17:01:07+00:00"
     },
     {
       "asin": "B0GKFB5RSM",
@@ -2620,28 +2642,6 @@
       "deal_key": "sd:20339670",
       "published_at": "2026-11-22T06:01:05+00:00",
       "revalidated_at": "2026-11-22T16:15:51+00:00"
-    },
-    {
-      "asin": "B09QH6X95X",
-      "title": "Thames & Kosmos The Plasma Ball Essential STEM Tool at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 13.99,
-      "price_old": 29.95,
-      "currency": "USD",
-      "discount_pct": 53.3,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/619y8ThKWlL._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B09QH6X95X/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20363427",
-      "published_at": "2026-11-22T05:45:54+00:00",
-      "revalidated_at": "2026-11-22T16:00:53+00:00"
     }
   ]
 }
