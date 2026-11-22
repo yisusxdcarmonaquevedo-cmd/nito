@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-22T20:01:01+00:00",
+  "generated_at": "2026-11-22T20:15:58+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0FKPVD2MF",
+      "title": "48-Piece Melissa & Doug Land of Dinosaurs Jumbo Floor Puzzle",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 6.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 81.5,
+      "rating": 4.5,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81yaPUl2UVL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FKPVD2MF/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20370969",
+      "published_at": "2026-11-22T20:15:58+00:00",
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
+    },
+    {
+      "asin": "B08PQ2KWHS",
+      "title": "Instant Pot Pro 6 Qt 10-in-1 Electric Pressure Cooker, Black",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 100.0,
+      "price_old": 169.99,
+      "currency": "USD",
+      "discount_pct": 41.2,
+      "rating": 4.3,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71crmdgrhpL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B08PQ2KWHS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20368284",
+      "published_at": "2026-11-22T20:15:58+00:00",
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
+    },
     {
       "asin": "B0GXLHV15Q",
       "title": "24-Count 2.12-Oz ONE REESE'S Peanut Butter Chocolate Protein Bars",
@@ -14,11 +58,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 96.0,
-      "rating": null,
+      "rating": 4.1,
       "condition": "coupon",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/6/3/5/4/7/1/450x450/22515777.thumb",
+      "image": "https://m.media-amazon.com/images/I/81BcKiumIZL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GXLHV15Q/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20367054",
@@ -58,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 75.6,
-      "rating": null,
+      "rating": 4.8,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/7/9/2/9/3/0/2/450x450/22499730.thumb",
+      "image": "https://m.media-amazon.com/images/I/81ijxfopoQL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B09KYBCX6B/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20360226",
@@ -102,11 +146,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 45.0,
-      "rating": null,
+      "rating": 4.7,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/3/0/4/6/9/4/2/0/450x450/22524150.thumb",
+      "image": "https://m.media-amazon.com/images/I/91SOz6xZV2L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DSCJ9P8L/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20370843",
@@ -124,11 +168,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 30.1,
-      "rating": null,
+      "rating": 4.5,
       "condition": "prime",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/0/5/3/8/1/8/4/450x450/22515591.thumb",
+      "image": "https://m.media-amazon.com/images/I/61lIXqXwq6L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B07WQF3B5L/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20366970",
@@ -661,7 +705,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369004",
       "published_at": "2026-11-22T18:01:01+00:00",
-      "revalidated_at": "2026-11-22T18:01:01+00:00"
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
     },
     {
       "asin": "B0G1NGPKY5",
@@ -683,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20370558",
       "published_at": "2026-11-22T18:01:01+00:00",
-      "revalidated_at": "2026-11-22T18:01:01+00:00"
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
     },
     {
       "asin": "B0FXNG33YZ",
@@ -705,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368134",
       "published_at": "2026-11-22T18:01:01+00:00",
-      "revalidated_at": "2026-11-22T18:01:01+00:00"
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
     },
     {
       "asin": "B0F9K87BRH",
@@ -1211,29 +1255,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369418",
       "published_at": "2026-11-22T16:00:53+00:00",
-      "revalidated_at": "2026-11-22T18:01:01+00:00"
-    },
-    {
-      "asin": "B0FMYX7GPG",
-      "title": "666 Pcs LEGO Star Wars SMART Play: Mos Eisley Cantina (75425)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 38.99,
-      "price_old": 79.99,
-      "currency": "USD",
-      "discount_pct": 51.3,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81HKRzHXcCL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FMYX7GPG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20369319",
-      "published_at": "2026-11-22T16:00:53+00:00",
-      "revalidated_at": "2026-11-22T18:01:01+00:00"
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
     },
     {
       "asin": "B0BMSS7C2D",
@@ -1255,7 +1277,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368107",
       "published_at": "2026-11-22T16:00:53+00:00",
-      "revalidated_at": "2026-11-22T18:01:01+00:00"
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
     },
     {
       "asin": "B0BDGQ8B4J",
@@ -1277,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368377",
       "published_at": "2026-11-22T16:00:53+00:00",
-      "revalidated_at": "2026-11-22T18:01:01+00:00"
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
     },
     {
       "asin": "B0GFXNFHNP",
@@ -1299,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20344554",
       "published_at": "2026-11-22T16:00:53+00:00",
-      "revalidated_at": "2026-11-22T18:01:01+00:00"
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
     },
     {
       "asin": "B0GHSYWSWL",
@@ -1321,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20367999",
       "published_at": "2026-11-22T16:00:53+00:00",
-      "revalidated_at": "2026-11-22T18:01:01+00:00"
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
     },
     {
       "asin": "B081XBJ629",
@@ -2003,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369331",
       "published_at": "2026-11-22T13:46:01+00:00",
-      "revalidated_at": "2026-11-22T18:01:01+00:00"
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
     },
     {
       "asin": "B0D3SX5B7M",
@@ -2487,7 +2509,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368044",
       "published_at": "2026-11-22T11:30:45+00:00",
-      "revalidated_at": "2026-11-22T17:45:43+00:00"
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
     },
     {
       "asin": "B0FQWFBWLS",
@@ -2509,7 +2531,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368395",
       "published_at": "2026-11-22T11:30:45+00:00",
-      "revalidated_at": "2026-11-22T17:45:43+00:00"
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
     },
     {
       "asin": "B00TODY7YO",
@@ -2531,7 +2553,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20359311",
       "published_at": "2026-11-22T11:30:45+00:00",
-      "revalidated_at": "2026-11-22T17:45:43+00:00"
+      "revalidated_at": "2026-11-22T20:15:58+00:00"
     },
     {
       "asin": "B0DBVZXFFS",
@@ -2597,50 +2619,6 @@
       "source": "slickdeals",
       "deal_key": "sd:20368563",
       "published_at": "2026-11-22T11:00:34+00:00",
-      "revalidated_at": "2026-11-22T19:30:28+00:00"
-    },
-    {
-      "asin": "B00ZIEOJ0A",
-      "title": "Dockers Men's Relaxed Fit Comfort Khaki Pants, Pleated, Dark Charcoal Heather, 36W x 30L",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 28.86,
-      "price_old": 49.99,
-      "currency": "USD",
-      "discount_pct": 42.3,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61erWvV3ARL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00ZIEOJ0A/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20365473",
-      "published_at": "2026-11-22T10:45:42+00:00",
-      "revalidated_at": "2026-11-22T19:15:46+00:00"
-    },
-    {
-      "asin": "B0G4F6ZCSV",
-      "title": "48mm Amazfit Active Max GPS Smart Watch w/ 1.5\" AMOLED Display at Amazon",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 118.99,
-      "price_old": 169.99,
-      "currency": "USD",
-      "discount_pct": 30.0,
-      "rating": 4.6,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61eLhGc40TL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G4F6ZCSV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20367906",
-      "published_at": "2026-11-22T10:45:42+00:00",
       "revalidated_at": "2026-11-22T19:30:28+00:00"
     }
   ]
