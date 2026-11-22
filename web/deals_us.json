@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-22T11:30:45+00:00",
+  "generated_at": "2026-11-22T11:45:51+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B000SONEQA",
+      "title": "Melissa & Doug First Bead Maze Wooden Educational Baby Toy",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 64.3,
+      "rating": 4.7,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/71wEIxNksfL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B000SONEQA/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20365968",
+      "published_at": "2026-11-22T11:45:51+00:00",
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
+    },
+    {
+      "asin": "B0GQW2BYK9",
+      "title": "Starfield (PlayStation 5)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 25.55,
+      "price_old": 49.99,
+      "currency": "USD",
+      "discount_pct": 48.9,
+      "rating": 4.4,
+      "condition": "coupon",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81NawKqWlGL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GQW2BYK9/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20367579",
+      "published_at": "2026-11-22T11:45:51+00:00",
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
+    },
     {
       "asin": "B0015MDRSO",
       "title": "Lifetime 6446 Outdoor Storage Shed, 8 x 15 Foot, Desert Sand",
@@ -14,11 +58,11 @@
       "price_old": 811.0,
       "currency": "USD",
       "discount_pct": 81.6,
-      "rating": null,
+      "rating": 4.2,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/22506024.thumb",
+      "image": "https://m.media-amazon.com/images/I/71C5J64VGhL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0015MDRSO/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20362713",
@@ -58,11 +102,11 @@
       "price_old": 59.99,
       "currency": "USD",
       "discount_pct": 41.7,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22519107.thumb",
+      "image": "https://m.media-amazon.com/images/I/91NYaYOsTAL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FQWFBWLS/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20368395",
@@ -80,11 +124,11 @@
       "price_old": 67.99,
       "currency": "USD",
       "discount_pct": 41.2,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/8/6/7/1/9/450x450/22497972.thumb",
+      "image": "https://m.media-amazon.com/images/I/71HCULgbzML._AC_SL1080_.jpg",
       "url": "https://amazon.com/dp/B00TODY7YO/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20359311",
@@ -102,11 +146,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 31.9,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "26K57NPGG",
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/3/1/6/7/5/3/7/450x450/22500135.thumb",
+      "image": "https://m.media-amazon.com/images/I/71WN5byITgL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DBVZXFFS/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20360352",
@@ -287,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20367810",
       "published_at": "2026-11-22T09:45:45+00:00",
-      "revalidated_at": "2026-11-22T09:45:45+00:00"
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
     },
     {
       "asin": "B0FR6937TP",
@@ -309,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20367951",
       "published_at": "2026-11-22T09:45:45+00:00",
-      "revalidated_at": "2026-11-22T09:45:45+00:00"
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
     },
     {
       "asin": "B0HMSMBM1Z",
@@ -331,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20367840",
       "published_at": "2026-11-22T09:45:45+00:00",
-      "revalidated_at": "2026-11-22T09:45:45+00:00"
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
     },
     {
       "asin": "B08S2S3Q9L",
@@ -683,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20340909",
       "published_at": "2026-11-22T08:00:48+00:00",
-      "revalidated_at": "2026-11-22T09:45:45+00:00"
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
     },
     {
       "asin": "B0C3TV6Q63",
@@ -705,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20343861",
       "published_at": "2026-11-22T08:00:48+00:00",
-      "revalidated_at": "2026-11-22T09:45:45+00:00"
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
     },
     {
       "asin": "B09ZGT64RV",
@@ -1981,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20362596",
       "published_at": "2026-11-22T01:09:36+00:00",
-      "revalidated_at": "2026-11-22T09:30:40+00:00"
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
     },
     {
       "asin": "B0C7FCX76S",
@@ -2003,7 +2047,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20348466",
       "published_at": "2026-11-22T01:09:36+00:00",
-      "revalidated_at": "2026-11-22T09:30:40+00:00"
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
     },
     {
       "asin": "B0GCMF59YX",
@@ -2025,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20363811",
       "published_at": "2026-11-22T01:09:36+00:00",
-      "revalidated_at": "2026-11-22T09:30:40+00:00"
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
     },
     {
       "asin": "B0DM3MN243",
@@ -2047,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20361705",
       "published_at": "2026-11-22T01:09:36+00:00",
-      "revalidated_at": "2026-11-22T09:30:40+00:00"
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
     },
     {
       "asin": "B0GV455BC7",
@@ -2289,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20361405",
       "published_at": "2026-11-21T23:30:39+00:00",
-      "revalidated_at": "2026-11-22T09:30:40+00:00"
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
     },
     {
       "asin": "B01KEMROJS",
@@ -2311,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20360838",
       "published_at": "2026-11-21T23:30:39+00:00",
-      "revalidated_at": "2026-11-22T09:30:40+00:00"
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
     },
     {
       "asin": "B0DSVKLNQR",
@@ -2575,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20351736",
       "published_at": "2026-11-21T21:15:38+00:00",
-      "revalidated_at": "2026-11-22T09:30:40+00:00"
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
     },
     {
       "asin": "B0DSJS5T21",
@@ -2597,51 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20364891",
       "published_at": "2026-11-21T21:15:38+00:00",
-      "revalidated_at": "2026-11-22T09:30:40+00:00"
-    },
-    {
-      "asin": "B00P5AMT7M",
-      "title": "8Bitdo SN30 2.4G Wireless Gamepad for Original SNES/SFC (Jade Green Edition) -",
-      "title_es": "Mando Inalámbrico 8Bitdo SN30 2.4G para SNES/SFC Original (Jade Green Edition)",
-      "headline": null,
-      "post": "El 8Bitdo SN30 2.4G es un gamepad inalámbrico diseñado para consolas SNES/SFC originales, combinando nostalgia y tecnología. Es perfecto para revivir clásicos con la comodidad de un mando moderno.",
-      "post_en": "The 8Bitdo SN30 2.4G is a wireless gamepad designed for original SNES/SFC consoles, combining nostalgia and technology. It's perfect for reliving classics with the comfort of a modern controller.",
-      "price_new": 23.99,
-      "price_old": 57.0,
-      "currency": "USD",
-      "discount_pct": 57.9,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51igjI+t+XL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B00P5AMT7M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20364888",
-      "published_at": "2026-11-21T21:15:38+00:00",
-      "revalidated_at": "2026-11-22T09:30:40+00:00"
-    },
-    {
-      "asin": "B0CRM9LQW2",
-      "title": "JLab JBuds Lux ANC Wireless Over-Ear Headphones (Various)",
-      "title_es": "Auriculares inalámbricos JLab JBuds Lux ANC de diadema (varios)",
-      "headline": null,
-      "post": "Estos auriculares JLab JBuds Lux ANC ofrecen cancelación de ruido activa para una experiencia auditiva inmersiva. Son ideales para quienes buscan comodidad y calidad de sonido en sus desplazamientos o para el día a día. 🎧",
-      "post_en": "These JLab JBuds Lux ANC headphones offer active noise cancellation for an immersive listening experience. They are ideal for those seeking comfort and sound quality for their commutes or daily use. 🎧",
-      "price_new": 39.99,
-      "price_old": 84.99,
-      "currency": "USD",
-      "discount_pct": 52.9,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71GdqwRWKdL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CRM9LQW2/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20360373",
-      "published_at": "2026-11-21T21:00:49+00:00",
-      "revalidated_at": "2026-11-22T11:00:34+00:00"
+      "revalidated_at": "2026-11-22T11:45:51+00:00"
     }
   ]
 }
