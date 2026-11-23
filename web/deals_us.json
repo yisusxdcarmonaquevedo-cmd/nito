@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-23T09:15:28+00:00",
+  "generated_at": "2026-11-23T09:30:38+00:00",
   "market": "us",
-  "count": 120,
+  "count": 119,
   "deals": [
+    {
+      "asin": "B0DXVK2SLY",
+      "title": "CyberPowerPC Gamer Master Gaming PC: Ryzen 7 8700F, RTX 5060 Ti (8GB), 16GB DDR5, 1TB SSD",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 127.0,
+      "price_old": 730.0,
+      "currency": "USD",
+      "discount_pct": 82.6,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71+2GM2dfiL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0DXVK2SLY/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20375097",
+      "published_at": "2026-11-23T09:30:38+00:00",
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
+    },
     {
       "asin": "B0C5MD7V1Q",
       "title": "L LOHAS LED Color-Changing Plug-In Night Light (Unicorn)",
@@ -14,11 +36,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 84.3,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": "BELOW",
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/2/0/3/1/1/5/0/450x450/22498710.thumb",
+      "image": "https://m.media-amazon.com/images/I/61PVuyZIa4L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0C5MD7V1Q/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20359791",
@@ -58,11 +80,11 @@
       "price_old": 29.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.8,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22533402.thumb",
+      "image": "https://m.media-amazon.com/images/I/81F1RTkX5JL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0DRW7Y7SV/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20374788",
@@ -80,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 69.7,
-      "rating": null,
+      "rating": 4.6,
       "condition": "code",
       "code": "MEDICUBE15",
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/1/3/3/5/6/0/450x450/22529718.thumb",
+      "image": "https://m.media-amazon.com/images/I/71Mcspt-6AL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B09V7Z4TJG/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20373432",
@@ -168,11 +190,11 @@
       "price_old": 26.0,
       "currency": "USD",
       "discount_pct": 42.3,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22532325.thumb",
+      "image": "https://m.media-amazon.com/images/I/717Zrvtii6L._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0C5S1Z9ZP/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20374428",
@@ -331,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20372124",
       "published_at": "2026-11-23T07:30:39+00:00",
-      "revalidated_at": "2026-11-23T07:30:39+00:00"
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
     },
     {
       "asin": "B0G8HTRKQG",
@@ -617,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20373402",
       "published_at": "2026-11-23T05:31:45+00:00",
-      "revalidated_at": "2026-11-23T07:30:39+00:00"
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
     },
     {
       "asin": "B07C68C4XC",
@@ -639,7 +661,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20373276",
       "published_at": "2026-11-23T05:31:45+00:00",
-      "revalidated_at": "2026-11-23T07:30:39+00:00"
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
     },
     {
       "asin": "B0GT27M1QD",
@@ -661,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20355597",
       "published_at": "2026-11-23T05:31:45+00:00",
-      "revalidated_at": "2026-11-23T07:30:39+00:00"
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
     },
     {
       "asin": "B015SR9IBQ",
@@ -1079,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20372376",
       "published_at": "2026-11-23T01:30:50+00:00",
-      "revalidated_at": "2026-11-23T07:30:39+00:00"
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
     },
     {
       "asin": "B0CP4DCK45",
@@ -1101,7 +1123,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371875",
       "published_at": "2026-11-23T01:30:50+00:00",
-      "revalidated_at": "2026-11-23T07:30:39+00:00"
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
     },
     {
       "asin": "B0F3DQHQ9K",
@@ -1541,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20337870",
       "published_at": "2026-11-22T23:15:53+00:00",
-      "revalidated_at": "2026-11-23T07:30:39+00:00"
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
     },
     {
       "asin": "B0BT8B5QJ8",
@@ -1563,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371002",
       "published_at": "2026-11-22T23:00:48+00:00",
-      "revalidated_at": "2026-11-23T07:15:36+00:00"
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
     },
     {
       "asin": "B0F6MJ4YZS",
@@ -1607,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371803",
       "published_at": "2026-11-22T22:45:40+00:00",
-      "revalidated_at": "2026-11-23T07:15:36+00:00"
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
     },
     {
       "asin": "B0FMS6NP4Q",
@@ -1629,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369121",
       "published_at": "2026-11-22T22:45:40+00:00",
-      "revalidated_at": "2026-11-23T07:15:36+00:00"
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
     },
     {
       "asin": "B0BRM8Z55N",
@@ -1651,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371179",
       "published_at": "2026-11-22T22:45:40+00:00",
-      "revalidated_at": "2026-11-23T07:15:36+00:00"
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
     },
     {
       "asin": "B00ELCLJMG",
@@ -1959,29 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371575",
       "published_at": "2026-11-22T21:31:15+00:00",
-      "revalidated_at": "2026-11-23T07:30:39+00:00"
-    },
-    {
-      "asin": "B0CHJF2DF5",
-      "title": "Steve Madden Men's Fenta Casual Lightweight Walking Shoes (Various) from",
-      "title_es": "Zapatillas Ligeras Casual Steve Madden Fenta para Hombre",
-      "headline": null,
-      "post": "Las zapatillas Steve Madden Fenta para hombre son un calzado casual y ligero, ideal para el día a día y caminatas. Ofrecen comodidad y estilo versátil para cualquier ocasión informal.",
-      "post_en": "The Steve Madden Fenta men's shoes are casual and lightweight footwear, ideal for daily wear and walking. They offer comfort and versatile style for any informal occasion.",
-      "price_new": 18.35,
-      "price_old": 65.0,
-      "currency": "USD",
-      "discount_pct": 71.8,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/61+P1SLX2TL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0CHJF2DF5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20370084",
-      "published_at": "2026-11-22T21:31:15+00:00",
-      "revalidated_at": "2026-11-23T07:30:39+00:00"
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
     },
     {
       "asin": "B077XNFYM5",
@@ -2069,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369097",
       "published_at": "2026-11-22T21:00:53+00:00",
-      "revalidated_at": "2026-11-23T07:30:39+00:00"
+      "revalidated_at": "2026-11-23T09:30:38+00:00"
     },
     {
       "asin": "B0FKNKJSM8",
@@ -2620,28 +2620,6 @@
       "deal_key": "sd:20369502",
       "published_at": "2026-11-22T19:00:51+00:00",
       "revalidated_at": "2026-11-23T08:00:42+00:00"
-    },
-    {
-      "asin": "B07HCGMPZC",
-      "title": "EGO POWER+ Portable Inverter, 150W, Power Inverter Generator, Quiet, Battery and Charger Not Included - PAD1500",
-      "title_es": "Inversor Portátil EGO POWER+ PAD1500 de 150W (Batería y cargador no incluidos)",
-      "headline": null,
-      "post": "El inversor portátil EGO POWER+ PAD1500 de 150W proporciona energía silenciosa para tus dispositivos electrónicos en cualquier lugar. Es perfecto para campamentos o emergencias, ofreciendo una fuente de energía fiable (batería y cargador se venden por separado).",
-      "post_en": "The EGO POWER+ PAD1500 150W portable inverter provides quiet power for your electronic devices anywhere. It's perfect for camping or emergencies, offering a reliable power source (battery and charger sold separately).",
-      "price_new": 79.99,
-      "price_old": 119.0,
-      "currency": "USD",
-      "discount_pct": 32.8,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/61oTEeSBzlL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07HCGMPZC/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20355222",
-      "published_at": "2026-11-22T19:00:51+00:00",
-      "revalidated_at": "2026-11-23T08:30:40+00:00"
     }
   ]
 }
