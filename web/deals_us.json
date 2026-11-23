@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-23T13:45:55+00:00",
+  "generated_at": "2026-11-23T14:00:45+00:00",
   "market": "us",
-  "count": 119,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0814859NG",
+      "title": "$8.26 S&S AMAZON Meguiar's Ultimate Quik Wax, 24 Oz",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 8.26,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 86.2,
+      "rating": null,
+      "condition": "sns",
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/22527969.thumb",
+      "url": "https://amazon.com/dp/B0814859NG/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20372679",
+      "published_at": "2026-11-23T14:00:45+00:00",
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
+    },
+    {
+      "asin": "B00474ARU8",
+      "title": "2-Lb San Francisco Bay Fog Chaser Medium Dark Roast Whole Bean Coffee 2 for",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.29,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 62.0,
+      "rating": 4.4,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71tYNBXH1PL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B00474ARU8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20376318",
+      "published_at": "2026-11-23T14:00:45+00:00",
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
+    },
     {
       "asin": "B0BL7P8K16",
       "title": "Portable Charger, Slim Power Bank w/ 4 Built-in Cables, Flight-Safe for",
@@ -36,11 +80,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 57.1,
-      "rating": null,
+      "rating": 4.7,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/22536405.thumb",
+      "image": "https://m.media-amazon.com/images/I/914dmYa0NeL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GKQP5QTN/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20376078",
@@ -80,11 +124,11 @@
       "price_old": 170.0,
       "currency": "USD",
       "discount_pct": 41.2,
-      "rating": null,
+      "rating": 4.3,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/9/2/3/2/7/8/3/450x450/22537587.thumb",
+      "image": "https://m.media-amazon.com/images/I/71MEYazvoVL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0HPJ8BCZV/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20376675",
@@ -102,11 +146,11 @@
       "price_old": 60.0,
       "currency": "USD",
       "discount_pct": 90.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/1/2/8/0/9/4/450x450/22537278.thumb",
+      "image": "https://m.media-amazon.com/images/I/51eJxd9vfKL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B009WQH8SA/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20376489",
@@ -573,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20375862",
       "published_at": "2026-11-23T12:00:46+00:00",
-      "revalidated_at": "2026-11-23T12:00:46+00:00"
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
     },
     {
       "asin": "B0HJCJCPGL",
@@ -639,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20334492",
       "published_at": "2026-11-23T11:45:41+00:00",
-      "revalidated_at": "2026-11-23T11:45:41+00:00"
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
     },
     {
       "asin": "B00004R8LX",
@@ -903,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371581",
       "published_at": "2026-11-23T10:00:39+00:00",
-      "revalidated_at": "2026-11-23T11:45:41+00:00"
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
     },
     {
       "asin": "B0DXVK2SLY",
@@ -1101,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20374416",
       "published_at": "2026-11-23T08:00:42+00:00",
-      "revalidated_at": "2026-11-23T11:45:41+00:00"
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
     },
     {
       "asin": "B0F663CWT8",
@@ -1123,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20374608",
       "published_at": "2026-11-23T08:00:42+00:00",
-      "revalidated_at": "2026-11-23T11:45:41+00:00"
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
     },
     {
       "asin": "B0CL7J12YK",
@@ -1145,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20374683",
       "published_at": "2026-11-23T08:00:42+00:00",
-      "revalidated_at": "2026-11-23T11:45:41+00:00"
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
     },
     {
       "asin": "B0HJ9ZHMF6",
@@ -1167,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20374926",
       "published_at": "2026-11-23T08:00:42+00:00",
-      "revalidated_at": "2026-11-23T11:45:41+00:00"
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
     },
     {
       "asin": "B07QY9FLLT",
@@ -1915,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20347941",
       "published_at": "2026-11-23T01:46:36+00:00",
-      "revalidated_at": "2026-11-23T11:45:41+00:00"
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
     },
     {
       "asin": "B0F1BXJ9DT",
@@ -1937,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20348037",
       "published_at": "2026-11-23T01:46:36+00:00",
-      "revalidated_at": "2026-11-23T11:45:41+00:00"
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
     },
     {
       "asin": "B07F2PC1Q7",
@@ -2025,7 +2069,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371455",
       "published_at": "2026-11-23T01:30:50+00:00",
-      "revalidated_at": "2026-11-23T11:45:41+00:00"
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
     },
     {
       "asin": "B0BDHQSQHS",
@@ -2399,7 +2443,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369472",
       "published_at": "2026-11-22T23:30:43+00:00",
-      "revalidated_at": "2026-11-23T11:45:41+00:00"
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
     },
     {
       "asin": "B0FKVBWNY6",
@@ -2531,7 +2575,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369121",
       "published_at": "2026-11-22T22:45:40+00:00",
-      "revalidated_at": "2026-11-23T11:30:40+00:00"
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
     },
     {
       "asin": "B0BRM8Z55N",
@@ -2553,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371179",
       "published_at": "2026-11-22T22:45:40+00:00",
-      "revalidated_at": "2026-11-23T11:30:40+00:00"
+      "revalidated_at": "2026-11-23T14:00:45+00:00"
     },
     {
       "asin": "B00ELCLJMG",
@@ -2596,28 +2640,6 @@
       "url": "https://amazon.com/dp/B00CG4147G/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20371776",
-      "published_at": "2026-11-22T22:30:52+00:00",
-      "revalidated_at": "2026-11-23T13:30:51+00:00"
-    },
-    {
-      "asin": "B001NP9S7M",
-      "title": "2-Pack IRWIN QUICK-GRIP 12\" One-Handed Mini Bar Clamps (1964745)",
-      "title_es": "Pack de 2 sargentos de barra mini IRWIN QUICK-GRIP de 12\" (1964745) para una mano",
-      "headline": null,
-      "post": "Este pack de dos sargentos IRWIN QUICK-GRIP de 12\" permite sujetar piezas con una sola mano, facilitando tus proyectos. Son herramientas prácticas y versátiles, ideales para carpinteros o aficionados al bricolaje.",
-      "post_en": "This pack of two IRWIN QUICK-GRIP 12\" clamps allows you to secure workpieces with one hand, simplifying your projects. They are practical and versatile tools, ideal for carpenters or DIY enthusiasts.",
-      "price_new": 19.29,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 44.9,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/41zk2+IPJAL._AC_SL1000_.jpg",
-      "url": "https://amazon.com/dp/B001NP9S7M/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20371143",
       "published_at": "2026-11-22T22:30:52+00:00",
       "revalidated_at": "2026-11-23T13:30:51+00:00"
     }
