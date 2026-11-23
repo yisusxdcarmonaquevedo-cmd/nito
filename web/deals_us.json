@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:45:53+00:00",
+  "generated_at": "2026-11-23T00:02:09+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -14,11 +14,11 @@
       "price_old": 79.99,
       "currency": "USD",
       "discount_pct": 48.5,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/22526634.thumb",
+      "image": "https://m.media-amazon.com/images/I/71gwBO6NteL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GNTM6WK1/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20372109",
@@ -36,11 +36,11 @@
       "price_old": 60.0,
       "currency": "USD",
       "discount_pct": 44.7,
-      "rating": null,
+      "rating": 4.4,
       "condition": "prime",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/2/8/3/7/2/3/1/450x450/22522785.thumb",
+      "image": "https://m.media-amazon.com/images/I/71IdgZK24RL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0D7774DQF/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20370045",
@@ -58,11 +58,11 @@
       "price_old": 67.5,
       "currency": "USD",
       "discount_pct": 33.3,
-      "rating": null,
+      "rating": 4.2,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/0/4/6/9/4/2/0/450x450/22500264.thumb",
+      "image": "https://m.media-amazon.com/images/I/51KhhANNLVL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FWTKRMFV/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20360424",
@@ -102,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 83.3,
-      "rating": null,
+      "rating": 4.8,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/3/0/4/6/9/4/2/0/450x450/22524210.thumb",
+      "image": "https://m.media-amazon.com/images/I/714TVIazrlL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FKVBWNY6/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20370867",
@@ -226,10 +226,10 @@
     {
       "asin": "B0FMS6NP4Q",
       "title": "478 Pcs LEGO Disney Frozen Olaf and Bruni’s Picnic Fun (43287)",
-      "title_es": null,
+      "title_es": "LEGO Disney Frozen Olaf y Bruni's Picnic Fun (43287) de 478 piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set de LEGO Disney te permite recrear un divertido picnic con Olaf y Bruni. Es ideal para fans de Frozen que disfrutan construyendo y creando sus propias historias. 🧩",
+      "post_en": "This LEGO Disney set lets you recreate a fun picnic with Olaf and Bruni. It's ideal for Frozen fans who enjoy building and creating their own stories. 🧩",
       "price_new": 23.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -248,10 +248,10 @@
     {
       "asin": "B0BRM8Z55N",
       "title": "Greenworks 24V Brushless Cordless Compact Reciprocating Saw w/ 2.0Ah Battery & Charger (RSG404)",
-      "title_es": null,
+      "title_es": "Sierra de sable compacta sin escobillas Greenworks 24V (RSG404) con batería y cargador",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta sierra de sable compacta Greenworks 24V ofrece potencia sin cables para trabajos de corte versátiles. Incluye batería y cargador, siendo perfecta para aficionados al bricolaje que buscan comodidad y eficiencia.",
+      "post_en": "This compact Greenworks 24V cordless reciprocating saw provides power for versatile cutting tasks. It includes a battery and charger, making it perfect for DIY enthusiasts seeking convenience and efficiency.",
       "price_new": 62.99,
       "price_old": 89.99,
       "currency": "USD",
@@ -270,10 +270,10 @@
     {
       "asin": "B00ELCLJMG",
       "title": "14-Piece Bosch Fast Spiral Masonry Drill Bit Set (BM5000) at Amazon",
-      "title_es": null,
+      "title_es": "Set de 14 brocas Bosch Fast Spiral para mampostería (BM5000)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este set Bosch BM5000 incluye 14 brocas de espiral rápida diseñadas para perforar mampostería con eficiencia. Es un complemento esencial para cualquier caja de herramientas, ideal para proyectos de construcción o reformas en el hogar.",
+      "post_en": "This Bosch BM5000 set includes 14 fast spiral drill bits designed for efficient masonry drilling. It's an essential addition to any toolbox, perfect for construction or home renovation projects.",
       "price_new": 7.62,
       "price_old": 29.19,
       "currency": "USD",
@@ -292,10 +292,10 @@
     {
       "asin": "B00CG4147G",
       "title": "Bepuzzled Hanayama Metal Brainteaser (Level 2: Box) at Amazon",
-      "title_es": null,
+      "title_es": "Rompecabezas metálico Bepuzzled Hanayama (Nivel 2: Box)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este rompecabezas metálico Hanayama de nivel 2, \"Box\", desafía tu ingenio y paciencia. Es perfecto para aficionados a los puzles que buscan un reto mental compacto y elegante.",
+      "post_en": "This Hanayama metal brainteaser, \"Box\" (Level 2), challenges your wit and patience. It's perfect for puzzle enthusiasts looking for a compact and elegant mental challenge.",
       "price_new": 5.44,
       "price_old": 17.0,
       "currency": "USD",
@@ -314,10 +314,10 @@
     {
       "asin": "B001NP9S7M",
       "title": "2-Pack IRWIN QUICK-GRIP 12\" One-Handed Mini Bar Clamps (1964745)",
-      "title_es": null,
+      "title_es": "Pack de 2 sargentos de barra mini IRWIN QUICK-GRIP de 12\" (1964745) para una mano",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de dos sargentos IRWIN QUICK-GRIP de 12\" permite sujetar piezas con una sola mano, facilitando tus proyectos. Son herramientas prácticas y versátiles, ideales para carpinteros o aficionados al bricolaje.",
+      "post_en": "This pack of two IRWIN QUICK-GRIP 12\" clamps allows you to secure workpieces with one hand, simplifying your projects. They are practical and versatile tools, ideal for carpenters or DIY enthusiasts.",
       "price_new": 19.29,
       "price_old": 35.0,
       "currency": "USD",
@@ -336,10 +336,10 @@
     {
       "asin": "B00TAG9Q14",
       "title": "Original 3D Crystal Puzzle - Dachshund",
-      "title_es": null,
+      "title_es": "Rompecabezas 3D de cristal Original - Dachshund",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este rompecabezas 3D de cristal te permite construir una figura transparente de un Dachshund. Es una actividad divertida y decorativa, ideal para amantes de los perros y los retos visuales. 🐕",
+      "post_en": "This original 3D crystal puzzle lets you build a transparent Dachshund figure. It's a fun and decorative activity, ideal for dog lovers and visual challenges. 🐕",
       "price_new": 4.64,
       "price_old": 35.0,
       "currency": "USD",
@@ -358,10 +358,10 @@
     {
       "asin": "B0DPL9GVYS",
       "title": "$8.50, Amz, 30 servings Insane Labz Psycho Sam, High Stimulant Pre Workout Powder",
-      "title_es": null,
+      "title_es": "Insane Labz Psycho Sam, pre-entreno en polvo de alta estimulación (30 servicios)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Insane Labz Psycho Sam es un pre-entreno en polvo de alta estimulación diseñado para potenciar tu rendimiento en el gimnasio. Contiene 30 servicios, ideal para atletas que buscan un impulso extra de energía y concentración.",
+      "post_en": "Insane Labz Psycho Sam is a high-stimulant pre-workout powder designed to boost your gym performance. It contains 30 servings, ideal for athletes seeking an extra surge of energy and focus.",
       "price_new": 8.5,
       "price_old": 57.0,
       "currency": "USD",
@@ -380,10 +380,10 @@
     {
       "asin": "B0B5Y1L45C",
       "title": "22.5\" Furinno Classic Side Table w/ Drawer & Lower Shelf (Rustic Oak)",
-      "title_es": null,
+      "title_es": "Mesa auxiliar clásica Furinno de 22.5\" con cajón y estante inferior (Roble rústico)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta mesa auxiliar Furinno de roble rústico ofrece un cajón y un estante inferior para almacenamiento adicional. Es un mueble compacto y funcional, perfecto para salones pequeños o como mesita de noche.",
+      "post_en": "This Furinno classic side table in rustic oak offers a drawer and a lower shelf for extra storage. It's a compact and functional piece of furniture, perfect for small living rooms or as a bedside table.",
       "price_new": 11.48,
       "price_old": 35.0,
       "currency": "USD",
@@ -402,10 +402,10 @@
     {
       "asin": "B0G86TCCQS",
       "title": "Ninja UltraCrush 1500W Full Size Blender w/ Blender Bowl & To-Go Cup at Amazon",
-      "title_es": null,
+      "title_es": "Batidora de vaso Ninja UltraCrush de 1500W con bol y vaso portátil",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La batidora Ninja UltraCrush de 1500W tritura ingredientes con facilidad, incluyendo un bol grande y un vaso portátil. Es ideal para preparar batidos, salsas y más, perfecta para cocinas activas. 🥤",
+      "post_en": "The Ninja UltraCrush 1500W blender easily crushes ingredients and includes a large bowl and a to-go cup. It's ideal for preparing smoothies, sauces, and more, perfect for active kitchens. 🥤",
       "price_new": 129.99,
       "price_old": 219.99,
       "currency": "USD",
@@ -424,10 +424,10 @@
     {
       "asin": "B09KWKKK63",
       "title": "Hasbro Gaming Guess Who? Original,Easy to Load Frame,Double-Sided Character Sheet,2 Player Board Game at Amazon",
-      "title_es": null,
+      "title_es": "Juego de mesa Hasbro Gaming Guess Who? Original (¿Quién es Quién?)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El clásico juego Hasbro Gaming Guess Who? (¿Quién es Quién?) te desafía a adivinar el personaje de tu oponente. Incluye marcos fáciles de cargar y hojas de personajes de doble cara, ideal para dos jugadores de todas las edades.",
+      "post_en": "The classic Hasbro Gaming Guess Who? game challenges you to guess your opponent's character. It includes easy-to-load frames and double-sided character sheets, ideal for two players of all ages.",
       "price_new": 10.0,
       "price_old": 16.99,
       "currency": "USD",
@@ -441,15 +441,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20369649",
       "published_at": "2026-11-22T22:00:33+00:00",
-      "revalidated_at": "2026-11-22T22:00:33+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B07YGZ3FYK",
       "title": "2-Sided Briarpatch The Very Hungry Caterpillar Floor Puzzle",
-      "title_es": null,
+      "title_es": "Puzzle de Suelo de 2 Caras Briarpatch The Very Hungry Caterpillar",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este puzzle de suelo de Briarpatch, con el diseño de The Very Hungry Caterpillar, ofrece diversión por ambos lados. Es ideal para niños pequeños, fomentando la coordinación y el reconocimiento de formas.",
+      "post_en": "This Briarpatch floor puzzle, featuring The Very Hungry Caterpillar, offers double-sided fun. It's perfect for young children, encouraging coordination and shape recognition.",
       "price_new": 8.44,
       "price_old": 35.0,
       "currency": "USD",
@@ -468,10 +468,10 @@
     {
       "asin": "B0CKY716F9",
       "title": "Thermaltake GF1 Fully Modular ATX 750W Power Supply - 80 Plus Gold - Ultra Quiet - Zero RPM, PS-TPD-0750FNFAGU-P",
-      "title_es": null,
+      "title_es": "Fuente de Alimentación Thermaltake GF1 Fully Modular ATX 750W",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La fuente de alimentación Thermaltake GF1 es un modelo modular de 750W con certificación 80 Plus Gold, garantizando eficiencia y un funcionamiento ultra silencioso. Perfecta para entusiastas que buscan un PC potente y ordenado.",
+      "post_en": "The Thermaltake GF1 power supply is a 750W fully modular unit with 80 Plus Gold certification, ensuring efficiency and ultra-quiet operation. It's perfect for enthusiasts looking for a powerful and tidy PC build.",
       "price_new": 64.99,
       "price_old": 99.99,
       "currency": "USD",
@@ -490,10 +490,10 @@
     {
       "asin": "B001E96OU6",
       "title": "3-Pack 9.1-Oz Neutrogena Oil-Free Acne Face Wash w/ 2% Salicylic Acid",
-      "title_es": null,
+      "title_es": "Pack de 3 Neutrogena Oil-Free Acne Face Wash con Ácido Salicílico",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack incluye tres limpiadores faciales Neutrogena Oil-Free Acne con 2% de ácido salicílico, formulados para combatir el acné y controlar el exceso de grasa. Es una opción eficaz para quienes buscan una piel más limpia y sin imperfecciones.",
+      "post_en": "This pack includes three Neutrogena Oil-Free Acne Face Washes with 2% salicylic acid, formulated to fight acne and control excess oil. It's an effective option for those seeking clearer, blemish-free skin.",
       "price_new": 4.67,
       "price_old": 35.0,
       "currency": "USD",
@@ -512,10 +512,10 @@
     {
       "asin": "B0FSNPJV7H",
       "title": "6.5-Oz OGX ProGrowth + Peptide Serum Mist",
-      "title_es": null,
+      "title_es": "Serum en Spray OGX ProGrowth + Peptide Mist de 6.5 Oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El serum en spray OGX ProGrowth + Peptide Mist está diseñado para fortalecer el cabello y promover un crecimiento saludable. Es ideal para quienes buscan mejorar la vitalidad y el aspecto general de su melena.",
+      "post_en": "The OGX ProGrowth + Peptide Serum Mist is designed to strengthen hair and promote healthy growth. It's ideal for those looking to improve the vitality and overall appearance of their hair.",
       "price_new": 6.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -534,10 +534,10 @@
     {
       "asin": "B0FMBTJLX6",
       "title": "Canon PIXMA TS6520 Wireless Color Inkjet Printer, 1.42\" OLED Display, White at Amazon",
-      "title_es": null,
+      "title_es": "Impresora Inalámbrica Canon PIXMA TS6520 Color Inkjet con Pantalla OLED",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La Canon PIXMA TS6520 es una impresora de inyección de tinta a color inalámbrica con una práctica pantalla OLED de 1.42\". Es una solución versátil para el hogar o la oficina que necesita impresiones de calidad y conectividad sencilla.",
+      "post_en": "The Canon PIXMA TS6520 is a wireless color inkjet printer featuring a convenient 1.42\" OLED display. It's a versatile solution for home or office users seeking quality prints and easy connectivity.",
       "price_new": 68.99,
       "price_old": 140.99,
       "currency": "USD",
@@ -556,10 +556,10 @@
     {
       "asin": "B0HPGSTXXX",
       "title": "Apple 14\" MacBook Pro Laptop: M6 Chip, 16GB Memory, 1TB SSD at Amazon",
-      "title_es": null,
+      "title_es": "Portátil Apple MacBook Pro de 14\" con Chip M6, 16GB RAM, 1TB SSD",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este Apple MacBook Pro de 14 pulgadas cuenta con el potente chip M6, 16GB de memoria y un SSD de 1TB, ofreciendo un rendimiento excepcional. Es perfecto para profesionales creativos y usuarios exigentes que buscan potencia y fiabilidad.",
+      "post_en": "This 14-inch Apple MacBook Pro features the powerful M6 chip, 16GB of memory, and a 1TB SSD, delivering exceptional performance. It's perfect for creative professionals and demanding users seeking power and reliability.",
       "price_new": 179.0,
       "price_old": 802.0,
       "currency": "USD",
@@ -578,10 +578,10 @@
     {
       "asin": "B0CHJF2DF5",
       "title": "Steve Madden Men's Fenta Casual Lightweight Walking Shoes (Various) from",
-      "title_es": null,
+      "title_es": "Zapatillas Ligeras Casual Steve Madden Fenta para Hombre",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Las zapatillas Steve Madden Fenta para hombre son un calzado casual y ligero, ideal para el día a día y caminatas. Ofrecen comodidad y estilo versátil para cualquier ocasión informal.",
+      "post_en": "The Steve Madden Fenta men's shoes are casual and lightweight footwear, ideal for daily wear and walking. They offer comfort and versatile style for any informal occasion.",
       "price_new": 18.35,
       "price_old": 65.0,
       "currency": "USD",
@@ -600,10 +600,10 @@
     {
       "asin": "B077XNFYM5",
       "title": "[Prime] LIT-PaTH Rechargeable Magnetic LED Camping Lantern & Flashlight from",
-      "title_es": null,
+      "title_es": "Linterna de Camping y Luz LED Magnética Recargable LIT-PaTH",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta linterna LIT-PaTH es recargable y combina funciones de linterna y luz LED de camping con base magnética, ofreciendo gran versatilidad. Es un accesorio esencial para actividades al aire libre o como luz de emergencia en casa.",
+      "post_en": "This LIT-PaTH lantern is rechargeable and combines flashlight and LED camping light functions with a magnetic base, offering great versatility. It's an essential accessory for outdoor activities or as an emergency light at home.",
       "price_new": 4.99,
       "price_old": 11.79,
       "currency": "USD",
@@ -622,10 +622,10 @@
     {
       "asin": "B0BFGS5QSJ",
       "title": "ORICO 3-Port USB 3.0 Type-C to 1x USB-C + 2x USB-A Hub",
-      "title_es": null,
+      "title_es": "Hub ORICO USB 3.0 de 3 Puertos: USB-C a 1x USB-C + 2x USB-A",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El hub ORICO USB 3.0 Type-C expande la conectividad de tu dispositivo, ofreciendo un puerto USB-C y dos puertos USB-A adicionales. Es ideal para usuarios de portátiles modernos que necesitan más opciones para conectar periféricos.",
+      "post_en": "The ORICO USB 3.0 Type-C hub expands your device's connectivity, offering one USB-C and two additional USB-A ports. It's ideal for modern laptop users who need more options to connect peripherals.",
       "price_new": 4.75,
       "price_old": 9.99,
       "currency": "USD",
@@ -644,10 +644,10 @@
     {
       "asin": "B0FNP1T9WR",
       "title": "Yooka-Replaylee - PlayStation 5 at Amazon",
-      "title_es": null,
+      "title_es": "Yooka-Replaylee - PlayStation 5",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Yooka-Replaylee para PlayStation 5 es una aventura de plataformas vibrante y llena de color, perfecta para los amantes de los juegos clásicos con un toque moderno. Disfruta de sus desafíos y personajes únicos en la consola de nueva generación. 🎮",
+      "post_en": "Yooka-Replaylee for PlayStation 5 is a vibrant and colorful platform adventure, perfect for fans of classic games with a modern twist. Enjoy its unique challenges and characters on the next-gen console. 🎮",
       "price_new": 29.92,
       "price_old": 49.99,
       "currency": "USD",
@@ -859,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20370969",
       "published_at": "2026-11-22T20:15:58+00:00",
-      "revalidated_at": "2026-11-22T22:00:33+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B08PQ2KWHS",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20360226",
       "published_at": "2026-11-22T20:01:01+00:00",
-      "revalidated_at": "2026-11-22T22:00:33+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B0GK5LL83G",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20370015",
       "published_at": "2026-11-22T20:01:01+00:00",
-      "revalidated_at": "2026-11-22T22:00:33+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B0DSCJ9P8L",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20370843",
       "published_at": "2026-11-22T20:01:01+00:00",
-      "revalidated_at": "2026-11-22T22:00:33+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B07WQF3B5L",
@@ -1035,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369085",
       "published_at": "2026-11-22T19:45:53+00:00",
-      "revalidated_at": "2026-11-22T21:53:38+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B0DTBMXS58",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20360262",
       "published_at": "2026-11-22T19:45:53+00:00",
-      "revalidated_at": "2026-11-22T21:53:38+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B0DPLP33YR",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20370198",
       "published_at": "2026-11-22T19:45:53+00:00",
-      "revalidated_at": "2026-11-22T21:53:38+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B0H8Q6S9H3",
@@ -1101,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368551",
       "published_at": "2026-11-22T19:45:53+00:00",
-      "revalidated_at": "2026-11-22T21:53:38+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B08BHHRSPK",
@@ -1541,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369991",
       "published_at": "2026-11-22T17:45:43+00:00",
-      "revalidated_at": "2026-11-22T21:53:38+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B00MVWGQX0",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20367144",
       "published_at": "2026-11-22T17:31:18+00:00",
-      "revalidated_at": "2026-11-22T21:53:38+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B0G6GDD5KT",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20370408",
       "published_at": "2026-11-22T17:31:18+00:00",
-      "revalidated_at": "2026-11-22T21:53:38+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B0DN6XMMW6",
@@ -1717,7 +1717,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20362377",
       "published_at": "2026-11-22T17:31:18+00:00",
-      "revalidated_at": "2026-11-22T21:53:38+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B0FD8NP2DC",
@@ -1739,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20370162",
       "published_at": "2026-11-22T17:31:18+00:00",
-      "revalidated_at": "2026-11-22T21:53:38+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B0FFF3757L",
@@ -2179,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369511",
       "published_at": "2026-11-22T15:30:40+00:00",
-      "revalidated_at": "2026-11-22T21:53:38+00:00"
+      "revalidated_at": "2026-11-23T00:02:09+00:00"
     },
     {
       "asin": "B000084JMC",
