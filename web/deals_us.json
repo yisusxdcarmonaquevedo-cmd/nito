@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T00:30:56+00:00",
+  "generated_at": "2026-11-23T00:45:34+00:00",
   "market": "us",
   "count": 119,
   "deals": [
@@ -463,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20367126",
       "published_at": "2026-11-22T22:45:40+00:00",
-      "revalidated_at": "2026-11-22T22:45:40+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B0DP7XP5YC",
@@ -551,7 +551,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371842",
       "published_at": "2026-11-22T22:30:52+00:00",
-      "revalidated_at": "2026-11-22T22:30:52+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B00CG4147G",
@@ -573,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371776",
       "published_at": "2026-11-22T22:30:52+00:00",
-      "revalidated_at": "2026-11-22T22:30:52+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B001NP9S7M",
@@ -595,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371143",
       "published_at": "2026-11-22T22:30:52+00:00",
-      "revalidated_at": "2026-11-22T22:30:52+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B00TAG9Q14",
@@ -1057,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369592",
       "published_at": "2026-11-22T20:30:52+00:00",
-      "revalidated_at": "2026-11-22T22:30:52+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B005VOOUE2",
@@ -1079,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20370789",
       "published_at": "2026-11-22T20:30:52+00:00",
-      "revalidated_at": "2026-11-22T22:30:52+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B0FKPVD2MF",
@@ -1673,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20366238",
       "published_at": "2026-11-22T18:15:38+00:00",
-      "revalidated_at": "2026-11-22T22:30:52+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B0GT28SS2M",
@@ -1695,7 +1695,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369955",
       "published_at": "2026-11-22T18:15:38+00:00",
-      "revalidated_at": "2026-11-22T22:30:52+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B0GV1QFB4H",
@@ -2179,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20366667",
       "published_at": "2026-11-22T16:13:08+00:00",
-      "revalidated_at": "2026-11-22T22:30:52+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B0038BAHI8",
@@ -2201,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20369769",
       "published_at": "2026-11-22T16:13:08+00:00",
-      "revalidated_at": "2026-11-22T22:30:52+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B0FLKRYRP1",
@@ -2223,15 +2223,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20369616",
       "published_at": "2026-11-22T16:13:08+00:00",
-      "revalidated_at": "2026-11-22T22:30:52+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B0BT88Z2JM",
       "title": "$6.94 Disney Stitch Pink Crystal 3D Puzzle, 43-Pc Brain Teaser, Ages 12+ at Amazon",
-      "title_es": null,
+      "title_es": "Puzzle 3D de Cristal Rosa Disney Stitch, 43 piezas, +12 años",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este puzzle 3D de Disney Stitch es un divertido rompecabezas de cristal rosa con 43 piezas. Ideal para desafiar la mente de jóvenes y adultos a partir de 12 años.",
+      "post_en": "This Disney Stitch 3D puzzle is a fun pink crystal brain teaser with 43 pieces. It's perfect for challenging the minds of teens and adults aged 12 and up.",
       "price_new": 6.94,
       "price_old": 21.0,
       "currency": "USD",
@@ -2250,10 +2250,10 @@
     {
       "asin": "B0BMSS7C2D",
       "title": "Epson Workforce Pro WF-3823 Wireless All-in-One Printer at Amazon",
-      "title_es": null,
+      "title_es": "Impresora multifunción inalámbrica Epson Workforce Pro WF-3823",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La Epson Workforce Pro WF-3823 es una impresora multifunción inalámbrica que ofrece impresión, escaneo y copia. Perfecta para oficinas en casa o pequeñas empresas que buscan eficiencia y conectividad.",
+      "post_en": "The Epson Workforce Pro WF-3823 is a wireless all-in-one printer offering printing, scanning, and copying functionalities. It's ideal for home offices or small businesses seeking efficiency and connectivity.",
       "price_new": 79.99,
       "price_old": 149.99,
       "currency": "USD",
@@ -2267,15 +2267,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20368107",
       "published_at": "2026-11-22T16:00:53+00:00",
-      "revalidated_at": "2026-11-22T22:15:49+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B0BDGQ8B4J",
       "title": "HyperX CloudX Stinger 2 Core Wired Gaming Headset for Xbox at Amazon",
-      "title_es": null,
+      "title_es": "Auriculares gaming con cable HyperX CloudX Stinger 2 Core para Xbox",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Los HyperX CloudX Stinger 2 Core son unos auriculares gaming con cable diseñados específicamente para Xbox. Ofrecen una experiencia de audio inmersiva y comunicación clara para tus sesiones de juego.",
+      "post_en": "The HyperX CloudX Stinger 2 Core are wired gaming headphones specifically designed for Xbox. They provide an immersive audio experience and clear communication for your gaming sessions.",
       "price_new": 19.99,
       "price_old": 39.99,
       "currency": "USD",
@@ -2289,15 +2289,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20368377",
       "published_at": "2026-11-22T16:00:53+00:00",
-      "revalidated_at": "2026-11-22T22:15:49+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B0GFXNFHNP",
       "title": "Bissell CleanView Max Allergen Upright Vacuum, 4377 at Amazon",
-      "title_es": null,
+      "title_es": "Aspiradora vertical Bissell CleanView Max Allergen, modelo 4377",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La aspiradora vertical Bissell CleanView Max Allergen, modelo 4377, está diseñada para capturar alérgenos eficazmente. Es una solución potente para hogares con mascotas o personas alérgicas que buscan una limpieza profunda.",
+      "post_en": "The Bissell CleanView Max Allergen Upright Vacuum, model 4377, is designed to effectively capture allergens. It's a powerful solution for homes with pets or allergy sufferers looking for a deep clean.",
       "price_new": 99.99,
       "price_old": 179.99,
       "currency": "USD",
@@ -2311,15 +2311,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20344554",
       "published_at": "2026-11-22T16:00:53+00:00",
-      "revalidated_at": "2026-11-22T22:15:49+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B0GHSYWSWL",
       "title": "Life is Strange: Reunion (PlayStation 5) at Amazon",
-      "title_es": null,
+      "title_es": "Life is Strange: Reunion (PlayStation 5)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Life is Strange: Reunion es un emocionante videojuego para PlayStation 5 que profundiza en la aclamada narrativa de la saga. Sumérgete en una historia cautivadora con decisiones que impactan el desarrollo de los personajes.",
+      "post_en": "Life is Strange: Reunion is an exciting video game for PlayStation 5 that delves into the acclaimed narrative of the series. Immerse yourself in a captivating story with decisions that impact character development.",
       "price_new": 23.74,
       "price_old": 39.99,
       "currency": "USD",
@@ -2333,15 +2333,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20367999",
       "published_at": "2026-11-22T16:00:53+00:00",
-      "revalidated_at": "2026-11-22T22:15:49+00:00"
+      "revalidated_at": "2026-11-23T00:45:34+00:00"
     },
     {
       "asin": "B081XBJ629",
       "title": "1000-Piece RoseArt Kodak  Amsterdam Canal Buildings Jigsaw Puzzle (20\" x 27\")",
-      "title_es": null,
+      "title_es": "Puzzle de 1000 piezas RoseArt Kodak Edificios del Canal de Ámsterdam (50x68 cm)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este puzzle de 1000 piezas RoseArt Kodak presenta una hermosa escena de los edificios del canal de Ámsterdam. Es perfecto para aficionados a los rompecabezas que disfrutan de desafíos y paisajes urbanos.",
+      "post_en": "This 1000-piece RoseArt Kodak jigsaw puzzle features a beautiful scene of Amsterdam's canal buildings. It's perfect for puzzle enthusiasts who enjoy challenges and urban landscapes.",
       "price_new": 7.87,
       "price_old": 35.0,
       "currency": "USD",
@@ -2360,10 +2360,10 @@
     {
       "asin": "B07K1YLYNJ",
       "title": "G Gradual 28\"/30\"/32\"/34\" Inseam Women's Yoga Pants with Pockets",
-      "title_es": null,
+      "title_es": "Leggings de yoga G Gradual para mujer con bolsillos (varias longitudes de entrepierna)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Los leggings de yoga G Gradual para mujer combinan comodidad y funcionalidad con sus prácticos bolsillos. Disponibles en varias longitudes de entrepierna, son ideales para actividades deportivas o uso diario.",
+      "post_en": "G Gradual women's yoga pants combine comfort and functionality with their practical pockets. Available in various inseam lengths, they are ideal for sports activities or everyday wear.",
       "price_new": 18.99,
       "price_old": 33.99,
       "currency": "USD",
@@ -2382,10 +2382,10 @@
     {
       "asin": "B0GYQBS7XZ",
       "title": "Shark StainStriker Portable Carpet/Upholstery Cleaner, 3 Tools, PX206BRN",
-      "title_es": null,
+      "title_es": "Limpiador portátil de alfombras y tapicerías Shark StainStriker, 3 herramientas, PX206BRN",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El Shark StainStriker es un limpiador portátil potente para alfombras y tapicerías, que incluye tres herramientas especializadas. Es la solución ideal para eliminar manchas y suciedad de forma rápida y eficaz en el hogar. ✨",
+      "post_en": "The Shark StainStriker is a powerful portable cleaner for carpets and upholstery, including three specialized tools. It's the ideal solution for quickly and effectively removing stains and dirt around the home. ✨",
       "price_new": 94.99,
       "price_old": 149.99,
       "currency": "USD",
@@ -2404,10 +2404,10 @@
     {
       "asin": "B0FJMRCGK2",
       "title": "3 Pack Men's Big and Tall Lightweight Hoodies - Various Colors & Sizes",
-      "title_es": null,
+      "title_es": "Pack de 3 sudaderas con capucha ligeras de hombre (tallas grandes y altas)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack incluye tres sudaderas con capucha ligeras para hombre, disponibles en varias tallas y colores, incluyendo tallas grandes y altas. Son prendas versátiles y cómodas para el día a día.",
+      "post_en": "This pack includes three lightweight men's hoodies, available in various colors and sizes, including big and tall options. They are versatile and comfortable garments for everyday wear.",
       "price_new": 22.39,
       "price_old": 47.99,
       "currency": "USD",
@@ -2426,10 +2426,10 @@
     {
       "asin": "B000084JMC",
       "title": "24-Piece Melissa & Doug Fire Truck Jumbo Jigsaw Floor Puzzle",
-      "title_es": null,
+      "title_es": "Puzzle de suelo gigante de 24 piezas Melissa & Doug Camión de Bomberos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El puzzle de suelo gigante Melissa & Doug de 24 piezas con diseño de camión de bomberos es perfecto para los más pequeños. Fomenta la coordinación y el reconocimiento de formas de una manera divertida y educativa. 🚒",
+      "post_en": "The Melissa & Doug Fire Truck Jumbo Jigsaw Floor Puzzle with 24 pieces is perfect for young children. It encourages coordination and shape recognition in a fun and educational way. 🚒",
       "price_new": 8.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -2448,10 +2448,10 @@
     {
       "asin": "B0G1M3FD32",
       "title": "UGREEN Upgraded MagSafe Car Mount, Strongest Magnet Power, 30*N52 Magnets",
-      "title_es": null,
+      "title_es": "Soporte de coche UGREEN MagSafe mejorado, 30 imanes N52",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este soporte de coche UGREEN MagSafe ofrece una sujeción ultra potente para tu teléfono gracias a sus 30 imanes N52. Es ideal para conductores que buscan estabilidad y seguridad para su dispositivo durante los viajes. 🚗",
+      "post_en": "This UGREEN Upgraded MagSafe Car Mount provides an ultra-strong hold for your phone, thanks to its 30 N52 magnets. It's perfect for drivers seeking stability and security for their device during travels. 🚗",
       "price_new": 18.99,
       "price_old": 36.99,
       "currency": "USD",
@@ -2470,10 +2470,10 @@
     {
       "asin": "B0GMLLHCQR",
       "title": "Metal Gear Solid: Master Collection Vol. 2 (PlayStation 5) -",
-      "title_es": null,
+      "title_es": "Metal Gear Solid: Master Collection Vol. 2 (PlayStation 5)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Revive la emoción de clásicos icónicos con Metal Gear Solid: Master Collection Vol. 2 para PlayStation 5. Esta colección es imprescindible para los fans de la saga y nuevos jugadores que quieran explorar su rica historia.",
+      "post_en": "Relive the excitement of iconic classics with Metal Gear Solid: Master Collection Vol. 2 for PlayStation 5. This collection is a must-have for series fans and new players eager to explore its rich history.",
       "price_new": 29.99,
       "price_old": 57.0,
       "currency": "USD",
@@ -2492,10 +2492,10 @@
     {
       "asin": "B0D1YL9TRK",
       "title": "Samsung Galaxy Watch 7 44mm Bluetooth AI Smartwatch w/Energy Score at Amazon",
-      "title_es": null,
+      "title_es": "Samsung Galaxy Watch 7 44mm Bluetooth AI Smartwatch con Energy Score",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El Samsung Galaxy Watch 7 de 44mm es un smartwatch avanzado con conectividad Bluetooth y funciones de IA, incluyendo un innovador Energy Score. Es perfecto para quienes buscan monitorizar su salud y actividad diaria con tecnología de vanguardia. ⌚",
+      "post_en": "The Samsung Galaxy Watch 7 44mm is an advanced smartwatch featuring Bluetooth connectivity and AI functions, including an innovative Energy Score. It's perfect for those looking to monitor their health and daily activity with cutting-edge technology. ⌚",
       "price_new": 179.99,
       "price_old": 279.99,
       "currency": "USD",
@@ -2514,10 +2514,10 @@
     {
       "asin": "B00939FV8K",
       "title": "Ninja BL660 Professional Compact Blender w/ 72oz Pitcher, 2x 16oz To-Go Cups",
-      "title_es": null,
+      "title_es": "Batidora profesional compacta Ninja BL660 con jarra de 72oz y 2 vasos portátiles",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La batidora profesional compacta Ninja BL660 incluye una jarra de 72oz y dos vasos portátiles de 16oz para todas tus necesidades de mezcla. Es ideal para preparar batidos, smoothies y más, tanto en casa como para llevar.",
+      "post_en": "The Ninja BL660 Professional Compact Blender comes with a 72oz pitcher and two 16oz To-Go Cups for all your blending needs. It's perfect for preparing shakes, smoothies, and more, both at home and on the go.",
       "price_new": 89.99,
       "price_old": 139.0,
       "currency": "USD",
@@ -2536,10 +2536,10 @@
     {
       "asin": "B0H8Q5JK5Y",
       "title": "OCTOPATH TRAVELER - Nintendo Switch 2 at Amazon",
-      "title_es": null,
+      "title_es": "OCTOPATH TRAVELER - Nintendo Switch 2",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Descubre una aventura épica con OCTOPATH TRAVELER para Nintendo Switch 2, un RPG con un estilo gráfico único y ocho historias entrelazadas. Ideal para amantes de los JRPG que buscan una experiencia narrativa profunda y estratégica.",
+      "post_en": "Discover an epic adventure with OCTOPATH TRAVELER for Nintendo Switch 2, an RPG with a unique graphical style and eight intertwined stories. It's ideal for JRPG lovers seeking a deep and strategic narrative experience.",
       "price_new": 39.99,
       "price_old": 59.99,
       "currency": "USD",
@@ -2558,10 +2558,10 @@
     {
       "asin": "B0GMPPXXC9",
       "title": "8-Pack 6\" Nilight LED Dome Light Bar w/ On/Off Switch (White)",
-      "title_es": null,
+      "title_es": "Pack de 8 barras de luz LED Nilight Dome de 6\" con interruptor (blanco)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack de 8 barras de luz LED Nilight Dome de 6\" ofrece iluminación blanca brillante con un práctico interruptor de encendido/apagado. Son perfectas para añadir luz en interiores de vehículos, armarios o cualquier espacio que requiera iluminación auxiliar.",
+      "post_en": "This 8-Pack of 6\" Nilight LED Dome Light Bars provides bright white illumination with a convenient on/off switch. They are perfect for adding light to vehicle interiors, cabinets, or any space requiring auxiliary lighting.",
       "price_new": 1.8,
       "price_old": 35.0,
       "currency": "USD",
@@ -2580,10 +2580,10 @@
     {
       "asin": "B0FMYX39ZT",
       "title": "701 Pcs LEGO Star Wars Anzellan Starship (75445)",
-      "title_es": null,
+      "title_es": "LEGO Star Wars Anzellan Starship (75445) de 701 piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Construye la impresionante LEGO Star Wars Anzellan Starship (75445) con este set de 701 piezas, recreando escenas icónicas de la saga. Es el regalo perfecto para fans de Star Wars y entusiastas de LEGO que disfrutan de desafíos de construcción. 🚀",
+      "post_en": "Build the impressive LEGO Star Wars Anzellan Starship (75445) with this 701-piece set, recreating iconic scenes from the saga. It's the perfect gift for Star Wars fans and LEGO enthusiasts who enjoy building challenges. 🚀",
       "price_new": 37.19,
       "price_old": 75.0,
       "currency": "USD",
@@ -2602,10 +2602,10 @@
     {
       "asin": "B0000302YN",
       "title": "Dremel 290-02 120-Volt Engraver Rotary Tool w/ Stencils at Amazon",
-      "title_es": null,
+      "title_es": "Herramienta rotativa grabadora Dremel 290-02 de 120 V con plantillas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La herramienta rotativa grabadora Dremel 290-02 de 120 V viene con plantillas, ideal para personalizar objetos y realizar trabajos de precisión. Es perfecta para artesanos, aficionados al bricolaje o cualquiera que desee añadir un toque personal a sus creaciones.",
+      "post_en": "The Dremel 290-02 120-Volt Engraver Rotary Tool comes with stencils, ideal for personalizing objects and performing precision work. It's perfect for crafters, DIY enthusiasts, or anyone wanting to add a personal touch to their creations.",
       "price_new": 14.48,
       "price_old": 26.99,
       "currency": "USD",
