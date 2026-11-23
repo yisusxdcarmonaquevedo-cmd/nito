@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-23T14:46:00+00:00",
+  "generated_at": "2026-11-23T15:01:01+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0H2K3HQFS",
+      "title": "Sonic Frontiers: Definitive Edition - Nintendo Switch 2 at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 15.0,
+      "price_old": 49.99,
+      "currency": "USD",
+      "discount_pct": 70.0,
+      "rating": 4.1,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/7119ZVeZmfL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0H2K3HQFS/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20377035",
+      "published_at": "2026-11-23T15:01:01+00:00",
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
+    },
+    {
+      "asin": "B0FBWGZG1M",
+      "title": "[Prime] ECOHUB 20L Lightweight Hiking Daypack (3 Colors) from",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 13.74,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 54.2,
+      "rating": 4.4,
+      "condition": "prime",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71nf0xGHAjL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FBWGZG1M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20376174",
+      "published_at": "2026-11-23T15:01:01+00:00",
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
+    },
+    {
+      "asin": "B0CGCHWKH1",
+      "title": "Little Nightmares III (PlayStation 5) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 15.0,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.6,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81TTpRKK7yL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0CGCHWKH1/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20376183",
+      "published_at": "2026-11-23T15:01:01+00:00",
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
+    },
+    {
+      "asin": "B00AW72V4O",
+      "title": "Greenworks Cordless Leaf Blower Kit, 40V, 135 CFM, 2Ah Battery & Charger at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 71.24,
+      "price_old": 149.99,
+      "currency": "USD",
+      "discount_pct": 52.5,
+      "rating": 4.3,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71IB-6Jk4tL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B00AW72V4O/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20361264",
+      "published_at": "2026-11-23T15:01:01+00:00",
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
+    },
+    {
+      "asin": "B07DQM7WH5",
+      "title": "JSAUX USB C to USB C Cable [2-Pack 6.6FT] | 100W Gray @ Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 7.24,
+      "price_old": 10.99,
+      "currency": "USD",
+      "discount_pct": 34.1,
+      "rating": 4.6,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/812XS+HYU7L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07DQM7WH5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20376570",
+      "published_at": "2026-11-23T15:01:01+00:00",
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
+    },
     {
       "asin": "B0DX45N5S1",
       "title": "5-Oz Kiehl's Ultra Facial Barrier-Hydrating Cream-to-Foam Cleanser",
@@ -1123,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20359791",
       "published_at": "2026-11-23T09:00:33+00:00",
-      "revalidated_at": "2026-11-23T12:45:40+00:00"
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
     },
     {
       "asin": "B0FLFCS635",
@@ -1475,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20374140",
       "published_at": "2026-11-23T06:45:47+00:00",
-      "revalidated_at": "2026-11-23T12:45:40+00:00"
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
     },
     {
       "asin": "B09858F1X8",
@@ -1497,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371734",
       "published_at": "2026-11-23T06:45:47+00:00",
-      "revalidated_at": "2026-11-23T12:45:40+00:00"
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
     },
     {
       "asin": "B0CXYYWL6G",
@@ -1519,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20372946",
       "published_at": "2026-11-23T06:30:50+00:00",
-      "revalidated_at": "2026-11-23T12:45:40+00:00"
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
     },
     {
       "asin": "B08WC7P98V",
@@ -1541,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20327121",
       "published_at": "2026-11-23T06:30:50+00:00",
-      "revalidated_at": "2026-11-23T12:45:40+00:00"
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
     },
     {
       "asin": "B0BZQPXV2L",
@@ -1563,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20373267",
       "published_at": "2026-11-23T06:30:50+00:00",
-      "revalidated_at": "2026-11-23T12:45:40+00:00"
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
     },
     {
       "asin": "B0GVVJZDQV",
@@ -1915,7 +2025,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20371611",
       "published_at": "2026-11-23T03:00:55+00:00",
-      "revalidated_at": "2026-11-23T12:45:40+00:00"
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
     },
     {
       "asin": "B0G15BSGHW",
@@ -2003,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368116",
       "published_at": "2026-11-23T02:30:36+00:00",
-      "revalidated_at": "2026-11-23T12:45:40+00:00"
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
     },
     {
       "asin": "B07WMJYQV5",
@@ -2025,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20354085",
       "published_at": "2026-11-23T02:30:36+00:00",
-      "revalidated_at": "2026-11-23T12:45:40+00:00"
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
     },
     {
       "asin": "B0DQLJY1LH",
@@ -2245,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20349783",
       "published_at": "2026-11-23T00:30:56+00:00",
-      "revalidated_at": "2026-11-23T12:45:40+00:00"
+      "revalidated_at": "2026-11-23T15:01:01+00:00"
     },
     {
       "asin": "B0GXL1VD98",
@@ -2532,116 +2642,6 @@
       "deal_key": "sd:20370045",
       "published_at": "2026-11-22T23:45:53+00:00",
       "revalidated_at": "2026-11-23T14:15:54+00:00"
-    },
-    {
-      "asin": "B0FWTKRMFV",
-      "title": "JLab JBuds Lux ANC Over-Ear Headphones + JLab Go Air Pop+ Wireless Earbuds Bundle (Mauve)",
-      "title_es": "Pack Auriculares JLab JBuds Lux ANC Over-Ear + JLab Go Air Pop+ Wireless (Malva)",
-      "headline": null,
-      "post": "Este pack incluye los auriculares de diadema JLab JBuds Lux ANC con cancelación de ruido y los compactos JLab Go Air Pop+ inalámbricos en color malva. Una combinación ideal para disfrutar de tu audio con o sin cables, adaptándose a cada momento.",
-      "post_en": "This bundle includes the JLab JBuds Lux ANC over-ear headphones with noise cancellation and the compact JLab Go Air Pop+ wireless earbuds in mauve. An ideal combination to enjoy your audio with or without wires, adapting to every moment.",
-      "price_new": 45.0,
-      "price_old": 67.5,
-      "currency": "USD",
-      "discount_pct": 33.3,
-      "rating": 4.2,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51KhhANNLVL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FWTKRMFV/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20360424",
-      "published_at": "2026-11-22T23:45:53+00:00",
-      "revalidated_at": "2026-11-23T14:15:54+00:00"
-    },
-    {
-      "asin": "B09D4QRJ8Y",
-      "title": "Hasbro Gaming Battleship Classic Board Game",
-      "title_es": "Juego de mesa clásico Hasbro Gaming Battleship",
-      "headline": null,
-      "post": "Revive la emoción del clásico juego de mesa Hasbro Gaming Battleship, donde la estrategia y la astucia son clave para hundir la flota enemiga. Es el entretenimiento perfecto para noches de juegos en familia o con amigos.",
-      "post_en": "Relive the excitement of the classic Hasbro Gaming Battleship board game, where strategy and cunning are key to sinking the enemy fleet. It's the perfect entertainment for family or friends' game nights.",
-      "price_new": 10.0,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 71.4,
-      "rating": 4.7,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81PXMzof4NL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B09D4QRJ8Y/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20369472",
-      "published_at": "2026-11-22T23:30:43+00:00",
-      "revalidated_at": "2026-11-23T14:00:45+00:00"
-    },
-    {
-      "asin": "B0FKVBWNY6",
-      "title": "GUND Sanrio Cinnamoroll 6\" Plush Toy (Rodeo Bull Outfit)",
-      "title_es": "Peluche GUND Sanrio Cinnamoroll de 15 cm (Traje de Toro de Rodeo)",
-      "headline": null,
-      "post": "Adorable peluche GUND Sanrio Cinnamoroll de 15 cm, vestido con un divertido traje de toro de rodeo. Un regalo encantador para fans de Sanrio o para añadir un toque tierno a cualquier colección. 🧸",
-      "post_en": "Adorable 6-inch GUND Sanrio Cinnamoroll plush toy, dressed in a fun rodeo bull outfit. A charming gift for Sanrio fans or to add a cute touch to any collection. 🧸",
-      "price_new": 5.83,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 83.3,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/714TVIazrlL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FKVBWNY6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20370867",
-      "published_at": "2026-11-22T23:15:53+00:00",
-      "revalidated_at": "2026-11-23T13:30:51+00:00"
-    },
-    {
-      "asin": "B0H6BJ4QNT",
-      "title": "Coolife 30L Carry On Flight Approved Travel Laptop Backpack for Men, Grey",
-      "title_es": "Mochila de viaje Coolife de 30L aprobada para cabina con compartimento para portátil, gris",
-      "headline": null,
-      "post": "La mochila Coolife de 30L es ideal para viajes, aprobada para cabina y diseñada para hombres, con un compartimento específico para portátil. Su color gris y diseño funcional la hacen perfecta para viajeros que buscan organización y comodidad.",
-      "post_en": "The Coolife 30L backpack is ideal for travel, flight-approved, and designed for men, featuring a dedicated laptop compartment. Its grey color and functional design make it perfect for travelers seeking organization and comfort.",
-      "price_new": 43.99,
-      "price_old": 69.98,
-      "currency": "USD",
-      "discount_pct": 37.1,
-      "rating": null,
-      "condition": "code",
-      "code": "GQIAEXS7",
-      "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/5/3/4/7/0/450x450/22430886.thumb",
-      "url": "https://amazon.com/dp/B0H6BJ4QNT/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20337870",
-      "published_at": "2026-11-22T23:15:53+00:00",
-      "revalidated_at": "2026-11-23T13:45:55+00:00"
-    },
-    {
-      "asin": "B0BT8B5QJ8",
-      "title": "55-Pc BePuzzled Hedgehog Crystal 3D Brain Teaser Puzzle (Level 2)",
-      "title_es": "Rompecabezas 3D de cristal BePuzzled Hedgehog de 55 piezas (Nivel 2)",
-      "headline": null,
-      "post": "Desafía tu mente con este rompecabezas 3D de cristal BePuzzled Hedgehog de 55 piezas, diseñado para un nivel de dificultad 2. Es una actividad divertida y estimulante para amantes de los rompecabezas y coleccionistas.",
-      "post_en": "Challenge your mind with this 55-piece BePuzzled Hedgehog Crystal 3D Brain Teaser Puzzle, designed for a level 2 difficulty. It's a fun and stimulating activity for puzzle lovers and collectors.",
-      "price_new": 4.65,
-      "price_old": 17.09,
-      "currency": "USD",
-      "discount_pct": 72.8,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/1/5/5/7/3/6/2/450x450/22524510.thumb",
-      "url": "https://amazon.com/dp/B0BT8B5QJ8/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20371002",
-      "published_at": "2026-11-22T23:00:48+00:00",
-      "revalidated_at": "2026-11-23T13:45:55+00:00"
     }
   ]
 }
