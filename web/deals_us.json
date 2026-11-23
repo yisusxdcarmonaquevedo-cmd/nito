@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-23T15:46:05+00:00",
+  "generated_at": "2026-11-23T16:01:02+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B0FS9512D4",
+      "title": "Super Mario Galaxy + Super Mario Galaxy 2 (Nintendo Swich Digital) -",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 30.0,
+      "price_old": 60.0,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": 4.9,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/81LR3GUJknL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FS9512D4/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20377890",
+      "published_at": "2026-11-23T16:01:02+00:00",
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
+    },
+    {
+      "asin": "B0BZ55JZ4S",
+      "title": "eufy Security SoloCam S220, Solar Security Camera, Wireless Camera Outdoor",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 56.99,
+      "price_old": 99.99,
+      "currency": "USD",
+      "discount_pct": 43.0,
+      "rating": 4.4,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/51ND02TCp5L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0BZ55JZ4S/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20346132",
+      "published_at": "2026-11-23T16:01:02+00:00",
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
+    },
+    {
+      "asin": "B06X1D3VV7",
+      "title": "Carhartt Men's Relaxed Straight Rigby Pants (Dark Coffee, Select Sizes)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 32.99,
+      "price_old": 54.99,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": 4.4,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/71kWbeXjivL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B06X1D3VV7/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20377536",
+      "published_at": "2026-11-23T16:01:02+00:00",
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
+    },
+    {
+      "asin": "B0H3VBKXBV",
+      "title": "COOFANDY Men's Waffle Knit Quarter-Button Pullover, Light Blue/Lake Green/Deep Blue",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 24.66,
+      "price_old": 39.99,
+      "currency": "USD",
+      "discount_pct": 38.3,
+      "rating": 4.5,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81H2e2LMn4L._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0H3VBKXBV/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20350647",
+      "published_at": "2026-11-23T16:01:02+00:00",
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
+    },
     {
       "asin": "B0GR1N82GJ",
       "title": "15.3\" Apple MacBook Air (2026): M5 10-Core Chip, 16GB Memory, 512GB SSD at Amazon",
@@ -14,11 +102,11 @@
       "price_old": 734.0,
       "currency": "USD",
       "discount_pct": 83.8,
-      "rating": null,
+      "rating": 3.1,
       "condition": null,
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22540281.thumb",
+      "image": "https://m.media-amazon.com/images/I/71KDwOe39jL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GR1N82GJ/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20377602",
@@ -58,11 +146,11 @@
       "price_old": 149.99,
       "currency": "USD",
       "discount_pct": 40.0,
-      "rating": null,
+      "rating": 4.7,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22538241.thumb",
+      "image": "https://m.media-amazon.com/images/I/61JaGcYBhTL._AC_SL1481_.jpg",
       "url": "https://amazon.com/dp/B0C652G6Y5/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20376960",
@@ -102,11 +190,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 57.1,
-      "rating": null,
+      "rating": 4.1,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/22538727.thumb",
+      "image": "https://m.media-amazon.com/images/I/81nh01wbV6L._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0GT7D5Z8W/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20377173",
@@ -124,11 +212,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 82.9,
-      "rating": null,
+      "rating": 4.5,
       "condition": "code",
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/3/0/6/6/3/5/5/9/450x450/22466199.thumb",
+      "image": "https://m.media-amazon.com/images/I/51yy+fa2SUL._AC_SL1182_.jpg",
       "url": "https://amazon.com/dp/B0H3V2JN13/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20347950",
@@ -485,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20361198",
       "published_at": "2026-11-23T13:45:55+00:00",
-      "revalidated_at": "2026-11-23T13:45:55+00:00"
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
     },
     {
       "asin": "B0GKQP5QTN",
@@ -507,29 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20376078",
       "published_at": "2026-11-23T13:45:55+00:00",
-      "revalidated_at": "2026-11-23T13:45:55+00:00"
-    },
-    {
-      "asin": "B0FMYX7GPG",
-      "title": "666-Piece LEGO Star Wars SMART Play: Mos Eisley Cantina Set",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 38.99,
-      "price_old": 79.99,
-      "currency": "USD",
-      "discount_pct": 51.3,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81HKRzHXcCL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FMYX7GPG/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20375880",
-      "published_at": "2026-11-23T13:45:55+00:00",
-      "revalidated_at": "2026-11-23T13:45:55+00:00"
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
     },
     {
       "asin": "B0HPJ8BCZV",
@@ -551,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20376675",
       "published_at": "2026-11-23T13:45:55+00:00",
-      "revalidated_at": "2026-11-23T13:45:55+00:00"
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
     },
     {
       "asin": "B009WQH8SA",
@@ -1079,7 +1145,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20375421",
       "published_at": "2026-11-23T11:30:40+00:00",
-      "revalidated_at": "2026-11-23T13:45:55+00:00"
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
     },
     {
       "asin": "B0HFN5MVCK",
@@ -1101,7 +1167,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20359539",
       "published_at": "2026-11-23T11:30:40+00:00",
-      "revalidated_at": "2026-11-23T13:45:55+00:00"
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
     },
     {
       "asin": "B0DJ184XFZ",
@@ -1585,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20372715",
       "published_at": "2026-11-23T07:45:32+00:00",
-      "revalidated_at": "2026-11-23T13:45:55+00:00"
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
     },
     {
       "asin": "B0F99Q5RDS",
@@ -1607,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20367702",
       "published_at": "2026-11-23T07:45:32+00:00",
-      "revalidated_at": "2026-11-23T13:45:55+00:00"
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
     },
     {
       "asin": "B09VWB8SY3",
@@ -1893,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20373183",
       "published_at": "2026-11-23T05:45:32+00:00",
-      "revalidated_at": "2026-11-23T13:45:55+00:00"
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
     },
     {
       "asin": "B07C68C4XC",
@@ -2245,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20372058",
       "published_at": "2026-11-23T01:46:36+00:00",
-      "revalidated_at": "2026-11-23T13:45:55+00:00"
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
     },
     {
       "asin": "B0GXCW4M5S",
@@ -2421,7 +2487,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20351838",
       "published_at": "2026-11-23T01:00:47+00:00",
-      "revalidated_at": "2026-11-23T13:30:51+00:00"
+      "revalidated_at": "2026-11-23T16:01:02+00:00"
     },
     {
       "asin": "B0GVKXRSGK",
@@ -2554,72 +2620,6 @@
       "deal_key": "sd:20367990",
       "published_at": "2026-11-23T00:16:22+00:00",
       "revalidated_at": "2026-11-23T14:46:00+00:00"
-    },
-    {
-      "asin": "B0DS6FMF13",
-      "title": "1600-Pc RoseArt Peanuts: World's Largest Snoopy Shaped Jigsaw Puzzle at Amazon",
-      "title_es": "Puzle RoseArt Peanuts: Snoopy gigante de 1600 piezas",
-      "headline": null,
-      "post": "Este gigantesco puzle de 1600 piezas con forma de Snoopy de RoseArt es perfecto para los amantes de Peanuts y los desafíos. Ofrece horas de diversión y una pieza decorativa única para tu hogar.",
-      "post_en": "This gigantic 1600-piece Snoopy-shaped jigsaw puzzle from RoseArt is perfect for Peanuts lovers and challenge seekers. It offers hours of fun and a unique decorative piece for your home.",
-      "price_new": 14.99,
-      "price_old": 29.99,
-      "currency": "USD",
-      "discount_pct": 50.0,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/91Jl6P3NCqL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DS6FMF13/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20371839",
-      "published_at": "2026-11-23T00:16:22+00:00",
-      "revalidated_at": "2026-11-23T14:46:00+00:00"
-    },
-    {
-      "asin": "0786969954",
-      "title": "Dungeons & Dragons Adventures in Faerun D&D Forgotten Realms DM Expansion",
-      "title_es": "Expansión Dungeons & Dragons Adventures in Faerun D&D Forgotten Realms para DM",
-      "headline": null,
-      "post": "Expande tus aventuras en Forgotten Realms con esta expansión de Dungeons & Dragons, diseñada para el Dungeon Master. Añade nuevas reglas, monstruos y elementos para enriquecer tus campañas de rol.",
-      "post_en": "Expand your adventures in the Forgotten Realms with this Dungeons & Dragons expansion, designed for the Dungeon Master. It adds new rules, monsters, and elements to enrich your tabletop RPG campaigns.",
-      "price_new": 35.49,
-      "price_old": 59.99,
-      "currency": "USD",
-      "discount_pct": 40.8,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/71ftz-qJRKL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/0786969954/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20353167",
-      "published_at": "2026-11-23T00:16:22+00:00",
-      "revalidated_at": "2026-11-23T14:46:00+00:00"
-    },
-    {
-      "asin": "B07GJXT272",
-      "title": "HENCKELS Handheld Knife Sharpener at Amazon",
-      "title_es": "Afilador de cuchillos manual HENCKELS",
-      "headline": null,
-      "post": "Este afilador de cuchillos manual HENCKELS te permite mantener tus cuchillos afilados y listos para cualquier tarea culinaria. Es una herramienta esencial para cualquier cocina que busque eficiencia y seguridad.",
-      "post_en": "This HENCKELS handheld knife sharpener allows you to keep your knives sharp and ready for any culinary task. It's an essential tool for any kitchen seeking efficiency and safety.",
-      "price_new": 13.99,
-      "price_old": 24.99,
-      "currency": "USD",
-      "discount_pct": 44.0,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/51unv28LClL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07GJXT272/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20364579",
-      "published_at": "2026-11-23T00:16:22+00:00",
-      "revalidated_at": "2026-11-23T15:15:48+00:00"
     }
   ]
 }
