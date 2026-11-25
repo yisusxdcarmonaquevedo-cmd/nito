@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-25T17:00:54+00:00",
+  "generated_at": "2026-11-25T17:15:53+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0792T5NZX",
+      "title": "40-Count 0.875-Oz Cheetos Cheese Puffs Snack Bags",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.34,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 64.7,
+      "rating": 4.6,
+      "condition": "coupon",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://m.media-amazon.com/images/I/81jBA5R4CIL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0792T5NZX/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20395587",
+      "published_at": "2026-11-25T17:15:53+00:00",
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
+    },
+    {
+      "asin": "B0FLF4RY9F",
+      "title": "JanSport 34L Big Backpack - 15 Inch Laptop Sleeve, Pop Art Pansies | Large Capacity, Ergonomic S-Curve Straps",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 20.68,
+      "price_old": 62.0,
+      "currency": "USD",
+      "discount_pct": 66.6,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/7/9/3/8/8/9/1/450x450/22581528.thumb",
+      "url": "https://amazon.com/dp/B0FLF4RY9F/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20393859",
+      "published_at": "2026-11-25T17:15:53+00:00",
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
+    },
+    {
+      "asin": "B0H96CLBVF",
+      "title": "Smashbox Photo Finish 3-Piece Travel-Size Face Primer Set",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.35,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 64.7,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://slickdeals.net/attachment/6/3/5/4/7/1/450x450/22571013.thumb",
+      "url": "https://amazon.com/dp/B0H96CLBVF/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20389563",
+      "published_at": "2026-11-25T17:15:53+00:00",
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
+    },
+    {
+      "asin": "B0H82YPVPX",
+      "title": "CVLIFE Hexcore 6\" Fixed Blade Knife with Sheath, Full Tang Tanto Knife",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 23.99,
+      "price_old": 39.99,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": 4.6,
+      "condition": "code",
+      "code": "1UKA94NE",
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/717ddrLYuNL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0H82YPVPX/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20395191",
+      "published_at": "2026-11-25T17:15:53+00:00",
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
+    },
+    {
+      "asin": "B07P1Z6S39",
+      "title": "Amazon Saver Dark Roast Coffee Pods 24 CT (Previously Happy Belly)~$5.18 With S&S @ Amazon~Buy 4 & Save More!",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 5.18,
+      "price_old": 8.66,
+      "currency": "USD",
+      "discount_pct": 40.2,
+      "rating": 4.4,
+      "condition": "sns",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81TxPTi8ykL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07P1Z6S39/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20395509",
+      "published_at": "2026-11-25T17:15:53+00:00",
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
+    },
     {
       "asin": "B0H15LQ2S2",
       "title": "12-Pk 10mL Gihen Aromatherapy Essential Oil Set (various scents)",
@@ -507,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20390238",
       "published_at": "2026-11-25T14:46:04+00:00",
-      "revalidated_at": "2026-11-25T14:46:04+00:00"
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
     },
     {
       "asin": "B0GGDJ9X51",
@@ -705,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20391912",
       "published_at": "2026-11-25T14:30:59+00:00",
-      "revalidated_at": "2026-11-25T14:30:59+00:00"
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
     },
     {
       "asin": "B0DZDXQN5N",
@@ -727,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20391879",
       "published_at": "2026-11-25T14:30:59+00:00",
-      "revalidated_at": "2026-11-25T14:30:59+00:00"
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
     },
     {
       "asin": "B00ELCLJMG",
@@ -749,7 +859,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20394156",
       "published_at": "2026-11-25T14:30:59+00:00",
-      "revalidated_at": "2026-11-25T14:30:59+00:00"
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
     },
     {
       "asin": "B08CTVFN15",
@@ -771,7 +881,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20380113",
       "published_at": "2026-11-25T14:30:59+00:00",
-      "revalidated_at": "2026-11-25T14:30:59+00:00"
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
     },
     {
       "asin": "B0C442SWJ7",
@@ -793,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20392128",
       "published_at": "2026-11-25T14:30:59+00:00",
-      "revalidated_at": "2026-11-25T14:30:59+00:00"
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
     },
     {
       "asin": "B0F1Z88FBT",
@@ -1409,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20390514",
       "published_at": "2026-11-25T12:16:10+00:00",
-      "revalidated_at": "2026-11-25T14:30:59+00:00"
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
     },
     {
       "asin": "B0DWHFWT5C",
@@ -1431,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20387622",
       "published_at": "2026-11-25T12:16:10+00:00",
-      "revalidated_at": "2026-11-25T14:30:59+00:00"
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
     },
     {
       "asin": "B0BFFJQZXS",
@@ -1783,7 +1893,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20393001",
       "published_at": "2026-11-25T10:30:44+00:00",
-      "revalidated_at": "2026-11-25T14:30:59+00:00"
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
     },
     {
       "asin": "B0FJJXCFPL",
@@ -1805,7 +1915,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20359929",
       "published_at": "2026-11-25T10:30:44+00:00",
-      "revalidated_at": "2026-11-25T14:30:59+00:00"
+      "revalidated_at": "2026-11-25T17:15:53+00:00"
     },
     {
       "asin": "B0CGY4H58V",
@@ -2532,116 +2642,6 @@
       "deal_key": "sd:20391750",
       "published_at": "2026-11-25T07:15:41+00:00",
       "revalidated_at": "2026-11-25T16:31:04+00:00"
-    },
-    {
-      "asin": "B07NYQNBLH",
-      "title": "Amazon Saver Colombian Medium Roast Coffee Pods 24 CT (Previously Happy Belly)~$4.92 With S&S @ Amazon~Buy 4 & Save More!",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 4.92,
-      "price_old": 59.0,
-      "currency": "USD",
-      "discount_pct": 91.7,
-      "rating": 4.2,
-      "condition": "sns",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81Mc9hSEBCL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07NYQNBLH/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20391477",
-      "published_at": "2026-11-25T07:00:44+00:00",
-      "revalidated_at": "2026-11-25T15:30:58+00:00"
-    },
-    {
-      "asin": "B0GXLL9G2W",
-      "title": "52-Piece John Deere Mini Movers 24-Day Advent Calendar Tractor Toy Playset",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 18.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 47.2,
-      "rating": 4.8,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81C5YkxXJdL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GXLL9G2W/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20338287",
-      "published_at": "2026-11-25T07:00:44+00:00",
-      "revalidated_at": "2026-11-25T15:30:58+00:00"
-    },
-    {
-      "asin": "B0G2T1W5S9",
-      "title": "577-Pc LEGO One Piece: Tony Tony Chopper Building Set",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 40.0,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 42.8,
-      "rating": 5.0,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81FcWS+vZQL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0G2T1W5S9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20385282",
-      "published_at": "2026-11-25T07:00:44+00:00",
-      "revalidated_at": "2026-11-25T16:00:53+00:00"
-    },
-    {
-      "asin": "B0DWDMHYYS",
-      "title": "Cooler Master Hyper 411 Nano CPU Air Cooler -",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 16.99,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 71.7,
-      "rating": 4.5,
-      "condition": "prime",
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/71FVp-mmmuL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DWDMHYYS/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20392116",
-      "published_at": "2026-11-25T06:30:35+00:00",
-      "revalidated_at": "2026-11-25T15:00:49+00:00"
-    },
-    {
-      "asin": "B0DY2W4P43",
-      "title": "8-Pack 12-Oz Powerade Mountain Berry Blast Sports Drinks ($0.37 per bottle)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 0.37,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 98.9,
-      "rating": 4.8,
-      "condition": "coupon",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81R-BanACEL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DY2W4P43/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20391924",
-      "published_at": "2026-11-25T06:15:56+00:00",
-      "revalidated_at": "2026-11-25T15:00:49+00:00"
     }
   ]
 }
