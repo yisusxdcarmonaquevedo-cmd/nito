@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-25T06:45:39+00:00",
+  "generated_at": "2026-11-25T07:00:44+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B07NYQNBLH",
+      "title": "Amazon Saver Colombian Medium Roast Coffee Pods 24 CT (Previously Happy Belly)~$4.92 With S&S @ Amazon~Buy 4 & Save More!",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 4.92,
+      "price_old": 59.0,
+      "currency": "USD",
+      "discount_pct": 91.7,
+      "rating": 4.2,
+      "condition": "sns",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81Mc9hSEBCL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07NYQNBLH/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20391477",
+      "published_at": "2026-11-25T07:00:44+00:00",
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
+    },
+    {
+      "asin": "B0GXLL9G2W",
+      "title": "52-Piece John Deere Mini Movers 24-Day Advent Calendar Tractor Toy Playset",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 18.49,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 47.2,
+      "rating": 4.8,
+      "condition": "prime",
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81C5YkxXJdL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0GXLL9G2W/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20338287",
+      "published_at": "2026-11-25T07:00:44+00:00",
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
+    },
+    {
+      "asin": "B0G2T1W5S9",
+      "title": "577-Pc LEGO One Piece: Tony Tony Chopper Building Set",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 40.0,
+      "price_old": 69.99,
+      "currency": "USD",
+      "discount_pct": 42.8,
+      "rating": 5.0,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81FcWS+vZQL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0G2T1W5S9/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20385282",
+      "published_at": "2026-11-25T07:00:44+00:00",
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
+    },
     {
       "asin": "B0DWDMHYYS",
       "title": "Cooler Master Hyper 411 Nano CPU Air Cooler -",
@@ -80,11 +146,11 @@
       "price_old": 84.99,
       "currency": "USD",
       "discount_pct": 69.9,
-      "rating": null,
+      "rating": 4.5,
       "condition": null,
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/8/6/7/1/9/450x450/22567866.thumb",
+      "image": "https://m.media-amazon.com/images/I/61ZHx+CyjfL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F4LHH89J/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20388444",
@@ -212,11 +278,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.7,
       "condition": "prime",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/4/0/4/0/3/4/4/450x450/22575474.thumb",
+      "image": "https://m.media-amazon.com/images/I/51T69AAYIQL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CP9Y7GN3/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20391474",
@@ -234,11 +300,11 @@
       "price_old": 21.99,
       "currency": "USD",
       "discount_pct": 40.9,
-      "rating": null,
+      "rating": 4.6,
       "condition": null,
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/8/6/7/1/9/450x450/22514598.thumb",
+      "image": "https://m.media-amazon.com/images/I/61gF6wY1QmL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0109K8F3O/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20366529",
@@ -507,7 +573,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20390475",
       "published_at": "2026-11-25T02:45:52+00:00",
-      "revalidated_at": "2026-11-25T04:45:34+00:00"
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
     },
     {
       "asin": "B09GKZ17TZ",
@@ -529,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20390178",
       "published_at": "2026-11-25T02:45:52+00:00",
-      "revalidated_at": "2026-11-25T04:45:34+00:00"
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
     },
     {
       "asin": "B0C8523DT8",
@@ -859,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20344611",
       "published_at": "2026-11-25T01:15:49+00:00",
-      "revalidated_at": "2026-11-25T05:00:46+00:00"
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
     },
     {
       "asin": "B0C1PCZB8G",
@@ -925,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20388864",
       "published_at": "2026-11-25T01:01:01+00:00",
-      "revalidated_at": "2026-11-25T04:45:34+00:00"
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
     },
     {
       "asin": "B0DK5VM9W2",
@@ -991,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20339643",
       "published_at": "2026-11-25T00:45:51+00:00",
-      "revalidated_at": "2026-11-25T04:45:34+00:00"
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
     },
     {
       "asin": "B0C8T666P4",
@@ -1519,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20389902",
       "published_at": "2026-11-24T22:46:17+00:00",
-      "revalidated_at": "2026-11-25T04:45:34+00:00"
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
     },
     {
       "asin": "B0FNRXHL41",
@@ -1541,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20385468",
       "published_at": "2026-11-24T22:30:57+00:00",
-      "revalidated_at": "2026-11-25T04:45:34+00:00"
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
     },
     {
       "asin": "B0HM3FKBML",
@@ -1563,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20383539",
       "published_at": "2026-11-24T22:30:57+00:00",
-      "revalidated_at": "2026-11-25T04:45:34+00:00"
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
     },
     {
       "asin": "B0939MRXDV",
@@ -1585,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20385609",
       "published_at": "2026-11-24T22:30:57+00:00",
-      "revalidated_at": "2026-11-25T04:45:34+00:00"
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
     },
     {
       "asin": "B0GDXXVS7R",
@@ -2025,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20388675",
       "published_at": "2026-11-24T20:15:53+00:00",
-      "revalidated_at": "2026-11-25T04:45:34+00:00"
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
     },
     {
       "asin": "B01L2ZS882",
@@ -2047,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20388819",
       "published_at": "2026-11-24T20:15:53+00:00",
-      "revalidated_at": "2026-11-25T04:45:34+00:00"
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
     },
     {
       "asin": "B0DQV8N48N",
@@ -2575,73 +2641,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20387883",
       "published_at": "2026-11-24T17:45:54+00:00",
-      "revalidated_at": "2026-11-25T04:45:34+00:00"
-    },
-    {
-      "asin": "B0GCMF59YX",
-      "title": "[Prime] CVLIFE 3.42\" 67-Layer Damascus Steel Tanto Folding Pocket Knife w/ Aluminum Handle & Pocket Clip",
-      "title_es": "Navaja Plegable CVLIFE Tanto de Acero Damasco de 67 Capas con Mango de Aluminio",
-      "headline": null,
-      "post": "Esta navaja plegable CVLIFE presenta una hoja tanto de acero Damasco de 67 capas y un mango de aluminio duradero. Es una herramienta robusta y elegante para uso diario o colección.",
-      "post_en": "This CVLIFE folding pocket knife features a 3.42\" 67-layer Damascus steel tanto blade and a durable aluminum handle. It's a robust and elegant tool for everyday carry or collection.",
-      "price_new": 24.29,
-      "price_old": 39.99,
-      "currency": "USD",
-      "discount_pct": 39.3,
-      "rating": 4.2,
-      "condition": "coupon",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71NCTUjK4LL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0GCMF59YX/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20386893",
-      "published_at": "2026-11-24T17:45:54+00:00",
-      "revalidated_at": "2026-11-25T04:45:34+00:00"
-    },
-    {
-      "asin": "B0D31CSDWP",
-      "title": "RunStar Smart Body Weight Scale w/ 3.5\" TFT Color Display & 22-Metric Body Composition Analyzer (400-Lb)",
-      "title_es": "Báscula Inteligente RunStar con Pantalla TFT a Color y Analizador de Composición Corporal",
-      "headline": null,
-      "post": "La báscula inteligente RunStar ofrece una pantalla TFT a color y analiza 22 métricas de composición corporal. Ideal para quienes buscan un seguimiento detallado de su salud y fitness.",
-      "post_en": "The RunStar Smart Body Weight Scale features a 3.5\" TFT color display and analyzes 22 body composition metrics. It's perfect for anyone seeking detailed health and fitness tracking.",
-      "price_new": 24.29,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 30.6,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/71-aLHFa5KL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0D31CSDWP/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20386368",
-      "published_at": "2026-11-24T17:45:54+00:00",
-      "revalidated_at": "2026-11-25T04:45:34+00:00"
-    },
-    {
-      "asin": "B0DB1XN51S",
-      "title": "Logitech POP ICON Keys Wireless Bluetooth Keyboard (Off-White and Lilac) at Amazon",
-      "title_es": "Teclado Inalámbrico Bluetooth Logitech POP ICON Keys (Blanco Roto y Lila)",
-      "headline": null,
-      "post": "Este teclado inalámbrico Logitech POP ICON Keys combina estilo y funcionalidad con su diseño retro y teclas emoji personalizables. Conéctalo vía Bluetooth y añade un toque divertido a tu escritorio. ⌨️",
-      "post_en": "This Logitech POP ICON Keys wireless keyboard combines style and functionality with its retro design and customizable emoji keys. Connect via Bluetooth and add a fun touch to your workspace. ⌨️",
-      "price_new": 34.89,
-      "price_old": 49.99,
-      "currency": "USD",
-      "discount_pct": 30.2,
-      "rating": 4.5,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/714Zx8LpShL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DB1XN51S/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20364336",
-      "published_at": "2026-11-24T17:30:45+00:00",
-      "revalidated_at": "2026-11-25T06:30:35+00:00"
+      "revalidated_at": "2026-11-25T07:00:44+00:00"
     }
   ]
 }
