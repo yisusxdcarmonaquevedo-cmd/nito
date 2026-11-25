@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-25T03:15:40+00:00",
+  "generated_at": "2026-11-25T03:31:07+00:00",
   "market": "us",
-  "count": 118,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0F3D55D5R",
+      "title": "Hollyland LARK A2(2TX+1RX+Charging Case) Wireless Microphone, AI Auto-Limit",
+      "title_es": "Micrófono inalámbrico Hollyland LARK A2 (2TX+1RX+Estuche de carga), con limitador automático de IA",
+      "headline": null,
+      "post": "Este es un sistema de micrófono inalámbrico Hollyland LARK A2, ideal para creadores de contenido y videógrafos que buscan audio de alta calidad. Incluye dos transmisores, un receptor y un estuche de carga, ofreciendo una solución completa para grabaciones profesionales.",
+      "post_en": "This is a Hollyland LARK A2 wireless microphone system, perfect for content creators and videographers seeking high-quality audio. It includes two transmitters, one receiver, and a charging case, offering a complete solution for professional recordings.",
+      "price_new": 26.99,
+      "price_old": 44.99,
+      "currency": "USD",
+      "discount_pct": 40.0,
+      "rating": 4.6,
+      "condition": "code",
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://m.media-amazon.com/images/I/71fseEzo9kL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0F3D55D5R/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20390955",
+      "published_at": "2026-11-25T03:31:07+00:00",
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
+    },
+    {
+      "asin": "B09RZSQ34K",
+      "title": "Stanley 10-Piece Phillips & Slotted Screwdriver Set at Amazon",
+      "title_es": "Juego de 10 destornilladores Phillips y planos Stanley",
+      "headline": null,
+      "post": "Este juego de destornilladores Stanley de 10 piezas es esencial para cualquier hogar, ofreciendo una variedad de puntas Phillips y planas. Es perfecto para tareas de montaje, reparaciones pequeñas y proyectos de bricolaje.",
+      "post_en": "This Stanley 10-piece screwdriver set is essential for any home, offering a variety of Phillips and slotted tips. It's perfect for assembly tasks, small repairs, and DIY projects.",
+      "price_new": 17.6,
+      "price_old": 26.7,
+      "currency": "USD",
+      "discount_pct": 34.1,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22571619.thumb",
+      "url": "https://amazon.com/dp/B09RZSQ34K/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20389800",
+      "published_at": "2026-11-25T03:31:07+00:00",
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
+    },
+    {
+      "asin": "B0GHMVMTGF",
+      "title": "Merax Full Over Full Bunk Bed with 2 Large Drawers & 5 Small Drawers,Modern Bunk Bed with Storage Design and Small Wardrobe for Kids & Teens,Sakura Pink",
+      "title_es": "Litera Merax Full Over Full con 2 cajones grandes y 5 pequeños, y armario, rosa Sakura",
+      "headline": null,
+      "post": "Esta litera Merax Full Over Full es una solución de almacenamiento inteligente para habitaciones infantiles o de adolescentes, con 2 cajones grandes, 5 cajones pequeños y un pequeño armario integrado. Su diseño moderno y color rosa Sakura la hacen funcional y atractiva para optimizar el espacio.",
+      "post_en": "This Merax Full Over Full Bunk Bed is a smart storage solution for kids' and teens' rooms, featuring 2 large drawers, 5 small drawers, and a built-in small wardrobe. Its modern design and Sakura Pink color make it functional and attractive for optimizing space.",
+      "price_new": 628.93,
+      "price_old": 935.18,
+      "currency": "USD",
+      "discount_pct": 32.7,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/1/1/1/4/0/3/1/6/450x450/22573167.thumb",
+      "url": "https://amazon.com/dp/B0GHMVMTGF/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20390604",
+      "published_at": "2026-11-25T03:31:07+00:00",
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
+    },
+    {
+      "asin": "B09FJXV35M",
+      "title": "$14.99, Amz, Greenworks 70 Piece Impact Rated Driving Set",
+      "title_es": "Set de 70 piezas de puntas Greenworks Impact Rated Driving",
+      "headline": null,
+      "post": "Este set de 70 piezas Greenworks Impact Rated Driving es ideal para trabajos de bricolaje y proyectos en el hogar, ofreciendo una gran variedad de puntas resistentes a impactos. Es un complemento versátil para cualquier caja de herramientas, asegurando durabilidad y eficiencia.",
+      "post_en": "This Greenworks 70-piece Impact Rated Driving Set is ideal for DIY tasks and home projects, offering a wide variety of impact-resistant bits. It's a versatile addition to any toolbox, ensuring durability and efficiency.",
+      "price_new": 14.99,
+      "price_old": 26.99,
+      "currency": "USD",
+      "discount_pct": 44.5,
+      "rating": 4.5,
+      "condition": "prime",
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/81qPezMEjBL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09FJXV35M/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20345277",
+      "published_at": "2026-11-25T03:31:07+00:00",
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
+    },
     {
       "asin": "B073C1ZYW9",
       "title": "Blade Runner: Final Cut (4K UHD/BD) 4-disc set for",
@@ -859,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20388975",
       "published_at": "2026-11-24T23:30:51+00:00",
-      "revalidated_at": "2026-11-25T01:46:04+00:00"
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
     },
     {
       "asin": "B0HMWJGNKH",
@@ -991,7 +1079,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20389590",
       "published_at": "2026-11-24T23:15:54+00:00",
-      "revalidated_at": "2026-11-25T01:31:01+00:00"
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
     },
     {
       "asin": "B0GGQM6X5H",
@@ -1013,7 +1101,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20389350",
       "published_at": "2026-11-24T23:15:54+00:00",
-      "revalidated_at": "2026-11-25T01:31:01+00:00"
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
     },
     {
       "asin": "B0F9XSFPV8",
@@ -1321,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20388501",
       "published_at": "2026-11-24T21:15:50+00:00",
-      "revalidated_at": "2026-11-25T01:31:01+00:00"
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
     },
     {
       "asin": "B0BRQNN79H",
@@ -1849,7 +1937,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20338644",
       "published_at": "2026-11-24T19:00:56+00:00",
-      "revalidated_at": "2026-11-25T01:31:01+00:00"
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
     },
     {
       "asin": "B0GLQYTWSL",
@@ -1893,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20362659",
       "published_at": "2026-11-24T18:45:46+00:00",
-      "revalidated_at": "2026-11-25T01:31:01+00:00"
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
     },
     {
       "asin": "B0CQYTNNW7",
@@ -1915,7 +2003,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20381136",
       "published_at": "2026-11-24T18:45:46+00:00",
-      "revalidated_at": "2026-11-25T01:31:01+00:00"
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
     },
     {
       "asin": "B0FWTKRMFV",
@@ -2267,7 +2355,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20387436",
       "published_at": "2026-11-24T16:46:06+00:00",
-      "revalidated_at": "2026-11-25T01:31:01+00:00"
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
     },
     {
       "asin": "B073R1QGCM",
@@ -2289,7 +2377,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20351235",
       "published_at": "2026-11-24T16:46:06+00:00",
-      "revalidated_at": "2026-11-25T01:31:01+00:00"
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
     },
     {
       "asin": "B0FB9C6D1N",
@@ -2311,7 +2399,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20387067",
       "published_at": "2026-11-24T16:46:06+00:00",
-      "revalidated_at": "2026-11-25T01:31:01+00:00"
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
     },
     {
       "asin": "B0DF3N5V3W",
@@ -2333,7 +2421,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20358408",
       "published_at": "2026-11-24T16:46:06+00:00",
-      "revalidated_at": "2026-11-25T01:31:01+00:00"
+      "revalidated_at": "2026-11-25T03:31:07+00:00"
     },
     {
       "asin": "B0HBPKXMS9",
@@ -2554,50 +2642,6 @@
       "deal_key": "sd:20386503",
       "published_at": "2026-11-24T16:16:00+00:00",
       "revalidated_at": "2026-11-25T03:15:40+00:00"
-    },
-    {
-      "asin": "B0C3DXP322",
-      "title": "Little Tikes Gas 'n Go Mower Kids' and Toddler Toy",
-      "title_es": "Juguete Cortacésped Little Tikes Gas 'n Go para Niños",
-      "headline": null,
-      "post": "El juguete Little Tikes Gas 'n Go Mower es perfecto para los pequeños que adoran imitar a los adultos en el jardín. Con sonidos realistas y un diseño divertido, fomenta el juego imaginativo al aire libre. 🚜",
-      "post_en": "The Little Tikes Gas 'n Go Mower toy is perfect for little ones who love to imitate adults in the garden. Featuring realistic sounds and a fun design, it encourages imaginative outdoor play. 🚜",
-      "price_new": 16.49,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 52.9,
-      "rating": null,
-      "condition": "prime",
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/2/5/5/9/8/9/2/7/450x450/22561257.thumb",
-      "url": "https://amazon.com/dp/B0C3DXP322/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20385978",
-      "published_at": "2026-11-24T16:01:02+00:00",
-      "revalidated_at": "2026-11-25T02:34:23+00:00"
-    },
-    {
-      "asin": "B07DBGLPZ7",
-      "title": "Samsonite Foldaway Packable Duffel Bag (Extra Large, 10.2\"x14.2\"x27.6\") at Amazon",
-      "title_es": "Bolsa de Viaje Plegable Samsonite Foldaway (Extra Grande)",
-      "headline": null,
-      "post": "Esta bolsa de viaje Samsonite Foldaway es extra grande y se pliega fácilmente para un almacenamiento compacto. Ideal para llevar equipaje adicional o como bolsa de gimnasio, ofreciendo gran capacidad y comodidad.",
-      "post_en": "This Samsonite Foldaway duffel bag is extra large and folds down easily for compact storage. Ideal for carrying extra luggage or as a gym bag, offering great capacity and convenience.",
-      "price_new": 23.93,
-      "price_old": 40.0,
-      "currency": "USD",
-      "discount_pct": 40.2,
-      "rating": 4.4,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/81scUlAKcQL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B07DBGLPZ7/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20342934",
-      "published_at": "2026-11-24T16:01:02+00:00",
-      "revalidated_at": "2026-11-25T02:45:52+00:00"
     }
   ]
 }
