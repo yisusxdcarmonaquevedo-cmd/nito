@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T05:46:05+00:00",
+  "generated_at": "2026-11-26T06:01:09+00:00",
   "market": "us",
-  "count": 120,
+  "count": 118,
   "deals": [
     {
       "asin": "B0GF2Y1KQV",
@@ -300,11 +300,11 @@
       "price_old": 29.99,
       "currency": "USD",
       "discount_pct": 60.0,
-      "rating": null,
+      "rating": 4.0,
       "condition": "code",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/4/2/9/3/0/8/450x450/22590279.thumb",
+      "image": "https://m.media-amazon.com/images/I/61vlMKTdIxL._AC_SL1402_.jpg",
       "url": "https://amazon.com/dp/B0GS56ZDYY/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20397039",
@@ -322,11 +322,11 @@
       "price_old": 58.99,
       "currency": "USD",
       "discount_pct": 79.1,
-      "rating": null,
+      "rating": 4.7,
       "condition": "prime",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/0/6/6/3/5/5/9/450x450/22596435.thumb",
+      "image": "https://m.media-amazon.com/images/I/81zvGwhs-2L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0CT9SXVBD/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20399886",
@@ -344,11 +344,11 @@
       "price_old": 59.95,
       "currency": "USD",
       "discount_pct": 41.7,
-      "rating": null,
+      "rating": 4.4,
       "condition": "prime",
       "code": null,
       "category": "Deporte y Fitness",
-      "image": "https://slickdeals.net/attachment/3/4/0/4/3/1/7/8/450x450/22599003.thumb",
+      "image": "https://m.media-amazon.com/images/I/81GKdUDb6TL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G5S13GVN/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20400339",
@@ -410,11 +410,11 @@
       "price_old": 60.0,
       "currency": "USD",
       "discount_pct": 77.0,
-      "rating": null,
+      "rating": 4.5,
       "condition": "sns",
       "code": null,
       "category": "Salud, Belleza y Cuidado Personal",
-      "image": "https://slickdeals.net/attachment/3/4/0/4/3/1/7/8/450x450/22597572.thumb",
+      "image": "https://m.media-amazon.com/images/I/71uULIQI1fL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B01M61VG38/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20399880",
@@ -485,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20400273",
       "published_at": "2026-11-26T04:01:15+00:00",
-      "revalidated_at": "2026-11-26T04:01:15+00:00"
+      "revalidated_at": "2026-11-26T06:01:09+00:00"
     },
     {
       "asin": "B0D96KVMN9",
@@ -507,7 +507,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20400306",
       "published_at": "2026-11-26T04:01:15+00:00",
-      "revalidated_at": "2026-11-26T04:01:15+00:00"
+      "revalidated_at": "2026-11-26T06:01:09+00:00"
     },
     {
       "asin": "B07CT8FTNT",
@@ -529,7 +529,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20400177",
       "published_at": "2026-11-26T04:01:15+00:00",
-      "revalidated_at": "2026-11-26T04:01:15+00:00"
+      "revalidated_at": "2026-11-26T06:01:09+00:00"
     },
     {
       "asin": "B004397VEW",
@@ -595,7 +595,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20399964",
       "published_at": "2026-11-26T03:45:55+00:00",
-      "revalidated_at": "2026-11-26T03:45:55+00:00"
+      "revalidated_at": "2026-11-26T06:01:09+00:00"
     },
     {
       "asin": "B07W61GJ87",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20399580",
       "published_at": "2026-11-26T03:45:55+00:00",
-      "revalidated_at": "2026-11-26T03:45:55+00:00"
+      "revalidated_at": "2026-11-26T06:01:09+00:00"
     },
     {
       "asin": "B0CLYTJHJ9",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20358153",
       "published_at": "2026-11-26T03:45:55+00:00",
-      "revalidated_at": "2026-11-26T03:45:55+00:00"
+      "revalidated_at": "2026-11-26T06:01:09+00:00"
     },
     {
       "asin": "B0CKM8PT7G",
@@ -1016,28 +1016,6 @@
       "revalidated_at": "2026-11-26T04:16:03+00:00"
     },
     {
-      "asin": "B0C2JSKPC9",
-      "title": "adidas Men's VL Court 3.0 Sneakers",
-      "title_es": "Zapatillas adidas VL Court 3.0 para hombre",
-      "headline": null,
-      "post": "Estas zapatillas adidas VL Court 3.0 para hombre son ideales para un estilo casual y cómodo en el día a día. Su diseño versátil las hace perfectas para combinar con diferentes atuendos informales. 👟",
-      "post_en": "These adidas Men's VL Court 3.0 Sneakers are perfect for a casual and comfortable everyday style. Their versatile design makes them ideal for pairing with various informal outfits. 👟",
-      "price_new": 18.99,
-      "price_old": 80.0,
-      "currency": "USD",
-      "discount_pct": 76.3,
-      "rating": 4.6,
-      "condition": "prime",
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/61GaRQfuw+L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0C2JSKPC9/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20399523",
-      "published_at": "2026-11-26T01:45:45+00:00",
-      "revalidated_at": "2026-11-26T03:45:55+00:00"
-    },
-    {
       "asin": "B0DKFMB2T2",
       "title": "HYSEYY Metal Double Rod Rolling Clothing Rack (Black)",
       "title_es": "Perchero doble metálico con ruedas HYSEYY (Negro)",
@@ -1057,7 +1035,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20395521",
       "published_at": "2026-11-26T01:45:45+00:00",
-      "revalidated_at": "2026-11-26T03:45:55+00:00"
+      "revalidated_at": "2026-11-26T06:01:09+00:00"
     },
     {
       "asin": "B0C4NWGVTF",
@@ -1079,7 +1057,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20366994",
       "published_at": "2026-11-26T01:45:45+00:00",
-      "revalidated_at": "2026-11-26T03:45:55+00:00"
+      "revalidated_at": "2026-11-26T06:01:09+00:00"
     },
     {
       "asin": "B0D14WZYTJ",
@@ -1255,7 +1233,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20397519",
       "published_at": "2026-11-25T23:46:00+00:00",
-      "revalidated_at": "2026-11-26T03:45:55+00:00"
+      "revalidated_at": "2026-11-26T06:01:09+00:00"
     },
     {
       "asin": "B0FB2JR6N6",
@@ -1651,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20395953",
       "published_at": "2026-11-25T21:46:05+00:00",
-      "revalidated_at": "2026-11-26T04:01:15+00:00"
+      "revalidated_at": "2026-11-26T06:01:09+00:00"
     },
     {
       "asin": "B0HJCZQX5R",
@@ -1761,7 +1739,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20397510",
       "published_at": "2026-11-25T21:31:11+00:00",
-      "revalidated_at": "2026-11-26T03:45:55+00:00"
+      "revalidated_at": "2026-11-26T06:01:09+00:00"
     },
     {
       "asin": "B0HJCG2P4X",
@@ -1783,7 +1761,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20395695",
       "published_at": "2026-11-25T21:31:11+00:00",
-      "revalidated_at": "2026-11-26T03:45:55+00:00"
+      "revalidated_at": "2026-11-26T06:01:09+00:00"
     },
     {
       "asin": "B088VB6L8G",
@@ -1805,29 +1783,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20397255",
       "published_at": "2026-11-25T21:31:11+00:00",
-      "revalidated_at": "2026-11-26T03:45:55+00:00"
-    },
-    {
-      "asin": "B0B3LVT3CD",
-      "title": "6\" Seesii Mini Cordless Electric Hand Chainsaw w/ 2x 21V Batteries",
-      "title_es": "Seesii Mini Motosierra Eléctrica Inalámbrica de Mano de 6\" con 2 Baterías de 21V",
-      "headline": null,
-      "post": "La mini motosierra Seesii de 6\" es una herramienta eléctrica inalámbrica compacta y potente para tareas de poda y corte ligero. Incluye dos baterías de 21V para asegurar un trabajo continuo y eficiente en el jardín. 🌳",
-      "post_en": "The Seesii 6\" mini chainsaw is a compact and powerful cordless electric tool for pruning and light cutting tasks. It includes two 21V batteries to ensure continuous and efficient work in the garden. 🌳",
-      "price_new": 19.93,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 43.1,
-      "rating": 4.5,
-      "condition": "code",
-      "code": "USSEESII",
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/817yg73pNrL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0B3LVT3CD/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20397525",
-      "published_at": "2026-11-25T21:31:11+00:00",
-      "revalidated_at": "2026-11-26T03:45:55+00:00"
+      "revalidated_at": "2026-11-26T06:01:09+00:00"
     },
     {
       "asin": "B0D6X3FH6G",
