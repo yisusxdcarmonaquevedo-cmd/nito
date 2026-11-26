@@ -1,15 +1,59 @@
 {
-  "generated_at": "2026-11-26T00:01:57+00:00",
+  "generated_at": "2026-11-26T00:15:40+00:00",
   "market": "us",
-  "count": 118,
+  "count": 120,
   "deals": [
+    {
+      "asin": "B0FFQ8Y2H7",
+      "title": "Lacoste Kids' Jersey T-Shirt",
+      "title_es": "Camiseta de Jersey Lacoste para Niños",
+      "headline": null,
+      "post": "Esta camiseta de jersey Lacoste para niños ofrece comodidad y estilo para el día a día. Es una prenda versátil, ideal para los más pequeños que buscan un toque clásico en su vestuario.",
+      "post_en": "This Lacoste Kids' Jersey T-Shirt offers comfort and style for everyday wear. It's a versatile garment, perfect for little ones looking for a classic touch in their wardrobe.",
+      "price_new": 14.99,
+      "price_old": 30.0,
+      "currency": "USD",
+      "discount_pct": 50.0,
+      "rating": null,
+      "condition": "prime",
+      "code": null,
+      "category": "Moda y Accesorios",
+      "image": "https://slickdeals.net/attachment/3/4/0/4/3/1/7/8/450x450/22595298.thumb",
+      "url": "https://amazon.com/dp/B0FFQ8Y2H7/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20399133",
+      "published_at": "2026-11-26T00:15:40+00:00",
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
+    },
+    {
+      "asin": "B09541P9WH",
+      "title": "Amazon Essentials Cotton Swabs, 500 Count (Previously Amazon Basics)",
+      "title_es": "Bastoncillos de Algodón Amazon Essentials, 500 unidades (anteriormente Amazon Basics)",
+      "headline": null,
+      "post": "Estos bastoncillos de algodón Amazon Essentials son ideales para una higiene personal diaria o para retoques de maquillaje. Vienen en un práctico paquete de 500 unidades, perfectos para tener siempre a mano en casa.",
+      "post_en": "These Amazon Essentials Cotton Swabs are ideal for daily personal hygiene or makeup touch-ups. They come in a convenient 500-count pack, perfect for keeping handy at home.",
+      "price_new": 2.06,
+      "price_old": 3.0,
+      "currency": "USD",
+      "discount_pct": 31.3,
+      "rating": 4.7,
+      "condition": null,
+      "code": null,
+      "category": "Salud, Belleza y Cuidado Personal",
+      "image": "https://m.media-amazon.com/images/I/612HeyYXOnL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/B09541P9WH/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20397195",
+      "published_at": "2026-11-26T00:15:40+00:00",
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
+    },
     {
       "asin": "B0G2RVMW2T",
       "title": "Nike Men's Air Monarch IV Workout Shoes Various sizes",
-      "title_es": null,
+      "title_es": "Zapatillas de entrenamiento Nike Air Monarch IV para hombre",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Estas zapatillas Nike Air Monarch IV son ideales para tus rutinas de entrenamiento, ofreciendo comodidad y soporte. Su diseño clásico las hace perfectas para el gimnasio o el uso diario.",
+      "post_en": "These Nike Air Monarch IV training shoes are ideal for your workout routines, offering comfort and support. Their classic design makes them perfect for the gym or daily wear.",
       "price_new": 55.97,
       "price_old": 85.0,
       "currency": "USD",
@@ -28,10 +72,10 @@
     {
       "asin": "B0FB2JR6N6",
       "title": "Columbia Women's Switchback II Lined Long Rain Jacket (Various sizes/colors) from",
-      "title_es": null,
+      "title_es": "Chaqueta larga impermeable Columbia Switchback II forrada para mujer",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La chaqueta Columbia Switchback II es una prenda impermeable y forrada, perfecta para protegerte de la lluvia con estilo. Ideal para quienes buscan funcionalidad y comodidad en climas húmedos.",
+      "post_en": "The Columbia Switchback II jacket is a lined, waterproof garment, perfect for protecting you from rain with style. Ideal for those seeking functionality and comfort in wet weather.",
       "price_new": 49.97,
       "price_old": 100.0,
       "currency": "USD",
@@ -50,10 +94,10 @@
     {
       "asin": "B0GKQNQQZ1",
       "title": "Saucony Women's Endorphin Speed 5 Running Shoe (Various Styles/Sizes)",
-      "title_es": null,
+      "title_es": "Zapatillas de running Saucony Endorphin Speed 5 para mujer",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Las zapatillas Saucony Endorphin Speed 5 están diseñadas para corredoras que buscan velocidad y amortiguación reactiva. Ofrecen un rendimiento óptimo para entrenamientos rápidos y carreras.",
+      "post_en": "The Saucony Endorphin Speed 5 running shoes are designed for female runners seeking speed and responsive cushioning. They offer optimal performance for fast training and races.",
       "price_new": 99.95,
       "price_old": 175.0,
       "currency": "USD",
@@ -72,10 +116,10 @@
     {
       "asin": "B0FNM7LNHV",
       "title": "2-Pack Lerat Rechargeable Hand Warmers w/ 3 Heat Settings & USB Charging",
-      "title_es": null,
+      "title_es": "Pack de 2 calentadores de manos recargables Lerat con 3 ajustes de calor",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Mantén tus manos cálidas con estos calentadores Lerat recargables, que ofrecen tres niveles de calor y carga USB. Son perfectos para actividades al aire libre o para combatir el frío en cualquier momento.",
+      "post_en": "Keep your hands warm with these rechargeable Lerat hand warmers, offering three heat settings and USB charging. They are perfect for outdoor activities or combating the cold anytime.",
       "price_new": 5.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -94,10 +138,10 @@
     {
       "asin": "B08TPXXCPL",
       "title": "Hasbro Gaming Connect 4 Marvel Spider-Man Edition, Strategy Board Game for 2 Players, Ages 6 and Up (Amazon Exclusive) at Amazon",
-      "title_es": null,
+      "title_es": "Hasbro Gaming Connect 4 Edición Marvel Spider-Man, juego de mesa",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta del clásico juego Conecta 4 con esta edición especial de Marvel Spider-Man, ideal para dos jugadores a partir de 6 años. Un divertido juego de estrategia para toda la familia. 🕷️",
+      "post_en": "Enjoy the classic Connect 4 game with this special Marvel Spider-Man edition, ideal for two players aged 6 and up. A fun strategy game for the whole family. 🕷️",
       "price_new": 11.99,
       "price_old": 19.99,
       "currency": "USD",
@@ -116,10 +160,10 @@
     {
       "asin": "B0002N5E6A",
       "title": "SUPERthrive Plant Vitamin Solution, 1 Quart",
-      "title_es": null,
+      "title_es": "Solución vitamínica para plantas SUPERthrive, 1 cuarto",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "SUPERthrive es una solución vitamínica concentrada que ayuda a revitalizar y fortalecer tus plantas. Es ideal para jardineros que buscan mejorar el crecimiento y la salud general de su vegetación.",
+      "post_en": "SUPERthrive is a concentrated vitamin solution that helps revitalize and strengthen your plants. It's ideal for gardeners looking to improve the growth and overall health of their vegetation.",
       "price_new": 33.99,
       "price_old": 57.0,
       "currency": "USD",
@@ -138,10 +182,10 @@
     {
       "asin": "B0G5QNVMLT",
       "title": "LEGO Friends Advent Calendar 2026 (42698)",
-      "title_es": null,
+      "title_es": "Calendario de Adviento LEGO Friends 2026 (42698)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Prepárate para la Navidad con el Calendario de Adviento LEGO Friends 2026, lleno de sorpresas diarias. Es un regalo perfecto para los fans de LEGO que disfrutan construyendo y descubriendo nuevas figuras.",
+      "post_en": "Get ready for Christmas with the LEGO Friends Advent Calendar 2026, packed with daily surprises. It's a perfect gift for LEGO fans who enjoy building and discovering new figures.",
       "price_new": 24.49,
       "price_old": 34.99,
       "currency": "USD",
@@ -160,10 +204,10 @@
     {
       "asin": "B0H7WBXJNS",
       "title": "Belle Poque Lightweight Cable Knit Cardigan Sweater for Women",
-      "title_es": null,
+      "title_es": "Cárdigan ligero de punto trenzado Belle Poque para mujer",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este cárdigan ligero Belle Poque de punto trenzado es una prenda versátil y cómoda para cualquier ocasión. Ideal para añadir un toque elegante y cálido a tu vestuario diario.",
+      "post_en": "This lightweight Belle Poque cable knit cardigan is a versatile and comfortable garment for any occasion. Ideal for adding an elegant and warm touch to your daily wardrobe.",
       "price_new": 16.49,
       "price_old": 32.99,
       "currency": "USD",
@@ -182,10 +226,10 @@
     {
       "asin": "B0BJ74DJXG",
       "title": "BYOMA Gel-Cream Moisturizer w/ Tri-Ceramide & Niacinamide",
-      "title_es": null,
+      "title_es": "Hidratante en gel-crema BYOMA con Tri-Ceramida y Niacinamida",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El hidratante en gel-crema BYOMA, enriquecido con Tri-Ceramida y Niacinamida, es perfecto para fortalecer la barrera cutánea. Deja la piel suave e hidratada, ideal para todo tipo de piel.",
+      "post_en": "The BYOMA Gel-Cream Moisturizer, enriched with Tri-Ceramide and Niacinamide, is perfect for strengthening the skin barrier. It leaves skin soft and hydrated, ideal for all skin types.",
       "price_new": 7.48,
       "price_old": 35.0,
       "currency": "USD",
@@ -204,10 +248,10 @@
     {
       "asin": "B0CV5NLPSX",
       "title": "Ninja FB131WH FrostVault 30qt Hard Cooler with Dry Zone, Integrated Fridge-Temp Dry Storage Drawer, Premium Heavy-Duty Insulated Cooler, Keeps Ice for Days, Cloud White -",
-      "title_es": null,
+      "title_es": "Nevera rígida Ninja FB131WH FrostVault de 30qt con zona seca",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La nevera rígida Ninja FrostVault de 30qt mantiene el hielo durante días y cuenta con un compartimento seco integrado a temperatura de nevera. Es ideal para excursiones o eventos, asegurando que tus alimentos y bebidas estén siempre frescos.",
+      "post_en": "The Ninja FrostVault 30qt hard cooler keeps ice for days and features an integrated fridge-temp dry storage drawer. It's ideal for excursions or events, ensuring your food and drinks stay fresh.",
       "price_new": 109.99,
       "price_old": 199.99,
       "currency": "USD",
@@ -397,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20397729",
       "published_at": "2026-11-25T22:00:56+00:00",
-      "revalidated_at": "2026-11-25T22:00:56+00:00"
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
     },
     {
       "asin": "B0DXQ3MKQ2",
@@ -419,7 +463,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20394564",
       "published_at": "2026-11-25T22:00:56+00:00",
-      "revalidated_at": "2026-11-25T22:00:56+00:00"
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
     },
     {
       "asin": "B0F4MHT7J3",
@@ -441,7 +485,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20354091",
       "published_at": "2026-11-25T22:00:56+00:00",
-      "revalidated_at": "2026-11-25T22:00:56+00:00"
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
     },
     {
       "asin": "B0HFJJLVQP",
@@ -666,10 +710,10 @@
     {
       "asin": "B0DQYP1L95",
       "title": "Bounty Quick-Size Paper Towels 8 Family Triple Rolls = 27 Regular Rolls",
-      "title_es": null,
+      "title_es": "Papel de cocina Bounty Quick-Size 8 Family Triple Rolls = 27 Rollos Regulares",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este papel de cocina Bounty Quick-Size ofrece una absorción superior y un tamaño práctico para cualquier derrame. Ideal para hogares que buscan eficiencia y durabilidad en sus tareas de limpieza diarias.",
+      "post_en": "These Bounty Quick-Size paper towels offer superior absorption and a convenient size for any spill. Perfect for households seeking efficiency and durability in their daily cleaning tasks.",
       "price_new": 19.98,
       "price_old": 29.99,
       "currency": "USD",
@@ -688,10 +732,10 @@
     {
       "asin": "B07XJ7XWLW",
       "title": "CeraVe Resurfacing Retinol Serum 1 oz",
-      "title_es": null,
+      "title_es": "Serum de Retinol CeraVe Resurfacing 1 oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El serum CeraVe Resurfacing Retinol ayuda a reducir la apariencia de marcas post-acné y poros, mejorando la textura de la piel. Es perfecto para quienes buscan una piel más suave y uniforme con el uso regular.",
+      "post_en": "The CeraVe Resurfacing Retinol Serum helps reduce the appearance of post-acne marks and pores, improving skin texture. It's perfect for those seeking smoother, more even-toned skin with regular use.",
       "price_new": 16.51,
       "price_old": 24.99,
       "currency": "USD",
@@ -710,10 +754,10 @@
     {
       "asin": "B0BRTC91SZ",
       "title": "100-Pc Wheeler Screwdriver Set w/ Stackable Carry Case at Amazon",
-      "title_es": null,
+      "title_es": "Set de destornilladores Wheeler de 100 piezas con estuche apilable",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este completo set de destornilladores Wheeler de 100 piezas incluye una gran variedad de puntas para cualquier trabajo. Su estuche apilable lo hace ideal para aficionados al bricolaje y profesionales que necesitan organización y versatilidad.",
+      "post_en": "This comprehensive 100-piece Wheeler Screwdriver Set includes a wide variety of bits for any job. Its stackable carry case makes it ideal for DIY enthusiasts and professionals needing organization and versatility.",
       "price_new": 49.31,
       "price_old": 120.99,
       "currency": "USD",
@@ -732,10 +776,10 @@
     {
       "asin": "B0FQ5FYWQW",
       "title": "AOKOWN Waterproof Dog Hooded Raincoat w/ Leash Hole & Leg Straps (Various) from",
-      "title_es": null,
+      "title_es": "Chubasquero impermeable con capucha AOKOWN para perro (varios)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Protege a tu mascota de la lluvia con este chubasquero impermeable AOKOWN, diseñado con capucha, orificio para correa y correas para las patas. Es ideal para mantener a tu perro seco y cómodo durante los paseos en días húmedos. 🐾",
+      "post_en": "Protect your pet from the rain with this AOKOWN waterproof hooded raincoat, featuring a leash hole and leg straps. It's ideal for keeping your dog dry and comfortable during wet weather walks. 🐾",
       "price_new": 5.6,
       "price_old": 15.99,
       "currency": "USD",
@@ -754,10 +798,10 @@
     {
       "asin": "B09H25VF96",
       "title": "Hasbro Monopoly Junior Bluey Edition Board Game",
-      "title_es": null,
+      "title_es": "Juego de mesa Monopoly Junior Bluey Edition Hasbro",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Disfruta del clásico Monopoly adaptado para los más pequeños con esta divertida edición de Bluey. Es el juego perfecto para introducir a los niños en las finanzas básicas y pasar un rato en familia.",
+      "post_en": "Enjoy the classic Monopoly adapted for the little ones with this fun Bluey edition. It's the perfect game to introduce children to basic finances and spend quality family time.",
       "price_new": 13.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -776,10 +820,10 @@
     {
       "asin": "B0F98W66B7",
       "title": "[Prime] Tiloqua A7 Pro Wireless Earbuds w/ ENC Noise Cancellation & 40Hr Battery (White)",
-      "title_es": null,
+      "title_es": "Auriculares inalámbricos Tiloqua A7 Pro con cancelación de ruido ENC y 40h de batería (Blanco)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Los auriculares inalámbricos Tiloqua A7 Pro ofrecen cancelación de ruido ENC y hasta 40 horas de batería para una experiencia auditiva ininterrumpida. Son ideales para usuarios que buscan calidad de sonido y autonomía en su día a día.",
+      "post_en": "The Tiloqua A7 Pro Wireless Earbuds feature ENC noise cancellation and up to 40 hours of battery for an uninterrupted listening experience. They are ideal for users seeking sound quality and long-lasting autonomy for daily use.",
       "price_new": 7.03,
       "price_old": 15.99,
       "currency": "USD",
@@ -798,10 +842,10 @@
     {
       "asin": "B0GKNRSYHW",
       "title": "Greenworks 24V 20\" Brushless Hedge Trimmer w/ 2.0Ah Battery & Charger (HT2002)",
-      "title_es": null,
+      "title_es": "Cortasetos sin escobillas Greenworks 24V 20\" con batería 2.0Ah y cargador (HT2002)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este cortasetos Greenworks 24V 20\" sin escobillas ofrece potencia y precisión para el cuidado de tu jardín. Incluye batería y cargador, siendo perfecto para jardineros que buscan herramientas eficientes y sin cables.",
+      "post_en": "This Greenworks 24V 20\" Brushless Hedge Trimmer offers power and precision for your garden maintenance. It includes a battery and charger, making it perfect for gardeners seeking efficient, cordless tools.",
       "price_new": 85.0,
       "price_old": 129.99,
       "currency": "USD",
@@ -820,10 +864,10 @@
     {
       "asin": "B0BP8BXZ8M",
       "title": "Nizoral Anti-Dandruff Shampoo 14 Fl Oz",
-      "title_es": null,
+      "title_es": "Champú Anticaspa Nizoral 14 Fl Oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El champú anticaspa Nizoral ayuda a controlar la caspa y aliviar la picazón y descamación del cuero cabelludo. Es una solución eficaz para quienes buscan un tratamiento probado para problemas de caspa.",
+      "post_en": "Nizoral Anti-Dandruff Shampoo helps control dandruff and relieve scalp itching and flaking. It's an effective solution for those seeking a proven treatment for dandruff issues.",
       "price_new": 19.03,
       "price_old": 29.47,
       "currency": "USD",
@@ -842,10 +886,10 @@
     {
       "asin": "B09XF248DN",
       "title": "Sealegend Dryer Vent Cleaner Kit Compatible with Dyson",
-      "title_es": null,
+      "title_es": "Kit de limpieza para conductos de secadora Sealegend compatible con Dyson",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este kit de limpieza Sealegend es perfecto para mantener los conductos de tu secadora libres de pelusas, mejorando su eficiencia y seguridad. Es compatible con aspiradoras Dyson, ideal para hogares que buscan un mantenimiento sencillo.",
+      "post_en": "This Sealegend cleaning kit is perfect for keeping your dryer vents lint-free, improving efficiency and safety. It's compatible with Dyson vacuums, ideal for households seeking easy maintenance.",
       "price_new": 7.64,
       "price_old": 35.0,
       "currency": "USD",
@@ -864,10 +908,10 @@
     {
       "asin": "B08F3FFR1C",
       "title": "HIGHEVER Magnetic Tool Wristband w/ 10 Magnets & 2 Pockets",
-      "title_es": null,
+      "title_es": "Muñequera magnética HIGHEVER para herramientas con 10 imanes y 2 bolsillos",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La muñequera magnética HIGHEVER organiza tus tornillos y herramientas pequeñas gracias a sus 10 imanes y 2 bolsillos. Es ideal para manitas y profesionales que necesitan tener piezas a mano mientras trabajan.",
+      "post_en": "The HIGHEVER Magnetic Tool Wristband organizes your screws and small tools with its 10 magnets and 2 pockets. It's ideal for DIY enthusiasts and professionals who need to keep parts handy while working.",
       "price_new": 4.0,
       "price_old": 11.99,
       "currency": "USD",
@@ -1145,7 +1189,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20393304",
       "published_at": "2026-11-25T20:00:48+00:00",
-      "revalidated_at": "2026-11-25T22:00:56+00:00"
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
     },
     {
       "asin": "B0H9K846WL",
@@ -1167,7 +1211,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20377347",
       "published_at": "2026-11-25T20:00:48+00:00",
-      "revalidated_at": "2026-11-25T22:00:56+00:00"
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
     },
     {
       "asin": "B0D7MSGXS5",
@@ -1519,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20395719",
       "published_at": "2026-11-25T18:01:32+00:00",
-      "revalidated_at": "2026-11-25T22:00:56+00:00"
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
     },
     {
       "asin": "B000WDI7W8",
@@ -2047,7 +2091,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20389386",
       "published_at": "2026-11-25T15:30:58+00:00",
-      "revalidated_at": "2026-11-25T22:00:56+00:00"
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
     },
     {
       "asin": "B0GRJV2MS7",
@@ -2069,7 +2113,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20389062",
       "published_at": "2026-11-25T15:30:58+00:00",
-      "revalidated_at": "2026-11-25T22:00:56+00:00"
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
     },
     {
       "asin": "B0CJR3QCL5",
@@ -2091,7 +2135,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20390049",
       "published_at": "2026-11-25T15:30:58+00:00",
-      "revalidated_at": "2026-11-25T22:00:56+00:00"
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
     },
     {
       "asin": "B0FTZYTM58",
@@ -2113,7 +2157,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20392971",
       "published_at": "2026-11-25T15:30:58+00:00",
-      "revalidated_at": "2026-11-25T22:00:56+00:00"
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
     },
     {
       "asin": "B0DXWZMVFZ",
@@ -2135,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20393991",
       "published_at": "2026-11-25T15:15:48+00:00",
-      "revalidated_at": "2026-11-25T22:00:56+00:00"
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
     },
     {
       "asin": "B0189DXNXA",
@@ -2157,7 +2201,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20394318",
       "published_at": "2026-11-25T15:00:49+00:00",
-      "revalidated_at": "2026-11-25T22:00:56+00:00"
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
     },
     {
       "asin": "B0GHQNL3BR",
@@ -2179,7 +2223,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20394510",
       "published_at": "2026-11-25T15:00:49+00:00",
-      "revalidated_at": "2026-11-25T22:00:56+00:00"
+      "revalidated_at": "2026-11-26T00:15:40+00:00"
     },
     {
       "asin": "B0F6NDF54X",
