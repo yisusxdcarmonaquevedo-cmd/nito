@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-26T08:45:36+00:00",
+  "generated_at": "2026-11-26T09:00:57+00:00",
   "market": "us",
   "count": 119,
   "deals": [
+    {
+      "asin": "B07T27K2KY",
+      "title": "ATG by Wrangler Men's Reinforced Utility Pant, Gray",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 21.99,
+      "price_old": 55.94,
+      "currency": "USD",
+      "discount_pct": 60.7,
+      "rating": 4.5,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/815XaGoY0QL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B07T27K2KY/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20398047",
+      "published_at": "2026-11-26T09:00:57+00:00",
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
+    },
     {
       "asin": "B0DF2KXJT4",
       "title": "[Prime] BUG Women's 15.6\" Laptop Tote Bag (Beige or Silver w/ Coin Purse)",
@@ -36,11 +58,11 @@
       "price_old": 19.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/22588488.thumb",
+      "image": "https://m.media-amazon.com/images/I/81dvya3ve8L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0BCMNH8LV/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20396292",
@@ -58,11 +80,11 @@
       "price_old": 15.98,
       "currency": "USD",
       "discount_pct": 57.8,
-      "rating": null,
+      "rating": 4.9,
       "condition": null,
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/2/9/8/1/5/7/1/1/450x450/22521597.thumb",
+      "image": "https://m.media-amazon.com/images/I/81a-vW5hB5L._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0G8J961MV/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20369544",
@@ -80,11 +102,11 @@
       "price_old": 105.0,
       "currency": "USD",
       "discount_pct": 50.7,
-      "rating": null,
+      "rating": 4.6,
       "condition": "coupon",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/3/2/8/3/7/2/3/1/450x450/22603413.thumb",
+      "image": "https://m.media-amazon.com/images/I/61v7VVDu+cL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FBRW5G1V/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20402208",
@@ -168,11 +190,11 @@
       "price_old": 53.0,
       "currency": "USD",
       "discount_pct": 93.9,
-      "rating": null,
+      "rating": 4.5,
       "condition": "coupon",
       "code": null,
       "category": "Hogar y Cocina",
-      "image": "https://slickdeals.net/attachment/3/0/3/6/3/4/6/450x450/22574871.thumb",
+      "image": "https://m.media-amazon.com/images/I/71iPqk+jVNL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B0F1DRPLFR/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20391219",
@@ -312,28 +334,6 @@
       "revalidated_at": "2026-11-26T07:15:40+00:00"
     },
     {
-      "asin": "B0F4M3BQNF",
-      "title": "Brooks Women's Ghost Max 3 Neutral Running & Walking Shoe Skyway/Coconut/Sand 8 M",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 92.95,
-      "price_old": 159.95,
-      "currency": "USD",
-      "discount_pct": 41.9,
-      "rating": 4.3,
-      "condition": "prime",
-      "code": null,
-      "category": "Deporte y Fitness",
-      "image": "https://m.media-amazon.com/images/I/71ctwqhBSWL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0F4M3BQNF/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20397564",
-      "published_at": "2026-11-26T07:01:04+00:00",
-      "revalidated_at": "2026-11-26T07:01:04+00:00"
-    },
-    {
       "asin": "B0DK7YL4YD",
       "title": "Nerf Pyrostrike Megabow 42\" Toy Bow w/ 2 Arrows",
       "title_es": null,
@@ -353,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20399586",
       "published_at": "2026-11-26T07:01:04+00:00",
-      "revalidated_at": "2026-11-26T07:01:04+00:00"
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
     },
     {
       "asin": "B086ZBW3R9",
@@ -375,7 +375,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20401263",
       "published_at": "2026-11-26T07:01:04+00:00",
-      "revalidated_at": "2026-11-26T07:01:04+00:00"
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
     },
     {
       "asin": "B0DQ77HWRQ",
@@ -683,7 +683,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20399694",
       "published_at": "2026-11-26T05:00:47+00:00",
-      "revalidated_at": "2026-11-26T07:01:04+00:00"
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
     },
     {
       "asin": "B0HJ1MB343",
@@ -1299,7 +1299,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20397405",
       "published_at": "2026-11-26T03:01:04+00:00",
-      "revalidated_at": "2026-11-26T07:01:04+00:00"
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
     },
     {
       "asin": "B0D2RH3NHK",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20398209",
       "published_at": "2026-11-26T03:01:04+00:00",
-      "revalidated_at": "2026-11-26T07:01:04+00:00"
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
     },
     {
       "asin": "B07ZGDHXJG",
@@ -1585,7 +1585,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20396601",
       "published_at": "2026-11-26T00:45:53+00:00",
-      "revalidated_at": "2026-11-26T07:01:04+00:00"
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
     },
     {
       "asin": "B0CYTJY8KP",
@@ -1607,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20399097",
       "published_at": "2026-11-26T00:45:53+00:00",
-      "revalidated_at": "2026-11-26T07:01:04+00:00"
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
     },
     {
       "asin": "B0FFQ8Y2H7",
@@ -1805,7 +1805,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20394858",
       "published_at": "2026-11-25T23:00:56+00:00",
-      "revalidated_at": "2026-11-26T07:01:04+00:00"
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
     },
     {
       "asin": "B0BJ74DJXG",
@@ -1827,7 +1827,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20382357",
       "published_at": "2026-11-25T22:45:53+00:00",
-      "revalidated_at": "2026-11-26T07:01:04+00:00"
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
     },
     {
       "asin": "B0CV5NLPSX",
@@ -1849,7 +1849,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20394906",
       "published_at": "2026-11-25T22:45:53+00:00",
-      "revalidated_at": "2026-11-26T07:01:04+00:00"
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
     },
     {
       "asin": "B0F5TW4RWF",
@@ -1959,7 +1959,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20375790",
       "published_at": "2026-11-25T22:30:55+00:00",
-      "revalidated_at": "2026-11-26T06:45:30+00:00"
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
     },
     {
       "asin": "B0DK9FT66K",
@@ -1981,7 +1981,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20396871",
       "published_at": "2026-11-25T22:16:06+00:00",
-      "revalidated_at": "2026-11-26T06:45:30+00:00"
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
     },
     {
       "asin": "B0GDXTS4HZ",
@@ -2619,7 +2619,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20395188",
       "published_at": "2026-11-25T20:15:47+00:00",
-      "revalidated_at": "2026-11-26T06:45:30+00:00"
+      "revalidated_at": "2026-11-26T09:00:57+00:00"
     }
   ]
 }
