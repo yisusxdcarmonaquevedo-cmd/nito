@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-27T23:30:34+00:00",
+  "generated_at": "2026-11-27T23:45:43+00:00",
   "market": "us",
-  "count": 116,
+  "count": 118,
   "deals": [
+    {
+      "asin": "B0FJZPFHN5",
+      "title": "20-Oz Hydro Flask Coffee Tumbler w/ Flex Sip Lid (Various Colors)",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 19.2,
+      "price_old": 34.95,
+      "currency": "USD",
+      "discount_pct": 45.1,
+      "rating": 4.5,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://m.media-amazon.com/images/I/6182qDBPfRL._AC_SL1500_.jpg",
+      "url": "https://amazon.com/dp/B0FJZPFHN5/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20415531",
+      "published_at": "2026-11-27T23:45:43+00:00",
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
+    },
+    {
+      "asin": "B0GQ6QJGNK",
+      "title": "DEWALT 20V MAX Cordless Drill Driver and Oscillating Multi-Tool Combo Kit with 2 x 2 Ah Batteries and Charger, Blade and Workbag (DCK251D2) for",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 200.0,
+      "price_old": 300.0,
+      "currency": "USD",
+      "discount_pct": 33.3,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/9/2/3/2/7/8/3/450x450/22630188.thumb",
+      "url": "https://amazon.com/dp/B0GQ6QJGNK/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20413536",
+      "published_at": "2026-11-27T23:45:43+00:00",
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
+    },
+    {
+      "asin": "B0FLLKY158",
+      "title": "LG 32G600A-B 32\" 1440p 180Hz VA FreeSync Curved Gaming Monitor",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 179.0,
+      "price_old": 259.99,
+      "currency": "USD",
+      "discount_pct": 31.2,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/1/6/0/1/6/4/7/5/450x450/22641240.thumb",
+      "url": "https://amazon.com/dp/B0FLLKY158/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20417715",
+      "published_at": "2026-11-27T23:45:43+00:00",
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
+    },
     {
       "asin": "B07RW7ZY6Y",
       "title": "11-Piece Rachael Ray Create Delicious Hard-Anodized Nonstick Cookware Set (Induction Compatible, PFAS-Free",
@@ -58,11 +124,11 @@
       "price_old": 60.0,
       "currency": "USD",
       "discount_pct": 77.3,
-      "rating": null,
+      "rating": 4.5,
       "condition": "sns",
       "code": null,
       "category": "Moda y Accesorios",
-      "image": "https://slickdeals.net/attachment/1/7/2/9/6/9/0/450x450/22644444.thumb",
+      "image": "https://m.media-amazon.com/images/I/71Z0kozrDJL._SL1500_.jpg",
       "url": "https://amazon.com/dp/B00UXI3PLU/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20419011",
@@ -265,7 +331,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20418714",
       "published_at": "2026-11-27T22:00:48+00:00",
-      "revalidated_at": "2026-11-27T22:00:48+00:00"
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
     },
     {
       "asin": "B0FKZGQLP4",
@@ -287,7 +353,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20416347",
       "published_at": "2026-11-27T22:00:48+00:00",
-      "revalidated_at": "2026-11-27T22:00:48+00:00"
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
     },
     {
       "asin": "B0BFBL99LF",
@@ -375,7 +441,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20417712",
       "published_at": "2026-11-27T21:46:00+00:00",
-      "revalidated_at": "2026-11-27T21:46:00+00:00"
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
     },
     {
       "asin": "B0GJ18225H",
@@ -771,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20419488",
       "published_at": "2026-11-27T19:45:48+00:00",
-      "revalidated_at": "2026-11-27T21:46:00+00:00"
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
     },
     {
       "asin": "B0GR6M1Q5C",
@@ -1368,28 +1434,6 @@
       "revalidated_at": "2026-11-27T22:22:19+00:00"
     },
     {
-      "asin": "B08FDB4CDM",
-      "title": "OhO sunshine Bluetooth Audio Sunglasses (Black, Blue, Blue Light) from",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 9.11,
-      "price_old": 39.99,
-      "currency": "USD",
-      "discount_pct": 77.2,
-      "rating": 4.1,
-      "condition": null,
-      "code": null,
-      "category": "Tecnología y Gadgets",
-      "image": "https://m.media-amazon.com/images/I/51zNJXGpTOL._AC_SL1200_.jpg",
-      "url": "https://amazon.com/dp/B08FDB4CDM/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20418099",
-      "published_at": "2026-11-27T17:46:13+00:00",
-      "revalidated_at": "2026-11-27T21:46:00+00:00"
-    },
-    {
       "asin": "B0GTYBP73M",
       "title": "IPL Hair Removal Device for Women & Men,Hair Removal with 999,999 Flashes,3 in 1 Function Long-Lasting Results,Painless Home Hair Remover for Face,Armpits,Back,Legs,Arms",
       "title_es": null,
@@ -1409,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20415903",
       "published_at": "2026-11-27T17:46:13+00:00",
-      "revalidated_at": "2026-11-27T21:46:00+00:00"
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
     },
     {
       "asin": "B09QXS9KYS",
@@ -1497,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20418264",
       "published_at": "2026-11-27T17:30:58+00:00",
-      "revalidated_at": "2026-11-27T21:46:00+00:00"
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
     },
     {
       "asin": "B0F1J12R6N",
@@ -1519,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20416857",
       "published_at": "2026-11-27T17:30:58+00:00",
-      "revalidated_at": "2026-11-27T21:46:00+00:00"
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
     },
     {
       "asin": "B09743F8P6",
@@ -1607,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20413884",
       "published_at": "2026-11-27T17:16:00+00:00",
-      "revalidated_at": "2026-11-27T21:46:00+00:00"
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
     },
     {
       "asin": "B0FLSKNGV2",
@@ -1629,7 +1673,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20414073",
       "published_at": "2026-11-27T17:16:00+00:00",
-      "revalidated_at": "2026-11-27T21:46:00+00:00"
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
     },
     {
       "asin": "B0DQTPYH4P",
@@ -2267,7 +2311,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20413143",
       "published_at": "2026-11-27T15:01:02+00:00",
-      "revalidated_at": "2026-11-27T21:46:00+00:00"
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
     },
     {
       "asin": "B0C544LVD8",
@@ -2289,7 +2333,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20412648",
       "published_at": "2026-11-27T15:01:02+00:00",
-      "revalidated_at": "2026-11-27T21:46:00+00:00"
+      "revalidated_at": "2026-11-27T23:45:43+00:00"
     },
     {
       "asin": "B002TSA90M",
