@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-27T18:15:57+00:00",
+  "generated_at": "2026-11-27T18:31:00+00:00",
   "market": "us",
   "count": 120,
   "deals": [
+    {
+      "asin": "B0BSMC4NZC",
+      "title": "McCormick Grill Mates Seasoning (Smash, Maple, Smoky Montreal, Sugar Bourbon) from",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 1.18,
+      "price_old": 35.0,
+      "currency": "USD",
+      "discount_pct": 96.6,
+      "rating": null,
+      "condition": "coupon",
+      "code": null,
+      "category": "Deporte y Fitness",
+      "image": "https://slickdeals.net/attachment/3/5/9/0/8/1/7/9/450x450/22588461.thumb",
+      "url": "https://amazon.com/dp/B0BSMC4NZC/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20396289",
+      "published_at": "2026-11-27T18:31:00+00:00",
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
+    },
+    {
+      "asin": "0241699819",
+      "title": "Bluey: Awesome Advent Calendar Book Bundle (Hardcover) at Amazon",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 12.74,
+      "price_old": 29.99,
+      "currency": "USD",
+      "discount_pct": 57.5,
+      "rating": 4.5,
+      "condition": null,
+      "code": null,
+      "category": "Entretenimiento y Oficina",
+      "image": "https://m.media-amazon.com/images/I/81M-9c6etNL._SL1500_.jpg",
+      "url": "https://amazon.com/dp/0241699819/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20413602",
+      "published_at": "2026-11-27T18:31:00+00:00",
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
+    },
+    {
+      "asin": "B0FY4DRXZ1",
+      "title": "Hudson Baby Girls Cotton Pants and Leggings, Houndstooth Bows, 4T",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 11.3,
+      "price_old": 24.99,
+      "currency": "USD",
+      "discount_pct": 54.8,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/3/4/0/4/3/1/7/8/450x450/22644873.thumb",
+      "url": "https://amazon.com/dp/B0FY4DRXZ1/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20419128",
+      "published_at": "2026-11-27T18:31:00+00:00",
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
+    },
+    {
+      "asin": "B07HCZQKP8",
+      "title": "SHAN ZU 8\" 67-Layer Damascus Chef Knife",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 43.4,
+      "price_old": 85.99,
+      "currency": "USD",
+      "discount_pct": 49.5,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Hogar y Cocina",
+      "image": "https://slickdeals.net/attachment/3/4/0/4/3/1/7/8/450x450/22643940.thumb",
+      "url": "https://amazon.com/dp/B07HCZQKP8/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20418759",
+      "published_at": "2026-11-27T18:31:00+00:00",
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
+    },
+    {
+      "asin": "B0FCLC1RMM",
+      "title": "Anker Nano Laptop Docking Station, 13in1 Dock with Detachable 6in1 USBC Hub | 3 Display USB C Dock (2 HDMI+1 DP), 10 Gbps USBC, 3 USBA, Audio, SD/TF, Ethernet, 100W Max PD",
+      "title_es": null,
+      "headline": null,
+      "post": null,
+      "post_en": null,
+      "price_new": 99.99,
+      "price_old": 149.99,
+      "currency": "USD",
+      "discount_pct": 33.3,
+      "rating": null,
+      "condition": null,
+      "code": null,
+      "category": "Tecnología y Gadgets",
+      "image": "https://slickdeals.net/attachment/7/9/3/8/8/9/1/450x450/22526883.thumb",
+      "url": "https://amazon.com/dp/B0FCLC1RMM/?tag=amazon0b5e30-20",
+      "source": "slickdeals",
+      "deal_key": "sd:20372163",
+      "published_at": "2026-11-27T18:31:00+00:00",
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
+    },
     {
       "asin": "B0HR4NX7GN",
       "title": "Adjustable Starlink Mount for Standard 4/4X/Gen 3/V3",
@@ -837,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20413500",
       "published_at": "2026-11-27T16:15:57+00:00",
-      "revalidated_at": "2026-11-27T16:15:57+00:00"
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
     },
     {
       "asin": "B07F454YF3",
@@ -859,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20416557",
       "published_at": "2026-11-27T16:15:57+00:00",
-      "revalidated_at": "2026-11-27T16:15:57+00:00"
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
     },
     {
       "asin": "B0GTRZYRZ5",
@@ -1409,7 +1519,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20413887",
       "published_at": "2026-11-27T14:15:57+00:00",
-      "revalidated_at": "2026-11-27T16:15:57+00:00"
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
     },
     {
       "asin": "B0D5JHQX55",
@@ -1431,7 +1541,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20414559",
       "published_at": "2026-11-27T14:15:57+00:00",
-      "revalidated_at": "2026-11-27T16:15:57+00:00"
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
     },
     {
       "asin": "B01M0A3BKH",
@@ -1453,7 +1563,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20414964",
       "published_at": "2026-11-27T14:15:57+00:00",
-      "revalidated_at": "2026-11-27T16:15:57+00:00"
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
     },
     {
       "asin": "B0793JTRKG",
@@ -1497,7 +1607,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20415465",
       "published_at": "2026-11-27T14:00:58+00:00",
-      "revalidated_at": "2026-11-27T16:15:57+00:00"
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
     },
     {
       "asin": "B001F0WXX6",
@@ -1519,7 +1629,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20415570",
       "published_at": "2026-11-27T14:00:58+00:00",
-      "revalidated_at": "2026-11-27T16:15:57+00:00"
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
     },
     {
       "asin": "B0F8NT5BB6",
@@ -1541,7 +1651,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20336469",
       "published_at": "2026-11-27T14:00:58+00:00",
-      "revalidated_at": "2026-11-27T16:15:57+00:00"
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
     },
     {
       "asin": "B01GKRH49G",
@@ -2157,7 +2267,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20414508",
       "published_at": "2026-11-27T11:45:42+00:00",
-      "revalidated_at": "2026-11-27T16:01:16+00:00"
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
     },
     {
       "asin": "B0FYRBF9HZ",
@@ -2487,7 +2597,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20413848",
       "published_at": "2026-11-27T09:45:47+00:00",
-      "revalidated_at": "2026-11-27T16:01:16+00:00"
+      "revalidated_at": "2026-11-27T18:31:00+00:00"
     },
     {
       "asin": "B07T9C5CQR",
@@ -2532,116 +2642,6 @@
       "deal_key": "sd:20411559",
       "published_at": "2026-11-27T09:31:04+00:00",
       "revalidated_at": "2026-11-27T18:01:16+00:00"
-    },
-    {
-      "asin": "B0DRW5DBY3",
-      "title": "$19.19 AMAZON LEGO DUPLO Town 3 in 1 Animals on Wheels Building Toy - Learning Play Set for Toddler Boys & Girls, Ages 2+ - Animal Building Blocks for Sensory Skills Practice - Pre",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 19.19,
-      "price_old": 60.0,
-      "currency": "USD",
-      "discount_pct": 68.0,
-      "rating": 4.7,
-      "condition": null,
-      "code": null,
-      "category": "Entretenimiento y Oficina",
-      "image": "https://m.media-amazon.com/images/I/81lb819Q6iL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DRW5DBY3/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20411451",
-      "published_at": "2026-11-27T09:31:04+00:00",
-      "revalidated_at": "2026-11-27T18:01:16+00:00"
-    },
-    {
-      "asin": "B0FQ97YZ8V",
-      "title": "S&S Protein COFFEEHOUSE 30g Protein Shake, Mocha, 12 Pack | Caffeinated Energy Beverage, 160 Calories, 24 Vitamins & Minerals, No Added Sugar, for",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 13.27,
-      "price_old": 35.0,
-      "currency": "USD",
-      "discount_pct": 62.1,
-      "rating": 4.6,
-      "condition": "sns",
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/71hw6Kx-azL._SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0FQ97YZ8V/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20413431",
-      "published_at": "2026-11-27T09:16:21+00:00",
-      "revalidated_at": "2026-11-27T18:01:16+00:00"
-    },
-    {
-      "asin": "B0DRW5SRH5",
-      "title": "548-Piece LEGO Harry Potter Thestral Family Building Set (76458)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 41.99,
-      "price_old": 69.99,
-      "currency": "USD",
-      "discount_pct": 40.0,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/81RPI0rpesL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DRW5SRH5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20413140",
-      "published_at": "2026-11-27T09:16:21+00:00",
-      "revalidated_at": "2026-11-27T18:15:57+00:00"
-    },
-    {
-      "asin": "B01DR90MM6",
-      "title": "DEWALT 20V MAX XR 1/2\" 3-Speed Brushless Cordless Hammer Drill (DCD996B)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 129.0,
-      "price_old": 209.0,
-      "currency": "USD",
-      "discount_pct": 38.3,
-      "rating": 4.3,
-      "condition": null,
-      "code": null,
-      "category": "Hogar y Cocina",
-      "image": "https://m.media-amazon.com/images/I/716BQJbSk8L._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B01DR90MM6/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20413779",
-      "published_at": "2026-11-27T09:16:21+00:00",
-      "revalidated_at": "2026-11-27T18:15:57+00:00"
-    },
-    {
-      "asin": "B0DRW4CXJ5",
-      "title": "LEGO Art Keith Haring Dancing Figures Building Set (31216)",
-      "title_es": null,
-      "headline": null,
-      "post": null,
-      "post_en": null,
-      "price_new": 83.99,
-      "price_old": 119.99,
-      "currency": "USD",
-      "discount_pct": 30.0,
-      "rating": 4.8,
-      "condition": null,
-      "code": null,
-      "category": "Moda y Accesorios",
-      "image": "https://m.media-amazon.com/images/I/81D5-bllgmL._AC_SL1500_.jpg",
-      "url": "https://amazon.com/dp/B0DRW4CXJ5/?tag=amazon0b5e30-20",
-      "source": "slickdeals",
-      "deal_key": "sd:20413464",
-      "published_at": "2026-11-27T09:16:21+00:00",
-      "revalidated_at": "2026-11-27T18:15:57+00:00"
     }
   ]
 }
