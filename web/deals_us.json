@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:31:31+00:00",
+  "generated_at": "2026-11-27T01:46:14+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -58,11 +58,11 @@
       "price_old": 34.99,
       "currency": "USD",
       "discount_pct": 43.0,
-      "rating": null,
+      "rating": 4.4,
       "condition": "prime",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/3/1/5/9/4/1/5/9/450x450/22621014.thumb",
+      "image": "https://m.media-amazon.com/images/I/61jXSzqMctL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0FBW1SPCD/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20409201",
@@ -102,11 +102,11 @@
       "price_old": 35.0,
       "currency": "USD",
       "discount_pct": 87.1,
-      "rating": null,
+      "rating": 4.8,
       "condition": "prime",
       "code": null,
       "category": "Entretenimiento y Oficina",
-      "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/22619793.thumb",
+      "image": "https://m.media-amazon.com/images/I/71IDk5YmM9L._AC_SL1300_.jpg",
       "url": "https://amazon.com/dp/B0DYJYRYL1/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20408766",
@@ -617,7 +617,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20408406",
       "published_at": "2026-11-26T23:45:51+00:00",
-      "revalidated_at": "2026-11-26T23:45:51+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B0FP2Z1TDG",
@@ -639,7 +639,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20408118",
       "published_at": "2026-11-26T23:45:51+00:00",
-      "revalidated_at": "2026-11-26T23:45:51+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B00NEVYVOI",
@@ -727,7 +727,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20408700",
       "published_at": "2026-11-26T23:31:03+00:00",
-      "revalidated_at": "2026-11-26T23:31:03+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B0FT396BK3",
@@ -749,7 +749,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20408601",
       "published_at": "2026-11-26T23:31:03+00:00",
-      "revalidated_at": "2026-11-26T23:31:03+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B0G4XDF98M",
@@ -771,7 +771,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20408139",
       "published_at": "2026-11-26T23:31:03+00:00",
-      "revalidated_at": "2026-11-26T23:31:03+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B00BX0YKX4",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20402121",
       "published_at": "2026-11-26T23:31:03+00:00",
-      "revalidated_at": "2026-11-26T23:31:03+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B0F93J9J4F",
@@ -1321,7 +1321,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20404092",
       "published_at": "2026-11-26T21:45:57+00:00",
-      "revalidated_at": "2026-11-26T23:45:51+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B0H8YTC28C",
@@ -1343,7 +1343,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20408154",
       "published_at": "2026-11-26T21:45:57+00:00",
-      "revalidated_at": "2026-11-26T23:45:51+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B001TDKY8A",
@@ -1365,7 +1365,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20408397",
       "published_at": "2026-11-26T21:45:57+00:00",
-      "revalidated_at": "2026-11-26T23:45:51+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B0BZVJ8LMW",
@@ -1387,7 +1387,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20356713",
       "published_at": "2026-11-26T21:45:57+00:00",
-      "revalidated_at": "2026-11-26T23:45:51+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B0CSQGSG98",
@@ -1409,7 +1409,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20397072",
       "published_at": "2026-11-26T21:45:57+00:00",
-      "revalidated_at": "2026-11-26T23:45:51+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B00KC0LP70",
@@ -1431,7 +1431,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20402718",
       "published_at": "2026-11-26T21:31:02+00:00",
-      "revalidated_at": "2026-11-26T23:31:03+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B0FHMJVHX7",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20408109",
       "published_at": "2026-11-26T21:31:02+00:00",
-      "revalidated_at": "2026-11-26T23:31:03+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B0D92YWGLL",
@@ -1475,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20377941",
       "published_at": "2026-11-26T21:31:02+00:00",
-      "revalidated_at": "2026-11-26T23:31:03+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B0GQF1NG5M",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20408442",
       "published_at": "2026-11-26T21:31:02+00:00",
-      "revalidated_at": "2026-11-26T23:31:03+00:00"
+      "revalidated_at": "2026-11-27T01:46:14+00:00"
     },
     {
       "asin": "B0DLK14FTY",
@@ -2580,10 +2580,10 @@
     {
       "asin": "B0CS9FDHY6",
       "title": "AZDOME M300 WiFi 1296p Dash Cam",
-      "title_es": null,
+      "title_es": "AZDOME M300 WiFi 1296p Cámara de salpicadero",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Esta AZDOME M300 es una cámara de salpicadero compacta que graba en 1296p y cuenta con conectividad WiFi para una fácil gestión desde tu móvil. Ideal para conductores que buscan documentar sus trayectos y aumentar su seguridad en carretera.",
+      "post_en": "The AZDOME M300 is a compact dash cam that records in 1296p and features WiFi connectivity for easy management from your phone. Perfect for drivers looking to document their journeys and enhance road safety.",
       "price_new": 25.0,
       "price_old": 50.0,
       "currency": "USD",
@@ -2602,10 +2602,10 @@
     {
       "asin": "B0C6K1X5FW",
       "title": "Adelante 2 Pack Magnetic Rechargeable Portable Work Lights",
-      "title_es": null,
+      "title_es": "Adelante Pack de 2 Luces de Trabajo Portátiles Magnéticas Recargables",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este pack incluye dos luces de trabajo portátiles y recargables, equipadas con base magnética para una fijación versátil. Son perfectas para mecánicos, entusiastas del bricolaje o cualquiera que necesite iluminación manos libres en espacios reducidos.",
+      "post_en": "This pack includes two portable and rechargeable work lights, equipped with a magnetic base for versatile attachment. They are perfect for mechanics, DIY enthusiasts, or anyone needing hands-free illumination in tight spaces.",
       "price_new": 16.57,
       "price_old": 31.99,
       "currency": "USD",
@@ -2624,10 +2624,10 @@
     {
       "asin": "B000WLEL70",
       "title": "10.5-Oz Campbell's Condensed Cream of Mushroom Soup",
-      "title_es": null,
+      "title_es": "Sopa Condensada de Crema de Champiñones Campbell's de 10.5 Oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La clásica sopa condensada de crema de champiñones Campbell's es un ingrediente versátil para tus recetas favoritas o una base rápida para una comida reconfortante. Perfecta para amantes de la cocina tradicional que buscan practicidad y sabor en sus platos. 🍄",
+      "post_en": "The classic Campbell's Condensed Cream of Mushroom Soup is a versatile ingredient for your favorite recipes or a quick base for a comforting meal. Ideal for home cooks who appreciate convenience and traditional flavor in their dishes. 🍄",
       "price_new": 0.45,
       "price_old": 1.0,
       "currency": "USD",
