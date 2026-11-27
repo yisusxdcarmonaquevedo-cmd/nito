@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:46:32+00:00",
+  "generated_at": "2026-11-27T01:00:49+00:00",
   "market": "us",
   "count": 120,
   "deals": [
@@ -300,11 +300,11 @@
       "price_old": 39.99,
       "currency": "USD",
       "discount_pct": 50.0,
-      "rating": null,
+      "rating": 4.3,
       "condition": "coupon",
       "code": null,
       "category": "Tecnología y Gadgets",
-      "image": "https://slickdeals.net/attachment/6/7/9/8/5/450x450/22621677.thumb",
+      "image": "https://m.media-amazon.com/images/I/711-6HbhCdL._AC_SL1500_.jpg",
       "url": "https://amazon.com/dp/B0HHX8SFVB/?tag=amazon0b5e30-20",
       "source": "slickdeals",
       "deal_key": "sd:20409534",
@@ -793,7 +793,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20407908",
       "published_at": "2026-11-26T23:01:04+00:00",
-      "revalidated_at": "2026-11-26T23:01:04+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B0BPDZ5FXL",
@@ -815,7 +815,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20408802",
       "published_at": "2026-11-26T23:01:04+00:00",
-      "revalidated_at": "2026-11-26T23:01:04+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B0D3F4G839",
@@ -837,7 +837,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20405211",
       "published_at": "2026-11-26T23:01:04+00:00",
-      "revalidated_at": "2026-11-26T23:01:04+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B0FXN45WBY",
@@ -903,7 +903,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20401068",
       "published_at": "2026-11-26T22:45:59+00:00",
-      "revalidated_at": "2026-11-26T22:45:59+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B0H6GX9QQ6",
@@ -925,7 +925,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20408412",
       "published_at": "2026-11-26T22:45:59+00:00",
-      "revalidated_at": "2026-11-26T22:45:59+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B0FLVTGQXT",
@@ -947,7 +947,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20401086",
       "published_at": "2026-11-26T22:45:59+00:00",
-      "revalidated_at": "2026-11-26T22:45:59+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B07HKG44YY",
@@ -969,7 +969,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20400891",
       "published_at": "2026-11-26T22:45:59+00:00",
-      "revalidated_at": "2026-11-26T22:45:59+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B0H3MYKCWL",
@@ -991,7 +991,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20408556",
       "published_at": "2026-11-26T22:45:59+00:00",
-      "revalidated_at": "2026-11-26T22:45:59+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B0GYNY8Y7F",
@@ -1453,7 +1453,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20408151",
       "published_at": "2026-11-26T20:45:52+00:00",
-      "revalidated_at": "2026-11-26T22:45:59+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B0FP4PXXRZ",
@@ -1475,7 +1475,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20349972",
       "published_at": "2026-11-26T20:45:52+00:00",
-      "revalidated_at": "2026-11-26T22:45:59+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B0CN771QHZ",
@@ -1497,7 +1497,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20404416",
       "published_at": "2026-11-26T20:45:52+00:00",
-      "revalidated_at": "2026-11-26T22:45:59+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B0FMYTJ93W",
@@ -1964,10 +1964,10 @@
     {
       "asin": "B0BJ7QQ2TR",
       "title": "1000-Piece RoseArt Back to the Past Ice Cream Truck Day Jigsaw Puzzle",
-      "title_es": null,
+      "title_es": "Puzzle RoseArt Back to the Past Ice Cream Truck Day de 1000 piezas",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este puzzle de 1000 piezas de RoseArt te transporta a un día nostálgico con una furgoneta de helados. Ideal para amantes de los rompecabezas que buscan un reto relajante y una imagen encantadora. 🧩",
+      "post_en": "This 1000-piece RoseArt puzzle transports you to a nostalgic day with an ice cream truck. Perfect for puzzle enthusiasts looking for a relaxing challenge and a charming image. 🧩",
       "price_new": 4.99,
       "price_old": 35.0,
       "currency": "USD",
@@ -1986,10 +1986,10 @@
     {
       "asin": "B01EKUBU5Y",
       "title": "2-Oz TruSkin Brightening Vitamin C Face Serum w/ Hyaluronic Acid",
-      "title_es": null,
+      "title_es": "TruSkin Brightening Vitamin C Face Serum con Ácido Hialurónico, 2 Oz",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este sérum facial TruSkin con Vitamina C y Ácido Hialurónico ayuda a iluminar la piel y mejorar su hidratación. Es perfecto para quienes buscan reducir manchas y conseguir un tono más uniforme. ✨",
+      "post_en": "This TruSkin face serum with Vitamin C and Hyaluronic Acid helps brighten skin and improve hydration. It's perfect for those looking to reduce dark spots and achieve a more even tone. ✨",
       "price_new": 17.38,
       "price_old": 35.0,
       "currency": "USD",
@@ -2008,10 +2008,10 @@
     {
       "asin": "B0F1BZLNQJ",
       "title": "EQQUALBERRY Vitamin Illuminating Serum for Dark Spots & Brightening, 2 Pack 1.01 fl oz",
-      "title_es": null,
+      "title_es": "EQQUALBERRY Vitamin Illuminating Serum para Manchas y Luminosidad, Pack de 2 (1.01 fl oz)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El sérum EQQUALBERRY Vitamin Illuminating, en un pack doble, está formulado para combatir las manchas oscuras y potenciar la luminosidad. Ideal para quienes desean una piel más clara y radiante.",
+      "post_en": "The EQQUALBERRY Vitamin Illuminating Serum, in a 2-pack, is formulated to combat dark spots and boost radiance. Ideal for those seeking clearer, more luminous skin.",
       "price_new": 25.18,
       "price_old": 49.98,
       "currency": "USD",
@@ -2030,10 +2030,10 @@
     {
       "asin": "B0HCZ83LR1",
       "title": "5000mAh Slim Portable Charger w/ Built-In USB-C Cable",
-      "title_es": null,
+      "title_es": "Cargador Portátil Slim de 5000mAh con Cable USB-C Integrado",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este cargador portátil delgado de 5000mAh es perfecto para recargar tus dispositivos en movimiento. Incluye un cable USB-C integrado, lo que lo hace muy conveniente para usuarios de Android y otros gadgets. 🔋",
+      "post_en": "This slim 5000mAh portable charger is perfect for recharging your devices on the go. It includes a built-in USB-C cable, making it very convenient for Android users and other gadgets. 🔋",
       "price_new": 8.49,
       "price_old": 35.0,
       "currency": "USD",
@@ -2052,10 +2052,10 @@
     {
       "asin": "B0FWCGGBXK",
       "title": "[Prime] Tipmile Men's Bifold RFID Blocking Faux Leather Wallet (Black)",
-      "title_es": null,
+      "title_es": "Cartera Bifold Tipmile de Cuero Sintético con Bloqueo RFID para Hombre (Negra)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La cartera Tipmile bifold para hombre ofrece un diseño elegante en cuero sintético negro con protección RFID. Es ideal para mantener tus tarjetas seguras y organizadas con estilo.",
+      "post_en": "The Tipmile men's bifold wallet offers a stylish black faux leather design with RFID blocking protection. It's ideal for keeping your cards secure and organized with style.",
       "price_new": 5.49,
       "price_old": 9.99,
       "currency": "USD",
@@ -2074,10 +2074,10 @@
     {
       "asin": "B08R6GZ2KP",
       "title": "Gourmia Air Fryer - 7 Qt Basket Capacity, 12 Cooking Presets, Black at Amazon",
-      "title_es": null,
+      "title_es": "Freidora de Aire Gourmia de 7 Qt con 12 Ajustes Preestablecidos (Negra)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "La freidora de aire Gourmia de 7 cuartos te permite cocinar tus comidas favoritas de forma más saludable. Cuenta con 12 ajustes preestablecidos para una gran variedad de recetas, perfecta para cualquier cocina. 🍟",
+      "post_en": "The Gourmia 7-quart air fryer allows you to cook your favorite meals in a healthier way. It features 12 cooking presets for a wide variety of recipes, perfect for any kitchen. 🍟",
       "price_new": 44.99,
       "price_old": 79.99,
       "currency": "USD",
@@ -2096,10 +2096,10 @@
     {
       "asin": "B0D5QVHJSL",
       "title": "laapee 5x7\" Magnetic Acrylic Picture Frame w/ Color-Changing LED Wooden Base",
-      "title_es": null,
+      "title_es": "Marco de Fotos Magnético de Acrílico laapee 5x7\" con Base de Madera LED",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Este marco de fotos laapee de acrílico magnético de 5x7\" realza tus recuerdos con una base de madera LED que cambia de color. Es un regalo original o un toque moderno para cualquier espacio. 🖼️",
+      "post_en": "This laapee 5x7\" magnetic acrylic picture frame enhances your memories with a color-changing LED wooden base. It's a unique gift or a modern touch for any space. 🖼️",
       "price_new": 10.7,
       "price_old": 35.0,
       "currency": "USD",
@@ -2113,15 +2113,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20407320",
       "published_at": "2026-11-26T18:46:00+00:00",
-      "revalidated_at": "2026-11-26T22:45:59+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B0000CF35N",
       "title": "AC/DC \"The Razor's Edge\" (Vinyl LP)",
-      "title_es": null,
+      "title_es": "AC/DC \"The Razor's Edge\" (Vinilo LP)",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Redescubre el clásico álbum \"The Razor's Edge\" de AC/DC en formato vinilo LP. Imprescindible para coleccionistas y fans del rock que aprecian la calidad de sonido analógica. 🎸",
+      "post_en": "Rediscover AC/DC's classic album \"The Razor's Edge\" on vinyl LP. A must-have for collectors and rock fans who appreciate analog sound quality. 🎸",
       "price_new": 16.81,
       "price_old": 35.0,
       "currency": "USD",
@@ -2135,15 +2135,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20402172",
       "published_at": "2026-11-26T18:46:00+00:00",
-      "revalidated_at": "2026-11-26T22:45:59+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B0G2RJJRCT",
       "title": "Nike Men's Run Swift 3 Road Running Shoes (Various Sizes)",
-      "title_es": null,
+      "title_es": "Zapatillas de Running Nike Run Swift 3 para Hombre",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "Las zapatillas Nike Run Swift 3 para hombre están diseñadas para ofrecer comodidad y soporte en tus carreras diarias. Son ideales para corredores que buscan un calzado fiable para asfalto. 👟",
+      "post_en": "The Nike Run Swift 3 men's running shoes are designed to offer comfort and support for your daily runs. They are ideal for runners looking for reliable footwear for road running. 👟",
       "price_new": 41.98,
       "price_old": 85.0,
       "currency": "USD",
@@ -2157,15 +2157,15 @@
       "source": "slickdeals",
       "deal_key": "sd:20402940",
       "published_at": "2026-11-26T18:46:00+00:00",
-      "revalidated_at": "2026-11-26T22:45:59+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B01D8MSXIC",
       "title": "Step2 Whisper Ride Cruiser Toy Ride On",
-      "title_es": null,
+      "title_es": "Cochecito de Juguete Step2 Whisper Ride Cruiser",
       "headline": null,
-      "post": null,
-      "post_en": null,
+      "post": "El cochecito de juguete Step2 Whisper Ride Cruiser ofrece un paseo suave y silencioso para los más pequeños. Es perfecto para que los niños disfruten de aventuras al aire libre con seguridad y diversión. 🚗",
+      "post_en": "The Step2 Whisper Ride Cruiser toy ride-on offers a smooth and quiet ride for little ones. It's perfect for children to enjoy outdoor adventures safely and with fun. 🚗",
       "price_new": 58.79,
       "price_old": 99.99,
       "currency": "USD",
@@ -2179,7 +2179,7 @@
       "source": "slickdeals",
       "deal_key": "sd:20368881",
       "published_at": "2026-11-26T18:46:00+00:00",
-      "revalidated_at": "2026-11-26T22:45:59+00:00"
+      "revalidated_at": "2026-11-27T01:00:49+00:00"
     },
     {
       "asin": "B0GWKCF7YT",
